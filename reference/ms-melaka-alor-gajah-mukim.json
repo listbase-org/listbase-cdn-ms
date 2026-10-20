@@ -1,0 +1,532 @@
+{
+  "id": "ms-melaka-alor-gajah-mukim",
+  "name": "Mukim di Daerah Alor Gajah, Melaka",
+  "title": "Mukim di Daerah Alor Gajah, Melaka",
+  "description": "Senarai lengkap 38 mukim di daerah Alor Gajah, negeri Melaka, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 38 mukim (traditional sub-district units) in Alor Gajah District, Melaka, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "040301",
+      "name": "Ayer Pa'Abas",
+      "name_uppercase": "AYER PA'ABAS",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1543,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040302",
+      "name": "Belimbing",
+      "name_uppercase": "BELIMBING",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1544,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040303",
+      "name": "Beringin",
+      "name_uppercase": "BERINGIN",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1545,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040304",
+      "name": "Brisu",
+      "name_uppercase": "BRISU",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1546,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040305",
+      "name": "Durian Tunggal",
+      "name_uppercase": "DURIAN TUNGGAL",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1547,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040306",
+      "name": "Gadek",
+      "name_uppercase": "GADEK",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1548,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040307",
+      "name": "Kelemak",
+      "name_uppercase": "KELEMAK",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1549,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040308",
+      "name": "Kemuning",
+      "name_uppercase": "KEMUNING",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1550,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040309",
+      "name": "Kuala Linggi",
+      "name_uppercase": "KUALA LINGGI",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1551,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040310",
+      "name": "Kuala Sungei Baru",
+      "name_uppercase": "KUALA SUNGEI BARU",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1552,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040311",
+      "name": "Lendu",
+      "name_uppercase": "LENDU",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1553,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040312",
+      "name": "Machap",
+      "name_uppercase": "MACHAP",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1554,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040313",
+      "name": "Masjid Tanah",
+      "name_uppercase": "MASJID TANAH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1555,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040314",
+      "name": "Melaka Pindah",
+      "name_uppercase": "MELAKA PINDAH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1556,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040315",
+      "name": "Melekek",
+      "name_uppercase": "MELEKEK",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1557,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040316",
+      "name": "Padang Sebang",
+      "name_uppercase": "PADANG SEBANG",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1558,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040317",
+      "name": "Parit Melana",
+      "name_uppercase": "PARIT MELANA",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1559,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040318",
+      "name": "Pegoh",
+      "name_uppercase": "PEGOH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1560,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040319",
+      "name": "Pulau Sebang",
+      "name_uppercase": "PULAU SEBANG",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1561,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040320",
+      "name": "Ramuan China Besar",
+      "name_uppercase": "RAMUAN CHINA BESAR",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1562,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040321",
+      "name": "Ramuan China Kechil",
+      "name_uppercase": "RAMUAN CHINA KECHIL",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1563,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040322",
+      "name": "Rembia",
+      "name_uppercase": "REMBIA",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1564,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040323",
+      "name": "Sungei Baru Hilir",
+      "name_uppercase": "SUNGEI BARU HILIR",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1565,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040324",
+      "name": "Sungei Baru Tengah",
+      "name_uppercase": "SUNGEI BARU TENGAH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1566,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040325",
+      "name": "Sungei Baru Ulu",
+      "name_uppercase": "SUNGEI BARU ULU",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1567,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040326",
+      "name": "Sungei Buloh",
+      "name_uppercase": "SUNGEI BULOH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1568,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040327",
+      "name": "Sungei Petai",
+      "name_uppercase": "SUNGEI PETAI",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1569,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040328",
+      "name": "Sungei Siput",
+      "name_uppercase": "SUNGEI SIPUT",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1570,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040329",
+      "name": "Taboh Naning",
+      "name_uppercase": "TABOH NANING",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1571,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040330",
+      "name": "Tanjong Rimau",
+      "name_uppercase": "TANJONG RIMAU",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1572,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040331",
+      "name": "Tebong",
+      "name_uppercase": "TEBONG",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1573,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040340",
+      "name": "Bandar Alor Gajah",
+      "name_uppercase": "BANDAR ALOR GAJAH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1574,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040341",
+      "name": "Bandar Masjid Tanah",
+      "name_uppercase": "BANDAR MASJID TANAH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1575,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040342",
+      "name": "Bandar Pulau Sebang",
+      "name_uppercase": "BANDAR PULAU SEBANG",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1576,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040370",
+      "name": "Pekan Durian Tunggal",
+      "name_uppercase": "PEKAN DURIAN TUNGGAL",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1577,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040371",
+      "name": "Pekan Kuala Sungai Baru",
+      "name_uppercase": "PEKAN KUALA SUNGAI BARU",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1578,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040372",
+      "name": "Pekan Lubok China",
+      "name_uppercase": "PEKAN LUBOK CHINA",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1579,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    },
+    {
+      "id": "040373",
+      "name": "Pekan Rembia",
+      "name_uppercase": "PEKAN REMBIA",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1580,
+      "state_slug": "melaka",
+      "district_slug": "alor-gajah"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Alor Gajah, Melaka - Muat turun percuma",
+    "description": "Senarai lengkap 38 mukim di daerah Alor Gajah, negeri Melaka, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 38 mukim (traditional sub-district units) in Alor Gajah District, Melaka, Malaysia. Mengandungi 38 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Alor Gajah, Melaka | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Alor Gajah, Melaka — 38 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 38 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

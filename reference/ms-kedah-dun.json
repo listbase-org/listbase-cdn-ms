@@ -1,0 +1,344 @@
+{
+  "id": "ms-kedah-dun",
+  "name": "Senarai Dewan Undangan Negeri (DUN) Kedah",
+  "title": "Senarai Dewan Undangan Negeri (DUN) Kedah",
+  "description": "Senarai 36 kerusi Dewan Undangan Negeri (DUN) bagi negeri Kedah berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 36 State Legislative Assembly seats for Kedah; a verbatim per-state subset of the national ms-dun list.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_code",
+      "label": "Parlimen Code",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_name",
+      "label": "Parlimen Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "N01",
+      "name": "Ayer Hangat",
+      "parlimen_code": "P004",
+      "parlimen_name": "Langkawi",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N02",
+      "name": "Kuah",
+      "parlimen_code": "P004",
+      "parlimen_name": "Langkawi",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N03",
+      "name": "Kota Siputeh",
+      "parlimen_code": "P005",
+      "parlimen_name": "Jerlun",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N04",
+      "name": "Ayer Hitam",
+      "parlimen_code": "P005",
+      "parlimen_name": "Jerlun",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N05",
+      "name": "Bukit Kayu Hitam",
+      "parlimen_code": "P006",
+      "parlimen_name": "Kubang Pasu",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N06",
+      "name": "Jitra",
+      "parlimen_code": "P006",
+      "parlimen_name": "Kubang Pasu",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N07",
+      "name": "Kuala Nerang",
+      "parlimen_code": "P007",
+      "parlimen_name": "Padang Terap",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N08",
+      "name": "Pedu",
+      "parlimen_code": "P007",
+      "parlimen_name": "Padang Terap",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N09",
+      "name": "Bukit Lada",
+      "parlimen_code": "P008",
+      "parlimen_name": "Pokok Sena",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N10",
+      "name": "Bukit Pinang",
+      "parlimen_code": "P008",
+      "parlimen_name": "Pokok Sena",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N11",
+      "name": "Derga",
+      "parlimen_code": "P008",
+      "parlimen_name": "Pokok Sena",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N12",
+      "name": "Suka Menanti",
+      "parlimen_code": "P009",
+      "parlimen_name": "Alor Setar",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N13",
+      "name": "Kota Darul Aman",
+      "parlimen_code": "P009",
+      "parlimen_name": "Alor Setar",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N14",
+      "name": "Alor Mengkudu",
+      "parlimen_code": "P009",
+      "parlimen_name": "Alor Setar",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N15",
+      "name": "Anak Bukit",
+      "parlimen_code": "P010",
+      "parlimen_name": "Kuala Kedah",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N16",
+      "name": "Kubang Rotan",
+      "parlimen_code": "P010",
+      "parlimen_name": "Kuala Kedah",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N17",
+      "name": "Pengkalan Kundor",
+      "parlimen_code": "P010",
+      "parlimen_name": "Kuala Kedah",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N18",
+      "name": "Tokai",
+      "parlimen_code": "P011",
+      "parlimen_name": "Pendang",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N19",
+      "name": "Sungai Tiang",
+      "parlimen_code": "P011",
+      "parlimen_name": "Pendang",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N20",
+      "name": "Sungai Limau",
+      "parlimen_code": "P012",
+      "parlimen_name": "Jerai",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N21",
+      "name": "Guar Chempedak",
+      "parlimen_code": "P012",
+      "parlimen_name": "Jerai",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N22",
+      "name": "Gurun",
+      "parlimen_code": "P012",
+      "parlimen_name": "Jerai",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N23",
+      "name": "Belantek",
+      "parlimen_code": "P013",
+      "parlimen_name": "Sik",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N24",
+      "name": "Jeneri",
+      "parlimen_code": "P013",
+      "parlimen_name": "Sik",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N25",
+      "name": "Bukit Selambau",
+      "parlimen_code": "P014",
+      "parlimen_name": "Merbok",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N26",
+      "name": "Tanjong Dawai",
+      "parlimen_code": "P014",
+      "parlimen_name": "Merbok",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N27",
+      "name": "Pantai Merdeka",
+      "parlimen_code": "P015",
+      "parlimen_name": "Sungai Petani",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N28",
+      "name": "Bakar Arang",
+      "parlimen_code": "P015",
+      "parlimen_name": "Sungai Petani",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N29",
+      "name": "Sidam",
+      "parlimen_code": "P015",
+      "parlimen_name": "Sungai Petani",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N30",
+      "name": "Bayu",
+      "parlimen_code": "P016",
+      "parlimen_name": "Baling",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N31",
+      "name": "Kupang",
+      "parlimen_code": "P016",
+      "parlimen_name": "Baling",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N32",
+      "name": "Kuala Ketil",
+      "parlimen_code": "P016",
+      "parlimen_name": "Baling",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N33",
+      "name": "Merbau Pulas",
+      "parlimen_code": "P017",
+      "parlimen_name": "Padang Serai",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N34",
+      "name": "Lunas",
+      "parlimen_code": "P017",
+      "parlimen_name": "Padang Serai",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N35",
+      "name": "Kulim",
+      "parlimen_code": "P018",
+      "parlimen_name": "Kulim-Bandar Baharu",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    },
+    {
+      "code": "N36",
+      "name": "Bandar Baharu",
+      "parlimen_code": "P018",
+      "parlimen_name": "Kulim-Bandar Baharu",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Dewan Undangan Negeri (DUN) Kedah - Muat turun percuma",
+    "description": "Senarai 36 kerusi Dewan Undangan Negeri (DUN) bagi negeri Kedah berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 36 State Legislative Assembly seats for Kedah; a verbatim per-state subset of the national ms-dun list. Mengandungi 36 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Dewan Undangan Negeri (DUN) Kedah | ListBase",
+    "seo_description": "Muat turun Senarai Dewan Undangan Negeri (DUN) Kedah — 36 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 36 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

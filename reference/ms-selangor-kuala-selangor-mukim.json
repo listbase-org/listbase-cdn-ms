@@ -1,0 +1,388 @@
+{
+  "id": "ms-selangor-kuala-selangor-mukim",
+  "name": "Mukim di Daerah Kuala Selangor, Selangor",
+  "title": "Mukim di Daerah Kuala Selangor, Selangor",
+  "description": "Senarai lengkap 26 mukim di daerah Kuala Selangor, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 26 mukim (traditional sub-district units) in Kuala Selangor District, Selangor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "100401",
+      "name": "Api-Api",
+      "name_uppercase": "API-API",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1118,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100405",
+      "name": "Ijok",
+      "name_uppercase": "IJOK",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1119,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100406",
+      "name": "Jeram",
+      "name_uppercase": "JERAM",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1120,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100407",
+      "name": "Kuala Selangor",
+      "name_uppercase": "KUALA SELANGOR",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1121,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100408",
+      "name": "Pasangan",
+      "name_uppercase": "PASANGAN",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1122,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100409",
+      "name": "Tanjong Karang",
+      "name_uppercase": "TANJONG KARANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1123,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100410",
+      "name": "Bestari Jaya",
+      "name_uppercase": "BESTARI JAYA",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1124,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100440",
+      "name": "Bandar Kuala Selangor",
+      "name_uppercase": "BANDAR KUALA SELANGOR",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1125,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100441",
+      "name": "Bandar Tanjong Karang",
+      "name_uppercase": "BANDAR TANJONG KARANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1126,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100470",
+      "name": "Pekan Asam Jawa",
+      "name_uppercase": "PEKAN ASAM JAWA",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1127,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100472",
+      "name": "Pekan Bukit Rotan",
+      "name_uppercase": "PEKAN BUKIT ROTAN",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1128,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100473",
+      "name": "Pekan Jeram",
+      "name_uppercase": "PEKAN JERAM",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1129,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100474",
+      "name": "Pekan Kampong Kuantan",
+      "name_uppercase": "PEKAN KAMPONG KUANTAN",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1130,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100475",
+      "name": "Pekan Kuala Sungai Buloh",
+      "name_uppercase": "PEKAN KUALA SUNGAI BULOH",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1131,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100476",
+      "name": "Pekan Pasir Penampang",
+      "name_uppercase": "PEKAN PASIR PENAMPANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1132,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100477",
+      "name": "Pekan Simpang Tiga",
+      "name_uppercase": "PEKAN SIMPANG TIGA",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1133,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100478",
+      "name": "Pekan Tanjong Karang",
+      "name_uppercase": "PEKAN TANJONG KARANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1134,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100479",
+      "name": "Pekan Bukti Belimbing",
+      "name_uppercase": "PEKAN BUKTI BELIMBING",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1135,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100480",
+      "name": "Pekan Bukit Talang",
+      "name_uppercase": "PEKAN BUKIT TALANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1136,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100481",
+      "name": "Pekan Kambung Baru Hulu Tiram Buruk",
+      "name_uppercase": "PEKAN KAMBUNG BARU HULU TIRAM BURUK",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1137,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100482",
+      "name": "Pekan Parti Mahang",
+      "name_uppercase": "PEKAN PARTI MAHANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1138,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100483",
+      "name": "Pekan Simpang Tiga Ijok",
+      "name_uppercase": "PEKAN SIMPANG TIGA IJOK",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1139,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100484",
+      "name": "Pekan Sungai Sembilang",
+      "name_uppercase": "PEKAN SUNGAI SEMBILANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1140,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100485",
+      "name": "Pekan Taman Pkns",
+      "name_uppercase": "PEKAN TAMAN PKNS",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1141,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100488",
+      "name": "Pekan Tambak Jawa",
+      "name_uppercase": "PEKAN TAMBAK JAWA",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1142,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    },
+    {
+      "id": "100491",
+      "name": "Pekan Bestari Jaya",
+      "name_uppercase": "PEKAN BESTARI JAYA",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1143,
+      "state_slug": "selangor",
+      "district_slug": "kuala-selangor"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Kuala Selangor, Selangor - Muat turun percuma",
+    "description": "Senarai lengkap 26 mukim di daerah Kuala Selangor, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 26 mukim (traditional sub-district units) in Kuala Selangor District, Selangor, Malaysia. Mengandungi 26 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Kuala Selangor, Selangor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Kuala Selangor, Selangor — 26 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 26 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

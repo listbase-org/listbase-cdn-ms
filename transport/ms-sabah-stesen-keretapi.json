@@ -1,0 +1,336 @@
+{
+  "id": "ms-sabah-stesen-keretapi",
+  "name": "Stesen Keretapi di Sabah",
+  "title": "Stesen Keretapi di Sabah",
+  "description": "Senarai stesen keretapi di Sabah, Malaysia — 15 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "country_ms",
+      "label": "Country Ms",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    },
+    {
+      "key": "stesen_minyak_terdekat_km",
+      "label": "Stesen Minyak Terdekat Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q30623349",
+      "name_ms": "Stesen Kereta Api Melalap",
+      "name_en": "Melalap railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.24194444,
+      "longitude": 115.99861111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623349",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 6.9867
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q30623379",
+      "name_ms": "",
+      "name_en": "Tenom railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.12310278,
+      "longitude": 115.94498889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623379",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 0.0567
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q30623459",
+      "name_ms": "",
+      "name_en": "Beaufort railway station, Sabah",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.34386944,
+      "longitude": 115.74464722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623459",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 0.0755
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q30623517",
+      "name_ms": "",
+      "name_en": "Tanjung Aru railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.94691667,
+      "longitude": 116.05863889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623517",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 0.9886
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q30623568",
+      "name_ms": "Stesen kereta api Putatan",
+      "name_en": "Putatan railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.89354722,
+      "longitude": 116.04874444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623568",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 5.7717
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q30623569",
+      "name_ms": "Stesen kereta api Sekretariat",
+      "name_en": "Secretariat railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.95886667,
+      "longitude": 116.06851389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623569",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 0.8269
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q30623573",
+      "name_ms": "Stesen kereta api Kinarut",
+      "name_en": "Kinarut railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.82378889,
+      "longitude": 116.04366944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623573",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 12.6973
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q30623580",
+      "name_ms": "Stesen kereta api Kawang",
+      "name_en": "Kawang railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.77245556,
+      "longitude": 116.018625,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623580",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 19.0303
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q30623581",
+      "name_ms": "Stesen kereta api Kimanis",
+      "name_en": "Kimanis railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.61530556,
+      "longitude": 115.88839167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623581",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 9.7624
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q30623584",
+      "name_ms": "Stesen kereta api Membakut",
+      "name_en": "Membakut railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.47248889,
+      "longitude": 115.79660556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623584",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 0.1394
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q30623585",
+      "name_ms": "Stesen kereta api Bongawan",
+      "name_en": "Bongawan railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.53946111,
+      "longitude": 115.85607778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623585",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 0.6105
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q30623586",
+      "name_ms": "Stesen kereta api Saliwangan",
+      "name_en": "Saliwangan railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.29258889,
+      "longitude": 115.80171111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623586",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 8.5829
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q30623587",
+      "name_ms": "Stesen kereta api Halogiat",
+      "name_en": "Halogilat railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.25497778,
+      "longitude": 115.83079722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623587",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 13.8098
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q30623590",
+      "name_ms": "Stesen kereta api Rayoh",
+      "name_en": "Rayoh railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.20866944,
+      "longitude": 115.88049444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623590",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 11.3761
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q30623595",
+      "name_ms": "Stesen kereta api Pangi",
+      "name_en": "Pangi railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.14001944,
+      "longitude": 115.8662,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30623595",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "stesen_minyak_terdekat_km": 8.647
+    }
+  ],
+  "meta": {
+    "title": "Stesen Keretapi di Sabah - Muat turun percuma",
+    "description": "Senarai stesen keretapi di Sabah, Malaysia — 15 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit. Mengandungi 15 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen Keretapi di Sabah | ListBase",
+    "seo_description": "Muat turun Stesen Keretapi di Sabah — 15 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 15 rekod / 14 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "id": "ms-sarawak-sarikei-mukim",
+  "name": "Mukim di Daerah Sarikei, Sarawak",
+  "title": "Mukim di Daerah Sarikei, Sarawak",
+  "description": "Senarai lengkap 15 mukim di daerah Sarikei, negeri Sarawak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 15 mukim (traditional sub-district units) in Sarikei District, Sarawak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "130607",
+      "name": "Serendang",
+      "name_uppercase": "SERENDANG",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1899,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130610",
+      "name": "Maradong",
+      "name_uppercase": "MARADONG",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1900,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130611",
+      "name": "Tulai",
+      "name_uppercase": "TULAI",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1901,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130612",
+      "name": "Sarikei",
+      "name_uppercase": "SARIKEI",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1902,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130614",
+      "name": "Buan",
+      "name_uppercase": "BUAN",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1903,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130615",
+      "name": "Sare",
+      "name_uppercase": "SARE",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1904,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130616",
+      "name": "Pedanum",
+      "name_uppercase": "PEDANUM",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1905,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130617",
+      "name": "Melurun",
+      "name_uppercase": "MELURUN",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1906,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130618",
+      "name": "Jikang",
+      "name_uppercase": "JIKANG",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1907,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130654",
+      "name": "Bandar Binatang",
+      "name_uppercase": "BANDAR BINATANG",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1908,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130661",
+      "name": "Julau",
+      "name_uppercase": "JULAU",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1909,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130662",
+      "name": "Bandar Pakan",
+      "name_uppercase": "BANDAR PAKAN",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1910,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130674",
+      "name": "Bandar Selalang",
+      "name_uppercase": "BANDAR SELALANG",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1911,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130677",
+      "name": "Gunung Ayer",
+      "name_uppercase": "GUNUNG AYER",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1912,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    },
+    {
+      "id": "130692",
+      "name": "Binatang",
+      "name_uppercase": "BINATANG",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1913,
+      "state_slug": "sarawak",
+      "district_slug": "sarikei"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Sarikei, Sarawak - Muat turun percuma",
+    "description": "Senarai lengkap 15 mukim di daerah Sarikei, negeri Sarawak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 15 mukim (traditional sub-district units) in Sarikei District, Sarawak, Malaysia. Mengandungi 15 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Sarikei, Sarawak | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Sarikei, Sarawak — 15 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 15 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

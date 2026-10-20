@@ -1,0 +1,280 @@
+{
+  "id": "ms-kementerian-sains-dan-teknologi-agensi",
+  "name": "Senarai Agensi KEMENTERIAN SAINS DAN TEKNOLOGI",
+  "title": "Senarai Agensi KEMENTERIAN SAINS DAN TEKNOLOGI",
+  "description": "Senarai 7 agensi kerajaan di bawah KEMENTERIAN SAINS DAN TEKNOLOGI (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 7/7 koordinat, 7/7 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AGENSI ANGKASA MALAYSIA (MYSA)",
+      "parent_body": "KEMENTERIAN SAINS DAN TEKNOLOGI",
+      "parent_body_slug": "kementerian-sains-dan-teknologi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Pada 20 Februari 2019, Jemaah Menteri telah meluluskan penubuhan Agensi Angkasa Malaysia (MYSA) di bawah MESTECC melalui penggabungan Agensi Remote Sensing Malaysia (ARSM) dan Agensi Angkasa Negara (ANGKASA). Inisiatif penubuhan MYSA adalah bagi memastikan pembangunan dan pengurusan sektor angkasa negara yang lebih strategik, teratur dan komprehensif.",
+      "address": "No.13, Jalan Tun Ismail, 50480 Kuala Lumpur",
+      "phone": "603-2697 3400",
+      "fax": "03-2697 3350",
+      "email": "mysa_hq@mysa.gov.my",
+      "contact_person": "Direktorat Strategik dan Perhubungan Awam",
+      "website": "http://www.mysa.gov.my/portal/index.php/ms/",
+      "latitude": "3.1628742",
+      "longitude": "101.6870621",
+      "facebook": "https://web.facebook.com/mysa.angkasa/?_rdc=1&_rdr",
+      "twitter": "https://twitter.com/mysa_angkasa",
+      "instagram": "https://www.instagram.com/mysa_angkasa/",
+      "youtube": "https://www.youtube.com/channel/UCX-STB5jBV9ApJdTwfnpD_g",
+      "unique_code": "PAP-13-04-00",
+      "active": true,
+      "agency_id": 20146
+    },
+    {
+      "name": "AGENSI NUKLEAR MALAYSIA (NUKLEAR MALAYSIA)",
+      "parent_body": "KEMENTERIAN SAINS DAN TEKNOLOGI",
+      "parent_body_slug": "kementerian-sains-dan-teknologi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Bertanggungjawab menjalankan penyelidikan dan pembangunan, khidmat dan latihan dalam bidang teknologi nuklear.",
+      "address": "Bangi, 43000 Kajang, Selangor",
+      "phone": "603-8911 2000",
+      "fax": "03-8911 2153",
+      "email": "ukk@nm.gov.my",
+      "contact_person": "UKK",
+      "website": "https://www.nuclearmalaysia.gov.my/",
+      "latitude": "2.8990525",
+      "longitude": "101.7497488",
+      "facebook": "https://www.facebook.com/puspatiANM/",
+      "twitter": "https://twitter.com/nuklearmalaysia",
+      "instagram": "https://instagram.com/nuklearmalaysia/",
+      "youtube": "https://www.youtube.com/channel/UClyNUSVfh0elnG6jFRz4UbQ",
+      "unique_code": "PAP-24-03-00",
+      "active": true,
+      "agency_id": 20144
+    },
+    {
+      "name": "JABATAN KIMIA MALAYSIA",
+      "parent_body": "KEMENTERIAN SAINS DAN TEKNOLOGI",
+      "parent_body_slug": "kementerian-sains-dan-teknologi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Jabatan Kimia Malaysia merupakan sebuah agensi di bawah Kementerian Tenaga, Sains, Teknologi, Alam Sekitar & Perubahan Iklim (MESTECC) yang terdiri daripada rangkaian makmal di seluruh negara. KIMIA Malaysia menyediakan perkhidmatan kimia analisis dan sains forensik kepada agensi kerajaan. Ia bertujuan untuk menyokong penguatkuasaan undang-undang bersama-sama dengan pelaksanaan program yang berkaitan dengan keselamatan dan kesejahteraan rakyat serta kepentingan negara.Jabatan Kimia Malaysia merupakan sebuah agensi di bawah Kementerian Tenaga, Sains, Teknologi, Alam Sekitar & Perubahan Iklim (MESTECC) yang terdiri daripada rangkaian makmal di seluruh negara. KIMIA Malaysia menyediakan perkhidmatan kimia analisis dan sains forensik kepada agensi kerajaan. Ia bertujuan untuk menyokong penguatkuasaan undang-undang bersama-sama dengan pelaksanaan program yang berkaitan dengan keselamatan dan kesejahteraan rakyat serta kepentingan negara.",
+      "address": "Jalan Sultan, 46661 Petaling Jaya, Selangor",
+      "phone": "603-7985 3000",
+      "fax": "03-7985 3092",
+      "email": "projkm@kimia.gov.my",
+      "contact_person": "PRO",
+      "website": "http://www.kimia.gov.my",
+      "latitude": "3.101567",
+      "longitude": "101.6423186",
+      "facebook": "https://web.facebook.com/KimiaMalaysia/",
+      "twitter": "https://twitter.com/Kimia_Malaysia",
+      "instagram": "https://www.instagram.com/jabatankimiamalaysia/",
+      "youtube": "https://www.youtube.com/channel/UC6ZR6bMnSKekNqHQmJu7ywQ",
+      "unique_code": "PAP-13-05-00",
+      "active": true,
+      "agency_id": 20148
+    },
+    {
+      "name": "KEMENTERIAN SAINS DAN TEKNOLOGI",
+      "parent_body": "KEMENTERIAN SAINS DAN TEKNOLOGI",
+      "parent_body_slug": "kementerian-sains-dan-teknologi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "KEMENTERIAN SAINS DAN TEKNOLOGI",
+      "address": "Aras 1-7, Blok C4 & C5, Kompleks C, Pusat Pentadbiran Kerajaan Persekutuan, 62662, Putrajaya",
+      "phone": "603-8000 8000",
+      "fax": "03-8888 9070",
+      "email": "enquiry@mosti.gov.my",
+      "contact_person": "enquiry",
+      "website": "https://www.mosti.gov.my/web/",
+      "latitude": "2.93588",
+      "longitude": "101.69898",
+      "facebook": "https://web.facebook.com/officialmosti/?_rdc=1&_rdr",
+      "twitter": "https://twitter.com/officialmosti",
+      "instagram": "https://www.instagram.com/officialmosti/",
+      "youtube": "https://www.youtube.com/user/onemosti",
+      "unique_code": "PAP-13-01-00",
+      "active": true,
+      "agency_id": 41532
+    },
+    {
+      "name": "Lembaga Perlesenan Tenaga Atom (LPTA)",
+      "parent_body": "KEMENTERIAN SAINS DAN TEKNOLOGI",
+      "parent_body_slug": "kementerian-sains-dan-teknologi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Badan kawal selia yang cekap dan berkesan untuk keselamatan, sekuriti dan kawalgunaan bagi aktiviti tenaga atom di Malaysia.",
+      "address": "Batu 24, Jalan Dengkil, 43800 Dengkil, Selangor",
+      "phone": "603-8922 5888",
+      "fax": "03-8922 3685",
+      "email": "corporate@aelb.gov.my",
+      "contact_person": "corporate",
+      "website": "http://www.aelb.gov.my",
+      "latitude": "2.8960949",
+      "longitude": "101.751968",
+      "facebook": "https://web.facebook.com/aelb.my?_rdc=1&_rdr",
+      "twitter": "https://twitter.com/myaelb",
+      "instagram": "https://www.instagram.com/aelb_malaysia/",
+      "youtube": "https://www.youtube.com/user/myaelb",
+      "unique_code": "PAP-13-08-00",
+      "active": true,
+      "agency_id": 41310
+    },
+    {
+      "name": "MIMOS Berhad",
+      "parent_body": "KEMENTERIAN SAINS DAN TEKNOLOGI",
+      "parent_body_slug": "kementerian-sains-dan-teknologi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "\" MIMOS is focused on generating technology solutions that enable the Government to deliver better services, and the Industry to achieve continued growth.\"",
+      "address": "MIMOS Berhad Technology Park Malaysia 57000 Kuala Lumpur.",
+      "phone": "603-8995 5000",
+      "fax": "03-8996 2755",
+      "email": "info@mimos.my",
+      "contact_person": "info",
+      "website": "http://www.mimos.my/",
+      "latitude": "3.047044",
+      "longitude": "101.696243",
+      "facebook": "https://www.facebook.com/mimosmalaysia",
+      "twitter": "https://twitter.com/mimosmalaysia",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "SEM-99-42-00",
+      "active": true,
+      "agency_id": 41805
+    },
+    {
+      "name": "Pusat Inovasi dan Kreativiti Global (MaGIC)",
+      "parent_body": "KEMENTERIAN SAINS DAN TEKNOLOGI",
+      "parent_body_slug": "kementerian-sains-dan-teknologi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "MaGIC berperanan untuk memperkasakan ekosistem keusahawanan melalui kerjasama dengan usahawan, korporat, para pelabur, ahli akademik dan kerajaan supaya lebih kolaboratif dan dinamik bagi menyokong pertumbuhan usahawan-usahawan inovatif dan kreatif serta berupaya mengemudi cabaran ekonomi masa hadapan. Untuk maklumat lanjut, layari http://mymagic.my",
+      "address": "Malaysian Global Innovation & Creativity Centre (MaGIC) Block 3730, Persiaran Apec, Cyberjaya, 63000 Cyberjaya, Selangor",
+      "phone": "603-8324 4801",
+      "fax": "",
+      "email": "enquiries@mymagic.my",
+      "contact_person": "MaGIC Frontdesk",
+      "website": "https://mymagic.my/",
+      "latitude": "2.90911",
+      "longitude": "101.6547",
+      "facebook": "https://www.facebook.com/magic.cyberjaya",
+      "twitter": "https://twitter.com/magiccyberjaya",
+      "instagram": "https://www.instagram.com/magic_cyberjaya/",
+      "youtube": "https://www.youtube.com/channel/UCIT_ihmWh5f3MCobvEwWMaA",
+      "unique_code": "SEM-99-25-00",
+      "active": true,
+      "agency_id": 42030
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi KEMENTERIAN SAINS DAN TEKNOLOGI - Muat turun percuma",
+    "description": "Senarai 7 agensi kerajaan di bawah KEMENTERIAN SAINS DAN TEKNOLOGI (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 7/7 koordinat, 7/7 laman web. Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi KEMENTERIAN SAINS DAN TEKNOLOGI | ListBase",
+    "seo_description": "Muat turun Senarai Agensi KEMENTERIAN SAINS DAN TEKNOLOGI — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

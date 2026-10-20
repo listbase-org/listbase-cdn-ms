@@ -1,0 +1,745 @@
+{
+  "id": "ms-muzium",
+  "name": "Muzium di Malaysia (Museums in Malaysia)",
+  "title": "Muzium di Malaysia (Museums in Malaysia)",
+  "description": "Senarai 76 muzium di Malaysia dan Brunei dari OpenStreetMap — nama, bandar, koordinat dan laman web.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Malay Technology Museum",
+      "name_en": "",
+      "city": "Bandar Seri Begawan",
+      "country": "Brunei Darussalam",
+      "latitude": 4.88325,
+      "longitude": 114.969801,
+      "website": ""
+    },
+    {
+      "name": "3D Interactive Museum",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.416435,
+      "longitude": 100.343682,
+      "website": "http://www.madeinpenang.my/v1/"
+    },
+    {
+      "name": "8 Heeren Street Heritage House",
+      "name_en": "",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.194756,
+      "longitude": 102.247536,
+      "website": ""
+    },
+    {
+      "name": "Antique shop",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.41698,
+      "longitude": 100.335884,
+      "website": ""
+    },
+    {
+      "name": "Balai Seni Lukis Pahang",
+      "name_en": "",
+      "city": "Kuantan",
+      "country": "Malaysia",
+      "latitude": 3.79687,
+      "longitude": 103.32151,
+      "website": ""
+    },
+    {
+      "name": "Camera Museum",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.419876,
+      "longitude": 100.335753,
+      "website": "www.thecameramuseumpenang.com"
+    },
+    {
+      "name": "Cheng Ho Cultural House",
+      "name_en": "",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.195351,
+      "longitude": 102.248667,
+      "website": ""
+    },
+    {
+      "name": "Chimney Museum",
+      "name_en": "",
+      "city": "Bandar Labuan",
+      "country": "Malaysia",
+      "latitude": 5.381166,
+      "longitude": 115.248616,
+      "website": ""
+    },
+    {
+      "name": "Chocolate and Coffee Museum",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.421053,
+      "longitude": 100.334021,
+      "website": ""
+    },
+    {
+      "name": "Democratic Government Museum",
+      "name_en": "",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.193031,
+      "longitude": 102.249004,
+      "website": ""
+    },
+    {
+      "name": "Galeri Sate",
+      "name_en": "",
+      "city": "Kampong Baharu Balakong",
+      "country": "Malaysia",
+      "latitude": 2.994596,
+      "longitude": 101.784798,
+      "website": ""
+    },
+    {
+      "name": "Galeria Perdana",
+      "name_en": "Perdana Gallery",
+      "city": "Kuah",
+      "country": "Malaysia",
+      "latitude": 6.402841,
+      "longitude": 99.853948,
+      "website": ""
+    },
+    {
+      "name": "Geological Museum Ipoh",
+      "name_en": "",
+      "city": "Ipoh",
+      "country": "Malaysia",
+      "latitude": 4.596882,
+      "longitude": 101.119497,
+      "website": ""
+    },
+    {
+      "name": "Ghost Museum",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.413808,
+      "longitude": 100.334739,
+      "website": ""
+    },
+    {
+      "name": "Gold Museum",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.419597,
+      "longitude": 100.339819,
+      "website": ""
+    },
+    {
+      "name": "Gopeng Museum",
+      "name_en": "",
+      "city": "Batu Gajah",
+      "country": "Malaysia",
+      "latitude": 4.473601,
+      "longitude": 101.16677,
+      "website": ""
+    },
+    {
+      "name": "Gopeng Museum - Heritage House",
+      "name_en": "",
+      "city": "Batu Gajah",
+      "country": "Malaysia",
+      "latitude": 4.474103,
+      "longitude": 101.167596,
+      "website": ""
+    },
+    {
+      "name": "Governor's Museum",
+      "name_en": "",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.193084,
+      "longitude": 102.249846,
+      "website": ""
+    },
+    {
+      "name": "Hakka Culture Museum",
+      "name_en": "",
+      "city": "Chaah",
+      "country": "Malaysia",
+      "latitude": 2.295759,
+      "longitude": 103.130459,
+      "website": ""
+    },
+    {
+      "name": "House of bees",
+      "name_en": "",
+      "city": "Raub",
+      "country": "Malaysia",
+      "latitude": 3.676276,
+      "longitude": 101.866903,
+      "website": "http://melipoly.com"
+    },
+    {
+      "name": "Istana Kenangan",
+      "name_en": "",
+      "city": "Kuala Kangsar",
+      "country": "Malaysia",
+      "latitude": 4.76026,
+      "longitude": 100.955516,
+      "website": ""
+    },
+    {
+      "name": "Johor Lama Museum",
+      "name_en": "",
+      "city": "Kampung Pasir Gudang Baru",
+      "country": "Malaysia",
+      "latitude": 1.580478,
+      "longitude": 104.017499,
+      "website": ""
+    },
+    {
+      "name": "Kompleks Seni Islam Antarabangsa Selangor",
+      "name_en": "",
+      "city": "Shah Alam",
+      "country": "Malaysia",
+      "latitude": 3.080844,
+      "longitude": 101.522767,
+      "website": ""
+    },
+    {
+      "name": "Labuan Marine Museum",
+      "name_en": "",
+      "city": "Victoria",
+      "country": "Malaysia",
+      "latitude": 5.274235,
+      "longitude": 115.254933,
+      "website": ""
+    },
+    {
+      "name": "Laman Padi (rice museum) Langkawi",
+      "name_en": "Rice and Garden Museum",
+      "city": "Kuah",
+      "country": "Malaysia",
+      "latitude": 6.298583,
+      "longitude": 99.722387,
+      "website": ""
+    },
+    {
+      "name": "Lau King Howe Hospital Museum",
+      "name_en": "",
+      "city": "Sibu",
+      "country": "Malaysia",
+      "latitude": 2.291175,
+      "longitude": 111.821972,
+      "website": ""
+    },
+    {
+      "name": "Lenggong Museum",
+      "name_en": "",
+      "city": "Kuala Kangsar",
+      "country": "Malaysia",
+      "latitude": 5.054691,
+      "longitude": 100.973605,
+      "website": ""
+    },
+    {
+      "name": "Majelis Adat Budaya Melayu",
+      "name_en": "",
+      "city": "Kapit",
+      "country": "Malaysia",
+      "latitude": 0.846169,
+      "longitude": 112.925809,
+      "website": ""
+    },
+    {
+      "name": "Malaqa House",
+      "name_en": "",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.195888,
+      "longitude": 102.245971,
+      "website": ""
+    },
+    {
+      "name": "Memorial Park Exhibition Pavillon",
+      "name_en": "",
+      "city": "Taman Rajawali",
+      "country": "Malaysia",
+      "latitude": 5.888684,
+      "longitude": 118.047258,
+      "website": ""
+    },
+    {
+      "name": "Memorial Tunku Abdul Rahman PUTRA",
+      "name_en": "",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "latitude": 3.156665,
+      "longitude": 101.690486,
+      "website": "http://www.arkib.gov.my"
+    },
+    {
+      "name": "Museum for Batik Paintings",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.41474,
+      "longitude": 100.337752,
+      "website": ""
+    },
+    {
+      "name": "museum seremban",
+      "name_en": "Lembaga Muzium Negeri Sembilan",
+      "city": "Seremban",
+      "country": "Malaysia",
+      "latitude": 2.717434,
+      "longitude": 101.920116,
+      "website": "http://Imns.ns.gov.my"
+    },
+    {
+      "name": "Muzeum",
+      "name_en": "",
+      "city": "Kota Tinggi",
+      "country": "Malaysia",
+      "latitude": 1.737966,
+      "longitude": 103.912491,
+      "website": ""
+    },
+    {
+      "name": "Muzim Polis Diraja Malaysia",
+      "name_en": "Royal Malaysia Police Museum",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "latitude": 3.140939,
+      "longitude": 101.688914,
+      "website": ""
+    },
+    {
+      "name": "Muzium Agop Batu Tulug.",
+      "name_en": "",
+      "city": "Sandakan",
+      "country": "Malaysia",
+      "latitude": 5.415701,
+      "longitude": 117.942409,
+      "website": ""
+    },
+    {
+      "name": "Muzium Darul Ridzuan",
+      "name_en": "",
+      "city": "Ipoh",
+      "country": "Malaysia",
+      "latitude": 4.604526,
+      "longitude": 101.078041,
+      "website": ""
+    },
+    {
+      "name": "Muzium Dunia Melayu Dunia Islam",
+      "name_en": "Malay and Islamic World Museum",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.191651,
+      "longitude": 102.249839,
+      "website": ""
+    },
+    {
+      "name": "Muzium Istana Kesultanan Melayu Melaka",
+      "name_en": "Melaka Sultanate Palace Museum",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.192697,
+      "longitude": 102.250503,
+      "website": ""
+    },
+    {
+      "name": "Muzium Kecantikan",
+      "name_en": "Museum of Enduring Beauty",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.191648,
+      "longitude": 102.249167,
+      "website": ""
+    },
+    {
+      "name": "Muzium Kucing",
+      "name_en": "",
+      "city": "Kuching",
+      "country": "Malaysia",
+      "latitude": 1.586684,
+      "longitude": 110.334028,
+      "website": ""
+    },
+    {
+      "name": "Muzium Layang-layang",
+      "name_en": "Kites' Museum",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.191691,
+      "longitude": 102.249081,
+      "website": ""
+    },
+    {
+      "name": "Muzium Negeri Terengganu",
+      "name_en": "",
+      "city": "Kuala Terengganu",
+      "country": "Malaysia",
+      "latitude": 5.319094,
+      "longitude": 103.103113,
+      "website": ""
+    },
+    {
+      "name": "Muzium Orang Asli",
+      "name_en": "",
+      "city": "Kampung Bukit Tinggi",
+      "country": "Malaysia",
+      "latitude": 3.294248,
+      "longitude": 101.732077,
+      "website": ""
+    },
+    {
+      "name": "Muzium Penjara Malaysia",
+      "name_en": "",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.188445,
+      "longitude": 102.262787,
+      "website": ""
+    },
+    {
+      "name": "Muzium perhutanan",
+      "name_en": "",
+      "city": "Gurun",
+      "country": "Malaysia",
+      "latitude": 5.805525,
+      "longitude": 100.435119,
+      "website": ""
+    },
+    {
+      "name": "Muzium Petaling Jaya",
+      "name_en": "",
+      "city": "Petaling Jaya",
+      "country": "Malaysia",
+      "latitude": 3.105325,
+      "longitude": 101.65036,
+      "website": ""
+    },
+    {
+      "name": "Muzium Samudera",
+      "name_en": "Maritime Museum",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.191996,
+      "longitude": 102.246569,
+      "website": ""
+    },
+    {
+      "name": "Muzium Sejarah Daerah Kuala Selangor",
+      "name_en": "Historical Museum of Kula Selangor",
+      "city": "Kuala Selangor",
+      "country": "Malaysia",
+      "latitude": 3.34174,
+      "longitude": 101.245397,
+      "website": "https://www.facebook.com/pages/Muzium-Sejarah-Daerah-Kuala-Selangor/334508276564563?ref=profile"
+    },
+    {
+      "name": "Muzium Setem Melaka",
+      "name_en": "Melaka Stamp Museum",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.191545,
+      "longitude": 102.249466,
+      "website": ""
+    },
+    {
+      "name": "Muzium Tekstil Negara, National Textile Museum",
+      "name_en": "",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "latitude": 3.147042,
+      "longitude": 101.694076,
+      "website": "http://www.muziumtekstilnegara.gov.my"
+    },
+    {
+      "name": "Muzium TLDM",
+      "name_en": "",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.191468,
+      "longitude": 102.246625,
+      "website": ""
+    },
+    {
+      "name": "Muzium UiTM & Galeri Seni",
+      "name_en": "UiTM Museum & Art Gallery",
+      "city": "Shah Alam",
+      "country": "Malaysia",
+      "latitude": 3.065864,
+      "longitude": 101.505925,
+      "website": ""
+    },
+    {
+      "name": "Muzium Warisan Baba Dan Nyonya",
+      "name_en": "Baba and Nyonya House",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.195334,
+      "longitude": 102.246725,
+      "website": "http://babanyonyamuseum.com"
+    },
+    {
+      "name": "Penang 3D Trick Art Museum",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.419836,
+      "longitude": 100.341687,
+      "website": ""
+    },
+    {
+      "name": "Penang Heritage Gallery",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.42196,
+      "longitude": 100.331186,
+      "website": ""
+    },
+    {
+      "name": "Penang Toy Museum",
+      "name_en": "",
+      "city": "Tanjung Tokong",
+      "country": "Malaysia",
+      "latitude": 5.45692,
+      "longitude": 100.215517,
+      "website": ""
+    },
+    {
+      "name": "Penang War Museum",
+      "name_en": "",
+      "city": "Kampung Sungai Ara",
+      "country": "Malaysia",
+      "latitude": 5.281291,
+      "longitude": 100.288685,
+      "website": ""
+    },
+    {
+      "name": "Pusat Kokurikulum Kuala Lumpur",
+      "name_en": "",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "latitude": 3.174635,
+      "longitude": 101.705208,
+      "website": ""
+    },
+    {
+      "name": "Royal Malaysian Customs Museum",
+      "name_en": "",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.192422,
+      "longitude": 102.246897,
+      "website": ""
+    },
+    {
+      "name": "Sabah State Museum & Heritage Village",
+      "name_en": "",
+      "city": "Kota Kinabalu",
+      "country": "Malaysia",
+      "latitude": 5.960551,
+      "longitude": 116.071455,
+      "website": ""
+    },
+    {
+      "name": "Skyrex",
+      "name_en": "",
+      "city": "Kuah",
+      "country": "Malaysia",
+      "latitude": 6.372505,
+      "longitude": 99.672002,
+      "website": ""
+    },
+    {
+      "name": "Sultan Azlan Shah Gallery",
+      "name_en": "",
+      "city": "Kuala Kangsar",
+      "country": "Malaysia",
+      "latitude": 4.765969,
+      "longitude": 100.948241,
+      "website": ""
+    },
+    {
+      "name": "Sungai Lembing Museum",
+      "name_en": "",
+      "city": "Kuantan",
+      "country": "Malaysia",
+      "latitude": 3.913675,
+      "longitude": 103.032431,
+      "website": ""
+    },
+    {
+      "name": "Teochew Puppet and Opera",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.415726,
+      "longitude": 100.336125,
+      "website": ""
+    },
+    {
+      "name": "The Blue Mansion",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.421449,
+      "longitude": 100.334711,
+      "website": ""
+    },
+    {
+      "name": "The Heritage Museum",
+      "name_en": "",
+      "city": "Kuala Lipis",
+      "country": "Malaysia",
+      "latitude": 4.183943,
+      "longitude": 102.05027,
+      "website": ""
+    },
+    {
+      "name": "The Owl Museum",
+      "name_en": "",
+      "city": "Tanjung Tokong",
+      "country": "Malaysia",
+      "latitude": 5.424577,
+      "longitude": 100.268877,
+      "website": "http://theowlmuseum.com/"
+    },
+    {
+      "name": "Time Tunnel",
+      "name_en": "",
+      "city": "Tanah Rata",
+      "country": "Malaysia",
+      "latitude": 4.497166,
+      "longitude": 101.39533,
+      "website": ""
+    },
+    {
+      "name": "Time Tunnel Museum",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.422335,
+      "longitude": 100.339659,
+      "website": ""
+    },
+    {
+      "name": "Tokoh Pahang Museum",
+      "name_en": "",
+      "city": "Kuantan",
+      "country": "Malaysia",
+      "latitude": 3.807369,
+      "longitude": 103.325889,
+      "website": ""
+    },
+    {
+      "name": "Traditional House",
+      "name_en": "",
+      "city": "Kuang",
+      "country": "Malaysia",
+      "latitude": 3.235986,
+      "longitude": 101.628538,
+      "website": ""
+    },
+    {
+      "name": "Upside Down Museum",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.415741,
+      "longitude": 100.333532,
+      "website": ""
+    },
+    {
+      "name": "Villa sentosa",
+      "name_en": "",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.20278,
+      "longitude": 102.251545,
+      "website": ""
+    },
+    {
+      "name": "villa sentosa   the malay living muséum",
+      "name_en": "",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "latitude": 2.202902,
+      "longitude": 102.251425,
+      "website": ""
+    },
+    {
+      "name": "WonderFood",
+      "name_en": "",
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.416384,
+      "longitude": 100.341127,
+      "website": "http://fb.com/wonderfoodmuseum"
+    }
+  ],
+  "meta": {
+    "title": "Muzium di Malaysia (Museums in Malaysia) - Muat turun percuma",
+    "description": "Senarai 76 muzium di Malaysia dan Brunei dari OpenStreetMap — nama, bandar, koordinat dan laman web. Mengandungi 76 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Muzium di Malaysia (Museums in Malaysia) | ListBase",
+    "seo_description": "Muat turun Muzium di Malaysia (Museums in Malaysia) — 76 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 76 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

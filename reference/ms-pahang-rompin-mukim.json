@@ -1,0 +1,268 @@
+{
+  "id": "ms-pahang-rompin-mukim",
+  "name": "Mukim di Daerah Rompin, Pahang",
+  "title": "Mukim di Daerah Rompin, Pahang",
+  "description": "Senarai lengkap 16 mukim di daerah Rompin, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 16 mukim (traditional sub-district units) in Rompin District, Pahang, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "060901",
+      "name": "Endau",
+      "name_uppercase": "ENDAU",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1048,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060902",
+      "name": "Keratong",
+      "name_uppercase": "KERATONG",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1049,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060903",
+      "name": "Pontian",
+      "name_uppercase": "PONTIAN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1050,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060904",
+      "name": "Rompin",
+      "name_uppercase": "ROMPIN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1051,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060905",
+      "name": "Tioman",
+      "name_uppercase": "TIOMAN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1052,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060941",
+      "name": "Bandar Rompin I",
+      "name_uppercase": "BANDAR ROMPIN I",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1053,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060942",
+      "name": "Bandar Rompin Ii",
+      "name_uppercase": "BANDAR ROMPIN II",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1054,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060943",
+      "name": "Bandar Rompin Iii",
+      "name_uppercase": "BANDAR ROMPIN III",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1055,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060944",
+      "name": "Bandar Rompin Iv",
+      "name_uppercase": "BANDAR ROMPIN IV",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1056,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060945",
+      "name": "Bandar Pontian",
+      "name_uppercase": "BANDAR PONTIAN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1057,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060946",
+      "name": "Bandar Endau",
+      "name_uppercase": "BANDAR ENDAU",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1058,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060947",
+      "name": "Bandar Muadzam Shah I",
+      "name_uppercase": "BANDAR MUADZAM SHAH I",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1059,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060948",
+      "name": "Bandar Muadzam Shah Ii",
+      "name_uppercase": "BANDAR MUADZAM SHAH II",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1060,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060949",
+      "name": "Bandar Tioman",
+      "name_uppercase": "BANDAR TIOMAN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1061,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060970",
+      "name": "Pekan Kuala Rompin",
+      "name_uppercase": "PEKAN KUALA ROMPIN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1062,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    },
+    {
+      "id": "060971",
+      "name": "Pekan Tioman",
+      "name_uppercase": "PEKAN TIOMAN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1063,
+      "state_slug": "pahang",
+      "district_slug": "rompin"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Rompin, Pahang - Muat turun percuma",
+    "description": "Senarai lengkap 16 mukim di daerah Rompin, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 16 mukim (traditional sub-district units) in Rompin District, Pahang, Malaysia. Mengandungi 16 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Rompin, Pahang | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Rompin, Pahang — 16 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 16 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

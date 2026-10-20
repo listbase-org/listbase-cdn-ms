@@ -1,0 +1,226 @@
+{
+  "id": "ms-sabah-parlimen",
+  "name": "Senarai Parlimen Sabah",
+  "title": "Senarai Parlimen Sabah",
+  "description": "Senarai kerusi Parlimen di Sabah berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P167",
+      "name": "Kudat",
+      "negeri": "Sabah",
+      "dun_count": 4,
+      "dun": "N01: Banggi, N02: Bengkoka, N03: Pitas, N04: Tanjong Kapor"
+    },
+    {
+      "code": "P168",
+      "name": "Kota Marudu",
+      "negeri": "Sabah",
+      "dun_count": 3,
+      "dun": "N05: Matunggong, N06: Bandau, N07: Tandek"
+    },
+    {
+      "code": "P169",
+      "name": "Kota Belud",
+      "negeri": "Sabah",
+      "dun_count": 4,
+      "dun": "N08: Pintasan, N09: Tempasuk, N10: Usukan, N11: Kadamaian"
+    },
+    {
+      "code": "P170",
+      "name": "Tuaran",
+      "negeri": "Sabah",
+      "dun_count": 4,
+      "dun": "N12: Sulaman, N13: Pantai Dalit, N14: Tamparuli, N15: Kiulu"
+    },
+    {
+      "code": "P171",
+      "name": "Sepanggar",
+      "negeri": "Sabah",
+      "dun_count": 3,
+      "dun": "N16: Karambunai, N17: Darau, N18: Inanam"
+    },
+    {
+      "code": "P172",
+      "name": "Kota Kinabalu",
+      "negeri": "Sabah",
+      "dun_count": 3,
+      "dun": "N19: Likas, N20: Api-Api, N21: Luyang"
+    },
+    {
+      "code": "P173",
+      "name": "Putatan",
+      "negeri": "Sabah",
+      "dun_count": 3,
+      "dun": "N22: Tanjung Aru, N23: Petagas, N24: Tanjung Keramat"
+    },
+    {
+      "code": "P174",
+      "name": "Penampang",
+      "negeri": "Sabah",
+      "dun_count": 2,
+      "dun": "N25: Kapayan, N26: Moyog"
+    },
+    {
+      "code": "P175",
+      "name": "Papar",
+      "negeri": "Sabah",
+      "dun_count": 3,
+      "dun": "N27: Limbahau, N28: Kawang, N29: Pantai Manis"
+    },
+    {
+      "code": "P176",
+      "name": "Kimanis",
+      "negeri": "Sabah",
+      "dun_count": 2,
+      "dun": "N30: Bongawan, N31: Membakut"
+    },
+    {
+      "code": "P177",
+      "name": "Beaufort",
+      "negeri": "Sabah",
+      "dun_count": 2,
+      "dun": "N32: Klias, N33: Kuala Penyu"
+    },
+    {
+      "code": "P178",
+      "name": "Sipitang",
+      "negeri": "Sabah",
+      "dun_count": 2,
+      "dun": "N34: Lumadan, N35: Sindumin"
+    },
+    {
+      "code": "P179",
+      "name": "Ranau",
+      "negeri": "Sabah",
+      "dun_count": 3,
+      "dun": "N36: Kundasang, N37: Karanaan, N38: Paginatan"
+    },
+    {
+      "code": "P180",
+      "name": "Keningau",
+      "negeri": "Sabah",
+      "dun_count": 3,
+      "dun": "N39: Tambunan, N40: Bingkor, N41: Liawan"
+    },
+    {
+      "code": "P181",
+      "name": "Tenom",
+      "negeri": "Sabah",
+      "dun_count": 2,
+      "dun": "N42: Melalap, N43: Kemabong"
+    },
+    {
+      "code": "P182",
+      "name": "Pensiangan",
+      "negeri": "Sabah",
+      "dun_count": 3,
+      "dun": "N44: Tulid, N45: Sook, N46: Nabawan"
+    },
+    {
+      "code": "P183",
+      "name": "Beluran",
+      "negeri": "Sabah",
+      "dun_count": 3,
+      "dun": "N47: Telupid, N48: Sugut, N49: Labuk"
+    },
+    {
+      "code": "P184",
+      "name": "Libaran",
+      "negeri": "Sabah",
+      "dun_count": 3,
+      "dun": "N50: Gum-Gum, N51: Sungai Manila, N52: Sungai Sibuga"
+    },
+    {
+      "code": "P185",
+      "name": "Batu Sapi",
+      "negeri": "Sabah",
+      "dun_count": 2,
+      "dun": "N53: Sekong, N54: Karamunting"
+    },
+    {
+      "code": "P186",
+      "name": "Sandakan",
+      "negeri": "Sabah",
+      "dun_count": 2,
+      "dun": "N55: Elopura, N56: Tanjong Papat"
+    },
+    {
+      "code": "P187",
+      "name": "Kinabatangan",
+      "negeri": "Sabah",
+      "dun_count": 3,
+      "dun": "N57: Kuamut, N58: Lamag, N59: Sukau"
+    },
+    {
+      "code": "P188",
+      "name": "Lahad Datu",
+      "negeri": "Sabah",
+      "dun_count": 4,
+      "dun": "N60: Tungku, N61: Segama, N62: Silam, N63: Kunak"
+    },
+    {
+      "code": "P189",
+      "name": "Semporna",
+      "negeri": "Sabah",
+      "dun_count": 3,
+      "dun": "N64: Sulabayan, N65: Senallang, N66: Bugaya"
+    },
+    {
+      "code": "P190",
+      "name": "Tawau",
+      "negeri": "Sabah",
+      "dun_count": 3,
+      "dun": "N67: Balung, N68: Apas, N69: Sri Tanjong"
+    },
+    {
+      "code": "P191",
+      "name": "Kalabakan",
+      "negeri": "Sabah",
+      "dun_count": 4,
+      "dun": "N70: Kukusan, N71: Tanjong Batu, N72: Merotai, N73: Sebatik"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen Sabah - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di Sabah berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested. Mengandungi 25 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen Sabah | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen Sabah — 25 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 25 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

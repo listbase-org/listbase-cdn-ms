@@ -1,0 +1,280 @@
+{
+  "id": "ms-johor-muar-mukim",
+  "name": "Mukim di Daerah Muar, Johor",
+  "title": "Mukim di Daerah Muar, Johor",
+  "description": "Senarai lengkap 17 mukim di daerah Muar, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 17 mukim (traditional sub-district units) in Muar District, Johor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "010501",
+      "name": "Ayer Hitam",
+      "name_uppercase": "AYER HITAM",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1647,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010602",
+      "name": "Bandar",
+      "name_uppercase": "BANDAR",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1648,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010603",
+      "name": "Bukit Kepong",
+      "name_uppercase": "BUKIT KEPONG",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1649,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010606",
+      "name": "Jalan Bakri",
+      "name_uppercase": "JALAN BAKRI",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1650,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010607",
+      "name": "Jorak",
+      "name_uppercase": "JORAK",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1651,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010610",
+      "name": "Lenga",
+      "name_uppercase": "LENGA",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1652,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010611",
+      "name": "Parit Bakar",
+      "name_uppercase": "PARIT BAKAR",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1653,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010612",
+      "name": "Parit Jawa",
+      "name_uppercase": "PARIT JAWA",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1654,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010614",
+      "name": "Sri Meranti",
+      "name_uppercase": "SRI MERANTI",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1655,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010615",
+      "name": "Sungai Balang",
+      "name_uppercase": "SUNGAI BALANG",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1656,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010616",
+      "name": "Sungai Raya & Kampung Bukit Pasir",
+      "name_uppercase": "SUNGAI RAYA & KAMPUNG BUKIT PASIR",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1657,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010617",
+      "name": "Sungai Terap",
+      "name_uppercase": "SUNGAI TERAP",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1658,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010640",
+      "name": "Bandar Bandar Maharani",
+      "name_uppercase": "BANDAR BANDAR MAHARANI",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1659,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010641",
+      "name": "Bandar Bukit Kepong",
+      "name_uppercase": "BANDAR BUKIT KEPONG",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1660,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010642",
+      "name": "Bandar Panchor",
+      "name_uppercase": "BANDAR PANCHOR",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1661,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010643",
+      "name": "Bandar Parit Jawa",
+      "name_uppercase": "BANDAR PARIT JAWA",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1662,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    },
+    {
+      "id": "010670",
+      "name": "Pekan Bukit Pasir",
+      "name_uppercase": "PEKAN BUKIT PASIR",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1663,
+      "state_slug": "johor",
+      "district_slug": "muar"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Muar, Johor - Muat turun percuma",
+    "description": "Senarai lengkap 17 mukim di daerah Muar, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 17 mukim (traditional sub-district units) in Muar District, Johor, Malaysia. Mengandungi 17 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Muar, Johor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Muar, Johor — 17 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 17 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

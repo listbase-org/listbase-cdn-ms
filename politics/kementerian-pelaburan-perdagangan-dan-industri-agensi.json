@@ -1,0 +1,368 @@
+{
+  "id": "kementerian-pelaburan-perdagangan-dan-industri-agensi",
+  "name": "Senarai Agensi Kementerian Pelaburan, Perdagangan dan Industri",
+  "title": "Senarai Agensi Kementerian Pelaburan, Perdagangan dan Industri",
+  "description": "Senarai 11 agensi kerajaan di bawah Kementerian Pelaburan, Perdagangan dan Industri (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 11/11 koordinat, 11/11 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Export-Import Bank of Malaysia Berhad (EXIM Bank)",
+      "parent_body": "Kementerian Pelaburan, Perdagangan dan Industri",
+      "parent_body_slug": "kementerian-pelaburan-perdagangan-dan-industri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Menjadi Institusi Kewangan terkemuka bagi usaha niaga rentas sempadan warga Malaysia.",
+      "address": "Tingkat 1, Exim Bank, Jalan Sultan Ismail, 50250 Kuala Lumpur.",
+      "phone": "603-2601 2000",
+      "fax": "03-2601 2000",
+      "email": "communications@exim.com.my",
+      "contact_person": "communications",
+      "website": "https://www.exim.com.my",
+      "latitude": "3.159098",
+      "longitude": "101.700551",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UC2egGLsgQODG9JNljgG64iQ",
+      "unique_code": "SEM-99-43-00",
+      "active": true,
+      "agency_id": 42024
+    },
+    {
+      "name": "Institut Automotif Robotik dan IoT Malaysia (MARii)",
+      "parent_body": "Kementerian Pelaburan, Perdagangan dan Industri",
+      "parent_body_slug": "kementerian-pelaburan-perdagangan-dan-industri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Meningkatkan daya saing industri automotif melalui pembangunan strategik modal insan, teknologi, rantaian bekalan dan jangkauan antarabangsa",
+      "address": "Malaysia Automotive Robotics and IoT Institute, Block 2280, Jalan Usahawan 2, Cyber 6, 63000 Cyberjaya, Selangor.",
+      "phone": "603-8318 7742",
+      "fax": "03-8318 7743",
+      "email": "info@marii.my",
+      "contact_person": "marii",
+      "website": "http://marii.my/",
+      "latitude": "2.929015",
+      "longitude": "101.66083",
+      "facebook": "https://www.facebook.com/MARiiMalaysia",
+      "twitter": "https://twitter.com/MARiiMalaysia",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "SEM-99-39-00",
+      "active": true,
+      "agency_id": 42018
+    },
+    {
+      "name": "InvestKL Malaysia",
+      "parent_body": "Kementerian Pelaburan, Perdagangan dan Industri",
+      "parent_body_slug": "kementerian-pelaburan-perdagangan-dan-industri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "InvestKL has been mandated to attract large global multinationals such as Fortune 500 and Forbes 2000 companies to establish their regional business, innovation and talent hubs in Greater KL, providing a gateway for companies to grow their business in Asia.",
+      "address": "16th Floor, Menara SSM@Sentral, No. 7, Jalan Stesen Sentral 5, Kuala Lumpur Sentral, 50623 Kuala Lumpur.",
+      "phone": "603-2260 2270",
+      "fax": "03-2260 2292",
+      "email": "info@investkl.gov.my",
+      "contact_person": "info",
+      "website": "http://www.investkl.gov.my/",
+      "latitude": "3.133565",
+      "longitude": "101.684253",
+      "facebook": "https://www.facebook.com/InvestKLCorporation/",
+      "twitter": "https://twitter.com/InvestKL",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "SEM-99-44-00",
+      "active": true,
+      "agency_id": 42026
+    },
+    {
+      "name": "JABATAN STANDARD MALAYSIA (JSM)",
+      "parent_body": "Kementerian Pelaburan, Perdagangan dan Industri",
+      "parent_body_slug": "kementerian-pelaburan-perdagangan-dan-industri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Diterima rakyat, diiktiraf dunia",
+      "address": "Century Square, Level 1 & 2, Block 2300, Jalan Usahawan, 63000 Cyberjaya, Selangor.",
+      "phone": "603-8318 0002",
+      "fax": "03-8319 3131",
+      "email": "central@jsm.gov.my",
+      "contact_person": "central",
+      "website": "http://www.jsm.gov.my/",
+      "latitude": "2.925224",
+      "longitude": "101.661912",
+      "facebook": "https://www.facebook.com/standardsmalaysia",
+      "twitter": "https://twitter.com/STANDARDS_MY",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PAP-13-07-00",
+      "active": true,
+      "agency_id": 39580
+    },
+    {
+      "name": "KEMENTERIAN PELABURAN, PERDAGANGAN DAN INDUSTRI",
+      "parent_body": "Kementerian Pelaburan, Perdagangan dan Industri",
+      "parent_body_slug": "kementerian-pelaburan-perdagangan-dan-industri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Kementerian Pelaburan, Perdagangan dan Industri",
+      "address": "Menara MITI, No.7, Jalan Sultan Haji Ahmad Shah, 50480 KUALA LUMPUR.",
+      "phone": "603-8000 8000",
+      "fax": "03-6206 4693",
+      "email": "webmiti@miti.gov.my",
+      "contact_person": "webmiti",
+      "website": "https://www.miti.gov.my/",
+      "latitude": "3.176963",
+      "longitude": "101.668085",
+      "facebook": "https://www.facebook.com/MITIMalaysia",
+      "twitter": "http://twitter.com/MITIMalaysia",
+      "instagram": "https://www.instagram.com/MITIMalaysia/",
+      "youtube": "https://www.youtube.com/MITIMalaysiayoutube",
+      "unique_code": "PAP-08-01-00",
+      "active": true,
+      "agency_id": 20134
+    },
+    {
+      "name": "LEMBAGA PEMBANGUNAN PELABURAN MALAYSIA (MIDA)",
+      "parent_body": "Kementerian Pelaburan, Perdagangan dan Industri",
+      "parent_body_slug": "kementerian-pelaburan-perdagangan-dan-industri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "LEMBAGA PEMBANGUNAN PELABURAN MALAYSIA (MIDA)",
+      "address": "Level 2, MIDA Sentral No.5, Jalan Stesen Sentral 5 Kuala Lumpur Sentral 50470 Kuala Lumpur",
+      "phone": "603-2267 3633",
+      "fax": "03-2274 7970",
+      "email": "investmalaysia@mida.gov.my",
+      "contact_person": "investmalaysia",
+      "website": "http://www.mida.gov.my",
+      "latitude": "3.13297",
+      "longitude": "101.68396",
+      "facebook": "https://www.facebook.com/OfficialMIDA/",
+      "twitter": "https://twitter.com/OfficialMIDA",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCTY59Rzau4Mtnw3VXwQM8kw/videos",
+      "unique_code": "BBP-08-01-00",
+      "active": true,
+      "agency_id": 20128
+    },
+    {
+      "name": "Malaysian Industrial Development Finance (MIDF)",
+      "parent_body": "Kementerian Pelaburan, Perdagangan dan Industri",
+      "parent_body_slug": "kementerian-pelaburan-perdagangan-dan-industri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Visi kami adalah untuk menyediakan perkhidmatan kewangan bersepadu yang berwibawa, dengan menambah nilai semua yang berkepentingan terhadap MIDF. Kami akan terus progresif dan inovatif dalam menggunakan kepakaran kami dalam pasaran modal untuk merebut peluang yang mengukuhkan kedudukan kami di industri kewangan dan perbankan.",
+      "address": "Level 21, Menara MIDF, 82, Jalan Raja Chulan, 50200 Kuala Lumpur.",
+      "phone": "603-2173 8888",
+      "fax": "03-2173 8877",
+      "email": "gccir@midf.com.my",
+      "contact_person": "gccir",
+      "website": "http://www.midf.com.my",
+      "latitude": "3.151321",
+      "longitude": "101.708351",
+      "facebook": "https://www.facebook.com/MIDFGroup",
+      "twitter": "https://twitter.com/midfgroup",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "SEM-99-38-00",
+      "active": true,
+      "agency_id": 40891
+    },
+    {
+      "name": "Malaysia Steel Institute (MSI)",
+      "parent_body": "Kementerian Pelaburan, Perdagangan dan Industri",
+      "parent_body_slug": "kementerian-pelaburan-perdagangan-dan-industri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "To reshape and facilitate the necessary environment for a sustainable iron and steel industry.",
+      "address": "\"MALAYSIA STEEL INSTITUTE Level 26, Menara MITI No. 7, Jalan Sultan Haji Ahmad Shah Kompleks Kerajaan 50480 Kuala Lumpur",
+      "phone": "603-6208 4657",
+      "fax": "03-6211 2445",
+      "email": "syakirah@malaysiasteelinstitute.com",
+      "contact_person": "syakirah",
+      "website": "http://malaysiasteelinstitute.com",
+      "latitude": "3.0489038",
+      "longitude": "101.5371631",
+      "facebook": "https://www.facebook.com/Malaysia-Steel-Institute-491661264370338/?__xts__[0]=68.ARCCivbuxURhrLq10cvUQN-VEPo60AOdmfja_8Wq0U-R1W00_5DRtiw5BBpUy-sA_dreK9Zewt_CLBNICttvHjjQPq_y6kj0jHreXYwHSOOK9askZTI3QeHyf1sgpu0e9pvGHspR3Kgg8bmZfDtkUgeQfPeXGlxw-l1X6UqEPMlPYbl9uJDPUFEtzeNDLkGM6rVVSUE2QdHOlHJtwKv6lu8yFsKkzepm7DkJ5MobSrwVwhpZX3d5qyEbX53uC9SnxOfo_RSgnIMyLcQOfVArf-V3sLqigJQIXsCzzHknkuduV44u4uqxGgu-zvk3WcLb7Qf2",
+      "twitter": "https://twitter.com/CommsMsi",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "SEM-99-40-00",
+      "active": true,
+      "agency_id": 42020
+    },
+    {
+      "name": "PERBADANAN PEMBANGUNAN PERDAGANGAN LUAR MALAYSIA (MATRADE)",
+      "parent_body": "Kementerian Pelaburan, Perdagangan dan Industri",
+      "parent_body_slug": "kementerian-pelaburan-perdagangan-dan-industri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "PERBADANAN PEMBANGUNAN PERDAGANGAN LUAR MALAYSIA (MATRADE)",
+      "address": "Menara MATRADE, Jalan Sultan Haji Ahmad Shah, 50480 Kuala Lumpur, Malaysia",
+      "phone": "603-6207 7077",
+      "fax": "03-6203 7037",
+      "email": "info@matrade.gov.my",
+      "contact_person": "info",
+      "website": "http://www.matrade.gov.my",
+      "latitude": "3.177598",
+      "longitude": "101.66687",
+      "facebook": "http://facebook.com/matradehq",
+      "twitter": "https://twitter.com/matrade",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "BBP-08-02-00",
+      "active": true,
+      "agency_id": 20130
+    },
+    {
+      "name": "PERBADANAN PRODUKTIVITI MALAYSIA (MPC)",
+      "parent_body": "Kementerian Pelaburan, Perdagangan dan Industri",
+      "parent_body_slug": "kementerian-pelaburan-perdagangan-dan-industri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Organisasi utama dalam meningkatkan produktiviti untuk inovasi dan daya saing global.",
+      "address": "Malaysia Productivity Corporation Lorong Produktiviti, Jalan Sultan 46200 Petaling Jaya, Selangor",
+      "phone": "603-7955 7266",
+      "fax": "03-7957 8068",
+      "email": "marketing@mpc.gov.my",
+      "contact_person": "marketing",
+      "website": "http://www.mpc.gov.my",
+      "latitude": "3.102767",
+      "longitude": "101.644547",
+      "facebook": "https://www.facebook.com/MPCHQ",
+      "twitter": "https://twitter.com/MPC_HQ",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "BBP-08-03-00-1",
+      "active": true,
+      "agency_id": 159
+    },
+    {
+      "name": "SIRIM BERHAD",
+      "parent_body": "Kementerian Pelaburan, Perdagangan dan Industri",
+      "parent_body_slug": "kementerian-pelaburan-perdagangan-dan-industri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Best partner for innovation",
+      "address": "SIRIM Berhad 1, Persiaran Dato' Menteri, P.O. Box 7035, Section 2, 40700 Shah Alam, Selangor.",
+      "phone": "603-5544 6000",
+      "fax": "603-5544 6694",
+      "email": "web@sirim.my",
+      "contact_person": "web",
+      "website": "http://www.sirim.my/",
+      "latitude": "3.0674",
+      "longitude": "101.5139829",
+      "facebook": "https://www.facebook.com/SIRIM.Bhd/",
+      "twitter": "https://twitter.com/SIRIM_Berhad",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "SEM-99-41-00",
+      "active": true,
+      "agency_id": 40969
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi Kementerian Pelaburan, Perdagangan dan Industri - Muat turun percuma",
+    "description": "Senarai 11 agensi kerajaan di bawah Kementerian Pelaburan, Perdagangan dan Industri (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 11/11 koordinat, 11/11 laman web. Mengandungi 11 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi Kementerian Pelaburan, Perdagangan dan Industri | ListBase",
+    "seo_description": "Muat turun Senarai Agensi Kementerian Pelaburan, Perdagangan dan Industri — 11 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 11 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

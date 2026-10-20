@@ -1,0 +1,484 @@
+{
+  "id": "ms-selangor-petaling-mukim",
+  "name": "Mukim di Daerah Petaling, Selangor",
+  "title": "Mukim di Daerah Petaling, Selangor",
+  "description": "Senarai lengkap 34 mukim di daerah Petaling, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 34 mukim (traditional sub-district units) in Petaling District, Selangor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "100802",
+      "name": "Bukit Raja",
+      "name_uppercase": "BUKIT RAJA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1225,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100801",
+      "name": "Damansara",
+      "name_uppercase": "DAMANSARA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1226,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100803",
+      "name": "Petaling",
+      "name_uppercase": "PETALING",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1227,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100804",
+      "name": "Sungai Buloh",
+      "name_uppercase": "SUNGAI BULOH",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1228,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100840",
+      "name": "Bandar Petaling Jaya",
+      "name_uppercase": "BANDAR PETALING JAYA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1229,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100841",
+      "name": "Bandar Shah Alam",
+      "name_uppercase": "BANDAR SHAH ALAM",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1230,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100842",
+      "name": "Bandar Damansara",
+      "name_uppercase": "BANDAR DAMANSARA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1231,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100843",
+      "name": "Bandar Glenmarie",
+      "name_uppercase": "BANDAR GLENMARIE",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1232,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100844",
+      "name": "Bandar Petaling Jaya Selatan",
+      "name_uppercase": "BANDAR PETALING JAYA SELATAN",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1233,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100845",
+      "name": "Bandar Saujana",
+      "name_uppercase": "BANDAR SAUJANA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1234,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100846",
+      "name": "Bandar Sri Damansara",
+      "name_uppercase": "BANDAR SRI DAMANSARA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1235,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100847",
+      "name": "Bandar Subang Jaya",
+      "name_uppercase": "BANDAR SUBANG JAYA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1236,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100848",
+      "name": "Bandar Sunway",
+      "name_uppercase": "BANDAR SUNWAY",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1237,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100870",
+      "name": "Pekan Batu Tiga",
+      "name_uppercase": "PEKAN BATU TIGA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1238,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100871",
+      "name": "Pekan Merbau Sempak",
+      "name_uppercase": "PEKAN MERBAU SEMPAK",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1239,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100872",
+      "name": "Pekan Puchong",
+      "name_uppercase": "PEKAN PUCHONG",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1240,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100874",
+      "name": "Pekan Serdang",
+      "name_uppercase": "PEKAN SERDANG",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1241,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100875",
+      "name": "Pekan Sungai Buloh",
+      "name_uppercase": "PEKAN SUNGAI BULOH",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1242,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100876",
+      "name": "Pekan Sungai Penchala",
+      "name_uppercase": "PEKAN SUNGAI PENCHALA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1243,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100877",
+      "name": "Pekan Cempaka",
+      "name_uppercase": "PEKAN CEMPAKA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1244,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100878",
+      "name": "Pekan Country Height",
+      "name_uppercase": "PEKAN COUNTRY HEIGHT",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1245,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100879",
+      "name": "Pekan Desa Puchong",
+      "name_uppercase": "PEKAN DESA PUCHONG",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1246,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100880",
+      "name": "Pekan Hicom",
+      "name_uppercase": "PEKAN HICOM",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1247,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100881",
+      "name": "Pekan Kayu Ara",
+      "name_uppercase": "PEKAN KAYU ARA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1248,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100882",
+      "name": "Pekan Kinrara",
+      "name_uppercase": "PEKAN KINRARA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1249,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100884",
+      "name": "Pekan Baru Hicom",
+      "name_uppercase": "PEKAN BARU HICOM",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1250,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100885",
+      "name": "Pekan Baru Subang",
+      "name_uppercase": "PEKAN BARU SUBANG",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1251,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100886",
+      "name": "Pekan Baru Sungai Besi",
+      "name_uppercase": "PEKAN BARU SUNGAI BESI",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1252,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100887",
+      "name": "Pekan Baru Sungai Buloh",
+      "name_uppercase": "PEKAN BARU SUNGAI BULOH",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1253,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100888",
+      "name": "Pekan Baru Penaga",
+      "name_uppercase": "PEKAN BARU PENAGA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1254,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100889",
+      "name": "Pekan Puchong Jaya",
+      "name_uppercase": "PEKAN PUCHONG JAYA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1255,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100890",
+      "name": "Pekan Puchong Perdana",
+      "name_uppercase": "PEKAN PUCHONG PERDANA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1256,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100891",
+      "name": "Pekan Subang",
+      "name_uppercase": "PEKAN SUBANG",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1257,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    },
+    {
+      "id": "100892",
+      "name": "Pekan Subang Jaya",
+      "name_uppercase": "PEKAN SUBANG JAYA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1258,
+      "state_slug": "selangor",
+      "district_slug": "petaling"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Petaling, Selangor - Muat turun percuma",
+    "description": "Senarai lengkap 34 mukim di daerah Petaling, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 34 mukim (traditional sub-district units) in Petaling District, Selangor, Malaysia. Mengandungi 34 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Petaling, Selangor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Petaling, Selangor — 34 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 34 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

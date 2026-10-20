@@ -1,0 +1,292 @@
+{
+  "id": "ms-negeri-sembilan-tampin-mukim",
+  "name": "Mukim di Daerah Tampin, Negeri Sembilan",
+  "title": "Mukim di Daerah Tampin, Negeri Sembilan",
+  "description": "Senarai lengkap 18 mukim di daerah Tampin, negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 18 mukim (traditional sub-district units) in Tampin District, Negeri Sembilan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "050601",
+      "name": "Ayer Kuning",
+      "name_uppercase": "AYER KUNING",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1439,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050602",
+      "name": "Gemas",
+      "name_uppercase": "GEMAS",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1440,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050603",
+      "name": "Gemencheh",
+      "name_uppercase": "GEMENCHEH",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1441,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050604",
+      "name": "Keru",
+      "name_uppercase": "KERU",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1442,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050605",
+      "name": "Repah",
+      "name_uppercase": "REPAH",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1443,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050606",
+      "name": "Tampin Tengah",
+      "name_uppercase": "TAMPIN TENGAH",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1444,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050607",
+      "name": "Tebong",
+      "name_uppercase": "TEBONG",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1445,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050640",
+      "name": "Bandar Gemas",
+      "name_uppercase": "BANDAR GEMAS",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1446,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050641",
+      "name": "Bandar Tampin",
+      "name_uppercase": "BANDAR TAMPIN",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1447,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050670",
+      "name": "Pekan Air Kuning Selatan",
+      "name_uppercase": "PEKAN AIR KUNING SELATAN",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1448,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050671",
+      "name": "Pekan Batang Melaka",
+      "name_uppercase": "PEKAN BATANG MELAKA",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1449,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050672",
+      "name": "Pekan Gemenchech Bahru",
+      "name_uppercase": "PEKAN GEMENCHECH BAHRU",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1450,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050673",
+      "name": "Pekan Repah",
+      "name_uppercase": "PEKAN REPAH",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1451,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050674",
+      "name": "Pekan Tampin Tengah",
+      "name_uppercase": "PEKAN TAMPIN TENGAH",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1452,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050675",
+      "name": "Pekan Air Kuning",
+      "name_uppercase": "PEKAN AIR KUNING",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1453,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050676",
+      "name": "Pekan Pasir Besar",
+      "name_uppercase": "PEKAN PASIR BESAR",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1454,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050677",
+      "name": "Pekan Repah Permai",
+      "name_uppercase": "PEKAN REPAH PERMAI",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1455,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    },
+    {
+      "id": "050678",
+      "name": "Pekan Repah Jaya",
+      "name_uppercase": "PEKAN REPAH JAYA",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1456,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "tampin"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Tampin, Negeri Sembilan - Muat turun percuma",
+    "description": "Senarai lengkap 18 mukim di daerah Tampin, negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 18 mukim (traditional sub-district units) in Tampin District, Negeri Sembilan, Malaysia. Mengandungi 18 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Tampin, Negeri Sembilan | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Tampin, Negeri Sembilan — 18 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 18 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

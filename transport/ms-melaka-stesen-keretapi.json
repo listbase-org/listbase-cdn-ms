@@ -1,0 +1,144 @@
+{
+  "id": "ms-melaka-stesen-keretapi",
+  "name": "Stesen Keretapi di Melaka",
+  "title": "Stesen Keretapi di Melaka",
+  "description": "Senarai stesen keretapi di Melaka, Malaysia — 3 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "country_ms",
+      "label": "Country Ms",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    },
+    {
+      "key": "stesen_minyak_terdekat_km",
+      "label": "Stesen Minyak Terdekat Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q16826336",
+      "name_ms": "",
+      "name_en": "Air Kuning Selatan railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.475,
+      "longitude": 102.419,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16826336",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka",
+      "stesen_minyak_terdekat_km": 0.575
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q3183715",
+      "name_ms": "Stesen keretapi Pulau Sebang/Tampin",
+      "name_en": "Pulau Sebang/Tampin railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.463333,
+      "longitude": 102.226944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3183715",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka",
+      "stesen_minyak_terdekat_km": 0.3643
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q4868591",
+      "name_ms": "Stesen keretapi Batang Melaka",
+      "name_en": "Batang Melaka railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.475,
+      "longitude": 102.419167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4868591",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka",
+      "stesen_minyak_terdekat_km": 0.5916
+    }
+  ],
+  "meta": {
+    "title": "Stesen Keretapi di Melaka - Muat turun percuma",
+    "description": "Senarai stesen keretapi di Melaka, Malaysia — 3 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit. Mengandungi 3 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen Keretapi di Melaka | ListBase",
+    "seo_description": "Muat turun Stesen Keretapi di Melaka — 3 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 3 rekod / 14 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

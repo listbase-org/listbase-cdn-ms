@@ -1,0 +1,258 @@
+{
+  "id": "ms-kementerian-digital-agensi",
+  "name": "Senarai Agensi KEMENTERIAN DIGITAL",
+  "title": "Senarai Agensi KEMENTERIAN DIGITAL",
+  "description": "Senarai 6 agensi kerajaan di bawah KEMENTERIAN DIGITAL (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 6/6 koordinat, 5/6 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "CyberSecurity Malaysia",
+      "parent_body": "KEMENTERIAN DIGITAL",
+      "parent_body_slug": "kementerian-digital",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "CyberSecurity Malaysia",
+      "address": "Level 7 Tower 1, Menara Cyber Axis, Jalan Impact, 63000 Cyberjaya, Selangor",
+      "phone": "603-8800 7999",
+      "fax": "603-80087000",
+      "email": "info@cybersecurity.my",
+      "contact_person": "CS",
+      "website": "https://www.cybersecurity.my",
+      "latitude": "2.9179352",
+      "longitude": "101.6587343",
+      "facebook": "https://www.facebook.com/CyberSecurityMalaysia",
+      "twitter": "https://twitter.com/cybersecuritymy",
+      "instagram": "https://instagram.com/cybersecurity_malaysia/",
+      "youtube": "https://www.youtube.com/cybersecuritymy",
+      "unique_code": "KEM-DIGITAL-CSM",
+      "active": true,
+      "agency_id": 42846
+    },
+    {
+      "name": "JABATAN DIGITAL NEGARA",
+      "parent_body": "KEMENTERIAN DIGITAL",
+      "parent_body_slug": "kementerian-digital",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "NATIONAL DIGITAL DEPARTMENT",
+      "address": "Bangunan MKN Embassy Techzone, Blok B, No. 3200 Jalan Teknokrat 2, 63000 Cyberjaya, Sepang, Selangor",
+      "phone": "603-8000 8000",
+      "fax": "603-8872 3163",
+      "email": "webmasterjdn@digital.gov.my",
+      "contact_person": "Pentadbir Portal JDN",
+      "website": "https://www.jdn.gov.my/",
+      "latitude": "2.9378818",
+      "longitude": "101.6517949",
+      "facebook": "https://www.facebook.com/JabatanDigitalNegara/",
+      "twitter": "https://twitter.com/JDigitalNegara",
+      "instagram": "https://www.instagram.com/jabatandigitalnegara/",
+      "youtube": "https://www.youtube.com/@JABATANDIGITALNEGARA",
+      "unique_code": "PAP-01-08-00",
+      "active": true,
+      "agency_id": 196
+    },
+    {
+      "name": "JABATAN PERLINDUNGAN DATA PERIBADI (JPDP)",
+      "parent_body": "KEMENTERIAN DIGITAL",
+      "parent_body_slug": "kementerian-digital",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Jabatan Perlindungan Data Peribadi (JPDP)",
+      "address": "Aras 6, Kompleks Kementerian Komunikasi dan Multimedia Malaysia, Lot 4G9, Persiaran Perdana, Presint 4, Pusat Pentadbiran Kerajaan Persekutuan, 62100, Putrajaya",
+      "phone": "603-8000 8000",
+      "fax": "603-8911 7959",
+      "email": "aduan@pdp.gov.my",
+      "contact_person": "PRO",
+      "website": "http://www.pdp.gov.my",
+      "latitude": "2.9119474",
+      "longitude": "101.6748178",
+      "facebook": "https://www.facebook.com/JabatanPerlindunganDataPeribadi?fref=ts",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "http://www.youtube.com/user/jpdpKKMM",
+      "unique_code": "PAP-20-06-00",
+      "active": true,
+      "agency_id": 41043
+    },
+    {
+      "name": "KEMENTERIAN DIGITAL",
+      "parent_body": "KEMENTERIAN DIGITAL",
+      "parent_body_slug": "kementerian-digital",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "KEMENTERIAN DIGITAL",
+      "address": "Aras 13 & 15, Blok Menara, Menara Usahawan, No.18, Persiaran Perdana, Presint 2, Pusat Pentadbiran Kerajaan Persekutuan, Putrajaya",
+      "phone": "603-8000 8000",
+      "fax": "",
+      "email": "webmaster@mampu.gov.my",
+      "contact_person": "webmaster",
+      "website": "",
+      "latitude": "2.9212843",
+      "longitude": "101.6674424",
+      "facebook": "https://www.facebook.com/KementerianDigitalMalaysia/",
+      "twitter": "https://twitter.com/KemDigitalMsia",
+      "instagram": "https://www.instagram.com/kementeriandigitalmalaysia/",
+      "youtube": "",
+      "unique_code": "KEM-DIGITAL-AGENCY",
+      "active": true,
+      "agency_id": 42842
+    },
+    {
+      "name": "MALAYSIA DIGITAL ECONOMY CORPORATION (MDEC)",
+      "parent_body": "KEMENTERIAN DIGITAL",
+      "parent_body_slug": "kementerian-digital",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Malaysia Digital Economy Corporation (MDEC)",
+      "address": "Malaysia Digital Economy Corporation Sdn. Bhd. 2360 Persiaran APEC, 63000 Cyberjaya Selangor Darul Ehsan",
+      "phone": "180-0888 338_",
+      "fax": "03-8315 3115",
+      "email": "clic@mdec.com.my",
+      "contact_person": "PRO",
+      "website": "https://mdec.my/",
+      "latitude": "2.9224",
+      "longitude": "101.6568113",
+      "facebook": "https://www.facebook.com/MyMDEC/",
+      "twitter": "https://twitter.com/mymdec",
+      "instagram": "https://www.instagram.com/mymdec/",
+      "youtube": "https://www.youtube.com/mymdec",
+      "unique_code": "PUB-13820-00",
+      "active": true,
+      "agency_id": 40959
+    },
+    {
+      "name": "MYNIC Berhad",
+      "parent_body": "KEMENTERIAN DIGITAL",
+      "parent_body_slug": "kementerian-digital",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "MYNIC Berhad",
+      "address": "Level 3, Tower 2, Menara Cyber Axis, Jalan Impact, 63000 Cyberjaya, Selangor Darul Ehsan",
+      "phone": "603 8008 2000",
+      "fax": "603 8008 2020",
+      "email": "customercare@mynic.my",
+      "contact_person": "Customercare",
+      "website": "https://mynic.my/",
+      "latitude": "2.9179352",
+      "longitude": "101.6587343",
+      "facebook": "https:// www.facebook.com/mynicberhad/",
+      "twitter": "https://twitter.com/mynicberhad?lang=en",
+      "instagram": "https://www.instagram.com/mynicberhad/",
+      "youtube": "",
+      "unique_code": "KEM-DIGITAL-MYNIC",
+      "active": true,
+      "agency_id": 42844
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi KEMENTERIAN DIGITAL - Muat turun percuma",
+    "description": "Senarai 6 agensi kerajaan di bawah KEMENTERIAN DIGITAL (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 6/6 koordinat, 5/6 laman web. Mengandungi 6 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi KEMENTERIAN DIGITAL | ListBase",
+    "seo_description": "Muat turun Senarai Agensi KEMENTERIAN DIGITAL — 6 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 6 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

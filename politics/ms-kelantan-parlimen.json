@@ -1,0 +1,149 @@
+{
+  "id": "ms-kelantan-parlimen",
+  "name": "Senarai Parlimen Kelantan",
+  "title": "Senarai Parlimen Kelantan",
+  "description": "Senarai kerusi Parlimen di Kelantan berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P019",
+      "name": "Tumpat",
+      "negeri": "Kelantan",
+      "dun_count": 4,
+      "dun": "N01: Pengkalan Kubor, N02: Kelaboran, N03: Pasir Pekan, N04: Wakaf Bharu"
+    },
+    {
+      "code": "P020",
+      "name": "Pengkalan Chepa",
+      "negeri": "Kelantan",
+      "dun_count": 3,
+      "dun": "N05: Kijang, N06: Chempaka, N07: Panchor"
+    },
+    {
+      "code": "P021",
+      "name": "Kota Bharu",
+      "negeri": "Kelantan",
+      "dun_count": 3,
+      "dun": "N08: Tanjong Mas, N09: Kota Lama, N10: Bunut Payong"
+    },
+    {
+      "code": "P022",
+      "name": "Pasir Mas",
+      "negeri": "Kelantan",
+      "dun_count": 3,
+      "dun": "N11: Tendong, N12: Pengkalan Pasir, N13: Meranti"
+    },
+    {
+      "code": "P023",
+      "name": "Rantau Panjang",
+      "negeri": "Kelantan",
+      "dun_count": 3,
+      "dun": "N14: Chetok, N15: Gual Periok, N16: Apam Putra"
+    },
+    {
+      "code": "P024",
+      "name": "Kubang Kerian",
+      "negeri": "Kelantan",
+      "dun_count": 3,
+      "dun": "N17: Salor, N18: Pasir Tumboh, N19: Demit"
+    },
+    {
+      "code": "P025",
+      "name": "Bachok",
+      "negeri": "Kelantan",
+      "dun_count": 3,
+      "dun": "N20: Tawang, N21: Pantai Irama, N22: Jelawat"
+    },
+    {
+      "code": "P026",
+      "name": "Ketereh",
+      "negeri": "Kelantan",
+      "dun_count": 3,
+      "dun": "N23: Melor, N24: Kadok, N25: Kok Lanas"
+    },
+    {
+      "code": "P027",
+      "name": "Tanah Merah",
+      "negeri": "Kelantan",
+      "dun_count": 3,
+      "dun": "N26: Bukit Panau, N27: Gual Ipoh, N28: Kemahang"
+    },
+    {
+      "code": "P028",
+      "name": "Pasir Puteh",
+      "negeri": "Kelantan",
+      "dun_count": 4,
+      "dun": "N29: Selising, N30: Limbongan, N31: Semerak, N32: Gaal"
+    },
+    {
+      "code": "P029",
+      "name": "Machang",
+      "negeri": "Kelantan",
+      "dun_count": 3,
+      "dun": "N33: Pulai Chondong, N34: Temangan, N35: Kemuning"
+    },
+    {
+      "code": "P030",
+      "name": "Jeli",
+      "negeri": "Kelantan",
+      "dun_count": 3,
+      "dun": "N36: Bukit Bunga, N37: Air Lanas, N38: Kuala Balah"
+    },
+    {
+      "code": "P031",
+      "name": "Kuala Krai",
+      "negeri": "Kelantan",
+      "dun_count": 4,
+      "dun": "N39: Mengkebang, N40: Guchil, N41: Manek Urai, N42: Dabong"
+    },
+    {
+      "code": "P032",
+      "name": "Gua Musang",
+      "negeri": "Kelantan",
+      "dun_count": 3,
+      "dun": "N43: Nenggiri, N44: Paloh, N45: Galas"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen Kelantan - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di Kelantan berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested. Mengandungi 14 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen Kelantan | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen Kelantan — 14 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 14 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

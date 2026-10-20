@@ -1,0 +1,192 @@
+{
+  "id": "ms-terengganu-stesen-keretapi",
+  "name": "Stesen Keretapi di Terengganu",
+  "title": "Stesen Keretapi di Terengganu",
+  "description": "Senarai stesen keretapi di Terengganu, Malaysia — 6 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "country_ms",
+      "label": "Country Ms",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    },
+    {
+      "key": "stesen_minyak_terdekat_km",
+      "label": "Stesen Minyak Terdekat Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q136654653",
+      "name_ms": "",
+      "name_en": "Jerteh train station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.701217,
+      "longitude": 102.483162,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136654653",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "stesen_minyak_terdekat_km": 2.0716
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q136654668",
+      "name_ms": "",
+      "name_en": "Bandar Permaisuri train station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.52096,
+      "longitude": 102.73809,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136654668",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "stesen_minyak_terdekat_km": 0.9733
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q136654717",
+      "name_ms": "",
+      "name_en": "Kuala Terengganu train station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.173321,
+      "longitude": 103.097699,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136654717",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "stesen_minyak_terdekat_km": 2.7908
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q136654735",
+      "name_ms": "",
+      "name_en": "Dungun train station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.734297,
+      "longitude": 103.387275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136654735",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "stesen_minyak_terdekat_km": 3.1361
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q136654750",
+      "name_ms": "",
+      "name_en": "Kemasik train station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.50297,
+      "longitude": 103.421903,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136654750",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "stesen_minyak_terdekat_km": 2.543
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q136654782",
+      "name_ms": "",
+      "name_en": "Chukai train station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.24912,
+      "longitude": 103.3824,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136654782",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "stesen_minyak_terdekat_km": 2.0834
+    }
+  ],
+  "meta": {
+    "title": "Stesen Keretapi di Terengganu - Muat turun percuma",
+    "description": "Senarai stesen keretapi di Terengganu, Malaysia — 6 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit. Mengandungi 6 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen Keretapi di Terengganu | ListBase",
+    "seo_description": "Muat turun Stesen Keretapi di Terengganu — 6 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 6 rekod / 14 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

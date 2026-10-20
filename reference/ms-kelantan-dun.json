@@ -1,0 +1,416 @@
+{
+  "id": "ms-kelantan-dun",
+  "name": "Senarai Dewan Undangan Negeri (DUN) Kelantan",
+  "title": "Senarai Dewan Undangan Negeri (DUN) Kelantan",
+  "description": "Senarai 45 kerusi Dewan Undangan Negeri (DUN) bagi negeri Kelantan berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 45 State Legislative Assembly seats for Kelantan; a verbatim per-state subset of the national ms-dun list.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_code",
+      "label": "Parlimen Code",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_name",
+      "label": "Parlimen Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "N01",
+      "name": "Pengkalan Kubor",
+      "parlimen_code": "P019",
+      "parlimen_name": "Tumpat",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N02",
+      "name": "Kelaboran",
+      "parlimen_code": "P019",
+      "parlimen_name": "Tumpat",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N03",
+      "name": "Pasir Pekan",
+      "parlimen_code": "P019",
+      "parlimen_name": "Tumpat",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N04",
+      "name": "Wakaf Bharu",
+      "parlimen_code": "P019",
+      "parlimen_name": "Tumpat",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N05",
+      "name": "Kijang",
+      "parlimen_code": "P020",
+      "parlimen_name": "Pengkalan Chepa",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N06",
+      "name": "Chempaka",
+      "parlimen_code": "P020",
+      "parlimen_name": "Pengkalan Chepa",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N07",
+      "name": "Panchor",
+      "parlimen_code": "P020",
+      "parlimen_name": "Pengkalan Chepa",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N08",
+      "name": "Tanjong Mas",
+      "parlimen_code": "P021",
+      "parlimen_name": "Kota Bharu",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N09",
+      "name": "Kota Lama",
+      "parlimen_code": "P021",
+      "parlimen_name": "Kota Bharu",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N10",
+      "name": "Bunut Payong",
+      "parlimen_code": "P021",
+      "parlimen_name": "Kota Bharu",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N11",
+      "name": "Tendong",
+      "parlimen_code": "P022",
+      "parlimen_name": "Pasir Mas",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N12",
+      "name": "Pengkalan Pasir",
+      "parlimen_code": "P022",
+      "parlimen_name": "Pasir Mas",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N13",
+      "name": "Meranti",
+      "parlimen_code": "P022",
+      "parlimen_name": "Pasir Mas",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N14",
+      "name": "Chetok",
+      "parlimen_code": "P023",
+      "parlimen_name": "Rantau Panjang",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N15",
+      "name": "Gual Periok",
+      "parlimen_code": "P023",
+      "parlimen_name": "Rantau Panjang",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N16",
+      "name": "Apam Putra",
+      "parlimen_code": "P023",
+      "parlimen_name": "Rantau Panjang",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N17",
+      "name": "Salor",
+      "parlimen_code": "P024",
+      "parlimen_name": "Kubang Kerian",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N18",
+      "name": "Pasir Tumboh",
+      "parlimen_code": "P024",
+      "parlimen_name": "Kubang Kerian",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N19",
+      "name": "Demit",
+      "parlimen_code": "P024",
+      "parlimen_name": "Kubang Kerian",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N20",
+      "name": "Tawang",
+      "parlimen_code": "P025",
+      "parlimen_name": "Bachok",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N21",
+      "name": "Pantai Irama",
+      "parlimen_code": "P025",
+      "parlimen_name": "Bachok",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N22",
+      "name": "Jelawat",
+      "parlimen_code": "P025",
+      "parlimen_name": "Bachok",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N23",
+      "name": "Melor",
+      "parlimen_code": "P026",
+      "parlimen_name": "Ketereh",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N24",
+      "name": "Kadok",
+      "parlimen_code": "P026",
+      "parlimen_name": "Ketereh",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N25",
+      "name": "Kok Lanas",
+      "parlimen_code": "P026",
+      "parlimen_name": "Ketereh",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N26",
+      "name": "Bukit Panau",
+      "parlimen_code": "P027",
+      "parlimen_name": "Tanah Merah",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N27",
+      "name": "Gual Ipoh",
+      "parlimen_code": "P027",
+      "parlimen_name": "Tanah Merah",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N28",
+      "name": "Kemahang",
+      "parlimen_code": "P027",
+      "parlimen_name": "Tanah Merah",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N29",
+      "name": "Selising",
+      "parlimen_code": "P028",
+      "parlimen_name": "Pasir Puteh",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N30",
+      "name": "Limbongan",
+      "parlimen_code": "P028",
+      "parlimen_name": "Pasir Puteh",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N31",
+      "name": "Semerak",
+      "parlimen_code": "P028",
+      "parlimen_name": "Pasir Puteh",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N32",
+      "name": "Gaal",
+      "parlimen_code": "P028",
+      "parlimen_name": "Pasir Puteh",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N33",
+      "name": "Pulai Chondong",
+      "parlimen_code": "P029",
+      "parlimen_name": "Machang",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N34",
+      "name": "Temangan",
+      "parlimen_code": "P029",
+      "parlimen_name": "Machang",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N35",
+      "name": "Kemuning",
+      "parlimen_code": "P029",
+      "parlimen_name": "Machang",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N36",
+      "name": "Bukit Bunga",
+      "parlimen_code": "P030",
+      "parlimen_name": "Jeli",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N37",
+      "name": "Air Lanas",
+      "parlimen_code": "P030",
+      "parlimen_name": "Jeli",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N38",
+      "name": "Kuala Balah",
+      "parlimen_code": "P030",
+      "parlimen_name": "Jeli",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N39",
+      "name": "Mengkebang",
+      "parlimen_code": "P031",
+      "parlimen_name": "Kuala Krai",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N40",
+      "name": "Guchil",
+      "parlimen_code": "P031",
+      "parlimen_name": "Kuala Krai",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N41",
+      "name": "Manek Urai",
+      "parlimen_code": "P031",
+      "parlimen_name": "Kuala Krai",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N42",
+      "name": "Dabong",
+      "parlimen_code": "P031",
+      "parlimen_name": "Kuala Krai",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N43",
+      "name": "Nenggiri",
+      "parlimen_code": "P032",
+      "parlimen_name": "Gua Musang",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N44",
+      "name": "Paloh",
+      "parlimen_code": "P032",
+      "parlimen_name": "Gua Musang",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    },
+    {
+      "code": "N45",
+      "name": "Galas",
+      "parlimen_code": "P032",
+      "parlimen_name": "Gua Musang",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Dewan Undangan Negeri (DUN) Kelantan - Muat turun percuma",
+    "description": "Senarai 45 kerusi Dewan Undangan Negeri (DUN) bagi negeri Kelantan berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 45 State Legislative Assembly seats for Kelantan; a verbatim per-state subset of the national ms-dun list. Mengandungi 45 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Dewan Undangan Negeri (DUN) Kelantan | ListBase",
+    "seo_description": "Muat turun Senarai Dewan Undangan Negeri (DUN) Kelantan — 45 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 45 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

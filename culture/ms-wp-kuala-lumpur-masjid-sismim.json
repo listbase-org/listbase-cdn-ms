@@ -1,0 +1,745 @@
+{
+  "id": "ms-wp-kuala-lumpur-masjid-sismim",
+  "name": "Masjid di WP Kuala Lumpur",
+  "title": "Masjid di WP Kuala Lumpur",
+  "description": "Senarai masjid di WP Kuala Lumpur — 76 masjid. Sumber: SISMIM/JAKIM (direktori kebangsaan masjid & surau). Medan: name, state, state_slug, district, address, phone, fax.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "MASJID NEGARA",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "JALAN PERDANA",
+      "phone": "03-26937784",
+      "fax": "03-26913696"
+    },
+    {
+      "name": "MASJID AL-AKRAM",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 4",
+      "address": "DATUK KERAMAT, JALAN DATUK KERAMAT",
+      "phone": "03-42570529",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-IMAM ASH-SHAFIE",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "JALAN PERKASA, TAMAN MALURI, KG. PANDAN",
+      "phone": "03-92812472",
+      "fax": "03-92008472"
+    },
+    {
+      "name": "MASJID AZ-ZUBAIR IBNU AWWAM",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "KM 6 JALAN SEKILAU",
+      "phone": "03-9715381",
+      "fax": "03-91738506"
+    },
+    {
+      "name": "MASJID SAIDINA ABU BAKAR AS-SIDDIQ",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 6",
+      "address": "JALAN ARA, BANGSAR KUALA LUMPUR",
+      "phone": "03-22833707",
+      "fax": "03-22821222"
+    },
+    {
+      "name": "MASJID AT-TAQWA",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 6",
+      "address": "JALAN DATUK SULAIMAN,TAMAN TUN DR.ISMAIL",
+      "phone": "03-77293710",
+      "fax": "03-77264159"
+    },
+    {
+      "name": "MASJID AL-FIRDAUS",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 1",
+      "address": "SEGAMBUT LUAR",
+      "phone": "03-62417566",
+      "fax": "03-62522468"
+    },
+    {
+      "name": "MASJID INDIA",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "JALAN MELAYU,",
+      "phone": "03-26921009",
+      "fax": "03-26931484"
+    },
+    {
+      "name": "MASJID ANAS BIN MALIK",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 1",
+      "address": "LOT 2050 KAMPUNG SELAYANG LAMA",
+      "phone": "03-61275178",
+      "fax": "03-61370607"
+    },
+    {
+      "name": "MASJID JAMEK BANDAR BARU SERI PETALING",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "BANDAR BARU SERI PETALING,",
+      "phone": "03-90570162",
+      "fax": "03-90595063"
+    },
+    {
+      "name": "MASJID SOLEHIN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 4",
+      "address": "PUSAT LATIHAN POLIS DEPOH, JALAN SEMARAK,",
+      "phone": "03-26980133",
+      "fax": "03-26947590"
+    },
+    {
+      "name": "MASJID SALAHUDDIN AL-AYYUBI",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 2",
+      "address": "TAMAN MELATI, SETAPAK",
+      "phone": "03-41475133",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MUADZ BIN JABAL",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 4",
+      "address": "PERSIARAN SETIAWANGSA, TAMAN SETIAWANGSA,",
+      "phone": "03-42569848",
+      "fax": "03-42565417"
+    },
+    {
+      "name": "MASJID ABU HURAIRAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 1",
+      "address": "BATU 5, KAMPUNG BATU, JALAN IPOH,",
+      "phone": "03-62425245",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SAIDINA OTHMAN IBNU AFFAN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "BANDAR TUN RAZAK,",
+      "phone": "03-91734728",
+      "fax": "03-91719195"
+    },
+    {
+      "name": "MASJID SAIDINA HAMZAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 1",
+      "address": "KG. BATU MUDA,BT. 41 1/2 JALAN IPOH",
+      "phone": "03-62421954",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK PEKAN SENTUL",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 2",
+      "address": "MASJID JAMEK PEKAN SENTUL JALAN HAJI SALLEH SENTUL",
+      "phone": "03-40451149",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ABDUL RAHMAN BIN AUF",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "BT 5 1/2 JALAN PUCHONG,",
+      "phone": "03-77701171",
+      "fax": "03-77701171"
+    },
+    {
+      "name": "MASJID JAMEK TG. ABD. AZIZ SHAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 6",
+      "address": "JALAN SG.PENCHALA, KG. SG. PENCHALA, JALAN DAMANSARA",
+      "phone": "03-77277401",
+      "fax": "03-77277401"
+    },
+    {
+      "name": "MASJID SAIDINA ALI KW",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 2",
+      "address": "KG.PADANG BALANG,SENTUL",
+      "phone": "03-40223460",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ASY-SYAKIRIN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "MENARA BERKEMBAR PETRONAS,JALAN PINANG,",
+      "phone": "03-23801293",
+      "fax": "03-23801293"
+    },
+    {
+      "name": "MASJID AL-HIDAYAH (SENTUL)",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 2",
+      "address": "SENTUL PASAR,SENTUL",
+      "phone": "03-40419233",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ABU UBAIDAH AL-JARRAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 4",
+      "address": "JALAN 1/26, TAMAN SRI RAMPAI, SETAPAK JAYA,",
+      "phone": "03-40315860",
+      "fax": "03-40315860"
+    },
+    {
+      "name": "MASJID AMRU BIN AL-ASS",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 2",
+      "address": "BANDAR BARU SENTUL,",
+      "phone": "03-40449611",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK KG. BARU",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "JALAN RAJA ALANG, KAMPUNG BARU",
+      "phone": "03-26913954",
+      "fax": "03-26915317"
+    },
+    {
+      "name": "MASJID SAIDINA UMAR AL-KHATTAB",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 6",
+      "address": "JALAN SETIABUDI,BUKIT DAMANSARA,",
+      "phone": "03-20954457",
+      "fax": "03-20923817"
+    },
+    {
+      "name": "MASJID AMANIAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 1",
+      "address": "JALAN BESAR KEPONG,",
+      "phone": "03-62618585",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RAHMAN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 6",
+      "address": "JALAN PANTAI BARU, 59200 KUALA LUMPUR.",
+      "phone": "03-79317786",
+      "fax": "03-79317786"
+    },
+    {
+      "name": "MASJID JAMEK SAAD IBN WAQQAS,",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 2",
+      "address": "JALAN GOMBAK, 53000 KUALA LUMPUR.",
+      "phone": "03-40231598",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KHALID BIN AL-WALID",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 4",
+      "address": "JALAN PADANG TEMBAK,",
+      "phone": "03-2315274",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK IBNU KHALDUN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "PEKAN SG. BESI57000 KUALA LUMPUR.",
+      "phone": "03-90585390",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK PAKISTAN,",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "JALAN RAJA MUDA ABD. AZIZ,50300 KUALA LUMPUR.",
+      "phone": "03-42705240",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL UBUDIAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 1",
+      "address": "SEGAMBUT DALAM,",
+      "phone": "03-62570533",
+      "fax": "03-62570533"
+    },
+    {
+      "name": "MASJID AL-GHUFRAN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 6",
+      "address": "KOMPLEKS BALAI ISLAM, PINGGIRAN TMN. TUN DR.ISMAIL, 60000 KUALA LUMPUR.",
+      "phone": "03-77282127",
+      "fax": "03-77255380"
+    },
+    {
+      "name": "MASJID AL-IKHLASIAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 6",
+      "address": "BUKIT KERINCHI C2, PANTAI HILL PARK, JALAN PANTAI PERMAI 7, OFF JALAN PANTAI DALAM",
+      "phone": "03-22828912",
+      "fax": "03-22828912"
+    },
+    {
+      "name": "MASJID AL-BUKHARY",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "NO.1, JALAN HANG TUAH,50200 KUALA LUMPUR",
+      "phone": "019-8362993",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUHSININ",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "JALAN DESA BAKTI, TAMAN DESA OFF JALAN KLNG LAMA,",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-KHASYI'IN,",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "JALAN 2/125 TAMAN DESA PETALING,57100 KUALA LUMPUR",
+      "phone": "03-90563851",
+      "fax": "03-90563851"
+    },
+    {
+      "name": "MASJID AL-MUQARRABIN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "JALAN LIKU TASEK SELATAN,BANDAR TASEK SELATAN,57100 KUALA LUMPUR",
+      "phone": "03-91725357",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-QURTUBI",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 1",
+      "address": "TAMAN SRI SEGAMBUT",
+      "phone": "03-62595562",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-IMAM AT-TIRMIZI",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "TAMAN SRI SENTOSA,JALAN KLANG LAMA",
+      "phone": "019-3037197",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ZAKIRIN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 1",
+      "address": "TAMAN WILAYAH SELAYANG,",
+      "phone": "03-612744441",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-IMAM AL-GHAZALI",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 1",
+      "address": "BANDAR MENJALARA, KEPONG,",
+      "phone": "03-62625040/010",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUTTAQIN,",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 4",
+      "address": "TAMAN WANGSA MELAWATI,",
+      "phone": "0341497700",
+      "fax": "0341497700"
+    },
+    {
+      "name": "MASJID AR-RAHIMAH,",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "KAMPUNG PANDAN,",
+      "phone": "03-92841013",
+      "fax": "03-92841013"
+    },
+    {
+      "name": "MASJID JAMIUL EHSAN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 4",
+      "address": "JALAN PAHANG, PEKAN SETAPAK",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HIDAYAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 6",
+      "address": "LOT 2957 JALAN PENCHALA INDAH 2, KAMPUNG SUNGAI PENCHALA,",
+      "phone": "03-77337306",
+      "fax": "03-77270016"
+    },
+    {
+      "name": "MASJID JAMEK SULTAN ABDUL SAMAD",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "JALAN TUN PERAK",
+      "phone": "03-26912829",
+      "fax": "03-26912829"
+    },
+    {
+      "name": "MASJID ZAID BIN HARITSAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 2",
+      "address": "KM 8, JALAN GOMBAK",
+      "phone": "0126182750",
+      "fax": ""
+    },
+    {
+      "name": "MASJID IBNU SINA",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 4",
+      "address": "JALAN AYER MOLEK, TAMAN TASIK TITIWANGSA",
+      "phone": "03-40236897",
+      "fax": "03-40236897"
+    },
+    {
+      "name": "MASJID USAMAH BIN ZAID",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 4",
+      "address": "8A JALAN 2/27A WANGSA MAJU SETAPAK",
+      "phone": "03-41421653",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT AMAN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "JALAN BUKIT AMANNO PENDAFTARAN: JAWI/5/037",
+      "phone": "03-22740525",
+      "fax": "03-22740521"
+    },
+    {
+      "name": "MASJID JAMEK ALAM SHAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "JALAN TUN RAZAK/JALAN PASARNo Pendaftaran: JAWI/5/005",
+      "phone": "03-92848584",
+      "fax": "03-92848584"
+    },
+    {
+      "name": "MASJID AL-NAJIHIN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "BANDAR SERI PERMAISURICHERAS KUALA LUMPUR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUKHLISIN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "TAMAN ALAM DAMAI, CHERAS",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RAHAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 6",
+      "address": "LOT 51805, KAMPUNG KERINCHI",
+      "phone": "03-22422255",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ABI AYYUB AL-ANSORI",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 1",
+      "address": "NO.4, JLN BATU MUDA 6,TMN BATU MUDA, BATU CAVESKUALA LUMPUR",
+      "phone": "03-61786129",
+      "fax": "03-61786229"
+    },
+    {
+      "name": "MASJID IBN ABBAS",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 2",
+      "address": "NO. 5 JALAN IBU KOTA 3 TAMAN IBU KOTA KUALA LUMPUR",
+      "phone": "0199076955",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BILAL BIN RABAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 2",
+      "address": "LOT 50965, JALAN 13/10 TAMAN KOPERASI POLIS FASA 1, KUALA LUMPUR",
+      "phone": "0193555161",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TALHAH BIN UBAIDILLAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "JALAN ALAM SUTERA, BUKIT JALIL, KUALA LUMPUR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ZAID BIN THABIT",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "DESA TUN RAZAK , KUALA LUMPUR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MUHAMMADI",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 6",
+      "address": "KEMENTERIAN KOMUNIKASI DAN MULTIMEDIA MALAYSIA, ANGKASAPURI, BUKIT PUTRA, KUALA LUMPUR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID IBN MAS`UD",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 4",
+      "address": "102, JALAN DAMAI OFF JALAN AMPANG",
+      "phone": "03-21484617",
+      "fax": ""
+    },
+    {
+      "name": "MASJID UNIVERSITI TEKNOLOGI MALAYSIA",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 4",
+      "address": "JALAN SEMARAK",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MUHAMMAD AL-FATEH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 4",
+      "address": "PEJABAT AGAMA MARKAS 12 BRIGED, KEM WARDIBURN SETAPAK",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK ABDULLAH HUKUM ECO CITY",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 6",
+      "address": "KL ECO CITY JALAN BANGAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL ISLAM",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "BATU 4, DESA PAHLAWAN, JALAN AMPANGKUALA LUMPURNO PENDAFTARAN:JAWI/5/003/1/82",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS-SODIQIN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "TAMAN KOBENA CHERAS BTH 17 JULAI 2020",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUBARAKAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "TAMAN BUKIT AGGERIK BATU 7 JALAN CHERAS KUALA LUMPUR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ABDULLAH BIN ZUBAIR",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "JALAN LAPANGAN TERBANG LAMA, PENGKALAN TENTERA UDARA DIRAJA MALAYSIA, 50460 KUALA LUMPUR, WILAYAH PERSEKUTUAN KUALA LUMPUR",
+      "phone": "0392260000",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-SULTAN ABDULLAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "JALAN STADIUM, JALAN STADIUM, PRESINT 18",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AZ-ZAHRAWI HOSPITAL KUALA LUMPUR",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 3",
+      "address": "JALAN PAHANG, KUALA LUMPUR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID UPNM",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "SUNGAI BESI, 43200 KUALA LUMPUR, FEDERAL TERRITORY OF KUALA LUMPUR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID WILAYAH PERSEKUTUAN",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 1",
+      "address": "JLN. TUANKU ABDUL HALIM, KOMLEKS KERAJAAN KUALA LUMPUR",
+      "phone": "03-62018791",
+      "fax": ""
+    },
+    {
+      "name": "MASJID THORIQ BIN ZIYAD ( AL-JUNDIAH)",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 5",
+      "address": "PANGKALAN TENTERA DARAT KEM SUNGAI BESI 57100 KUALA LUMPUR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL KHADIJAH",
+      "state": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "district": "Zon 6",
+      "address": "JALAN PANTAI SENTRAL 2 59200 KUALA LUMPUR",
+      "phone": "",
+      "fax": ""
+    }
+  ],
+  "meta": {
+    "title": "Masjid di WP Kuala Lumpur - Muat turun percuma",
+    "description": "Senarai masjid di WP Kuala Lumpur — 76 masjid. Sumber: SISMIM/JAKIM (direktori kebangsaan masjid & surau). Medan: name, state, state_slug, district, address, phone, fax. Mengandungi 76 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Masjid di WP Kuala Lumpur | ListBase",
+    "seo_description": "Muat turun Masjid di WP Kuala Lumpur — 76 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 76 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

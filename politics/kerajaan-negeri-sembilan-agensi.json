@@ -1,0 +1,280 @@
+{
+  "id": "kerajaan-negeri-sembilan-agensi",
+  "name": "Senarai Agensi Kerajaan Negeri Sembilan",
+  "title": "Senarai Agensi Kerajaan Negeri Sembilan",
+  "description": "Senarai 7 agensi kerajaan di bawah Kerajaan Negeri Sembilan (kerajaan negeri), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 7/7 koordinat, 7/7 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "JABATAN HAL EHWAL AGAMA ISLAM NEGERI SEMBILAN",
+      "parent_body": "Kerajaan Negeri Sembilan",
+      "parent_body_slug": "kerajaan-negeri-sembilan",
+      "parent_body_type": "Kerajaan Negeri",
+      "description": "Jabatan Hal Ehwal Agama Islam Negeri Sembilan",
+      "address": "Karung berkunci No 30, 70990 Seremban, Negeri Sembilan",
+      "phone": "606-762 2692",
+      "fax": "606-763 1395",
+      "email": "webmasterjheains@ns.gov.my",
+      "contact_person": "webmasterjheains",
+      "website": "jheains.ns.gov.my",
+      "latitude": "2.718592",
+      "longitude": "101.948988",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PAN-30-05-00",
+      "active": true,
+      "agency_id": 41904
+    },
+    {
+      "name": "JABATAN KEBAJIKAN MASYARAKAT NEGERI SEMBILAN",
+      "parent_body": "Kerajaan Negeri Sembilan",
+      "parent_body_slug": "kerajaan-negeri-sembilan",
+      "parent_body_type": "Kerajaan Negeri",
+      "description": "Jabatan Kebajikan Masyarakat Negeri Sembilan",
+      "address": "Tingkat 1B, Wisma Negeri, Jalan Dato Abd. Malek, 70000 Seremban, Negeri Sembilan",
+      "phone": "606-7659555",
+      "fax": "606-7629 541",
+      "email": "jkmn_sembilan@jkm.gov.my",
+      "contact_person": "pro",
+      "website": "http://www.jkm.gov.my/jkm/index.php?r=negeri/left&type=berita&negeri=NSN&id=V2ExckhJa2pGYlloM3BVMlVsWDRTUT09",
+      "latitude": "2.7261809",
+      "longitude": "101.9399876",
+      "facebook": "https://www.facebook.com/page.jkmn.negerisembilan/",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PAN-30-14-00",
+      "active": true,
+      "agency_id": 3
+    },
+    {
+      "name": "JABATAN KERJA RAYA NEGERI SEMBILAN",
+      "parent_body": "Kerajaan Negeri Sembilan",
+      "parent_body_slug": "kerajaan-negeri-sembilan",
+      "parent_body_type": "Kerajaan Negeri",
+      "description": "Jabatan Kerja Raya Negeri Sembilan",
+      "address": "Tingkat 2, Blok A, Wisma Negeri, 70990 Seremban, Negeri Sembilan",
+      "phone": "606-765 9600",
+      "fax": "606-763 5644",
+      "email": "webmasterns.jkr@1govuc.gov.my",
+      "contact_person": "Webmaster",
+      "website": "http://jkrns.ns.gov.my/my/",
+      "latitude": "2.7263154",
+      "longitude": "101.9395467",
+      "facebook": "https://www.facebook.com/negerisembilan.jkr",
+      "twitter": "https://twitter.com/JKRNS",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PAN-30-08-00",
+      "active": true,
+      "agency_id": 41701
+    },
+    {
+      "name": "JABATAN PENGAIRAN DAN SALIRAN NEGERI SEMBILAN",
+      "parent_body": "Kerajaan Negeri Sembilan",
+      "parent_body_slug": "kerajaan-negeri-sembilan",
+      "parent_body_type": "Kerajaan Negeri",
+      "description": "Jabatan Pengairan Dan Saliran Negeri Sembilan",
+      "address": "Tingkat 2, Blok C, Wisma Negeri, 70503 Seremban, Negeri Sembilan",
+      "phone": "606-7659650",
+      "fax": "606-7637840",
+      "email": "jpsns@ns.gov.my",
+      "contact_person": "pro",
+      "website": "http://jpsns.ns.gov.my/my/",
+      "latitude": "2.7258323",
+      "longitude": "101.9397649",
+      "facebook": "https://www.facebook.com/JPSN9",
+      "twitter": "https://twitter.com/JPSN9",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PAN-30-10-00",
+      "active": true,
+      "agency_id": 41646
+    },
+    {
+      "name": "JABATAN PERANCANG BANDAR DAN DESA NEGERI SEMBILAN",
+      "parent_body": "Kerajaan Negeri Sembilan",
+      "parent_body_slug": "kerajaan-negeri-sembilan",
+      "parent_body_type": "Kerajaan Negeri",
+      "description": "Jabatan Perancangan Bandar Dan Desa Negeri Sembilan",
+      "address": "Tingkat 3, Blok A, Wisma Negeri, 70646 Seremban, Negeri Sembilan",
+      "phone": "606-7659713",
+      "fax": "606-764 5622",
+      "email": "jpbdns@ns.gov.my",
+      "contact_person": "pro",
+      "website": "http://jpbd.ns.gov.my/",
+      "latitude": "2.7259104",
+      "longitude": "101.9400767",
+      "facebook": "https://www.facebook.com/PLANMalaysiaN9/",
+      "twitter": "https://twitter.com/planmalaysian9",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCstcWytKZF1CnHkM3psw6JQ",
+      "unique_code": "PAN-30-09-00",
+      "active": true,
+      "agency_id": 41049
+    },
+    {
+      "name": "MAJLIS DAERAH KUALA PILAH",
+      "parent_body": "Kerajaan Negeri Sembilan",
+      "parent_body_slug": "kerajaan-negeri-sembilan",
+      "parent_body_type": "Kerajaan Negeri",
+      "description": "Majlis Daerah Kuala Pilah",
+      "address": "Jalan Perpateh, 72000 Kuala Pilah, Negeri Sembilan",
+      "phone": "606-4812075/4",
+      "fax": "606-4811042",
+      "email": "mdkp@mdkp.gov.my",
+      "contact_person": "pro",
+      "website": "http://www.mdkp.gov.my/",
+      "latitude": "2.7384053",
+      "longitude": "102.2449074",
+      "facebook": "https://www.facebook.com/mdkpns",
+      "twitter": "https://twitter.com/mdkp1",
+      "instagram": "https://www.instagram.com/majlisdaerah_kualapilah/",
+      "youtube": "",
+      "unique_code": "PBT-30-06-00",
+      "active": true,
+      "agency_id": 40869
+    },
+    {
+      "name": "PEJABAT SETIAUSAHA KERAJAAN NEGERI SEMBILAN",
+      "parent_body": "Kerajaan Negeri Sembilan",
+      "parent_body_slug": "kerajaan-negeri-sembilan",
+      "parent_body_type": "Kerajaan Negeri",
+      "description": "Pejabat SUK Negeri Sembilan",
+      "address": "Tingkat 5, Blok A, Wisma Negeri, Jalan Dato' Abdul Malek, 70503 Seremban, Negeri Sembilan",
+      "phone": "606-765 9900",
+      "fax": "606-761 7386",
+      "email": "korporatsukns@ns.gov.my",
+      "contact_person": "pro",
+      "website": "http://www.ns.gov.my/",
+      "latitude": "2.7262355",
+      "longitude": "101.9401934",
+      "facebook": "https://web.facebook.com/psukn9/",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "http://www.youtube.com/",
+      "unique_code": "PAN-30-02-00",
+      "active": true,
+      "agency_id": 41615
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi Kerajaan Negeri Sembilan - Muat turun percuma",
+    "description": "Senarai 7 agensi kerajaan di bawah Kerajaan Negeri Sembilan (kerajaan negeri), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 7/7 koordinat, 7/7 laman web. Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi Kerajaan Negeri Sembilan | ListBase",
+    "seo_description": "Muat turun Senarai Agensi Kerajaan Negeri Sembilan — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

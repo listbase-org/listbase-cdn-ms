@@ -1,0 +1,160 @@
+{
+  "id": "ms-kelantan-jeli-mukim",
+  "name": "Mukim di Daerah Jeli, Kelantan",
+  "title": "Mukim di Daerah Jeli, Kelantan",
+  "description": "Senarai lengkap 7 mukim di daerah Jeli, negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 7 mukim (traditional sub-district units) in Jeli District, Kelantan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "031101",
+      "name": "Belimbing",
+      "name_uppercase": "BELIMBING",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 556,
+      "state_slug": "kelantan",
+      "district_slug": "jeli"
+    },
+    {
+      "id": "031102",
+      "name": "Bunga Tanjong",
+      "name_uppercase": "BUNGA TANJONG",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 557,
+      "state_slug": "kelantan",
+      "district_slug": "jeli"
+    },
+    {
+      "id": "031103",
+      "name": "Jeli",
+      "name_uppercase": "JELI",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 558,
+      "state_slug": "kelantan",
+      "district_slug": "jeli"
+    },
+    {
+      "id": "031104",
+      "name": "Jeli Tepi Sungai",
+      "name_uppercase": "JELI TEPI SUNGAI",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 559,
+      "state_slug": "kelantan",
+      "district_slug": "jeli"
+    },
+    {
+      "id": "031105",
+      "name": "Kalai",
+      "name_uppercase": "KALAI",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 560,
+      "state_slug": "kelantan",
+      "district_slug": "jeli"
+    },
+    {
+      "id": "031106",
+      "name": "Kuala Balah",
+      "name_uppercase": "KUALA BALAH",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 561,
+      "state_slug": "kelantan",
+      "district_slug": "jeli"
+    },
+    {
+      "id": "031107",
+      "name": "Lubok Bongor",
+      "name_uppercase": "LUBOK BONGOR",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 562,
+      "state_slug": "kelantan",
+      "district_slug": "jeli"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Jeli, Kelantan - Muat turun percuma",
+    "description": "Senarai lengkap 7 mukim di daerah Jeli, negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 7 mukim (traditional sub-district units) in Jeli District, Kelantan, Malaysia. Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Jeli, Kelantan | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Jeli, Kelantan — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

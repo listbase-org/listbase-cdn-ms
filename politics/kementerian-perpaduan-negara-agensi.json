@@ -1,0 +1,192 @@
+{
+  "id": "kementerian-perpaduan-negara-agensi",
+  "name": "Senarai Agensi KEMENTERIAN PERPADUAN NEGARA",
+  "title": "Senarai Agensi KEMENTERIAN PERPADUAN NEGARA",
+  "description": "Senarai 3 agensi kerajaan di bawah KEMENTERIAN PERPADUAN NEGARA (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 3/3 koordinat, 2/3 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "INSTITUT KAJIAN & LATIHAN INTEGRASI NASIONAL (IKLIN)",
+      "parent_body": "KEMENTERIAN PERPADUAN NEGARA",
+      "parent_body_slug": "kementerian-perpaduan-negara",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Menjadi sebuah pusat kajian dan latihan yang unggul dalam bidang pengurusan perpaduan dan integrasi nasional",
+      "address": "Aras 7, Blok E2, Kompleks E, 52602 Putrajaya",
+      "phone": "603-8883 7000",
+      "fax": "",
+      "email": "80008000@mygcc.gov.my",
+      "contact_person": "mygcc",
+      "website": "",
+      "latitude": "2.8812138",
+      "longitude": "101.6615614",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "SEM90009",
+      "active": true,
+      "agency_id": 42092
+    },
+    {
+      "name": "JABATAN PERPADUAN NEGARA DAN INTEGRASI NASIONAL",
+      "parent_body": "KEMENTERIAN PERPADUAN NEGARA",
+      "parent_body_slug": "kementerian-perpaduan-negara",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "JABATAN PERPADUAN NEGARA DAN INTEGRASI NASIONAL",
+      "address": "Jabatan Perpaduan Negara dan Integrasi Nasional, Aras 7-10, Blok E2, Kompleks E, Pusat Pentadbiran Kerajaan Persekutuan, 62502 Putrajaya",
+      "phone": "+603-88837000",
+      "fax": "+603-88888584",
+      "email": "webmaster@perpaduan.gov.my",
+      "contact_person": "Webmaster",
+      "website": "https://www.jpnin.gov.my/web/home",
+      "latitude": "2.951185",
+      "longitude": "101.693447",
+      "facebook": "https://www.facebook.com/JPNINOfficial/",
+      "twitter": "",
+      "instagram": "https://www.instagram.com/jpnin.hq/",
+      "youtube": "https://www.youtube.com/channel/UCGcsPzjDxzp_XUivH93WDwQ",
+      "unique_code": "PAP-KPN-JPNIN",
+      "active": true,
+      "agency_id": 42840
+    },
+    {
+      "name": "KEMENTERIAN PERPADUAN NEGARA",
+      "parent_body": "KEMENTERIAN PERPADUAN NEGARA",
+      "parent_body_slug": "kementerian-perpaduan-negara",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "JABATAN PERPADUAN NEGARA DAN INTEGRASI NASIONAL (JPNIN)",
+      "address": "Aras 5-10, Blok F9, Parcel F, Lebuh Perdana Timur A, Pusat Pentadbiran Kerajaan Persekutuan, 62000 Putrajaya",
+      "phone": "603-8883 7000",
+      "fax": "03-8888 8584",
+      "email": "webmaster@perpaduan.gov.my",
+      "contact_person": "Webmaster",
+      "website": "https://www.perpaduan.gov.my/ms",
+      "latitude": "2.9415774",
+      "longitude": "101.7087",
+      "facebook": "https://www.facebook.com/PerpaduanNegara",
+      "twitter": "https://twitter.com/PerpaduanNegara",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCGcsPzjDxzp_XUivH93WDwQ",
+      "unique_code": "PAP-01-23-00",
+      "active": true,
+      "agency_id": 147
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi KEMENTERIAN PERPADUAN NEGARA - Muat turun percuma",
+    "description": "Senarai 3 agensi kerajaan di bawah KEMENTERIAN PERPADUAN NEGARA (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 3/3 koordinat, 2/3 laman web. Mengandungi 3 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi KEMENTERIAN PERPADUAN NEGARA | ListBase",
+    "seo_description": "Muat turun Senarai Agensi KEMENTERIAN PERPADUAN NEGARA — 3 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 3 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

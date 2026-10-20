@@ -1,0 +1,205 @@
+{
+  "id": "ms-negeri",
+  "name": "Senarai Negeri dan Wilayah Persekutuan Malaysia",
+  "title": "Senarai Negeri dan Wilayah Persekutuan Malaysia",
+  "description": "Senarai 13 negeri Malaysia dan 3 wilayah persekutuan (WP Kuala Lumpur, WP Labuan, WP Putrajaya) berserta jumlah bandar dan poskod yang dikaitkan. Setiap rekod menyimpan nama negeri, jenis pentadbiran (negeri/wilayah-persekutuan), bilangan bandar, dan bilangan poskod unik. Sumber data: AsyrafHussin/malaysia-postcodes.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_short",
+      "label": "State Short",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "state_type",
+      "label": "State Type",
+      "type": "string"
+    },
+    {
+      "key": "city_count",
+      "label": "City Count",
+      "type": "number"
+    },
+    {
+      "key": "postcode_count",
+      "label": "Postcode Count",
+      "type": "number"
+    },
+    {
+      "key": "postcode_instance_count",
+      "label": "Postcode Instance Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "city_count": 54,
+      "postcode_count": 234,
+      "postcode_instance_count": 237
+    },
+    {
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "city_count": 34,
+      "postcode_count": 149,
+      "postcode_instance_count": 149
+    },
+    {
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "city_count": 22,
+      "postcode_count": 145,
+      "postcode_instance_count": 145
+    },
+    {
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "city_count": 16,
+      "postcode_count": 37,
+      "postcode_instance_count": 37
+    },
+    {
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "city_count": 25,
+      "postcode_count": 157,
+      "postcode_instance_count": 157
+    },
+    {
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "city_count": 38,
+      "postcode_count": 204,
+      "postcode_instance_count": 204
+    },
+    {
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "city_count": 71,
+      "postcode_count": 239,
+      "postcode_instance_count": 239
+    },
+    {
+      "state": "Perlis",
+      "state_short": "Perlis",
+      "state_slug": "perlis",
+      "state_type": "negeri",
+      "city_count": 6,
+      "postcode_count": 77,
+      "postcode_instance_count": 77
+    },
+    {
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "city_count": 22,
+      "postcode_count": 142,
+      "postcode_instance_count": 142
+    },
+    {
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "city_count": 33,
+      "postcode_count": 409,
+      "postcode_instance_count": 410
+    },
+    {
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "city_count": 49,
+      "postcode_count": 228,
+      "postcode_instance_count": 228
+    },
+    {
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "city_count": 48,
+      "postcode_count": 339,
+      "postcode_instance_count": 339
+    },
+    {
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "city_count": 22,
+      "postcode_count": 169,
+      "postcode_instance_count": 169
+    },
+    {
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "state_short": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "state_type": "wilayah-persekutuan",
+      "city_count": 2,
+      "postcode_count": 299,
+      "postcode_instance_count": 299
+    },
+    {
+      "state": "Wilayah Persekutuan Labuan",
+      "state_short": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "state_type": "wilayah-persekutuan",
+      "city_count": 1,
+      "postcode_count": 27,
+      "postcode_instance_count": 27
+    },
+    {
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_short": "WP Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "state_type": "wilayah-persekutuan",
+      "city_count": 1,
+      "postcode_count": 74,
+      "postcode_instance_count": 74
+    }
+  ],
+  "meta": {
+    "title": "Senarai Negeri dan Wilayah Persekutuan Malaysia - Muat turun percuma",
+    "description": "Senarai 13 negeri Malaysia dan 3 wilayah persekutuan (WP Kuala Lumpur, WP Labuan, WP Putrajaya) berserta jumlah bandar dan poskod yang dikaitkan. Setiap rekod menyimpan nama negeri, jenis pentadbiran (negeri/wilayah-persekutuan), bilangan bandar, dan bilangan poskod unik. Sumber data: AsyrafHussin/malaysia-postcodes. Mengandungi 16 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Negeri dan Wilayah Persekutuan Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Negeri dan Wilayah Persekutuan Malaysia — 16 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 16 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

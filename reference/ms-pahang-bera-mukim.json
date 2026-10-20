@@ -1,0 +1,148 @@
+{
+  "id": "ms-pahang-bera-mukim",
+  "name": "Mukim di Daerah Bera, Pahang",
+  "title": "Mukim di Daerah Bera, Pahang",
+  "description": "Senarai lengkap 6 mukim di daerah Bera, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 6 mukim (traditional sub-district units) in Bera District, Pahang, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "061101",
+      "name": "Bera",
+      "name_uppercase": "BERA",
+      "district_id": "611",
+      "district": "Bera",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1071,
+      "state_slug": "pahang",
+      "district_slug": "bera"
+    },
+    {
+      "id": "061102",
+      "name": "Triang",
+      "name_uppercase": "TRIANG",
+      "district_id": "611",
+      "district": "Bera",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1072,
+      "state_slug": "pahang",
+      "district_slug": "bera"
+    },
+    {
+      "id": "061142",
+      "name": "Bandar Triang",
+      "name_uppercase": "BANDAR TRIANG",
+      "district_id": "611",
+      "district": "Bera",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1073,
+      "state_slug": "pahang",
+      "district_slug": "bera"
+    },
+    {
+      "id": "061170",
+      "name": "Pekan Durian Tawar",
+      "name_uppercase": "PEKAN DURIAN TAWAR",
+      "district_id": "611",
+      "district": "Bera",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1074,
+      "state_slug": "pahang",
+      "district_slug": "bera"
+    },
+    {
+      "id": "061174",
+      "name": "Pekan Mengkarak",
+      "name_uppercase": "PEKAN MENGKARAK",
+      "district_id": "611",
+      "district": "Bera",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1075,
+      "state_slug": "pahang",
+      "district_slug": "bera"
+    },
+    {
+      "id": "061175",
+      "name": "Pekan Mengkuang",
+      "name_uppercase": "PEKAN MENGKUANG",
+      "district_id": "611",
+      "district": "Bera",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1076,
+      "state_slug": "pahang",
+      "district_slug": "bera"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Bera, Pahang - Muat turun percuma",
+    "description": "Senarai lengkap 6 mukim di daerah Bera, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 6 mukim (traditional sub-district units) in Bera District, Pahang, Malaysia. Mengandungi 6 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Bera, Pahang | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Bera, Pahang — 6 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 6 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

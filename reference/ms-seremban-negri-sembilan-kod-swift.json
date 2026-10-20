@@ -1,0 +1,93 @@
+{
+  "id": "ms-seremban-negri-sembilan-kod-swift",
+  "name": "Kod SWIFT/BIC — Seremban, Negri Sembilan",
+  "title": "Kod SWIFT/BIC — Seremban, Negri Sembilan",
+  "description": "Senarai institusi kewangan di Seremban, Negri Sembilan (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Seremban, Negri Sembilan, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 196,
+      "bank": "KIMARA EQUITIES SDN BHD",
+      "city": "SEREMBAN, NEGRI SEMBILAN",
+      "branch": "",
+      "swift_code": "KIMAMY21"
+    },
+    {
+      "id": 229,
+      "bank": "MALAYAN BANKING BERHAD (MAYBANK)",
+      "city": "SEREMBAN, NEGRI SEMBILAN",
+      "branch": "",
+      "swift_code": "MBBEMYKLSBN"
+    },
+    {
+      "id": 236,
+      "bank": "MALPAC MANAGEMENT SDN. BHD.",
+      "city": "SEREMBAN, NEGRI SEMBILAN",
+      "branch": "",
+      "swift_code": "SSSDMY21"
+    },
+    {
+      "id": 330,
+      "bank": "SAMSUNG ELECTRONICS DISPLAY (M) SDN.BHD.",
+      "city": "SEREMBAN, NEGRI SEMBILAN",
+      "branch": "(SDMA)",
+      "swift_code": "SECTMY21510"
+    },
+    {
+      "id": 331,
+      "bank": "SAMSUNG ELECTRONICS DISPLAY (M) SDN.BHD.",
+      "city": "SEREMBAN, NEGRI SEMBILAN",
+      "branch": "",
+      "swift_code": "SECTMY21"
+    },
+    {
+      "id": 393,
+      "bank": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "city": "SEREMBAN, NEGRI SEMBILAN",
+      "branch": "",
+      "swift_code": "UOVBMYK1023"
+    }
+  ],
+  "meta": {
+    "title": "Kod SWIFT/BIC — Seremban, Negri Sembilan - Muat turun percuma",
+    "description": "Senarai institusi kewangan di Seremban, Negri Sembilan (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Seremban, Negri Sembilan, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source. Mengandungi 6 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kod SWIFT/BIC — Seremban, Negri Sembilan | ListBase",
+    "seo_description": "Muat turun Kod SWIFT/BIC — Seremban, Negri Sembilan — 6 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 6 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

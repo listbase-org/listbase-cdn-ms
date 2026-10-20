@@ -1,0 +1,107 @@
+{
+  "id": "ms-negeri-sembilan-parlimen",
+  "name": "Senarai Parlimen Negeri Sembilan",
+  "title": "Senarai Parlimen Negeri Sembilan",
+  "description": "Senarai kerusi Parlimen di Negeri Sembilan berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P126",
+      "name": "Jelebu",
+      "negeri": "Negeri Sembilan",
+      "dun_count": 4,
+      "dun": "N01: Chennah, N02: Pertang, N03: Sungai Lui, N04: Klawang"
+    },
+    {
+      "code": "P127",
+      "name": "Jempol",
+      "negeri": "Negeri Sembilan",
+      "dun_count": 4,
+      "dun": "N05: Serting, N06: Palong, N07: Jeram Padang, N08: Bahau"
+    },
+    {
+      "code": "P128",
+      "name": "Seremban",
+      "negeri": "Negeri Sembilan",
+      "dun_count": 6,
+      "dun": "N09: Lenggeng, N10: Nilai, N11: Lobak, N12: Temiang, N13: Sikamat, N14: Ampangan"
+    },
+    {
+      "code": "P129",
+      "name": "Kuala Pilah",
+      "negeri": "Negeri Sembilan",
+      "dun_count": 5,
+      "dun": "N15: Juasseh, N16: Seri Menanti, N17: Senaling, N18: Pilah, N19: Johol"
+    },
+    {
+      "code": "P130",
+      "name": "Rasah",
+      "negeri": "Negeri Sembilan",
+      "dun_count": 5,
+      "dun": "N20: Labu, N21: Bukit Kepayang, N22: Rahang, N23: Mambau, N24: Seremban Jaya"
+    },
+    {
+      "code": "P131",
+      "name": "Rembau",
+      "negeri": "Negeri Sembilan",
+      "dun_count": 4,
+      "dun": "N25: Paroi, N26: Chembong, N27: Rantau, N28: Kota"
+    },
+    {
+      "code": "P132",
+      "name": "Port Dickson",
+      "negeri": "Negeri Sembilan",
+      "dun_count": 5,
+      "dun": "N29: Chuah, N30: Lukut, N31: Bagan Pinang, N32: Linggi, N33: Sri Tanjung"
+    },
+    {
+      "code": "P133",
+      "name": "Tampin",
+      "negeri": "Negeri Sembilan",
+      "dun_count": 3,
+      "dun": "N34: Gemas, N35: Gemencheh, N36: Repah"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen Negeri Sembilan - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di Negeri Sembilan berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested. Mengandungi 8 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen Negeri Sembilan | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen Negeri Sembilan — 8 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 8 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

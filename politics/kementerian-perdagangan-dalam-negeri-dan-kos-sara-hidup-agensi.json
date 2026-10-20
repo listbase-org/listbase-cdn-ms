@@ -1,0 +1,214 @@
+{
+  "id": "kementerian-perdagangan-dalam-negeri-dan-kos-sara-hidup-agensi",
+  "name": "Senarai Agensi Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup",
+  "title": "Senarai Agensi Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup",
+  "description": "Senarai 4 agensi kerajaan di bawah Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 4/4 koordinat, 3/4 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "KEMENTERIAN PERDAGANGAN DALAM NEGERI DAN KOS SARA HIDUP",
+      "parent_body": "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup",
+      "parent_body_slug": "kementerian-perdagangan-dalam-negeri-dan-kos-sara-hidup",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup",
+      "address": "No. 13, Persiaran Perdana, Presint 2, 62623 Putrajaya, Wilayah Persekutuan Putrajaya.",
+      "phone": "603-8000 8000",
+      "fax": "",
+      "email": "80008000@mygcc.gov.my",
+      "contact_person": "MyGCC",
+      "website": "",
+      "latitude": "2.920583",
+      "longitude": "101.687489",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "KPDNDKSHAGENSI",
+      "active": true,
+      "agency_id": 42122
+    },
+    {
+      "name": "PERBADANAN HARTA INTELEK MALAYSIA (MyIPO)",
+      "parent_body": "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup",
+      "parent_body_slug": "kementerian-perdagangan-dalam-negeri-dan-kos-sara-hidup",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Menjadi Sebuah Organisasi Harta Intelek Terbaik",
+      "address": "Unit 1-7, Aras Bawah, Tower B, Menara UOA Bangsar, No. 5, Jalan Bangsar Utama 1, 59000 Kuala Lumpur",
+      "phone": "603-2299 8400",
+      "fax": "03-2299 8989",
+      "email": "ipmalaysia@myipo.gov.my",
+      "contact_person": "ipmalaysia",
+      "website": "http://www.myipo.gov.my/ms/start/",
+      "latitude": "3.1339793",
+      "longitude": "101.6762485",
+      "facebook": "https://web.facebook.com/ipmalaysia/",
+      "twitter": "https://twitter.com/myipo",
+      "instagram": "https://www.instagram.com/myipo/",
+      "youtube": "https://www.youtube.com/user/ipmalaysia",
+      "unique_code": "SEM-99-30-00",
+      "active": true,
+      "agency_id": 41275
+    },
+    {
+      "name": "SURUHANJAYA PERSAINGAN MALAYSIA (MyCC)",
+      "parent_body": "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup",
+      "parent_body_slug": "kementerian-perdagangan-dalam-negeri-dan-kos-sara-hidup",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "SURUHANJAYA PERSAINGAN MALAYSIA (MyCC)",
+      "address": "Level 15, Menara SSM @Sentral, 7, Jalan Stesen Sentral 5, Kuala Lumpur Sentral, 50623 Kuala Lumpur",
+      "phone": "603-2273 2277",
+      "fax": "03-2272 2293",
+      "email": "enquiries@mycc.gov.my",
+      "contact_person": "enquiries",
+      "website": "http://www.mycc.gov.my/",
+      "latitude": "3.133443",
+      "longitude": "101.682042",
+      "facebook": "https://web.facebook.com/themycc?_rdc=1&_rdr",
+      "twitter": "https://twitter.com/themycc",
+      "instagram": "https://www.instagram.com/themycc/",
+      "youtube": "https://www.youtube.com/channel/UCspE6RMt8UntBDxpnsnWXwQ",
+      "unique_code": "BBP-09-03-00",
+      "active": true,
+      "agency_id": 235
+    },
+    {
+      "name": "SURUHANJAYA SYARIKAT MALAYSIA (SSM)",
+      "parent_body": "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup",
+      "parent_body_slug": "kementerian-perdagangan-dalam-negeri-dan-kos-sara-hidup",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Visi: Untuk Menjadi Pendaftar dan Pengawal Selia Korporat Terulung Fungsi: 1) Mengawalselia dan menguatkuasakan undang-undang yang ditadbir 2) Sebagai agen kerajaan dalam pentadbiran, pengutipan dan pembayaran fi atau caj lain yang ditetapkan 3) Mengawal selia syarikat dan perniagaan 4) Mempromosi tadbir urus korporat dan kelestarian korporat 5) Menambahbaik dan mempromosikan bekalan maklumat korporat 6)Penyelidikan dan kajian tentang aktiviti korporat dan perniagaan 7)Memberi khidmat nasihat kepada YB Menteri berhubung perkara berkaitan undang-undang syarikat dan perniagaan",
+      "address": "Menara SSM@Sentral, No 7, Jalan Stesen Sentral 5, Kuala Lumpur Sentral, 50623 Kuala Lumpur",
+      "phone": "603-7721 4000",
+      "fax": "03-7721 4001",
+      "email": "enquiry@ssm.com.my",
+      "contact_person": "enquiry",
+      "website": "https://www.ssm.com.my/Pages/Home.aspx",
+      "latitude": "3.133083",
+      "longitude": "101.684306",
+      "facebook": "https://web.facebook.com/ssmofficialpage?_rdc=1&_rdr",
+      "twitter": "https://twitter.com/ssmofficialpage",
+      "instagram": "https://www.instagram.com/ssmofficialpage/",
+      "youtube": "https://www.youtube.com/user/ssmofficialpage",
+      "unique_code": "SEM-99-29-00",
+      "active": true,
+      "agency_id": 30135
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup - Muat turun percuma",
+    "description": "Senarai 4 agensi kerajaan di bawah Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 4/4 koordinat, 3/4 laman web. Mengandungi 4 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup | ListBase",
+    "seo_description": "Muat turun Senarai Agensi Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup — 4 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 4 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "ms-johor-johor-bahru-mukim",
+  "name": "Mukim di Daerah Johor Bahru, Johor",
+  "title": "Mukim di Daerah Johor Bahru, Johor",
+  "description": "Senarai lengkap 7 mukim di daerah Johor Bahru, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 7 mukim (traditional sub-district units) in Johor Bahru District, Johor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "010201",
+      "name": "Jelutong",
+      "name_uppercase": "JELUTONG",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1600,
+      "state_slug": "johor",
+      "district_slug": "johor-bahru"
+    },
+    {
+      "id": "010202",
+      "name": "Plentong",
+      "name_uppercase": "PLENTONG",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1601,
+      "state_slug": "johor",
+      "district_slug": "johor-bahru"
+    },
+    {
+      "id": "010203",
+      "name": "Pulai",
+      "name_uppercase": "PULAI",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1602,
+      "state_slug": "johor",
+      "district_slug": "johor-bahru"
+    },
+    {
+      "id": "010206",
+      "name": "Sungai Tiram",
+      "name_uppercase": "SUNGAI TIRAM",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1603,
+      "state_slug": "johor",
+      "district_slug": "johor-bahru"
+    },
+    {
+      "id": "010207",
+      "name": "Tanjung Kupang",
+      "name_uppercase": "TANJUNG KUPANG",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1604,
+      "state_slug": "johor",
+      "district_slug": "johor-bahru"
+    },
+    {
+      "id": "010208",
+      "name": "Tembrau",
+      "name_uppercase": "TEMBRAU",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1605,
+      "state_slug": "johor",
+      "district_slug": "johor-bahru"
+    },
+    {
+      "id": "010240",
+      "name": "Bandar Johor Bahru",
+      "name_uppercase": "BANDAR JOHOR BAHRU",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1606,
+      "state_slug": "johor",
+      "district_slug": "johor-bahru"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Johor Bahru, Johor - Muat turun percuma",
+    "description": "Senarai lengkap 7 mukim di daerah Johor Bahru, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 7 mukim (traditional sub-district units) in Johor Bahru District, Johor, Malaysia. Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Johor Bahru, Johor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Johor Bahru, Johor — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

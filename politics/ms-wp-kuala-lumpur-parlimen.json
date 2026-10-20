@@ -1,0 +1,128 @@
+{
+  "id": "ms-wp-kuala-lumpur-parlimen",
+  "name": "Senarai Parlimen W.P. Kuala Lumpur",
+  "title": "Senarai Parlimen W.P. Kuala Lumpur",
+  "description": "Senarai kerusi Parlimen di W.P. Kuala Lumpur berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Wilayah Persekutuan tidak mempunyai DUN sendiri.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P114",
+      "name": "Kepong",
+      "negeri": "W.P. Kuala Lumpur",
+      "dun_count": 0,
+      "dun": ""
+    },
+    {
+      "code": "P115",
+      "name": "Batu",
+      "negeri": "W.P. Kuala Lumpur",
+      "dun_count": 0,
+      "dun": ""
+    },
+    {
+      "code": "P116",
+      "name": "Wangsa Maju",
+      "negeri": "W.P. Kuala Lumpur",
+      "dun_count": 0,
+      "dun": ""
+    },
+    {
+      "code": "P117",
+      "name": "Segambut",
+      "negeri": "W.P. Kuala Lumpur",
+      "dun_count": 0,
+      "dun": ""
+    },
+    {
+      "code": "P118",
+      "name": "Setiawangsa",
+      "negeri": "W.P. Kuala Lumpur",
+      "dun_count": 0,
+      "dun": ""
+    },
+    {
+      "code": "P119",
+      "name": "Titiwangsa",
+      "negeri": "W.P. Kuala Lumpur",
+      "dun_count": 0,
+      "dun": ""
+    },
+    {
+      "code": "P120",
+      "name": "Bukit Bintang",
+      "negeri": "W.P. Kuala Lumpur",
+      "dun_count": 0,
+      "dun": ""
+    },
+    {
+      "code": "P121",
+      "name": "Lembah Pantai",
+      "negeri": "W.P. Kuala Lumpur",
+      "dun_count": 0,
+      "dun": ""
+    },
+    {
+      "code": "P122",
+      "name": "Seputeh",
+      "negeri": "W.P. Kuala Lumpur",
+      "dun_count": 0,
+      "dun": ""
+    },
+    {
+      "code": "P123",
+      "name": "Cheras",
+      "negeri": "W.P. Kuala Lumpur",
+      "dun_count": 0,
+      "dun": ""
+    },
+    {
+      "code": "P124",
+      "name": "Bandar Tun Razak",
+      "negeri": "W.P. Kuala Lumpur",
+      "dun_count": 0,
+      "dun": ""
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen W.P. Kuala Lumpur - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di W.P. Kuala Lumpur berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Wilayah Persekutuan tidak mempunyai DUN sendiri. Mengandungi 11 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen W.P. Kuala Lumpur | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen W.P. Kuala Lumpur — 11 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 11 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "ms-perak-daerah",
+  "name": "Daerah di Perak",
+  "title": "Daerah di Perak",
+  "description": "Senarai lengkap 11 daerah (district) di negeri Perak, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 11 administrative districts in Perak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "801",
+      "name": "Batang Padang",
+      "name_uppercase": "BATANG PADANG",
+      "code": "BPA",
+      "state_id": "8",
+      "state": "Perak"
+    },
+    {
+      "id": "802",
+      "name": "Manjung",
+      "name_uppercase": "MANJUNG",
+      "code": "MAN",
+      "state_id": "8",
+      "state": "Perak"
+    },
+    {
+      "id": "803",
+      "name": "Kinta",
+      "name_uppercase": "KINTA",
+      "code": "KIN",
+      "state_id": "8",
+      "state": "Perak"
+    },
+    {
+      "id": "804",
+      "name": "Kerian",
+      "name_uppercase": "KERIAN",
+      "code": "KER",
+      "state_id": "8",
+      "state": "Perak"
+    },
+    {
+      "id": "805",
+      "name": "Kuala Kangsar",
+      "name_uppercase": "KUALA KANGSAR",
+      "code": "KKA",
+      "state_id": "8",
+      "state": "Perak"
+    },
+    {
+      "id": "806",
+      "name": "Larut & Matang",
+      "name_uppercase": "LARUT & MATANG",
+      "code": "LDM",
+      "state_id": "8",
+      "state": "Perak"
+    },
+    {
+      "id": "807",
+      "name": "Hilir Perak",
+      "name_uppercase": "HILIR PERAK",
+      "code": "HPE",
+      "state_id": "8",
+      "state": "Perak"
+    },
+    {
+      "id": "808",
+      "name": "Hulu Perak",
+      "name_uppercase": "HULU PERAK",
+      "code": "HPR",
+      "state_id": "8",
+      "state": "Perak"
+    },
+    {
+      "id": "809",
+      "name": "Selama",
+      "name_uppercase": "SELAMA",
+      "code": "SEL",
+      "state_id": "8",
+      "state": "Perak"
+    },
+    {
+      "id": "810",
+      "name": "Perak Tengah",
+      "name_uppercase": "PERAK TENGAH",
+      "code": "PTE",
+      "state_id": "8",
+      "state": "Perak"
+    },
+    {
+      "id": "811",
+      "name": "Kampar",
+      "name_uppercase": "KAMPAR",
+      "code": "KAM",
+      "state_id": "8",
+      "state": "Perak"
+    }
+  ],
+  "meta": {
+    "title": "Daerah di Perak - Muat turun percuma",
+    "description": "Senarai lengkap 11 daerah (district) di negeri Perak, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 11 administrative districts in Perak, Malaysia. Mengandungi 11 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Daerah di Perak | ListBase",
+    "seo_description": "Muat turun Daerah di Perak — 11 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 11 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

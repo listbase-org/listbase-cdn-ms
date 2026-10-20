@@ -1,0 +1,312 @@
+{
+  "id": "ms-terengganu-dun",
+  "name": "Senarai Dewan Undangan Negeri (DUN) Terengganu",
+  "title": "Senarai Dewan Undangan Negeri (DUN) Terengganu",
+  "description": "Senarai 32 kerusi Dewan Undangan Negeri (DUN) bagi negeri Terengganu berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 32 State Legislative Assembly seats for Terengganu; a verbatim per-state subset of the national ms-dun list.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_code",
+      "label": "Parlimen Code",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_name",
+      "label": "Parlimen Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "N01",
+      "name": "Kuala Besut",
+      "parlimen_code": "P033",
+      "parlimen_name": "Besut",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N02",
+      "name": "Kota Putera",
+      "parlimen_code": "P033",
+      "parlimen_name": "Besut",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N03",
+      "name": "Jertih",
+      "parlimen_code": "P033",
+      "parlimen_name": "Besut",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N04",
+      "name": "Hulu Besut",
+      "parlimen_code": "P033",
+      "parlimen_name": "Besut",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N05",
+      "name": "Jabi",
+      "parlimen_code": "P034",
+      "parlimen_name": "Setiu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N06",
+      "name": "Permaisuri",
+      "parlimen_code": "P034",
+      "parlimen_name": "Setiu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N07",
+      "name": "Langkap",
+      "parlimen_code": "P034",
+      "parlimen_name": "Setiu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N08",
+      "name": "Batu Rakit",
+      "parlimen_code": "P034",
+      "parlimen_name": "Setiu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N09",
+      "name": "Tepuh",
+      "parlimen_code": "P035",
+      "parlimen_name": "Kuala Nerus",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N10",
+      "name": "Buluh Gading",
+      "parlimen_code": "P035",
+      "parlimen_name": "Kuala Nerus",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N11",
+      "name": "Seberang Takir",
+      "parlimen_code": "P035",
+      "parlimen_name": "Kuala Nerus",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N12",
+      "name": "Bukit Tunggal",
+      "parlimen_code": "P035",
+      "parlimen_name": "Kuala Nerus",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N13",
+      "name": "Wakaf Mempelam",
+      "parlimen_code": "P036",
+      "parlimen_name": "Kuala Terengganu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N14",
+      "name": "Bandar",
+      "parlimen_code": "P036",
+      "parlimen_name": "Kuala Terengganu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N15",
+      "name": "Ladang",
+      "parlimen_code": "P036",
+      "parlimen_name": "Kuala Terengganu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N16",
+      "name": "Batu Buruk",
+      "parlimen_code": "P036",
+      "parlimen_name": "Kuala Terengganu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N17",
+      "name": "Alur Limbat",
+      "parlimen_code": "P037",
+      "parlimen_name": "Marang",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N18",
+      "name": "Bukit Payung",
+      "parlimen_code": "P037",
+      "parlimen_name": "Marang",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N19",
+      "name": "Ru Rendang",
+      "parlimen_code": "P037",
+      "parlimen_name": "Marang",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N20",
+      "name": "Pengkalan Berangan",
+      "parlimen_code": "P037",
+      "parlimen_name": "Marang",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N21",
+      "name": "Telemung",
+      "parlimen_code": "P038",
+      "parlimen_name": "Hulu Terengganu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N22",
+      "name": "Manir",
+      "parlimen_code": "P038",
+      "parlimen_name": "Hulu Terengganu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N23",
+      "name": "Kuala Berang",
+      "parlimen_code": "P038",
+      "parlimen_name": "Hulu Terengganu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N24",
+      "name": "Ajil",
+      "parlimen_code": "P038",
+      "parlimen_name": "Hulu Terengganu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N25",
+      "name": "Bukit Besi",
+      "parlimen_code": "P039",
+      "parlimen_name": "Dungun",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N26",
+      "name": "Rantau Abang",
+      "parlimen_code": "P039",
+      "parlimen_name": "Dungun",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N27",
+      "name": "Sura",
+      "parlimen_code": "P039",
+      "parlimen_name": "Dungun",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N28",
+      "name": "Paka",
+      "parlimen_code": "P039",
+      "parlimen_name": "Dungun",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N29",
+      "name": "Kemasik",
+      "parlimen_code": "P040",
+      "parlimen_name": "Kemaman",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N30",
+      "name": "Kijal",
+      "parlimen_code": "P040",
+      "parlimen_name": "Kemaman",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N31",
+      "name": "Cukai",
+      "parlimen_code": "P040",
+      "parlimen_name": "Kemaman",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    },
+    {
+      "code": "N32",
+      "name": "Air Putih",
+      "parlimen_code": "P040",
+      "parlimen_name": "Kemaman",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Dewan Undangan Negeri (DUN) Terengganu - Muat turun percuma",
+    "description": "Senarai 32 kerusi Dewan Undangan Negeri (DUN) bagi negeri Terengganu berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 32 State Legislative Assembly seats for Terengganu; a verbatim per-state subset of the national ms-dun list. Mengandungi 32 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Dewan Undangan Negeri (DUN) Terengganu | ListBase",
+    "seo_description": "Muat turun Senarai Dewan Undangan Negeri (DUN) Terengganu — 32 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 32 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

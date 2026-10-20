@@ -1,0 +1,258 @@
+{
+  "id": "ms-kementerian-perumahan-dan-kerajaan-tempatan-agensi",
+  "name": "Senarai Agensi KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN",
+  "title": "Senarai Agensi KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN",
+  "description": "Senarai 6 agensi kerajaan di bawah KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 6/6 koordinat, 6/6 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "JABATAN KERAJAAN TEMPATAN",
+      "parent_body": "KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN",
+      "parent_body_slug": "kementerian-perumahan-dan-kerajaan-tempatan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "JABATAN KERAJAAN TEMPATAN",
+      "address": "Aras 25-29, No.51, Persiaran Perdana, Presint 4, 62100, Putrajaya",
+      "phone": "603-8000 8000",
+      "fax": "603-8891 3090",
+      "email": "jkt@kpkt.gov.my",
+      "contact_person": "pro",
+      "website": "http://jkt.kpkt.gov.my/ms",
+      "latitude": "2.902881",
+      "longitude": "101.681448",
+      "facebook": "https://web.facebook.com/jabatankerajaantempatan/",
+      "twitter": "https://twitter.com/jktkpkt",
+      "instagram": "https://www.instagram.com/radio_jkt",
+      "youtube": "",
+      "unique_code": "PAP-17-02-00",
+      "active": true,
+      "agency_id": 19939
+    },
+    {
+      "name": "Jabatan Landskap Negara",
+      "parent_body": "KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN",
+      "parent_body_slug": "kementerian-perumahan-dan-kerajaan-tempatan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Menjadi peneraju dan pusat kecemerlangan dalam pembangunan landskap untuk mencapai persekitaran hidup yang berkualiti, mampan dan beridentitikan Malaysia untuk ke arah Negara Taman Terindah.",
+      "address": "Aras 7, 8, 9 dan 10, Blok F10, Kompleks Bangunan Kerajaan Parcel F, Presint 1, Pusat Pentadbiran Kerajaan Persekutuan, 62000 Putrajaya",
+      "phone": "603-80910500",
+      "fax": "603-80910670",
+      "email": "kpjln@jln.gov.my",
+      "contact_person": "Webmaster dan Bahagian Dasar & Pengurusan Kontrak",
+      "website": "http://www.jln.gov.my/",
+      "latitude": "2.94614",
+      "longitude": "101.70886",
+      "facebook": "https://www.facebook.com/JabatanLandskapNegara",
+      "twitter": "https://twitter.com/LandskapNegara",
+      "instagram": "https://www.instagram.com/landskapnegara/?hl=en",
+      "youtube": "https://www.youtube.com/user/NegaraTaman",
+      "unique_code": "PAP-17-03-00",
+      "active": true,
+      "agency_id": 19941
+    },
+    {
+      "name": "JABATAN PERANCANGAN BANDAR DAN DESA (PLANMalaysia)",
+      "parent_body": "KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN",
+      "parent_body_slug": "kementerian-perumahan-dan-kerajaan-tempatan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Menjadi Peneraju Perancangan Bandar dan Desa Ke Arah Mewujudkan Persekitaran Kehidupan Yang Berkualiti, Sejahtera dan Mampan Menjelang 2020.",
+      "address": "Jabatan Perancangan Bandar dan Desa (PLANMalaysia), Kementerian Pembangunan Kerajaan Tempatan, Blok F5, Kompleks F, Presint 1, Pusat Pentadbiran Kerajaan Persekutuan, 62675 Putrajaya",
+      "phone": "603-8091 0000",
+      "fax": "",
+      "email": "korporat@planmalaysia.gov.my",
+      "contact_person": "korporat",
+      "website": "https://www.planmalaysia.gov.my/index.php/pages/view/81?mid=463",
+      "latitude": "2.945971",
+      "longitude": "101.705796",
+      "facebook": "https://www.facebook.com/PLANMalaysia",
+      "twitter": "https://twitter.com/planmalaysia",
+      "instagram": "https://-",
+      "youtube": "https://-",
+      "unique_code": "PAP-17-04-00",
+      "active": true,
+      "agency_id": 19943
+    },
+    {
+      "name": "JABATAN PERUMAHAN NEGARA",
+      "parent_body": "KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN",
+      "parent_body_slug": "kementerian-perumahan-dan-kerajaan-tempatan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "JABATAN PERUMAHAN NEGARA",
+      "address": "Jabatan Perumahan Negara, Aras 30-38, No 51, Persiaran Perdana, Presint 4, Pusat Pentadbiran Kerajaan Persekutuan, 62100 Putrajaya",
+      "phone": "038-8915 000_",
+      "fax": "03-8891 4088",
+      "email": "ehome@kpkt.gov.my",
+      "contact_person": "Adam",
+      "website": "http://ehome.kpkt.gov.my",
+      "latitude": "2.90274",
+      "longitude": "101.68158",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PAP-17-05-00",
+      "active": true,
+      "agency_id": 19945
+    },
+    {
+      "name": "Kementerian Pembangunan Kerajaan Tempatan",
+      "parent_body": "KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN",
+      "parent_body_slug": "kementerian-perumahan-dan-kerajaan-tempatan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Kementerian Pembangunan Kerajaan Tempatan",
+      "address": "No.51, Persiaran Perdana",
+      "phone": "603-8000 8000",
+      "fax": "03-8891 5557",
+      "email": "pro@kpkt.gov.my",
+      "contact_person": "PRO",
+      "website": "http://www.kpkt.gov.my",
+      "latitude": "2.902737",
+      "longitude": "101.681604",
+      "facebook": "http://www.facebook.com/pages/Kementerian-Perumahan-dan-Kerajaan-Tempatan-KPKT/132895990116651",
+      "twitter": "http://twitter.com/kpkt_gov",
+      "instagram": "",
+      "youtube": "http://www.kpkt.gov.my/kpkt/index.php/pages/view/44",
+      "unique_code": "PUB-14758-00",
+      "active": true,
+      "agency_id": 41832
+    },
+    {
+      "name": "Perbadanan Pengurusan Sisa Pepejal Dan Pembersihan Awam (SWCorp)",
+      "parent_body": "KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN",
+      "parent_body_slug": "kementerian-perumahan-dan-kerajaan-tempatan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Perbadanan Pengurusan Sisa Pepejal Dan Pembersihan Awam (SWCorp)",
+      "address": "Blok J, Bangunan MKN Embassy Techzone, Jalan Teknokrat 2, 63000 Cyberjaya, Selangor",
+      "phone": "603-8312 4000",
+      "fax": "603-8312 4003",
+      "email": "customer@swcorp.my",
+      "contact_person": "",
+      "website": "http://https:",
+      "latitude": "2.9365662",
+      "longitude": "101.6529236",
+      "facebook": "https://-",
+      "twitter": "https://-",
+      "instagram": "https://-",
+      "youtube": "https://-",
+      "unique_code": "BBP-17-01-00",
+      "active": true,
+      "agency_id": 19935
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN - Muat turun percuma",
+    "description": "Senarai 6 agensi kerajaan di bawah KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 6/6 koordinat, 6/6 laman web. Mengandungi 6 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN | ListBase",
+    "seo_description": "Muat turun Senarai Agensi KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN — 6 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 6 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

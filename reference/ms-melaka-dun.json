@@ -1,0 +1,280 @@
+{
+  "id": "ms-melaka-dun",
+  "name": "Senarai Dewan Undangan Negeri (DUN) Melaka",
+  "title": "Senarai Dewan Undangan Negeri (DUN) Melaka",
+  "description": "Senarai 28 kerusi Dewan Undangan Negeri (DUN) bagi negeri Melaka berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 28 State Legislative Assembly seats for Melaka; a verbatim per-state subset of the national ms-dun list.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_code",
+      "label": "Parlimen Code",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_name",
+      "label": "Parlimen Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "N01",
+      "name": "Kuala Linggi",
+      "parlimen_code": "P134",
+      "parlimen_name": "Masjid Tanah",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N02",
+      "name": "Tanjung Bidara",
+      "parlimen_code": "P134",
+      "parlimen_name": "Masjid Tanah",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N03",
+      "name": "Ayer Limau",
+      "parlimen_code": "P134",
+      "parlimen_name": "Masjid Tanah",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N04",
+      "name": "Lendu",
+      "parlimen_code": "P134",
+      "parlimen_name": "Masjid Tanah",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N05",
+      "name": "Taboh Naning",
+      "parlimen_code": "P134",
+      "parlimen_name": "Masjid Tanah",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N06",
+      "name": "Rembia",
+      "parlimen_code": "P135",
+      "parlimen_name": "Alor Gajah",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N07",
+      "name": "Gadek",
+      "parlimen_code": "P135",
+      "parlimen_name": "Alor Gajah",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N08",
+      "name": "Machap Jaya",
+      "parlimen_code": "P135",
+      "parlimen_name": "Alor Gajah",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N09",
+      "name": "Durian Tunggal",
+      "parlimen_code": "P135",
+      "parlimen_name": "Alor Gajah",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N10",
+      "name": "Asahan",
+      "parlimen_code": "P135",
+      "parlimen_name": "Alor Gajah",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N11",
+      "name": "Sungai Udang",
+      "parlimen_code": "P136",
+      "parlimen_name": "Tangga Batu",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N12",
+      "name": "Pantai Kundor",
+      "parlimen_code": "P136",
+      "parlimen_name": "Tangga Batu",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N13",
+      "name": "Paya Rumput",
+      "parlimen_code": "P136",
+      "parlimen_name": "Tangga Batu",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N14",
+      "name": "Kelebang",
+      "parlimen_code": "P136",
+      "parlimen_name": "Tangga Batu",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N15",
+      "name": "Pengkalan Batu",
+      "parlimen_code": "P137",
+      "parlimen_name": "Hang Tuah Jaya",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N16",
+      "name": "Ayer Keroh",
+      "parlimen_code": "P137",
+      "parlimen_name": "Hang Tuah Jaya",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N17",
+      "name": "Bukit Katil",
+      "parlimen_code": "P137",
+      "parlimen_name": "Hang Tuah Jaya",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N18",
+      "name": "Ayer Molek",
+      "parlimen_code": "P137",
+      "parlimen_name": "Hang Tuah Jaya",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N19",
+      "name": "Kesidang",
+      "parlimen_code": "P138",
+      "parlimen_name": "Kota Melaka",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N20",
+      "name": "Kota Laksamana",
+      "parlimen_code": "P138",
+      "parlimen_name": "Kota Melaka",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N21",
+      "name": "Duyong",
+      "parlimen_code": "P138",
+      "parlimen_name": "Kota Melaka",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N22",
+      "name": "Bandar Hilir",
+      "parlimen_code": "P138",
+      "parlimen_name": "Kota Melaka",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N23",
+      "name": "Telok Mas",
+      "parlimen_code": "P138",
+      "parlimen_name": "Kota Melaka",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N24",
+      "name": "Bemban",
+      "parlimen_code": "P139",
+      "parlimen_name": "Jasin",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N25",
+      "name": "Rim",
+      "parlimen_code": "P139",
+      "parlimen_name": "Jasin",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N26",
+      "name": "Serkam",
+      "parlimen_code": "P139",
+      "parlimen_name": "Jasin",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N27",
+      "name": "Merlimau",
+      "parlimen_code": "P139",
+      "parlimen_name": "Jasin",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    },
+    {
+      "code": "N28",
+      "name": "Sungai Rambai",
+      "parlimen_code": "P139",
+      "parlimen_name": "Jasin",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Dewan Undangan Negeri (DUN) Melaka - Muat turun percuma",
+    "description": "Senarai 28 kerusi Dewan Undangan Negeri (DUN) bagi negeri Melaka berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 28 State Legislative Assembly seats for Melaka; a verbatim per-state subset of the national ms-dun list. Mengandungi 28 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Dewan Undangan Negeri (DUN) Melaka | ListBase",
+    "seo_description": "Muat turun Senarai Dewan Undangan Negeri (DUN) Melaka — 28 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 28 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

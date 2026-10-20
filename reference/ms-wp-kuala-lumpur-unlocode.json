@@ -1,0 +1,236 @@
+{
+  "id": "ms-wp-kuala-lumpur-unlocode",
+  "name": "Kod lokasi UN/LOCODE — Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "title": "Kod lokasi UN/LOCODE — Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "description": "Kod lokasi UN/LOCODE bagi Wilayah Persekutuan Kuala Lumpur (Federal territory), Malaysia — 6 lokasi yang diiktiraf UNECE termasuk pelabuhan, lapangan terbang, terminal dan titik pengangkutan darat. Setiap rekod membawa kod 5 aksara (MY + 3), nama rasmi, kod subdivisyen ISO 3166-2 MY-14, fungsi pengangkutan dan koordinat jika tersedia. 2/6 (33%) rekod mempunyai koordinat. Subdivisyen dibaca terus daripada medan `Subdivision` sumber — tiada padanan geometri atau nama.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "locode": "MYCRS",
+      "country": "MY",
+      "location": "CRS",
+      "name": "Cheras/Kuala Lumpur",
+      "name_wo_diacritics": "Cheras/Kuala Lumpur",
+      "subdivision_code": "14",
+      "subdivision_name": "Wilayah Persekutuan Kuala Lumpur",
+      "subdivision_type": "Federal territory",
+      "status": "AS",
+      "status_description": "Approved by national standardisation body",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "0306N 10143E",
+      "latitude": 3.1,
+      "longitude": 101.7167,
+      "date_updated": "2021-07",
+      "remarks": ""
+    },
+    {
+      "locode": "MYKAL",
+      "country": "MY",
+      "location": "KAL",
+      "name": "Kuala Ketil",
+      "name_wo_diacritics": "Kuala Ketil",
+      "subdivision_code": "14",
+      "subdivision_name": "Wilayah Persekutuan Kuala Lumpur",
+      "subdivision_type": "Federal territory",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "2009-01",
+      "remarks": ""
+    },
+    {
+      "locode": "MYKPN",
+      "country": "MY",
+      "location": "KPN",
+      "name": "Kepong",
+      "name_wo_diacritics": "Kepong",
+      "subdivision_code": "14",
+      "subdivision_name": "Wilayah Persekutuan Kuala Lumpur",
+      "subdivision_type": "Federal territory",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "1-------",
+      "functions": "Maritime transport (sea port)",
+      "iata": "",
+      "coordinates": "0313N 10138E",
+      "latitude": 3.2167,
+      "longitude": 101.6333,
+      "date_updated": "2018-01",
+      "remarks": ""
+    },
+    {
+      "locode": "MYLPK",
+      "country": "MY",
+      "location": "LPK",
+      "name": "Northport/Pt Klang",
+      "name_wo_diacritics": "Northport/Pt Klang",
+      "subdivision_code": "14",
+      "subdivision_name": "Wilayah Persekutuan Kuala Lumpur",
+      "subdivision_type": "Federal territory",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "1-------",
+      "functions": "Maritime transport (sea port)",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "2009-01",
+      "remarks": ""
+    },
+    {
+      "locode": "MYMEA",
+      "country": "MY",
+      "location": "MEA",
+      "name": "Melaka",
+      "name_wo_diacritics": "Melaka",
+      "subdivision_code": "14",
+      "subdivision_name": "Wilayah Persekutuan Kuala Lumpur",
+      "subdivision_type": "Federal territory",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "2009-01",
+      "remarks": ""
+    },
+    {
+      "locode": "MYSEK",
+      "country": "MY",
+      "location": "SEK",
+      "name": "Selangkor",
+      "name_wo_diacritics": "Selangkor",
+      "subdivision_code": "14",
+      "subdivision_name": "Wilayah Persekutuan Kuala Lumpur",
+      "subdivision_type": "Federal territory",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "2009-01",
+      "remarks": ""
+    }
+  ],
+  "meta": {
+    "title": "Kod lokasi UN/LOCODE — Wilayah Persekutuan Kuala Lumpur, Malaysia - Muat turun percuma",
+    "description": "Kod lokasi UN/LOCODE bagi Wilayah Persekutuan Kuala Lumpur (Federal territory), Malaysia — 6 lokasi yang diiktiraf UNECE termasuk pelabuhan, lapangan terbang, terminal dan titik pengangkutan darat. Setiap rekod membawa kod 5 aksara (MY + 3), nama rasmi, kod subdivisyen ISO 3166-2 MY-14, fungsi pengangkutan dan koordinat jika tersedia. 2/6 (33%) rekod mempunyai koordinat. Subdivisyen dibaca terus daripada medan `Subdivision` sumber — tiada padanan geometri atau nama. Mengandungi 6 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kod lokasi UN/LOCODE — Wilayah Persekutuan Kuala Lumpur, Malaysia | ListBase",
+    "seo_description": "Muat turun Kod lokasi UN/LOCODE — Wilayah Persekutuan Kuala Lumpur, Malaysia — 6 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 6 rekod / 18 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

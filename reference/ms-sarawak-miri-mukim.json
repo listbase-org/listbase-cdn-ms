@@ -1,0 +1,232 @@
+{
+  "id": "ms-sarawak-miri-mukim",
+  "name": "Mukim di Daerah Miri, Sarawak",
+  "title": "Mukim di Daerah Miri, Sarawak",
+  "description": "Senarai lengkap 13 mukim di daerah Miri, negeri Sarawak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 13 mukim (traditional sub-district units) in Miri District, Sarawak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "130401",
+      "name": "Konsesi Miri",
+      "name_uppercase": "KONSESI MIRI",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1865,
+      "state_slug": "sarawak",
+      "district_slug": "miri"
+    },
+    {
+      "id": "130402",
+      "name": "Bandar Lutong",
+      "name_uppercase": "BANDAR LUTONG",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1866,
+      "state_slug": "sarawak",
+      "district_slug": "miri"
+    },
+    {
+      "id": "130403",
+      "name": "Bandar Bazar Jalan Riam",
+      "name_uppercase": "BANDAR BAZAR JALAN RIAM",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1867,
+      "state_slug": "sarawak",
+      "district_slug": "miri"
+    },
+    {
+      "id": "130404",
+      "name": "Kuala Baram",
+      "name_uppercase": "KUALA BARAM",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1868,
+      "state_slug": "sarawak",
+      "district_slug": "miri"
+    },
+    {
+      "id": "130407",
+      "name": "Lambir",
+      "name_uppercase": "LAMBIR",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1869,
+      "state_slug": "sarawak",
+      "district_slug": "miri"
+    },
+    {
+      "id": "130449",
+      "name": "Bandar Kuala Nyabor",
+      "name_uppercase": "BANDAR KUALA NYABOR",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1870,
+      "state_slug": "sarawak",
+      "district_slug": "miri"
+    },
+    {
+      "id": "130450",
+      "name": "Bareo",
+      "name_uppercase": "BAREO",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1871,
+      "state_slug": "sarawak",
+      "district_slug": "miri"
+    },
+    {
+      "id": "130452",
+      "name": "Apoh",
+      "name_uppercase": "APOH",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1872,
+      "state_slug": "sarawak",
+      "district_slug": "miri"
+    },
+    {
+      "id": "130453",
+      "name": "Lio Matoh",
+      "name_uppercase": "LIO MATOH",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1873,
+      "state_slug": "sarawak",
+      "district_slug": "miri"
+    },
+    {
+      "id": "130456",
+      "name": "Silat",
+      "name_uppercase": "SILAT",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1874,
+      "state_slug": "sarawak",
+      "district_slug": "miri"
+    },
+    {
+      "id": "130457",
+      "name": "Tutoh",
+      "name_uppercase": "TUTOH",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1875,
+      "state_slug": "sarawak",
+      "district_slug": "miri"
+    },
+    {
+      "id": "130458",
+      "name": "Patah",
+      "name_uppercase": "PATAH",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1876,
+      "state_slug": "sarawak",
+      "district_slug": "miri"
+    },
+    {
+      "id": "130459",
+      "name": "Lepu Leju",
+      "name_uppercase": "LEPU LEJU",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1877,
+      "state_slug": "sarawak",
+      "district_slug": "miri"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Miri, Sarawak - Muat turun percuma",
+    "description": "Senarai lengkap 13 mukim di daerah Miri, negeri Sarawak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 13 mukim (traditional sub-district units) in Miri District, Sarawak, Malaysia. Mengandungi 13 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Miri, Sarawak | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Miri, Sarawak — 13 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 13 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

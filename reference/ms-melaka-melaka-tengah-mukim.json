@@ -1,0 +1,556 @@
+{
+  "id": "ms-melaka-melaka-tengah-mukim",
+  "name": "Mukim di Daerah Melaka Tengah, Melaka",
+  "title": "Mukim di Daerah Melaka Tengah, Melaka",
+  "description": "Senarai lengkap 40 mukim di daerah Melaka Tengah, negeri Melaka, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 40 mukim (traditional sub-district units) in Melaka Tengah District, Melaka, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "040101",
+      "name": "Alai",
+      "name_uppercase": "ALAI",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1472,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040102",
+      "name": "Ayer Molek",
+      "name_uppercase": "AYER MOLEK",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1473,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040103",
+      "name": "Bachang",
+      "name_uppercase": "BACHANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1474,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040104",
+      "name": "Balai Panjang",
+      "name_uppercase": "BALAI PANJANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1475,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040105",
+      "name": "Batu Berendam",
+      "name_uppercase": "BATU BERENDAM",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1476,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040106",
+      "name": "Bertam",
+      "name_uppercase": "BERTAM",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1477,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040107",
+      "name": "Bukit Baru",
+      "name_uppercase": "BUKIT BARU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1478,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040108",
+      "name": "Bukit Katil",
+      "name_uppercase": "BUKIT KATIL",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1479,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040109",
+      "name": "Bukit Lintang",
+      "name_uppercase": "BUKIT LINTANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1480,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040110",
+      "name": "Bukit Piatu",
+      "name_uppercase": "BUKIT PIATU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1481,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040111",
+      "name": "Bukit Rambai",
+      "name_uppercase": "BUKIT RAMBAI",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1482,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040112",
+      "name": "Cheng",
+      "name_uppercase": "CHENG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1483,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040113",
+      "name": "Duyong",
+      "name_uppercase": "DUYONG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1484,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040114",
+      "name": "Ujong Pasir",
+      "name_uppercase": "UJONG PASIR",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1485,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040115",
+      "name": "Kandang",
+      "name_uppercase": "KANDANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1486,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040116",
+      "name": "Klebang Besar",
+      "name_uppercase": "KLEBANG BESAR",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1487,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040117",
+      "name": "Klebang Kechil",
+      "name_uppercase": "KLEBANG KECHIL",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1488,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040118",
+      "name": "Krubong",
+      "name_uppercase": "KRUBONG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1489,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040119",
+      "name": "Padang Semabok",
+      "name_uppercase": "PADANG SEMABOK",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1490,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040120",
+      "name": "Padang Temu",
+      "name_uppercase": "PADANG TEMU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1491,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040120",
+      "name": "Paya Rumput",
+      "name_uppercase": "PAYA RUMPUT",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1492,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040121",
+      "name": "Pringgit",
+      "name_uppercase": "PRINGGIT",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1493,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040122",
+      "name": "Pernu",
+      "name_uppercase": "PERNU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1494,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040123",
+      "name": "Semabok",
+      "name_uppercase": "SEMABOK",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1495,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040124",
+      "name": "Sungai Udang",
+      "name_uppercase": "SUNGAI UDANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1496,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040125",
+      "name": "Tangga Batu",
+      "name_uppercase": "TANGGA BATU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1497,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040126",
+      "name": "Tanjong Keling",
+      "name_uppercase": "TANJONG KELING",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1498,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040127",
+      "name": "Tanjong Minyak",
+      "name_uppercase": "TANJONG MINYAK",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1499,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040128",
+      "name": "Telok Mas",
+      "name_uppercase": "TELOK MAS",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1500,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040140",
+      "name": "Bandar Bukit Baru",
+      "name_uppercase": "BANDAR BUKIT BARU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1501,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040141",
+      "name": "Bandar Melaka",
+      "name_uppercase": "BANDAR MELAKA",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1502,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040170",
+      "name": "Pekan Ayer Molek",
+      "name_uppercase": "PEKAN AYER MOLEK",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1503,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040171",
+      "name": "Pekan Batu Berendam",
+      "name_uppercase": "PEKAN BATU BERENDAM",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1504,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040172",
+      "name": "Pekan Bukit Rambai",
+      "name_uppercase": "PEKAN BUKIT RAMBAI",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1505,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040173",
+      "name": "Pekan Kandang",
+      "name_uppercase": "PEKAN KANDANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1506,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040174",
+      "name": "Pekan Klebang",
+      "name_uppercase": "PEKAN KLEBANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1507,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040175",
+      "name": "Pekan Paya Rumput",
+      "name_uppercase": "PEKAN PAYA RUMPUT",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1508,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040176",
+      "name": "Pekan Sungai Udang",
+      "name_uppercase": "PEKAN SUNGAI UDANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1509,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040177",
+      "name": "Pekan Tangga Batu",
+      "name_uppercase": "PEKAN TANGGA BATU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1510,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    },
+    {
+      "id": "040178",
+      "name": "Pekan Tanjong Kling",
+      "name_uppercase": "PEKAN TANJONG KLING",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1511,
+      "state_slug": "melaka",
+      "district_slug": "melaka-tengah"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Melaka Tengah, Melaka - Muat turun percuma",
+    "description": "Senarai lengkap 40 mukim di daerah Melaka Tengah, negeri Melaka, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 40 mukim (traditional sub-district units) in Melaka Tengah District, Melaka, Malaysia. Mengandungi 40 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Melaka Tengah, Melaka | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Melaka Tengah, Melaka — 40 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 40 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

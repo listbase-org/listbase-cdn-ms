@@ -1,0 +1,436 @@
+{
+  "id": "ms-kelantan-tumpat-mukim",
+  "name": "Mukim di Daerah Tumpat, Kelantan",
+  "title": "Mukim di Daerah Tumpat, Kelantan",
+  "description": "Senarai lengkap 30 mukim di daerah Tumpat, negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 30 mukim (traditional sub-district units) in Tumpat District, Kelantan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "030701",
+      "name": "Bechah Resak",
+      "name_uppercase": "BECHAH RESAK",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 500,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030702",
+      "name": "Bunohan",
+      "name_uppercase": "BUNOHAN",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 501,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030703",
+      "name": "Bunut Sarang Burong",
+      "name_uppercase": "BUNUT SARANG BURONG",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 502,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030704",
+      "name": "Chenderong Batu",
+      "name_uppercase": "CHENDERONG BATU",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 503,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030705",
+      "name": "Cherang Melintang",
+      "name_uppercase": "CHERANG MELINTANG",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 504,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030706",
+      "name": "Geting",
+      "name_uppercase": "GETING",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 505,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030707",
+      "name": "Jal",
+      "name_uppercase": "JAL",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 506,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030708",
+      "name": "Kampong Laut",
+      "name_uppercase": "KAMPONG LAUT",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 507,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030709",
+      "name": "Kelaboran",
+      "name_uppercase": "KELABORAN",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 508,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030710",
+      "name": "Ketil",
+      "name_uppercase": "KETIL",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 509,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030711",
+      "name": "Kok Keli",
+      "name_uppercase": "KOK KELI",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 510,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030712",
+      "name": "Kutang",
+      "name_uppercase": "KUTANG",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 511,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030713",
+      "name": "Mak Neralang",
+      "name_uppercase": "MAK NERALANG",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 512,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030714",
+      "name": "Morak",
+      "name_uppercase": "MORAK",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 513,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030715",
+      "name": "Pasir Pekan",
+      "name_uppercase": "PASIR PEKAN",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 514,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030716",
+      "name": "Palekbang",
+      "name_uppercase": "PALEKBANG",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 515,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030717",
+      "name": "Periok",
+      "name_uppercase": "PERIOK",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 516,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030718",
+      "name": "Pulau Besar",
+      "name_uppercase": "PULAU BESAR",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 517,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030719",
+      "name": "Selehong Selatan",
+      "name_uppercase": "SELEHONG SELATAN",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 518,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030720",
+      "name": "Selehong Utara",
+      "name_uppercase": "SELEHONG UTARA",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 519,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030721",
+      "name": "Simpangan",
+      "name_uppercase": "SIMPANGAN",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 520,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030722",
+      "name": "Sungai Pinang",
+      "name_uppercase": "SUNGAI PINANG",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 521,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030723",
+      "name": "Tabar",
+      "name_uppercase": "TABAR",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 522,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030724",
+      "name": "Talak",
+      "name_uppercase": "TALAK",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 523,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030725",
+      "name": "Telok Rejuna",
+      "name_uppercase": "TELOK REJUNA",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 524,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030726",
+      "name": "Tujoh",
+      "name_uppercase": "TUJOH",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 525,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030727",
+      "name": "Tumpat",
+      "name_uppercase": "TUMPAT",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 526,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030728",
+      "name": "Wakaf Bharu",
+      "name_uppercase": "WAKAF BHARU",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 527,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030729",
+      "name": "Wakaf Delima",
+      "name_uppercase": "WAKAF DELIMA",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 528,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    },
+    {
+      "id": "030740",
+      "name": "Bandar Tumpat",
+      "name_uppercase": "BANDAR TUMPAT",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 529,
+      "state_slug": "kelantan",
+      "district_slug": "tumpat"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Tumpat, Kelantan - Muat turun percuma",
+    "description": "Senarai lengkap 30 mukim di daerah Tumpat, negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 30 mukim (traditional sub-district units) in Tumpat District, Kelantan, Malaysia. Mengandungi 30 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Tumpat, Kelantan | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Tumpat, Kelantan — 30 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 30 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

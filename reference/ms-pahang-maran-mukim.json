@@ -1,0 +1,160 @@
+{
+  "id": "ms-pahang-maran-mukim",
+  "name": "Mukim di Daerah Maran, Pahang",
+  "title": "Mukim di Daerah Maran, Pahang",
+  "description": "Senarai lengkap 7 mukim di daerah Maran, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 7 mukim (traditional sub-district units) in Maran District, Pahang, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "061001",
+      "name": "Bukit Segumpal",
+      "name_uppercase": "BUKIT SEGUMPAL",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1064,
+      "state_slug": "pahang",
+      "district_slug": "maran"
+    },
+    {
+      "id": "061002",
+      "name": "Chenor",
+      "name_uppercase": "CHENOR",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1065,
+      "state_slug": "pahang",
+      "district_slug": "maran"
+    },
+    {
+      "id": "061003",
+      "name": "Kertau",
+      "name_uppercase": "KERTAU",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1066,
+      "state_slug": "pahang",
+      "district_slug": "maran"
+    },
+    {
+      "id": "061004",
+      "name": "Luit",
+      "name_uppercase": "LUIT",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1067,
+      "state_slug": "pahang",
+      "district_slug": "maran"
+    },
+    {
+      "id": "061040",
+      "name": "Bandar Maran",
+      "name_uppercase": "BANDAR MARAN",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1068,
+      "state_slug": "pahang",
+      "district_slug": "maran"
+    },
+    {
+      "id": "061070",
+      "name": "Pekan Chenor",
+      "name_uppercase": "PEKAN CHENOR",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1069,
+      "state_slug": "pahang",
+      "district_slug": "maran"
+    },
+    {
+      "id": "061072",
+      "name": "Pekan Sri Jaya",
+      "name_uppercase": "PEKAN SRI JAYA",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1070,
+      "state_slug": "pahang",
+      "district_slug": "maran"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Maran, Pahang - Muat turun percuma",
+    "description": "Senarai lengkap 7 mukim di daerah Maran, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 7 mukim (traditional sub-district units) in Maran District, Pahang, Malaysia. Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Maran, Pahang | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Maran, Pahang — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

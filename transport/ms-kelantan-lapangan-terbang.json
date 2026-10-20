@@ -1,0 +1,196 @@
+{
+  "id": "ms-kelantan-lapangan-terbang",
+  "name": "Senarai Lapangan Terbang di Negeri Kelantan",
+  "title": "Senarai Lapangan Terbang di Negeri Kelantan",
+  "description": "Senarai 4 lapangan terbang dan kemudahan penerbangan di Negeri Kelantan, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_bm",
+      "label": "Name Bm",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_bm",
+      "label": "State Bm",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "runway_m",
+      "label": "Runway M",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "source_attribution",
+      "label": "Source Attribution",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    },
+    {
+      "key": "has_icao",
+      "label": "Has Icao",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 13,
+      "iata": "",
+      "icao": "WMGK",
+      "name_en": "Gong Kedak Air Base",
+      "name_bm": "Pangkalan Udara Gong Kedak",
+      "name_slug": "gong-kedak-air-base",
+      "city": "Gong Kedak",
+      "state": "Kelantan",
+      "state_bm": "Kelantan",
+      "state_slug": "kelantan",
+      "type": "Military",
+      "operator": "RMAF",
+      "runway_m": "2012",
+      "status": "Active",
+      "coordinates": "05°47'56\"N 102°29'24\"E",
+      "source_attribution": "CAAM, AIP, RMAF",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 14,
+      "iata": "",
+      "icao": "WMCA",
+      "name_en": "Kuala Gris Airstrip",
+      "name_bm": "Lapangan Terbang Kuala Gris",
+      "name_slug": "kuala-gris-airstrip",
+      "city": "Kuala Gris",
+      "state": "Kelantan",
+      "state_bm": "Kelantan",
+      "state_slug": "kelantan",
+      "type": "Domestic/STOL",
+      "operator": "",
+      "runway_m": "",
+      "status": "Closed",
+      "coordinates": "",
+      "source_attribution": "Wiki",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 15,
+      "iata": "",
+      "icao": "WMAL",
+      "name_en": "Kuala Kerai Airport",
+      "name_bm": "Lapangan Terbang Kuala Kerai",
+      "name_slug": "kuala-kerai-airport",
+      "city": "Kuala Krai",
+      "state": "Kelantan",
+      "state_bm": "Kelantan",
+      "state_slug": "kelantan",
+      "type": "Domestic/STOL",
+      "operator": "",
+      "runway_m": "",
+      "status": "",
+      "coordinates": "",
+      "source_attribution": "PilotNav",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 16,
+      "iata": "KBR",
+      "icao": "WMKC",
+      "name_en": "Sultan Ismail Petra Airport",
+      "name_bm": "Lapangan Terbang Sultan Ismail Petra",
+      "name_slug": "sultan-ismail-petra-airport",
+      "city": "Kota Bharu",
+      "state": "Kelantan",
+      "state_bm": "Kelantan",
+      "state_slug": "kelantan",
+      "type": "Domestic",
+      "operator": "MAHB",
+      "runway_m": "2400",
+      "status": "Active",
+      "coordinates": "6.1672°N 102.2922°E",
+      "source_attribution": "CAAM, MAHB, AIP",
+      "has_iata": true,
+      "has_icao": true
+    }
+  ],
+  "meta": {
+    "title": "Senarai Lapangan Terbang di Negeri Kelantan - Muat turun percuma",
+    "description": "Senarai 4 lapangan terbang dan kemudahan penerbangan di Negeri Kelantan, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status. Mengandungi 4 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Lapangan Terbang di Negeri Kelantan | ListBase",
+    "seo_description": "Muat turun Senarai Lapangan Terbang di Negeri Kelantan — 4 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 4 rekod / 18 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

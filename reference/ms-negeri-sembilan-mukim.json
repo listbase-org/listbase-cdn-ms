@@ -1,0 +1,1501 @@
+{
+  "id": "ms-negeri-sembilan-mukim",
+  "name": "Mukim di Negeri Sembilan",
+  "title": "Mukim di Negeri Sembilan",
+  "description": "Senarai lengkap 160 mukim di negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 160 mukim (traditional sub-district units) in Negeri Sembilan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 160,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "050101",
+      "name": "Gelami Lemi",
+      "name_uppercase": "GELAMI LEMI",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050102",
+      "name": "Kenaboi",
+      "name_uppercase": "KENABOI",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050103",
+      "name": "Kuala Kelawang",
+      "name_uppercase": "KUALA KELAWANG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050104",
+      "name": "Peradong",
+      "name_uppercase": "PERADONG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050105",
+      "name": "Pertang",
+      "name_uppercase": "PERTANG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050106",
+      "name": "Teriang Hilir",
+      "name_uppercase": "TERIANG HILIR",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050140",
+      "name": "Bandar Kuala Kelawang",
+      "name_uppercase": "BANDAR KUALA KELAWANG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050170",
+      "name": "Pekan Kuala Kelawang",
+      "name_uppercase": "PEKAN KUALA KELAWANG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050171",
+      "name": "Pekan Pertang",
+      "name_uppercase": "PEKAN PERTANG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050172",
+      "name": "Pekan Titi",
+      "name_uppercase": "PEKAN TITI",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050173",
+      "name": "Pekan Simpang Durian",
+      "name_uppercase": "PEKAN SIMPANG DURIAN",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050174",
+      "name": "Pekan Simpang Pertang",
+      "name_uppercase": "PEKAN SIMPANG PERTANG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050175",
+      "name": "Pekan Petaling",
+      "name_uppercase": "PEKAN PETALING",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050176",
+      "name": "Pekan Sungai Muntoh",
+      "name_uppercase": "PEKAN SUNGAI MUNTOH",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050201",
+      "name": "Ampang Tinggi",
+      "name_uppercase": "AMPANG TINGGI",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050202",
+      "name": "Ulu Jempol",
+      "name_uppercase": "ULU JEMPOL",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050203",
+      "name": "Ulu Muar",
+      "name_uppercase": "ULU MUAR",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050204",
+      "name": "Johol",
+      "name_uppercase": "JOHOL",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050205",
+      "name": "Juasseh",
+      "name_uppercase": "JUASSEH",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050206",
+      "name": "Kepis",
+      "name_uppercase": "KEPIS",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050207",
+      "name": "Langkap",
+      "name_uppercase": "LANGKAP",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050208",
+      "name": "Parit Tinggi",
+      "name_uppercase": "PARIT TINGGI",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050209",
+      "name": "Pilah",
+      "name_uppercase": "PILAH",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050210",
+      "name": "Sri Menanti",
+      "name_uppercase": "SRI MENANTI",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050211",
+      "name": "Terachi",
+      "name_uppercase": "TERACHI",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050240",
+      "name": "Bandar Kuala Pilah",
+      "name_uppercase": "BANDAR KUALA PILAH",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050270",
+      "name": "Pekan Dangi",
+      "name_uppercase": "PEKAN DANGI",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050271",
+      "name": "Pekan Gunung Pasir",
+      "name_uppercase": "PEKAN GUNUNG PASIR",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050272",
+      "name": "Pekan Johol",
+      "name_uppercase": "PEKAN JOHOL",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050273",
+      "name": "Pekan Parit Tinggi",
+      "name_uppercase": "PEKAN PARIT TINGGI",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050274",
+      "name": "Pekan Senaling",
+      "name_uppercase": "PEKAN SENALING",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050275",
+      "name": "Pekan Tanjong Ipoh",
+      "name_uppercase": "PEKAN TANJONG IPOH",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050276",
+      "name": "Pekan Juasseh",
+      "name_uppercase": "PEKAN JUASSEH",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050277",
+      "name": "Pekan Bukit Gelugor",
+      "name_uppercase": "PEKAN BUKIT GELUGOR",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050278",
+      "name": "Pekan Melang",
+      "name_uppercase": "PEKAN MELANG",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050279",
+      "name": "Pekan Ar Mawang",
+      "name_uppercase": "PEKAN AR MAWANG",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050280",
+      "name": "Pekan Dangi Baru",
+      "name_uppercase": "PEKAN DANGI BARU",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050301",
+      "name": "Jimah",
+      "name_uppercase": "JIMAH",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050303",
+      "name": "Linggi",
+      "name_uppercase": "LINGGI",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050304",
+      "name": "Port Dickson",
+      "name_uppercase": "PORT DICKSON",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050305",
+      "name": "Si Rusa",
+      "name_uppercase": "SI RUSA",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050340",
+      "name": "Bandar Port Dickson",
+      "name_uppercase": "BANDAR PORT DICKSON",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050341",
+      "name": "Bandar Teluk Kemang",
+      "name_uppercase": "BANDAR TELUK KEMANG",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050370",
+      "name": "Pekan Lukut",
+      "name_uppercase": "PEKAN LUKUT",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050371",
+      "name": "Pekan Pasir Panjang",
+      "name_uppercase": "PEKAN PASIR PANJANG",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050372",
+      "name": "Pekan Pengkalan Kempas",
+      "name_uppercase": "PEKAN PENGKALAN KEMPAS",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050373",
+      "name": "Pekan Chuah",
+      "name_uppercase": "PEKAN CHUAH",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050374",
+      "name": "Pekan Port Dickson",
+      "name_uppercase": "PEKAN PORT DICKSON",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050375",
+      "name": "Pekan Teluk Kemang",
+      "name_uppercase": "PEKAN TELUK KEMANG",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050376",
+      "name": "Pekan Bukit Pelanduk",
+      "name_uppercase": "PEKAN BUKIT PELANDUK",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050377",
+      "name": "Pekan Linggi",
+      "name_uppercase": "PEKAN LINGGI",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050378",
+      "name": "Pekan Air Kuning",
+      "name_uppercase": "PEKAN AIR KUNING",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050379",
+      "name": "Pekan Sungai Menyala",
+      "name_uppercase": "PEKAN SUNGAI MENYALA",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050380",
+      "name": "Pekan Bagan Pinang",
+      "name_uppercase": "PEKAN BAGAN PINANG",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050381",
+      "name": "Pekan Tanah Merah Utara",
+      "name_uppercase": "PEKAN TANAH MERAH UTARA",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050382",
+      "name": "Pekan Tanah Merah Selatan",
+      "name_uppercase": "PEKAN TANAH MERAH SELATAN",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050383",
+      "name": "Pekan Jemima",
+      "name_uppercase": "PEKAN JEMIMA",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050401",
+      "name": "Batu Hampar",
+      "name_uppercase": "BATU HAMPAR",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050402",
+      "name": "Bongek",
+      "name_uppercase": "BONGEK",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050403",
+      "name": "Chembong",
+      "name_uppercase": "CHEMBONG",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050404",
+      "name": "Chengkau",
+      "name_uppercase": "CHENGKAU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050405",
+      "name": "Gadong",
+      "name_uppercase": "GADONG",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050406",
+      "name": "Kundor",
+      "name_uppercase": "KUNDOR",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050407",
+      "name": "Legong Ilir",
+      "name_uppercase": "LEGONG ILIR",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050408",
+      "name": "Legong Ulu",
+      "name_uppercase": "LEGONG ULU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050409",
+      "name": "Miku",
+      "name_uppercase": "MIKU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050410",
+      "name": "Nerasau",
+      "name_uppercase": "NERASAU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050411",
+      "name": "Pedas",
+      "name_uppercase": "PEDAS",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050412",
+      "name": "Pilin",
+      "name_uppercase": "PILIN",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050413",
+      "name": "Selemak",
+      "name_uppercase": "SELEMAK",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050414",
+      "name": "Semerbok",
+      "name_uppercase": "SEMERBOK",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050415",
+      "name": "Spri",
+      "name_uppercase": "SPRI",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050416",
+      "name": "Tanjong Keling",
+      "name_uppercase": "TANJONG KELING",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050417",
+      "name": "Titian Bintangor",
+      "name_uppercase": "TITIAN BINTANGOR",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050440",
+      "name": "Bandar Rembau",
+      "name_uppercase": "BANDAR REMBAU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050470",
+      "name": "Pekan Kampong Batu",
+      "name_uppercase": "PEKAN KAMPONG BATU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050471",
+      "name": "Pekan Kota",
+      "name_uppercase": "PEKAN KOTA",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050472",
+      "name": "Pekan Lubok China",
+      "name_uppercase": "PEKAN LUBOK CHINA",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050473",
+      "name": "Pekan Pedas",
+      "name_uppercase": "PEKAN PEDAS",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050474",
+      "name": "Pekan Chembong",
+      "name_uppercase": "PEKAN CHEMBONG",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050475",
+      "name": "Pekan Rembau",
+      "name_uppercase": "PEKAN REMBAU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050476",
+      "name": "Pekan Chengkau",
+      "name_uppercase": "PEKAN CHENGKAU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050477",
+      "name": "Pekan Seri Kota",
+      "name_uppercase": "PEKAN SERI KOTA",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050478",
+      "name": "Pekan Seri Kendong",
+      "name_uppercase": "PEKAN SERI KENDONG",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050479",
+      "name": "Pekan Merbau Sembilan",
+      "name_uppercase": "PEKAN MERBAU SEMBILAN",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050501",
+      "name": "Ampangan",
+      "name_uppercase": "AMPANGAN",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050502",
+      "name": "Labu",
+      "name_uppercase": "LABU",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050503",
+      "name": "Lenggeng",
+      "name_uppercase": "LENGGENG",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050504",
+      "name": "Pantai",
+      "name_uppercase": "PANTAI",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050505",
+      "name": "Rantau",
+      "name_uppercase": "RANTAU",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050506",
+      "name": "Rasah",
+      "name_uppercase": "RASAH",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050507",
+      "name": "Seremban",
+      "name_uppercase": "SEREMBAN",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050508",
+      "name": "Setul",
+      "name_uppercase": "SETUL",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050540",
+      "name": "Bandar Seremban",
+      "name_uppercase": "BANDAR SEREMBAN",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050541",
+      "name": "Bandar Seremban 3",
+      "name_uppercase": "BANDAR SEREMBAN 3",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050542",
+      "name": "Bandar Seremban Utama",
+      "name_uppercase": "BANDAR SEREMBAN UTAMA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050543",
+      "name": "Bandar Mantin Utama",
+      "name_uppercase": "BANDAR MANTIN UTAMA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050544",
+      "name": "Bandar Baru Enstek",
+      "name_uppercase": "BANDAR BARU ENSTEK",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050545",
+      "name": "Bandar Baru Kota Sri Mas",
+      "name_uppercase": "BANDAR BARU KOTA SRI MAS",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050546",
+      "name": "Bandar Nilai Utama",
+      "name_uppercase": "BANDAR NILAI UTAMA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050547",
+      "name": "Bandar Sri Sendayan",
+      "name_uppercase": "BANDAR SRI SENDAYAN",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050570",
+      "name": "Pekan Broga",
+      "name_uppercase": "PEKAN BROGA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050571",
+      "name": "Pekan Ulu Beranang",
+      "name_uppercase": "PEKAN ULU BERANANG",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050572",
+      "name": "Pekan Labu",
+      "name_uppercase": "PEKAN LABU",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050573",
+      "name": "Pekan Lenggeng",
+      "name_uppercase": "PEKAN LENGGENG",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050574",
+      "name": "Pekan Mambau",
+      "name_uppercase": "PEKAN MAMBAU",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050575",
+      "name": "Pekan Nilai",
+      "name_uppercase": "PEKAN NILAI",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050576",
+      "name": "Pekan Mantin",
+      "name_uppercase": "PEKAN MANTIN",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050577",
+      "name": "Pekan Pajam",
+      "name_uppercase": "PEKAN PAJAM",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050578",
+      "name": "Pekan Rantau",
+      "name_uppercase": "PEKAN RANTAU",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050579",
+      "name": "Pekan Tiroi",
+      "name_uppercase": "PEKAN TIROI",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050580",
+      "name": "Pekan Pancor",
+      "name_uppercase": "PEKAN PANCOR",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050581",
+      "name": "Pekan Taman Seremban",
+      "name_uppercase": "PEKAN TAMAN SEREMBAN",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050582",
+      "name": "Pekan Rahang Baru",
+      "name_uppercase": "PEKAN RAHANG BARU",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050583",
+      "name": "Pekan Paroi",
+      "name_uppercase": "PEKAN PAROI",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050584",
+      "name": "Pekan Bukit Kepayang",
+      "name_uppercase": "PEKAN BUKIT KEPAYANG",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050585",
+      "name": "Pekan Dusun Setia",
+      "name_uppercase": "PEKAN DUSUN SETIA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050586",
+      "name": "Pekan Sungai Gadut",
+      "name_uppercase": "PEKAN SUNGAI GADUT",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050587",
+      "name": "Pekan Bukti",
+      "name_uppercase": "PEKAN BUKTI",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050588",
+      "name": "Pekan Sikamat",
+      "name_uppercase": "PEKAN SIKAMAT",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050589",
+      "name": "Pekan Setul",
+      "name_uppercase": "PEKAN SETUL",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050590",
+      "name": "Pekan Shah Bandar",
+      "name_uppercase": "PEKAN SHAH BANDAR",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050591",
+      "name": "Pekan Ulu Temiang",
+      "name_uppercase": "PEKAN ULU TEMIANG",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050592",
+      "name": "Pekan Paroi Jaya",
+      "name_uppercase": "PEKAN PAROI JAYA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050593",
+      "name": "Pekan Rasah Jaya",
+      "name_uppercase": "PEKAN RASAH JAYA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050594",
+      "name": "Pekan Senawang",
+      "name_uppercase": "PEKAN SENAWANG",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050595",
+      "name": "Pekan Seremban Jaya",
+      "name_uppercase": "PEKAN SEREMBAN JAYA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050601",
+      "name": "Ayer Kuning",
+      "name_uppercase": "AYER KUNING",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050602",
+      "name": "Gemas",
+      "name_uppercase": "GEMAS",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050603",
+      "name": "Gemencheh",
+      "name_uppercase": "GEMENCHEH",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050604",
+      "name": "Keru",
+      "name_uppercase": "KERU",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050605",
+      "name": "Repah",
+      "name_uppercase": "REPAH",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050606",
+      "name": "Tampin Tengah",
+      "name_uppercase": "TAMPIN TENGAH",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050607",
+      "name": "Tebong",
+      "name_uppercase": "TEBONG",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050640",
+      "name": "Bandar Gemas",
+      "name_uppercase": "BANDAR GEMAS",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050641",
+      "name": "Bandar Tampin",
+      "name_uppercase": "BANDAR TAMPIN",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050670",
+      "name": "Pekan Air Kuning Selatan",
+      "name_uppercase": "PEKAN AIR KUNING SELATAN",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050671",
+      "name": "Pekan Batang Melaka",
+      "name_uppercase": "PEKAN BATANG MELAKA",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050672",
+      "name": "Pekan Gemenchech Bahru",
+      "name_uppercase": "PEKAN GEMENCHECH BAHRU",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050673",
+      "name": "Pekan Repah",
+      "name_uppercase": "PEKAN REPAH",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050674",
+      "name": "Pekan Tampin Tengah",
+      "name_uppercase": "PEKAN TAMPIN TENGAH",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050675",
+      "name": "Pekan Air Kuning",
+      "name_uppercase": "PEKAN AIR KUNING",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050676",
+      "name": "Pekan Pasir Besar",
+      "name_uppercase": "PEKAN PASIR BESAR",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050677",
+      "name": "Pekan Repah Permai",
+      "name_uppercase": "PEKAN REPAH PERMAI",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050678",
+      "name": "Pekan Repah Jaya",
+      "name_uppercase": "PEKAN REPAH JAYA",
+      "district_id": "506",
+      "district": "Tampin",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050701",
+      "name": "Jelai",
+      "name_uppercase": "JELAI",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050702",
+      "name": "Kuala Jempol",
+      "name_uppercase": "KUALA JEMPOL",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050703",
+      "name": "Rompin",
+      "name_uppercase": "ROMPIN",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050704",
+      "name": "Serting Hilir",
+      "name_uppercase": "SERTING HILIR",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050705",
+      "name": "Serting Ulu",
+      "name_uppercase": "SERTING ULU",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050740",
+      "name": "Bandar Serting",
+      "name_uppercase": "BANDAR SERTING",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050741",
+      "name": "Bandar Bahau",
+      "name_uppercase": "BANDAR BAHAU",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050742",
+      "name": "Bandar Seri Jempol",
+      "name_uppercase": "BANDAR SERI JEMPOL",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050770",
+      "name": "Pekan Bahau",
+      "name_uppercase": "PEKAN BAHAU",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050771",
+      "name": "Pekan Batu Kikir",
+      "name_uppercase": "PEKAN BATU KIKIR",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050772",
+      "name": "Pekan Kuala Jelai",
+      "name_uppercase": "PEKAN KUALA JELAI",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050773",
+      "name": "Pekan Rompin",
+      "name_uppercase": "PEKAN ROMPIN",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050774",
+      "name": "Pekan Ladang Geddes",
+      "name_uppercase": "PEKAN LADANG GEDDES",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050775",
+      "name": "Pekan Mahsan",
+      "name_uppercase": "PEKAN MAHSAN",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "050776",
+      "name": "Pekan Serting Tengah",
+      "name_uppercase": "PEKAN SERTING TENGAH",
+      "district_id": "507",
+      "district": "Jempol",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Negeri Sembilan - Muat turun percuma",
+    "description": "Senarai lengkap 160 mukim di negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 160 mukim (traditional sub-district units) in Negeri Sembilan, Malaysia. Mengandungi 160 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Negeri Sembilan | ListBase",
+    "seo_description": "Muat turun Mukim di Negeri Sembilan — 160 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 160 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

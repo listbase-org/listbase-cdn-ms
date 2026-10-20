@@ -1,0 +1,424 @@
+{
+  "id": "ms-selangor-kuala-langat-mukim",
+  "name": "Mukim di Daerah Kuala Langat, Selangor",
+  "title": "Mukim di Daerah Kuala Langat, Selangor",
+  "description": "Senarai lengkap 29 mukim di daerah Kuala Langat, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 29 mukim (traditional sub-district units) in Kuala Langat District, Selangor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "100201",
+      "name": "Bandar",
+      "name_uppercase": "BANDAR",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1089,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100202",
+      "name": "Batu",
+      "name_uppercase": "BATU",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1090,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100203",
+      "name": "Jugra",
+      "name_uppercase": "JUGRA",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1091,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100204",
+      "name": "Kelanang",
+      "name_uppercase": "KELANANG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1092,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100205",
+      "name": "Morib",
+      "name_uppercase": "MORIB",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1093,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100206",
+      "name": "Tanjong Duabelas",
+      "name_uppercase": "TANJONG DUABELAS",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1094,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100207",
+      "name": "Telok Panglima Garang",
+      "name_uppercase": "TELOK PANGLIMA GARANG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1095,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100240",
+      "name": "Bandar Banting",
+      "name_uppercase": "BANDAR BANTING",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1096,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100241",
+      "name": "Bandar Jenjarom",
+      "name_uppercase": "BANDAR JENJAROM",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1097,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100242",
+      "name": "Bandar Sijangkang",
+      "name_uppercase": "BANDAR SIJANGKANG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1098,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100243",
+      "name": "Bandar Tanjong Sepat",
+      "name_uppercase": "BANDAR TANJONG SEPAT",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1099,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100244",
+      "name": "Bandar Telok Panglima Garang",
+      "name_uppercase": "BANDAR TELOK PANGLIMA GARANG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1100,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100270",
+      "name": "Pekan Batu",
+      "name_uppercase": "PEKAN BATU",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1101,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100271",
+      "name": "Pekan Bukit Changgang",
+      "name_uppercase": "PEKAN BUKIT CHANGGANG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1102,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100272",
+      "name": "Pekan Chodoi",
+      "name_uppercase": "PEKAN CHODOI",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1103,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100273",
+      "name": "Pekan Jenjarom",
+      "name_uppercase": "PEKAN JENJAROM",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1104,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100274",
+      "name": "Pekan Kanchong",
+      "name_uppercase": "PEKAN KANCHONG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1105,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100275",
+      "name": "Pekan Kanchong Darat",
+      "name_uppercase": "PEKAN KANCHONG DARAT",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1106,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100276",
+      "name": "Pekan Kelanang Batu Enam",
+      "name_uppercase": "PEKAN KELANANG BATU ENAM",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1107,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100277",
+      "name": "Pekan Morib",
+      "name_uppercase": "PEKAN MORIB",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1108,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100278",
+      "name": "Pekan Sijangkang",
+      "name_uppercase": "PEKAN SIJANGKANG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1109,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100279",
+      "name": "Pekan Permatang Pasir",
+      "name_uppercase": "PEKAN PERMATANG PASIR",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1110,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100280",
+      "name": "Pekan Simpang Morib",
+      "name_uppercase": "PEKAN SIMPANG MORIB",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1111,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100281",
+      "name": "Pekan Sungai Manggis",
+      "name_uppercase": "PEKAN SUNGAI MANGGIS",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1112,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100282",
+      "name": "Pekan Sungai Raba",
+      "name_uppercase": "PEKAN SUNGAI RABA",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1113,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100283",
+      "name": "Pekan Tanjong Duabelas",
+      "name_uppercase": "PEKAN TANJONG DUABELAS",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1114,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100284",
+      "name": "Pekan Telok Datok",
+      "name_uppercase": "PEKAN TELOK DATOK",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1115,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100286",
+      "name": "Pekan Tongkah",
+      "name_uppercase": "PEKAN TONGKAH",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1116,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    },
+    {
+      "id": "100287",
+      "name": "Pekan Telok",
+      "name_uppercase": "PEKAN TELOK",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1117,
+      "state_slug": "selangor",
+      "district_slug": "kuala-langat"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Kuala Langat, Selangor - Muat turun percuma",
+    "description": "Senarai lengkap 29 mukim di daerah Kuala Langat, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 29 mukim (traditional sub-district units) in Kuala Langat District, Selangor, Malaysia. Mengandungi 29 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Kuala Langat, Selangor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Kuala Langat, Selangor — 29 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 29 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

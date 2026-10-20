@@ -1,0 +1,226 @@
+{
+  "id": "ms-melaka-poskod",
+  "name": "Poskod Melaka",
+  "title": "Poskod Melaka",
+  "description": "Senarai poskod 5-digit di Melaka mengikut pasangan (poskod, bandar). Mengandungi 37 rekod merangkumi 16 bandar dan 37 poskod unik. Sumber data: AsyrafHussin/malaysia-postcodes.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "postcode",
+      "label": "Postcode",
+      "type": "number"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postcode": "75000",
+      "city": "Melaka",
+      "city_slug": "melaka"
+    },
+    {
+      "postcode": "75050",
+      "city": "Melaka",
+      "city_slug": "melaka"
+    },
+    {
+      "postcode": "75100",
+      "city": "Melaka",
+      "city_slug": "melaka"
+    },
+    {
+      "postcode": "75150",
+      "city": "Melaka",
+      "city_slug": "melaka"
+    },
+    {
+      "postcode": "75200",
+      "city": "Melaka",
+      "city_slug": "melaka"
+    },
+    {
+      "postcode": "75250",
+      "city": "Melaka",
+      "city_slug": "melaka"
+    },
+    {
+      "postcode": "75260",
+      "city": "Melaka",
+      "city_slug": "melaka"
+    },
+    {
+      "postcode": "75300",
+      "city": "Melaka",
+      "city_slug": "melaka"
+    },
+    {
+      "postcode": "75350",
+      "city": "Melaka",
+      "city_slug": "melaka"
+    },
+    {
+      "postcode": "75400",
+      "city": "Melaka",
+      "city_slug": "melaka"
+    },
+    {
+      "postcode": "75430",
+      "city": "Melaka",
+      "city_slug": "melaka"
+    },
+    {
+      "postcode": "75450",
+      "city": "Ayer Keroh",
+      "city_slug": "ayer-keroh"
+    },
+    {
+      "postcode": "75460",
+      "city": "Melaka",
+      "city_slug": "melaka"
+    },
+    {
+      "postcode": "76100",
+      "city": "Durian Tunggal",
+      "city_slug": "durian-tunggal"
+    },
+    {
+      "postcode": "76109",
+      "city": "Durian Tunggal",
+      "city_slug": "durian-tunggal"
+    },
+    {
+      "postcode": "76200",
+      "city": "Kem Trendak",
+      "city_slug": "kem-trendak"
+    },
+    {
+      "postcode": "76300",
+      "city": "Sungai Udang",
+      "city_slug": "sungai-udang"
+    },
+    {
+      "postcode": "76400",
+      "city": "Tanjong Kling",
+      "city_slug": "tanjong-kling"
+    },
+    {
+      "postcode": "76409",
+      "city": "Tanjong Kling",
+      "city_slug": "tanjong-kling"
+    },
+    {
+      "postcode": "76450",
+      "city": "Melaka",
+      "city_slug": "melaka"
+    },
+    {
+      "postcode": "77000",
+      "city": "Jasin",
+      "city_slug": "jasin"
+    },
+    {
+      "postcode": "77007",
+      "city": "Jasin",
+      "city_slug": "jasin"
+    },
+    {
+      "postcode": "77008",
+      "city": "Jasin",
+      "city_slug": "jasin"
+    },
+    {
+      "postcode": "77009",
+      "city": "Jasin",
+      "city_slug": "jasin"
+    },
+    {
+      "postcode": "77100",
+      "city": "Asahan",
+      "city_slug": "asahan"
+    },
+    {
+      "postcode": "77109",
+      "city": "Asahan",
+      "city_slug": "asahan"
+    },
+    {
+      "postcode": "77200",
+      "city": "Bemban",
+      "city_slug": "bemban"
+    },
+    {
+      "postcode": "77300",
+      "city": "Merlimau",
+      "city_slug": "merlimau"
+    },
+    {
+      "postcode": "77400",
+      "city": "Sungai Rambai",
+      "city_slug": "sungai-rambai"
+    },
+    {
+      "postcode": "77500",
+      "city": "Selandar",
+      "city_slug": "selandar"
+    },
+    {
+      "postcode": "78000",
+      "city": "Alor Gajah",
+      "city_slug": "alor-gajah"
+    },
+    {
+      "postcode": "78009",
+      "city": "Alor Gajah",
+      "city_slug": "alor-gajah"
+    },
+    {
+      "postcode": "78100",
+      "city": "Lubok China",
+      "city_slug": "lubok-china"
+    },
+    {
+      "postcode": "78200",
+      "city": "Kuala Sungai Baru",
+      "city_slug": "kuala-sungai-baru"
+    },
+    {
+      "postcode": "78300",
+      "city": "Masjid Tanah",
+      "city_slug": "masjid-tanah"
+    },
+    {
+      "postcode": "78307",
+      "city": "Masjid Tanah",
+      "city_slug": "masjid-tanah"
+    },
+    {
+      "postcode": "78309",
+      "city": "Masjid Tanah",
+      "city_slug": "masjid-tanah"
+    }
+  ],
+  "meta": {
+    "title": "Poskod Melaka - Muat turun percuma",
+    "description": "Senarai poskod 5-digit di Melaka mengikut pasangan (poskod, bandar). Mengandungi 37 rekod merangkumi 16 bandar dan 37 poskod unik. Sumber data: AsyrafHussin/malaysia-postcodes. Mengandungi 37 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Poskod Melaka | ListBase",
+    "seo_description": "Muat turun Poskod Melaka — 37 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 37 rekod / 3 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

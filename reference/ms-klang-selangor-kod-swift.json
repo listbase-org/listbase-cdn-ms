@@ -1,0 +1,72 @@
+{
+  "id": "ms-klang-selangor-kod-swift",
+  "name": "Kod SWIFT/BIC — Klang, Selangor",
+  "title": "Kod SWIFT/BIC — Klang, Selangor",
+  "description": "Senarai institusi kewangan di Klang, Selangor (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Klang, Selangor, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 197,
+      "bank": "KLANG SECURITIES SDN BHD",
+      "city": "KLANG, SELANGOR",
+      "branch": "",
+      "swift_code": "KLANMY21"
+    },
+    {
+      "id": 372,
+      "bank": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "city": "KLANG, SELANGOR",
+      "branch": "(JALAN DATO HAMZAH BRANCH)",
+      "swift_code": "UOVBMYK101K"
+    },
+    {
+      "id": 373,
+      "bank": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "city": "KLANG, SELANGOR",
+      "branch": "(JALAN MERU)",
+      "swift_code": "UOVBMYK102K"
+    }
+  ],
+  "meta": {
+    "title": "Kod SWIFT/BIC — Klang, Selangor - Muat turun percuma",
+    "description": "Senarai institusi kewangan di Klang, Selangor (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Klang, Selangor, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source. Mengandungi 3 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kod SWIFT/BIC — Klang, Selangor | ListBase",
+    "seo_description": "Muat turun Kod SWIFT/BIC — Klang, Selangor — 3 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 3 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

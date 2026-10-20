@@ -1,0 +1,292 @@
+{
+  "id": "ms-selangor-gombak-mukim",
+  "name": "Mukim di Daerah Gombak, Selangor",
+  "title": "Mukim di Daerah Gombak, Selangor",
+  "description": "Senarai lengkap 18 mukim di daerah Gombak, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 18 mukim (traditional sub-district units) in Gombak District, Selangor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "100902",
+      "name": "Ulu Kelang",
+      "name_uppercase": "ULU KELANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1259,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100903",
+      "name": "Rawang",
+      "name_uppercase": "RAWANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1260,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100904",
+      "name": "Setapak",
+      "name_uppercase": "SETAPAK",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1261,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100940",
+      "name": "Bandar Batu Arang",
+      "name_uppercase": "BANDAR BATU ARANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1262,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100942",
+      "name": "Bandar Rawang",
+      "name_uppercase": "BANDAR RAWANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1263,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100943",
+      "name": "Bandar Gombak Setia",
+      "name_uppercase": "BANDAR GOMBAK SETIA",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1264,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100944",
+      "name": "Bandar Ulu Kelang",
+      "name_uppercase": "BANDAR ULU KELANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1265,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100945",
+      "name": "Bandar Kepong",
+      "name_uppercase": "BANDAR KEPONG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1266,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100946",
+      "name": "Bandar Kundang",
+      "name_uppercase": "BANDAR KUNDANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1267,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100947",
+      "name": "Bandar Selayang",
+      "name_uppercase": "BANDAR SELAYANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1268,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100948",
+      "name": "Bandar Sungai Buloh",
+      "name_uppercase": "BANDAR SUNGAI BULOH",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1269,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100949",
+      "name": "Bandar Sungai Pusu",
+      "name_uppercase": "BANDAR SUNGAI PUSU",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1270,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100972",
+      "name": "Pekan Batu 20",
+      "name_uppercase": "PEKAN BATU 20",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1271,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100973",
+      "name": "Pekan Kuang",
+      "name_uppercase": "PEKAN KUANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1272,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100974",
+      "name": "Pekan Mimaland",
+      "name_uppercase": "PEKAN MIMALAND",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1273,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100975",
+      "name": "Pekan Pengkalan Kundang",
+      "name_uppercase": "PEKAN PENGKALAN KUNDANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1274,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100976",
+      "name": "Pekan Sungai Buloh",
+      "name_uppercase": "PEKAN SUNGAI BULOH",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1275,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    },
+    {
+      "id": "100977",
+      "name": "Pekan Templer",
+      "name_uppercase": "PEKAN TEMPLER",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1276,
+      "state_slug": "selangor",
+      "district_slug": "gombak"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Gombak, Selangor - Muat turun percuma",
+    "description": "Senarai lengkap 18 mukim di daerah Gombak, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 18 mukim (traditional sub-district units) in Gombak District, Selangor, Malaysia. Mengandungi 18 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Gombak, Selangor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Gombak, Selangor — 18 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 18 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

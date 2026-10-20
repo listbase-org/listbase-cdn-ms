@@ -1,0 +1,280 @@
+{
+  "id": "ms-kementerian-kerja-raya-agensi",
+  "name": "Senarai Agensi Kementerian Kerja Raya (KKR)",
+  "title": "Senarai Agensi Kementerian Kerja Raya (KKR)",
+  "description": "Senarai 7 agensi kerajaan di bawah Kementerian Kerja Raya (KKR) (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 7/7 koordinat, 7/7 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "JABATAN KERJA RAYA",
+      "parent_body": "Kementerian Kerja Raya (KKR)",
+      "parent_body_slug": "kementerian-kerja-raya",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Pemberi perkhidmatan bertaraf dunia dan pusat kecemerlangan di dalam bidang pengurusan aset, pengurusan projek dan perkhidmatan kejuruteraan demi pembangunan infrastruktur negara melalui modal insan yang kreatif dan inovatif serta teknologi terkini.",
+      "address": "Menara Kerja Raya (Blok G), Ibu Pejabat JKR, Jalan Sultan Salahuddin, 50480 Wilayah Persekutuan Kuala Lumpur",
+      "phone": "603-2618 9000",
+      "fax": "603-2618 8799",
+      "email": "komunikasi@jkr.gov.my",
+      "contact_person": "Komunikasi",
+      "website": "https://www.jkr.gov.my/",
+      "latitude": "3.1539846",
+      "longitude": "101.6877578",
+      "facebook": "https://www.facebook.com/jkr.malaysia",
+      "twitter": "https://twitter.com/JKRMalaysia",
+      "instagram": "https://www.instagram.com/jkrmalaysia/",
+      "youtube": "https://www.youtube.com/user/JKRMalaysia/videos",
+      "unique_code": "PAP-10-02-00",
+      "active": true,
+      "agency_id": 280
+    },
+    {
+      "name": "KEMENTERIAN KERJA RAYA",
+      "parent_body": "Kementerian Kerja Raya (KKR)",
+      "parent_body_slug": "kementerian-kerja-raya",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "KEMENTERIAN KERJA RAYA",
+      "address": "Tingkat 1-14, Kompleks Kerja Raya, Jalan Sultan Salahuddin, 50580 Kuala Lumpur",
+      "phone": "603-8000 8000",
+      "fax": "603-2711 3320",
+      "email": "pro@kkr.gov.my",
+      "contact_person": "pro",
+      "website": "http://www.kkr.gov.my/ms",
+      "latitude": "3.1544464",
+      "longitude": "101.6871116",
+      "facebook": "https://web.facebook.com/KementerianKerjaRaya/",
+      "twitter": "https://twitter.com/MOWorks",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UC64iwOgaF9R_XC8xR9Cm3pA",
+      "unique_code": "PAP-10-01-00",
+      "active": true,
+      "agency_id": 279
+    },
+    {
+      "name": "Lembaga Arkitek Malaysia",
+      "parent_body": "Kementerian Kerja Raya (KKR)",
+      "parent_body_slug": "kementerian-kerja-raya",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Fungsi utama lembaga arkitek malaysia adalah sebagai pihak berkuasa berkanun yang bertanggungjawab bagi penguatkuasaan Akta Arkitek 1967",
+      "address": "Tingkat 17, Block F, Ibu Pejabat JKR, Jalan Sultan Salahuddin, 50582 Kuala Lumpur",
+      "phone": "603-2698 2878",
+      "fax": "03-2693 6881",
+      "email": "info@lam.gov.my",
+      "contact_person": "Info",
+      "website": "http://www.lam.gov.my",
+      "latitude": "3.154255",
+      "longitude": "101.68985",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PUB-14233-00",
+      "active": true,
+      "agency_id": 41311
+    },
+    {
+      "name": "LEMBAGA JURUTERA MALAYSIA",
+      "parent_body": "Kementerian Kerja Raya (KKR)",
+      "parent_body_slug": "kementerian-kerja-raya",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Peranan utama BEM adalah penyelarasan pendaftaran Jurutera di samping menyediakan perkhidmatan kejuruteraan profesional dan untuk mengawal selia etika profesional bagi menjaga keselamatan dan kepentingan awam.",
+      "address": "Tingkat 17, Blok F Ibu Pejabat JKR Jalan Sultan Salahuddin 50580 Kuala Lumpur",
+      "phone": "603-2691 7095",
+      "fax": "03-2692 5017",
+      "email": "enquiry@bem.org.my",
+      "contact_person": "Enquiry",
+      "website": "http://www.bem.org.my",
+      "latitude": "3.155109",
+      "longitude": "101.688959",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PUB-14385-00",
+      "active": true,
+      "agency_id": 41463
+    },
+    {
+      "name": "LEMBAGA JURUUKUR BAHAN MALAYSIA",
+      "parent_body": "Kementerian Kerja Raya (KKR)",
+      "parent_body_slug": "kementerian-kerja-raya",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Lembaga Juruukur Bahan Malaysia ditubuhkan di bawah Akta Parlimen, iaitu Akta Juruukur Bahan 1967(pindaan 2015) untuk memupuk perkembangan profesion juruukur bahan dan kejuruteraan kos yang bertaraf antarabangsa melalui kawalseliaan dan pembangunan profesional yang berterusan.",
+      "address": "Tingkat 17, Blok F, Ibu Pejabat JKR, Jalan Sultan Salahuddin, 50582 Kuala Lumpur, W.P. Kuala Lumpur",
+      "phone": "603-2610 7823",
+      "fax": "03-2692 5680",
+      "email": "info@bqsm.gov.my",
+      "contact_person": "Setiausaha Eksekutif",
+      "website": "https://www.bqsm.gov.my/index.php/en/",
+      "latitude": "3.155107",
+      "longitude": "101.688959",
+      "facebook": "https://www.facebook.com/Board-of-Quantity-Surveyors-Malaysia-1632372480418064/",
+      "twitter": "https://twitter.com/LJBMRasmi",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PUB-13947-00",
+      "active": true,
+      "agency_id": 41063
+    },
+    {
+      "name": "LEMBAGA LEBUHRAYA MALAYSIA",
+      "parent_body": "Kementerian Kerja Raya (KKR)",
+      "parent_body_slug": "kementerian-kerja-raya",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Menyelia dan melaksanakan reka bentuk, pembinaan, pengawalan, pengendalian dan penyelenggaraan lebuh raya.",
+      "address": "Wisma Lebuhraya, KM-6, Jalan Serdang - Kajang, 43000 Kajang, Selangor",
+      "phone": "603-8738 3000",
+      "fax": "03-8737 3555",
+      "email": "aduan@llm.gov.my",
+      "contact_person": "Bahagian Sumber Manusia dan Korporat",
+      "website": "http://www.llm.gov.my",
+      "latitude": "2.980033",
+      "longitude": "101.74197",
+      "facebook": "https://www.facebook.com/LembagaLebuhrayaMalaysia/?ref=settings",
+      "twitter": "https://twitter.com/LLMrasmi",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCy74MQmfKROy1pxS9L-koZg?view_as=subscriber",
+      "unique_code": "BBP-10-01-00",
+      "active": true,
+      "agency_id": 277
+    },
+    {
+      "name": "LEMBAGA PEMBANGUNAN INDUSTRI PEMBINAAN (CIDB)",
+      "parent_body": "Kementerian Kerja Raya (KKR)",
+      "parent_body_slug": "kementerian-kerja-raya",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Menjadi organisasi yang unggul dalam mencapai kecemerlangan pembinaan di Malaysia",
+      "address": "Tingkat 10, Menara Dato' Onn, Putra World Trade Center(PWTC), No 45, Jalan Tun Ismail, 50480 Kuala Lumpur.",
+      "phone": "130-0882 432_",
+      "fax": "__-____ ____",
+      "email": "cidb@cidb.gov.my",
+      "contact_person": "CIDB",
+      "website": "http://www.cidb.gov.my",
+      "latitude": "3.1695625",
+      "longitude": "101.6906914",
+      "facebook": "https://www.facebook.com/CIDBOfficial/",
+      "twitter": "https://twitter.com/CIDBMALAYSIA1",
+      "instagram": "https://www.instagram.com/cidbmalaysia/",
+      "youtube": "https://www.youtube.com/channel/UCSdGNnJl8h5z3HX3DW-kdyw",
+      "unique_code": "BBP-10-02-00",
+      "active": true,
+      "agency_id": 278
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi Kementerian Kerja Raya (KKR) - Muat turun percuma",
+    "description": "Senarai 7 agensi kerajaan di bawah Kementerian Kerja Raya (KKR) (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 7/7 koordinat, 7/7 laman web. Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi Kementerian Kerja Raya (KKR) | ListBase",
+    "seo_description": "Muat turun Senarai Agensi Kementerian Kerja Raya (KKR) — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

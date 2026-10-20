@@ -1,0 +1,368 @@
+{
+  "id": "ms-dataran",
+  "name": "Dataran di Malaysia",
+  "title": "Dataran di Malaysia",
+  "description": "Squares in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q95992691",
+      "name_ms": "Dataran Air Papan",
+      "name_en": "Air Papan Square",
+      "admin_area_ms": "Air Papan",
+      "admin_area_en": "Air Papan",
+      "latitude": 2.515472,
+      "longitude": 103.835083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q95992691"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q5227486",
+      "name_ms": "Dataran Bandaraya Johor Bahru",
+      "name_en": "Johor Bahru City Square",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.460361,
+      "longitude": 103.742111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5227486"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q96195540",
+      "name_ms": "Dataran Cahaya",
+      "name_en": "Cahaya Square",
+      "admin_area_ms": "Kulai",
+      "admin_area_en": "Kulai",
+      "latitude": 1.654889,
+      "longitude": 103.607528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96195540"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q96195250",
+      "name_ms": "Dataran Dato' Jalok",
+      "name_en": "Dato' Jalok Square",
+      "admin_area_ms": "Benut",
+      "admin_area_en": "Benut",
+      "latitude": 1.644694,
+      "longitude": 103.258278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96195250"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q96077693",
+      "name_ms": "Dataran Gemilang",
+      "name_en": "Gemilang Square",
+      "admin_area_ms": "Yong Peng",
+      "admin_area_en": "Yong Peng",
+      "latitude": 2.008972,
+      "longitude": 103.057611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96077693"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q110220695",
+      "name_ms": "Dataran Iskandar Puteri",
+      "name_en": "Iskandar Puteri Square",
+      "admin_area_ms": "Iskandar Puteri",
+      "admin_area_en": "Iskandar Puteri",
+      "latitude": 1.434667,
+      "longitude": 103.617,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110220695"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q95992712",
+      "name_ms": "Dataran Kota Tinggi",
+      "name_en": "Kota Tinggi Town Square",
+      "admin_area_ms": "Kota Tinggi",
+      "admin_area_en": "Kota Tinggi",
+      "latitude": 1.730111,
+      "longitude": 103.901333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q95992712"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q95992097",
+      "name_ms": "Dataran Labis",
+      "name_en": "Labis Square",
+      "admin_area_ms": "Labis",
+      "admin_area_en": "Labis",
+      "latitude": 2.388139,
+      "longitude": 103.020222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q95992097"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q95688199",
+      "name_ms": "Dataran Mahkota",
+      "name_en": "Mahkota Square",
+      "admin_area_ms": "Kota Iskandar",
+      "admin_area_en": "Kota Iskandar",
+      "latitude": 1.422639,
+      "longitude": 103.651917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q95688199"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q3043065",
+      "name_ms": "Dataran Merdeka",
+      "name_en": "Independence Square",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.14882,
+      "longitude": 101.69367,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3043065"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q124373352",
+      "name_ms": "Dataran Nilai",
+      "name_en": "Nilai Square",
+      "admin_area_ms": "Negeri Sembilan",
+      "admin_area_en": "Negeri Sembilan",
+      "latitude": 2.820179,
+      "longitude": 101.790413,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124373352"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q14111620",
+      "name_ms": "Dataran Pahlawan Negara",
+      "name_en": "National Heroes Square",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 2.940139,
+      "longitude": 101.71125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14111620"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q119092635",
+      "name_ms": "Dataran Panglima Tentera Darat",
+      "name_en": "",
+      "admin_area_ms": "Selangor",
+      "admin_area_en": "Selangor",
+      "latitude": 3.06083,
+      "longitude": 101.723917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119092635"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q64997312",
+      "name_ms": "Dataran Penggaram",
+      "name_en": "Penggaram Square",
+      "admin_area_ms": "Batu Pahat",
+      "admin_area_en": "Batu Pahat",
+      "latitude": 1.846722,
+      "longitude": 102.9345,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64997312"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q104217278",
+      "name_ms": "Dataran Permas",
+      "name_en": "Permas Square",
+      "admin_area_ms": "Permas Jaya",
+      "admin_area_en": "Permas Jaya",
+      "latitude": 1.504139,
+      "longitude": 103.820278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104217278"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q7262405",
+      "name_ms": "Dataran Putra",
+      "name_en": "Putra Square",
+      "admin_area_ms": "Putrajaya",
+      "admin_area_en": "Putrajaya",
+      "latitude": 2.935284,
+      "longitude": 101.688933,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7262405"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q122165566",
+      "name_ms": "Dataran Putrajaya",
+      "name_en": "Dataran Putrajaya",
+      "admin_area_ms": "Putrajaya",
+      "admin_area_en": "Putrajaya",
+      "latitude": 2.917556,
+      "longitude": 101.685089,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122165566"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q61366924",
+      "name_ms": "Dataran Segamat",
+      "name_en": "Segamat Square",
+      "admin_area_ms": "Segamat",
+      "admin_area_en": "Segamat",
+      "latitude": 2.510917,
+      "longitude": 102.814806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61366924"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q96144224",
+      "name_ms": "Dataran Tanjung Emas",
+      "name_en": "Tanjung Emas Square",
+      "admin_area_ms": "Muar",
+      "admin_area_en": "Muar",
+      "latitude": 2.047028,
+      "longitude": 102.555278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96144224"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q105091639",
+      "name_ms": "Dataran Tasik Kluang",
+      "name_en": "Kluang Lake Square",
+      "admin_area_ms": "Bandar Kluang",
+      "admin_area_en": "Kluang",
+      "latitude": 2.022833,
+      "longitude": 103.318111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105091639"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q127603781",
+      "name_ms": "Dataran Temerloh",
+      "name_en": "Dataran Temerloh",
+      "admin_area_ms": "Pahang",
+      "admin_area_en": "Pahang",
+      "latitude": 3.44838,
+      "longitude": 102.41777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127603781"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q105111152",
+      "name_ms": "Laman Kampung Melayu",
+      "name_en": "Malay Village Square",
+      "admin_area_ms": "Bandar Kluang",
+      "admin_area_en": "Kluang",
+      "latitude": 2.041472,
+      "longitude": 103.325667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105111152"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q96591458",
+      "name_ms": "Laman Maharani",
+      "name_en": "Maharani Square",
+      "admin_area_ms": "Muar",
+      "admin_area_en": "Muar",
+      "latitude": 2.049014,
+      "longitude": 102.567867,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96591458"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q61366526",
+      "name_ms": "Laman Serene",
+      "name_en": "Serene Square",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.480306,
+      "longitude": 103.723972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61366526"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q122957963",
+      "name_ms": "Medan Ilmu Kota Bharu",
+      "name_en": "",
+      "admin_area_ms": "Kelantan",
+      "admin_area_en": "Kelantan",
+      "latitude": 6.126685,
+      "longitude": 102.238675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122957963"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q109345562",
+      "name_ms": "",
+      "name_en": "Medan Pasar",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.147346,
+      "longitude": 101.695907,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109345562"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q98034011",
+      "name_ms": "",
+      "name_en": "Tangkak Square",
+      "admin_area_ms": "Tangkak",
+      "admin_area_en": "Tangkak",
+      "latitude": 2.267806,
+      "longitude": 102.538139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98034011"
+    }
+  ],
+  "meta": {
+    "title": "Dataran di Malaysia - Muat turun percuma",
+    "description": "Squares in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location). Mengandungi 27 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Dataran di Malaysia | ListBase",
+    "seo_description": "Muat turun Dataran di Malaysia — 27 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 27 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

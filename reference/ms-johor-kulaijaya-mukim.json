@@ -1,0 +1,136 @@
+{
+  "id": "ms-johor-kulaijaya-mukim",
+  "name": "Mukim di Daerah Kulaijaya, Johor",
+  "title": "Mukim di Daerah Kulaijaya, Johor",
+  "description": "Senarai lengkap 5 mukim di daerah Kulaijaya, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 5 mukim (traditional sub-district units) in Kulaijaya District, Johor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "010901",
+      "name": "Kulai",
+      "name_uppercase": "KULAI",
+      "district_id": "109",
+      "district": "Kulaijaya",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1696,
+      "state_slug": "johor",
+      "district_slug": "kulaijaya"
+    },
+    {
+      "id": "010902",
+      "name": "Senai",
+      "name_uppercase": "SENAI",
+      "district_id": "109",
+      "district": "Kulaijaya",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1697,
+      "state_slug": "johor",
+      "district_slug": "kulaijaya"
+    },
+    {
+      "id": "010903",
+      "name": "Sedenak",
+      "name_uppercase": "SEDENAK",
+      "district_id": "109",
+      "district": "Kulaijaya",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1698,
+      "state_slug": "johor",
+      "district_slug": "kulaijaya"
+    },
+    {
+      "id": "010904",
+      "name": "Bukit Batu",
+      "name_uppercase": "BUKIT BATU",
+      "district_id": "109",
+      "district": "Kulaijaya",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1699,
+      "state_slug": "johor",
+      "district_slug": "kulaijaya"
+    },
+    {
+      "id": "010940",
+      "name": "Bandar Kulai",
+      "name_uppercase": "BANDAR KULAI",
+      "district_id": "109",
+      "district": "Kulaijaya",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1700,
+      "state_slug": "johor",
+      "district_slug": "kulaijaya"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Kulaijaya, Johor - Muat turun percuma",
+    "description": "Senarai lengkap 5 mukim di daerah Kulaijaya, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 5 mukim (traditional sub-district units) in Kulaijaya District, Johor, Malaysia. Mengandungi 5 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Kulaijaya, Johor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Kulaijaya, Johor — 5 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 5 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ms-wp-putrajaya-masjid-sismim",
+  "name": "Masjid di WP Putrajaya",
+  "title": "Masjid di WP Putrajaya",
+  "description": "Senarai masjid di WP Putrajaya — 3 masjid. Sumber: SISMIM/JAKIM (direktori kebangsaan masjid & surau). Medan: name, state, state_slug, district, address, phone, fax.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "MASJID PUTRA",
+      "state": "WP Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "district": "Wilayah Persekutuan Putrajaya",
+      "address": "MASJID PUTRA, PERSIARAN PERDANA, PRESINT 1, 62502, PUTRAJAYA",
+      "phone": "03-88885678",
+      "fax": "03-88883166"
+    },
+    {
+      "name": "MASJID TUANKU MIZAN ZAINAL ABIDIN",
+      "state": "WP Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "district": "Wilayah Persekutuan Putrajaya",
+      "address": "NO. 25, JALAN TUNKU ABDUL RAHMAN, PRESINT 3, PUSAT PENTADBIRAN KERAJAAN PERSEKUTUAN, PUTRAJAYA",
+      "phone": "0388804300",
+      "fax": "03-88901614"
+    },
+    {
+      "name": "MASJID MAHMOODIAH",
+      "state": "WP Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "district": "Wilayah Persekutuan Putrajaya",
+      "address": "JALAN P18C, PRESINT 18, 62100 PUTRAJAYA",
+      "phone": "01114916281",
+      "fax": "03-88842701"
+    }
+  ],
+  "meta": {
+    "title": "Masjid di WP Putrajaya - Muat turun percuma",
+    "description": "Senarai masjid di WP Putrajaya — 3 masjid. Sumber: SISMIM/JAKIM (direktori kebangsaan masjid & surau). Medan: name, state, state_slug, district, address, phone, fax. Mengandungi 3 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Masjid di WP Putrajaya | ListBase",
+    "seo_description": "Muat turun Masjid di WP Putrajaya — 3 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 3 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

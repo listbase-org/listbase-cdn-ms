@@ -1,0 +1,148 @@
+{
+  "id": "ms-penjara",
+  "name": "Penjara di Malaysia",
+  "title": "Penjara di Malaysia",
+  "description": "Prisons in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q13640781",
+      "name_ms": "Kem Tahanan Kamunting",
+      "name_en": "Kamunting Detention Center",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.909167,
+      "longitude": 100.736944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13640781"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q131272446",
+      "name_ms": "",
+      "name_en": "Kuching Central Prison",
+      "admin_area_ms": "Sarawak",
+      "admin_area_en": "Sarawak",
+      "latitude": 1.553611,
+      "longitude": 110.348333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131272446"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q7405771",
+      "name_ms": "Penjara Johor Bahru",
+      "name_en": "Johor Bahru Prison",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.463361,
+      "longitude": 103.756611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7405771"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q25483816",
+      "name_ms": "Penjara Kajang",
+      "name_en": "Kajang Prison",
+      "admin_area_ms": "Selangor",
+      "admin_area_en": "Selangor",
+      "latitude": 3.004187,
+      "longitude": 101.811919,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25483816"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q1080661",
+      "name_ms": "Penjara Pudu",
+      "name_en": "Pudu Prison",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.140773,
+      "longitude": 101.708443,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1080661"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q12700224",
+      "name_ms": "Penjara Sungai Buloh",
+      "name_en": "Sungai Buloh Prison",
+      "admin_area_ms": "Selangor",
+      "admin_area_en": "Selangor",
+      "latitude": 3.23379,
+      "longitude": 101.498,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12700224"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q99538895",
+      "name_ms": "Pusat Reman Johor Bahru",
+      "name_en": "Johor Bahru Prison Centre",
+      "admin_area_ms": "Ulu Choh",
+      "admin_area_en": "Ulu Choh",
+      "latitude": 1.547083,
+      "longitude": 103.561139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99538895"
+    }
+  ],
+  "meta": {
+    "title": "Penjara di Malaysia - Muat turun percuma",
+    "description": "Prisons in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location). Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Penjara di Malaysia | ListBase",
+    "seo_description": "Muat turun Penjara di Malaysia — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

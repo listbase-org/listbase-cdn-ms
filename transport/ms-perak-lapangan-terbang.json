@@ -1,0 +1,336 @@
+{
+  "id": "ms-perak-lapangan-terbang",
+  "name": "Senarai Lapangan Terbang di Negeri Perak",
+  "title": "Senarai Lapangan Terbang di Negeri Perak",
+  "description": "Senarai 11 lapangan terbang dan kemudahan penerbangan di Negeri Perak, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_bm",
+      "label": "Name Bm",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_bm",
+      "label": "State Bm",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "runway_m",
+      "label": "Runway M",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "source_attribution",
+      "label": "Source Attribution",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    },
+    {
+      "key": "has_icao",
+      "label": "Has Icao",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 36,
+      "iata": "",
+      "icao": "WMAE",
+      "name_en": "Bidor Airport",
+      "name_bm": "Lapangan Terbang Bidor",
+      "name_slug": "bidor-airport",
+      "city": "Bidor",
+      "state": "Perak",
+      "state_bm": "Perak",
+      "state_slug": "perak",
+      "type": "Domestic/STOL",
+      "operator": "",
+      "runway_m": "",
+      "status": "Closed",
+      "coordinates": "",
+      "source_attribution": "CAAM, AIP, Wiki",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 37,
+      "iata": "",
+      "icao": "WMAH",
+      "name_en": "Grik Airport",
+      "name_bm": "Lapangan Terbang Grik",
+      "name_slug": "grik-airport",
+      "city": "Gerik",
+      "state": "Perak",
+      "state_bm": "Perak",
+      "state_slug": "perak",
+      "type": "Military/STOL",
+      "operator": "MINDEF",
+      "runway_m": "457",
+      "status": "Active",
+      "coordinates": "05°25'59\"N 101°06'55\"E",
+      "source_attribution": "CAAM, AIP",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 38,
+      "iata": "",
+      "icao": "WMAJ",
+      "name_en": "Jenderata Airport",
+      "name_bm": "Lapangan Terbang Jenderata",
+      "name_slug": "jenderata-airport",
+      "city": "Jenderata",
+      "state": "Perak",
+      "state_bm": "Perak",
+      "state_slug": "perak",
+      "type": "Private/STOL",
+      "operator": "United Plantation Limited",
+      "runway_m": "584",
+      "status": "Active",
+      "coordinates": "03°53'59\"N 100°56'55\"E",
+      "source_attribution": "CAAM, AIP",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 39,
+      "iata": "",
+      "icao": "WMBH",
+      "name_en": "Kroh Airstrip",
+      "name_bm": "Lapangan Terbang Kroh",
+      "name_slug": "kroh-airstrip",
+      "city": "Kroh",
+      "state": "Perak",
+      "state_bm": "Perak",
+      "state_slug": "perak",
+      "type": "Military/STOL",
+      "operator": "MINDEF",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "05°40'59\"N 100°58'55\"E",
+      "source_attribution": "CAAM, AIP",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 40,
+      "iata": "",
+      "icao": "WMLH",
+      "name_en": "Lumut Naval Air Station",
+      "name_bm": "Pangkalan Udara TLDM Lumut",
+      "name_slug": "lumut-naval-air-station",
+      "city": "Lumut",
+      "state": "Perak",
+      "state_bm": "Perak",
+      "state_slug": "perak",
+      "type": "Military/Heliport",
+      "operator": "Royal Malaysian Navy",
+      "runway_m": "40",
+      "status": "Active",
+      "coordinates": "04°13'58\"N 100°37'04\"E",
+      "source_attribution": "CAAM, AIP",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 41,
+      "iata": "PKG",
+      "icao": "WMPA",
+      "name_en": "Pangkor Airport",
+      "name_bm": "Lapangan Terbang Pangkor",
+      "name_slug": "pangkor-airport",
+      "city": "Pulau Pangkor",
+      "state": "Perak",
+      "state_bm": "Perak",
+      "state_slug": "perak",
+      "type": "Domestic/STOL",
+      "operator": "MAHB",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "CAAM, AIP",
+      "has_iata": true,
+      "has_icao": true
+    },
+    {
+      "id": 42,
+      "iata": "SWY",
+      "icao": "WMBA",
+      "name_en": "Sitiawan Airport",
+      "name_bm": "Lapangan Terbang Sitiawan",
+      "name_slug": "sitiawan-airport",
+      "city": "Sitiawan",
+      "state": "Perak",
+      "state_bm": "Perak",
+      "state_slug": "perak",
+      "type": "Domestic/STOL",
+      "operator": "CAAM",
+      "runway_m": "549",
+      "status": "Active",
+      "coordinates": "04°12'59\"N 100°41'55\"E",
+      "source_attribution": "CAAM, AIP",
+      "has_iata": true,
+      "has_icao": true
+    },
+    {
+      "id": 43,
+      "iata": "IPH",
+      "icao": "WMKI",
+      "name_en": "Sultan Azlan Shah Airport",
+      "name_bm": "Lapangan Terbang Sultan Azlan Shah",
+      "name_slug": "sultan-azlan-shah-airport",
+      "city": "Ipoh",
+      "state": "Perak",
+      "state_bm": "Perak",
+      "state_slug": "perak",
+      "type": "Domestic/Military",
+      "operator": "MAHB / RMAF",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "04°34′09″N 101°05′35″E",
+      "source_attribution": "CAAM, MAHB, AIP",
+      "has_iata": true,
+      "has_icao": true
+    },
+    {
+      "id": 44,
+      "iata": "",
+      "icao": "",
+      "name_en": "Sungkai Airstrip",
+      "name_bm": "Lapangan Terbang Sungkai",
+      "name_slug": "sungkai-airstrip",
+      "city": "Sungkai",
+      "state": "Perak",
+      "state_bm": "Perak",
+      "state_slug": "perak",
+      "type": "Military",
+      "operator": "",
+      "runway_m": "",
+      "status": "Closed",
+      "coordinates": "",
+      "source_attribution": "Wiki",
+      "has_iata": false,
+      "has_icao": false
+    },
+    {
+      "id": 45,
+      "iata": "TPG",
+      "icao": "WMBI",
+      "name_en": "Taiping Airport / Tekah Airport",
+      "name_bm": "Lapangan Terbang Taiping",
+      "name_slug": "taiping-airport-tekah-airport",
+      "city": "Taiping",
+      "state": "Perak",
+      "state_bm": "Perak",
+      "state_slug": "perak",
+      "type": "Domestic/STOL",
+      "operator": "MINDEF",
+      "runway_m": "1320",
+      "status": "Active",
+      "coordinates": "04°52'01\"N 100°43'01\"E",
+      "source_attribution": "CAAM, AIP",
+      "has_iata": true,
+      "has_icao": true
+    },
+    {
+      "id": 46,
+      "iata": "",
+      "icao": "WMBF",
+      "name_en": "Ulu Bernam Airstrip",
+      "name_bm": "Lapangan Terbang Ulu Bernam",
+      "name_slug": "ulu-bernam-airstrip",
+      "city": "Ulu Bernam",
+      "state": "Perak",
+      "state_bm": "Perak",
+      "state_slug": "perak",
+      "type": "Private/STOL",
+      "operator": "Bernam Oil Palm Limited",
+      "runway_m": "366",
+      "status": "Active",
+      "coordinates": "03°44'59\"N 101°10'05\"E",
+      "source_attribution": "CAAM, AIP",
+      "has_iata": false,
+      "has_icao": true
+    }
+  ],
+  "meta": {
+    "title": "Senarai Lapangan Terbang di Negeri Perak - Muat turun percuma",
+    "description": "Senarai 11 lapangan terbang dan kemudahan penerbangan di Negeri Perak, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status. Mengandungi 11 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Lapangan Terbang di Negeri Perak | ListBase",
+    "seo_description": "Muat turun Senarai Lapangan Terbang di Negeri Perak — 11 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 11 rekod / 18 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

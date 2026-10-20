@@ -1,0 +1,448 @@
+{
+  "id": "ms-sarawak-samarahan-mukim",
+  "name": "Mukim di Daerah Samarahan, Sarawak",
+  "title": "Mukim di Daerah Samarahan, Sarawak",
+  "description": "Senarai lengkap 31 mukim di daerah Samarahan, negeri Sarawak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 31 mukim (traditional sub-district units) in Samarahan District, Sarawak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "130810",
+      "name": "Lesong",
+      "name_uppercase": "LESONG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1940,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130814",
+      "name": "Menuku",
+      "name_uppercase": "MENUKU",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1941,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130815",
+      "name": "Kayan",
+      "name_uppercase": "KAYAN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1942,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130816",
+      "name": "Samarahan",
+      "name_uppercase": "SAMARAHAN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1943,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130817",
+      "name": "Muara Tuang",
+      "name_uppercase": "MUARA TUANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1944,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130818",
+      "name": "Bukar-Sadong",
+      "name_uppercase": "BUKAR-SADONG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1945,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130819",
+      "name": "Sungai Kedup",
+      "name_uppercase": "SUNGAI KEDUP",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1946,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130820",
+      "name": "Melikin Land",
+      "name_uppercase": "MELIKIN LAND",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1947,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130821",
+      "name": "Sedilu-Gedong",
+      "name_uppercase": "SEDILU-GEDONG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1948,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130822",
+      "name": "Sadong",
+      "name_uppercase": "SADONG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1949,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130823",
+      "name": "Sebangan-Kepayan",
+      "name_uppercase": "SEBANGAN-KEPAYAN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1950,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130824",
+      "name": "Punda-Sabal",
+      "name_uppercase": "PUNDA-SABAL",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1951,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130826",
+      "name": "Bandar Sebuyau",
+      "name_uppercase": "BANDAR SEBUYAU",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1952,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130835",
+      "name": "Bandar Sungai Merah",
+      "name_uppercase": "BANDAR SUNGAI MERAH",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1953,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130836",
+      "name": "Bandar Sunagai Merang",
+      "name_uppercase": "BANDAR SUNAGAI MERANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1954,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130837",
+      "name": "Bandar Sungai Palah",
+      "name_uppercase": "BANDAR SUNGAI PALAH",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1955,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130839",
+      "name": "Batu 29, Jalan Simanggang",
+      "name_uppercase": "BATU 29, JALAN SIMANGGANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1956,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130840",
+      "name": "Batu 32, Jalan Simanggang",
+      "name_uppercase": "BATU 32, JALAN SIMANGGANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1957,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130841",
+      "name": "Batu 34+, Jalan Simanggang",
+      "name_uppercase": "BATU 34+, JALAN SIMANGGANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1958,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130842",
+      "name": "Bandar Serian",
+      "name_uppercase": "BANDAR SERIAN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1959,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130843",
+      "name": "Bandar Tebakang",
+      "name_uppercase": "BANDAR TEBAKANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1960,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130844",
+      "name": "Bandar Muara Mongkos",
+      "name_uppercase": "BANDAR MUARA MONGKOS",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1961,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130845",
+      "name": "Bandar Tedebu",
+      "name_uppercase": "BANDAR TEDEBU",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1962,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130846",
+      "name": "Bandar Balai Ringin",
+      "name_uppercase": "BANDAR BALAI RINGIN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1963,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130847",
+      "name": "Bandar Tambirat",
+      "name_uppercase": "BANDAR TAMBIRAT",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1964,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130848",
+      "name": "Bandar Muara Tuang",
+      "name_uppercase": "BANDAR MUARA TUANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1965,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130852",
+      "name": "Bandar Simujan",
+      "name_uppercase": "BANDAR SIMUJAN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1966,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130853",
+      "name": "Bandar Gedong",
+      "name_uppercase": "BANDAR GEDONG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1967,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130854",
+      "name": "Bandar Sebangan",
+      "name_uppercase": "BANDAR SEBANGAN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1968,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130865",
+      "name": "Bandar Tebelu",
+      "name_uppercase": "BANDAR TEBELU",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1969,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    },
+    {
+      "id": "130877",
+      "name": "Bandar Terbat",
+      "name_uppercase": "BANDAR TERBAT",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1970,
+      "state_slug": "sarawak",
+      "district_slug": "samarahan"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Samarahan, Sarawak - Muat turun percuma",
+    "description": "Senarai lengkap 31 mukim di daerah Samarahan, negeri Sarawak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 31 mukim (traditional sub-district units) in Samarahan District, Sarawak, Malaysia. Mengandungi 31 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Samarahan, Sarawak | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Samarahan, Sarawak — 31 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 31 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

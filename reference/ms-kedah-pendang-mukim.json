@@ -1,0 +1,268 @@
+{
+  "id": "ms-kedah-pendang-mukim",
+  "name": "Mukim di Daerah Pendang, Kedah",
+  "title": "Mukim di Daerah Pendang, Kedah",
+  "description": "Senarai lengkap 16 mukim di daerah Pendang, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 16 mukim (traditional sub-district units) in Pendang District, Kedah, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "021102",
+      "name": "Ayer Puteh",
+      "name_uppercase": "AYER PUTEH",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 227,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021101",
+      "name": "Bukit Raya",
+      "name_uppercase": "BUKIT RAYA",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 228,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021103",
+      "name": "Guar Kepayang",
+      "name_uppercase": "GUAR KEPAYANG",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 229,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021104",
+      "name": "Padang Kerbau",
+      "name_uppercase": "PADANG KERBAU",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 230,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021105",
+      "name": "Padang Peliang",
+      "name_uppercase": "PADANG PELIANG",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 231,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021106",
+      "name": "Padang Pusing",
+      "name_uppercase": "PADANG PUSING",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 232,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021107",
+      "name": "Rambai",
+      "name_uppercase": "RAMBAI",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 233,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021108",
+      "name": "Tobiar",
+      "name_uppercase": "TOBIAR",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 234,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021140",
+      "name": "Bandar Pedang",
+      "name_uppercase": "BANDAR PEDANG",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 235,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021170",
+      "name": "Pekan Bukit Jenun",
+      "name_uppercase": "PEKAN BUKIT JENUN",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 236,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021171",
+      "name": "Pekan Kubur Panjang",
+      "name_uppercase": "PEKAN KUBUR PANJANG",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 237,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021172",
+      "name": "Pekan Tanah Merah",
+      "name_uppercase": "PEKAN TANAH MERAH",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 238,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021173",
+      "name": "Pekan Tokai",
+      "name_uppercase": "PEKAN TOKAI",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 239,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021174",
+      "name": "Pekan Kobah",
+      "name_uppercase": "PEKAN KOBAH",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 240,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021175",
+      "name": "Pekan Kampung Baru",
+      "name_uppercase": "PEKAN KAMPUNG BARU",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 241,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    },
+    {
+      "id": "021176",
+      "name": "Pekan Sungai Tiang",
+      "name_uppercase": "PEKAN SUNGAI TIANG",
+      "district_id": "211",
+      "district": "Pendang",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 242,
+      "state_slug": "kedah",
+      "district_slug": "pendang"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Pendang, Kedah - Muat turun percuma",
+    "description": "Senarai lengkap 16 mukim di daerah Pendang, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 16 mukim (traditional sub-district units) in Pendang District, Kedah, Malaysia. Mengandungi 16 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Pendang, Kedah | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Pendang, Kedah — 16 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 16 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

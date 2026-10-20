@@ -1,0 +1,1195 @@
+{
+  "id": "ms-pahang-mukim",
+  "name": "Mukim di Pahang",
+  "title": "Mukim di Pahang",
+  "description": "Senarai lengkap 126 mukim di negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 126 mukim (traditional sub-district units) in Pahang, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 126,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "060101",
+      "name": "Bentong",
+      "name_uppercase": "BENTONG",
+      "district_id": "601",
+      "district": "Bentong",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060102",
+      "name": "Sabai",
+      "name_uppercase": "SABAI",
+      "district_id": "601",
+      "district": "Bentong",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060103",
+      "name": "Pelangai",
+      "name_uppercase": "PELANGAI",
+      "district_id": "601",
+      "district": "Bentong",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060140",
+      "name": "Bandar Bentong",
+      "name_uppercase": "BANDAR BENTONG",
+      "district_id": "601",
+      "district": "Bentong",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060141",
+      "name": "Bandar Karak",
+      "name_uppercase": "BANDAR KARAK",
+      "district_id": "601",
+      "district": "Bentong",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060171",
+      "name": "Pekan Telemong",
+      "name_uppercase": "PEKAN TELEMONG",
+      "district_id": "601",
+      "district": "Bentong",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060201",
+      "name": "Hulu Telom",
+      "name_uppercase": "HULU TELOM",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060202",
+      "name": "Ringlet",
+      "name_uppercase": "RINGLET",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060203",
+      "name": "Tanah Rata",
+      "name_uppercase": "TANAH RATA",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060240",
+      "name": "Bandar Tanah Rata",
+      "name_uppercase": "BANDAR TANAH RATA",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060270",
+      "name": "Pekan Berinchang",
+      "name_uppercase": "PEKAN BERINCHANG",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060271",
+      "name": "Pekan Lubok Tamang",
+      "name_uppercase": "PEKAN LUBOK TAMANG",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060272",
+      "name": "Pekan Ringlet",
+      "name_uppercase": "PEKAN RINGLET",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060301",
+      "name": "Burau",
+      "name_uppercase": "BURAU",
+      "district_id": "603",
+      "district": "Jerantut",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060302",
+      "name": "Ulu Cheka",
+      "name_uppercase": "ULU CHEKA",
+      "district_id": "603",
+      "district": "Jerantut",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060303",
+      "name": "Ulu Tembeling",
+      "name_uppercase": "ULU TEMBELING",
+      "district_id": "603",
+      "district": "Jerantut",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060304",
+      "name": "Kelola",
+      "name_uppercase": "KELOLA",
+      "district_id": "603",
+      "district": "Jerantut",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060305",
+      "name": "Kuala Tembeling",
+      "name_uppercase": "KUALA TEMBELING",
+      "district_id": "603",
+      "district": "Jerantut",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060306",
+      "name": "Pedah",
+      "name_uppercase": "PEDAH",
+      "district_id": "603",
+      "district": "Jerantut",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060307",
+      "name": "Pulau Tawar",
+      "name_uppercase": "PULAU TAWAR",
+      "district_id": "603",
+      "district": "Jerantut",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060308",
+      "name": "Tebing Tinggi",
+      "name_uppercase": "TEBING TINGGI",
+      "district_id": "603",
+      "district": "Jerantut",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060309",
+      "name": "Teh",
+      "name_uppercase": "TEH",
+      "district_id": "603",
+      "district": "Jerantut",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060310",
+      "name": "Tembeling",
+      "name_uppercase": "TEMBELING",
+      "district_id": "603",
+      "district": "Jerantut",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060340",
+      "name": "Bandar Jerantut",
+      "name_uppercase": "BANDAR JERANTUT",
+      "district_id": "603",
+      "district": "Jerantut",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060370",
+      "name": "Pekan Kuala Tembeling",
+      "name_uppercase": "PEKAN KUALA TEMBELING",
+      "district_id": "603",
+      "district": "Jerantut",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060371",
+      "name": "Pekan Jeransang",
+      "name_uppercase": "PEKAN JERANSANG",
+      "district_id": "603",
+      "district": "Jerantut",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060401",
+      "name": "Beserah",
+      "name_uppercase": "BESERAH",
+      "district_id": "604",
+      "district": "Kuantan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060402",
+      "name": "Ulu Lepar",
+      "name_uppercase": "ULU LEPAR",
+      "district_id": "604",
+      "district": "Kuantan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060403",
+      "name": "Ulu Kuantan",
+      "name_uppercase": "ULU KUANTAN",
+      "district_id": "604",
+      "district": "Kuantan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060404",
+      "name": "Kuala Kuantan",
+      "name_uppercase": "KUALA KUANTAN",
+      "district_id": "604",
+      "district": "Kuantan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060405",
+      "name": "Penor",
+      "name_uppercase": "PENOR",
+      "district_id": "604",
+      "district": "Kuantan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060406",
+      "name": "Sungai Karang",
+      "name_uppercase": "SUNGAI KARANG",
+      "district_id": "604",
+      "district": "Kuantan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060440",
+      "name": "Bandar Gambang",
+      "name_uppercase": "BANDAR GAMBANG",
+      "district_id": "604",
+      "district": "Kuantan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060441",
+      "name": "Bandar Kuantan",
+      "name_uppercase": "BANDAR KUANTAN",
+      "district_id": "604",
+      "district": "Kuantan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060470",
+      "name": "Pekan Beserah",
+      "name_uppercase": "PEKAN BESERAH",
+      "district_id": "604",
+      "district": "Kuantan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060471",
+      "name": "Pekan Tanjng Lumpur",
+      "name_uppercase": "PEKAN TANJNG LUMPUR",
+      "district_id": "604",
+      "district": "Kuantan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060501",
+      "name": "Batu Yon",
+      "name_uppercase": "BATU YON",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060502",
+      "name": "Budu",
+      "name_uppercase": "BUDU",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060503",
+      "name": "Cheka",
+      "name_uppercase": "CHEKA",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060504",
+      "name": "Gua",
+      "name_uppercase": "GUA",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060505",
+      "name": "Kechau",
+      "name_uppercase": "KECHAU",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060506",
+      "name": "Kuala Lipis",
+      "name_uppercase": "KUALA LIPIS",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060507",
+      "name": "Penjom",
+      "name_uppercase": "PENJOM",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060508",
+      "name": "Tanjung Besar",
+      "name_uppercase": "TANJUNG BESAR",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060509",
+      "name": "Telang",
+      "name_uppercase": "TELANG",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060510",
+      "name": "Ulu Jelai",
+      "name_uppercase": "ULU JELAI",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060540",
+      "name": "Bandar Kuala Lipis",
+      "name_uppercase": "BANDAR KUALA LIPIS",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060541",
+      "name": "Benta",
+      "name_uppercase": "BENTA",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060542",
+      "name": "Padang Tengku",
+      "name_uppercase": "PADANG TENGKU",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060572",
+      "name": "Pekan Padang Tengku",
+      "name_uppercase": "PEKAN PADANG TENGKU",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060573",
+      "name": "Pekan Taman Jelai",
+      "name_uppercase": "PEKAN TAMAN JELAI",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060574",
+      "name": "Pekan Penjom",
+      "name_uppercase": "PEKAN PENJOM",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060575",
+      "name": "Pekan Mela",
+      "name_uppercase": "PEKAN MELA",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060576",
+      "name": "Pekan Kerambit",
+      "name_uppercase": "PEKAN KERAMBIT",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060577",
+      "name": "Pekan Rpsb Kg. Pagar",
+      "name_uppercase": "PEKAN RPSB KG. PAGAR",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060578",
+      "name": "Pekan Merapuh",
+      "name_uppercase": "PEKAN MERAPUH",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060579",
+      "name": "Pekan Kechau Tui",
+      "name_uppercase": "PEKAN KECHAU TUI",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060601",
+      "name": "Bebar",
+      "name_uppercase": "BEBAR",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060602",
+      "name": "Ganchong",
+      "name_uppercase": "GANCHONG",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060603",
+      "name": "Kuala Pahang",
+      "name_uppercase": "KUALA PAHANG",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060605",
+      "name": "Lepar",
+      "name_uppercase": "LEPAR",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060606",
+      "name": "Pahang Tua",
+      "name_uppercase": "PAHANG TUA",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060607",
+      "name": "Pekan",
+      "name_uppercase": "PEKAN",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060608",
+      "name": "Penyor",
+      "name_uppercase": "PENYOR",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060609",
+      "name": "Pulau Manis",
+      "name_uppercase": "PULAU MANIS",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060610",
+      "name": "Pulau Rusa",
+      "name_uppercase": "PULAU RUSA",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060611",
+      "name": "Temai",
+      "name_uppercase": "TEMAI",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060640",
+      "name": "Bandar Pekan",
+      "name_uppercase": "BANDAR PEKAN",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060670",
+      "name": "Pekan Kuala Pahang",
+      "name_uppercase": "PEKAN KUALA PAHANG",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060671",
+      "name": "Pekan Nenasi",
+      "name_uppercase": "PEKAN NENASI",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060701",
+      "name": "Batu Talam",
+      "name_uppercase": "BATU TALAM",
+      "district_id": "607",
+      "district": "Raub",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060702",
+      "name": "Dong",
+      "name_uppercase": "DONG",
+      "district_id": "607",
+      "district": "Raub",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060703",
+      "name": "Gali",
+      "name_uppercase": "GALI",
+      "district_id": "607",
+      "district": "Raub",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060704",
+      "name": "Hulu Dong",
+      "name_uppercase": "HULU DONG",
+      "district_id": "607",
+      "district": "Raub",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060705",
+      "name": "Sega",
+      "name_uppercase": "SEGA",
+      "district_id": "607",
+      "district": "Raub",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060706",
+      "name": "Semantan Ulu",
+      "name_uppercase": "SEMANTAN ULU",
+      "district_id": "607",
+      "district": "Raub",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060707",
+      "name": "Teras",
+      "name_uppercase": "TERAS",
+      "district_id": "607",
+      "district": "Raub",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060707",
+      "name": "Pekan Cheroh",
+      "name_uppercase": "PEKAN CHEROH",
+      "district_id": "607",
+      "district": "Raub",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060707",
+      "name": "Pekan Dong",
+      "name_uppercase": "PEKAN DONG",
+      "district_id": "607",
+      "district": "Raub",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060707",
+      "name": "Pekan Tranum",
+      "name_uppercase": "PEKAN TRANUM",
+      "district_id": "607",
+      "district": "Raub",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060740",
+      "name": "Bandar Raub",
+      "name_uppercase": "BANDAR RAUB",
+      "district_id": "607",
+      "district": "Raub",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060741",
+      "name": "Bandar Teras",
+      "name_uppercase": "BANDAR TERAS",
+      "district_id": "607",
+      "district": "Raub",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060801",
+      "name": "Bangau",
+      "name_uppercase": "BANGAU",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060802",
+      "name": "Jenderak",
+      "name_uppercase": "JENDERAK",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060803",
+      "name": "Kerdau",
+      "name_uppercase": "KERDAU",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060804",
+      "name": "Lebak",
+      "name_uppercase": "LEBAK",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060805",
+      "name": "Lipat Kijang",
+      "name_uppercase": "LIPAT KIJANG",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060806",
+      "name": "Mentakab",
+      "name_uppercase": "MENTAKAB",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060807",
+      "name": "Perak",
+      "name_uppercase": "PERAK",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060808",
+      "name": "Sanggang",
+      "name_uppercase": "SANGGANG",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060809",
+      "name": "Semantan",
+      "name_uppercase": "SEMANTAN",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060810",
+      "name": "Songsang",
+      "name_uppercase": "SONGSANG",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060840",
+      "name": "Bandar Mentakab",
+      "name_uppercase": "BANDAR MENTAKAB",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060841",
+      "name": "Bandar Temerloh",
+      "name_uppercase": "BANDAR TEMERLOH",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060871",
+      "name": "Pekan Kerdau",
+      "name_uppercase": "PEKAN KERDAU",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060872",
+      "name": "Pekan Kuala Kerau",
+      "name_uppercase": "PEKAN KUALA KERAU",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060873",
+      "name": "Lanchang",
+      "name_uppercase": "LANCHANG",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060901",
+      "name": "Endau",
+      "name_uppercase": "ENDAU",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060902",
+      "name": "Keratong",
+      "name_uppercase": "KERATONG",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060903",
+      "name": "Pontian",
+      "name_uppercase": "PONTIAN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060904",
+      "name": "Rompin",
+      "name_uppercase": "ROMPIN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060905",
+      "name": "Tioman",
+      "name_uppercase": "TIOMAN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060941",
+      "name": "Bandar Rompin I",
+      "name_uppercase": "BANDAR ROMPIN I",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060942",
+      "name": "Bandar Rompin Ii",
+      "name_uppercase": "BANDAR ROMPIN II",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060943",
+      "name": "Bandar Rompin Iii",
+      "name_uppercase": "BANDAR ROMPIN III",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060944",
+      "name": "Bandar Rompin Iv",
+      "name_uppercase": "BANDAR ROMPIN IV",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060945",
+      "name": "Bandar Pontian",
+      "name_uppercase": "BANDAR PONTIAN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060946",
+      "name": "Bandar Endau",
+      "name_uppercase": "BANDAR ENDAU",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060947",
+      "name": "Bandar Muadzam Shah I",
+      "name_uppercase": "BANDAR MUADZAM SHAH I",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060948",
+      "name": "Bandar Muadzam Shah Ii",
+      "name_uppercase": "BANDAR MUADZAM SHAH II",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060949",
+      "name": "Bandar Tioman",
+      "name_uppercase": "BANDAR TIOMAN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060970",
+      "name": "Pekan Kuala Rompin",
+      "name_uppercase": "PEKAN KUALA ROMPIN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "060971",
+      "name": "Pekan Tioman",
+      "name_uppercase": "PEKAN TIOMAN",
+      "district_id": "609",
+      "district": "Rompin",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "061001",
+      "name": "Bukit Segumpal",
+      "name_uppercase": "BUKIT SEGUMPAL",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "061002",
+      "name": "Chenor",
+      "name_uppercase": "CHENOR",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "061003",
+      "name": "Kertau",
+      "name_uppercase": "KERTAU",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "061004",
+      "name": "Luit",
+      "name_uppercase": "LUIT",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "061040",
+      "name": "Bandar Maran",
+      "name_uppercase": "BANDAR MARAN",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "061070",
+      "name": "Pekan Chenor",
+      "name_uppercase": "PEKAN CHENOR",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "061072",
+      "name": "Pekan Sri Jaya",
+      "name_uppercase": "PEKAN SRI JAYA",
+      "district_id": "610",
+      "district": "Maran",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "061101",
+      "name": "Bera",
+      "name_uppercase": "BERA",
+      "district_id": "611",
+      "district": "Bera",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "061102",
+      "name": "Triang",
+      "name_uppercase": "TRIANG",
+      "district_id": "611",
+      "district": "Bera",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "061142",
+      "name": "Bandar Triang",
+      "name_uppercase": "BANDAR TRIANG",
+      "district_id": "611",
+      "district": "Bera",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "061170",
+      "name": "Pekan Durian Tawar",
+      "name_uppercase": "PEKAN DURIAN TAWAR",
+      "district_id": "611",
+      "district": "Bera",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "061174",
+      "name": "Pekan Mengkarak",
+      "name_uppercase": "PEKAN MENGKARAK",
+      "district_id": "611",
+      "district": "Bera",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "061175",
+      "name": "Pekan Mengkuang",
+      "name_uppercase": "PEKAN MENGKUANG",
+      "district_id": "611",
+      "district": "Bera",
+      "state_id": "6",
+      "state": "Pahang"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Pahang - Muat turun percuma",
+    "description": "Senarai lengkap 126 mukim di negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 126 mukim (traditional sub-district units) in Pahang, Malaysia. Mengandungi 126 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Pahang | ListBase",
+    "seo_description": "Muat turun Mukim di Pahang — 126 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 126 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

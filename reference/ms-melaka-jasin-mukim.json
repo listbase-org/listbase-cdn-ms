@@ -1,0 +1,448 @@
+{
+  "id": "ms-melaka-jasin-mukim",
+  "name": "Mukim di Daerah Jasin, Melaka",
+  "title": "Mukim di Daerah Jasin, Melaka",
+  "description": "Senarai lengkap 31 mukim di daerah Jasin, negeri Melaka, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 31 mukim (traditional sub-district units) in Jasin District, Melaka, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "040201",
+      "name": "Ayer Panas",
+      "name_uppercase": "AYER PANAS",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1512,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040202",
+      "name": "Batang Malaka",
+      "name_uppercase": "BATANG MALAKA",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1513,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040203",
+      "name": "Bukit Senggeh",
+      "name_uppercase": "BUKIT SENGGEH",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1514,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040204",
+      "name": "Chabau",
+      "name_uppercase": "CHABAU",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1515,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040205",
+      "name": "Chin Chin",
+      "name_uppercase": "CHIN CHIN",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1516,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040206",
+      "name": "Chohong",
+      "name_uppercase": "CHOHONG",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1517,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040207",
+      "name": "Jasin",
+      "name_uppercase": "JASIN",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1518,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040208",
+      "name": "Jus",
+      "name_uppercase": "JUS",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1519,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040209",
+      "name": "Kesang",
+      "name_uppercase": "KESANG",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1520,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040210",
+      "name": "Merlimau",
+      "name_uppercase": "MERLIMAU",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1521,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040211",
+      "name": "Nyalas",
+      "name_uppercase": "NYALAS",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1522,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040212",
+      "name": "Rim",
+      "name_uppercase": "RIM",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1523,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040213",
+      "name": "Sebatu",
+      "name_uppercase": "SEBATU",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1524,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040214",
+      "name": "Selandar",
+      "name_uppercase": "SELANDAR",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1525,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040215",
+      "name": "Sempang",
+      "name_uppercase": "SEMPANG",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1526,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040216",
+      "name": "Semujok",
+      "name_uppercase": "SEMUJOK",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1527,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040217",
+      "name": "Serkam",
+      "name_uppercase": "SERKAM",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1528,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040218",
+      "name": "Sungei Rambai",
+      "name_uppercase": "SUNGEI RAMBAI",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1529,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040219",
+      "name": "Tedong",
+      "name_uppercase": "TEDONG",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1530,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040220",
+      "name": "Umbai",
+      "name_uppercase": "UMBAI",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1531,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040240",
+      "name": "Bandar Jasin",
+      "name_uppercase": "BANDAR JASIN",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1532,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040241",
+      "name": "Bandar Merlimau",
+      "name_uppercase": "BANDAR MERLIMAU",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1533,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040270",
+      "name": "Pekan Asahan",
+      "name_uppercase": "PEKAN ASAHAN",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1534,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040271",
+      "name": "Pekan Batang Malaka",
+      "name_uppercase": "PEKAN BATANG MALAKA",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1535,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040272",
+      "name": "Pekan Bemban",
+      "name_uppercase": "PEKAN BEMBAN",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1536,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040273",
+      "name": "Pekan Chin Chin",
+      "name_uppercase": "PEKAN CHIN CHIN",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1537,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040274",
+      "name": "Pekan Kesang Pajak",
+      "name_uppercase": "PEKAN KESANG PAJAK",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1538,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040275",
+      "name": "Pekan Nyalas",
+      "name_uppercase": "PEKAN NYALAS",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1539,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040276",
+      "name": "Pekan Selandar",
+      "name_uppercase": "PEKAN SELANDAR",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1540,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040277",
+      "name": "Pekan Sempang Bekoh",
+      "name_uppercase": "PEKAN SEMPANG BEKOH",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1541,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    },
+    {
+      "id": "040278",
+      "name": "Pekan Sungai Rambai",
+      "name_uppercase": "PEKAN SUNGAI RAMBAI",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka",
+      "parent_index": 1542,
+      "state_slug": "melaka",
+      "district_slug": "jasin"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Jasin, Melaka - Muat turun percuma",
+    "description": "Senarai lengkap 31 mukim di daerah Jasin, negeri Melaka, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 31 mukim (traditional sub-district units) in Jasin District, Melaka, Malaysia. Mengandungi 31 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Jasin, Melaka | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Jasin, Melaka — 31 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 31 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

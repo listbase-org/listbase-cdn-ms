@@ -1,0 +1,340 @@
+{
+  "id": "ms-perak-batang-padang-mukim",
+  "name": "Mukim di Daerah Batang Padang, Perak",
+  "title": "Mukim di Daerah Batang Padang, Perak",
+  "description": "Senarai lengkap 22 mukim di daerah Batang Padang, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 22 mukim (traditional sub-district units) in Batang Padang District, Perak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "080101",
+      "name": "Batang Padang",
+      "name_uppercase": "BATANG PADANG",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 763,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080102",
+      "name": "Bidor",
+      "name_uppercase": "BIDOR",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 764,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080103",
+      "name": "Chenderiang",
+      "name_uppercase": "CHENDERIANG",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 765,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080104",
+      "name": "Hulu Bernam Barat",
+      "name_uppercase": "HULU BERNAM BARAT",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 766,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080105",
+      "name": "Hulu Bernam Timor",
+      "name_uppercase": "HULU BERNAM TIMOR",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 767,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080106",
+      "name": "Slim",
+      "name_uppercase": "SLIM",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 768,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080107",
+      "name": "Sungkai",
+      "name_uppercase": "SUNGKAI",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 769,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080140",
+      "name": "Bandar Bidor",
+      "name_uppercase": "BANDAR BIDOR",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 770,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080141",
+      "name": "Bandar Chenderian",
+      "name_uppercase": "BANDAR CHENDERIAN",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 771,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080142",
+      "name": "Bandar Sungkai",
+      "name_uppercase": "BANDAR SUNGKAI",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 772,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080143",
+      "name": "Bandar Tanjong Malim",
+      "name_uppercase": "BANDAR TANJONG MALIM",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 773,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080144",
+      "name": "Bandar Tapah",
+      "name_uppercase": "BANDAR TAPAH",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 774,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080145",
+      "name": "Bandar Temoh",
+      "name_uppercase": "BANDAR TEMOH",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 775,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080170",
+      "name": "Pekan Ayer Kuning",
+      "name_uppercase": "PEKAN AYER KUNING",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 776,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080171",
+      "name": "Pekan Banir",
+      "name_uppercase": "PEKAN BANIR",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 777,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080172",
+      "name": "Pekan Bantang",
+      "name_uppercase": "PEKAN BANTANG",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 778,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080173",
+      "name": "Pekan Bikam",
+      "name_uppercase": "PEKAN BIKAM",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 779,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080174",
+      "name": "Pekan Slim",
+      "name_uppercase": "PEKAN SLIM",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 780,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080175",
+      "name": "Pekan Sungai Lesong",
+      "name_uppercase": "PEKAN SUNGAI LESONG",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 781,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080176",
+      "name": "Pekan Tapah Road",
+      "name_uppercase": "PEKAN TAPAH ROAD",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 782,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080177",
+      "name": "Pekan Temoh Station",
+      "name_uppercase": "PEKAN TEMOH STATION",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 783,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    },
+    {
+      "id": "080178",
+      "name": "Pekan Terolak",
+      "name_uppercase": "PEKAN TEROLAK",
+      "district_id": "801",
+      "district": "Batang Padang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 784,
+      "state_slug": "perak",
+      "district_slug": "batang-padang"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Batang Padang, Perak - Muat turun percuma",
+    "description": "Senarai lengkap 22 mukim di daerah Batang Padang, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 22 mukim (traditional sub-district units) in Batang Padang District, Perak, Malaysia. Mengandungi 22 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Batang Padang, Perak | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Batang Padang, Perak — 22 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 22 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

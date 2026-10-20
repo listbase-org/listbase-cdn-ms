@@ -1,0 +1,352 @@
+{
+  "id": "ms-kedah-kuala-muda-mukim",
+  "name": "Mukim di Daerah Kuala Muda, Kedah",
+  "title": "Mukim di Daerah Kuala Muda, Kedah",
+  "description": "Senarai lengkap 23 mukim di daerah Kuala Muda, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 23 mukim (traditional sub-district units) in Kuala Muda District, Kedah, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "020501",
+      "name": "Bujang",
+      "name_uppercase": "BUJANG",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 127,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020502",
+      "name": "Bukit Meriam",
+      "name_uppercase": "BUKIT MERIAM",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 128,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020503",
+      "name": "Gurun",
+      "name_uppercase": "GURUN",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 129,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020504",
+      "name": "Haji Kudong",
+      "name_uppercase": "HAJI KUDONG",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 130,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020505",
+      "name": "Kota",
+      "name_uppercase": "KOTA",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 131,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020506",
+      "name": "Kuala",
+      "name_uppercase": "KUALA",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 132,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020507",
+      "name": "Merbok",
+      "name_uppercase": "MERBOK",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 133,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020508",
+      "name": "Pekula",
+      "name_uppercase": "PEKULA",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 134,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020509",
+      "name": "Pinang Tunggal",
+      "name_uppercase": "PINANG TUNGGAL",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 135,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020510",
+      "name": "Rantau Panjang",
+      "name_uppercase": "RANTAU PANJANG",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 136,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020511",
+      "name": "Semeling",
+      "name_uppercase": "SEMELING",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 137,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020512",
+      "name": "Sidam Kiri",
+      "name_uppercase": "SIDAM KIRI",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 138,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020513",
+      "name": "Simpor",
+      "name_uppercase": "SIMPOR",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 139,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020514",
+      "name": "Sungai Pasir",
+      "name_uppercase": "SUNGAI PASIR",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 140,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020515",
+      "name": "Sungai Petani",
+      "name_uppercase": "SUNGAI PETANI",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 141,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020516",
+      "name": "Teloi Kiri",
+      "name_uppercase": "TELOI KIRI",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 142,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020520",
+      "name": "Bandar Aman Jaya",
+      "name_uppercase": "BANDAR AMAN JAYA",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 143,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020521",
+      "name": "Bandar Bedong",
+      "name_uppercase": "BANDAR BEDONG",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 144,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020522",
+      "name": "Bandar Sungai Lalang",
+      "name_uppercase": "BANDAR SUNGAI LALANG",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 145,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020523",
+      "name": "Bandar Tikam Batu",
+      "name_uppercase": "BANDAR TIKAM BATU",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 146,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020530",
+      "name": "Pekan Jeniang",
+      "name_uppercase": "PEKAN JENIANG",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 147,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020531",
+      "name": "Pekan Kota Kuala Muda",
+      "name_uppercase": "PEKAN KOTA KUALA MUDA",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 148,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    },
+    {
+      "id": "020532",
+      "name": "Pekan Tanjung Dawai",
+      "name_uppercase": "PEKAN TANJUNG DAWAI",
+      "district_id": "205",
+      "district": "Kuala Muda",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 149,
+      "state_slug": "kedah",
+      "district_slug": "kuala-muda"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Kuala Muda, Kedah - Muat turun percuma",
+    "description": "Senarai lengkap 23 mukim di daerah Kuala Muda, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 23 mukim (traditional sub-district units) in Kuala Muda District, Kedah, Malaysia. Mengandungi 23 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Kuala Muda, Kedah | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Kuala Muda, Kedah — 23 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 23 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

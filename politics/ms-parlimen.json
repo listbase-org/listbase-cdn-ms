@@ -1,0 +1,1832 @@
+{
+  "id": "ms-parlimen",
+  "name": "Senarai Parlimen Malaysia",
+  "title": "Senarai Parlimen Malaysia",
+  "description": "Senarai lengkap 222 kerusi Parlimen (Dewan Rakyat) Malaysia berdasarkan sempadan PRU-15 (2022). Setiap rekod mengandungi kod parlimen (P001–P222), nama kawasan, negeri, dan bilangan kerusi DUN di bawahnya. Complete list of 222 federal parliamentary constituencies (Dewan Rakyat) of Malaysia based on GE15 (2022) boundaries.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 222,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    },
+    {
+      "key": "is_federal_territory",
+      "label": "Is Federal Territory",
+      "type": "boolean"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P001",
+      "name": "Padang Besar",
+      "negeri": "Perlis",
+      "negeri_slug": "perlis",
+      "is_federal_territory": false,
+      "dun_count": 5
+    },
+    {
+      "code": "P002",
+      "name": "Kangar",
+      "negeri": "Perlis",
+      "negeri_slug": "perlis",
+      "is_federal_territory": false,
+      "dun_count": 5
+    },
+    {
+      "code": "P003",
+      "name": "Arau",
+      "negeri": "Perlis",
+      "negeri_slug": "perlis",
+      "is_federal_territory": false,
+      "dun_count": 5
+    },
+    {
+      "code": "P004",
+      "name": "Langkawi",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P005",
+      "name": "Jerlun",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P006",
+      "name": "Kubang Pasu",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P007",
+      "name": "Padang Terap",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P008",
+      "name": "Pokok Sena",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P009",
+      "name": "Alor Setar",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P010",
+      "name": "Kuala Kedah",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P011",
+      "name": "Pendang",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P012",
+      "name": "Jerai",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P013",
+      "name": "Sik",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P014",
+      "name": "Merbok",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P015",
+      "name": "Sungai Petani",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P016",
+      "name": "Baling",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P017",
+      "name": "Padang Serai",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P018",
+      "name": "Kulim-Bandar Baharu",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P019",
+      "name": "Tumpat",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P020",
+      "name": "Pengkalan Chepa",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P021",
+      "name": "Kota Bharu",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P022",
+      "name": "Pasir Mas",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P023",
+      "name": "Rantau Panjang",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P024",
+      "name": "Kubang Kerian",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P025",
+      "name": "Bachok",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P026",
+      "name": "Ketereh",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P027",
+      "name": "Tanah Merah",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P028",
+      "name": "Pasir Puteh",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P029",
+      "name": "Machang",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P030",
+      "name": "Jeli",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P031",
+      "name": "Kuala Krai",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P032",
+      "name": "Gua Musang",
+      "negeri": "Kelantan",
+      "negeri_slug": "kelantan",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P033",
+      "name": "Besut",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P034",
+      "name": "Setiu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P035",
+      "name": "Kuala Nerus",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P036",
+      "name": "Kuala Terengganu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P037",
+      "name": "Marang",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P038",
+      "name": "Hulu Terengganu",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P039",
+      "name": "Dungun",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P040",
+      "name": "Kemaman",
+      "negeri": "Terengganu",
+      "negeri_slug": "terengganu",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P041",
+      "name": "Kepala Batas",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P042",
+      "name": "Tasek Gelugor",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P043",
+      "name": "Bagan",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P044",
+      "name": "Permatang Pauh",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P045",
+      "name": "Bukit Mertajam",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P046",
+      "name": "Batu Kawan",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P047",
+      "name": "Nibong Tebal",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P048",
+      "name": "Bukit Bendera",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P049",
+      "name": "Tanjong",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P050",
+      "name": "Jelutong",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P051",
+      "name": "Bukit Gelugor",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P052",
+      "name": "Bayan Baru",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P053",
+      "name": "Balik Pulau",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P054",
+      "name": "Gerik",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P055",
+      "name": "Lenggong",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P056",
+      "name": "Larut",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P057",
+      "name": "Parit Buntar",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P058",
+      "name": "Bagan Serai",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P059",
+      "name": "Bukit Gantang",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P060",
+      "name": "Taiping",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P061",
+      "name": "Padang Rengas",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P062",
+      "name": "Sungai Siput",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P063",
+      "name": "Tambun",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P064",
+      "name": "Ipoh Timor",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P065",
+      "name": "Ipoh Barat",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P066",
+      "name": "Batu Gajah",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P067",
+      "name": "Kuala Kangsar",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P068",
+      "name": "Beruas",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P069",
+      "name": "Parit",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P070",
+      "name": "Kampar",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P071",
+      "name": "Gopeng",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P072",
+      "name": "Tapah",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P073",
+      "name": "Pasir Salak",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P074",
+      "name": "Lumut",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P075",
+      "name": "Bagan Datuk",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P076",
+      "name": "Teluk Intan",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P077",
+      "name": "Tanjong Malim",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P078",
+      "name": "Cameron Highlands",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P079",
+      "name": "Lipis",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P080",
+      "name": "Raub",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P081",
+      "name": "Jerantut",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P082",
+      "name": "Indera Mahkota",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P083",
+      "name": "Kuantan",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P084",
+      "name": "Paya Besar",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P085",
+      "name": "Pekan",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P086",
+      "name": "Maran",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P087",
+      "name": "Kuala Krau",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P088",
+      "name": "Temerloh",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P089",
+      "name": "Bentong",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P090",
+      "name": "Bera",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P091",
+      "name": "Rompin",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P092",
+      "name": "Sabak Bernam",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P093",
+      "name": "Sungai Besar",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P094",
+      "name": "Hulu Selangor",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P095",
+      "name": "Tanjong Karang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P096",
+      "name": "Kuala Selangor",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P097",
+      "name": "Selayang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P098",
+      "name": "Gombak",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P099",
+      "name": "Ampang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P100",
+      "name": "Pandan",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P101",
+      "name": "Hulu Langat",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P102",
+      "name": "Bangi",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P103",
+      "name": "Puchong",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P104",
+      "name": "Subang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P105",
+      "name": "Petaling Jaya",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P106",
+      "name": "Damansara",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P107",
+      "name": "Sungai Buloh",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P108",
+      "name": "Shah Alam",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P109",
+      "name": "Kapar",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P110",
+      "name": "Klang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P111",
+      "name": "Kota Raja",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P112",
+      "name": "Kuala Langat",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P113",
+      "name": "Sepang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P114",
+      "name": "Kepong",
+      "negeri": "W.P. Kuala Lumpur",
+      "negeri_slug": "wp-kuala-lumpur",
+      "is_federal_territory": true,
+      "dun_count": 0
+    },
+    {
+      "code": "P115",
+      "name": "Batu",
+      "negeri": "W.P. Kuala Lumpur",
+      "negeri_slug": "wp-kuala-lumpur",
+      "is_federal_territory": true,
+      "dun_count": 0
+    },
+    {
+      "code": "P116",
+      "name": "Wangsa Maju",
+      "negeri": "W.P. Kuala Lumpur",
+      "negeri_slug": "wp-kuala-lumpur",
+      "is_federal_territory": true,
+      "dun_count": 0
+    },
+    {
+      "code": "P117",
+      "name": "Segambut",
+      "negeri": "W.P. Kuala Lumpur",
+      "negeri_slug": "wp-kuala-lumpur",
+      "is_federal_territory": true,
+      "dun_count": 0
+    },
+    {
+      "code": "P118",
+      "name": "Setiawangsa",
+      "negeri": "W.P. Kuala Lumpur",
+      "negeri_slug": "wp-kuala-lumpur",
+      "is_federal_territory": true,
+      "dun_count": 0
+    },
+    {
+      "code": "P119",
+      "name": "Titiwangsa",
+      "negeri": "W.P. Kuala Lumpur",
+      "negeri_slug": "wp-kuala-lumpur",
+      "is_federal_territory": true,
+      "dun_count": 0
+    },
+    {
+      "code": "P120",
+      "name": "Bukit Bintang",
+      "negeri": "W.P. Kuala Lumpur",
+      "negeri_slug": "wp-kuala-lumpur",
+      "is_federal_territory": true,
+      "dun_count": 0
+    },
+    {
+      "code": "P121",
+      "name": "Lembah Pantai",
+      "negeri": "W.P. Kuala Lumpur",
+      "negeri_slug": "wp-kuala-lumpur",
+      "is_federal_territory": true,
+      "dun_count": 0
+    },
+    {
+      "code": "P122",
+      "name": "Seputeh",
+      "negeri": "W.P. Kuala Lumpur",
+      "negeri_slug": "wp-kuala-lumpur",
+      "is_federal_territory": true,
+      "dun_count": 0
+    },
+    {
+      "code": "P123",
+      "name": "Cheras",
+      "negeri": "W.P. Kuala Lumpur",
+      "negeri_slug": "wp-kuala-lumpur",
+      "is_federal_territory": true,
+      "dun_count": 0
+    },
+    {
+      "code": "P124",
+      "name": "Bandar Tun Razak",
+      "negeri": "W.P. Kuala Lumpur",
+      "negeri_slug": "wp-kuala-lumpur",
+      "is_federal_territory": true,
+      "dun_count": 0
+    },
+    {
+      "code": "P125",
+      "name": "Putrajaya",
+      "negeri": "W.P. Putrajaya",
+      "negeri_slug": "wp-putrajaya",
+      "is_federal_territory": true,
+      "dun_count": 0
+    },
+    {
+      "code": "P126",
+      "name": "Jelebu",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P127",
+      "name": "Jempol",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P128",
+      "name": "Seremban",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "is_federal_territory": false,
+      "dun_count": 6
+    },
+    {
+      "code": "P129",
+      "name": "Kuala Pilah",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "is_federal_territory": false,
+      "dun_count": 5
+    },
+    {
+      "code": "P130",
+      "name": "Rasah",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "is_federal_territory": false,
+      "dun_count": 5
+    },
+    {
+      "code": "P131",
+      "name": "Rembau",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P132",
+      "name": "Port Dickson",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "is_federal_territory": false,
+      "dun_count": 5
+    },
+    {
+      "code": "P133",
+      "name": "Tampin",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P134",
+      "name": "Masjid Tanah",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka",
+      "is_federal_territory": false,
+      "dun_count": 5
+    },
+    {
+      "code": "P135",
+      "name": "Alor Gajah",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka",
+      "is_federal_territory": false,
+      "dun_count": 5
+    },
+    {
+      "code": "P136",
+      "name": "Tangga Batu",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P137",
+      "name": "Hang Tuah Jaya",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P138",
+      "name": "Kota Melaka",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka",
+      "is_federal_territory": false,
+      "dun_count": 5
+    },
+    {
+      "code": "P139",
+      "name": "Jasin",
+      "negeri": "Melaka",
+      "negeri_slug": "melaka",
+      "is_federal_territory": false,
+      "dun_count": 5
+    },
+    {
+      "code": "P140",
+      "name": "Segamat",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P141",
+      "name": "Sekijang",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P142",
+      "name": "Labis",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P143",
+      "name": "Pagoh",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P144",
+      "name": "Ledang",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P145",
+      "name": "Bakri",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P146",
+      "name": "Muar",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P147",
+      "name": "Parit Sulong",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P148",
+      "name": "Ayer Hitam",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P149",
+      "name": "Sri Gading",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P150",
+      "name": "Batu Pahat",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P151",
+      "name": "Simpang Renggam",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P152",
+      "name": "Kluang",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P153",
+      "name": "Sembrong",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P154",
+      "name": "Mersing",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P155",
+      "name": "Tenggara",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P156",
+      "name": "Kota Tinggi",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P157",
+      "name": "Pengerang",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P158",
+      "name": "Tebrau",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P159",
+      "name": "Pasir Gudang",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P160",
+      "name": "Johor Bahru",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P161",
+      "name": "Pulai",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P162",
+      "name": "Iskandar Puteri",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P163",
+      "name": "Kulai",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P164",
+      "name": "Pontian",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P165",
+      "name": "Tanjung Piai",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P166",
+      "name": "Labuan",
+      "negeri": "W.P. Labuan",
+      "negeri_slug": "wp-labuan",
+      "is_federal_territory": true,
+      "dun_count": 0
+    },
+    {
+      "code": "P167",
+      "name": "Kudat",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P168",
+      "name": "Kota Marudu",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P169",
+      "name": "Kota Belud",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P170",
+      "name": "Tuaran",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P171",
+      "name": "Sepanggar",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P172",
+      "name": "Kota Kinabalu",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P173",
+      "name": "Putatan",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P174",
+      "name": "Penampang",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P175",
+      "name": "Papar",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P176",
+      "name": "Kimanis",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P177",
+      "name": "Beaufort",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P178",
+      "name": "Sipitang",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P179",
+      "name": "Ranau",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P180",
+      "name": "Keningau",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P181",
+      "name": "Tenom",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P182",
+      "name": "Pensiangan",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P183",
+      "name": "Beluran",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P184",
+      "name": "Libaran",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P185",
+      "name": "Batu Sapi",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P186",
+      "name": "Sandakan",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P187",
+      "name": "Kinabatangan",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P188",
+      "name": "Lahad Datu",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P189",
+      "name": "Semporna",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P190",
+      "name": "Tawau",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P191",
+      "name": "Kalabakan",
+      "negeri": "Sabah",
+      "negeri_slug": "sabah",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P192",
+      "name": "Mas Gading",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P193",
+      "name": "Santubong",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P194",
+      "name": "Petra Jaya",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P195",
+      "name": "Bandar Kuching",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P196",
+      "name": "Stampin",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P197",
+      "name": "Kota Samarahan",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P198",
+      "name": "Puncak Borneo",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P199",
+      "name": "Serian",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P200",
+      "name": "Batang Sadong",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P201",
+      "name": "Batang Lupar",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P202",
+      "name": "Sri Aman",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P203",
+      "name": "Lubok Antu",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P204",
+      "name": "Betong",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P205",
+      "name": "Saratok",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P206",
+      "name": "Tanjong Manis",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P207",
+      "name": "Igan",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P208",
+      "name": "Sarikei",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P209",
+      "name": "Julau",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P210",
+      "name": "Kanowit",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P211",
+      "name": "Lanang",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P212",
+      "name": "Sibu",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P213",
+      "name": "Mukah",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P214",
+      "name": "Selangau",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P215",
+      "name": "Kapit",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P216",
+      "name": "Hulu Rajang",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P217",
+      "name": "Bintulu",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 4
+    },
+    {
+      "code": "P218",
+      "name": "Sibuti",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P219",
+      "name": "Miri",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P220",
+      "name": "Baram",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 3
+    },
+    {
+      "code": "P221",
+      "name": "Limbang",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    },
+    {
+      "code": "P222",
+      "name": "Lawas",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak",
+      "is_federal_territory": false,
+      "dun_count": 2
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen Malaysia - Muat turun percuma",
+    "description": "Senarai lengkap 222 kerusi Parlimen (Dewan Rakyat) Malaysia berdasarkan sempadan PRU-15 (2022). Setiap rekod mengandungi kod parlimen (P001–P222), nama kawasan, negeri, dan bilangan kerusi DUN di bawahnya. Complete list of 222 federal parliamentary constituencies (Dewan Rakyat) of Malaysia based on GE15 (2022) boundaries. Mengandungi 222 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen Malaysia — 222 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 222 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

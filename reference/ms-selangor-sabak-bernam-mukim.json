@@ -1,0 +1,304 @@
+{
+  "id": "ms-selangor-sabak-bernam-mukim",
+  "name": "Mukim di Daerah Sabak Bernam, Selangor",
+  "title": "Mukim di Daerah Sabak Bernam, Selangor",
+  "description": "Senarai lengkap 19 mukim di daerah Sabak Bernam, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 19 mukim (traditional sub-district units) in Sabak Bernam District, Selangor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "100501",
+      "name": "Bagan Nakhoda Omar",
+      "name_uppercase": "BAGAN NAKHODA OMAR",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1144,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100502",
+      "name": "Pancang Bedena",
+      "name_uppercase": "PANCANG BEDENA",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1145,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100503",
+      "name": "Pasir Panjang",
+      "name_uppercase": "PASIR PANJANG",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1146,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100504",
+      "name": "Sabak",
+      "name_uppercase": "SABAK",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1147,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100505",
+      "name": "Sungai Panjang",
+      "name_uppercase": "SUNGAI PANJANG",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1148,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100570",
+      "name": "Pekan Bagan Terap",
+      "name_uppercase": "PEKAN BAGAN TERAP",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1149,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100571",
+      "name": "Pekan Parit Enam",
+      "name_uppercase": "PEKAN PARIT ENAM",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1150,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100572",
+      "name": "Pekan Parit Sembilan",
+      "name_uppercase": "PEKAN PARIT SEMBILAN",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1151,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100573",
+      "name": "Pekan Sekinchan",
+      "name_uppercase": "PEKAN SEKINCHAN",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1152,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100575",
+      "name": "Pekan Sabak",
+      "name_uppercase": "PEKAN SABAK",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1153,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100576",
+      "name": "Pekan Sungai Air Tawar",
+      "name_uppercase": "PEKAN SUNGAI AIR TAWAR",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1154,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100577",
+      "name": "Pekan Sungai Sepintas",
+      "name_uppercase": "PEKAN SUNGAI SEPINTAS",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1155,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100578",
+      "name": "Pekan Bagan Nakhoda Omar",
+      "name_uppercase": "PEKAN BAGAN NAKHODA OMAR",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1156,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100579",
+      "name": "Pekan Parit Baru",
+      "name_uppercase": "PEKAN PARIT BARU",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1157,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100580",
+      "name": "Pekan Pasir Panjang",
+      "name_uppercase": "PEKAN PASIR PANJANG",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1158,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100581",
+      "name": "Pekan Sekinchan Site A",
+      "name_uppercase": "PEKAN SEKINCHAN SITE A",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1159,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100582",
+      "name": "Pekan Sungai Besar",
+      "name_uppercase": "PEKAN SUNGAI BESAR",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1160,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100583",
+      "name": "Pekan Sungai Haji Dorani",
+      "name_uppercase": "PEKAN SUNGAI HAJI DORANI",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1161,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    },
+    {
+      "id": "100584",
+      "name": "Pekan Sungai Nibong",
+      "name_uppercase": "PEKAN SUNGAI NIBONG",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1162,
+      "state_slug": "selangor",
+      "district_slug": "sabak-bernam"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Sabak Bernam, Selangor - Muat turun percuma",
+    "description": "Senarai lengkap 19 mukim di daerah Sabak Bernam, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 19 mukim (traditional sub-district units) in Sabak Bernam District, Selangor, Malaysia. Mengandungi 19 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Sabak Bernam, Selangor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Sabak Bernam, Selangor — 19 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 19 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

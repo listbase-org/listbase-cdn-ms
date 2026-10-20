@@ -1,0 +1,64 @@
+{
+  "id": "ms-perlis-daerah",
+  "name": "Daerah di Perlis",
+  "title": "Daerah di Perlis",
+  "description": "Senarai lengkap 1 daerah (district) di negeri Perlis, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 1 administrative districts in Perlis, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "900",
+      "name": "Perlis",
+      "name_uppercase": "PERLIS",
+      "code": "PER",
+      "state_id": "9",
+      "state": "Perlis"
+    }
+  ],
+  "meta": {
+    "title": "Daerah di Perlis - Muat turun percuma",
+    "description": "Senarai lengkap 1 daerah (district) di negeri Perlis, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 1 administrative districts in Perlis, Malaysia. Mengandungi 1 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Daerah di Perlis | ListBase",
+    "seo_description": "Muat turun Daerah di Perlis — 1 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 1 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

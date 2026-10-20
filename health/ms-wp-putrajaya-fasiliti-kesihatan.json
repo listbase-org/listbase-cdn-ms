@@ -1,0 +1,220 @@
+{
+  "id": "ms-wp-putrajaya-fasiliti-kesihatan",
+  "name": "Fasiliti Kesihatan Wilayah Persekutuan Putrajaya",
+  "title": "Fasiliti Kesihatan Wilayah Persekutuan Putrajaya",
+  "description": "Senarai fasiliti kesihatan di Wilayah Persekutuan Putrajaya — 12 fasiliti (2 hospital, 8 klinik). Medan: name, type, state, state_slug, address, contact, latitude, longitude, covid_screening, vaccination_centre. Liputan: 12/12 (100%) koordinat. Sumber: TINGWEIJING/Malaysia-Hospital-Data.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "contact",
+      "label": "Contact",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "covid_screening",
+      "label": "Covid Screening",
+      "type": "boolean"
+    },
+    {
+      "key": "vaccination_centre",
+      "label": "Vaccination Centre",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Hospital Putrajaya",
+      "type": "Hospital",
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "address": "W.P. Putrajaya",
+      "contact": "03-83124200",
+      "latitude": "2.9293938",
+      "longitude": "101.6743137",
+      "covid_screening": true,
+      "vaccination_centre": true
+    },
+    {
+      "name": "Institut Kanser Negara",
+      "type": "Hospital",
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "address": "W.P. Putrajaya",
+      "contact": "03-88925555",
+      "latitude": "2.92710155",
+      "longitude": "101.673969",
+      "covid_screening": true,
+      "vaccination_centre": true
+    },
+    {
+      "name": "Klinik Kesihatan Putrajaya Presint 11",
+      "type": "Klinik",
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "address": "Blok B-T00-U03 & 04, Pangsapuri Zon 6B, Presint 11, 62300, Putrajaya, WP Putrajaya",
+      "contact": "03-88811732",
+      "latitude": "2.953164",
+      "longitude": "101.67744",
+      "covid_screening": false,
+      "vaccination_centre": false
+    },
+    {
+      "name": "Klinik Kesihatan Putrajaya Presint 11",
+      "type": "Klinik",
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "address": "Kuarters Penjawat Awam, Zon 6B, Jalan P11J, Presint 11, 62300, Putrajaya, Wp Putrajaya",
+      "contact": "03-88811732",
+      "latitude": "2.953164",
+      "longitude": "101.67744",
+      "covid_screening": false,
+      "vaccination_centre": false
+    },
+    {
+      "name": "Klinik Kesihatan Putrajaya Presint 13",
+      "type": "Klinik",
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "address": "Lot 3C4, 26 Boulevard, 62675, Putrajaya, WP Putrajaya",
+      "contact": "03-88880241",
+      "latitude": "2.916149",
+      "longitude": "101.683791",
+      "covid_screening": false,
+      "vaccination_centre": false
+    },
+    {
+      "name": "Klinik Kesihatan Putrajaya Presint 14",
+      "type": "Klinik",
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "address": "Lot Bilik Bacaan, Blok Apartment 14-7, Kuarters Kakitangan Kerajaan, Presint 14, 62000, Putrajaya, WP Putrajaya",
+      "contact": "03-88880107",
+      "latitude": "2.953556",
+      "longitude": "101.726309",
+      "covid_screening": false,
+      "vaccination_centre": false
+    },
+    {
+      "name": "Klinik Kesihatan Putrajaya Presint 14",
+      "type": "Klinik",
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "address": "Lot Bilik Bacaan, Blok E, Kuarters Kakitangan Kerajaan Presint 14, 62250, Putrajaya, Wp Putrajaya",
+      "contact": "03-88880167",
+      "latitude": "2.953556",
+      "longitude": "101.726309",
+      "covid_screening": false,
+      "vaccination_centre": false
+    },
+    {
+      "name": "Klinik Kesihatan Putrajaya Presint 18",
+      "type": "Klinik",
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "address": "Jalan P18 C1, Presint 18, 62602, Putrajaya, Wp Putrajaya",
+      "contact": "03-88810062",
+      "latitude": "2.922651",
+      "longitude": "101.696239",
+      "covid_screening": false,
+      "vaccination_centre": false
+    },
+    {
+      "name": "Klinik Kesihatan Putrajaya Presint 9",
+      "type": "Klinik",
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "address": "No 1, Jalan P9E, Presint 9, 62200, Putrajaya, WP Putrajaya",
+      "contact": "03-88883057",
+      "latitude": "2.94126",
+      "longitude": "101.67628",
+      "covid_screening": false,
+      "vaccination_centre": false
+    },
+    {
+      "name": "Klinik Kesihatan Putrajaya Presint 9",
+      "type": "Klinik",
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "address": "No 1, Jalan Presint 9E, Presint 9, 62250, Putrajaya, Wp Putrajaya",
+      "contact": "03-88883057",
+      "latitude": "2.94126",
+      "longitude": "101.67628",
+      "covid_screening": false,
+      "vaccination_centre": false
+    },
+    {
+      "name": "Dewan Sri Seroja",
+      "type": "Lain-lain",
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "address": "W.P. Putrajaya",
+      "contact": "",
+      "latitude": "2.9441",
+      "longitude": "101.7243",
+      "covid_screening": false,
+      "vaccination_centre": true
+    },
+    {
+      "name": "International SOS, Putrajaya International Convention Centre (PICC)",
+      "type": "Lain-lain",
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "address": "W.P. Putrajaya",
+      "contact": "",
+      "latitude": "2.8944847",
+      "longitude": "101.6759546",
+      "covid_screening": false,
+      "vaccination_centre": true
+    }
+  ],
+  "meta": {
+    "title": "Fasiliti Kesihatan Wilayah Persekutuan Putrajaya - Muat turun percuma",
+    "description": "Senarai fasiliti kesihatan di Wilayah Persekutuan Putrajaya — 12 fasiliti (2 hospital, 8 klinik). Medan: name, type, state, state_slug, address, contact, latitude, longitude, covid_screening, vaccination_centre. Liputan: 12/12 (100%) koordinat. Sumber: TINGWEIJING/Malaysia-Hospital-Data. Mengandungi 12 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Fasiliti Kesihatan Wilayah Persekutuan Putrajaya | ListBase",
+    "seo_description": "Muat turun Fasiliti Kesihatan Wilayah Persekutuan Putrajaya — 12 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 12 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

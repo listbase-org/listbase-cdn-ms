@@ -1,0 +1,599 @@
+{
+  "id": "ms-pencakar-langit",
+  "name": "Pencakar Langit di Malaysia",
+  "title": "Pencakar Langit di Malaysia",
+  "description": "Skyscrapers in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q112221868",
+      "name_ms": "",
+      "name_en": "Ascott Star",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 3.161357,
+      "longitude": 101.711882,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112221868"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q28873268",
+      "name_ms": "",
+      "name_en": "Banyan Tree Signatures",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.150299,
+      "longitude": 101.713921,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28873268"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q99539388",
+      "name_ms": "",
+      "name_en": "City Plaza",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.47575,
+      "longitude": 103.762528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99539388"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q5243009",
+      "name_ms": "Dayabumi",
+      "name_en": "Dayabumi Complex",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.1449,
+      "longitude": 101.69408,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5243009"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q20725898",
+      "name_ms": "",
+      "name_en": "Fairmont Kuala Lumpur Tower 1",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.15739,
+      "longitude": 101.71422,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20725898"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q48726927",
+      "name_ms": "",
+      "name_en": "Fairmont Kuala Lumpur Towers",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.15738,
+      "longitude": 101.71468,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48726927"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q5594654",
+      "name_ms": "Grand Hyatt Kuala Lumpur",
+      "name_en": "Grand Hyatt Kuala Lumpur",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 3.15364,
+      "longitude": 101.7121,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5594654"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q99539390",
+      "name_ms": "",
+      "name_en": "Holiday Plaza Tower",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.488472,
+      "longitude": 103.760389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99539390"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q1584276",
+      "name_ms": "Menara Alor Setar",
+      "name_en": "Alor Setar Tower",
+      "admin_area_ms": "Alor Setar",
+      "admin_area_en": "Alor Setar",
+      "latitude": 6.12445,
+      "longitude": 100.367261,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1584276"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q98034021",
+      "name_ms": "Menara Ansar",
+      "name_en": "Ansar Tower",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.460278,
+      "longitude": 103.762861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98034021"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q99539358",
+      "name_ms": "Menara Aqabah",
+      "name_en": "Aqabah Tower",
+      "admin_area_ms": "Pasir Gudang",
+      "admin_area_en": "Pasir Gudang",
+      "latitude": 1.467083,
+      "longitude": 103.902444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99539358"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q6816457",
+      "name_ms": "Menara Citibank",
+      "name_en": "Menara Citibank",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.16,
+      "longitude": 101.7172,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6816457"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q6816461",
+      "name_ms": "Menara ExxonMobil",
+      "name_en": "Menara ExxonMobil",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.1541,
+      "longitude": 101.7157,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6816461"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q5427617",
+      "name_ms": "Menara Faber",
+      "name_en": "Faber Towers",
+      "admin_area_ms": "Taman Desa",
+      "admin_area_en": "Taman Desa",
+      "latitude": 3.102592,
+      "longitude": 101.684797,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5427617"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q12697614",
+      "name_ms": "Menara Felda",
+      "name_en": "Felda Tower",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.15546,
+      "longitude": 101.71873,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12697614"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q6816458",
+      "name_ms": "Menara Great Eastern",
+      "name_en": "Menara Great Eastern",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.160186,
+      "longitude": 101.736728,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6816458"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q17051376",
+      "name_ms": "Menara Ilham Baru",
+      "name_en": "Ilham Tower",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.15888,
+      "longitude": 101.71886,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17051376"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q99538888",
+      "name_ms": "Menara JLand",
+      "name_en": "JLand Tower",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.464583,
+      "longitude": 103.762389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99538888"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q21619124",
+      "name_ms": "Menara Johor",
+      "name_en": "Johor Tower",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.465556,
+      "longitude": 103.760417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21619124"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q3305737",
+      "name_ms": "Menara KOMTAR",
+      "name_en": "KOMTAR",
+      "admin_area_ms": "George Town",
+      "admin_area_en": "George Town",
+      "latitude": 5.41455,
+      "longitude": 100.32979,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3305737"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q98322066",
+      "name_ms": "Menara KOMTAR JBCC",
+      "name_en": "KOMTAR JBCC Tower",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.46375,
+      "longitude": 103.762778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98322066"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q745016",
+      "name_ms": "Menara Kuala Lumpur",
+      "name_en": "Kuala Lumpur Tower",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.152828,
+      "longitude": 101.703749,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q745016"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q98978913",
+      "name_ms": "Menara Landmark",
+      "name_en": "Landmark Tower",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.465139,
+      "longitude": 103.76,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98978913"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q5260261",
+      "name_ms": "Menara Maxis",
+      "name_en": "Maxis Tower",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.158,
+      "longitude": 101.713,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5260261"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q2745033",
+      "name_ms": "Menara Maybank",
+      "name_en": "Maybank Tower",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.1472,
+      "longitude": 101.6997,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2745033"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q6816465",
+      "name_ms": "Menara MBPJ",
+      "name_en": "Menara MBPJ",
+      "admin_area_ms": "Petaling Jaya",
+      "admin_area_en": "Petaling Jaya",
+      "latitude": 3.099167,
+      "longitude": 101.645,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6816465"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q99539380",
+      "name_ms": "Menara Merlin",
+      "name_en": "Merlin Tower",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.460639,
+      "longitude": 103.765028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99539380"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q6816459",
+      "name_ms": "Menara Mesiniaga",
+      "name_en": "Menara Mesiniaga",
+      "admin_area_ms": "Subang Jaya",
+      "admin_area_en": "Subang Jaya",
+      "latitude": 3.08257,
+      "longitude": 101.59251,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6816459"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q99539274",
+      "name_ms": "Menara Metropolis",
+      "name_en": "Metropolis Tower",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.477528,
+      "longitude": 103.763139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99539274"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q21619127",
+      "name_ms": "Menara Public Bank",
+      "name_en": "Public Bank Tower",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.461806,
+      "longitude": 103.763028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21619127"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q7395004",
+      "name_ms": "Menara SUNTECH",
+      "name_en": "SUNTECH Tower",
+      "admin_area_ms": "Bayan Baru",
+      "admin_area_en": "Bayan Baru",
+      "latitude": 5.325631,
+      "longitude": 100.286319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7395004"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q118214",
+      "name_ms": "Menara Telekom",
+      "name_en": "Telekom Tower",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.115833,
+      "longitude": 101.666111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118214"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q27670200",
+      "name_ms": "Menara TRX",
+      "name_en": "The Exchange 106",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.1419,
+      "longitude": 101.71875,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27670200"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q2459733",
+      "name_ms": "Menara Tun Mustapha",
+      "name_en": "Tun Mustapha Tower",
+      "admin_area_ms": "",
+      "admin_area_en": "Kota Kinabalu",
+      "latitude": 6.017222,
+      "longitude": 116.109444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2459733"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q7936469",
+      "name_ms": "Menara Vista",
+      "name_en": "Vista Tower",
+      "admin_area_ms": "Chicago",
+      "admin_area_en": "Chicago",
+      "latitude": 3.16194,
+      "longitude": 101.72,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7936469"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q99539382",
+      "name_ms": "Menara Zurich",
+      "name_en": "Zurich Tower",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.479528,
+      "longitude": 103.759306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99539382"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q7969454",
+      "name_ms": "Merdeka 118",
+      "name_en": "Merdeka 118",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.141667,
+      "longitude": 101.700722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7969454"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q26000285",
+      "name_ms": "",
+      "name_en": "Naza Tower",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.1547,
+      "longitude": 101.71861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26000285"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q132576524",
+      "name_ms": "",
+      "name_en": "Oxley Towers",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.158888,
+      "longitude": 101.715403,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q132576524"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q30753436",
+      "name_ms": "",
+      "name_en": "Pavilion Suites",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.148056,
+      "longitude": 101.712778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30753436"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q6816462",
+      "name_ms": "Petronas Tower 3",
+      "name_en": "Petronas Tower 3",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.156667,
+      "longitude": 101.711111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6816462"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q3786369",
+      "name_ms": "Plaza Rakyat",
+      "name_en": "",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 3.144722,
+      "longitude": 101.702778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3786369"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q14429066",
+      "name_ms": "Pusat Dagangan Muar",
+      "name_en": "Muar Trade Centre",
+      "admin_area_ms": "Muar",
+      "admin_area_en": "Muar",
+      "latitude": 2.046187,
+      "longitude": 102.563274,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14429066"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q7488586",
+      "name_ms": "Shangri-La Hotel, Kuala Lumpur",
+      "name_en": "Shangri-La Kuala Lumpur building",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.154167,
+      "longitude": 101.706389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7488586"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q7494684",
+      "name_ms": "",
+      "name_en": "Sheraton Imperial Kuala Lumpur",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.158553,
+      "longitude": 101.700028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7494684"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q112221909",
+      "name_ms": "",
+      "name_en": "Southpoint Tower",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.116036,
+      "longitude": 101.675614,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112221909"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q30753820",
+      "name_ms": "",
+      "name_en": "The Astaka",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.473972,
+      "longitude": 103.763083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30753820"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q8027667",
+      "name_ms": "Wisma Sanyan",
+      "name_en": "Wisma Sanyan",
+      "admin_area_ms": "Sibu",
+      "admin_area_en": "Sibu",
+      "latitude": 2.29056,
+      "longitude": 111.825,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q8027667"
+    }
+  ],
+  "meta": {
+    "title": "Pencakar Langit di Malaysia - Muat turun percuma",
+    "description": "Skyscrapers in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location). Mengandungi 48 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Pencakar Langit di Malaysia | ListBase",
+    "seo_description": "Muat turun Pencakar Langit di Malaysia — 48 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 48 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

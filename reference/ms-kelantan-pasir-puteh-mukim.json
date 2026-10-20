@@ -1,0 +1,496 @@
+{
+  "id": "ms-kelantan-pasir-puteh-mukim",
+  "name": "Mukim di Daerah Pasir Puteh, Kelantan",
+  "title": "Mukim di Daerah Pasir Puteh, Kelantan",
+  "description": "Senarai lengkap 35 mukim di daerah Pasir Puteh, negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 35 mukim (traditional sub-district units) in Pasir Puteh District, Kelantan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "030501",
+      "name": "Banggol Setol",
+      "name_uppercase": "BANGGOL SETOL",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 450,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030502",
+      "name": "Batu Sebutir",
+      "name_uppercase": "BATU SEBUTIR",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 451,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030503",
+      "name": "Berangan",
+      "name_uppercase": "BERANGAN",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 452,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030504",
+      "name": "Bukit Abal Barat",
+      "name_uppercase": "BUKIT ABAL BARAT",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 453,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030505",
+      "name": "Bukit Abal Timor",
+      "name_uppercase": "BUKIT ABAL TIMOR",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 454,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030506",
+      "name": "Bukit Merbau",
+      "name_uppercase": "BUKIT MERBAU",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 455,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030507",
+      "name": "Bukit Tanah",
+      "name_uppercase": "BUKIT TANAH",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 456,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030508",
+      "name": "Cherang Ruku",
+      "name_uppercase": "CHERANG RUKU",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 457,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030509",
+      "name": "Changgai",
+      "name_uppercase": "CHANGGAI",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 458,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030510",
+      "name": "Gong Datok Barat",
+      "name_uppercase": "GONG DATOK BARAT",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 459,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030511",
+      "name": "Gong Datok Timor",
+      "name_uppercase": "GONG DATOK TIMOR",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 460,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030512",
+      "name": "Gong Chapa",
+      "name_uppercase": "GONG CHAPA",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 461,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030513",
+      "name": "Gong Chengal",
+      "name_uppercase": "GONG CHENGAL",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 462,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030514",
+      "name": "Gong Garu",
+      "name_uppercase": "GONG GARU",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 463,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030515",
+      "name": "Gong Kulim",
+      "name_uppercase": "GONG KULIM",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 464,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030516",
+      "name": "Gong Nangka",
+      "name_uppercase": "GONG NANGKA",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 465,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030517",
+      "name": "Gong Pachat",
+      "name_uppercase": "GONG PACHAT",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 466,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030518",
+      "name": "Jeram",
+      "name_uppercase": "JERAM",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 467,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030519",
+      "name": "Jerus",
+      "name_uppercase": "JERUS",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 468,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030520",
+      "name": "Kandis",
+      "name_uppercase": "KANDIS",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 469,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030521",
+      "name": "Kampong Wakaf",
+      "name_uppercase": "KAMPONG WAKAF",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 470,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030522",
+      "name": "Kolam Tembusu",
+      "name_uppercase": "KOLAM TEMBUSU",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 471,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030523",
+      "name": "Merbol",
+      "name_uppercase": "MERBOL",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 472,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030524",
+      "name": "Merkang",
+      "name_uppercase": "MERKANG",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 473,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030525",
+      "name": "Padang Pak Amat",
+      "name_uppercase": "PADANG PAK AMAT",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 474,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030526",
+      "name": "Pasir Puteh",
+      "name_uppercase": "PASIR PUTEH",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 475,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030527",
+      "name": "Pangkalan",
+      "name_uppercase": "PANGKALAN",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 476,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030528",
+      "name": "Permatang Sungkai",
+      "name_uppercase": "PERMATANG SUNGKAI",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 477,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030529",
+      "name": "Seligi",
+      "name_uppercase": "SELIGI",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 478,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030530",
+      "name": "Selinsing",
+      "name_uppercase": "SELINSING",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 479,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030531",
+      "name": "Semerak",
+      "name_uppercase": "SEMERAK",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 480,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030532",
+      "name": "Tasik",
+      "name_uppercase": "TASIK",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 481,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030533",
+      "name": "Telipok",
+      "name_uppercase": "TELIPOK",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 482,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030540",
+      "name": "Bandar Pasir Puteh",
+      "name_uppercase": "BANDAR PASIR PUTEH",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 483,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    },
+    {
+      "id": "030570",
+      "name": "Pekan Selinsing",
+      "name_uppercase": "PEKAN SELINSING",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 484,
+      "state_slug": "kelantan",
+      "district_slug": "pasir-puteh"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Pasir Puteh, Kelantan - Muat turun percuma",
+    "description": "Senarai lengkap 35 mukim di daerah Pasir Puteh, negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 35 mukim (traditional sub-district units) in Pasir Puteh District, Kelantan, Malaysia. Mengandungi 35 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Pasir Puteh, Kelantan | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Pasir Puteh, Kelantan — 35 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 35 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

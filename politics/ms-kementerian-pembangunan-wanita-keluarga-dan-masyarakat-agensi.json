@@ -1,0 +1,258 @@
+{
+  "id": "ms-kementerian-pembangunan-wanita-keluarga-dan-masyarakat-agensi",
+  "name": "Senarai Agensi Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat (KPWKM)",
+  "title": "Senarai Agensi Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat (KPWKM)",
+  "description": "Senarai 6 agensi kerajaan di bawah Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat (KPWKM) (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 6/6 koordinat, 6/6 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "INSTITUT PENGUPAYAAN WANITA BAGI ANGGOTA PERGERAKAN NEGARA-NEGARA BERKECUALI (NAM), (NIEW)",
+      "parent_body": "Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat (KPWKM)",
+      "parent_body_slug": "kementerian-pembangunan-wanita-keluarga-dan-masyarakat",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "NIEW adalah sebuah institusi yang ditubuhkan oleh Kerajaan Malaysia untuk menjalankan latihan pembangunan kapasiti, penyelidikan dan pengurusan pengetahuan dengan kerjasama badan-badan antarabangsa, sektor swasta, akademik dan masyarakat awam untuk memastikan pemerkasaan wanita dan pencapaian kesaksamaan gender.",
+      "address": "Aras 28, NAM Institute for the Empowerment of Women (NIEW), No. 55, Persiaran Perdana, Presint 4, 62100, Putrajaya",
+      "phone": "603-8323 1109",
+      "fax": "03-8323 2120",
+      "email": "feedback@niew.gov.my",
+      "contact_person": "feedback@niew.gov.my",
+      "website": "http://www.niew.gov.my/",
+      "latitude": "2.902999",
+      "longitude": "101.680387",
+      "facebook": "https://www.facebook.com/niewmalaysia/",
+      "twitter": "https://twitter.com/namniew?lang=en",
+      "instagram": "https://www.instagram.com/niew_official/",
+      "youtube": "https://www.youtube.com/channel/UCcTOnEUdsLsf021_OyEAbzw",
+      "unique_code": "PAP-21-03-00",
+      "active": true,
+      "agency_id": 20080
+    },
+    {
+      "name": "INSTITUT SOSIAL MALAYSIA (ISM)",
+      "parent_body": "Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat (KPWKM)",
+      "parent_body_slug": "kementerian-pembangunan-wanita-keluarga-dan-masyarakat",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "ISM berperanan memberikan latihan dan pembangunan kepada pekerja dan pengamal sosial, daripada KPWKM dan agensi, badan kerajaan lain, badan bukan kerajaan, serta masyarakat awam. Fokus dan bidang latihan yang diberikan oleh ISM adalah melibatkan kumpulan sasar KPWKM serta kesejahteraan sosial masyarakat termasuklah kesukarelawanan dan keusahawanan sosial.",
+      "address": "LOT PT13856, KM6, Lebuhraya Kuala Lumpur-Seremban, Sungai Besi, 57100, Kuala Lumpur",
+      "phone": "603-7985 3333",
+      "fax": "03-7985 3300",
+      "email": "info@ism.gov.my",
+      "contact_person": "Urusetia Komunikasi Korporat",
+      "website": "http://www.ism.gov.my/en/",
+      "latitude": "3.0780731",
+      "longitude": "101.7013304",
+      "facebook": "https://www.facebook.com/institut.sosial.malaysia/",
+      "twitter": "https://twitter.com/ism_hq",
+      "instagram": "https://www.instagram.com/ism_hq",
+      "youtube": "",
+      "unique_code": "PAP-21-02-00",
+      "active": true,
+      "agency_id": 20070
+    },
+    {
+      "name": "JABATAN KEBAJIKAN MASYARAKAT (JKM)",
+      "parent_body": "Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat (KPWKM)",
+      "parent_body_slug": "kementerian-pembangunan-wanita-keluarga-dan-masyarakat",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Peneraju utama kebajikan dalam pembangunan dan kesejahteraan masyarakat",
+      "address": "Aras 6, 9-18, No 55, Persiaran Perdana, Presint 4, 62100, Putrajaya",
+      "phone": "603-8000 8000",
+      "fax": "603-8323 2045",
+      "email": "webmaster@jkm.gov.my",
+      "contact_person": "webmaster",
+      "website": "http://www.jkm.gov.my/",
+      "latitude": "2.902811",
+      "longitude": "101.681271",
+      "facebook": "https://www.facebook.com/Jabatan-Kebajikan-Masyarakat-JKMHQ-1237185799722880/",
+      "twitter": "https://twitter.com/jkmhq",
+      "instagram": "https://www.instagram.com/jkmhq/",
+      "youtube": "https://www.youtube.com/user/MsAein21/videos?view=0&shelf_id=0&sort=dd",
+      "unique_code": "PAP-21-04-00",
+      "active": true,
+      "agency_id": 30133
+    },
+    {
+      "name": "JABATAN PEMBANGUNAN WANITA",
+      "parent_body": "Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat (KPWKM)",
+      "parent_body_slug": "kementerian-pembangunan-wanita-keluarga-dan-masyarakat",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Melaksanakan aktiviti bagi meningkatkan tahap kepekaan gender di kalangan masyarakat menerusi program dan inisiatif yang diadakan selaras dengan Dasar Wanita Negara dan juga Pelan Tindakan Pemerkasaan Ibu Tunggal",
+      "address": "Aras 23-25, No. 55, Persiaran Perdana, Presint 4, 62100, Putrajaya",
+      "phone": "603-8323 1000",
+      "fax": "03-8323 2034",
+      "email": "infojpw@jpw.gov.my",
+      "contact_person": "infojpw",
+      "website": "https://www.jpw.gov.my/",
+      "latitude": "2.9022",
+      "longitude": "101.6804",
+      "facebook": "https://www.facebook.com/JPWanita/",
+      "twitter": "https://twitter.com/JPWanita",
+      "instagram": "https://www.instagram.com/jpwanita",
+      "youtube": "https://www.youtube.com/channel/UCBAO2P5dNo_n_lFS8TvOa6Q",
+      "unique_code": "PAP-21-05-00",
+      "active": true,
+      "agency_id": 20084
+    },
+    {
+      "name": "KEMENTERIAN PEMBANGUNAN WANITA, KELUARGA DAN MASYARAKAT",
+      "parent_body": "Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat (KPWKM)",
+      "parent_body_slug": "kementerian-pembangunan-wanita-keluarga-dan-masyarakat",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "KEMENTERIAN PEMBANGUNAN WANITA, KELUARGA DAN MASYARAKAT",
+      "address": "No 55, Persiaran Perdana Presint 4, 62100, Putrajaya",
+      "phone": "603-8000 8000",
+      "fax": "603-8323 2000",
+      "email": "info@kpwkm.gov.my",
+      "contact_person": "Info",
+      "website": "http://www.kpwkm.gov.my/",
+      "latitude": "2.90227",
+      "longitude": "101.680451",
+      "facebook": "https://www.facebook.com/kpwkm",
+      "twitter": "https://twitter.com/kpwkm",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PAP-21-01-00",
+      "active": true,
+      "agency_id": 20062
+    },
+    {
+      "name": "LEMBAGA PENDUDUK DAN PEMBANGUNAN KELUARGA NEGARA (LPPKN)",
+      "parent_body": "Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat (KPWKM)",
+      "parent_body_slug": "kementerian-pembangunan-wanita-keluarga-dan-masyarakat",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Menjadi organisasi kecermelangan penduduk dan keluarga. Memacu agenda kependudukan dan kekeluarga yang inovatif melalui dasar, kajian demografi keluarga, program dan pekhidmatan.",
+      "address": "12B, Jalan Raja Laut, Peti Surat 10416, 50712, Kuala Lumpur",
+      "phone": "603-2613 7555",
+      "fax": "03-2693 7250",
+      "email": "penduduk@lppkn.gov.my",
+      "contact_person": "webmaster",
+      "website": "http://www.lppkn.gov.my/",
+      "latitude": "3.1591743",
+      "longitude": "101.6944352",
+      "facebook": "https://www.facebook.com/lppkn/",
+      "twitter": "http://twitter.com/lppkn",
+      "instagram": "http://instagram.com/lppkn",
+      "youtube": "http://www.youtube.com/user/lppknhq",
+      "unique_code": "BBP-21-01-00",
+      "active": true,
+      "agency_id": 20056
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat (KPWKM) - Muat turun percuma",
+    "description": "Senarai 6 agensi kerajaan di bawah Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat (KPWKM) (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 6/6 koordinat, 6/6 laman web. Mengandungi 6 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat (KPWKM) | ListBase",
+    "seo_description": "Muat turun Senarai Agensi Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat (KPWKM) — 6 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 6 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

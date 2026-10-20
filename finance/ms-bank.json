@@ -1,0 +1,910 @@
+{
+  "id": "ms-bank",
+  "name": "Senarai Bank di Malaysia",
+  "title": "Senarai Bank di Malaysia",
+  "description": "Senarai bank perdagangan, bank Islam, bank pelaburan dan bank pembangunan yang beroperasi di Malaysia. Setiap rekod mengandungi nama bank, kod SWIFT/BIC antarabangsa, dan kod bank tempatan untuk pemindahan IBG/RENTAS. Complete list of commercial, Islamic, investment, and development banks operating in Malaysia with SWIFT/BIC codes for international transfers and local bank codes for IBG/RENTAS.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 144,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "bank_code",
+      "label": "Bank Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Affin Bank Berhad",
+      "name_uppercase": "AFFIN BANK BERHAD",
+      "swift_code": "PHBMMYKL",
+      "bank_code": "PHBM"
+    },
+    {
+      "name": "Affin Hwang Investment Bank Berhad",
+      "name_uppercase": "AFFIN HWANG INVESTMENT BANK BERHAD",
+      "swift_code": "HDSBMY2P",
+      "bank_code": "HDSB"
+    },
+    {
+      "name": "Affin Islamic Bank Berhad",
+      "name_uppercase": "AFFIN ISLAMIC BANK BERHAD",
+      "swift_code": "AIBBMYKL",
+      "bank_code": "AIBB"
+    },
+    {
+      "name": "Aia Bhd.",
+      "name_uppercase": "AIA BHD.",
+      "swift_code": "AIACMYKL",
+      "bank_code": "AIAC"
+    },
+    {
+      "name": "Bank Pertanian Malaysia Berhad - Agrobank",
+      "name_uppercase": "BANK PERTANIAN MALAYSIA BERHAD - AGROBANK",
+      "swift_code": "AGOBMYKL",
+      "bank_code": "AGOB"
+    },
+    {
+      "name": "Al Rajhi Banking And Investment Corporation (Malaysia) Bhd",
+      "name_uppercase": "AL RAJHI BANKING AND INVESTMENT CORPORATION (MALAYSIA) BHD",
+      "swift_code": "RJHIMYKL",
+      "bank_code": "RJHI"
+    },
+    {
+      "name": "Alkhair International Islamic Bank Berhad",
+      "name_uppercase": "ALKHAIR INTERNATIONAL ISLAMIC BANK BERHAD",
+      "swift_code": "UIIBMYKL",
+      "bank_code": "UIIB"
+    },
+    {
+      "name": "Alliance Bank Malaysia Berhad",
+      "name_uppercase": "ALLIANCE BANK MALAYSIA BERHAD",
+      "swift_code": "MFBBMYKL",
+      "bank_code": "MFBB"
+    },
+    {
+      "name": "Alliance Investment Bank Berhad",
+      "name_uppercase": "ALLIANCE INVESTMENT BANK BERHAD",
+      "swift_code": "MBAMMYKL",
+      "bank_code": "MBAM"
+    },
+    {
+      "name": "Alliance Islamic Bank Berhad",
+      "name_uppercase": "ALLIANCE ISLAMIC BANK BERHAD",
+      "swift_code": "ALSRMYKL",
+      "bank_code": "ALSR"
+    },
+    {
+      "name": "Ambank (M) Berhad",
+      "name_uppercase": "AMBANK (M) BERHAD",
+      "swift_code": "ARBKMYKL",
+      "bank_code": "ARBK"
+    },
+    {
+      "name": "Ambank (M) Berhad Labuan Offshore Branch",
+      "name_uppercase": "AMBANK (M) BERHAD LABUAN OFFSHORE BRANCH",
+      "swift_code": "ARBKMYKLLAB",
+      "bank_code": "ARBK"
+    },
+    {
+      "name": "Aminvestment Bank Berhad",
+      "name_uppercase": "AMINVESTMENT BANK BERHAD",
+      "swift_code": "AMMBMYKL",
+      "bank_code": "AMMB"
+    },
+    {
+      "name": "Amislamic Bank Berhad",
+      "name_uppercase": "AMISLAMIC BANK BERHAD",
+      "swift_code": "AISLMYKL",
+      "bank_code": "AISL"
+    },
+    {
+      "name": "Asian Finance Bank Berhad",
+      "name_uppercase": "ASIAN FINANCE BANK BERHAD",
+      "swift_code": "AFBQMYKL",
+      "bank_code": "AFBQ"
+    },
+    {
+      "name": "Asian Trade Investment Bank Ltd",
+      "name_uppercase": "ASIAN TRADE INVESTMENT BANK LTD",
+      "swift_code": "ATBLMY2A",
+      "bank_code": "ATBL"
+    },
+    {
+      "name": "Bangkok Bank Berhad",
+      "name_uppercase": "BANGKOK BANK BERHAD",
+      "swift_code": "BKKBMYKL",
+      "bank_code": "BKKB"
+    },
+    {
+      "name": "Bank Al Habib Limited",
+      "name_uppercase": "BANK AL HABIB LIMITED",
+      "swift_code": "BAHLMY2A",
+      "bank_code": "BAHL"
+    },
+    {
+      "name": "Bank Islam Malaysia Berhad",
+      "name_uppercase": "BANK ISLAM MALAYSIA BERHAD",
+      "swift_code": "BIMBMYKL",
+      "bank_code": "BIMB"
+    },
+    {
+      "name": "Bank Islam Malaysia Berhad Labuan Offshore Branch",
+      "name_uppercase": "BANK ISLAM MALAYSIA BERHAD LABUAN OFFSHORE BRANCH",
+      "swift_code": "BISLMYKA",
+      "bank_code": "BISL"
+    },
+    {
+      "name": "Bank Muamalat Malaysia Berhad",
+      "name_uppercase": "BANK MUAMALAT MALAYSIA BERHAD",
+      "swift_code": "BMMBMYKL",
+      "bank_code": "BMMB"
+    },
+    {
+      "name": "Bank Muamalat Malaysia Berhad (Trade Finance)",
+      "name_uppercase": "BANK MUAMALAT MALAYSIA BERHAD (TRADE FINANCE)",
+      "swift_code": "BMMBMYKLTFD",
+      "bank_code": "BMMB"
+    },
+    {
+      "name": "Bank Negara Malaysia (Head Office)",
+      "name_uppercase": "BANK NEGARA MALAYSIA (HEAD OFFICE)",
+      "swift_code": "BNMAMYKL",
+      "bank_code": "BNMA"
+    },
+    {
+      "name": "Bank Negara Malaysia",
+      "name_uppercase": "BANK NEGARA MALAYSIA",
+      "swift_code": "BNMAMY2K",
+      "bank_code": "BNMA"
+    },
+    {
+      "name": "Bank Of America, Malaysia Berhad",
+      "name_uppercase": "BANK OF AMERICA, MALAYSIA BERHAD",
+      "swift_code": "BOFAMY2X",
+      "bank_code": "BOFA"
+    },
+    {
+      "name": "Bank Of America, Malaysia Berhad",
+      "name_uppercase": "BANK OF AMERICA, MALAYSIA BERHAD",
+      "swift_code": "BOFAMY2XGRC",
+      "bank_code": "BOFA"
+    },
+    {
+      "name": "Bank Of America, Malaysia Berhad",
+      "name_uppercase": "BANK OF AMERICA, MALAYSIA BERHAD",
+      "swift_code": "BOFAMY2XLMY",
+      "bank_code": "BOFA"
+    },
+    {
+      "name": "Bank Of America, Malaysia Berhad",
+      "name_uppercase": "BANK OF AMERICA, MALAYSIA BERHAD",
+      "swift_code": "BOFAMY2XLBN",
+      "bank_code": "BOFA"
+    },
+    {
+      "name": "Bank Of China (Malaysia) Berhad",
+      "name_uppercase": "BANK OF CHINA (MALAYSIA) BERHAD",
+      "swift_code": "BKCHMYKL",
+      "bank_code": "BKCH"
+    },
+    {
+      "name": "Bank Of Tokyo-Mitsubishi Ufj (Malaysia) Berhad",
+      "name_uppercase": "BANK OF TOKYO-MITSUBISHI UFJ (MALAYSIA) BERHAD",
+      "swift_code": "BOTKMYKX",
+      "bank_code": "BOTK"
+    },
+    {
+      "name": "Bank Kerjasama Rakyat Malaysia Berhad (Bank Rakyat)",
+      "name_uppercase": "BANK KERJASAMA RAKYAT MALAYSIA BERHAD (BANK RAKYAT)",
+      "swift_code": "BKRMMYKL",
+      "bank_code": "BKRM"
+    },
+    {
+      "name": "Bank Simpanan Malaysia",
+      "name_uppercase": "Bank Simpanan Malaysia",
+      "swift_code": "",
+      "bank_code": ""
+    },
+    {
+      "name": "Bnp Paribas",
+      "name_uppercase": "BNP PARIBAS",
+      "swift_code": "BNPAMYKA",
+      "bank_code": "BNPA"
+    },
+    {
+      "name": "Bnp Paribas Malaysia Berhad",
+      "name_uppercase": "BNP PARIBAS MALAYSIA BERHAD",
+      "swift_code": "BNPAMYKL",
+      "bank_code": "BNPA"
+    },
+    {
+      "name": "Bnp Paribas Malaysia Berhad (Bnppm Islamic Banking Window)",
+      "name_uppercase": "BNP PARIBAS MALAYSIA BERHAD (BNPPM ISLAMIC BANKING WINDOW)",
+      "swift_code": "BNPAMYKLSPI",
+      "bank_code": "BNPA"
+    },
+    {
+      "name": "Cagamas Berhad",
+      "name_uppercase": "CAGAMAS BERHAD",
+      "swift_code": "",
+      "bank_code": ""
+    },
+    {
+      "name": "Cimb Bank Berhad",
+      "name_uppercase": "CIMB BANK BERHAD",
+      "swift_code": "CIBBMYKL",
+      "bank_code": "CIBB"
+    },
+    {
+      "name": "Cimb Bank Berhad (Securities Borrowing And Lending)",
+      "name_uppercase": "CIMB BANK BERHAD (SECURITIES BORROWING AND LENDING)",
+      "swift_code": "CIBBMYKLSBL",
+      "bank_code": "CIBB"
+    },
+    {
+      "name": "Cimb Bank (L) Limited",
+      "name_uppercase": "CIMB BANK (L) LIMITED",
+      "swift_code": "CIBBMYKA",
+      "bank_code": "CIBB"
+    },
+    {
+      "name": "Cimb Bank Berhad, Labuan Offshore Branch",
+      "name_uppercase": "CIMB BANK BERHAD, LABUAN OFFSHORE BRANCH",
+      "swift_code": "CIBBMY2L",
+      "bank_code": "CIBB"
+    },
+    {
+      "name": "Cimb Islamic Bank Berhad",
+      "name_uppercase": "CIMB ISLAMIC BANK BERHAD",
+      "swift_code": "CTBBMYKL",
+      "bank_code": "CTBB"
+    },
+    {
+      "name": "Cimb-Principal Asset Management Berhad",
+      "name_uppercase": "CIMB-PRINCIPAL ASSET MANAGEMENT BERHAD",
+      "swift_code": "CANHMYKL",
+      "bank_code": "CANH"
+    },
+    {
+      "name": "Citibank Berhad (Jalan Ampang)",
+      "name_uppercase": "CITIBANK BERHAD (JALAN AMPANG)",
+      "swift_code": "CITIMYKL",
+      "bank_code": "CITI"
+    },
+    {
+      "name": "Citibank Berhad (Penang Branch)",
+      "name_uppercase": "CITIBANK BERHAD (PENANG BRANCH)",
+      "swift_code": "CITIMYKLPEN",
+      "bank_code": "CITI"
+    },
+    {
+      "name": "Citibank Berhad (Johor Bahru Branch)",
+      "name_uppercase": "CITIBANK BERHAD (JOHOR BAHRU BRANCH)",
+      "swift_code": "CITIMYKLJOD",
+      "bank_code": "CITI"
+    },
+    {
+      "name": "Citibank Berhad (Lab)",
+      "name_uppercase": "CITIBANK BERHAD (LAB)",
+      "swift_code": " CITIMYKLLAB",
+      "bank_code": "CITI"
+    },
+    {
+      "name": "Dbs Bank Ltd, Labuan Branch",
+      "name_uppercase": "DBS BANK LTD, LABUAN BRANCH",
+      "swift_code": "DBSSMY2A",
+      "bank_code": "DBSS"
+    },
+    {
+      "name": "Deutsche Bank (Malaysia) Berhad",
+      "name_uppercase": "DEUTSCHE BANK (MALAYSIA) BERHAD",
+      "swift_code": "DEUTMYKL",
+      "bank_code": "DEUT"
+    },
+    {
+      "name": "Deutsche Bank (Malaysia) Berhad",
+      "name_uppercase": "DEUTSCHE BANK (MALAYSIA) BERHAD",
+      "swift_code": "DEUTMYKLGMO",
+      "bank_code": "DEUT"
+    },
+    {
+      "name": "Deutsche Bank (Malaysia) Berhad",
+      "name_uppercase": "DEUTSCHE BANK (MALAYSIA) BERHAD",
+      "swift_code": "DEUTMYKLIBW",
+      "bank_code": "DEUT"
+    },
+    {
+      "name": "Deutsche Bank (Malaysia) Berhad (International Islamic Banking, Malaysia Branch)",
+      "name_uppercase": "DEUTSCHE BANK (MALAYSIA) BERHAD (INTERNATIONAL ISLAMIC BANKING, MALAYSIA BRANCH)",
+      "swift_code": "DEUTMYKLISB",
+      "bank_code": "DEUT"
+    },
+    {
+      "name": "Deutsche Bank (Malaysia) Berhad (Labuan Branch)",
+      "name_uppercase": "DEUTSCHE BANK (MALAYSIA) BERHAD (LABUAN BRANCH)",
+      "swift_code": "DEUTMYKLBLB",
+      "bank_code": "DEUT"
+    },
+    {
+      "name": "Export-Import Bank Of Malaysia Berhad",
+      "name_uppercase": "EXPORT-IMPORT BANK OF MALAYSIA BERHAD",
+      "swift_code": "EXMBMYKL",
+      "bank_code": "EXMB"
+    },
+    {
+      "name": "Felda Global Ventures Capital Sdn. Bhd.",
+      "name_uppercase": "FELDA GLOBAL VENTURES CAPITAL SDN. BHD.",
+      "swift_code": "FGVCMYKL",
+      "bank_code": "FGVC"
+    },
+    {
+      "name": "Fidelity Asia Bank Ltd",
+      "name_uppercase": "FIDELITY ASIA BANK LTD",
+      "swift_code": "FABEMY22",
+      "bank_code": "FABE"
+    },
+    {
+      "name": "Hong Leong Bank Berhad",
+      "name_uppercase": "HONG LEONG BANK BERHAD",
+      "swift_code": "HLBBMYKL",
+      "bank_code": "HLBB"
+    },
+    {
+      "name": "Hong Leong Bank Berhad (Islamic Banking Unit)",
+      "name_uppercase": "HONG LEONG BANK BERHAD (ISLAMIC BANKING UNIT)",
+      "swift_code": "HLBBMYKLIBU",
+      "bank_code": "HLBB"
+    },
+    {
+      "name": "Hong Leong Bank Berhad, Johor Bahru, Johor",
+      "name_uppercase": "HONG LEONG BANK BERHAD, JOHOR BAHRU, JOHOR",
+      "swift_code": "HLBBMYKLJBU",
+      "bank_code": "HLBB"
+    },
+    {
+      "name": "Hong Leong Bank Berhad, Kuching, Sarawak",
+      "name_uppercase": "HONG LEONG BANK BERHAD, KUCHING, SARAWAK",
+      "swift_code": "HLBBMYKLKCH",
+      "bank_code": "HLBB"
+    },
+    {
+      "name": "Hong Leong Bank Berhad, Penang, Penang",
+      "name_uppercase": "HONG LEONG BANK BERHAD, PENANG, PENANG",
+      "swift_code": "HLBBMYKLPNG",
+      "bank_code": "HLBB"
+    },
+    {
+      "name": "Hong Leong Investment Bank Berhad",
+      "name_uppercase": "HONG LEONG INVESTMENT BANK BERHAD",
+      "swift_code": "HLIVMYKL",
+      "bank_code": "HLIV"
+    },
+    {
+      "name": "Hong Leong Islamic Bank Berhad",
+      "name_uppercase": "HONG LEONG ISLAMIC BANK BERHAD",
+      "swift_code": "HLIBMYKL",
+      "bank_code": "HLIB"
+    },
+    {
+      "name": "The Hongkong And Shanghai Banking Corporation Ltd.",
+      "name_uppercase": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD.",
+      "swift_code": "HSBCMYKA",
+      "bank_code": "HSBC"
+    },
+    {
+      "name": "Hsbc (Malaysia) Trustee Berhad",
+      "name_uppercase": "HSBC (MALAYSIA) TRUSTEE BERHAD",
+      "swift_code": "HSTMMYKL",
+      "bank_code": "HSTM"
+    },
+    {
+      "name": "Hsbc (Malaysia) Trustee Berhad (Global Wealth Solutions)",
+      "name_uppercase": "HSBC (MALAYSIA) TRUSTEE BERHAD (GLOBAL WEALTH SOLUTIONS)",
+      "swift_code": "HSTMMYKLGWS",
+      "bank_code": "HSTM"
+    },
+    {
+      "name": "Hsbc Amanah Malaysia Berhad",
+      "name_uppercase": "HSBC AMANAH MALAYSIA BERHAD",
+      "swift_code": "HMABMYKL",
+      "bank_code": "HMAB"
+    },
+    {
+      "name": "Hsbc Bank Malaysia Berhad",
+      "name_uppercase": "HSBC BANK MALAYSIA BERHAD",
+      "swift_code": "HBMBMYKL",
+      "bank_code": "HBMB"
+    },
+    {
+      "name": "India International Bank (Malaysia) Berhad",
+      "name_uppercase": "INDIA INTERNATIONAL BANK (MALAYSIA) BERHAD",
+      "swift_code": "IIMBMYKL",
+      "bank_code": "IIMB"
+    },
+    {
+      "name": "Industrial And Commercial Bank Of China (Malaysia) Berhad.",
+      "name_uppercase": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MALAYSIA) BERHAD.",
+      "swift_code": "ICBKMYKL",
+      "bank_code": "ICBK"
+    },
+    {
+      "name": "Industrial And Commercial Bank Of China (Malaysia) Berhad., (Labuan Branch)",
+      "name_uppercase": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MALAYSIA) BERHAD., (LABUAN BRANCH)",
+      "swift_code": "ICBKMYKLLAB",
+      "bank_code": "ICBK"
+    },
+    {
+      "name": "J.P.Morgan Chase Bank Berhad",
+      "name_uppercase": "J.P.MORGAN CHASE BANK BERHAD",
+      "swift_code": "CHASMYKX",
+      "bank_code": "CHAS"
+    },
+    {
+      "name": "J.P.Morgan Chase Bank Berhad, (Jpmorgan Securities - Malaysia)",
+      "name_uppercase": "J.P.MORGAN CHASE BANK BERHAD, (JPMORGAN SECURITIES - MALAYSIA)",
+      "swift_code": "CHASMYKXSEC",
+      "bank_code": "CHAS"
+    },
+    {
+      "name": "J.P.Morgan Chase Bank Berhad, (Test Key And Bke Administration)",
+      "name_uppercase": "J.P.MORGAN CHASE BANK BERHAD, (TEST KEY AND BKE ADMINISTRATION)",
+      "swift_code": "CHASMYKXKEY",
+      "bank_code": "CHAS"
+    },
+    {
+      "name": "Jpmorgan Chase Bank, N.A., Labuan Branch",
+      "name_uppercase": "JPMORGAN CHASE BANK, N.A., LABUAN BRANCH",
+      "swift_code": "CHASMY2A",
+      "bank_code": "CHAS"
+    },
+    {
+      "name": "Kaf Investment Bank Berhad",
+      "name_uppercase": "KAF INVESTMENT BANK BERHAD",
+      "swift_code": "KAFBMYKL",
+      "bank_code": "KAFB"
+    },
+    {
+      "name": "Kenanga Investment Bank Berhad",
+      "name_uppercase": "KENANGA INVESTMENT BANK BERHAD",
+      "swift_code": "ECMLMYKL",
+      "bank_code": "ECML"
+    },
+    {
+      "name": "Kuwait Finance House (Malaysia) Berhad",
+      "name_uppercase": "KUWAIT FINANCE HOUSE (MALAYSIA) BERHAD",
+      "swift_code": "KFHOMYKL",
+      "bank_code": "KFHO"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK)",
+      "swift_code": "MBBEMYKL",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Butterworth, Penang (Trade Finance Center) ",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), BUTTERWORTH, PENANG (TRADE FINANCE CENTER) ",
+      "swift_code": "MBBEMYKLBWC",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Ipoh, Perak",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), IPOH, PERAK",
+      "swift_code": "MBBEMYKLIPH",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Johor Bahru, Johor",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), JOHOR BAHRU, JOHOR",
+      "swift_code": "MBBEMYKLJOB",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Kota Kinabalu, Sabah",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), KOTA KINABALU, SABAH",
+      "swift_code": "MBBEMYKLKIN",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Kuala Lumpur (Bangsar Baru Branch)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), KUALA LUMPUR (BANGSAR BARU BRANCH)",
+      "swift_code": "MBBEMYKLBAN",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Kuala Lumpur (Bukit Bintang Branch)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), KUALA LUMPUR (BUKIT BINTANG BRANCH)",
+      "swift_code": "MBBEMYKLBBG",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Kuala Lumpur (Cash Management Department)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), KUALA LUMPUR (CASH MANAGEMENT DEPARTMENT)",
+      "swift_code": "MBBEMYKLWEB",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Kuala Lumpur (Custodian Services Department)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), KUALA LUMPUR (CUSTODIAN SERVICES DEPARTMENT)",
+      "swift_code": "MBBEMYKLCSD",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Kuala Lumpur (Kepong Branch)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), KUALA LUMPUR (KEPONG BRANCH)",
+      "swift_code": "MBBEMYKLKEP",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Kuala Lumpur (Pudu Branch)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), KUALA LUMPUR (PUDU BRANCH)",
+      "swift_code": "MBBEMYKLPUD",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Kuala Lumpur (Subang Airport)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), KUALA LUMPUR (SUBANG AIRPORT)",
+      "swift_code": "MBBEMYKLSUB",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Kuala Lumpur (Trade Finance Center)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), KUALA LUMPUR (TRADE FINANCE CENTER)",
+      "swift_code": "MBBEMYKLKLC",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Kuala Lumpur (Wisma Sime Darby Branch)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), KUALA LUMPUR (WISMA SIME DARBY BRANCH)",
+      "swift_code": "MBBEMYKLWSD",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Malacca, Malacca",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), MALACCA, MALACCA",
+      "swift_code": "MBBEMYKLMAL",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Pasir Gudang, Johor",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), PASIR GUDANG, JOHOR",
+      "swift_code": "MBBEMYKLPSG",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Penang, Penang (Trade Finance Center)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), PENANG, PENANG (TRADE FINANCE CENTER)",
+      "swift_code": "MBBEMYKLPGC",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Penang, Penang",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), PENANG, PENANG",
+      "swift_code": "MBBEMYKLPEN",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Petaling Jaya, Selangor (Trade Finance Center)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), PETALING JAYA, SELANGOR (TRADE FINANCE CENTER)",
+      "swift_code": "MBBEMYKLPJC",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Petaling Jaya, Selangor (Yong Shook Lin Branch)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), PETALING JAYA, SELANGOR (YONG SHOOK LIN BRANCH)",
+      "swift_code": "MBBEMYKLYSL",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Petaling Jaya, Selangor",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), PETALING JAYA, SELANGOR",
+      "swift_code": "MBBEMYKLPJY",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Port Klang, Selangor",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), PORT KLANG, SELANGOR",
+      "swift_code": "MBBEMYKLPKG",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Seremban, Negri Sembilan",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), SEREMBAN, NEGRI SEMBILAN",
+      "swift_code": "MBBEMYKLSBN",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Shah Alam, Selangor  (Trade Finance Center)",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), SHAH ALAM, SELANGOR  (TRADE FINANCE CENTER)",
+      "swift_code": "MBBEMYKLSAC",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malayan Banking Berhad (Maybank), Shah Alam, Selangor",
+      "name_uppercase": "MALAYAN BANKING BERHAD (MAYBANK), SHAH ALAM, SELANGOR",
+      "swift_code": "MBBEMYKLSHA",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Malaysia Airlines Berhad",
+      "name_uppercase": "MALAYSIA AIRLINES BERHAD",
+      "swift_code": "MAYHMY22",
+      "bank_code": "MAYH"
+    },
+    {
+      "name": "Max Money Sdn Bhd",
+      "name_uppercase": "MAX MONEY SDN BHD",
+      "swift_code": "MMSBMYKL",
+      "bank_code": "MMSB"
+    },
+    {
+      "name": "Maybank International (L) Ltd.",
+      "name_uppercase": "MAYBANK INTERNATIONAL (L) LTD.",
+      "swift_code": "MBBEMYKA",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Maybank International Labuan Branch",
+      "name_uppercase": "MAYBANK INTERNATIONAL LABUAN BRANCH",
+      "swift_code": "MBBEMY2L",
+      "bank_code": "MBBE"
+    },
+    {
+      "name": "Maybank Investment Bank Berhad",
+      "name_uppercase": "MAYBANK INVESTMENT BANK BERHAD",
+      "swift_code": "MBEAMYKL",
+      "bank_code": "MBEA"
+    },
+    {
+      "name": "Maybank Islamic Berhad",
+      "name_uppercase": "MAYBANK ISLAMIC BERHAD",
+      "swift_code": "MBISMYKL",
+      "bank_code": "MBIS"
+    },
+    {
+      "name": "Mega International Commercial Bank Co., Ltd. Labuan Branch",
+      "name_uppercase": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD. LABUAN BRANCH",
+      "swift_code": "ICBCMY2L",
+      "bank_code": "ICBC"
+    },
+    {
+      "name": "Mercedes-Benz Malaysia Sdn. Bhd",
+      "name_uppercase": "MERCEDES-BENZ MALAYSIA SDN. BHD",
+      "swift_code": "DABEMYKL",
+      "bank_code": "DABE"
+    },
+    {
+      "name": "Mercedes-Benz Services Malaysia Sdn. Bhd.",
+      "name_uppercase": "MERCEDES-BENZ SERVICES MALAYSIA SDN. BHD.",
+      "swift_code": "MBSMMYKL",
+      "bank_code": "MBSM"
+    },
+    {
+      "name": "Middle East Investment Bank Ltd",
+      "name_uppercase": "MIDDLE EAST INVESTMENT BANK LTD",
+      "swift_code": "MEIBMYKA",
+      "bank_code": "MEIB"
+    },
+    {
+      "name": "Mizuho Bank (Malaysia) Berhad",
+      "name_uppercase": "MIZUHO BANK (MALAYSIA) BERHAD",
+      "swift_code": "MHCBMYKA",
+      "bank_code": "MHCB"
+    },
+    {
+      "name": "Mizuho Bank, Ltd., Labuan Branch",
+      "name_uppercase": "MIZUHO BANK, LTD., LABUAN BRANCH",
+      "swift_code": "MHCBMY2L",
+      "bank_code": "MHCB"
+    },
+    {
+      "name": "National Bank Of Abu Dhabi",
+      "name_uppercase": "NATIONAL BANK OF ABU DHABI",
+      "swift_code": "NBADMYKL",
+      "bank_code": "NBAD"
+    },
+    {
+      "name": "National Bank Of Abu Dhabi, Labuan",
+      "name_uppercase": "NATIONAL BANK OF ABU DHABI, LABUAN",
+      "swift_code": "NBADMYKLLAU",
+      "bank_code": "NBAD"
+    },
+    {
+      "name": "Nomura Asset Management Malaysia Sdn Bhd",
+      "name_uppercase": "NOMURA ASSET MANAGEMENT MALAYSIA SDN BHD",
+      "swift_code": "NOCMMYKL",
+      "bank_code": "NOCM"
+    },
+    {
+      "name": "Ocbc Bank (Malaysia) Berhad",
+      "name_uppercase": "OCBC BANK (MALAYSIA) BERHAD",
+      "swift_code": "OCBCMYKL",
+      "bank_code": "OCBC"
+    },
+    {
+      "name": "Ocbc Al-Amin Bank Berhad",
+      "name_uppercase": "OCBC AL-AMIN BANK BERHAD",
+      "swift_code": "OABBMYKL",
+      "bank_code": "OABB"
+    },
+    {
+      "name": "Petroliam Nasional Berhad",
+      "name_uppercase": "PETROLIAM NASIONAL BERHAD",
+      "swift_code": "PTROMYKL",
+      "bank_code": "PTRO"
+    },
+    {
+      "name": "Petroliam Nasional Berhad, Kuala Lumpur (Klcc)",
+      "name_uppercase": "PETROLIAM NASIONAL BERHAD, KUALA LUMPUR (KLCC)",
+      "swift_code": "PTROMYKLFSD",
+      "bank_code": "PTRO"
+    },
+    {
+      "name": "Petronas Carigali Sdn Bhd",
+      "name_uppercase": "PETRONAS CARIGALI SDN BHD",
+      "swift_code": "PCGLMYKL",
+      "bank_code": "PCGL"
+    },
+    {
+      "name": "Petronas Trading Corporation Sdn. Bhd",
+      "name_uppercase": "PETRONAS TRADING CORPORATION SDN. BHD",
+      "swift_code": "PTRDMYKL",
+      "bank_code": "PTRD"
+    },
+    {
+      "name": "Pg Asia Investment Bank Ltd",
+      "name_uppercase": "PG ASIA INVESTMENT BANK LTD",
+      "swift_code": "AINEMY22",
+      "bank_code": "AINE"
+    },
+    {
+      "name": "Public Bank Berhad",
+      "name_uppercase": "PUBLIC BANK BERHAD",
+      "swift_code": "PBBEMYKL",
+      "bank_code": "PBBE"
+    },
+    {
+      "name": "Public Bank (L) Ltd",
+      "name_uppercase": "PUBLIC BANK (L) LTD",
+      "swift_code": "PBLLMYKA",
+      "bank_code": "PBLL"
+    },
+    {
+      "name": "Public Islamic Bank Berhad",
+      "name_uppercase": "PUBLIC ISLAMIC BANK BERHAD",
+      "swift_code": "PUIBMYKL",
+      "bank_code": "PUIB"
+    },
+    {
+      "name": "Rhb Bank Berhad",
+      "name_uppercase": "RHB BANK BERHAD",
+      "swift_code": "RHBBMYKL",
+      "bank_code": "RHBB"
+    },
+    {
+      "name": "Rhb Bank (L) Ltd",
+      "name_uppercase": "RHB BANK (L) LTD",
+      "swift_code": "RHBBMYKA",
+      "bank_code": "RHBB"
+    },
+    {
+      "name": "Rhb Investment Bank Berhad",
+      "name_uppercase": "RHB INVESTMENT BANK BERHAD",
+      "swift_code": "OSKIMYKL",
+      "bank_code": "OSKI"
+    },
+    {
+      "name": "Rhb Islamic Bank Berhad",
+      "name_uppercase": "RHB ISLAMIC BANK BERHAD",
+      "swift_code": "RHBAMYKL",
+      "bank_code": "RHBA"
+    },
+    {
+      "name": "Standard Chartered Bank Malaysia Berhad",
+      "name_uppercase": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
+      "swift_code": "SCBLMYKX",
+      "bank_code": "SCBL"
+    },
+    {
+      "name": "Standard Chartered Bank Malaysia Berhad, (Labuan Offshore Banking Unit)",
+      "name_uppercase": "STANDARD CHARTERED BANK MALAYSIA BERHAD, (LABUAN OFFSHORE BANKING UNIT)",
+      "swift_code": "SCBLMYKXLAB",
+      "bank_code": "SCBL"
+    },
+    {
+      "name": "Standard Chartered Saadiq Berhad",
+      "name_uppercase": "STANDARD CHARTERED SAADIQ BERHAD",
+      "swift_code": "SCSRMYKK",
+      "bank_code": "SCSR"
+    },
+    {
+      "name": "Sumitomo Mitsui Banking Corporation Malaysia Berhad",
+      "name_uppercase": "SUMITOMO MITSUI BANKING CORPORATION MALAYSIA BERHAD",
+      "swift_code": "SMBCMYKL",
+      "bank_code": "SMBC"
+    },
+    {
+      "name": "Sumitomo Mitsui Banking Corporation",
+      "name_uppercase": "SUMITOMO MITSUI BANKING CORPORATION",
+      "swift_code": "SMBCMYKA",
+      "bank_code": "SMBC"
+    },
+    {
+      "name": "The Bank Of Nova Scotia,",
+      "name_uppercase": "THE BANK OF NOVA SCOTIA,",
+      "swift_code": "NOSCMY2L",
+      "bank_code": "NOSC"
+    },
+    {
+      "name": "The Bank Of Tokyo-Mitsubishi Ufj, Ltd. (Labuan Branch)",
+      "name_uppercase": "THE BANK OF TOKYO-MITSUBISHI UFJ, LTD. (LABUAN BRANCH)",
+      "swift_code": "BOTKMYKA",
+      "bank_code": "BOTK"
+    },
+    {
+      "name": "The Royal Bank Of Scotland Berhad ",
+      "name_uppercase": "THE ROYAL BANK OF SCOTLAND BERHAD ",
+      "swift_code": "ABNAMYKL",
+      "bank_code": "ABNA"
+    },
+    {
+      "name": "The Royal Bank Of Scotland Berhad, Penang, Penang",
+      "name_uppercase": "THE ROYAL BANK OF SCOTLAND BERHAD, PENANG, PENANG",
+      "swift_code": "ABNAMYKLPNG",
+      "bank_code": "ABNA"
+    },
+    {
+      "name": "The Royal Bank Of Scotland Plc Labuan Branch",
+      "name_uppercase": "THE ROYAL BANK OF SCOTLAND PLC LABUAN BRANCH",
+      "swift_code": "ABNAMY2A",
+      "bank_code": "ABNA"
+    },
+    {
+      "name": "United Overseas Bank (Malaysia) Berhad",
+      "name_uppercase": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "swift_code": "UOVBMYKL",
+      "bank_code": "UOVB"
+    },
+    {
+      "name": "United Overseas Bank (Malaysia) Berhad, (Custodian And Nominees Department)",
+      "name_uppercase": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD, (CUSTODIAN AND NOMINEES DEPARTMENT)",
+      "swift_code": "UOVBMYKLCND",
+      "bank_code": "UOVB"
+    },
+    {
+      "name": "United Overseas Bank (Malaysia) Berhad",
+      "name_uppercase": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "swift_code": "UOVBMY2L",
+      "bank_code": "UOVB"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Bank di Malaysia - Muat turun percuma",
+    "description": "Senarai bank perdagangan, bank Islam, bank pelaburan dan bank pembangunan yang beroperasi di Malaysia. Setiap rekod mengandungi nama bank, kod SWIFT/BIC antarabangsa, dan kod bank tempatan untuk pemindahan IBG/RENTAS. Complete list of commercial, Islamic, investment, and development banks operating in Malaysia with SWIFT/BIC codes for international transfers and local bank codes for IBG/RENTAS. Mengandungi 144 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Bank di Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Bank di Malaysia — 144 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 144 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

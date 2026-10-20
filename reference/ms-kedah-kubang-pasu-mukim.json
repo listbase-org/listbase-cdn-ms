@@ -1,0 +1,508 @@
+{
+  "id": "ms-kedah-kubang-pasu-mukim",
+  "name": "Mukim di Daerah Kubang Pasu, Kedah",
+  "title": "Mukim di Daerah Kubang Pasu, Kedah",
+  "description": "Senarai lengkap 36 mukim di daerah Kubang Pasu, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 36 mukim (traditional sub-district units) in Kubang Pasu District, Kedah, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "020201",
+      "name": "Ah",
+      "name_uppercase": "AH",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 64,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020202",
+      "name": "Binjal",
+      "name_uppercase": "BINJAL",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 65,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020203",
+      "name": "Gelong",
+      "name_uppercase": "GELONG",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 66,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020204",
+      "name": "Bukit Tinggi",
+      "name_uppercase": "BUKIT TINGGI",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 67,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020205",
+      "name": "Husba",
+      "name_uppercase": "HUSBA",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 68,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020206",
+      "name": "Jeram",
+      "name_uppercase": "JERAM",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 69,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020207",
+      "name": "Jerlun",
+      "name_uppercase": "JERLUN",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 70,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020208",
+      "name": "Jitra",
+      "name_uppercase": "JITRA",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 71,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020209",
+      "name": "Kepelu",
+      "name_uppercase": "KEPELU",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 72,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020210",
+      "name": "Kubang Pasu",
+      "name_uppercase": "KUBANG PASU",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 73,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020211",
+      "name": "Malau",
+      "name_uppercase": "MALAU",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 74,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020212",
+      "name": "Naga",
+      "name_uppercase": "NAGA",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 75,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020213",
+      "name": "Padang Perahu",
+      "name_uppercase": "PADANG PERAHU",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 76,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020214",
+      "name": "Pelubang",
+      "name_uppercase": "PELUBANG",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 77,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020215",
+      "name": "Pering",
+      "name_uppercase": "PERING",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 78,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020216",
+      "name": "Putat",
+      "name_uppercase": "PUTAT",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 79,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020217",
+      "name": "Sanglang",
+      "name_uppercase": "SANGLANG",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 80,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020218",
+      "name": "Sungai Laka",
+      "name_uppercase": "SUNGAI LAKA",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 81,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020219",
+      "name": "Temin",
+      "name_uppercase": "TEMIN",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 82,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020220",
+      "name": "Tunjang",
+      "name_uppercase": "TUNJANG",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 83,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020221",
+      "name": "Wang Tepus",
+      "name_uppercase": "WANG TEPUS",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 84,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020240",
+      "name": "Bandar Changlun",
+      "name_uppercase": "BANDAR CHANGLUN",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 85,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020241",
+      "name": "Bandar Jitra",
+      "name_uppercase": "BANDAR JITRA",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 86,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020242",
+      "name": "Bandar Kodiang",
+      "name_uppercase": "BANDAR KODIANG",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 87,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020243",
+      "name": "Bandar Tunjang",
+      "name_uppercase": "BANDAR TUNJANG",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 88,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020244",
+      "name": "Bandar Bandar Darulaman",
+      "name_uppercase": "BANDAR BANDAR DARULAMAN",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 89,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020245",
+      "name": "Bandar Padang Sera",
+      "name_uppercase": "BANDAR PADANG SERA",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 90,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020246",
+      "name": "Bandar Kepala Batas",
+      "name_uppercase": "BANDAR KEPALA BATAS",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 91,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020247",
+      "name": "Bandar Bukit Kayu Hitam",
+      "name_uppercase": "BANDAR BUKIT KAYU HITAM",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 92,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020270",
+      "name": "Pekan Ayer Hitam",
+      "name_uppercase": "PEKAN AYER HITAM",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 93,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020276",
+      "name": "Pekan Kuala Sanglang",
+      "name_uppercase": "PEKAN KUALA SANGLANG",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 94,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020281",
+      "name": "Pekan Sanglang",
+      "name_uppercase": "PEKAN SANGLANG",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 95,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020289",
+      "name": "Pekan Kerpan",
+      "name_uppercase": "PEKAN KERPAN",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 96,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020290",
+      "name": "Pekan Sintok",
+      "name_uppercase": "PEKAN SINTOK",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 97,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020291",
+      "name": "Pekan Napoh",
+      "name_uppercase": "PEKAN NAPOH",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 98,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    },
+    {
+      "id": "020292",
+      "name": "Pekan Sungai Korok",
+      "name_uppercase": "PEKAN SUNGAI KOROK",
+      "district_id": "202",
+      "district": "Kubang Pasu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 99,
+      "state_slug": "kedah",
+      "district_slug": "kubang-pasu"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Kubang Pasu, Kedah - Muat turun percuma",
+    "description": "Senarai lengkap 36 mukim di daerah Kubang Pasu, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 36 mukim (traditional sub-district units) in Kubang Pasu District, Kedah, Malaysia. Mengandungi 36 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Kubang Pasu, Kedah | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Kubang Pasu, Kedah — 36 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 36 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

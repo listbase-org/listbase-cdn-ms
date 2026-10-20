@@ -1,0 +1,160 @@
+{
+  "id": "ms-pahang-cameron-highlands-mukim",
+  "name": "Mukim di Daerah Cameron Highlands, Pahang",
+  "title": "Mukim di Daerah Cameron Highlands, Pahang",
+  "description": "Senarai lengkap 7 mukim di daerah Cameron Highlands, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 7 mukim (traditional sub-district units) in Cameron Highlands District, Pahang, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "060201",
+      "name": "Hulu Telom",
+      "name_uppercase": "HULU TELOM",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 957,
+      "state_slug": "pahang",
+      "district_slug": "cameron-highlands"
+    },
+    {
+      "id": "060202",
+      "name": "Ringlet",
+      "name_uppercase": "RINGLET",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 958,
+      "state_slug": "pahang",
+      "district_slug": "cameron-highlands"
+    },
+    {
+      "id": "060203",
+      "name": "Tanah Rata",
+      "name_uppercase": "TANAH RATA",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 959,
+      "state_slug": "pahang",
+      "district_slug": "cameron-highlands"
+    },
+    {
+      "id": "060240",
+      "name": "Bandar Tanah Rata",
+      "name_uppercase": "BANDAR TANAH RATA",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 960,
+      "state_slug": "pahang",
+      "district_slug": "cameron-highlands"
+    },
+    {
+      "id": "060270",
+      "name": "Pekan Berinchang",
+      "name_uppercase": "PEKAN BERINCHANG",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 961,
+      "state_slug": "pahang",
+      "district_slug": "cameron-highlands"
+    },
+    {
+      "id": "060271",
+      "name": "Pekan Lubok Tamang",
+      "name_uppercase": "PEKAN LUBOK TAMANG",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 962,
+      "state_slug": "pahang",
+      "district_slug": "cameron-highlands"
+    },
+    {
+      "id": "060272",
+      "name": "Pekan Ringlet",
+      "name_uppercase": "PEKAN RINGLET",
+      "district_id": "602",
+      "district": "Cameron Highlands",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 963,
+      "state_slug": "pahang",
+      "district_slug": "cameron-highlands"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Cameron Highlands, Pahang - Muat turun percuma",
+    "description": "Senarai lengkap 7 mukim di daerah Cameron Highlands, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 7 mukim (traditional sub-district units) in Cameron Highlands District, Pahang, Malaysia. Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Cameron Highlands, Pahang | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Cameron Highlands, Pahang — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

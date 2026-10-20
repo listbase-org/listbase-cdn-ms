@@ -1,0 +1,484 @@
+{
+  "id": "ms-kelantan-bachok-mukim",
+  "name": "Mukim di Daerah Bachok, Kelantan",
+  "title": "Mukim di Daerah Bachok, Kelantan",
+  "description": "Senarai lengkap 34 mukim di daerah Bachok, negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 34 mukim (traditional sub-district units) in Bachok District, Kelantan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "030101",
+      "name": "Alor Bakat",
+      "name_uppercase": "ALOR BAKAT",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 251,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030102",
+      "name": "Backhok",
+      "name_uppercase": "BACKHOK",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 252,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030103",
+      "name": "Bator",
+      "name_uppercase": "BATOR",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 253,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030104",
+      "name": "Chap",
+      "name_uppercase": "CHAP",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 254,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030105",
+      "name": "Cherang Hangus",
+      "name_uppercase": "CHERANG HANGUS",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 255,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030106",
+      "name": "Gajah Mati",
+      "name_uppercase": "GAJAH MATI",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 256,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030107",
+      "name": "Gunong",
+      "name_uppercase": "GUNONG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 257,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030108",
+      "name": "Kuau",
+      "name_uppercase": "KUAU",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 258,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030109",
+      "name": "Kemasin",
+      "name_uppercase": "KEMASIN",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 259,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030110",
+      "name": "Kubang Telaga",
+      "name_uppercase": "KUBANG TELAGA",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 260,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030111",
+      "name": "Kuchelong",
+      "name_uppercase": "KUCHELONG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 261,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030112",
+      "name": "Lubok Tembesu",
+      "name_uppercase": "LUBOK TEMBESU",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 262,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030113",
+      "name": "Mak Lipah",
+      "name_uppercase": "MAK LIPAH",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 263,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030114",
+      "name": "Melawi",
+      "name_uppercase": "MELAWI",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 264,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030115",
+      "name": "Nipah",
+      "name_uppercase": "NIPAH",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 265,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030116",
+      "name": "Pak Pura",
+      "name_uppercase": "PAK PURA",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 266,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030117",
+      "name": "Pauh Sembilan",
+      "name_uppercase": "PAUH SEMBILAN",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 267,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030118",
+      "name": "Paya Mengkuang",
+      "name_uppercase": "PAYA MENGKUANG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 268,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030119",
+      "name": "Perupok",
+      "name_uppercase": "PERUPOK",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 269,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030120",
+      "name": "Repek",
+      "name_uppercase": "REPEK",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 270,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030121",
+      "name": "Rusa",
+      "name_uppercase": "RUSA",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 271,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030122",
+      "name": "Senak",
+      "name_uppercase": "SENAK",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 272,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030123",
+      "name": "Serdang",
+      "name_uppercase": "SERDANG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 273,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030124",
+      "name": "Takang",
+      "name_uppercase": "TAKANG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 274,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030125",
+      "name": "Tanjong",
+      "name_uppercase": "TANJONG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 275,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030126",
+      "name": "Tanjong Jering",
+      "name_uppercase": "TANJONG JERING",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 276,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030127",
+      "name": "Tanjong Pauh",
+      "name_uppercase": "TANJONG PAUH",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 277,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030128",
+      "name": "Telok Mesira",
+      "name_uppercase": "TELOK MESIRA",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 278,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030129",
+      "name": "Telong",
+      "name_uppercase": "TELONG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 279,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030130",
+      "name": "Temu Ranggas",
+      "name_uppercase": "TEMU RANGGAS",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 280,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030131",
+      "name": "Tepus",
+      "name_uppercase": "TEPUS",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 281,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030132",
+      "name": "Tualang Salak",
+      "name_uppercase": "TUALANG SALAK",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 282,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030140",
+      "name": "Bandar Bachok",
+      "name_uppercase": "BANDAR BACHOK",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 283,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    },
+    {
+      "id": "030170",
+      "name": "Pekan Jelawat",
+      "name_uppercase": "PEKAN JELAWAT",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 284,
+      "state_slug": "kelantan",
+      "district_slug": "bachok"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Bachok, Kelantan - Muat turun percuma",
+    "description": "Senarai lengkap 34 mukim di daerah Bachok, negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 34 mukim (traditional sub-district units) in Bachok District, Kelantan, Malaysia. Mengandungi 34 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Bachok, Kelantan | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Bachok, Kelantan — 34 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 34 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "id": "ms-perak-perak-tengah-mukim",
+  "name": "Mukim di Daerah Perak Tengah, Perak",
+  "title": "Mukim di Daerah Perak Tengah, Perak",
+  "description": "Senarai lengkap 18 mukim di daerah Perak Tengah, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 18 mukim (traditional sub-district units) in Perak Tengah District, Perak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "081001",
+      "name": "Bandar",
+      "name_uppercase": "BANDAR",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 927,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081002",
+      "name": "Belanja",
+      "name_uppercase": "BELANJA",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 928,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081003",
+      "name": "Bota",
+      "name_uppercase": "BOTA",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 929,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081004",
+      "name": "Jaya Baru",
+      "name_uppercase": "JAYA BARU",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 930,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081005",
+      "name": "Kampong Gajah",
+      "name_uppercase": "KAMPONG GAJAH",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 931,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081006",
+      "name": "Kota Setia",
+      "name_uppercase": "KOTA SETIA",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 932,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081007",
+      "name": "Lambor Kanan",
+      "name_uppercase": "LAMBOR KANAN",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 933,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081008",
+      "name": "Lambor Kiri",
+      "name_uppercase": "LAMBOR KIRI",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 934,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081008",
+      "name": "Layang Layang",
+      "name_uppercase": "LAYANG LAYANG",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 935,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081010",
+      "name": "Pasir Panjang Hulu",
+      "name_uppercase": "PASIR PANJANG HULU",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 936,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081011",
+      "name": "Pasir Salak",
+      "name_uppercase": "PASIR SALAK",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 937,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081012",
+      "name": "Pulau Tiga",
+      "name_uppercase": "PULAU TIGA",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 938,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081040",
+      "name": "Bandar Bandar Seri Iskandar",
+      "name_uppercase": "BANDAR BANDAR SERI ISKANDAR",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 939,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081070",
+      "name": "Pekan Bota Kanan",
+      "name_uppercase": "PEKAN BOTA KANAN",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 940,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081071",
+      "name": "Pekan Kampong Buloh Akar",
+      "name_uppercase": "PEKAN KAMPONG BULOH AKAR",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 941,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081072",
+      "name": "Pekan Kota Setia",
+      "name_uppercase": "PEKAN KOTA SETIA",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 942,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081073",
+      "name": "Pekan Parit",
+      "name_uppercase": "PEKAN PARIT",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 943,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    },
+    {
+      "id": "081074",
+      "name": "Pekan Tanjong Belanja",
+      "name_uppercase": "PEKAN TANJONG BELANJA",
+      "district_id": "810",
+      "district": "Perak Tengah",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 944,
+      "state_slug": "perak",
+      "district_slug": "perak-tengah"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Perak Tengah, Perak - Muat turun percuma",
+    "description": "Senarai lengkap 18 mukim di daerah Perak Tengah, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 18 mukim (traditional sub-district units) in Perak Tengah District, Perak, Malaysia. Mengandungi 18 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Perak Tengah, Perak | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Perak Tengah, Perak — 18 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 18 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

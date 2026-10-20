@@ -1,0 +1,467 @@
+{
+  "id": "ms-pelabuhan",
+  "name": "Pelabuhan di Malaysia",
+  "title": "Pelabuhan di Malaysia",
+  "description": "Ports in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q139970657",
+      "name_ms": "",
+      "name_en": "Bakapit",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.95,
+      "longitude": 118.583333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139970657"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q111386925",
+      "name_ms": "",
+      "name_en": "Kemaman Harbor",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.25,
+      "longitude": 103.466667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111386925"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q6386846",
+      "name_ms": "",
+      "name_en": "Kemaman Port",
+      "admin_area_ms": "Kemaman",
+      "admin_area_en": "Kemaman",
+      "latitude": 4.25,
+      "longitude": 103.417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6386846"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q111387235",
+      "name_ms": "",
+      "name_en": "Kirteh Oil Terminal",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.566667,
+      "longitude": 103.466667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387235"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q111387236",
+      "name_ms": "",
+      "name_en": "Kuala Trengganu",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.35,
+      "longitude": 103.133333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387236"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q111387551",
+      "name_ms": "Kudat",
+      "name_en": "Kudat",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 6.883333,
+      "longitude": 116.85,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387551"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q111387569",
+      "name_ms": "",
+      "name_en": "Lahad Datu",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.016667,
+      "longitude": 118.316667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387569"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q30674119",
+      "name_ms": "",
+      "name_en": "Lumut Port",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.233333,
+      "longitude": 100.633333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30674119"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q111387601",
+      "name_ms": "",
+      "name_en": "Lutong",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.466667,
+      "longitude": 114,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387601"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q111386744",
+      "name_ms": "",
+      "name_en": "Malong Marine Terminal",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.633333,
+      "longitude": 104.816667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111386744"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q111387047",
+      "name_ms": "",
+      "name_en": "Melaka port",
+      "admin_area_ms": "Bandaraya Melaka",
+      "admin_area_en": "Malacca",
+      "latitude": 2.19101,
+      "longitude": 102.2452,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387047"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q111387600",
+      "name_ms": "",
+      "name_en": "Miri",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.383333,
+      "longitude": 113.966667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387600"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q111386924",
+      "name_ms": "",
+      "name_en": "Mostyn",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.683333,
+      "longitude": 118.25,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111386924"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q111387259",
+      "name_ms": "",
+      "name_en": "Muar",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 2.05,
+      "longitude": 102.566667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387259"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q4209004",
+      "name_ms": "Pelabuhan Johor",
+      "name_en": "Johor Port",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 1.438806,
+      "longitude": 103.905778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4209004"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q4209714",
+      "name_ms": "Pelabuhan Kuantan",
+      "name_en": "Kuantan Port",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 3.97,
+      "longitude": 103.43889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4209714"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q34963967",
+      "name_ms": "",
+      "name_en": "Pelabuhan Pasir Gudang",
+      "admin_area_ms": "Johor",
+      "admin_area_en": "Johor",
+      "latitude": 1.435,
+      "longitude": 103.901944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34963967"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q34963976",
+      "name_ms": "",
+      "name_en": "Pelabuhan Pending",
+      "admin_area_ms": "Sarawak",
+      "admin_area_en": "Sarawak",
+      "latitude": 1.554722,
+      "longitude": 110.389444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34963976"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q46349553",
+      "name_ms": "Pelabuhan Pulau Pinang",
+      "name_en": "Port of Penang",
+      "admin_area_ms": "Pulau Pinang",
+      "admin_area_en": "Penang",
+      "latitude": 5.4157,
+      "longitude": 100.36603,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q46349553"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q25480496",
+      "name_ms": "Pelabuhan Sandakan",
+      "name_en": "",
+      "admin_area_ms": "Bahagian Sandakan",
+      "admin_area_en": "Sandakan Division",
+      "latitude": 5.8116,
+      "longitude": 118.0845,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25480496"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q111387565",
+      "name_ms": "",
+      "name_en": "Pelabuhan Sandakan",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.833333,
+      "longitude": 118.116667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387565"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q111386753",
+      "name_ms": "",
+      "name_en": "Pelabuhan Sungai Udang",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 2.25,
+      "longitude": 102.133333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111386753"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q7683422",
+      "name_ms": "Pelabuhan Tanjung Langsat",
+      "name_en": "Tanjung Langsat Port",
+      "admin_area_ms": "Tanjung Langsat",
+      "admin_area_en": "Tanjung Langsat Port",
+      "latitude": 1.44333,
+      "longitude": 104.006,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7683422"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q821014",
+      "name_ms": "Pelabuhan Tanjung Pelepas",
+      "name_en": "Port of Tanjung Pelepas",
+      "admin_area_ms": "Iskandar Puteri",
+      "admin_area_en": "Iskandar Puteri",
+      "latitude": 1.366347,
+      "longitude": 103.548367,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q821014"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q111387194",
+      "name_ms": "Port Dickson",
+      "name_en": "Port Dickson",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 2.533333,
+      "longitude": 101.783333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387194"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q111387192",
+      "name_ms": "",
+      "name_en": "Port Klang",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 3,
+      "longitude": 101.4,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387192"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q111386724",
+      "name_ms": "",
+      "name_en": "Port Langkawi",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 6.433333,
+      "longitude": 99.766667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111386724"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q18392681",
+      "name_ms": "",
+      "name_en": "Port of Kuala Sungai Linggi",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 2.275,
+      "longitude": 101.983333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18392681"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q127789171",
+      "name_ms": "",
+      "name_en": "Port of Port Klang",
+      "admin_area_ms": "Daerah Klang",
+      "admin_area_en": "Klang District",
+      "latitude": 3,
+      "longitude": 101.4,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127789171"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q111386723",
+      "name_ms": "",
+      "name_en": "Sapangar Bay",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 6.083333,
+      "longitude": 116.116667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111386723"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q111387495",
+      "name_ms": "",
+      "name_en": "Sarikei",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 2.133333,
+      "longitude": 111.533333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387495"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q111387500",
+      "name_ms": "",
+      "name_en": "Sibu",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 2.283333,
+      "longitude": 111.816667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387500"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q111387237",
+      "name_ms": "",
+      "name_en": "Tapis Marine Terminal A",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.516667,
+      "longitude": 105.016667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387237"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q111387329",
+      "name_ms": "",
+      "name_en": "Tawa",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.25,
+      "longitude": 117.883333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387329"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q111387330",
+      "name_ms": "",
+      "name_en": "Teluk Anson",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.016667,
+      "longitude": 101.016667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111387330"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q111386927",
+      "name_ms": "",
+      "name_en": "TG. MANI",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 2.15,
+      "longitude": 111.35,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111386927"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan di Malaysia - Muat turun percuma",
+    "description": "Ports in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location). Mengandungi 36 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan di Malaysia | ListBase",
+    "seo_description": "Muat turun Pelabuhan di Malaysia — 36 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 36 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

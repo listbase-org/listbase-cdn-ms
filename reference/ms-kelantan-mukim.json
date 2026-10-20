@@ -1,0 +1,2932 @@
+{
+  "id": "ms-kelantan-mukim",
+  "name": "Mukim di Kelantan",
+  "title": "Mukim di Kelantan",
+  "description": "Senarai lengkap 319 mukim di negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 319 mukim (traditional sub-district units) in Kelantan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 319,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "030101",
+      "name": "Alor Bakat",
+      "name_uppercase": "ALOR BAKAT",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030102",
+      "name": "Backhok",
+      "name_uppercase": "BACKHOK",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030103",
+      "name": "Bator",
+      "name_uppercase": "BATOR",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030104",
+      "name": "Chap",
+      "name_uppercase": "CHAP",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030105",
+      "name": "Cherang Hangus",
+      "name_uppercase": "CHERANG HANGUS",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030106",
+      "name": "Gajah Mati",
+      "name_uppercase": "GAJAH MATI",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030107",
+      "name": "Gunong",
+      "name_uppercase": "GUNONG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030108",
+      "name": "Kuau",
+      "name_uppercase": "KUAU",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030109",
+      "name": "Kemasin",
+      "name_uppercase": "KEMASIN",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030110",
+      "name": "Kubang Telaga",
+      "name_uppercase": "KUBANG TELAGA",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030111",
+      "name": "Kuchelong",
+      "name_uppercase": "KUCHELONG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030112",
+      "name": "Lubok Tembesu",
+      "name_uppercase": "LUBOK TEMBESU",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030113",
+      "name": "Mak Lipah",
+      "name_uppercase": "MAK LIPAH",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030114",
+      "name": "Melawi",
+      "name_uppercase": "MELAWI",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030115",
+      "name": "Nipah",
+      "name_uppercase": "NIPAH",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030116",
+      "name": "Pak Pura",
+      "name_uppercase": "PAK PURA",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030117",
+      "name": "Pauh Sembilan",
+      "name_uppercase": "PAUH SEMBILAN",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030118",
+      "name": "Paya Mengkuang",
+      "name_uppercase": "PAYA MENGKUANG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030119",
+      "name": "Perupok",
+      "name_uppercase": "PERUPOK",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030120",
+      "name": "Repek",
+      "name_uppercase": "REPEK",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030121",
+      "name": "Rusa",
+      "name_uppercase": "RUSA",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030122",
+      "name": "Senak",
+      "name_uppercase": "SENAK",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030123",
+      "name": "Serdang",
+      "name_uppercase": "SERDANG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030124",
+      "name": "Takang",
+      "name_uppercase": "TAKANG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030125",
+      "name": "Tanjong",
+      "name_uppercase": "TANJONG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030126",
+      "name": "Tanjong Jering",
+      "name_uppercase": "TANJONG JERING",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030127",
+      "name": "Tanjong Pauh",
+      "name_uppercase": "TANJONG PAUH",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030128",
+      "name": "Telok Mesira",
+      "name_uppercase": "TELOK MESIRA",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030129",
+      "name": "Telong",
+      "name_uppercase": "TELONG",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030130",
+      "name": "Temu Ranggas",
+      "name_uppercase": "TEMU RANGGAS",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030131",
+      "name": "Tepus",
+      "name_uppercase": "TEPUS",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030132",
+      "name": "Tualang Salak",
+      "name_uppercase": "TUALANG SALAK",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030140",
+      "name": "Bandar Bachok",
+      "name_uppercase": "BANDAR BACHOK",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030170",
+      "name": "Pekan Jelawat",
+      "name_uppercase": "PEKAN JELAWAT",
+      "district_id": "301",
+      "district": "Bachok",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030201",
+      "name": "Aur Duri",
+      "name_uppercase": "AUR DURI",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030202",
+      "name": "Badak Mati",
+      "name_uppercase": "BADAK MATI",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030203",
+      "name": "Badak",
+      "name_uppercase": "BADAK",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030204",
+      "name": "Badang",
+      "name_uppercase": "BADANG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030205",
+      "name": "Banggu",
+      "name_uppercase": "BANGGU",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030206",
+      "name": "Banggol",
+      "name_uppercase": "BANGGOL",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030207",
+      "name": "Baung",
+      "name_uppercase": "BAUNG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030208",
+      "name": "Bayang",
+      "name_uppercase": "BAYANG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030209",
+      "name": "Bechah Mulong",
+      "name_uppercase": "BECHAH MULONG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030210",
+      "name": "Beta Hulu",
+      "name_uppercase": "BETA HULU",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030211",
+      "name": "Beta Hilir",
+      "name_uppercase": "BETA HILIR",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030212",
+      "name": "Beting",
+      "name_uppercase": "BETING",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030213",
+      "name": "Biah",
+      "name_uppercase": "BIAH",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030214",
+      "name": "Binjai",
+      "name_uppercase": "BINJAI",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030215",
+      "name": "Buloh Poh",
+      "name_uppercase": "BULOH POH",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030216",
+      "name": "Bunut Payong",
+      "name_uppercase": "BUNUT PAYONG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030217",
+      "name": "But",
+      "name_uppercase": "BUT",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030218",
+      "name": "Chekli",
+      "name_uppercase": "CHEKLI",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030219",
+      "name": "Chekok",
+      "name_uppercase": "CHEKOK",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030220",
+      "name": "Che Latiff",
+      "name_uppercase": "CHE LATIFF",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030221",
+      "name": "Chicha",
+      "name_uppercase": "CHICHA",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030222",
+      "name": "Dal",
+      "name_uppercase": "DAL",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030223",
+      "name": "Demit",
+      "name_uppercase": "DEMIT",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030224",
+      "name": "Duson Rendah",
+      "name_uppercase": "DUSON RENDAH",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030225",
+      "name": "Guntong",
+      "name_uppercase": "GUNTONG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030226",
+      "name": "Jelutong",
+      "name_uppercase": "JELUTONG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030227",
+      "name": "Kadok",
+      "name_uppercase": "KADOK",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030228",
+      "name": "Karang",
+      "name_uppercase": "KARANG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030229",
+      "name": "Kampong Sireh",
+      "name_uppercase": "KAMPONG SIREH",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030230",
+      "name": "Kedai Buloh",
+      "name_uppercase": "KEDAI BULOH",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030231",
+      "name": "Kijang",
+      "name_uppercase": "KIJANG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030232",
+      "name": "Kemubu",
+      "name_uppercase": "KEMUBU",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030233",
+      "name": "Kemumin",
+      "name_uppercase": "KEMUMIN",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030234",
+      "name": "Kenali",
+      "name_uppercase": "KENALI",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030235",
+      "name": "Ketereh Barat",
+      "name_uppercase": "KETEREH BARAT",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030236",
+      "name": "Ketereh Timor",
+      "name_uppercase": "KETEREH TIMOR",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030237",
+      "name": "Koh",
+      "name_uppercase": "KOH",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030238",
+      "name": "Kota",
+      "name_uppercase": "KOTA",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030239",
+      "name": "Langgar",
+      "name_uppercase": "LANGGAR",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030240",
+      "name": "Lembu",
+      "name_uppercase": "LEMBU",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030241",
+      "name": "Lubok Jambu",
+      "name_uppercase": "LUBOK JAMBU",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030242",
+      "name": "Lubok Pukol",
+      "name_uppercase": "LUBOK PUKOL",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030243",
+      "name": "Lundang",
+      "name_uppercase": "LUNDANG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030244",
+      "name": "Lundang Paku",
+      "name_uppercase": "LUNDANG PAKU",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030245",
+      "name": "Mahang Barat",
+      "name_uppercase": "MAHANG BARAT",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030246",
+      "name": "Mahang Timor",
+      "name_uppercase": "MAHANG TIMOR",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030247",
+      "name": "Mentuan",
+      "name_uppercase": "MENTUAN",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030248",
+      "name": "Melor",
+      "name_uppercase": "MELOR",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030249",
+      "name": "Padang Bongor",
+      "name_uppercase": "PADANG BONGOR",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030250",
+      "name": "Padang Enggang",
+      "name_uppercase": "PADANG ENGGANG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030251",
+      "name": "Padang Garong",
+      "name_uppercase": "PADANG GARONG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030252",
+      "name": "Padang Leban",
+      "name_uppercase": "PADANG LEBAN",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030253",
+      "name": "Padang Raja",
+      "name_uppercase": "PADANG RAJA",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030254",
+      "name": "Padang Sakar",
+      "name_uppercase": "PADANG SAKAR",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030255",
+      "name": "Padang Tengah",
+      "name_uppercase": "PADANG TENGAH",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030256",
+      "name": "Panchor",
+      "name_uppercase": "PANCHOR",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030257",
+      "name": "Pangkal Pisang",
+      "name_uppercase": "PANGKAL PISANG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030258",
+      "name": "Parit",
+      "name_uppercase": "PARIT",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030259",
+      "name": "Pasir Ha",
+      "name_uppercase": "PASIR HA",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030260",
+      "name": "Pasir Mas",
+      "name_uppercase": "PASIR MAS",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030261",
+      "name": "Patek",
+      "name_uppercase": "PATEK",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030262",
+      "name": "Pauh",
+      "name_uppercase": "PAUH",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030263",
+      "name": "Paya",
+      "name_uppercase": "PAYA",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030264",
+      "name": "Pendek",
+      "name_uppercase": "PENDEK",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030265",
+      "name": "Pangkalan Chepa",
+      "name_uppercase": "PANGKALAN CHEPA",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030266",
+      "name": "Peringat",
+      "name_uppercase": "PERINGAT",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030267",
+      "name": "Perol",
+      "name_uppercase": "PEROL",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030268",
+      "name": "Pintu Gang",
+      "name_uppercase": "PINTU GANG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030269",
+      "name": "Pulau",
+      "name_uppercase": "PULAU",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030270",
+      "name": "Pulau Belanga",
+      "name_uppercase": "PULAU BELANGA",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030271",
+      "name": "Pulau Gajah",
+      "name_uppercase": "PULAU GAJAH",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030272",
+      "name": "Pulau Kundor",
+      "name_uppercase": "PULAU KUNDOR",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030273",
+      "name": "Pulau Panjang",
+      "name_uppercase": "PULAU PANJANG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030274",
+      "name": "Pulau Pisang",
+      "name_uppercase": "PULAU PISANG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030275",
+      "name": "Sabak",
+      "name_uppercase": "SABAK",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030276",
+      "name": "Salor",
+      "name_uppercase": "SALOR",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030277",
+      "name": "Semut Api",
+      "name_uppercase": "SEMUT API",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030278",
+      "name": "Sering",
+      "name_uppercase": "SERING",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030279",
+      "name": "Seterpa",
+      "name_uppercase": "SETERPA",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030280",
+      "name": "Tangjong Chat",
+      "name_uppercase": "TANGJONG CHAT",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030281",
+      "name": "Tapang",
+      "name_uppercase": "TAPANG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030282",
+      "name": "Tebing Tinggi",
+      "name_uppercase": "TEBING TINGGI",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030283",
+      "name": "Telok",
+      "name_uppercase": "TELOK",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030284",
+      "name": "Telok Bharu",
+      "name_uppercase": "TELOK BHARU",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030285",
+      "name": "Telok Kitang",
+      "name_uppercase": "TELOK KITANG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030286",
+      "name": "Tiong",
+      "name_uppercase": "TIONG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030287",
+      "name": "Tok Ku",
+      "name_uppercase": "TOK KU",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030288",
+      "name": "Wakaf Stan",
+      "name_uppercase": "WAKAF STAN",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030289",
+      "name": "Wakaf Siku",
+      "name_uppercase": "WAKAF SIKU",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030290",
+      "name": "Bandar Kota Bharu",
+      "name_uppercase": "BANDAR KOTA BHARU",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030291",
+      "name": "Bandar Baru Kubang Kerian",
+      "name_uppercase": "BANDAR BARU KUBANG KERIAN",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030295",
+      "name": "Pekan Mulong",
+      "name_uppercase": "PEKAN MULONG",
+      "district_id": "302",
+      "district": "Kota Bharu",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030301",
+      "name": "Bagan",
+      "name_uppercase": "BAGAN",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030302",
+      "name": "Bakar",
+      "name_uppercase": "BAKAR",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030303",
+      "name": "Dewan",
+      "name_uppercase": "DEWAN",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030304",
+      "name": "Gading Galoh",
+      "name_uppercase": "GADING GALOH",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030305",
+      "name": "Jakar",
+      "name_uppercase": "JAKAR",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030306",
+      "name": "Joh",
+      "name_uppercase": "JOH",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030307",
+      "name": "Kelaweh",
+      "name_uppercase": "KELAWEH",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030308",
+      "name": "Kerawang",
+      "name_uppercase": "KERAWANG",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030309",
+      "name": "Kerilla",
+      "name_uppercase": "KERILLA",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030310",
+      "name": "Kuala Kerak",
+      "name_uppercase": "KUALA KERAK",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030311",
+      "name": "Labok",
+      "name_uppercase": "LABOK",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030312",
+      "name": "Limau Hantu",
+      "name_uppercase": "LIMAU HANTU",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030313",
+      "name": "Machang",
+      "name_uppercase": "MACHANG",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030314",
+      "name": "Padang Kemunchut",
+      "name_uppercase": "PADANG KEMUNCHUT",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030315",
+      "name": "Pek",
+      "name_uppercase": "PEK",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030316",
+      "name": "Pemanok",
+      "name_uppercase": "PEMANOK",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030317",
+      "name": "Pulau Chondong",
+      "name_uppercase": "PULAU CHONDONG",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030318",
+      "name": "Raja",
+      "name_uppercase": "RAJA",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030319",
+      "name": "Tengah",
+      "name_uppercase": "TENGAH",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030320",
+      "name": "Tok Bok",
+      "name_uppercase": "TOK BOK",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030321",
+      "name": "Ulu Sat",
+      "name_uppercase": "ULU SAT",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030340",
+      "name": "Bandar Machang",
+      "name_uppercase": "BANDAR MACHANG",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030371",
+      "name": "Pekan Temangan",
+      "name_uppercase": "PEKAN TEMANGAN",
+      "district_id": "303",
+      "district": "Machang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030401",
+      "name": "Alor Buloh",
+      "name_uppercase": "ALOR BULOH",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030402",
+      "name": "Alor Pasir",
+      "name_uppercase": "ALOR PASIR",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030403",
+      "name": "Apa-Apa",
+      "name_uppercase": "APA-APA",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030404",
+      "name": "Apam",
+      "name_uppercase": "APAM",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030405",
+      "name": "Bakong",
+      "name_uppercase": "BAKONG",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030406",
+      "name": "Bechah Menerong",
+      "name_uppercase": "BECHAH MENERONG",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030407",
+      "name": "Bechah Palas",
+      "name_uppercase": "BECHAH PALAS",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030408",
+      "name": "Bechah Semak",
+      "name_uppercase": "BECHAH SEMAK",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030409",
+      "name": "Bukit Tuku",
+      "name_uppercase": "BUKIT TUKU",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030410",
+      "name": "Chetok",
+      "name_uppercase": "CHETOK",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030411",
+      "name": "Gelam",
+      "name_uppercase": "GELAM",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030412",
+      "name": "Gua",
+      "name_uppercase": "GUA",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030413",
+      "name": "Gual Nering",
+      "name_uppercase": "GUAL NERING",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030414",
+      "name": "Gual Periok",
+      "name_uppercase": "GUAL PERIOK",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030415",
+      "name": "Jabo",
+      "name_uppercase": "JABO",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030416",
+      "name": "Jejawi",
+      "name_uppercase": "JEJAWI",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030417",
+      "name": "Kangkong",
+      "name_uppercase": "KANGKONG",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030418",
+      "name": "Kala",
+      "name_uppercase": "KALA",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030419",
+      "name": "Kasa",
+      "name_uppercase": "KASA",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030420",
+      "name": "Kedondong",
+      "name_uppercase": "KEDONDONG",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030421",
+      "name": "Kenak",
+      "name_uppercase": "KENAK",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030422",
+      "name": "Kerasak",
+      "name_uppercase": "KERASAK",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030423",
+      "name": "Kiat",
+      "name_uppercase": "KIAT",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030424",
+      "name": "Kuala Lemal",
+      "name_uppercase": "KUALA LEMAL",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030425",
+      "name": "Kubang Batang",
+      "name_uppercase": "KUBANG BATANG",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030426",
+      "name": "Kubang Bemban",
+      "name_uppercase": "KUBANG BEMBAN",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030427",
+      "name": "Kubang Gatal",
+      "name_uppercase": "KUBANG GATAL",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030428",
+      "name": "Kubang Gendang",
+      "name_uppercase": "KUBANG GENDANG",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030429",
+      "name": "Kubang Ketam",
+      "name_uppercase": "KUBANG KETAM",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030430",
+      "name": "Kubang Sepat",
+      "name_uppercase": "KUBANG SEPAT",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030431",
+      "name": "Kubang Terap",
+      "name_uppercase": "KUBANG TERAP",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030432",
+      "name": "Lalang",
+      "name_uppercase": "LALANG",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030433",
+      "name": "Lubok Anching",
+      "name_uppercase": "LUBOK ANCHING",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030434",
+      "name": "Lubok Gong",
+      "name_uppercase": "LUBOK GONG",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030435",
+      "name": "Lubok Kawah",
+      "name_uppercase": "LUBOK KAWAH",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030436",
+      "name": "Lubok Tapah",
+      "name_uppercase": "LUBOK TAPAH",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030437",
+      "name": "Lubok Setol",
+      "name_uppercase": "LUBOK SETOL",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030438",
+      "name": "Meranti",
+      "name_uppercase": "MERANTI",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030439",
+      "name": "Padang Embon",
+      "name_uppercase": "PADANG EMBON",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030440",
+      "name": "Paloh",
+      "name_uppercase": "PALOH",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030441",
+      "name": "Rantau Panjang",
+      "name_uppercase": "RANTAU PANJANG",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030442",
+      "name": "Sakar",
+      "name_uppercase": "SAKAR",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030443",
+      "name": "Tasik Berangan",
+      "name_uppercase": "TASIK BERANGAN",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030444",
+      "name": "Teliar",
+      "name_uppercase": "TELIAR",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030445",
+      "name": "Tedong",
+      "name_uppercase": "TEDONG",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030446",
+      "name": "Tok Sangkot",
+      "name_uppercase": "TOK SANGKOT",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030447",
+      "name": "Tok Uban",
+      "name_uppercase": "TOK UBAN",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030448",
+      "name": "Kuala Kelar",
+      "name_uppercase": "KUALA KELAR",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030450",
+      "name": "Bandar Pasir Mas",
+      "name_uppercase": "BANDAR PASIR MAS",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030470",
+      "name": "Pekan Rantau Panjang",
+      "name_uppercase": "PEKAN RANTAU PANJANG",
+      "district_id": "304",
+      "district": "Pasir Mas",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030501",
+      "name": "Banggol Setol",
+      "name_uppercase": "BANGGOL SETOL",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030502",
+      "name": "Batu Sebutir",
+      "name_uppercase": "BATU SEBUTIR",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030503",
+      "name": "Berangan",
+      "name_uppercase": "BERANGAN",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030504",
+      "name": "Bukit Abal Barat",
+      "name_uppercase": "BUKIT ABAL BARAT",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030505",
+      "name": "Bukit Abal Timor",
+      "name_uppercase": "BUKIT ABAL TIMOR",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030506",
+      "name": "Bukit Merbau",
+      "name_uppercase": "BUKIT MERBAU",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030507",
+      "name": "Bukit Tanah",
+      "name_uppercase": "BUKIT TANAH",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030508",
+      "name": "Cherang Ruku",
+      "name_uppercase": "CHERANG RUKU",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030509",
+      "name": "Changgai",
+      "name_uppercase": "CHANGGAI",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030510",
+      "name": "Gong Datok Barat",
+      "name_uppercase": "GONG DATOK BARAT",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030511",
+      "name": "Gong Datok Timor",
+      "name_uppercase": "GONG DATOK TIMOR",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030512",
+      "name": "Gong Chapa",
+      "name_uppercase": "GONG CHAPA",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030513",
+      "name": "Gong Chengal",
+      "name_uppercase": "GONG CHENGAL",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030514",
+      "name": "Gong Garu",
+      "name_uppercase": "GONG GARU",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030515",
+      "name": "Gong Kulim",
+      "name_uppercase": "GONG KULIM",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030516",
+      "name": "Gong Nangka",
+      "name_uppercase": "GONG NANGKA",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030517",
+      "name": "Gong Pachat",
+      "name_uppercase": "GONG PACHAT",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030518",
+      "name": "Jeram",
+      "name_uppercase": "JERAM",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030519",
+      "name": "Jerus",
+      "name_uppercase": "JERUS",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030520",
+      "name": "Kandis",
+      "name_uppercase": "KANDIS",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030521",
+      "name": "Kampong Wakaf",
+      "name_uppercase": "KAMPONG WAKAF",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030522",
+      "name": "Kolam Tembusu",
+      "name_uppercase": "KOLAM TEMBUSU",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030523",
+      "name": "Merbol",
+      "name_uppercase": "MERBOL",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030524",
+      "name": "Merkang",
+      "name_uppercase": "MERKANG",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030525",
+      "name": "Padang Pak Amat",
+      "name_uppercase": "PADANG PAK AMAT",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030526",
+      "name": "Pasir Puteh",
+      "name_uppercase": "PASIR PUTEH",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030527",
+      "name": "Pangkalan",
+      "name_uppercase": "PANGKALAN",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030528",
+      "name": "Permatang Sungkai",
+      "name_uppercase": "PERMATANG SUNGKAI",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030529",
+      "name": "Seligi",
+      "name_uppercase": "SELIGI",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030530",
+      "name": "Selinsing",
+      "name_uppercase": "SELINSING",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030531",
+      "name": "Semerak",
+      "name_uppercase": "SEMERAK",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030532",
+      "name": "Tasik",
+      "name_uppercase": "TASIK",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030533",
+      "name": "Telipok",
+      "name_uppercase": "TELIPOK",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030540",
+      "name": "Bandar Pasir Puteh",
+      "name_uppercase": "BANDAR PASIR PUTEH",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030570",
+      "name": "Pekan Selinsing",
+      "name_uppercase": "PEKAN SELINSING",
+      "district_id": "305",
+      "district": "Pasir Puteh",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030601",
+      "name": "Batang Merbau",
+      "name_uppercase": "BATANG MERBAU",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030603",
+      "name": "Bendang Nyior",
+      "name_uppercase": "BENDANG NYIOR",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030604",
+      "name": "Bukit Durian",
+      "name_uppercase": "BUKIT DURIAN",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030605",
+      "name": "Ulu Kusial",
+      "name_uppercase": "ULU KUSIAL",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030606",
+      "name": "Jedok",
+      "name_uppercase": "JEDOK",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030609",
+      "name": "Kuala Paku",
+      "name_uppercase": "KUALA PAKU",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030610",
+      "name": "Lawang",
+      "name_uppercase": "LAWANG",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030611",
+      "name": "Maka",
+      "name_uppercase": "MAKA",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030612",
+      "name": "Nibong",
+      "name_uppercase": "NIBONG",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030613",
+      "name": "Pasir Ganda",
+      "name_uppercase": "PASIR GANDA",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030614",
+      "name": "Rambai",
+      "name_uppercase": "RAMBAI",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030615",
+      "name": "Sokor",
+      "name_uppercase": "SOKOR",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030616",
+      "name": "Tanah Merah",
+      "name_uppercase": "TANAH MERAH",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030617",
+      "name": "Tebing Tinggi",
+      "name_uppercase": "TEBING TINGGI",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030640",
+      "name": "Bandar Tanah Merah",
+      "name_uppercase": "BANDAR TANAH MERAH",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030701",
+      "name": "Bechah Resak",
+      "name_uppercase": "BECHAH RESAK",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030702",
+      "name": "Bunohan",
+      "name_uppercase": "BUNOHAN",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030703",
+      "name": "Bunut Sarang Burong",
+      "name_uppercase": "BUNUT SARANG BURONG",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030704",
+      "name": "Chenderong Batu",
+      "name_uppercase": "CHENDERONG BATU",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030705",
+      "name": "Cherang Melintang",
+      "name_uppercase": "CHERANG MELINTANG",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030706",
+      "name": "Geting",
+      "name_uppercase": "GETING",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030707",
+      "name": "Jal",
+      "name_uppercase": "JAL",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030708",
+      "name": "Kampong Laut",
+      "name_uppercase": "KAMPONG LAUT",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030709",
+      "name": "Kelaboran",
+      "name_uppercase": "KELABORAN",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030710",
+      "name": "Ketil",
+      "name_uppercase": "KETIL",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030711",
+      "name": "Kok Keli",
+      "name_uppercase": "KOK KELI",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030712",
+      "name": "Kutang",
+      "name_uppercase": "KUTANG",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030713",
+      "name": "Mak Neralang",
+      "name_uppercase": "MAK NERALANG",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030714",
+      "name": "Morak",
+      "name_uppercase": "MORAK",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030715",
+      "name": "Pasir Pekan",
+      "name_uppercase": "PASIR PEKAN",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030716",
+      "name": "Palekbang",
+      "name_uppercase": "PALEKBANG",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030717",
+      "name": "Periok",
+      "name_uppercase": "PERIOK",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030718",
+      "name": "Pulau Besar",
+      "name_uppercase": "PULAU BESAR",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030719",
+      "name": "Selehong Selatan",
+      "name_uppercase": "SELEHONG SELATAN",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030720",
+      "name": "Selehong Utara",
+      "name_uppercase": "SELEHONG UTARA",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030721",
+      "name": "Simpangan",
+      "name_uppercase": "SIMPANGAN",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030722",
+      "name": "Sungai Pinang",
+      "name_uppercase": "SUNGAI PINANG",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030723",
+      "name": "Tabar",
+      "name_uppercase": "TABAR",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030724",
+      "name": "Talak",
+      "name_uppercase": "TALAK",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030725",
+      "name": "Telok Rejuna",
+      "name_uppercase": "TELOK REJUNA",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030726",
+      "name": "Tujoh",
+      "name_uppercase": "TUJOH",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030727",
+      "name": "Tumpat",
+      "name_uppercase": "TUMPAT",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030728",
+      "name": "Wakaf Bharu",
+      "name_uppercase": "WAKAF BHARU",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030729",
+      "name": "Wakaf Delima",
+      "name_uppercase": "WAKAF DELIMA",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030740",
+      "name": "Bandar Tumpat",
+      "name_uppercase": "BANDAR TUMPAT",
+      "district_id": "307",
+      "district": "Tumpat",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030801",
+      "name": "Batu Papan",
+      "name_uppercase": "BATU PAPAN",
+      "district_id": "308",
+      "district": "Gua Musang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030802",
+      "name": "Gua Musang",
+      "name_uppercase": "GUA MUSANG",
+      "district_id": "308",
+      "district": "Gua Musang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030803",
+      "name": "Ulu Nenggiri",
+      "name_uppercase": "ULU NENGGIRI",
+      "district_id": "308",
+      "district": "Gua Musang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030804",
+      "name": "Ketil",
+      "name_uppercase": "KETIL",
+      "district_id": "308",
+      "district": "Gua Musang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030805",
+      "name": "Kuala Sungai",
+      "name_uppercase": "KUALA SUNGAI",
+      "district_id": "308",
+      "district": "Gua Musang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030806",
+      "name": "Limau Kasturi",
+      "name_uppercase": "LIMAU KASTURI",
+      "district_id": "308",
+      "district": "Gua Musang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030807",
+      "name": "Pulai",
+      "name_uppercase": "PULAI",
+      "district_id": "308",
+      "district": "Gua Musang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030808",
+      "name": "Relai",
+      "name_uppercase": "RELAI",
+      "district_id": "308",
+      "district": "Gua Musang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030809",
+      "name": "Renok",
+      "name_uppercase": "RENOK",
+      "district_id": "308",
+      "district": "Gua Musang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "030840",
+      "name": "Bandar Gua Musang",
+      "name_uppercase": "BANDAR GUA MUSANG",
+      "district_id": "308",
+      "district": "Gua Musang",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031001",
+      "name": "Batu Mengkebang",
+      "name_uppercase": "BATU MENGKEBANG",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031002",
+      "name": "Enggong",
+      "name_uppercase": "ENGGONG",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031003",
+      "name": "Gajah",
+      "name_uppercase": "GAJAH",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031004",
+      "name": "Kandek",
+      "name_uppercase": "KANDEK",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031005",
+      "name": "Kenor",
+      "name_uppercase": "KENOR",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031006",
+      "name": "Kuala Geris",
+      "name_uppercase": "KUALA GERIS",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031007",
+      "name": "Kuala Krai",
+      "name_uppercase": "KUALA KRAI",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031008",
+      "name": "Kuala Nal",
+      "name_uppercase": "KUALA NAL",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031009",
+      "name": "Kuala Pahi",
+      "name_uppercase": "KUALA PAHI",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031010",
+      "name": "Kuala Pergau",
+      "name_uppercase": "KUALA PERGAU",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031011",
+      "name": "Kuala Stong",
+      "name_uppercase": "KUALA STONG",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031012",
+      "name": "Mambong",
+      "name_uppercase": "MAMBONG",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031013",
+      "name": "Manek Urai",
+      "name_uppercase": "MANEK URAI",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031014",
+      "name": "Manjor",
+      "name_uppercase": "MANJOR",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031015",
+      "name": "Telekong",
+      "name_uppercase": "TELEKONG",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031040",
+      "name": "Bandar Kuala Krai",
+      "name_uppercase": "BANDAR KUALA KRAI",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031101",
+      "name": "Belimbing",
+      "name_uppercase": "BELIMBING",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031102",
+      "name": "Bunga Tanjong",
+      "name_uppercase": "BUNGA TANJONG",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031103",
+      "name": "Jeli",
+      "name_uppercase": "JELI",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031104",
+      "name": "Jeli Tepi Sungai",
+      "name_uppercase": "JELI TEPI SUNGAI",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031105",
+      "name": "Kalai",
+      "name_uppercase": "KALAI",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031106",
+      "name": "Kuala Balah",
+      "name_uppercase": "KUALA BALAH",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031107",
+      "name": "Lubok Bongor",
+      "name_uppercase": "LUBOK BONGOR",
+      "district_id": "311",
+      "district": "Jeli",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031201",
+      "name": "Balar",
+      "name_uppercase": "BALAR",
+      "district_id": "312",
+      "district": "Kecil Lojing",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031201",
+      "name": "Kuala Betis",
+      "name_uppercase": "KUALA BETIS",
+      "district_id": "312",
+      "district": "Kecil Lojing",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031201",
+      "name": "Blau",
+      "name_uppercase": "BLAU",
+      "district_id": "312",
+      "district": "Kecil Lojing",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031201",
+      "name": "Hau",
+      "name_uppercase": "HAU",
+      "district_id": "312",
+      "district": "Kecil Lojing",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031201",
+      "name": "Hendrop",
+      "name_uppercase": "HENDROP",
+      "district_id": "312",
+      "district": "Kecil Lojing",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031201",
+      "name": "Sigar",
+      "name_uppercase": "SIGAR",
+      "district_id": "312",
+      "district": "Kecil Lojing",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "031201",
+      "name": "Tuel",
+      "name_uppercase": "TUEL",
+      "district_id": "312",
+      "district": "Kecil Lojing",
+      "state_id": "3",
+      "state": "Kelantan"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Kelantan - Muat turun percuma",
+    "description": "Senarai lengkap 319 mukim di negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 319 mukim (traditional sub-district units) in Kelantan, Malaysia. Mengandungi 319 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Kelantan | ListBase",
+    "seo_description": "Muat turun Mukim di Kelantan — 319 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 319 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "id": "ms-perak-manjung-mukim",
+  "name": "Mukim di Daerah Manjung, Perak",
+  "title": "Mukim di Daerah Manjung, Perak",
+  "description": "Senarai lengkap 21 mukim di daerah Manjung, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 21 mukim (traditional sub-district units) in Manjung District, Perak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "080201",
+      "name": "Beruas",
+      "name_uppercase": "BERUAS",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 785,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080202",
+      "name": "Lekir",
+      "name_uppercase": "LEKIR",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 786,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080203",
+      "name": "Lumut",
+      "name_uppercase": "LUMUT",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 787,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080204",
+      "name": "Pengkalan Baharu",
+      "name_uppercase": "PENGKALAN BAHARU",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 788,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080205",
+      "name": "Sitiawan",
+      "name_uppercase": "SITIAWAN",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 789,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080240",
+      "name": "Bandar Lumut",
+      "name_uppercase": "BANDAR LUMUT",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 790,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080270",
+      "name": "Pekan Ayer Tawar",
+      "name_uppercase": "PEKAN AYER TAWAR",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 791,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080271",
+      "name": "Pekan Beruas",
+      "name_uppercase": "PEKAN BERUAS",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 792,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080272",
+      "name": "Pekan Changkat Keruing",
+      "name_uppercase": "PEKAN CHANGKAT KERUING",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 793,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080273",
+      "name": "Pekan Damar Laut",
+      "name_uppercase": "PEKAN DAMAR LAUT",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 794,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080274",
+      "name": "Pekan Kampong Baharu",
+      "name_uppercase": "PEKAN KAMPONG BAHARU",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 795,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080275",
+      "name": "Pekan Kampong Koh",
+      "name_uppercase": "PEKAN KAMPONG KOH",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 796,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080276",
+      "name": "Pekan Kampong Sitiawan",
+      "name_uppercase": "PEKAN KAMPONG SITIAWAN",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 797,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080277",
+      "name": "Pekan Pangkor",
+      "name_uppercase": "PEKAN PANGKOR",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 798,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080278",
+      "name": "Pekan Pantai Remis",
+      "name_uppercase": "PEKAN PANTAI REMIS",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 799,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080279",
+      "name": "Pekan Pasir Bogak",
+      "name_uppercase": "PEKAN PASIR BOGAK",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 800,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080280",
+      "name": "Pekan Gurney",
+      "name_uppercase": "PEKAN GURNEY",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 801,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080281",
+      "name": "Pekan Pangkalan Baharu",
+      "name_uppercase": "PEKAN PANGKALAN BAHARU",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 802,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080282",
+      "name": "Pekan Segari",
+      "name_uppercase": "PEKAN SEGARI",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 803,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080283",
+      "name": "Pekan Sitiawan",
+      "name_uppercase": "PEKAN SITIAWAN",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 804,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    },
+    {
+      "id": "080284",
+      "name": "Pekan Sungai Pinang Kechil",
+      "name_uppercase": "PEKAN SUNGAI PINANG KECHIL",
+      "district_id": "802",
+      "district": "Manjung",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 805,
+      "state_slug": "perak",
+      "district_slug": "manjung"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Manjung, Perak - Muat turun percuma",
+    "description": "Senarai lengkap 21 mukim di daerah Manjung, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 21 mukim (traditional sub-district units) in Manjung District, Perak, Malaysia. Mengandungi 21 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Manjung, Perak | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Manjung, Perak — 21 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 21 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

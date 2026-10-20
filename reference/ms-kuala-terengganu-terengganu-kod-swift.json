@@ -1,0 +1,72 @@
+{
+  "id": "ms-kuala-terengganu-terengganu-kod-swift",
+  "name": "Kod SWIFT/BIC — Kuala Terengganu, Terengganu",
+  "title": "Kod SWIFT/BIC — Kuala Terengganu, Terengganu",
+  "description": "Senarai institusi kewangan di Kuala Terengganu, Terengganu (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Kuala Terengganu, Terengganu, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 142,
+      "bank": "FA SECURITIES SDN. BHD.",
+      "city": "KUALA TERENGGANU, TERENGGANU",
+      "branch": "",
+      "swift_code": "FASEMY21"
+    },
+    {
+      "id": 303,
+      "bank": "PTB UNIT TRUST BERHAD",
+      "city": "KUALA TERENGGANU, TERENGGANU",
+      "branch": "",
+      "swift_code": "PUTBMY21"
+    },
+    {
+      "id": 382,
+      "bank": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "city": "KUALA TERENGGANU, TERENGGANU",
+      "branch": "",
+      "swift_code": "UOVBMYK103T"
+    }
+  ],
+  "meta": {
+    "title": "Kod SWIFT/BIC — Kuala Terengganu, Terengganu - Muat turun percuma",
+    "description": "Senarai institusi kewangan di Kuala Terengganu, Terengganu (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Kuala Terengganu, Terengganu, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source. Mengandungi 3 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kod SWIFT/BIC — Kuala Terengganu, Terengganu | ListBase",
+    "seo_description": "Muat turun Kod SWIFT/BIC — Kuala Terengganu, Terengganu — 3 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 3 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

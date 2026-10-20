@@ -1,0 +1,376 @@
+{
+  "id": "ms-pulau-pinang-dun",
+  "name": "Senarai Dewan Undangan Negeri (DUN) Pulau Pinang",
+  "title": "Senarai Dewan Undangan Negeri (DUN) Pulau Pinang",
+  "description": "Senarai 40 kerusi Dewan Undangan Negeri (DUN) bagi negeri Pulau Pinang berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 40 State Legislative Assembly seats for Pulau Pinang; a verbatim per-state subset of the national ms-dun list.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_code",
+      "label": "Parlimen Code",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_name",
+      "label": "Parlimen Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "N01",
+      "name": "Penaga",
+      "parlimen_code": "P041",
+      "parlimen_name": "Kepala Batas",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N02",
+      "name": "Bertam",
+      "parlimen_code": "P041",
+      "parlimen_name": "Kepala Batas",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N03",
+      "name": "Pinang Tunggal",
+      "parlimen_code": "P041",
+      "parlimen_name": "Kepala Batas",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N04",
+      "name": "Permatang Berangan",
+      "parlimen_code": "P042",
+      "parlimen_name": "Tasek Gelugor",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N05",
+      "name": "Sungai Dua",
+      "parlimen_code": "P042",
+      "parlimen_name": "Tasek Gelugor",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N06",
+      "name": "Telok Ayer Tawar",
+      "parlimen_code": "P042",
+      "parlimen_name": "Tasek Gelugor",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N07",
+      "name": "Sungai Puyu",
+      "parlimen_code": "P043",
+      "parlimen_name": "Bagan",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N08",
+      "name": "Bagan Jermal",
+      "parlimen_code": "P043",
+      "parlimen_name": "Bagan",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N09",
+      "name": "Bagan Dalam",
+      "parlimen_code": "P043",
+      "parlimen_name": "Bagan",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N10",
+      "name": "Seberang Jaya",
+      "parlimen_code": "P044",
+      "parlimen_name": "Permatang Pauh",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N11",
+      "name": "Permatang Pasir",
+      "parlimen_code": "P044",
+      "parlimen_name": "Permatang Pauh",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N12",
+      "name": "Penanti",
+      "parlimen_code": "P044",
+      "parlimen_name": "Permatang Pauh",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N13",
+      "name": "Berapit",
+      "parlimen_code": "P045",
+      "parlimen_name": "Bukit Mertajam",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N14",
+      "name": "Machang Bubuk",
+      "parlimen_code": "P045",
+      "parlimen_name": "Bukit Mertajam",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N15",
+      "name": "Padang Lalang",
+      "parlimen_code": "P045",
+      "parlimen_name": "Bukit Mertajam",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N16",
+      "name": "Perai",
+      "parlimen_code": "P046",
+      "parlimen_name": "Batu Kawan",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N17",
+      "name": "Bukit Tengah",
+      "parlimen_code": "P046",
+      "parlimen_name": "Batu Kawan",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N18",
+      "name": "Bukit Tambun",
+      "parlimen_code": "P046",
+      "parlimen_name": "Batu Kawan",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N19",
+      "name": "Jawi",
+      "parlimen_code": "P047",
+      "parlimen_name": "Nibong Tebal",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N20",
+      "name": "Sungai Bakap",
+      "parlimen_code": "P047",
+      "parlimen_name": "Nibong Tebal",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N21",
+      "name": "Sungai Acheh",
+      "parlimen_code": "P047",
+      "parlimen_name": "Nibong Tebal",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N22",
+      "name": "Tanjong Bunga",
+      "parlimen_code": "P048",
+      "parlimen_name": "Bukit Bendera",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N23",
+      "name": "Air Putih",
+      "parlimen_code": "P048",
+      "parlimen_name": "Bukit Bendera",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N24",
+      "name": "Kebun Bunga",
+      "parlimen_code": "P048",
+      "parlimen_name": "Bukit Bendera",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N25",
+      "name": "Pulau Tikus",
+      "parlimen_code": "P048",
+      "parlimen_name": "Bukit Bendera",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N26",
+      "name": "Padang Kota",
+      "parlimen_code": "P049",
+      "parlimen_name": "Tanjong",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N27",
+      "name": "Pengkalan Kota",
+      "parlimen_code": "P049",
+      "parlimen_name": "Tanjong",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N28",
+      "name": "Komtar",
+      "parlimen_code": "P049",
+      "parlimen_name": "Tanjong",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N29",
+      "name": "Datok Keramat",
+      "parlimen_code": "P050",
+      "parlimen_name": "Jelutong",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N30",
+      "name": "Sungai Pinang",
+      "parlimen_code": "P050",
+      "parlimen_name": "Jelutong",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N31",
+      "name": "Batu Lancang",
+      "parlimen_code": "P050",
+      "parlimen_name": "Jelutong",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N32",
+      "name": "Seri Delima",
+      "parlimen_code": "P051",
+      "parlimen_name": "Bukit Gelugor",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N33",
+      "name": "Air Itam",
+      "parlimen_code": "P051",
+      "parlimen_name": "Bukit Gelugor",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N34",
+      "name": "Paya Terubong",
+      "parlimen_code": "P051",
+      "parlimen_name": "Bukit Gelugor",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N35",
+      "name": "Batu Uban",
+      "parlimen_code": "P052",
+      "parlimen_name": "Bayan Baru",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N36",
+      "name": "Pantai Jerejak",
+      "parlimen_code": "P052",
+      "parlimen_name": "Bayan Baru",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N37",
+      "name": "Batu Maung",
+      "parlimen_code": "P052",
+      "parlimen_name": "Bayan Baru",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N38",
+      "name": "Bayan Lepas",
+      "parlimen_code": "P053",
+      "parlimen_name": "Balik Pulau",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N39",
+      "name": "Pulau Betong",
+      "parlimen_code": "P053",
+      "parlimen_name": "Balik Pulau",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    },
+    {
+      "code": "N40",
+      "name": "Telok Bahang",
+      "parlimen_code": "P053",
+      "parlimen_name": "Balik Pulau",
+      "negeri": "Pulau Pinang",
+      "negeri_slug": "pulau-pinang"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Dewan Undangan Negeri (DUN) Pulau Pinang - Muat turun percuma",
+    "description": "Senarai 40 kerusi Dewan Undangan Negeri (DUN) bagi negeri Pulau Pinang berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 40 State Legislative Assembly seats for Pulau Pinang; a verbatim per-state subset of the national ms-dun list. Mengandungi 40 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Dewan Undangan Negeri (DUN) Pulau Pinang | ListBase",
+    "seo_description": "Muat turun Senarai Dewan Undangan Negeri (DUN) Pulau Pinang — 40 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 40 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

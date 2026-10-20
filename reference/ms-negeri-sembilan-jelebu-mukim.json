@@ -1,0 +1,244 @@
+{
+  "id": "ms-negeri-sembilan-jelebu-mukim",
+  "name": "Mukim di Daerah Jelebu, Negeri Sembilan",
+  "title": "Mukim di Daerah Jelebu, Negeri Sembilan",
+  "description": "Senarai lengkap 14 mukim di daerah Jelebu, negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 14 mukim (traditional sub-district units) in Jelebu District, Negeri Sembilan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "050101",
+      "name": "Gelami Lemi",
+      "name_uppercase": "GELAMI LEMI",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1312,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    },
+    {
+      "id": "050102",
+      "name": "Kenaboi",
+      "name_uppercase": "KENABOI",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1313,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    },
+    {
+      "id": "050103",
+      "name": "Kuala Kelawang",
+      "name_uppercase": "KUALA KELAWANG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1314,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    },
+    {
+      "id": "050104",
+      "name": "Peradong",
+      "name_uppercase": "PERADONG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1315,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    },
+    {
+      "id": "050105",
+      "name": "Pertang",
+      "name_uppercase": "PERTANG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1316,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    },
+    {
+      "id": "050106",
+      "name": "Teriang Hilir",
+      "name_uppercase": "TERIANG HILIR",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1317,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    },
+    {
+      "id": "050140",
+      "name": "Bandar Kuala Kelawang",
+      "name_uppercase": "BANDAR KUALA KELAWANG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1318,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    },
+    {
+      "id": "050170",
+      "name": "Pekan Kuala Kelawang",
+      "name_uppercase": "PEKAN KUALA KELAWANG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1319,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    },
+    {
+      "id": "050171",
+      "name": "Pekan Pertang",
+      "name_uppercase": "PEKAN PERTANG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1320,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    },
+    {
+      "id": "050172",
+      "name": "Pekan Titi",
+      "name_uppercase": "PEKAN TITI",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1321,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    },
+    {
+      "id": "050173",
+      "name": "Pekan Simpang Durian",
+      "name_uppercase": "PEKAN SIMPANG DURIAN",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1322,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    },
+    {
+      "id": "050174",
+      "name": "Pekan Simpang Pertang",
+      "name_uppercase": "PEKAN SIMPANG PERTANG",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1323,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    },
+    {
+      "id": "050175",
+      "name": "Pekan Petaling",
+      "name_uppercase": "PEKAN PETALING",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1324,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    },
+    {
+      "id": "050176",
+      "name": "Pekan Sungai Muntoh",
+      "name_uppercase": "PEKAN SUNGAI MUNTOH",
+      "district_id": "501",
+      "district": "Jelebu",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1325,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "jelebu"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Jelebu, Negeri Sembilan - Muat turun percuma",
+    "description": "Senarai lengkap 14 mukim di daerah Jelebu, negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 14 mukim (traditional sub-district units) in Jelebu District, Negeri Sembilan, Malaysia. Mengandungi 14 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Jelebu, Negeri Sembilan | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Jelebu, Negeri Sembilan — 14 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 14 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

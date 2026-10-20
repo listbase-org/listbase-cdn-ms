@@ -1,0 +1,292 @@
+{
+  "id": "ms-johor-mersing-mukim",
+  "name": "Mukim di Daerah Mersing, Johor",
+  "title": "Mukim di Daerah Mersing, Johor",
+  "description": "Senarai lengkap 18 mukim di daerah Mersing, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 18 mukim (traditional sub-district units) in Mersing District, Johor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "010501",
+      "name": "Jemaluang",
+      "name_uppercase": "JEMALUANG",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1629,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010502",
+      "name": "Lenggor",
+      "name_uppercase": "LENGGOR",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1630,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010503",
+      "name": "Mersing",
+      "name_uppercase": "MERSING",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1631,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010504",
+      "name": "Padang Endau",
+      "name_uppercase": "PADANG ENDAU",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1632,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010505",
+      "name": "Penyabong",
+      "name_uppercase": "PENYABONG",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1633,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010506",
+      "name": "Pulau Aur",
+      "name_uppercase": "PULAU AUR",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1634,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010507",
+      "name": "Pulau Babi",
+      "name_uppercase": "PULAU BABI",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1635,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010508",
+      "name": "Pulau Pemanggil",
+      "name_uppercase": "PULAU PEMANGGIL",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1636,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010509",
+      "name": "Pulau Sibu",
+      "name_uppercase": "PULAU SIBU",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1637,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010510",
+      "name": "Pulau Tinggi",
+      "name_uppercase": "PULAU TINGGI",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1638,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010511",
+      "name": "Sembrong",
+      "name_uppercase": "SEMBRONG",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1639,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010512",
+      "name": "Tenggaroh",
+      "name_uppercase": "TENGGAROH",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1640,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010513",
+      "name": "Tenglu",
+      "name_uppercase": "TENGLU",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1641,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010514",
+      "name": "Triang",
+      "name_uppercase": "TRIANG",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1642,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010540",
+      "name": "Bandar Jemaluang",
+      "name_uppercase": "BANDAR JEMALUANG",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1643,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010541",
+      "name": "Bandar Mersing",
+      "name_uppercase": "BANDAR MERSING",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1644,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010542",
+      "name": "Bandar Mersing Kanan",
+      "name_uppercase": "BANDAR MERSING KANAN",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1645,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    },
+    {
+      "id": "010543",
+      "name": "Bandar Padang Endau",
+      "name_uppercase": "BANDAR PADANG ENDAU",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1646,
+      "state_slug": "johor",
+      "district_slug": "mersing"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Mersing, Johor - Muat turun percuma",
+    "description": "Senarai lengkap 18 mukim di daerah Mersing, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 18 mukim (traditional sub-district units) in Mersing District, Johor, Malaysia. Mengandungi 18 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Mersing, Johor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Mersing, Johor — 18 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 18 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

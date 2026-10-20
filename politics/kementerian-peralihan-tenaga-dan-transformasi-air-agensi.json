@@ -1,0 +1,346 @@
+{
+  "id": "kementerian-peralihan-tenaga-dan-transformasi-air-agensi",
+  "name": "Senarai Agensi KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA)",
+  "title": "Senarai Agensi KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA)",
+  "description": "Senarai 10 agensi kerajaan di bawah KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA) (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 10/10 koordinat, 10/10 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bahagian Bekalan Air",
+      "parent_body": "KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA)",
+      "parent_body_slug": "kementerian-peralihan-tenaga-dan-transformasi-air",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Bahagian Bekalan Air (BBA)",
+      "address": "Blok B, Aras 2 & 3, Suasana PjH , No 2, Jalan Tun Abdul Razak , Presint 2, 62100 , Wilayah Persekutuan Putrajaya",
+      "phone": "03-88836369",
+      "fax": "03-88619010",
+      "email": "aduan@jba.gov.my",
+      "contact_person": "Korporat",
+      "website": "https://www.kasa.gov.my/",
+      "latitude": "2.9428954",
+      "longitude": "101.7070513",
+      "facebook": "https://www.facebook.com/BahagianBekalanAir",
+      "twitter": "",
+      "instagram": "https://www.instagram.com/bbaputrajaya/",
+      "youtube": "",
+      "unique_code": "M-2023-NRECC",
+      "active": true,
+      "agency_id": 42148
+    },
+    {
+      "name": "Indah Water Konsortium",
+      "parent_body": "KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA)",
+      "parent_body_slug": "kementerian-peralihan-tenaga-dan-transformasi-air",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Indah Water Konsortium (IWK)",
+      "address": "No. 44, Jalan Dungun, Damansara Heights , 50490 Kuala Lumpur",
+      "phone": "603-27801100",
+      "fax": "603-27801101",
+      "email": "care@iwk.com.my",
+      "contact_person": "Corporate Communications Department",
+      "website": "https://www.iwk.com.my/",
+      "latitude": "3.1532465",
+      "longitude": "101.6634433",
+      "facebook": "https://www.facebook.com/IndahWaterKonsortium",
+      "twitter": "",
+      "instagram": "https://www.instagram.com/iwk_official/",
+      "youtube": "",
+      "unique_code": "M-2023-NRECC",
+      "active": true,
+      "agency_id": 42150
+    },
+    {
+      "name": "INSTITUT PENYELIDIKAN AIR KEBANGSAAN MALAYSIA (NAHRIM)",
+      "parent_body": "KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA)",
+      "parent_body_slug": "kementerian-peralihan-tenaga-dan-transformasi-air",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "INSTITUT PENYELIDIKAN AIR KEBANGSAAN MALAYSIA (NAHRIM)",
+      "address": "Lot 5377, Jalan Putra Permai, 43300 Seri Kembangan, Selangor Darul Ehsan, Malaysia",
+      "phone": "603-8947 6400",
+      "fax": "03-8948 3044",
+      "email": "webmaster@nahrim.gov.my",
+      "contact_person": "Webmaster",
+      "website": "http://www.nahrim.gov.my/",
+      "latitude": "3.002537",
+      "longitude": "101.685071",
+      "facebook": "https://www.facebook.com/nahrimkats",
+      "twitter": "https://twitter.com/nahrimkats",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/user/nahrimnre",
+      "unique_code": "PAP-07-02-00",
+      "active": true,
+      "agency_id": 20182
+    },
+    {
+      "name": "JABATAN PENGAIRAN DAN SALIRAN (JPS)",
+      "parent_body": "KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA)",
+      "parent_body_slug": "kementerian-peralihan-tenaga-dan-transformasi-air",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "JABATAN PENGAIRAN DAN SALIRAN (JPS)",
+      "address": "Jalan Sultan Salahuddin, 50626 Kuala Lumpur, Malaysia.",
+      "phone": "603-2616 1500",
+      "fax": "03-2698 7973",
+      "email": "pro@water.gov.my",
+      "contact_person": "hana",
+      "website": "http://www.water.gov.my",
+      "latitude": "3.154716",
+      "longitude": "101.689146",
+      "facebook": "https://www.facebook.com/JPSMalaysia",
+      "twitter": "https://twitter.com/did_malaysia",
+      "instagram": "https://www.instagram.com/jpsmalaysia/?hl=en",
+      "youtube": "",
+      "unique_code": "PAP-07-07-00",
+      "active": true,
+      "agency_id": 20202
+    },
+    {
+      "name": "Jabatan Perkhidmatan Pembetungan",
+      "parent_body": "KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA)",
+      "parent_body_slug": "kementerian-peralihan-tenaga-dan-transformasi-air",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Jabatan Perkhidmatan Pembetungan (JPP)",
+      "address": "Blok B, Aras 2 & 3, Suasana PjH , No 2, Jalan Tun Abdul Razak, Presint 2 , 62100 , Wilayah Persekutuan Putrajaya",
+      "phone": "03-88619000",
+      "fax": "03-88619010",
+      "email": "khidmatpelanggan@jpp.gov.my",
+      "contact_person": "Khidmat Pelanggan",
+      "website": "https://www.jpp.gov.my/ FB:",
+      "latitude": "2.9276093",
+      "longitude": "101.6845913",
+      "facebook": "https://www.facebook.com/JPPKasa",
+      "twitter": "",
+      "instagram": "https://www.instagram.com/jppkasa/",
+      "youtube": "",
+      "unique_code": "M-2023-NRECC",
+      "active": true,
+      "agency_id": 42154
+    },
+    {
+      "name": "Malaysia Programme Office for Power Electricity Reform (MyPower)",
+      "parent_body": "KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA)",
+      "parent_body_slug": "kementerian-peralihan-tenaga-dan-transformasi-air",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Malaysia Programme Office for Power Electricity Reform (MyPower)",
+      "address": "Unit T2-L19-3, Level 19 , IOI City Tower Two, Lebuh IRC, IOI Resort City , 62502, Wilayah Persekutuan Putrajaya",
+      "phone": "603-80008000",
+      "fax": "603-88892672",
+      "email": "webmaster@nrecc.gov.my",
+      "contact_person": "Korporat",
+      "website": "https://www.ketsa.gov.my/en-my/Pages/default.aspx",
+      "latitude": "2.9692381",
+      "longitude": "101.7091459",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "M-2023-NRECC",
+      "active": true,
+      "agency_id": 42152
+    },
+    {
+      "name": "PENGURUSAN ASET AIR BERHAD (PAAB)",
+      "parent_body": "KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA)",
+      "parent_body_slug": "kementerian-peralihan-tenaga-dan-transformasi-air",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "PENGURUSAN ASET AIR BERHAD (PAAB)",
+      "address": "9th Floor, Menara FELDA, Platinum Park, No. 11, Persiaran KLCC, 50088 Kuala Lumpur",
+      "phone": "603-2614 5555",
+      "fax": "",
+      "email": "comms@paab.my",
+      "contact_person": "Webmaster",
+      "website": "https://www.paab.my/",
+      "latitude": "3.1553639",
+      "longitude": "101.7161755",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "LL-PAAB",
+      "active": true,
+      "agency_id": 42852
+    },
+    {
+      "name": "PIHAK BERKUASA PEMBANGUNAN TENAGA LESTARI MALAYSIA (SEDA)",
+      "parent_body": "KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA)",
+      "parent_body_slug": "kementerian-peralihan-tenaga-dan-transformasi-air",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "PIHAK BERKUASA PEMBANGUNAN TENAGA LESTARI MALAYSIA (SEDA)",
+      "address": "Galeria PjH, Aras 9, Jalan P4W, Persiaran Perdana, Presint 4, 62100 Putrajaya",
+      "phone": "603-8870 5800",
+      "fax": "03-8870 5900",
+      "email": "enquiry@seda.gov.my",
+      "contact_person": "enquiry",
+      "website": "http://www.seda.gov.my/",
+      "latitude": "2.912773",
+      "longitude": "101.684187",
+      "facebook": "https://web.facebook.com/SustainableEnergyDevelopmentAuthoritySEDAMalaysia/?_rdc=1&_rdr",
+      "twitter": "https://twitter.com/SEDAMalaysia",
+      "instagram": "https://www.instagram.com/sedamalaysia/",
+      "youtube": "https://www.youtube.com/channel/UCXJ-dWRiLgj_Kh84X0WYFoQ",
+      "unique_code": "PUB-358-00",
+      "active": true,
+      "agency_id": 30037
+    },
+    {
+      "name": "SURUHANJAYA PERKHIDMATAN AIR NEGARA (SPAN)",
+      "parent_body": "KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA)",
+      "parent_body_slug": "kementerian-peralihan-tenaga-dan-transformasi-air",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Suruhanjaya Perkhidmatan Air Negara (SPAN)",
+      "address": "HEADQUARTERS National Water Services Commission, Ground and 1st Floor , Prima Avenue 7, Block 3510, Jalan Teknokrat 6, 63000 Cyberjaya",
+      "phone": "603-83179333/334/335",
+      "fax": "603-83179336/9339",
+      "email": "span@span.gov.my",
+      "contact_person": "a",
+      "website": "http://www.span.gov.my",
+      "latitude": "2.920194",
+      "longitude": "101.657459",
+      "facebook": "https://www.facebook.com/span.my",
+      "twitter": "https://twitter.com/span_malaysia",
+      "instagram": "https://www.instagram.com/span_malaysia/",
+      "youtube": "",
+      "unique_code": "PUB-14212-00",
+      "active": true,
+      "agency_id": 41291
+    },
+    {
+      "name": "SURUHANJAYA TENAGA (EC)",
+      "parent_body": "KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA)",
+      "parent_body_slug": "kementerian-peralihan-tenaga-dan-transformasi-air",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Suruhanjaya Tenaga",
+      "address": "No. 12, Jalan Tun Hussein, Presint 2, 62100, Putrajaya",
+      "phone": "603-8870 8500",
+      "fax": "03-8888 8637",
+      "email": "asma@st.gov.my",
+      "contact_person": "Asma Aini binti Mohd Nadzri (Pengarah Jabatan Perkhidmatan Korporat)",
+      "website": "https://www.st.gov.my/ms/",
+      "latitude": "2.919323",
+      "longitude": "101.688525",
+      "facebook": "https://web.facebook.com/Suruhanjaya-Tenaga-Energy-Commission-of-Malaysia-288489677869515/?_rdc=1&_rdr",
+      "twitter": "https://twitter.com/ST_Malaysia",
+      "instagram": "https://www.instagram.com/st_malaysia/",
+      "youtube": "https://www.youtube.com/user/stportal",
+      "unique_code": "PUB-14308-00",
+      "active": true,
+      "agency_id": 41389
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA) - Muat turun percuma",
+    "description": "Senarai 10 agensi kerajaan di bawah KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA) (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 10/10 koordinat, 10/10 laman web. Mengandungi 10 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA) | ListBase",
+    "seo_description": "Muat turun Senarai Agensi KEMENTERIAN PERALIHAN TENAGA DAN TRANSFORMASI AIR (PETRA) — 10 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 10 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

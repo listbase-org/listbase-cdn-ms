@@ -1,0 +1,808 @@
+{
+  "id": "ms-pasukan-bola-sepak-kebangsaan-malaysia-rekod-menentang-lawan",
+  "name": "Pasukan bola sepak kebangsaan Malaysia — rekod menentang setiap lawan (67)",
+  "title": "Pasukan bola sepak kebangsaan Malaysia — rekod menentang setiap lawan (67)",
+  "description": "Pasukan bola sepak kebangsaan Malaysia: Rekod keseluruhan menentang setiap lawan, dikira daripada semua perlawanan dalam results.csv: perlawanan, menang, seri, kalah, gol dijaringkan dan dibolosi, perlawanan pertama dan terakhir. Keputusan berdasarkan skor akhir (tanpa penentuan penalti). Disusun mengikut bilangan perlawanan.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "lawan",
+      "label": "Lawan",
+      "type": "string"
+    },
+    {
+      "key": "perlawanan",
+      "label": "Perlawanan",
+      "type": "number"
+    },
+    {
+      "key": "menang",
+      "label": "Menang",
+      "type": "number"
+    },
+    {
+      "key": "seri",
+      "label": "Seri",
+      "type": "number"
+    },
+    {
+      "key": "kalah",
+      "label": "Kalah",
+      "type": "number"
+    },
+    {
+      "key": "gol_dijaringkan",
+      "label": "Gol Dijaringkan",
+      "type": "number"
+    },
+    {
+      "key": "gol_dibolosi",
+      "label": "Gol Dibolosi",
+      "type": "number"
+    },
+    {
+      "key": "perlawanan_pertama",
+      "label": "Perlawanan Pertama",
+      "type": "date"
+    },
+    {
+      "key": "perlawanan_terakhir",
+      "label": "Perlawanan Terakhir",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "lawan": "Thailand",
+      "perlawanan": 99,
+      "menang": 38,
+      "seri": 31,
+      "kalah": 30,
+      "gol_dijaringkan": 142,
+      "gol_dibolosi": 138,
+      "perlawanan_pertama": "1959-12-14",
+      "perlawanan_terakhir": "2026-08-01"
+    },
+    {
+      "lawan": "Singapore",
+      "perlawanan": 74,
+      "menang": 28,
+      "seri": 26,
+      "kalah": 20,
+      "gol_dijaringkan": 112,
+      "gol_dibolosi": 86,
+      "perlawanan_pertama": "1958-03-01",
+      "perlawanan_terakhir": "2025-09-04"
+    },
+    {
+      "lawan": "Indonesia",
+      "perlawanan": 72,
+      "menang": 24,
+      "seri": 16,
+      "kalah": 32,
+      "gol_dijaringkan": 96,
+      "gol_dibolosi": 121,
+      "perlawanan_pertama": "1957-09-07",
+      "perlawanan_terakhir": "2021-12-19"
+    },
+    {
+      "lawan": "South Korea",
+      "perlawanan": 58,
+      "menang": 9,
+      "seri": 16,
+      "kalah": 33,
+      "gol_dijaringkan": 54,
+      "gol_dibolosi": 103,
+      "perlawanan_pertama": "1953-04-16",
+      "perlawanan_terakhir": "2024-01-25"
+    },
+    {
+      "lawan": "Myanmar",
+      "perlawanan": 56,
+      "menang": 25,
+      "seri": 10,
+      "kalah": 21,
+      "gol_dijaringkan": 91,
+      "gol_dibolosi": 72,
+      "perlawanan_pertama": "1957-09-01",
+      "perlawanan_terakhir": "2026-07-25"
+    },
+    {
+      "lawan": "Vietnam Republic",
+      "perlawanan": 38,
+      "menang": 15,
+      "seri": 8,
+      "kalah": 15,
+      "gol_dijaringkan": 65,
+      "gol_dibolosi": 69,
+      "perlawanan_pertama": "1956-05-03",
+      "perlawanan_terakhir": "1975-03-23"
+    },
+    {
+      "lawan": "Cambodia",
+      "perlawanan": 32,
+      "menang": 24,
+      "seri": 4,
+      "kalah": 4,
+      "gol_dijaringkan": 97,
+      "gol_dibolosi": 31,
+      "perlawanan_pertama": "1956-03-17",
+      "perlawanan_terakhir": "2024-12-08"
+    },
+    {
+      "lawan": "Hong Kong",
+      "perlawanan": 28,
+      "menang": 11,
+      "seri": 9,
+      "kalah": 8,
+      "gol_dijaringkan": 40,
+      "gol_dibolosi": 32,
+      "perlawanan_pertama": "1958-06-04",
+      "perlawanan_terakhir": "2023-03-28"
+    },
+    {
+      "lawan": "India",
+      "perlawanan": 26,
+      "menang": 9,
+      "seri": 8,
+      "kalah": 9,
+      "gol_dijaringkan": 46,
+      "gol_dibolosi": 37,
+      "perlawanan_pertama": "1957-02-16",
+      "perlawanan_terakhir": "2024-11-18"
+    },
+    {
+      "lawan": "Vietnam",
+      "perlawanan": 26,
+      "menang": 6,
+      "seri": 3,
+      "kalah": 17,
+      "gol_dijaringkan": 24,
+      "gol_dibolosi": 38,
+      "perlawanan_pertama": "1991-11-30",
+      "perlawanan_terakhir": "2026-08-19"
+    },
+    {
+      "lawan": "Japan",
+      "perlawanan": 25,
+      "menang": 9,
+      "seri": 7,
+      "kalah": 9,
+      "gol_dijaringkan": 42,
+      "gol_dibolosi": 38,
+      "perlawanan_pertama": "1958-12-28",
+      "perlawanan_terakhir": "2004-02-07"
+    },
+    {
+      "lawan": "Laos",
+      "perlawanan": 23,
+      "menang": 17,
+      "seri": 5,
+      "kalah": 1,
+      "gol_dijaringkan": 74,
+      "gol_dibolosi": 13,
+      "perlawanan_pertama": "1968-11-24",
+      "perlawanan_terakhir": "2026-07-28"
+    },
+    {
+      "lawan": "Philippines",
+      "perlawanan": 20,
+      "menang": 13,
+      "seri": 6,
+      "kalah": 1,
+      "gol_dijaringkan": 66,
+      "gol_dibolosi": 5,
+      "perlawanan_pertama": "1962-08-26",
+      "perlawanan_terakhir": "2026-08-08"
+    },
+    {
+      "lawan": "Taiwan",
+      "perlawanan": 15,
+      "menang": 7,
+      "seri": 2,
+      "kalah": 6,
+      "gol_dijaringkan": 26,
+      "gol_dibolosi": 21,
+      "perlawanan_pertama": "1958-05-25",
+      "perlawanan_terakhir": "2024-06-11"
+    },
+    {
+      "lawan": "Bahrain",
+      "perlawanan": 14,
+      "menang": 2,
+      "seri": 4,
+      "kalah": 8,
+      "gol_dijaringkan": 15,
+      "gol_dibolosi": 26,
+      "perlawanan_pertama": "1977-09-08",
+      "perlawanan_terakhir": "2024-01-20"
+    },
+    {
+      "lawan": "China",
+      "perlawanan": 13,
+      "menang": 1,
+      "seri": 3,
+      "kalah": 9,
+      "gol_dijaringkan": 7,
+      "gol_dibolosi": 31,
+      "perlawanan_pertama": "1976-05-06",
+      "perlawanan_terakhir": "2023-09-09"
+    },
+    {
+      "lawan": "Kuwait",
+      "perlawanan": 13,
+      "menang": 2,
+      "seri": 2,
+      "kalah": 9,
+      "gol_dijaringkan": 8,
+      "gol_dibolosi": 32,
+      "perlawanan_pertama": "1973-07-26",
+      "perlawanan_terakhir": "2013-11-08"
+    },
+    {
+      "lawan": "New Zealand",
+      "perlawanan": 13,
+      "menang": 2,
+      "seri": 2,
+      "kalah": 9,
+      "gol_dijaringkan": 9,
+      "gol_dibolosi": 32,
+      "perlawanan_pertama": "1967-11-16",
+      "perlawanan_terakhir": "2024-10-14"
+    },
+    {
+      "lawan": "Saudi Arabia",
+      "perlawanan": 12,
+      "menang": 1,
+      "seri": 2,
+      "kalah": 9,
+      "gol_dijaringkan": 8,
+      "gol_dibolosi": 27,
+      "perlawanan_pertama": "1980-03-12",
+      "perlawanan_terakhir": "2016-03-24"
+    },
+    {
+      "lawan": "United Arab Emirates",
+      "perlawanan": 11,
+      "menang": 2,
+      "seri": 0,
+      "kalah": 9,
+      "gol_dijaringkan": 6,
+      "gol_dibolosi": 29,
+      "perlawanan_pertama": "1980-09-20",
+      "perlawanan_terakhir": "2021-06-03"
+    },
+    {
+      "lawan": "Bangladesh",
+      "perlawanan": 10,
+      "menang": 7,
+      "seri": 2,
+      "kalah": 1,
+      "gol_dijaringkan": 20,
+      "gol_dibolosi": 4,
+      "perlawanan_pertama": "1975-08-07",
+      "perlawanan_terakhir": "2022-06-14"
+    },
+    {
+      "lawan": "Brunei",
+      "perlawanan": 10,
+      "menang": 10,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 45,
+      "gol_dibolosi": 2,
+      "perlawanan_pertama": "1971-05-22",
+      "perlawanan_terakhir": "2022-05-27"
+    },
+    {
+      "lawan": "Nepal",
+      "perlawanan": 9,
+      "menang": 8,
+      "seri": 1,
+      "kalah": 0,
+      "gol_dijaringkan": 26,
+      "gol_dibolosi": 0,
+      "perlawanan_pertama": "1983-09-19",
+      "perlawanan_terakhir": "2025-11-18"
+    },
+    {
+      "lawan": "North Korea",
+      "perlawanan": 8,
+      "menang": 1,
+      "seri": 3,
+      "kalah": 4,
+      "gol_dijaringkan": 7,
+      "gol_dibolosi": 16,
+      "perlawanan_pertama": "1974-09-15",
+      "perlawanan_terakhir": "2017-11-13"
+    },
+    {
+      "lawan": "Pakistan",
+      "perlawanan": 8,
+      "menang": 6,
+      "seri": 1,
+      "kalah": 1,
+      "gol_dijaringkan": 24,
+      "gol_dibolosi": 7,
+      "perlawanan_pertama": "1958-05-14",
+      "perlawanan_terakhir": "2008-10-10"
+    },
+    {
+      "lawan": "Timor-Leste",
+      "perlawanan": 8,
+      "menang": 8,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 32,
+      "gol_dibolosi": 4,
+      "perlawanan_pertama": "2004-12-08",
+      "perlawanan_terakhir": "2024-12-11"
+    },
+    {
+      "lawan": "Qatar",
+      "perlawanan": 7,
+      "menang": 0,
+      "seri": 3,
+      "kalah": 4,
+      "gol_dijaringkan": 3,
+      "gol_dibolosi": 11,
+      "perlawanan_pertama": "1980-09-23",
+      "perlawanan_terakhir": "2013-11-19"
+    },
+    {
+      "lawan": "Australia",
+      "perlawanan": 6,
+      "menang": 1,
+      "seri": 0,
+      "kalah": 5,
+      "gol_dijaringkan": 1,
+      "gol_dibolosi": 15,
+      "perlawanan_pertama": "1965-12-07",
+      "perlawanan_terakhir": "2011-10-07"
+    },
+    {
+      "lawan": "Iraq",
+      "perlawanan": 6,
+      "menang": 0,
+      "seri": 3,
+      "kalah": 3,
+      "gol_dijaringkan": 3,
+      "gol_dibolosi": 9,
+      "perlawanan_pertama": "1974-09-11",
+      "perlawanan_terakhir": "2003-10-20"
+    },
+    {
+      "lawan": "Jordan",
+      "perlawanan": 6,
+      "menang": 0,
+      "seri": 2,
+      "kalah": 4,
+      "gol_dijaringkan": 0,
+      "gol_dibolosi": 10,
+      "perlawanan_pertama": "1988-04-14",
+      "perlawanan_terakhir": "2024-01-15"
+    },
+    {
+      "lawan": "Oman",
+      "perlawanan": 6,
+      "menang": 1,
+      "seri": 0,
+      "kalah": 5,
+      "gol_dijaringkan": 2,
+      "gol_dibolosi": 14,
+      "perlawanan_pertama": "1993-04-09",
+      "perlawanan_terakhir": "2024-03-26"
+    },
+    {
+      "lawan": "Palestine",
+      "perlawanan": 6,
+      "menang": 2,
+      "seri": 0,
+      "kalah": 4,
+      "gol_dijaringkan": 5,
+      "gol_dibolosi": 18,
+      "perlawanan_pertama": "2001-03-11",
+      "perlawanan_terakhir": "2025-09-08"
+    },
+    {
+      "lawan": "Sri Lanka",
+      "perlawanan": 6,
+      "menang": 6,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 25,
+      "gol_dibolosi": 3,
+      "perlawanan_pertama": "1972-07-12",
+      "perlawanan_terakhir": "2019-10-05"
+    },
+    {
+      "lawan": "Uzbekistan",
+      "perlawanan": 6,
+      "menang": 0,
+      "seri": 0,
+      "kalah": 6,
+      "gol_dijaringkan": 3,
+      "gol_dibolosi": 24,
+      "perlawanan_pertama": "1994-10-03",
+      "perlawanan_terakhir": "2021-10-09"
+    },
+    {
+      "lawan": "Fiji",
+      "perlawanan": 5,
+      "menang": 2,
+      "seri": 1,
+      "kalah": 2,
+      "gol_dijaringkan": 5,
+      "gol_dibolosi": 8,
+      "perlawanan_pertama": "2001-02-05",
+      "perlawanan_terakhir": "2018-07-05"
+    },
+    {
+      "lawan": "Syria",
+      "perlawanan": 5,
+      "menang": 2,
+      "seri": 2,
+      "kalah": 1,
+      "gol_dijaringkan": 14,
+      "gol_dibolosi": 9,
+      "perlawanan_pertama": "1978-07-23",
+      "perlawanan_terakhir": "2024-01-08"
+    },
+    {
+      "lawan": "Yemen",
+      "perlawanan": 5,
+      "menang": 4,
+      "seri": 0,
+      "kalah": 1,
+      "gol_dijaringkan": 9,
+      "gol_dibolosi": 4,
+      "perlawanan_pertama": "1984-10-18",
+      "perlawanan_terakhir": "2014-03-05"
+    },
+    {
+      "lawan": "Iran",
+      "perlawanan": 4,
+      "menang": 0,
+      "seri": 0,
+      "kalah": 4,
+      "gol_dijaringkan": 0,
+      "gol_dibolosi": 8,
+      "perlawanan_pertama": "1966-12-10",
+      "perlawanan_terakhir": "2007-07-18"
+    },
+    {
+      "lawan": "Maldives",
+      "perlawanan": 4,
+      "menang": 4,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 11,
+      "gol_dibolosi": 0,
+      "perlawanan_pertama": "2000-02-15",
+      "perlawanan_terakhir": "2022-12-14"
+    },
+    {
+      "lawan": "Western Australia",
+      "perlawanan": 4,
+      "menang": 4,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 14,
+      "gol_dibolosi": 8,
+      "perlawanan_pertama": "1967-08-10",
+      "perlawanan_terakhir": "1971-06-09"
+    },
+    {
+      "lawan": "Afghanistan",
+      "perlawanan": 3,
+      "menang": 2,
+      "seri": 1,
+      "kalah": 0,
+      "gol_dijaringkan": 9,
+      "gol_dibolosi": 2,
+      "perlawanan_pertama": "2008-10-20",
+      "perlawanan_terakhir": "2019-03-23"
+    },
+    {
+      "lawan": "Kyrgyzstan",
+      "perlawanan": 3,
+      "menang": 1,
+      "seri": 1,
+      "kalah": 1,
+      "gol_dijaringkan": 5,
+      "gol_dibolosi": 5,
+      "perlawanan_pertama": "2018-10-16",
+      "perlawanan_terakhir": "2024-06-06"
+    },
+    {
+      "lawan": "Lebanon",
+      "perlawanan": 3,
+      "menang": 1,
+      "seri": 0,
+      "kalah": 2,
+      "gol_dijaringkan": 3,
+      "gol_dibolosi": 4,
+      "perlawanan_pertama": "2017-06-13",
+      "perlawanan_terakhir": "2024-09-08"
+    },
+    {
+      "lawan": "Macau",
+      "perlawanan": 3,
+      "menang": 2,
+      "seri": 1,
+      "kalah": 0,
+      "gol_dijaringkan": 14,
+      "gol_dibolosi": 0,
+      "perlawanan_pertama": "1993-05-05",
+      "perlawanan_terakhir": "2016-03-29"
+    },
+    {
+      "lawan": "Papua New Guinea",
+      "perlawanan": 3,
+      "menang": 3,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 17,
+      "gol_dibolosi": 2,
+      "perlawanan_pertama": "1984-09-04",
+      "perlawanan_terakhir": "2023-06-20"
+    },
+    {
+      "lawan": "Tajikistan",
+      "perlawanan": 3,
+      "menang": 1,
+      "seri": 1,
+      "kalah": 1,
+      "gol_dijaringkan": 2,
+      "gol_dibolosi": 4,
+      "perlawanan_pertama": "2014-08-08",
+      "perlawanan_terakhir": "2022-09-25"
+    },
+    {
+      "lawan": "Bosnia and Herzegovina",
+      "perlawanan": 2,
+      "menang": 0,
+      "seri": 1,
+      "kalah": 1,
+      "gol_dijaringkan": 2,
+      "gol_dibolosi": 3,
+      "perlawanan_pertama": "1997-02-28",
+      "perlawanan_terakhir": "2001-06-25"
+    },
+    {
+      "lawan": "Cape Verde",
+      "perlawanan": 2,
+      "menang": 0,
+      "seri": 1,
+      "kalah": 1,
+      "gol_dijaringkan": 1,
+      "gol_dibolosi": 4,
+      "perlawanan_pertama": "2025-05-29",
+      "perlawanan_terakhir": "2025-06-03"
+    },
+    {
+      "lawan": "Israel",
+      "perlawanan": 2,
+      "menang": 0,
+      "seri": 0,
+      "kalah": 2,
+      "gol_dijaringkan": 3,
+      "gol_dibolosi": 11,
+      "perlawanan_pertama": "1973-05-19",
+      "perlawanan_terakhir": "1974-09-03"
+    },
+    {
+      "lawan": "Sweden",
+      "perlawanan": 2,
+      "menang": 0,
+      "seri": 0,
+      "kalah": 2,
+      "gol_dijaringkan": 1,
+      "gol_dibolosi": 4,
+      "perlawanan_pertama": "1962-11-22",
+      "perlawanan_terakhir": "1979-11-14"
+    },
+    {
+      "lawan": "Turkmenistan",
+      "perlawanan": 2,
+      "menang": 2,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 4,
+      "gol_dibolosi": 1,
+      "perlawanan_pertama": "2022-06-08",
+      "perlawanan_terakhir": "2023-03-23"
+    },
+    {
+      "lawan": "Algeria",
+      "perlawanan": 1,
+      "menang": 0,
+      "seri": 1,
+      "kalah": 0,
+      "gol_dijaringkan": 2,
+      "gol_dibolosi": 2,
+      "perlawanan_pertama": "1986-08-23",
+      "perlawanan_terakhir": "1986-08-23"
+    },
+    {
+      "lawan": "Bhutan",
+      "perlawanan": 1,
+      "menang": 1,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 7,
+      "gol_dibolosi": 0,
+      "perlawanan_pertama": "2018-04-01",
+      "perlawanan_terakhir": "2018-04-01"
+    },
+    {
+      "lawan": "Brazil",
+      "perlawanan": 1,
+      "menang": 0,
+      "seri": 0,
+      "kalah": 1,
+      "gol_dijaringkan": 0,
+      "gol_dibolosi": 4,
+      "perlawanan_pertama": "2002-05-25",
+      "perlawanan_terakhir": "2002-05-25"
+    },
+    {
+      "lawan": "England",
+      "perlawanan": 1,
+      "menang": 0,
+      "seri": 0,
+      "kalah": 1,
+      "gol_dijaringkan": 2,
+      "gol_dibolosi": 4,
+      "perlawanan_pertama": "1991-06-12",
+      "perlawanan_terakhir": "1991-06-12"
+    },
+    {
+      "lawan": "Finland",
+      "perlawanan": 1,
+      "menang": 1,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 2,
+      "gol_dibolosi": 1,
+      "perlawanan_pertama": "1997-02-21",
+      "perlawanan_terakhir": "1997-02-21"
+    },
+    {
+      "lawan": "Jamaica",
+      "perlawanan": 1,
+      "menang": 0,
+      "seri": 0,
+      "kalah": 1,
+      "gol_dijaringkan": 0,
+      "gol_dibolosi": 2,
+      "perlawanan_pertama": "2007-06-28",
+      "perlawanan_terakhir": "2007-06-28"
+    },
+    {
+      "lawan": "Kenya",
+      "perlawanan": 1,
+      "menang": 0,
+      "seri": 1,
+      "kalah": 0,
+      "gol_dijaringkan": 0,
+      "gol_dibolosi": 0,
+      "perlawanan_pertama": "2009-08-12",
+      "perlawanan_terakhir": "2009-08-12"
+    },
+    {
+      "lawan": "Lesotho",
+      "perlawanan": 1,
+      "menang": 1,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 5,
+      "gol_dibolosi": 0,
+      "perlawanan_pertama": "2009-09-11",
+      "perlawanan_terakhir": "2009-09-11"
+    },
+    {
+      "lawan": "Liberia",
+      "perlawanan": 1,
+      "menang": 1,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 3,
+      "gol_dibolosi": 1,
+      "perlawanan_pertama": "1984-08-29",
+      "perlawanan_terakhir": "1984-08-29"
+    },
+    {
+      "lawan": "Libya",
+      "perlawanan": 1,
+      "menang": 0,
+      "seri": 1,
+      "kalah": 0,
+      "gol_dijaringkan": 1,
+      "gol_dibolosi": 1,
+      "perlawanan_pertama": "1977-07-21",
+      "perlawanan_terakhir": "1977-07-21"
+    },
+    {
+      "lawan": "Mongolia",
+      "perlawanan": 1,
+      "menang": 0,
+      "seri": 1,
+      "kalah": 0,
+      "gol_dijaringkan": 2,
+      "gol_dibolosi": 2,
+      "perlawanan_pertama": "2018-03-22",
+      "perlawanan_terakhir": "2018-03-22"
+    },
+    {
+      "lawan": "Morocco",
+      "perlawanan": 1,
+      "menang": 0,
+      "seri": 0,
+      "kalah": 1,
+      "gol_dijaringkan": 1,
+      "gol_dibolosi": 2,
+      "perlawanan_pertama": "1980-11-02",
+      "perlawanan_terakhir": "1980-11-02"
+    },
+    {
+      "lawan": "New Caledonia",
+      "perlawanan": 1,
+      "menang": 1,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 2,
+      "gol_dibolosi": 1,
+      "perlawanan_pertama": "2016-06-22",
+      "perlawanan_terakhir": "2016-06-22"
+    },
+    {
+      "lawan": "Senegal",
+      "perlawanan": 1,
+      "menang": 1,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 1,
+      "gol_dibolosi": 0,
+      "perlawanan_pertama": "1982-08-13",
+      "perlawanan_terakhir": "1982-08-13"
+    },
+    {
+      "lawan": "Slovakia",
+      "perlawanan": 1,
+      "menang": 0,
+      "seri": 0,
+      "kalah": 1,
+      "gol_dijaringkan": 0,
+      "gol_dibolosi": 2,
+      "perlawanan_pertama": "2001-06-23",
+      "perlawanan_terakhir": "2001-06-23"
+    },
+    {
+      "lawan": "Solomon Islands",
+      "perlawanan": 1,
+      "menang": 1,
+      "seri": 0,
+      "kalah": 0,
+      "gol_dijaringkan": 4,
+      "gol_dibolosi": 1,
+      "perlawanan_pertama": "2023-06-14",
+      "perlawanan_terakhir": "2023-06-14"
+    }
+  ],
+  "meta": {
+    "title": "Pasukan bola sepak kebangsaan Malaysia — rekod menentang setiap lawan (67) - Muat turun percuma",
+    "description": "Pasukan bola sepak kebangsaan Malaysia: Rekod keseluruhan menentang setiap lawan, dikira daripada semua perlawanan dalam results.csv: perlawanan, menang, seri, kalah, gol dijaringkan dan dibolosi, perlawanan pertama dan terakhir. Keputusan berdasarkan skor akhir (tanpa penentuan penalti). Disusun mengikut bilangan perlawanan. Mengandungi 67 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Pasukan bola sepak kebangsaan Malaysia — rekod menentang setiap lawan (67) | ListBase",
+    "seo_description": "Muat turun Pasukan bola sepak kebangsaan Malaysia — rekod menentang setiap lawan (67) — 67 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 67 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

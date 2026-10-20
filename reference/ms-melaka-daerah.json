@@ -1,0 +1,80 @@
+{
+  "id": "ms-melaka-daerah",
+  "name": "Daerah di Melaka",
+  "title": "Daerah di Melaka",
+  "description": "Senarai lengkap 3 daerah (district) di negeri Melaka, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 3 administrative districts in Melaka, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "401",
+      "name": "Melaka Tengah",
+      "name_uppercase": "MELAKA TENGAH",
+      "code": "MTE",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "402",
+      "name": "Jasin",
+      "name_uppercase": "JASIN",
+      "code": "JAS",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "403",
+      "name": "Alor Gajah",
+      "name_uppercase": "ALOR GAJAH",
+      "code": "AGA",
+      "state_id": "4",
+      "state": "Melaka"
+    }
+  ],
+  "meta": {
+    "title": "Daerah di Melaka - Muat turun percuma",
+    "description": "Senarai lengkap 3 daerah (district) di negeri Melaka, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 3 administrative districts in Melaka, Malaysia. Mengandungi 3 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Daerah di Melaka | ListBase",
+    "seo_description": "Muat turun Daerah di Melaka — 3 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 3 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

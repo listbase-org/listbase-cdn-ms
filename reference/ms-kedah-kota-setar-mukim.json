@@ -1,0 +1,532 @@
+{
+  "id": "ms-kedah-kota-setar-mukim",
+  "name": "Mukim di Daerah Kota Setar, Kedah",
+  "title": "Mukim di Daerah Kota Setar, Kedah",
+  "description": "Senarai lengkap 38 mukim di daerah Kota Setar, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 38 mukim (traditional sub-district units) in Kota Setar District, Kedah, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "020101",
+      "name": "Alor Malai",
+      "name_uppercase": "ALOR MALAI",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 26,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020102",
+      "name": "Alor Merah",
+      "name_uppercase": "ALOR MERAH",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 27,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020103",
+      "name": "Anak Bukit",
+      "name_uppercase": "ANAK BUKIT",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 28,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020104",
+      "name": "Bukit Pinang",
+      "name_uppercase": "BUKIT PINANG",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 29,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020105",
+      "name": "Derga",
+      "name_uppercase": "DERGA",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 30,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020106",
+      "name": "Gunong",
+      "name_uppercase": "GUNONG",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 31,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020107",
+      "name": "Hutan Kampong",
+      "name_uppercase": "HUTAN KAMPONG",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 32,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020108",
+      "name": "Kangkong",
+      "name_uppercase": "KANGKONG",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 33,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020109",
+      "name": "Kota Setar",
+      "name_uppercase": "KOTA SETAR",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 34,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020110",
+      "name": "Kuala Kedah",
+      "name_uppercase": "KUALA KEDAH",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 35,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020111",
+      "name": "Kubang Rotan",
+      "name_uppercase": "KUBANG ROTAN",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 36,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020112",
+      "name": "Langgar",
+      "name_uppercase": "LANGGAR",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 37,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020113",
+      "name": "Lengkuas",
+      "name_uppercase": "LENGKUAS",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 38,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020114",
+      "name": "Lepai",
+      "name_uppercase": "LEPAI",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 39,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020115",
+      "name": "Limbong",
+      "name_uppercase": "LIMBONG",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 40,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020116",
+      "name": "Mergong",
+      "name_uppercase": "MERGONG",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 41,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020117",
+      "name": "Padang Hang",
+      "name_uppercase": "PADANG HANG",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 42,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020118",
+      "name": "Padang Lalang",
+      "name_uppercase": "PADANG LALANG",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 43,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020119",
+      "name": "Pengkalan Kundor",
+      "name_uppercase": "PENGKALAN KUNDOR",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 44,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020120",
+      "name": "Pumpong",
+      "name_uppercase": "PUMPONG",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 45,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020121",
+      "name": "Sala Kechik",
+      "name_uppercase": "SALA KECHIK",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 46,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020122",
+      "name": "Sungai Baharu",
+      "name_uppercase": "SUNGAI BAHARU",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 47,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020123",
+      "name": "Tajar",
+      "name_uppercase": "TAJAR",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 48,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020124",
+      "name": "Tebengau",
+      "name_uppercase": "TEBENGAU",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 49,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020125",
+      "name": "Telaga Mas",
+      "name_uppercase": "TELAGA MAS",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 50,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020126",
+      "name": "Telok Chengai",
+      "name_uppercase": "TELOK CHENGAI",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 51,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020127",
+      "name": "Titi Gajah",
+      "name_uppercase": "TITI GAJAH",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 52,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020128",
+      "name": "Telok Kechai",
+      "name_uppercase": "TELOK KECHAI",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 53,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020140",
+      "name": "Bandar Alor Setar",
+      "name_uppercase": "BANDAR ALOR SETAR",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 54,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020141",
+      "name": "Bandar Anak Bukit",
+      "name_uppercase": "BANDAR ANAK BUKIT",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 55,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020143",
+      "name": "Bandar Kuala Kedah",
+      "name_uppercase": "BANDAR KUALA KEDAH",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 56,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020147",
+      "name": "Bandar Alor Merah",
+      "name_uppercase": "BANDAR ALOR MERAH",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 57,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020148",
+      "name": "Bandar Bukit Pinang",
+      "name_uppercase": "BANDAR BUKIT PINANG",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 58,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020149",
+      "name": "Bandar Langgar",
+      "name_uppercase": "BANDAR LANGGAR",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 59,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020150",
+      "name": "Bandar Simpang Empat",
+      "name_uppercase": "BANDAR SIMPANG EMPAT",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 60,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020170",
+      "name": "Pekan Alor Janggus",
+      "name_uppercase": "PEKAN ALOR JANGGUS",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 61,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020172",
+      "name": "Pekan Kota Sarang Semut",
+      "name_uppercase": "PEKAN KOTA SARANG SEMUT",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 62,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    },
+    {
+      "id": "020175",
+      "name": "Pekan Gunung",
+      "name_uppercase": "PEKAN GUNUNG",
+      "district_id": "201",
+      "district": "Kota Setar",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 63,
+      "state_slug": "kedah",
+      "district_slug": "kota-setar"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Kota Setar, Kedah - Muat turun percuma",
+    "description": "Senarai lengkap 38 mukim di daerah Kota Setar, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 38 mukim (traditional sub-district units) in Kota Setar District, Kedah, Malaysia. Mengandungi 38 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Kota Setar, Kedah | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Kota Setar, Kedah — 38 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 38 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

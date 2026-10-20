@@ -1,0 +1,2131 @@
+{
+  "id": "ms-sarawak-mukim",
+  "name": "Mukim di Sarawak",
+  "title": "Mukim di Sarawak",
+  "description": "Senarai lengkap 230 mukim di negeri Sarawak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 230 mukim (traditional sub-district units) in Sarawak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 230,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "130101",
+      "name": "Pueh Land",
+      "name_uppercase": "PUEH LAND",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130102",
+      "name": "Gading Lundu",
+      "name_uppercase": "GADING LUNDU",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130103",
+      "name": "Stungkor",
+      "name_uppercase": "STUNGKOR",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130104",
+      "name": "Sampadi",
+      "name_uppercase": "SAMPADI",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130105",
+      "name": "Jagoi",
+      "name_uppercase": "JAGOI",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130106",
+      "name": "Senggi Poak",
+      "name_uppercase": "SENGGI POAK",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130107",
+      "name": "Matang",
+      "name_uppercase": "MATANG",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130108",
+      "name": "Salak",
+      "name_uppercase": "SALAK",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130109",
+      "name": "Pangkalan Ampat",
+      "name_uppercase": "PANGKALAN AMPAT",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130110",
+      "name": "Kuching Utara",
+      "name_uppercase": "KUCHING UTARA",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130111",
+      "name": "Kuching Tengah",
+      "name_uppercase": "KUCHING TENGAH",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130112",
+      "name": "Bandar Kuching",
+      "name_uppercase": "BANDAR KUCHING",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130113",
+      "name": "Sentah-Segu",
+      "name_uppercase": "SENTAH-SEGU",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130114",
+      "name": "Muara Tebas",
+      "name_uppercase": "MUARA TEBAS",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130125",
+      "name": "Bandar Batu Kawa",
+      "name_uppercase": "BANDAR BATU KAWA",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130126",
+      "name": "Batu 8, Jalan Matang",
+      "name_uppercase": "BATU 8, JALAN MATANG",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130127",
+      "name": "Bandar Sungai Tengah",
+      "name_uppercase": "BANDAR SUNGAI TENGAH",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130128",
+      "name": "Bandar Batu Kitang",
+      "name_uppercase": "BANDAR BATU KITANG",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130129",
+      "name": "Batu 15, Jalan Senggang",
+      "name_uppercase": "BATU 15, JALAN SENGGANG",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130130",
+      "name": "175, Jalan Senggang",
+      "name_uppercase": "175, JALAN SENGGANG",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130131",
+      "name": "Bandar Jalan Batu 19, Jalan Senggang",
+      "name_uppercase": "BANDAR JALAN BATU 19, JALAN SENGGANG",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130132",
+      "name": "Bandar Batu 24, Jalan Senggang",
+      "name_uppercase": "BANDAR BATU 24, JALAN SENGGANG",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130133",
+      "name": "Bandar Pangkalan Kut",
+      "name_uppercase": "BANDAR PANGKALAN KUT",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130149",
+      "name": "Bandar Beliong",
+      "name_uppercase": "BANDAR BELIONG",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130150",
+      "name": "Bandar Bako",
+      "name_uppercase": "BANDAR BAKO",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130155",
+      "name": "Bandar Sematang",
+      "name_uppercase": "BANDAR SEMATANG",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130156",
+      "name": "Bandar Lundu",
+      "name_uppercase": "BANDAR LUNDU",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130157",
+      "name": "Bandar Jangkar",
+      "name_uppercase": "BANDAR JANGKAR",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130158",
+      "name": "Bandar Rambungan",
+      "name_uppercase": "BANDAR RAMBUNGAN",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130159",
+      "name": "Bandar Stunkor",
+      "name_uppercase": "BANDAR STUNKOR",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130160",
+      "name": "Bandar Kranji",
+      "name_uppercase": "BANDAR KRANJI",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130161",
+      "name": "Bandar Siniwan",
+      "name_uppercase": "BANDAR SINIWAN",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130162",
+      "name": "Bandar Paku",
+      "name_uppercase": "BANDAR PAKU",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130163",
+      "name": "Bandar Jambusan",
+      "name_uppercase": "BANDAR JAMBUSAN",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130164",
+      "name": "Bandar Bau",
+      "name_uppercase": "BANDAR BAU",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130165",
+      "name": "Bandar Buso",
+      "name_uppercase": "BANDAR BUSO",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130166",
+      "name": "Bandar Tundong",
+      "name_uppercase": "BANDAR TUNDONG",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130167",
+      "name": "Bandar Musi",
+      "name_uppercase": "BANDAR MUSI",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130168",
+      "name": "Bandar Tai Ton",
+      "name_uppercase": "BANDAR TAI TON",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130169",
+      "name": "Bandar Bidi",
+      "name_uppercase": "BANDAR BIDI",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130170",
+      "name": "Bandar Krokong",
+      "name_uppercase": "BANDAR KROKONG",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130171",
+      "name": "Bandar Pangkalan Tebang",
+      "name_uppercase": "BANDAR PANGKALAN TEBANG",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130172",
+      "name": "Bandar Pejiru",
+      "name_uppercase": "BANDAR PEJIRU",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130173",
+      "name": "Bandar Tiang Bekap",
+      "name_uppercase": "BANDAR TIANG BEKAP",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130174",
+      "name": "Bandar Baratok",
+      "name_uppercase": "BANDAR BARATOK",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130175",
+      "name": "Bandar Tapah",
+      "name_uppercase": "BANDAR TAPAH",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130176",
+      "name": "Bandar Siburan",
+      "name_uppercase": "BANDAR SIBURAN",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130177",
+      "name": "Bandar Terbat",
+      "name_uppercase": "BANDAR TERBAT",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130178",
+      "name": "Bandar Jalan Batu 17, Jalan Senggang",
+      "name_uppercase": "BANDAR JALAN BATU 17, JALAN SENGGANG",
+      "district_id": "1301",
+      "district": "Kuching",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130201",
+      "name": "Undup",
+      "name_uppercase": "UNDUP",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130202",
+      "name": "Klauh",
+      "name_uppercase": "KLAUH",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130203",
+      "name": "Bijat",
+      "name_uppercase": "BIJAT",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130204",
+      "name": "Skarang",
+      "name_uppercase": "SKARANG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130205",
+      "name": "Keranggas",
+      "name_uppercase": "KERANGGAS",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130206",
+      "name": "Marup",
+      "name_uppercase": "MARUP",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130207",
+      "name": "Lamanak",
+      "name_uppercase": "LAMANAK",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130208",
+      "name": "Bukit Besai",
+      "name_uppercase": "BUKIT BESAI",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130209",
+      "name": "Ai Engkari",
+      "name_uppercase": "AI ENGKARI",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130210",
+      "name": "Lesong",
+      "name_uppercase": "LESONG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130211",
+      "name": "Selanjang",
+      "name_uppercase": "SELANJANG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130212",
+      "name": "Silantek",
+      "name_uppercase": "SILANTEK",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130224",
+      "name": "Sirnanggang",
+      "name_uppercase": "SIRNANGGANG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130225",
+      "name": "Bandar Lingga",
+      "name_uppercase": "BANDAR LINGGA",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130227",
+      "name": "Bandar Lubok Antu",
+      "name_uppercase": "BANDAR LUBOK ANTU",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130228",
+      "name": "Bandar Engkilili",
+      "name_uppercase": "BANDAR ENGKILILI",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130236",
+      "name": "Bandar Batu Lintang",
+      "name_uppercase": "BANDAR BATU LINTANG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130244",
+      "name": "Bandar Banting",
+      "name_uppercase": "BANDAR BANTING",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130245",
+      "name": "Bandar Pantu",
+      "name_uppercase": "BANDAR PANTU",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130250",
+      "name": "Bandar Bakong",
+      "name_uppercase": "BANDAR BAKONG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130252",
+      "name": "Bandar Undup",
+      "name_uppercase": "BANDAR UNDUP",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130271",
+      "name": "Bandar Skrang",
+      "name_uppercase": "BANDAR SKRANG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130272",
+      "name": "Bandar Melugu",
+      "name_uppercase": "BANDAR MELUGU",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130273",
+      "name": "Bandar Sabu",
+      "name_uppercase": "BANDAR SABU",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130301",
+      "name": "Seduan",
+      "name_uppercase": "SEDUAN",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130302",
+      "name": "Engkilo",
+      "name_uppercase": "ENGKILO",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130303",
+      "name": "Pasai-Siong",
+      "name_uppercase": "PASAI-SIONG",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130304",
+      "name": "Assan",
+      "name_uppercase": "ASSAN",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130305",
+      "name": "Menyan",
+      "name_uppercase": "MENYAN",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130306",
+      "name": "Kabang",
+      "name_uppercase": "KABANG",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130319",
+      "name": "Lukut",
+      "name_uppercase": "LUKUT",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130320",
+      "name": "Mapai",
+      "name_uppercase": "MAPAI",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130321",
+      "name": "Maroh",
+      "name_uppercase": "MAROH",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130322",
+      "name": "Spali",
+      "name_uppercase": "SPALI",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130337",
+      "name": "Qya-Dalat",
+      "name_uppercase": "QYA-DALAT",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130338",
+      "name": "Spapa",
+      "name_uppercase": "SPAPA",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130339",
+      "name": "Paku",
+      "name_uppercase": "PAKU",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130340",
+      "name": "Lalai",
+      "name_uppercase": "LALAI",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130341",
+      "name": "Mukah",
+      "name_uppercase": "MUKAH",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130342",
+      "name": "Gigis",
+      "name_uppercase": "GIGIS",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130343",
+      "name": "Selangau",
+      "name_uppercase": "SELANGAU",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130344",
+      "name": "Balingan",
+      "name_uppercase": "BALINGAN",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130345",
+      "name": "Arip",
+      "name_uppercase": "ARIP",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130346",
+      "name": "Pelungau",
+      "name_uppercase": "PELUNGAU",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130347",
+      "name": "Bawan",
+      "name_uppercase": "BAWAN",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130348",
+      "name": "Buloh",
+      "name_uppercase": "BULOH",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130349",
+      "name": "Bandar Sibu",
+      "name_uppercase": "BANDAR SIBU",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130350",
+      "name": "Bandar Sengei Merah",
+      "name_uppercase": "BANDAR SENGEI MERAH",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130351",
+      "name": "Bandar Teku",
+      "name_uppercase": "BANDAR TEKU",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130352",
+      "name": "Bandar Durin",
+      "name_uppercase": "BANDAR DURIN",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130360",
+      "name": "Bandar Kanowit",
+      "name_uppercase": "BANDAR KANOWIT",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130363",
+      "name": "Bandar Dap",
+      "name_uppercase": "BANDAR DAP",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130365",
+      "name": "Bandar Machan",
+      "name_uppercase": "BANDAR MACHAN",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130366",
+      "name": "Bandar Ngemah",
+      "name_uppercase": "BANDAR NGEMAH",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130368",
+      "name": "Bandar Sengayan",
+      "name_uppercase": "BANDAR SENGAYAN",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130380",
+      "name": "Bandar Sibintek",
+      "name_uppercase": "BANDAR SIBINTEK",
+      "district_id": "1303",
+      "district": "Sibu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130401",
+      "name": "Konsesi Miri",
+      "name_uppercase": "KONSESI MIRI",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130402",
+      "name": "Bandar Lutong",
+      "name_uppercase": "BANDAR LUTONG",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130403",
+      "name": "Bandar Bazar Jalan Riam",
+      "name_uppercase": "BANDAR BAZAR JALAN RIAM",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130404",
+      "name": "Kuala Baram",
+      "name_uppercase": "KUALA BARAM",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130407",
+      "name": "Lambir",
+      "name_uppercase": "LAMBIR",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130449",
+      "name": "Bandar Kuala Nyabor",
+      "name_uppercase": "BANDAR KUALA NYABOR",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130450",
+      "name": "Bareo",
+      "name_uppercase": "BAREO",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130452",
+      "name": "Apoh",
+      "name_uppercase": "APOH",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130453",
+      "name": "Lio Matoh",
+      "name_uppercase": "LIO MATOH",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130456",
+      "name": "Silat",
+      "name_uppercase": "SILAT",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130457",
+      "name": "Tutoh",
+      "name_uppercase": "TUTOH",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130458",
+      "name": "Patah",
+      "name_uppercase": "PATAH",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130459",
+      "name": "Lepu Leju",
+      "name_uppercase": "LEPU LEJU",
+      "district_id": "1304",
+      "district": "Miri",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130501",
+      "name": "Danau",
+      "name_uppercase": "DANAU",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130502",
+      "name": "Panaruan",
+      "name_uppercase": "PANARUAN",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130503",
+      "name": "Trusan",
+      "name_uppercase": "TRUSAN",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130504",
+      "name": "Lawas",
+      "name_uppercase": "LAWAS",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130505",
+      "name": "Merapok",
+      "name_uppercase": "MERAPOK",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130506",
+      "name": "Limbang",
+      "name_uppercase": "LIMBANG",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130507",
+      "name": "Danau",
+      "name_uppercase": "DANAU",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130508",
+      "name": "Nanga Medamit",
+      "name_uppercase": "NANGA MEDAMIT",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130509",
+      "name": "Trusan",
+      "name_uppercase": "TRUSAN",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130510",
+      "name": "Lawas",
+      "name_uppercase": "LAWAS",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130511",
+      "name": "Merapok",
+      "name_uppercase": "MERAPOK",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130512",
+      "name": "Ukong",
+      "name_uppercase": "UKONG",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130513",
+      "name": "Bandar Sundar",
+      "name_uppercase": "BANDAR SUNDAR",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130514",
+      "name": "Sungai Adang",
+      "name_uppercase": "SUNGAI ADANG",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130515",
+      "name": "Long Napir",
+      "name_uppercase": "LONG NAPIR",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130516",
+      "name": "Sungai Addang",
+      "name_uppercase": "SUNGAI ADDANG",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130517",
+      "name": "Tengoa-Sukang",
+      "name_uppercase": "TENGOA-SUKANG",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130518",
+      "name": "Long Nerapap",
+      "name_uppercase": "LONG NERAPAP",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130519",
+      "name": "Long Semado",
+      "name_uppercase": "LONG SEMADO",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130520",
+      "name": "Bakalalan",
+      "name_uppercase": "BAKALALAN",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130521",
+      "name": "Batu Lawi",
+      "name_uppercase": "BATU LAWI",
+      "district_id": "1305",
+      "district": "Limbang",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130607",
+      "name": "Serendang",
+      "name_uppercase": "SERENDANG",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130610",
+      "name": "Maradong",
+      "name_uppercase": "MARADONG",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130611",
+      "name": "Tulai",
+      "name_uppercase": "TULAI",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130612",
+      "name": "Sarikei",
+      "name_uppercase": "SARIKEI",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130614",
+      "name": "Buan",
+      "name_uppercase": "BUAN",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130615",
+      "name": "Sare",
+      "name_uppercase": "SARE",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130616",
+      "name": "Pedanum",
+      "name_uppercase": "PEDANUM",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130617",
+      "name": "Melurun",
+      "name_uppercase": "MELURUN",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130618",
+      "name": "Jikang",
+      "name_uppercase": "JIKANG",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130654",
+      "name": "Bandar Binatang",
+      "name_uppercase": "BANDAR BINATANG",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130661",
+      "name": "Julau",
+      "name_uppercase": "JULAU",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130662",
+      "name": "Bandar Pakan",
+      "name_uppercase": "BANDAR PAKAN",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130674",
+      "name": "Bandar Selalang",
+      "name_uppercase": "BANDAR SELALANG",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130677",
+      "name": "Gunung Ayer",
+      "name_uppercase": "GUNUNG AYER",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130692",
+      "name": "Binatang",
+      "name_uppercase": "BINATANG",
+      "district_id": "1306",
+      "district": "Sarikei",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130723",
+      "name": "Katibas",
+      "name_uppercase": "KATIBAS",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130724",
+      "name": "Ibau",
+      "name_uppercase": "IBAU",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130725",
+      "name": "Menuan",
+      "name_uppercase": "MENUAN",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130726",
+      "name": "Suau",
+      "name_uppercase": "SUAU",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130727",
+      "name": "Oyan",
+      "name_uppercase": "OYAN",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130728",
+      "name": "Baning",
+      "name_uppercase": "BANING",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130729",
+      "name": "Majau",
+      "name_uppercase": "MAJAU",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130730",
+      "name": "Menral",
+      "name_uppercase": "MENRAL",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130731",
+      "name": "Metah",
+      "name_uppercase": "METAH",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130732",
+      "name": "Rirong",
+      "name_uppercase": "RIRONG",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130733",
+      "name": "Mamu",
+      "name_uppercase": "MAMU",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130735",
+      "name": "Angkuah",
+      "name_uppercase": "ANGKUAH",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130736",
+      "name": "Pelagus",
+      "name_uppercase": "PELAGUS",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130769",
+      "name": "Bandar Kapit",
+      "name_uppercase": "BANDAR KAPIT",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130770",
+      "name": "Bandar Song",
+      "name_uppercase": "BANDAR SONG",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130781",
+      "name": "Bangkit",
+      "name_uppercase": "BANGKIT",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130782",
+      "name": "Batu Laga",
+      "name_uppercase": "BATU LAGA",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130783",
+      "name": "Pelanduk",
+      "name_uppercase": "PELANDUK",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130784",
+      "name": "Entemu",
+      "name_uppercase": "ENTEMU",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130785",
+      "name": "Mengiong",
+      "name_uppercase": "MENGIONG",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130786",
+      "name": "Serani",
+      "name_uppercase": "SERANI",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130787",
+      "name": "Balui",
+      "name_uppercase": "BALUI",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130788",
+      "name": "Kumbong",
+      "name_uppercase": "KUMBONG",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130789",
+      "name": "Murum",
+      "name_uppercase": "MURUM",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130790",
+      "name": "Punan",
+      "name_uppercase": "PUNAN",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130791",
+      "name": "Danum",
+      "name_uppercase": "DANUM",
+      "district_id": "1307",
+      "district": "Kapit",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130810",
+      "name": "Lesong",
+      "name_uppercase": "LESONG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130814",
+      "name": "Menuku",
+      "name_uppercase": "MENUKU",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130815",
+      "name": "Kayan",
+      "name_uppercase": "KAYAN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130816",
+      "name": "Samarahan",
+      "name_uppercase": "SAMARAHAN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130817",
+      "name": "Muara Tuang",
+      "name_uppercase": "MUARA TUANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130818",
+      "name": "Bukar-Sadong",
+      "name_uppercase": "BUKAR-SADONG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130819",
+      "name": "Sungai Kedup",
+      "name_uppercase": "SUNGAI KEDUP",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130820",
+      "name": "Melikin Land",
+      "name_uppercase": "MELIKIN LAND",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130821",
+      "name": "Sedilu-Gedong",
+      "name_uppercase": "SEDILU-GEDONG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130822",
+      "name": "Sadong",
+      "name_uppercase": "SADONG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130823",
+      "name": "Sebangan-Kepayan",
+      "name_uppercase": "SEBANGAN-KEPAYAN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130824",
+      "name": "Punda-Sabal",
+      "name_uppercase": "PUNDA-SABAL",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130826",
+      "name": "Bandar Sebuyau",
+      "name_uppercase": "BANDAR SEBUYAU",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130835",
+      "name": "Bandar Sungai Merah",
+      "name_uppercase": "BANDAR SUNGAI MERAH",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130836",
+      "name": "Bandar Sunagai Merang",
+      "name_uppercase": "BANDAR SUNAGAI MERANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130837",
+      "name": "Bandar Sungai Palah",
+      "name_uppercase": "BANDAR SUNGAI PALAH",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130839",
+      "name": "Batu 29, Jalan Simanggang",
+      "name_uppercase": "BATU 29, JALAN SIMANGGANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130840",
+      "name": "Batu 32, Jalan Simanggang",
+      "name_uppercase": "BATU 32, JALAN SIMANGGANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130841",
+      "name": "Batu 34+, Jalan Simanggang",
+      "name_uppercase": "BATU 34+, JALAN SIMANGGANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130842",
+      "name": "Bandar Serian",
+      "name_uppercase": "BANDAR SERIAN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130843",
+      "name": "Bandar Tebakang",
+      "name_uppercase": "BANDAR TEBAKANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130844",
+      "name": "Bandar Muara Mongkos",
+      "name_uppercase": "BANDAR MUARA MONGKOS",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130845",
+      "name": "Bandar Tedebu",
+      "name_uppercase": "BANDAR TEDEBU",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130846",
+      "name": "Bandar Balai Ringin",
+      "name_uppercase": "BANDAR BALAI RINGIN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130847",
+      "name": "Bandar Tambirat",
+      "name_uppercase": "BANDAR TAMBIRAT",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130848",
+      "name": "Bandar Muara Tuang",
+      "name_uppercase": "BANDAR MUARA TUANG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130852",
+      "name": "Bandar Simujan",
+      "name_uppercase": "BANDAR SIMUJAN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130853",
+      "name": "Bandar Gedong",
+      "name_uppercase": "BANDAR GEDONG",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130854",
+      "name": "Bandar Sebangan",
+      "name_uppercase": "BANDAR SEBANGAN",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130865",
+      "name": "Bandar Tebelu",
+      "name_uppercase": "BANDAR TEBELU",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130877",
+      "name": "Bandar Terbat",
+      "name_uppercase": "BANDAR TERBAT",
+      "district_id": "1308",
+      "district": "Samarahan",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130931",
+      "name": "Bintulu",
+      "name_uppercase": "BINTULU",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130932",
+      "name": "Kemena",
+      "name_uppercase": "KEMENA",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130933",
+      "name": "Sebauh",
+      "name_uppercase": "SEBAUH",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130934",
+      "name": "Bandar Lanang",
+      "name_uppercase": "BANDAR LANANG",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130935",
+      "name": "Bandar Pandan",
+      "name_uppercase": "BANDAR PANDAN",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130936",
+      "name": "Bandar Tubau",
+      "name_uppercase": "BANDAR TUBAU",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130938",
+      "name": "Selezu",
+      "name_uppercase": "SELEZU",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130939",
+      "name": "Batu Kapal",
+      "name_uppercase": "BATU KAPAL",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130940",
+      "name": "Rasan",
+      "name_uppercase": "RASAN",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130941",
+      "name": "Pandan",
+      "name_uppercase": "PANDAN",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130942",
+      "name": "Bandar Kuala Tatau",
+      "name_uppercase": "BANDAR KUALA TATAU",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130943",
+      "name": "Bandar Tatau",
+      "name_uppercase": "BANDAR TATAU",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130945",
+      "name": "Buan Lan",
+      "name_uppercase": "BUAN LAN",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130946",
+      "name": "Sangan",
+      "name_uppercase": "SANGAN",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130947",
+      "name": "Anap",
+      "name_uppercase": "ANAP",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130948",
+      "name": "Kakus",
+      "name_uppercase": "KAKUS",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130954",
+      "name": "Jelalong",
+      "name_uppercase": "JELALONG",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "130955",
+      "name": "Binia",
+      "name_uppercase": "BINIA",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "131146",
+      "name": "Bandar Maludam",
+      "name_uppercase": "BANDAR MALUDAM",
+      "district_id": "1311",
+      "district": "Betong",
+      "state_id": "13",
+      "state": "Sarawak"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Sarawak - Muat turun percuma",
+    "description": "Senarai lengkap 230 mukim di negeri Sarawak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 230 mukim (traditional sub-district units) in Sarawak, Malaysia. Mengandungi 230 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Sarawak | ListBase",
+    "seo_description": "Muat turun Mukim di Sarawak — 230 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 230 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

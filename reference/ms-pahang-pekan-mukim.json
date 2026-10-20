@@ -1,0 +1,232 @@
+{
+  "id": "ms-pahang-pekan-mukim",
+  "name": "Mukim di Daerah Pekan, Pahang",
+  "title": "Mukim di Daerah Pekan, Pahang",
+  "description": "Senarai lengkap 13 mukim di daerah Pekan, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 13 mukim (traditional sub-district units) in Pekan District, Pahang, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "060601",
+      "name": "Bebar",
+      "name_uppercase": "BEBAR",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1008,
+      "state_slug": "pahang",
+      "district_slug": "pekan"
+    },
+    {
+      "id": "060602",
+      "name": "Ganchong",
+      "name_uppercase": "GANCHONG",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1009,
+      "state_slug": "pahang",
+      "district_slug": "pekan"
+    },
+    {
+      "id": "060603",
+      "name": "Kuala Pahang",
+      "name_uppercase": "KUALA PAHANG",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1010,
+      "state_slug": "pahang",
+      "district_slug": "pekan"
+    },
+    {
+      "id": "060605",
+      "name": "Lepar",
+      "name_uppercase": "LEPAR",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1011,
+      "state_slug": "pahang",
+      "district_slug": "pekan"
+    },
+    {
+      "id": "060606",
+      "name": "Pahang Tua",
+      "name_uppercase": "PAHANG TUA",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1012,
+      "state_slug": "pahang",
+      "district_slug": "pekan"
+    },
+    {
+      "id": "060607",
+      "name": "Pekan",
+      "name_uppercase": "PEKAN",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1013,
+      "state_slug": "pahang",
+      "district_slug": "pekan"
+    },
+    {
+      "id": "060608",
+      "name": "Penyor",
+      "name_uppercase": "PENYOR",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1014,
+      "state_slug": "pahang",
+      "district_slug": "pekan"
+    },
+    {
+      "id": "060609",
+      "name": "Pulau Manis",
+      "name_uppercase": "PULAU MANIS",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1015,
+      "state_slug": "pahang",
+      "district_slug": "pekan"
+    },
+    {
+      "id": "060610",
+      "name": "Pulau Rusa",
+      "name_uppercase": "PULAU RUSA",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1016,
+      "state_slug": "pahang",
+      "district_slug": "pekan"
+    },
+    {
+      "id": "060611",
+      "name": "Temai",
+      "name_uppercase": "TEMAI",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1017,
+      "state_slug": "pahang",
+      "district_slug": "pekan"
+    },
+    {
+      "id": "060640",
+      "name": "Bandar Pekan",
+      "name_uppercase": "BANDAR PEKAN",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1018,
+      "state_slug": "pahang",
+      "district_slug": "pekan"
+    },
+    {
+      "id": "060670",
+      "name": "Pekan Kuala Pahang",
+      "name_uppercase": "PEKAN KUALA PAHANG",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1019,
+      "state_slug": "pahang",
+      "district_slug": "pekan"
+    },
+    {
+      "id": "060671",
+      "name": "Pekan Nenasi",
+      "name_uppercase": "PEKAN NENASI",
+      "district_id": "606",
+      "district": "Pekan",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1020,
+      "state_slug": "pahang",
+      "district_slug": "pekan"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Pekan, Pahang - Muat turun percuma",
+    "description": "Senarai lengkap 13 mukim di daerah Pekan, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 13 mukim (traditional sub-district units) in Pekan District, Pahang, Malaysia. Mengandungi 13 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Pekan, Pahang | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Pekan, Pahang — 13 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 13 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

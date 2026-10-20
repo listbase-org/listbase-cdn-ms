@@ -1,0 +1,388 @@
+{
+  "id": "ms-kedah-kulim-mukim",
+  "name": "Mukim di Daerah Kulim, Kedah",
+  "title": "Mukim di Daerah Kulim, Kedah",
+  "description": "Senarai lengkap 26 mukim di daerah Kulim, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 26 mukim (traditional sub-district units) in Kulim District, Kedah, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "020902",
+      "name": "Bagan Sena",
+      "name_uppercase": "BAGAN SENA",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 188,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020901",
+      "name": "Junjong",
+      "name_uppercase": "JUNJONG",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 189,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020903",
+      "name": "Karangan",
+      "name_uppercase": "KARANGAN",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 190,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020904",
+      "name": "Keladi",
+      "name_uppercase": "KELADI",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 191,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020905",
+      "name": "Kulim",
+      "name_uppercase": "KULIM",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 192,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020906",
+      "name": "Lunas",
+      "name_uppercase": "LUNAS",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 193,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020907",
+      "name": "Mahang",
+      "name_uppercase": "MAHANG",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 194,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020908",
+      "name": "Naga Lilit",
+      "name_uppercase": "NAGA LILIT",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 195,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020909",
+      "name": "Padang China",
+      "name_uppercase": "PADANG CHINA",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 196,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020910",
+      "name": "Padang Meha",
+      "name_uppercase": "PADANG MEHA",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 197,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020911",
+      "name": "Sedim",
+      "name_uppercase": "SEDIM",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 198,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020912",
+      "name": "Sidam Kanan",
+      "name_uppercase": "SIDAM KANAN",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 199,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020913",
+      "name": "Sungai Seluang",
+      "name_uppercase": "SUNGAI SELUANG",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 200,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020914",
+      "name": "Sungai Ular",
+      "name_uppercase": "SUNGAI ULAR",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 201,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020915",
+      "name": "Terap",
+      "name_uppercase": "TERAP",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 202,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020940",
+      "name": "Bandar Kulim",
+      "name_uppercase": "BANDAR KULIM",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 203,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020941",
+      "name": "Bandar Lunas",
+      "name_uppercase": "BANDAR LUNAS",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 204,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020942",
+      "name": "Bandar Padang Serai",
+      "name_uppercase": "BANDAR PADANG SERAI",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 205,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020970",
+      "name": "Pekan Junjong",
+      "name_uppercase": "PEKAN JUNJONG",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 206,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020971",
+      "name": "Pekan Karangan",
+      "name_uppercase": "PEKAN KARANGAN",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 207,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020972",
+      "name": "Pekan Labu Besar",
+      "name_uppercase": "PEKAN LABU BESAR",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 208,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020973",
+      "name": "Pekan Mahang",
+      "name_uppercase": "PEKAN MAHANG",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 209,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020974",
+      "name": "Pekan Merbau Pulas",
+      "name_uppercase": "PEKAN MERBAU PULAS",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 210,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020975",
+      "name": "Pekan Sungai Karangan",
+      "name_uppercase": "PEKAN SUNGAI KARANGAN",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 211,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020976",
+      "name": "Pekan Sungai Kob",
+      "name_uppercase": "PEKAN SUNGAI KOB",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 212,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    },
+    {
+      "id": "020977",
+      "name": "Pekan Padang Meha",
+      "name_uppercase": "PEKAN PADANG MEHA",
+      "district_id": "209",
+      "district": "Kulim",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 213,
+      "state_slug": "kedah",
+      "district_slug": "kulim"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Kulim, Kedah - Muat turun percuma",
+    "description": "Senarai lengkap 26 mukim di daerah Kulim, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 26 mukim (traditional sub-district units) in Kulim District, Kedah, Malaysia. Mengandungi 26 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Kulim, Kedah | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Kulim, Kedah — 26 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 26 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

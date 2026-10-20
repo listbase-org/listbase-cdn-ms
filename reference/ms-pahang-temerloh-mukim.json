@@ -1,0 +1,256 @@
+{
+  "id": "ms-pahang-temerloh-mukim",
+  "name": "Mukim di Daerah Temerloh, Pahang",
+  "title": "Mukim di Daerah Temerloh, Pahang",
+  "description": "Senarai lengkap 15 mukim di daerah Temerloh, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 15 mukim (traditional sub-district units) in Temerloh District, Pahang, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "060801",
+      "name": "Bangau",
+      "name_uppercase": "BANGAU",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1033,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060802",
+      "name": "Jenderak",
+      "name_uppercase": "JENDERAK",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1034,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060803",
+      "name": "Kerdau",
+      "name_uppercase": "KERDAU",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1035,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060804",
+      "name": "Lebak",
+      "name_uppercase": "LEBAK",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1036,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060805",
+      "name": "Lipat Kijang",
+      "name_uppercase": "LIPAT KIJANG",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1037,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060806",
+      "name": "Mentakab",
+      "name_uppercase": "MENTAKAB",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1038,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060807",
+      "name": "Perak",
+      "name_uppercase": "PERAK",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1039,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060808",
+      "name": "Sanggang",
+      "name_uppercase": "SANGGANG",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1040,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060809",
+      "name": "Semantan",
+      "name_uppercase": "SEMANTAN",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1041,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060810",
+      "name": "Songsang",
+      "name_uppercase": "SONGSANG",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1042,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060840",
+      "name": "Bandar Mentakab",
+      "name_uppercase": "BANDAR MENTAKAB",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1043,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060841",
+      "name": "Bandar Temerloh",
+      "name_uppercase": "BANDAR TEMERLOH",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1044,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060871",
+      "name": "Pekan Kerdau",
+      "name_uppercase": "PEKAN KERDAU",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1045,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060872",
+      "name": "Pekan Kuala Kerau",
+      "name_uppercase": "PEKAN KUALA KERAU",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1046,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    },
+    {
+      "id": "060873",
+      "name": "Lanchang",
+      "name_uppercase": "LANCHANG",
+      "district_id": "608",
+      "district": "Temerloh",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1047,
+      "state_slug": "pahang",
+      "district_slug": "temerloh"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Temerloh, Pahang - Muat turun percuma",
+    "description": "Senarai lengkap 15 mukim di daerah Temerloh, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 15 mukim (traditional sub-district units) in Temerloh District, Pahang, Malaysia. Mengandungi 15 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Temerloh, Pahang | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Temerloh, Pahang — 15 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 15 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

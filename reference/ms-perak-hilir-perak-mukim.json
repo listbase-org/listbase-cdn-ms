@@ -1,0 +1,352 @@
+{
+  "id": "ms-perak-hilir-perak-mukim",
+  "name": "Mukim di Daerah Hilir Perak, Perak",
+  "title": "Mukim di Daerah Hilir Perak, Perak",
+  "description": "Senarai lengkap 23 mukim di daerah Hilir Perak, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 23 mukim (traditional sub-district units) in Hilir Perak District, Perak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "080701",
+      "name": "Bagan Datuk",
+      "name_uppercase": "BAGAN DATUK",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 883,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080702",
+      "name": "Changkat Jong",
+      "name_uppercase": "CHANGKAT JONG",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 884,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080703",
+      "name": "Durian Sebatang",
+      "name_uppercase": "DURIAN SEBATANG",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 885,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080704",
+      "name": "Hutan Melintang",
+      "name_uppercase": "HUTAN MELINTANG",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 886,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080705",
+      "name": "Labu Kubong",
+      "name_uppercase": "LABU KUBONG",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 887,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080706",
+      "name": "Rungkup",
+      "name_uppercase": "RUNGKUP",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 888,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080707",
+      "name": "Sungai Durian",
+      "name_uppercase": "SUNGAI DURIAN",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 889,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080708",
+      "name": "Sungai Manik",
+      "name_uppercase": "SUNGAI MANIK",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 890,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080709",
+      "name": "Telok Baru",
+      "name_uppercase": "TELOK BARU",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 891,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080740",
+      "name": "Bandar Teluk Intan",
+      "name_uppercase": "BANDAR TELUK INTAN",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 892,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080770",
+      "name": "Pekan Bagan Datuk",
+      "name_uppercase": "PEKAN BAGAN DATUK",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 893,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080771",
+      "name": "Pekan Batak Rabit",
+      "name_uppercase": "PEKAN BATAK RABIT",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 894,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080772",
+      "name": "Pekan Batu Dua Puloh",
+      "name_uppercase": "PEKAN BATU DUA PULOH",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 895,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080773",
+      "name": "Pekan Chikus",
+      "name_uppercase": "PEKAN CHIKUS",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 896,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080774",
+      "name": "Pekan Degong",
+      "name_uppercase": "PEKAN DEGONG",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 897,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080775",
+      "name": "Pekan Hutan Melintang",
+      "name_uppercase": "PEKAN HUTAN MELINTANG",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 898,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080776",
+      "name": "Pekan Jendarata",
+      "name_uppercase": "PEKAN JENDARATA",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 899,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080777",
+      "name": "Pekan Kampung Sungai Haji Mohamed",
+      "name_uppercase": "PEKAN KAMPUNG SUNGAI HAJI MOHAMED",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 900,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080778",
+      "name": "Pekan Langkap",
+      "name_uppercase": "PEKAN LANGKAP",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 901,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080779",
+      "name": "Pekan Selekoh",
+      "name_uppercase": "PEKAN SELEKOH",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 902,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080780",
+      "name": "Pekan Simpang Empat",
+      "name_uppercase": "PEKAN SIMPANG EMPAT",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 903,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080781",
+      "name": "Pekan Simpant Tiga (Rungkup)",
+      "name_uppercase": "PEKAN SIMPANT TIGA (RUNGKUP)",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 904,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    },
+    {
+      "id": "080782",
+      "name": "Pekan Sungai Sumun",
+      "name_uppercase": "PEKAN SUNGAI SUMUN",
+      "district_id": "807",
+      "district": "Hilir Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 905,
+      "state_slug": "perak",
+      "district_slug": "hilir-perak"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Hilir Perak, Perak - Muat turun percuma",
+    "description": "Senarai lengkap 23 mukim di daerah Hilir Perak, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 23 mukim (traditional sub-district units) in Hilir Perak District, Perak, Malaysia. Mengandungi 23 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Hilir Perak, Perak | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Hilir Perak, Perak — 23 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 23 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

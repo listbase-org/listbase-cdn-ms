@@ -1,0 +1,256 @@
+{
+  "id": "ms-lapangan-terbang-antarabangsa",
+  "name": "Senarai Lapangan Terbang Antarabangsa Malaysia",
+  "title": "Senarai Lapangan Terbang Antarabangsa Malaysia",
+  "description": "Senarai 7 lapangan terbang berstatus antarabangsa di Malaysia (termasuk International dan International/Military) — KLIA, Senai, Pulau Pinang, Kota Kinabalu, Kuching, Langkawi, Sultan Abdul Aziz Shah/Subang. Setiap rekod mempunyai nama Bahasa Malaysia (Lapangan Terbang Antarabangsa …) dan kod IATA/ICAO.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_bm",
+      "label": "Name Bm",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_bm",
+      "label": "State Bm",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "runway_m",
+      "label": "Runway M",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "source_attribution",
+      "label": "Source Attribution",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    },
+    {
+      "key": "has_icao",
+      "label": "Has Icao",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 8,
+      "iata": "JHB",
+      "icao": "WMKJ",
+      "name_en": "Senai International Airport",
+      "name_bm": "Lapangan Terbang Antarabangsa Senai",
+      "name_slug": "senai-international-airport",
+      "city": "Johor Bahru",
+      "state": "Johor",
+      "state_bm": "Johor",
+      "state_slug": "johor",
+      "type": "International",
+      "operator": "Senai Airport Terminal Services Sdn. Bhd.",
+      "runway_m": "3800",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "CAAM, MAHB, AIP",
+      "has_iata": true,
+      "has_icao": true
+    },
+    {
+      "id": 9,
+      "iata": "LGK",
+      "icao": "WMKL",
+      "name_en": "Langkawi International Airport",
+      "name_bm": "Lapangan Terbang Antarabangsa Langkawi",
+      "name_slug": "langkawi-international-airport",
+      "city": "Langkawi",
+      "state": "Kedah",
+      "state_bm": "Kedah",
+      "state_slug": "kedah",
+      "type": "International",
+      "operator": "MAHB",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "CAAM, MAHB, AIP",
+      "has_iata": true,
+      "has_icao": true
+    },
+    {
+      "id": 34,
+      "iata": "PEN",
+      "icao": "WMKP",
+      "name_en": "Penang International Airport",
+      "name_bm": "Lapangan Terbang Antarabangsa Pulau Pinang",
+      "name_slug": "penang-international-airport",
+      "city": "Bayan Lepas",
+      "state": "Penang",
+      "state_bm": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "type": "International",
+      "operator": "MAHB",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "05°17'44\"N 100°16'20\"E",
+      "source_attribution": "CAAM, MAHB, AIP",
+      "has_iata": true,
+      "has_icao": true
+    },
+    {
+      "id": 54,
+      "iata": "BKI",
+      "icao": "WBKK",
+      "name_en": "Kota Kinabalu International Airport",
+      "name_bm": "Lapangan Terbang Antarabangsa Kota Kinabalu",
+      "name_slug": "kota-kinabalu-international-airport",
+      "city": "Kota Kinabalu",
+      "state": "Sabah",
+      "state_bm": "Sabah",
+      "state_slug": "sabah",
+      "type": "International",
+      "operator": "MAHB",
+      "runway_m": "3780",
+      "status": "Active",
+      "coordinates": "05°56′41″N 116°03′31″E",
+      "source_attribution": "CAAM, MAHB, AIP",
+      "has_iata": true,
+      "has_icao": true
+    },
+    {
+      "id": 86,
+      "iata": "KCH",
+      "icao": "WBGG",
+      "name_en": "Kuching International Airport",
+      "name_bm": "Lapangan Terbang Antarabangsa Kuching",
+      "name_slug": "kuching-international-airport",
+      "city": "Kuching",
+      "state": "Sarawak",
+      "state_bm": "Sarawak",
+      "state_slug": "sarawak",
+      "type": "International",
+      "operator": "MAHB / RMAF",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "CAAM, MAHB, AIP, RMAF",
+      "has_iata": true,
+      "has_icao": true
+    },
+    {
+      "id": 109,
+      "iata": "KUL",
+      "icao": "WMKK",
+      "name_en": "Kuala Lumpur International Airport",
+      "name_bm": "Lapangan Terbang Antarabangsa Kuala Lumpur",
+      "name_slug": "kuala-lumpur-international-airport",
+      "city": "Sepang",
+      "state": "Selangor",
+      "state_bm": "Selangor",
+      "state_slug": "selangor",
+      "type": "International",
+      "operator": "MAHB",
+      "runway_m": "4019",
+      "status": "Active",
+      "coordinates": "02°44′36″N 101°41′53″E",
+      "source_attribution": "CAAM, MAHB, AIP, ICAO",
+      "has_iata": true,
+      "has_icao": true
+    },
+    {
+      "id": 110,
+      "iata": "SZB",
+      "icao": "WMSA",
+      "name_en": "Sultan Abdul Aziz Shah Airport",
+      "name_bm": "Lapangan Terbang Sultan Abdul Aziz Shah",
+      "name_slug": "sultan-abdul-aziz-shah-airport",
+      "city": "Subang",
+      "state": "Selangor",
+      "state_bm": "Selangor",
+      "state_slug": "selangor",
+      "type": "International/Military",
+      "operator": "MAHB / RMAF",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "CAAM, MAHB, AIP, RMAF",
+      "has_iata": true,
+      "has_icao": true
+    }
+  ],
+  "meta": {
+    "title": "Senarai Lapangan Terbang Antarabangsa Malaysia - Muat turun percuma",
+    "description": "Senarai 7 lapangan terbang berstatus antarabangsa di Malaysia (termasuk International dan International/Military) — KLIA, Senai, Pulau Pinang, Kota Kinabalu, Kuching, Langkawi, Sultan Abdul Aziz Shah/Subang. Setiap rekod mempunyai nama Bahasa Malaysia (Lapangan Terbang Antarabangsa …) dan kod IATA/ICAO. Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Lapangan Terbang Antarabangsa Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Lapangan Terbang Antarabangsa Malaysia — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 18 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

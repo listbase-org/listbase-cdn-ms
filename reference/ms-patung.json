@@ -1,0 +1,148 @@
+{
+  "id": "ms-patung",
+  "name": "Patung di Malaysia",
+  "title": "Patung di Malaysia",
+  "description": "Statues in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q108828222",
+      "name_ms": "",
+      "name_en": "Buddha of Wat Phothikyan Phutthaktham",
+      "admin_area_ms": "Pasir Puteh, Kelantan",
+      "admin_area_en": "Pasir Puteh District",
+      "latitude": 6.10912,
+      "longitude": 102.37192,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108828222"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q115325659",
+      "name_ms": "Dataran Lang",
+      "name_en": "Eagle Statue",
+      "admin_area_ms": "Langkawi",
+      "admin_area_en": "Langkawi",
+      "latitude": 6.30879,
+      "longitude": 99.8514,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115325659"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q123384151",
+      "name_ms": "",
+      "name_en": "Francis Light statue",
+      "admin_area_ms": "George Town",
+      "admin_area_en": "George Town",
+      "latitude": 5.420413,
+      "longitude": 100.342345,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123384151"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q108828245",
+      "name_ms": "",
+      "name_en": "Guanyin of Kek Lok Si temple",
+      "admin_area_ms": "George Town",
+      "admin_area_en": "George Town",
+      "latitude": 5.397778,
+      "longitude": 100.2725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108828245"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q28219640",
+      "name_ms": "Naga Kemakmuran",
+      "name_en": "Fortune Dragon",
+      "admin_area_ms": "Yong Peng",
+      "admin_area_en": "Yong Peng",
+      "latitude": 2.020361,
+      "longitude": 103.081167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28219640"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q123468315",
+      "name_ms": "",
+      "name_en": "Statue of Robert Sandilands Frowd Walker",
+      "admin_area_ms": "Bandar Taiping",
+      "admin_area_en": "Taiping",
+      "latitude": 4.860423,
+      "longitude": 100.742802,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123468315"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q123699819",
+      "name_ms": "",
+      "name_en": "Yeap Chor Ee statue",
+      "admin_area_ms": "George Town",
+      "admin_area_en": "George Town",
+      "latitude": 5.42682,
+      "longitude": 100.3239,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123699819"
+    }
+  ],
+  "meta": {
+    "title": "Patung di Malaysia - Muat turun percuma",
+    "description": "Statues in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location). Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Patung di Malaysia | ListBase",
+    "seo_description": "Muat turun Patung di Malaysia — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

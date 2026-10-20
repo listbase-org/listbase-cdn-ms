@@ -1,0 +1,172 @@
+{
+  "id": "ms-taman-botani",
+  "name": "Taman botani di Malaysia",
+  "title": "Taman botani di Malaysia",
+  "description": "Taman botani di Malaysia — 7 entri botanical garden (Taman Botani) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=wd:Q167346 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Rimba Ilmu, Taman Botani Negara Shah Alam, Taman Botani Pulau Pinang, Taman Botani Putrajaya, Taman Orkid Kuala Lumpur. Liputan label Bahasa Melayu: 5/7. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, admin_area_ms, admin_area_en, latitude, longitude, wikidata_url.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q7334402",
+      "name_ms": "Rimba Ilmu",
+      "name_en": "Rimba Ilmu Botanical Gardens",
+      "type_ms": "Taman Botani",
+      "type_en": "Botanical garden",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 3.13107,
+      "longitude": 101.658,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7334402"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q71576011",
+      "name_ms": "Taman Botani Negara Shah Alam",
+      "name_en": "National Botanical Garden Shah Alam",
+      "type_ms": "Taman Botani",
+      "type_en": "Botanical garden",
+      "admin_area_ms": "Shah Alam",
+      "admin_area_en": "Shah Alam",
+      "latitude": 3.0961469,
+      "longitude": 101.5110537,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q71576011"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q7162208",
+      "name_ms": "Taman Botani Pulau Pinang",
+      "name_en": "Penang Botanic Gardens",
+      "type_ms": "Taman Botani",
+      "type_en": "Botanical garden",
+      "admin_area_ms": "George Town",
+      "admin_area_en": "George Town",
+      "latitude": 5.43995833,
+      "longitude": 100.28833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7162208"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q20453578",
+      "name_ms": "Taman Botani Putrajaya",
+      "name_en": "Putrajaya Botanical Garden",
+      "type_ms": "Taman Botani",
+      "type_en": "Botanical garden",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 2.9475,
+      "longitude": 101.69647222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20453578"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q5926987",
+      "name_ms": "Taman Orkid Kuala Lumpur",
+      "name_en": "Kuala Lumpur Orchid Garden",
+      "type_ms": "Taman Botani",
+      "type_en": "Botanical garden",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.143542,
+      "longitude": 101.687608,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5926987"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q137924067",
+      "name_ms": "",
+      "name_en": "Tropical Spice Garden",
+      "type_ms": "Taman Botani",
+      "type_en": "Botanical garden",
+      "admin_area_ms": "Pulau Pinang",
+      "admin_area_en": "Penang",
+      "latitude": 5.463376,
+      "longitude": 100.229248,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137924067"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q96742539",
+      "name_ms": "",
+      "name_en": "Zaharah Botanic Gardens",
+      "type_ms": "Taman Botani",
+      "type_en": "Botanical garden",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.457944444,
+      "longitude": 103.755416666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96742539"
+    }
+  ],
+  "meta": {
+    "title": "Taman botani di Malaysia - Muat turun percuma",
+    "description": "Taman botani di Malaysia — 7 entri botanical garden (Taman Botani) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=wd:Q167346 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Rimba Ilmu, Taman Botani Negara Shah Alam, Taman Botani Pulau Pinang, Taman Botani Putrajaya, Taman Orkid Kuala Lumpur. Liputan label Bahasa Melayu: 5/7. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, admin_area_ms, admin_area_en, latitude, longitude, wikidata_url. Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Taman botani di Malaysia | ListBase",
+    "seo_description": "Muat turun Taman botani di Malaysia — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 11 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

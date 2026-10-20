@@ -1,0 +1,256 @@
+{
+  "id": "ms-ktmb-laluan-jb-sentral-gemas-stesen",
+  "name": "Stesen KTMB pada laluan JB Sentral - Gemas",
+  "title": "Stesen KTMB pada laluan JB Sentral - Gemas",
+  "description": "11 stesen KTMB pada laluan JB Sentral - Gemas (KTM Intercity service). Pecahan daripada ms-ktmb-stesen mengikut keahlian laluan yang dinyatakan dalam sumber.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nama_stesen",
+      "label": "Nama Stesen",
+      "type": "string"
+    },
+    {
+      "key": "kod_stesen",
+      "label": "Kod Stesen",
+      "type": "number"
+    },
+    {
+      "key": "jenis_kod",
+      "label": "Jenis Kod",
+      "type": "string"
+    },
+    {
+      "key": "jenis_stesen",
+      "label": "Jenis Stesen",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "aktif",
+      "label": "Aktif",
+      "type": "boolean"
+    },
+    {
+      "key": "bil_perkhidmatan",
+      "label": "Bil Perkhidmatan",
+      "type": "number"
+    },
+    {
+      "key": "bil_laluan",
+      "label": "Bil Laluan",
+      "type": "number"
+    },
+    {
+      "key": "perkhidmatan",
+      "label": "Perkhidmatan",
+      "type": "string"
+    },
+    {
+      "key": "laluan",
+      "label": "Laluan",
+      "type": "string"
+    },
+    {
+      "key": "ktmb_id",
+      "label": "Ktmb Id",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 20,
+      "nama_stesen": "Bekok",
+      "kod_stesen": 31300,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 2.295292,
+      "longitude": 103.129885,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 2,
+      "perkhidmatan": "KTM Intercity",
+      "laluan": "JB Sentral - Tumpat, JB Sentral - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446f0"
+    },
+    {
+      "id": 35,
+      "nama_stesen": "Gemas",
+      "kod_stesen": 27800,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 2.580054,
+      "longitude": 102.613316,
+      "aktif": true,
+      "bil_perkhidmatan": 2,
+      "bil_laluan": 4,
+      "perkhidmatan": "KTM Intercity, Electric Train Sevice (ETS)",
+      "laluan": "JB Sentral - Tumpat, Padang Besar - Gemas, JB Sentral - Gemas, Tumpat - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446eb"
+    },
+    {
+      "id": 39,
+      "nama_stesen": "JB Sentral",
+      "kod_stesen": 37500,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 1.46308,
+      "longitude": 103.764683,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 2,
+      "perkhidmatan": "KTM Intercity",
+      "laluan": "JB Sentral - Tumpat, JB Sentral - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc44704"
+    },
+    {
+      "id": 58,
+      "nama_stesen": "Kempas Baru",
+      "kod_stesen": 36900,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 1.535885,
+      "longitude": 103.721452,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 2,
+      "perkhidmatan": "KTM Intercity",
+      "laluan": "JB Sentral - Tumpat, JB Sentral - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc4470b"
+    },
+    {
+      "id": 64,
+      "nama_stesen": "Kluang",
+      "kod_stesen": 33200,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 2.033503,
+      "longitude": 103.317511,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 2,
+      "perkhidmatan": "KTM Intercity",
+      "laluan": "JB Sentral - Tumpat, JB Sentral - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446f9"
+    },
+    {
+      "id": 75,
+      "nama_stesen": "Kulai",
+      "kod_stesen": 36000,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 1.66368,
+      "longitude": 103.599143,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 2,
+      "perkhidmatan": "KTM Intercity",
+      "laluan": "JB Sentral - Tumpat, JB Sentral - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446fd"
+    },
+    {
+      "id": 76,
+      "nama_stesen": "Labis",
+      "kod_stesen": 30500,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 2.382531,
+      "longitude": 103.020537,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 2,
+      "perkhidmatan": "KTM Intercity",
+      "laluan": "JB Sentral - Tumpat, JB Sentral - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446f7"
+    },
+    {
+      "id": 78,
+      "nama_stesen": "Layang-Layang",
+      "kod_stesen": 34800,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 1.814029,
+      "longitude": 103.474946,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 1,
+      "perkhidmatan": "KTM Intercity",
+      "laluan": "JB Sentral - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc44700"
+    },
+    {
+      "id": 92,
+      "nama_stesen": "Paloh",
+      "kod_stesen": 32100,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 2.186821,
+      "longitude": 103.193872,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 2,
+      "perkhidmatan": "KTM Intercity",
+      "laluan": "JB Sentral - Tumpat, JB Sentral - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446f3"
+    },
+    {
+      "id": 104,
+      "nama_stesen": "Rengam",
+      "kod_stesen": 34200,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 1.884759,
+      "longitude": 103.403471,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 1,
+      "perkhidmatan": "KTM Intercity",
+      "laluan": "JB Sentral - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446f8"
+    },
+    {
+      "id": 106,
+      "nama_stesen": "Segamat",
+      "kod_stesen": 29100,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 2.507515,
+      "longitude": 102.813342,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 2,
+      "perkhidmatan": "KTM Intercity",
+      "laluan": "JB Sentral - Tumpat, JB Sentral - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446ee"
+    }
+  ],
+  "meta": {
+    "title": "Stesen KTMB pada laluan JB Sentral - Gemas - Muat turun percuma",
+    "description": "11 stesen KTMB pada laluan JB Sentral - Gemas (KTM Intercity service). Pecahan daripada ms-ktmb-stesen mengikut keahlian laluan yang dinyatakan dalam sumber. Mengandungi 11 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen KTMB pada laluan JB Sentral - Gemas | ListBase",
+    "seo_description": "Muat turun Stesen KTMB pada laluan JB Sentral - Gemas — 11 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 11 rekod / 13 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

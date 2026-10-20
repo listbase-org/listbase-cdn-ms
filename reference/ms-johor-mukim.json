@@ -1,0 +1,1249 @@
+{
+  "id": "ms-johor-mukim",
+  "name": "Mukim di Johor",
+  "title": "Mukim di Johor",
+  "description": "Senarai lengkap 132 mukim di negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 132 mukim (traditional sub-district units) in Johor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 132,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "010101",
+      "name": "Bagan",
+      "name_uppercase": "BAGAN",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010102",
+      "name": "Chaah Bahru",
+      "name_uppercase": "CHAAH BAHRU",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010103",
+      "name": "Kampong Bahru",
+      "name_uppercase": "KAMPONG BAHRU",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010104",
+      "name": "Linau",
+      "name_uppercase": "LINAU",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010105",
+      "name": "Lubok",
+      "name_uppercase": "LUBOK",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010106",
+      "name": "Minyak Beku",
+      "name_uppercase": "MINYAK BEKU",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010107",
+      "name": "Peserai",
+      "name_uppercase": "PESERAI",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010108",
+      "name": "Simpang Kanan",
+      "name_uppercase": "SIMPANG KANAN",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010109",
+      "name": "Simpang Kiri",
+      "name_uppercase": "SIMPANG KIRI",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010110",
+      "name": "Sri Gading",
+      "name_uppercase": "SRI GADING",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010111",
+      "name": "Sri Medan",
+      "name_uppercase": "SRI MEDAN",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010112",
+      "name": "Sungai Kluang",
+      "name_uppercase": "SUNGAI KLUANG",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010113",
+      "name": "Sungai Punggor",
+      "name_uppercase": "SUNGAI PUNGGOR",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010114",
+      "name": "Tanjong Sembrong",
+      "name_uppercase": "TANJONG SEMBRONG",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010140",
+      "name": "Bandar Ayer Htam",
+      "name_uppercase": "BANDAR AYER HTAM",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010141",
+      "name": "Bandar Bandar Penggaram",
+      "name_uppercase": "BANDAR BANDAR PENGGARAM",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010142",
+      "name": "Bandar Rengit",
+      "name_uppercase": "BANDAR RENGIT",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010143",
+      "name": "Bandar Senggarang",
+      "name_uppercase": "BANDAR SENGGARANG",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010144",
+      "name": "Bandar Yong Peng",
+      "name_uppercase": "BANDAR YONG PENG",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010201",
+      "name": "Jelutong",
+      "name_uppercase": "JELUTONG",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010202",
+      "name": "Plentong",
+      "name_uppercase": "PLENTONG",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010203",
+      "name": "Pulai",
+      "name_uppercase": "PULAI",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010206",
+      "name": "Sungai Tiram",
+      "name_uppercase": "SUNGAI TIRAM",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010207",
+      "name": "Tanjung Kupang",
+      "name_uppercase": "TANJUNG KUPANG",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010208",
+      "name": "Tembrau",
+      "name_uppercase": "TEMBRAU",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010240",
+      "name": "Bandar Johor Bahru",
+      "name_uppercase": "BANDAR JOHOR BAHRU",
+      "district_id": "102",
+      "district": "Johor Bahru",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010301",
+      "name": "Ulu Benut",
+      "name_uppercase": "ULU BENUT",
+      "district_id": "103",
+      "district": "Kluang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010302",
+      "name": "Kahang",
+      "name_uppercase": "KAHANG",
+      "district_id": "103",
+      "district": "Kluang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010303",
+      "name": "Kluang",
+      "name_uppercase": "KLUANG",
+      "district_id": "103",
+      "district": "Kluang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010304",
+      "name": "Layang-Layang",
+      "name_uppercase": "LAYANG-LAYANG",
+      "district_id": "103",
+      "district": "Kluang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010305",
+      "name": "Machap",
+      "name_uppercase": "MACHAP",
+      "district_id": "103",
+      "district": "Kluang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010306",
+      "name": "Niyor",
+      "name_uppercase": "NIYOR",
+      "district_id": "103",
+      "district": "Kluang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010307",
+      "name": "Paloh",
+      "name_uppercase": "PALOH",
+      "district_id": "103",
+      "district": "Kluang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010308",
+      "name": "Rengam",
+      "name_uppercase": "RENGAM",
+      "district_id": "103",
+      "district": "Kluang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010340",
+      "name": "Bandar Kluang",
+      "name_uppercase": "BANDAR KLUANG",
+      "district_id": "103",
+      "district": "Kluang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010341",
+      "name": "Bandar Paloh",
+      "name_uppercase": "BANDAR PALOH",
+      "district_id": "103",
+      "district": "Kluang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010342",
+      "name": "Bandar Rengam",
+      "name_uppercase": "BANDAR RENGAM",
+      "district_id": "103",
+      "district": "Kluang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010401",
+      "name": "Ulu Sungai Johor",
+      "name_uppercase": "ULU SUNGAI JOHOR",
+      "district_id": "104",
+      "district": "Kota Tinggi",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010402",
+      "name": "Ulu Sungai Selidi Besar",
+      "name_uppercase": "ULU SUNGAI SELIDI BESAR",
+      "district_id": "104",
+      "district": "Kota Tinggi",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010403",
+      "name": "Johor Lama",
+      "name_uppercase": "JOHOR LAMA",
+      "district_id": "104",
+      "district": "Kota Tinggi",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010404",
+      "name": "Kambau",
+      "name_uppercase": "KAMBAU",
+      "district_id": "104",
+      "district": "Kota Tinggi",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010405",
+      "name": "Kota Tinggi",
+      "name_uppercase": "KOTA TINGGI",
+      "district_id": "104",
+      "district": "Kota Tinggi",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010406",
+      "name": "Pantai Timur",
+      "name_uppercase": "PANTAI TIMUR",
+      "district_id": "104",
+      "district": "Kota Tinggi",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010407",
+      "name": "Penggerang",
+      "name_uppercase": "PENGGERANG",
+      "district_id": "104",
+      "district": "Kota Tinggi",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010408",
+      "name": "Selidi Besar",
+      "name_uppercase": "SELIDI BESAR",
+      "district_id": "104",
+      "district": "Kota Tinggi",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010409",
+      "name": "Selidi Kechil",
+      "name_uppercase": "SELIDI KECHIL",
+      "district_id": "104",
+      "district": "Kota Tinggi",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010410",
+      "name": "Tanjung Surat",
+      "name_uppercase": "TANJUNG SURAT",
+      "district_id": "104",
+      "district": "Kota Tinggi",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010440",
+      "name": "Bandar Kota Tinggi",
+      "name_uppercase": "BANDAR KOTA TINGGI",
+      "district_id": "104",
+      "district": "Kota Tinggi",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010501",
+      "name": "Jemaluang",
+      "name_uppercase": "JEMALUANG",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010501",
+      "name": "Ayer Hitam",
+      "name_uppercase": "AYER HITAM",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010502",
+      "name": "Lenggor",
+      "name_uppercase": "LENGGOR",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010503",
+      "name": "Mersing",
+      "name_uppercase": "MERSING",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010504",
+      "name": "Padang Endau",
+      "name_uppercase": "PADANG ENDAU",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010505",
+      "name": "Penyabong",
+      "name_uppercase": "PENYABONG",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010506",
+      "name": "Pulau Aur",
+      "name_uppercase": "PULAU AUR",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010507",
+      "name": "Pulau Babi",
+      "name_uppercase": "PULAU BABI",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010508",
+      "name": "Pulau Pemanggil",
+      "name_uppercase": "PULAU PEMANGGIL",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010509",
+      "name": "Pulau Sibu",
+      "name_uppercase": "PULAU SIBU",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010510",
+      "name": "Pulau Tinggi",
+      "name_uppercase": "PULAU TINGGI",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010511",
+      "name": "Sembrong",
+      "name_uppercase": "SEMBRONG",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010512",
+      "name": "Tenggaroh",
+      "name_uppercase": "TENGGAROH",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010513",
+      "name": "Tenglu",
+      "name_uppercase": "TENGLU",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010514",
+      "name": "Triang",
+      "name_uppercase": "TRIANG",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010540",
+      "name": "Bandar Jemaluang",
+      "name_uppercase": "BANDAR JEMALUANG",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010541",
+      "name": "Bandar Mersing",
+      "name_uppercase": "BANDAR MERSING",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010542",
+      "name": "Bandar Mersing Kanan",
+      "name_uppercase": "BANDAR MERSING KANAN",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010543",
+      "name": "Bandar Padang Endau",
+      "name_uppercase": "BANDAR PADANG ENDAU",
+      "district_id": "105",
+      "district": "Mersing",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010602",
+      "name": "Bandar",
+      "name_uppercase": "BANDAR",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010603",
+      "name": "Bukit Kepong",
+      "name_uppercase": "BUKIT KEPONG",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010606",
+      "name": "Jalan Bakri",
+      "name_uppercase": "JALAN BAKRI",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010607",
+      "name": "Jorak",
+      "name_uppercase": "JORAK",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010610",
+      "name": "Lenga",
+      "name_uppercase": "LENGA",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010611",
+      "name": "Parit Bakar",
+      "name_uppercase": "PARIT BAKAR",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010612",
+      "name": "Parit Jawa",
+      "name_uppercase": "PARIT JAWA",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010614",
+      "name": "Sri Meranti",
+      "name_uppercase": "SRI MERANTI",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010615",
+      "name": "Sungai Balang",
+      "name_uppercase": "SUNGAI BALANG",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010616",
+      "name": "Sungai Raya & Kampung Bukit Pasir",
+      "name_uppercase": "SUNGAI RAYA & KAMPUNG BUKIT PASIR",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010617",
+      "name": "Sungai Terap",
+      "name_uppercase": "SUNGAI TERAP",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010640",
+      "name": "Bandar Bandar Maharani",
+      "name_uppercase": "BANDAR BANDAR MAHARANI",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010641",
+      "name": "Bandar Bukit Kepong",
+      "name_uppercase": "BANDAR BUKIT KEPONG",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010642",
+      "name": "Bandar Panchor",
+      "name_uppercase": "BANDAR PANCHOR",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010643",
+      "name": "Bandar Parit Jawa",
+      "name_uppercase": "BANDAR PARIT JAWA",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010670",
+      "name": "Pekan Bukit Pasir",
+      "name_uppercase": "PEKAN BUKIT PASIR",
+      "district_id": "106",
+      "district": "Muar",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010701",
+      "name": "Ayer Baloi",
+      "name_uppercase": "AYER BALOI",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010702",
+      "name": "Air Masin",
+      "name_uppercase": "AIR MASIN",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010703",
+      "name": "Api-Api",
+      "name_uppercase": "API-API",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010704",
+      "name": "Benut",
+      "name_uppercase": "BENUT",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010705",
+      "name": "Jeram Batu",
+      "name_uppercase": "JERAM BATU",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010706",
+      "name": "Pengkalan Raja",
+      "name_uppercase": "PENGKALAN RAJA",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010707",
+      "name": "Pontian",
+      "name_uppercase": "PONTIAN",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010708",
+      "name": "Rimba Terjun",
+      "name_uppercase": "RIMBA TERJUN",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010709",
+      "name": "Serkat",
+      "name_uppercase": "SERKAT",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010710",
+      "name": "Sungai Karang",
+      "name_uppercase": "SUNGAI KARANG",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010711",
+      "name": "Sungei Pinggan",
+      "name_uppercase": "SUNGEI PINGGAN",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010740",
+      "name": "Bandar Benut",
+      "name_uppercase": "BANDAR BENUT",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010741",
+      "name": "Bandar Pontian Kechil",
+      "name_uppercase": "BANDAR PONTIAN KECHIL",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010770",
+      "name": "Pekan Pekan Nenas",
+      "name_uppercase": "PEKAN PEKAN NENAS",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010801",
+      "name": "Bekok",
+      "name_uppercase": "BEKOK",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010802",
+      "name": "Buloh Kasap",
+      "name_uppercase": "BULOH KASAP",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010803",
+      "name": "Chaah",
+      "name_uppercase": "CHAAH",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010804",
+      "name": "Gemas",
+      "name_uppercase": "GEMAS",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010805",
+      "name": "Gemereh",
+      "name_uppercase": "GEMEREH",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010806",
+      "name": "Jabi",
+      "name_uppercase": "JABI",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010807",
+      "name": "Jementah",
+      "name_uppercase": "JEMENTAH",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010808",
+      "name": "Labis",
+      "name_uppercase": "LABIS",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010809",
+      "name": "Pogoh",
+      "name_uppercase": "POGOH",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010810",
+      "name": "Sermin",
+      "name_uppercase": "SERMIN",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010811",
+      "name": "Sungai Segamat",
+      "name_uppercase": "SUNGAI SEGAMAT",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010840",
+      "name": "Bandar Batu Anam",
+      "name_uppercase": "BANDAR BATU ANAM",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010841",
+      "name": "Bandar Bekok",
+      "name_uppercase": "BANDAR BEKOK",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010842",
+      "name": "Bandar Buloh Kasap",
+      "name_uppercase": "BANDAR BULOH KASAP",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010843",
+      "name": "Bandar Jementah",
+      "name_uppercase": "BANDAR JEMENTAH",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010844",
+      "name": "Badnar Labis",
+      "name_uppercase": "BADNAR LABIS",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010845",
+      "name": "Bandar Segamat",
+      "name_uppercase": "BANDAR SEGAMAT",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010870",
+      "name": "Pekan Gemas Bahru",
+      "name_uppercase": "PEKAN GEMAS BAHRU",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010901",
+      "name": "Kulai",
+      "name_uppercase": "KULAI",
+      "district_id": "109",
+      "district": "Kulaijaya",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010902",
+      "name": "Senai",
+      "name_uppercase": "SENAI",
+      "district_id": "109",
+      "district": "Kulaijaya",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010903",
+      "name": "Sedenak",
+      "name_uppercase": "SEDENAK",
+      "district_id": "109",
+      "district": "Kulaijaya",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010904",
+      "name": "Bukit Batu",
+      "name_uppercase": "BUKIT BATU",
+      "district_id": "109",
+      "district": "Kulaijaya",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "010940",
+      "name": "Bandar Kulai",
+      "name_uppercase": "BANDAR KULAI",
+      "district_id": "109",
+      "district": "Kulaijaya",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "011001",
+      "name": "Tangkak",
+      "name_uppercase": "TANGKAK",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "011002",
+      "name": "Bukit Serampang",
+      "name_uppercase": "BUKIT SERAMPANG",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "011003",
+      "name": "Gersik",
+      "name_uppercase": "GERSIK",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "011004",
+      "name": "Serom",
+      "name_uppercase": "SEROM",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "011005",
+      "name": "Kundang",
+      "name_uppercase": "KUNDANG",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "011006",
+      "name": "Kesang",
+      "name_uppercase": "KESANG",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "011040",
+      "name": "Badnar Bukit Kangkar",
+      "name_uppercase": "BADNAR BUKIT KANGKAR",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "011041",
+      "name": "Bandar Parit Bunga",
+      "name_uppercase": "BANDAR PARIT BUNGA",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "011042",
+      "name": "Bandar Serom",
+      "name_uppercase": "BANDAR SEROM",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "011043",
+      "name": "Bandar Sungai Mati",
+      "name_uppercase": "BANDAR SUNGAI MATI",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "011044",
+      "name": "Bandar Tangkak",
+      "name_uppercase": "BANDAR TANGKAK",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "011070",
+      "name": "Pekan Grisek",
+      "name_uppercase": "PEKAN GRISEK",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Johor - Muat turun percuma",
+    "description": "Senarai lengkap 132 mukim di negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 132 mukim (traditional sub-district units) in Johor, Malaysia. Mengandungi 132 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Johor | ListBase",
+    "seo_description": "Muat turun Mukim di Johor — 132 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 132 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

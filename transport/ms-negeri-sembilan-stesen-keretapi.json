@@ -1,0 +1,272 @@
+{
+  "id": "ms-negeri-sembilan-stesen-keretapi",
+  "name": "Stesen Keretapi di Negeri Sembilan",
+  "title": "Stesen Keretapi di Negeri Sembilan",
+  "description": "Senarai stesen keretapi di Negeri Sembilan, Malaysia — 11 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "country_ms",
+      "label": "Country Ms",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    },
+    {
+      "key": "stesen_minyak_terdekat_km",
+      "label": "Stesen Minyak Terdekat Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q1074978",
+      "name_ms": "Stesen keretapi Bahau",
+      "name_en": "Bahau railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.810278,
+      "longitude": 102.405556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1074978",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "stesen_minyak_terdekat_km": 0.0993
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q1075026",
+      "name_ms": "Stesen keretapi Gemas",
+      "name_en": "Gemas railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.58,
+      "longitude": 102.611944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1075026",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "stesen_minyak_terdekat_km": 0.1378
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q124332571",
+      "name_ms": "Stesen Seremban Sentral",
+      "name_en": "Seremban Sentral",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.718479559,
+      "longitude": 101.939113593,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124332571",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "stesen_minyak_terdekat_km": 0.3508
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q14231002",
+      "name_ms": "Stesen Komuter Sungai Gadut",
+      "name_en": "Sungai Gadut Komuter station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.66048,
+      "longitude": 101.99624,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14231002",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "stesen_minyak_terdekat_km": 1.0721
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q283375",
+      "name_ms": "Stesen Keretapi Seremban",
+      "name_en": "Seremban railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.71889,
+      "longitude": 101.941,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q283375",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "stesen_minyak_terdekat_km": 0.4005
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q4868583",
+      "name_ms": "Stesen Komuter Batang Benar",
+      "name_en": "Batang Benar Komuter station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.83,
+      "longitude": 101.826667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4868583",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "stesen_minyak_terdekat_km": 1.4026
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q6124781",
+      "name_ms": "Stesen Komuter Tiroi",
+      "name_en": "Tiroi Komuter station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.741389,
+      "longitude": 101.871667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6124781",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "stesen_minyak_terdekat_km": 1.37
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q6131690",
+      "name_ms": "Stesen Komuter Nilai",
+      "name_en": "Nilai Komuter station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.802222,
+      "longitude": 101.799444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6131690",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "stesen_minyak_terdekat_km": 0.2634
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q6131819",
+      "name_ms": "Stesen Komuter Labu",
+      "name_en": "Labu Komuter station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.753889,
+      "longitude": 101.826667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6131819",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "stesen_minyak_terdekat_km": 1.1681
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q7311554",
+      "name_ms": "Stesen keretapi Rembau",
+      "name_en": "Rembau railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.593032,
+      "longitude": 102.094562,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7311554",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "stesen_minyak_terdekat_km": 0.3548
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q7450083",
+      "name_ms": "Stesen keretapi Senawang",
+      "name_en": "Senawang Komuter station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.68919444,
+      "longitude": 101.97225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7450083",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan",
+      "stesen_minyak_terdekat_km": 0.3715
+    }
+  ],
+  "meta": {
+    "title": "Stesen Keretapi di Negeri Sembilan - Muat turun percuma",
+    "description": "Senarai stesen keretapi di Negeri Sembilan, Malaysia — 11 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit. Mengandungi 11 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen Keretapi di Negeri Sembilan | ListBase",
+    "seo_description": "Muat turun Stesen Keretapi di Negeri Sembilan — 11 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 11 rekod / 14 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,1942 @@
+{
+  "id": "ms-melaka-masjid-sismim",
+  "name": "Masjid di Melaka",
+  "title": "Masjid di Melaka",
+  "description": "Senarai masjid di Melaka — 209 masjid. Sumber: SISMIM/JAKIM (direktori kebangsaan masjid & surau). Medan: name, state, state_slug, district, address, phone, fax.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 209,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "number"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "MASJID AL - AZIM MASJID NEGERI MELAKA",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "BUKIT PALAH, 75400 MELAKA",
+      "phone": "062841142",
+      "fax": "062860435"
+    },
+    {
+      "name": "MASJID SAYYIDINA ALI, MASJID DAERAH MELAKA TENGAH",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "MASJID SAYYIDINA ALI, BUKIT KATIL, 75450 MELAKA",
+      "phone": "06-2320617",
+      "fax": "06-2320617"
+    },
+    {
+      "name": "MASJID AL-ALAMI (MITC)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "MASJID AL ALAMI MITC AYER KEROH,MELAKA",
+      "phone": "06-2312581",
+      "fax": "06-2312581"
+    },
+    {
+      "name": "MASJID AR-RASYIDIN MASJID DAERAH ALOR GAJAH",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "78000 ALOR GAJAH",
+      "phone": "06-5561254",
+      "fax": "06-5568662"
+    },
+    {
+      "name": "MASJID SELAT MELAKA",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "MASJID SELAT MELAKA, BANDAR HILIR,MELAKA",
+      "phone": "06-2824576",
+      "fax": "06-2824576"
+    },
+    {
+      "name": "MASJID AL-GHAFFAR, MASJID DAERAH JASIN",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "MASJID DAERAH JASIN, JALAN JASIN-MELAKA",
+      "phone": "06-5296097",
+      "fax": "06-5291744"
+    },
+    {
+      "name": "MASJID AL-MUNZIRIN JUS",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "BATU 25, KAMPUNG JUS,77500 SELANDAR MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JELATANG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 29.8 78000 ALOR GAJAH",
+      "phone": "06-5561254",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PERMATANG ILMU",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KG PERMATANG, KOLEJ TEKNOLOGI ISLAM ANTARABANGSA MELAKA, BATU 28, KUALA SUNGAI BARU, 78200 MELAKA.",
+      "phone": "06-3878382",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AIR HITAM DARAT ( AS-SALAM )",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 33.6, KG. AIR HITAM DARAT, MASJID TANAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AIR HITAM PANTAI ( NUR JANNAH )",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 36.8, KAMPUNG AYER HITAM PANTAI 78300 MASJID TANAH,MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AIR LIMAU (RAUDHATUL SOLIHIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 30, KG. AIR LIMAU, 78300 MASJID TANAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AIR MOLEK KUALA SUNGAI BARU (AR-RAFAE)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "Km 43.7, Kg Air Molek 78200 Kuala Sg Baru Melaka.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AIR PAABAS (SAGA)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "BATU 21.5, AYER PAABAS, 78000 ALOR GAJAH, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BELIMBING DALAM (IMAM MUSLIM)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 17.6, BELIMBING DALAM, 76100 DURIAN TUNGGAL",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BERINGIN (AN-NUR)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 21.4, BERINGIN, 76100 DURIAN TUNGGAL",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BERISU (DAHARIYAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 40, BERISU, 78100 LUBUK CINA, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT BULAT (AL-HASSANIAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 33.6, ALOR GAJAH, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID DATUK JANGGUT",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 32, DATUK JANGGUT, 76100 DURIAN TUNGGAL",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID DURIAN DAUN (AL-MUJIB)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 32, DURIAN DAUN, 76100 DURIAN TUNGGAL, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID DURIAN TUNGGAL (AL-NAIM)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 16, DURIAN TUNGGAL, 76100 DURIAN TUNGGAL",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID FELCRA RAMUAN CHINA (AN-NAMIRAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "78100 LUBUK CINA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID FELDA HUTAN PERCHA (AL-HIJRAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 43.2, ALOR GAJAH, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID GADEK (AS-SYAKIRIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 29.6, ALOR GAJAH, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID GANGSA (IHSANUDDIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 13, DURIAN TUNGGAL, 76100",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-SULTAN ABDULLAH",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 28.8,78300 MASJID TANAH,MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG BARU KUALA SUNGAI BARU (AS-SAKINAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 43.2, KUALA SG. BARU, 78200 KUALA SG. BARU",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG LADANG (AL-FATTAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 43.2, KUALA SG. BARU, 78200 KUALA SG. BARU, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG. PULAU (AR-RAZAK)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM.32, KAMPUNG PULAU, 78300 MASJID TANAH, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG TENGAH KUALA SUNGAI BARU (AL-HAFIZ)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 46.6, KG. TENGAH, 78200 KUALA SG. BARU,MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KELEMAK (AL-AMAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM.23.2, KG. KELEMAK, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KEMUNING (AL-IKHWAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 36.8, KEMUNING, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG BARU ALOR GAJAH (AL-ANSAR)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 29, ALOR GAJAH, 73000 TAMPIN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KUALA INA (ALEYAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 36.8 â€“ PULAU SEBANG, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KUALA LINGGI ( AL-MUTTAQIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 51.2, KUALA LINGGI, 78200 KUALA LINGGI, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KUALA SUNGAI BARU (AL-HASANIAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 44.8, KUALA SG. BARU, 78200 KUALA SG. BARU, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LENDU (UMAR AL-KHATTAB)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "K.M 28.8 LENDU, 78000 ALOR GAJAH, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LONDANG (AL-EHSAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 31.6, KG. LONDANG, 78300 MASJID TANAH, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LUBOK CHINA (AL-WAKIL)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 43.2, LUBUK CINA, 78100 LUBUK CINA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LUBOK REDAN (AL-ANSHARIAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 40, LUBOK REDAN, 78200 KUALA SUNGAI BARU",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MACHAP (KHALID AL-WALID)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 25.6 MACHAP 76100 DURIAN TUNGGAL",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TENGAH (AL-MUTTAQIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 29.8 MASJID TANAH, 78300",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MELAKA PINDAH (UBAIDAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 30.4, MELAKA PINDAH 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MELEKEK DALAM (AN-NUR)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 30.4, MELEKEK DALAM, 78000 ALOR GAJAH, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MELEKEK LUAR (AL-MUHSININ)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 30.4, MELEKEK LUAR, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MENGGONG (NURUL FAIZIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 36.8, ALOR GAJAH, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SAIDINA OSMAN FELDA TUN GHAFAR AIR KANGKONG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "FELDA TUN GHAFAR AIR KANGKONG, 77500 SELANDAR, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MARBAWI AIR MERBAU",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 24, KG. AIR MERBAU, 77200 BEMBAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL IMAN AIR PANAS",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 21.6, KG. AIR PANAS, 77200 BEMBAN, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ABIDIN AIR TAWAR",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KG. AIR TAWAR, 77300 MERLIMAU, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PADANG SEBANG (AN-NAJIHIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 31.2, PADANG SEBANG, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-YAQIN BATU GAJAH",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KG. BATU GAJAH, 77300 MERLIMAU, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PANCHOR (AR-RAHMAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 22.4, PANCHOR, 76100 DURIAN TUNGGAL",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PARIT MELANA (AR-RAHMAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 20.8 PARIT MELANA, 76100 DURIAN TUNGGAL",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PAYA DATOK (AL-JAUHARI)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 26.4, PAYA DATOK, 78000 ALOR GAJAH, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PEGOH (AN-NAJWAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM.28.8, PEGOH, 78000 ALOR GAJAH,",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BAITUR RAHMAN BERANGAN ENAM",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 14, JALAN BERANGAN ENAM, UMBAI MERLIMAU, 77300 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PENGKALAN BALAK (AL-JAWAHIR)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 35.2, PENGKALAN BALAK, 78300 MASJID TANAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PULAU SEBANG (ASSYAHIDIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM35.2, PULAU SEBANG, 73000 TAMPIN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-IFFAH SELANDAR",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM.33.6, SELANDAR, 76470 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TANJUNG MINYAK (TUN MOHD KHALIL YAAKUB)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 11, TANJUNG MINYAK, 75250 MELAKA",
+      "phone": "012-9047189 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-FAIZIN BUKIT TEMBAKAU",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 12.8, BUKIT TEMBAKAU, 77300 MERLIMAU",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HIDAYAH CHABAU",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 40, CHABAU,77100 ASAHAN, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID RAMUAN CHINA BESAR (AL-MUHTADI)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 36. RAMUAN CHINA BESAR, 78300 MASJID TANAH, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ABRAR CHENDERAH",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 35.2, CHENDERAH, 77000 JASIN, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID RAMUAN CHINA KECHIL (UBUDIYYAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM. 36.6, Kampung Ramuan China Kechil, 78100 Lubok China, Melaka.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-JUNID CHINCHIN",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 36.8, CHINCHIN,77000,JASIN, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID RANTAU PANJANG (AR-RAHMAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 38.4, RANTAU PANJANG, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-EHSAN CHOHONG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 41.6, CHOHONG, 77000 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID RUMBIA (AN-NASUHA)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 15.6, RUMBIA, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUNAWWARAH FELDA TUN GHAFAR KEMENDOR",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 35.2, FELDA KEMENDOR, 77000 JASIN, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SIMPANG EMPAT (AL-HIDAYAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 32, SEMPANG EMPAT, 78000",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK UBAIDULLAH JASIN",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "BANDAR JASIN, 77000 JASIN MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SOLOK DUKU (NUR EHSAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 27. 2, SOLOK DUKU, 78300 MASJID TANAH, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK AR-RAHIM MERLIMAU",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 23.6, 77300 MERLIMAU, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI BULUH (AL-AMIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 36.8, SUNGAI BULUH, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI JERNIH (IBNU SINA)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 39.6, SUNGAI JERNIH, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUBARAK KELUBI",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 31.2, KELUBI,77000 JASIN ,MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI PETAI (LUQMAN AL-HAKIM)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 20.8, SUNGAI PETAI, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS-SALAM KESANG TUA",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 31.2, KESANG TUA,77000 JASIN,MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI SIPUT (AR-RABBANI)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 48, SUNGAI SIPUT, 78100 LUBUK CHINA, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL HUDA MASJID BARU NYALAS",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 49, KG. MASJID BARU, NYALAS 77100 ASAHAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KEM TERENDAK (ASY-SYUHADA)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "MARKAS GARISON TERENDAK, KEM TERENDAK, 76200 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI TUANG (AMININ)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 36, SUNGAI TUANG, 78200 KUALA SG. BARU, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TABOH NANING (DATO DOL SAID)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 32, TABOH NANING, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ASY-SYUJAAH MERLIMAU UTARA",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "JA 1425,TAMAN MUHIBBAH,77300 MERLIMAU, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RAHMAN PARIT GANTONG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 35.2, PARIT GANTONG, 77400 SUNGAI RAMBAI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TANJUNG BIDARA",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 36.9, TANJUNG BIDARA, 78300 MASJID TANAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AN-NUR FELDA TUN GHAFAR BUKIT SENGGEH",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM. 54, FELDA BUKIT SENGGEH, 77100 ASAHAN, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-FIRDAUS KG. BUKIT SENGGEH",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 36.8, BUKIT SENGGEH, 77500 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TANJUNG DAHAN (NURUL ALAM)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 48.5, TANJUNG DAHAN, 78200 KUALA SUNGAI BARU, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ALIM PAYA TANJUNG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 14.4, PAYA TANJUNG, 77300 MERLIMAU, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TANJUNG RIMAU (AL-QANITEEN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 34.4, TANJUNG RIMAU, 78000 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK AR-RAHMAN PULAI",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 16.8, PULAI, 77300 MERLIMAU",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TEBONG (AL-EHSAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 38.4, TEBONG, 76460 ALOR GAJAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AT-TAQWA RIM",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 31.2, RIM,77000 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TELOK GONG (AS-SAFWAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "KM 38.4, TELOK GONG, 78200 KUALA SUNGAI BARU, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS-SOLIHIN SEBATU",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 28, SEBATU, SUNGAI RAMBAI, 77400 JASIN MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-KAUTHAR MASJID TUA NYALAS",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "MASJID TUA, KAMPUNG NYALAS, 77100 ASAHAN, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ASY-SYAKIRIN SEMPANG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 20.8, SEMPANG, 77300 MERLIMAU",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS-SAJIDIN SEMPANG KERAYONG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 32, SEMPANG KERAYONG, 77000 JASIN MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RAHMAN SERI KESANG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM. 35.2, MASJID FELDA KEMENDOR, 77000 JASIN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ABRAR SERI MINYAK",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 15, SERI MINYAK, UMBAI, 77300 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RASHID SERKAM DARAT",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 17.5, SERKAM DARAT, 77300 MERLIMAU, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK DATUK ANDAK SERKAM PANTAI",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 18.4, SERKAM PANTAI, 77300 MERLIMAU",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS-SYAKIRIN SUNGAI RAMBAI",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 32, SUNGAI RAMBAI, 77400 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AN-NUR TAMAN MAJU",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "TAMAN MAJU, 77000 JASIN, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ALAI (AL-FALIHIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 7.6, KAMPUNG ALAI, 75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUTTAQIN TEDONG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 17.6, TEDONG,77300 MERLIMAU",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AYER KEROH (UBUDIYAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "TAMAN AIR KEROH HEIGHTS, 75450 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HAKEEM TEHEL",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 16, TEHEL, 77200 BEMBAN, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ANSORUSSUNNAH TERENTANG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 33.6, TERENTANG,77000 JASIN, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AYER MOLEK (AL-KHAIRIAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 9.6, AYER MOLEK, 75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-KAUTHAR UMBAI",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 14, UMBAI, 77300 MERLIMAU",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BAKAR BATU (IMAM GHAZALI)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 2.4. JALAN TUN PERAK, KAMPUNG BAKAR BATU, 75300 BACANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BALIK BUKIT (AL-ABRAR)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 10, JALAN TAMBAK BUGIS, BALIK BUKIT, BUKIT LINTANG, 75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BANDAR HILIR (AN-NUR)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 1.5, BANDA HILIR, 75000 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BATANG TIGA (AL-TAQWA)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 8, BATANG TIGA, KLEBANG, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BATU BERENDAM (AL-HIDAYAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 6.4 BATU BERENDAM, 75300 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TUN KHALIL ASAHAN",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 49.6, KAMPUNG ASAHAN,77100 JASIN MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BERTAM HULU (AL-GHUFRAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 13.6, TANJONG MINYAK, 75250 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT BERUANG (TUN SYED AHMAD AL-HAJ)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "BUKIT BERUANG, 75450 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT CHINA (AL-HAMIDEEN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 1, JALAN MUNSYI ABDULLAH, KAMPUNG BUKIT CHINA, 75000 MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT DARAT (AT-TAQWA)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 12, KPG. BUKIT DARAT, TANJONG KLING, 76400 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT DURIAN (AL-MUKMIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 16, KAMPUNG BUKIT DURIAN, 77AYER MOLEK, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT GEDONG (AS-SAKINAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 12, BUKIT GEDONG, TANJUNG KLING, 76400 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT KATIL (RAUDHATUL JANNAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 9.6, BUKIT KATIL, 75450 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT KECHIL (AL-MUHTADIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM13, KAMPUNG BUKIT KECHIL, PAYA DALAM, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT KECHIL TAMAN BUKIT RAMBAI (AL-RAHMAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "JALAN TERUNA 4, TAMAN BUKIT RAMBAI, 75250 MELAKA.",
+      "phone": "013-6226997 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT LINTANG (AL-FAIZIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 10.4, BUKIT LINTANG, 75460 BUKIT LINTANG, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT NIBONG (AL-RIDWAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 19.2, BUKIT NIBONG, 75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT PEGOH (AL-WATHANI)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 12, KAMPUNG BUKIT PEGOH, 75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LIMBONGAN",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 4, LIMBONGAN, 75200 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID CHENG (AN-NAJWAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 8.8, CHENG, 75250 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK LAKSAMANA HANG TUAH KAMPUNG DUYONG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM.5.6, DUYONG, 75450 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG GELAM (AS-SABIRIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 14, KPG. GELAM, TANJONG KLING, 76400 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT RAMBAI (AL-FALAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "BATU 6 1/2, BUKIT RAMBAI, MELAKA",
+      "phone": "012-6035545 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KLEBANG BESAR (SAAD IBNI ABI WAQQAS)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 6, KLEBANG BESAR, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PENGKALAN BATU",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "PENGKALAN BATU, 75350 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TELOK MAS",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 10.4, TELOK MAS, 75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMBAK PAYA",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 12.8, AYER MOLEK, 75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PERNU",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 12, PERNU, 75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI PUTAT",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 9.6, BATU BERENDAM, 75330 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PERINGGIT",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 4, PERINGGIT, 75400 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TENGKERA",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 2, TENGKERA, 75200 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PASIR PUTIH",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 4, BACHANG, 75350 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMPOI (AS-SALAM)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM.12, KAMPUNG TAMPOI, CHENG, 75250 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PANTAI ROMBANG (AL-HILAL)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM.13, PANTAI ROMBANG, TANJONG KLING, 76400 MELAKA",
+      "phone": "012-6353460 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PAYA RUMPUT JAYA (WADHI AS-SIDIQ)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "BATU 11 1/2, KAMPUNG PAYA RUMPUT JAYA, SG. UDANG, 76300 MELAKA",
+      "phone": "017-6121002 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PAYA REDAN",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 20.8, BUKIT LINTANG, 75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PERMATANG PASIR",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 6.4 ALAI,75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PENGKALAN RAMA (FATHUR RAHMAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 2, PENGKALAN RAMA, 75400 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMBAK BALAI PANJANG (AL-HUDA)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 4, BALAI PANJANG, 75250 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG KLING",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 17, JALAN TUKANG MAS, 75400 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SEMABOK",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 4.8, SEMABOK, 75050 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PADANG TEMU",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 8.4, PADANG TEMU, 75050 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI UDANG (TUN ABDUL GHAFFAR BABA)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 17.6, SUNGAI UDANG, 76300 MELAKA",
+      "phone": "016-6637667 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID POKOK ASAM",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "BATU 5 1/2, KPG. PINANG, BATANG TIGA, MELAKA",
+      "phone": "06-3152696 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG TUN RAZAK (AR-RAHMAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM.9, BUKIT KATIL, 75450 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BERTAM MALIM (AL-FAIZIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 7.2, BERTAM MALIM, 75250 MELAKA",
+      "phone": "0126362627 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID UJONG PASIR",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM.3, UJONG PASIR, 75000 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TANGGA BATU PEKAN",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "BATU 9, TANGGA BATU, 76400 MELAKA",
+      "phone": "0176140684",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TANGGA BATU KECHIL (IBADURRAHMAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "BATU 9 1/2, TANGGA BATU, 76400 MELAKA",
+      "phone": "012-6971213 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TANJUNG KLING",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 10, TANJONG KLING, 76400 MELAKA",
+      "phone": "0126447803 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PANTAI TANAH MERAH JAYA (NURUL HIDAYAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 16, KAMPUNG TANAH MERAH JAYA, TANJONG KLING, 76400 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG. KANDANG (AS-SALIMIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM.8, KG. KANDANG, 75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT PIATU (AN-NEKMAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM.4, JALAN BUKIT PIATU, 75150 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PANTAI KUNDOR (AL MOHSININ)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM.16, PANTAI KUNDOR, TANJONG KLING, 76400 MELAKA",
+      "phone": "016-9641694 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG PADANG (AL-UKHWAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 5.6 KG PADANG, JLN POKOK MANGGA, 75250 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL FAIZIN PAYA MENGKUANG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 11.2, BUKIT RAMBAI, MELAKA",
+      "phone": "019-6628595 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG HULU",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM.1, KG. HULU, 75200 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PENGKALAN MINYAK",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM.11.2, AIR MOLEK, 75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUKMINUN SERI MENDAPAT",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM. 25, SERI MENDAPAT, 77300 MERLIMAU, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RIDHUAN PARIT PENGHULU",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM. 32, PARIT PENGHULU, 77400 SG. RAMBAI, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-GHAFFUR MERLIMAU PASIR",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM. 24, MERLIMAU PASIR, 77300 MERLIMAU, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ASY-SYAKIRIN BATANG MELAKA",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM. 43.2, BATANG MELAKA, 73300 BATANG MELAKA, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KRUBONG (AN-NUR)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 16, KERUBONG, 75250 MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PAYA RUMPUT BATU 8.5 (AS-SALIHIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM. 18.6, KAMPUNG PAYA RUMPUT BATU 8.5, 76450 MELAKA",
+      "phone": "016-2181440 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PENGKALAN RANGGAM",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 6.4, KANDANG, 75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PERMATANG DUYONG (AL-WAHHAB)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "D/A NO. 13, JALAN 1, TAMAN SERI DUYONG FASA 1, 75460 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMAN MERDEKA",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "D/A JALAN CENGAL 2, TAMAN MERDEKA, BATU BERENDAM, 75350 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TANAH MERAH KRUBONG (AL-RAHMAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "BATU 10 1/2, KAMPUNG TANAH MERAH, KRUBONG, 75250 MELAKA",
+      "phone": "016-6325478 (P)",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PULAU SAMAK (NURUL HIDAYAH)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 8,JALAN LAPANGAN TERBANG ANTARABANGSA MELAKA, BATU BERENDAM",
+      "phone": "06-317 7615",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PAYA LEBAR (AT-TAQWA)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "MASJID AT-TAQWA KAMPUNG PAYA LEBAR, MASJID TANAH 78300 MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID UTEM",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "MASJID UTEM UNIVERSITI TEKNOLOGI MALAYSIA MELAKA DURIAN TUNGGAL MELAKA",
+      "phone": "06 â€“ 331 6304",
+      "fax": "06-331 6262"
+    },
+    {
+      "name": "MASJID PENJARA SUNGAI UDANG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "MASJID PENJARA SUNGAI UDANG JALAN MASJID TANAH SUNGAI UDANG, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HASANAH PONDOK KEMPAS",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "MASJID AL-HASANAH PONDOK KEMPAS, SELANDAR, JASIN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-BARAKAH KESANG LUAR",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 33.6, KESANG LUAR, 77000 JASIN, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT BARU (AL-EHSAN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "KM 5.6 BUKIT BARU, 75150 MELAKA, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID CINA NEGERI MELAKA",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "PAYA RUMPUT",
+      "phone": "0145305345",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HASANAH SUNGAI RAMBAI",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "LEBUH AMJ SUNGAI RAMBAI, 77400 SUNGAI RAMBAI, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMAN MERDEKA JAYA",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "TAMAN MERDEKA JAYA, BATU BERENDAM, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SELAT MELAKA",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "MASJID SELAT MELAKA, 75000 PULAU MELAKA, MELAKA.",
+      "phone": "062823576",
+      "fax": "062824576"
+    },
+    {
+      "name": "MASJID CINA NEGERI MELAKA (AL-MUTTAQIN)",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "MASJID CINA NEGERI MELAKA, PAYA RUMPUT KRUBONG,75260 MELAKA.",
+      "phone": "063347321",
+      "fax": "063347328"
+    },
+    {
+      "name": "MASJID AL-ALAMI MITC",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "MASJID AL-ALAMI, MITC, BANDAR MITC, HANG TUAH JAYA,75450 AYER KEROH, MELAKA.",
+      "phone": "062312581",
+      "fax": "062312581"
+    },
+    {
+      "name": "MASJID SAYYIDINA ABU BAKAR",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "MASJID SAYYIDINA ABU BAKAR, UNIVERSITI TEKNIKAL MALAYSIA MELAKA, 76100 DURIAN TUNGGAL, ALOR GAJAH, MELAKA.",
+      "phone": "063316260",
+      "fax": "063316262"
+    },
+    {
+      "name": "MASJID SAYYIDINA ABU BAKAR",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "Masjid Sayyidina Abu Bakar, Universiti Teknikal Malaysia Melaka 76100 Durian Tunggal. Alor Gajah, Melaka",
+      "phone": "063316260",
+      "fax": "063316262"
+    },
+    {
+      "name": "MASJID SAYYIDINA ABU BAKAR",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "MASJID SAYYIDINA ABU BAKAR, UNIVERSITI TEKNIKAL MALAYSIA MELAKA, 76100 DURIAN TUNGGAL ALOR GAJAH, MELAKA",
+      "phone": "063316260",
+      "fax": "063316262"
+    },
+    {
+      "name": "MASJID SULTAN MUHAMMAD KE-V",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "MASJID SULTAN MUHAMMAD V, KOMPLEKS PENJARA SUNGAI UDANG, JALAN MASJID TANAH, 75000 SUNGAI UDANG, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SALMAH KHAMIS",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Alor Gajah",
+      "address": "MASJID SALMAH KHAMIS, KAMPUNG DURIAN DAUN, 78300 MASJID TANAH, MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TASIK UTAMA",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Melaka Tengah",
+      "address": "JALAN TU 30, TAMAN TASIK UTAMA, 75450 AYER KEROH, MELAKA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUHAIMIN BEMBAN",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "MASJID AL MUHAIMIN BEMBAN, KM 22, BEMBAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LAMA AIR BAROK",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KG AIR BAROK, JASIN MELAKA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LAMA KAMPUNG PULAI",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 16, KAMPUNG PULAI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TUA TEHEL",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 16, KAMPUNG TEHEL",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LAMA TEDONG",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "KM 19, KAMPUNG TEDONG BARAT",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LAMA SERI MENDAPAT",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "MASJID LAMA SERI MENDAPAT",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LAMA ASAHAN",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "MASJID AL-BUKHARI (MASJID LAMA ASAHAN)",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUHAIMIN BEMBAN",
+      "state": "Melaka",
+      "state_slug": "melaka",
+      "district": "Jasin",
+      "address": "MASJID AL-MUHAIMIN BEMBAN",
+      "phone": "",
+      "fax": ""
+    }
+  ],
+  "meta": {
+    "title": "Masjid di Melaka - Muat turun percuma",
+    "description": "Senarai masjid di Melaka — 209 masjid. Sumber: SISMIM/JAKIM (direktori kebangsaan masjid & surau). Medan: name, state, state_slug, district, address, phone, fax. Mengandungi 209 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Masjid di Melaka | ListBase",
+    "seo_description": "Muat turun Masjid di Melaka — 209 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 209 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

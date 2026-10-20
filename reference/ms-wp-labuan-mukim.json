@@ -1,0 +1,70 @@
+{
+  "id": "ms-wp-labuan-mukim",
+  "name": "Mukim di Wp Labuan",
+  "title": "Mukim di Wp Labuan",
+  "description": "Senarai lengkap 1 mukim di negeri Wp Labuan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 1 mukim (traditional sub-district units) in Wp Labuan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "150101",
+      "name": "Labuan",
+      "name_uppercase": "LABUAN",
+      "district_id": "1501",
+      "district": "",
+      "state_id": "15",
+      "state": "Wp Labuan"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Wp Labuan - Muat turun percuma",
+    "description": "Senarai lengkap 1 mukim di negeri Wp Labuan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 1 mukim (traditional sub-district units) in Wp Labuan, Malaysia. Mengandungi 1 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Wp Labuan | ListBase",
+    "seo_description": "Muat turun Mukim di Wp Labuan — 1 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 1 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

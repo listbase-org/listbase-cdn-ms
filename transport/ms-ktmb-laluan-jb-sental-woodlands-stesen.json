@@ -1,0 +1,106 @@
+{
+  "id": "ms-ktmb-laluan-jb-sental-woodlands-stesen",
+  "name": "Stesen KTMB pada laluan JB Sental - Woodlands",
+  "title": "Stesen KTMB pada laluan JB Sental - Woodlands",
+  "description": "1 stesen KTMB pada laluan JB Sental - Woodlands (KTM Intercity service). Pecahan daripada ms-ktmb-stesen mengikut keahlian laluan yang dinyatakan dalam sumber.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nama_stesen",
+      "label": "Nama Stesen",
+      "type": "string"
+    },
+    {
+      "key": "kod_stesen",
+      "label": "Kod Stesen",
+      "type": "number"
+    },
+    {
+      "key": "jenis_kod",
+      "label": "Jenis Kod",
+      "type": "string"
+    },
+    {
+      "key": "jenis_stesen",
+      "label": "Jenis Stesen",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "aktif",
+      "label": "Aktif",
+      "type": "boolean"
+    },
+    {
+      "key": "bil_perkhidmatan",
+      "label": "Bil Perkhidmatan",
+      "type": "number"
+    },
+    {
+      "key": "bil_laluan",
+      "label": "Bil Laluan",
+      "type": "number"
+    },
+    {
+      "key": "perkhidmatan",
+      "label": "Perkhidmatan",
+      "type": "string"
+    },
+    {
+      "key": "laluan",
+      "label": "Laluan",
+      "type": "string"
+    },
+    {
+      "key": "ktmb_id",
+      "label": "Ktmb Id",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 152,
+      "nama_stesen": "Woodlands Ciq",
+      "kod_stesen": 37600,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 1,
+      "longitude": 10,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 1,
+      "perkhidmatan": "KTM Intercity",
+      "laluan": "JB Sental - Woodlands",
+      "ktmb_id": "5d11bb28402888c73fc44705"
+    }
+  ],
+  "meta": {
+    "title": "Stesen KTMB pada laluan JB Sental - Woodlands - Muat turun percuma",
+    "description": "1 stesen KTMB pada laluan JB Sental - Woodlands (KTM Intercity service). Pecahan daripada ms-ktmb-stesen mengikut keahlian laluan yang dinyatakan dalam sumber. Mengandungi 1 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen KTMB pada laluan JB Sental - Woodlands | ListBase",
+    "seo_description": "Muat turun Stesen KTMB pada laluan JB Sental - Woodlands — 1 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 1 rekod / 13 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

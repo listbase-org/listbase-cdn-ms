@@ -1,0 +1,5506 @@
+{
+  "id": "ms-kedah-masjid-sismim",
+  "name": "Masjid di Kedah",
+  "title": "Masjid di Kedah",
+  "description": "Senarai masjid di Kedah — 605 masjid. Sumber: SISMIM/JAKIM (direktori kebangsaan masjid & surau). Medan: name, state, state_slug, district, address, phone, fax.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 605,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "MASJID ZAHIR (MASJID NEGERI)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JALAN KAMPONG PERAK,05100 ALOR SETAR",
+      "phone": "04-7333288",
+      "fax": ""
+    },
+    {
+      "name": "MASJID RIDZWANIAH PEKAN BALING",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BALING 09100 BALINGKEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID RAUDHATUL FALAH KAMPUNG IBOI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM KUPANG09200 BALINGKEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AKAR PELURU (AL-GHUFRAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "PERSIARAN SULTAN ABDUL HAMID 05050 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ALOR BINJAL (TUNKU ABDUL MALEK)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM TAJAR 06500 LANGGAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ALOR GANU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "KG ALOR GANU MUKIM TITI GAJAH 06200 KEPALA BATAS.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ALOR IBUS (AS-SOLIHIN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "KG ALOR IBUS MUKIM TEBENGAU, 06600 KUALA KEDAH.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-IMAN ALOR MADI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM ANAK BUKIT 05150 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ALOR MALAI (AL-BUKHARY)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JALAN LANGGAR, 05460 ALOR STAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ALOR MELINTANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "ALOR MELINTANG MUKIM GUNUNG 05150 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ALOR MENGKUDU (AL-ISLAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "KG ALOR MENGKUDU 05400 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID DERGA (AL-'IRFAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JLN LANGGAR 05460 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ALOR PAK NGAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM TAJAR 06500 LANGGAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ALOR PULAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM KANGKONG 06600 KUALA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ALOR SEMELA (AS-SALAM)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JLN DATO' KUMBAR MUKIM TAJAR 05300 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT PINANG (AL-HIDAYAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "KG BUKIT PINANG MUKIM BUKIT PINANG 06200 KEPALA BATAS",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BULOH LIMA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "BATU 9, JLN SUNGAI PETANI MUKIM SALA KECHIL06800 KOTA SARANG SEMUT",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG HUJUNG ('AISHAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "KPG HUJUNG, TELUK BAGAN MUKIM PENGKALAN KUNDUR, 05400 ALOR SETAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ALOR MERAH (AR-RAHMAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM ALOR MERAH 05250 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID GERIGIS (AZ-ZAKIAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "KAMPUNG GERIGIS JALAN DATO' KUMBAR 05300 ALOR SETAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID GUNONG SALI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JALAN PUTERA MUKIM MERGONG 05150 ALOR SETAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID GELAM (AL-FALAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "KAMPUNG GELAM JALAN DATO' KUMBAR MUKIM TAJAR 05300 ALOR SETAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID GUNONG (NURUL IMAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "GUNUNG KERIANG MUKIM GUNONG 05200 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ANAK BUKIT (TUNKU INTAN SYAFINAZ)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM ANAK BUKIT 06550 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID HUTAN KAMPUNG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM HUTAN KAMPUNG, 05350 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SEBERANG KAMPUNG BARU (AL-ILMIAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM KUALA KEDAH 06600 KUALA KEDAH.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG BENUA ( AL-A'LA )",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "BATU 6, KAMPUNG BENUA 06650 SIMPANG EMPAT",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG HUMA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM PADANG HANG, 06250 ALOR SETAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG HUTAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM PADANG HANG, 06250 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG JELAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM TAJAR, 06650 SIMPANG EMPAT",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG KANDAI (AR-RAHMAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM TAJAR, 06500 LANGGAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG PISANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM KANGKONG,06650 SIMPANG EMPAT.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG TELOK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM BUKIT PINANG, 06200 KEPALA BATAS.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TITI BARU (AL-KAUTHAR)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM BUKIT PINANG 06200 KEPALA BATAS.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KEBUN PINANG (NURUL IMAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "BATU 4, JLN SG KOROK 05400 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KUALA KANGKONG (AL-FURQAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM KANGKONG06650 SIMPANG EMPAT.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KUALA SALA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM SALA KECIL, 06800 KOTA SARANG SEMUT.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG KUAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM TAJAR 06500 LANGGAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KUAR JAWA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM PADANG LALANG, 06250 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KUBANG BONGOR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM KUBANG ROTAN, 06250 ALOR SETAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KUBANG JAWI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM PADANG LALANG, 06250 ALOR SETAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KUBANG SIAM (RA'AYATUL ISLAM)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM PADANG LALANG, 06250 ALOR SETAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KUBANG TEDUH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM GUNUNG,06570 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KUBANG ROTAN (NURUL EHSAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM KUBANG ROTAN,06250 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KOTA RENTANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM TITI GAJAH, 06000 JITRA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KOTA SARANG SEMUT (AL-ISLAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM SALA KECHIL, 06800 KOTA SARANG SEMUT.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LAHAR BUDI (AL-AMIN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM DERGA, 05400 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LANGGAR (TUNKU KALSOM)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM LANGGAR, 06500 LANGGAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LENGKUAS (AZ-ZAITUN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM LENGKUAS 06200 KEPALA BATAS.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LEPAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM LEPAI, 05350 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LIMBONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM LIMBONG, 06500 LANGGAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MERGONG ('UBUDIYYAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JALAN PUTERA, MUKIM MERGONG 05150 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PADANG HASSAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM LENGKUAS, 06200 KEPALA BATAS.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PADANG LALANG (AL-MAHMUDI)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JALAN PUTERA, 06250 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PADANG PETANI (NURUL IMAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM LIMBONG,06500 LANGGAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SBRG PANTAI JOHOR (HALIM SHAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM PUMPONG, 05150 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG SEMATANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM GUNONG,05150 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMAN WIRA (AR-RAHMAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM MERGONG, LEBUHRAYA SULTANAH BAHIYAH, 05350 ALOR SETAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SEBERANG PUMPONG (AL-HUSIN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM PUMPONG. 05150 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMAN UDA (RAFEAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "LEBUHRAYA SULTANAH BAHIYAH,05350 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SEBERANG CHEGAR (ASMA')",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM ANAK BUKIT, 05150 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SEBERANG KOTA ( AL-MA'RUF)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM KUALA KEDAH, 06600 KUALA KEDAH.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SEBERANG NYONYA (TUNKU ABDUL RAHMAN PUTRA )",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "SEBERANG NYONYA,06600 KUALA KEDAH.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SEBERANG PERAK (AL-EHSAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM ALOR SETAR, 05050 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SELARONG BATANG (AT-TAQWA)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "BATU 8, 06650 SIMPANG EMPAT.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SIMPANG EMPAT KUAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM PADANG. LALANG, 06250 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SIMPANG KUALA (AL-AMAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JALAN. KUALA KEDAH, 05400 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUKA MENANTI (LUTFI)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "KG SUKA MENANTI, MUKIM PUMPONG 05150 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SULTANAH BAHIYAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "LEBUHRAYA SULTANAH BAHIYAH, 05350 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI BARU HILIR (AL-ITTIHAD)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM SUNGAI BARU, 05150 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI BARU (HIDAYATUS SOLIHIN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM GUNONG, 05150 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI MATI (AL-EHSAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JALAN SUNGAI MATI, 06500 LANGGAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TANDOP",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "BATU 3, TANDOP, 05400 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TANJUNG BENDAHARA (AL-AZIZ)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JALAN TANJUNG BENDAHARA, 05300 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TEBENGAU (AS-SA'ADAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM TEBENGAU, 06600 KUALA KEDAH.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TELAGA MAS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM TELAGA MAS, 06400 POKOK SENA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TELOK BULANG (AL-ISLAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM TEBENGAU, 06600 KUALA KEDAH.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TELOK BAGAN (AL-IRSYAD)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JALAN TELUK BAGAN, MUKIM PENGKALAN KUNDUR, 05400 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TELOK CHENGAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JLN KUALA KEDAH MUKIM TELUK CHENGAI, 06600 KUALA KEDAH.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TELOK JUNUS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM PADANG HANG, 06570 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TELOK KANDIS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM DERGA, 05400 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TELOK KECHAI (AL-HUDA)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JALAN KUALA KEDAH, MUKIM TELOK KECHAI, 06600 KUALA KEDAH.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TITI GAJAH (TUAN HUSIN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM TITI GAJAH, 06550 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TOK KELING (AN-NUR)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM DERGA, 05400 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TOK TEMENGGONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM TAJAR, 06500 LANGGAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AMPANG JAJAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM MERGONG, 05050 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG BARU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM TELAGA MAS, 06400 POKOK SENA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMBAK BUNGA (AS-SALAM)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "JALAN KUALA KEDAH, 05400 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MOHD ISKANDAR MAS TEMPAWAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "BATU 2 1/2, JLN DATUK KUMBAR, 05300 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PANTAI JOHOR (AL-BUKHARI)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM PUMPONG, 05250 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HUDA TELOK TEDURI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM PULAI 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SELARONG PANJANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM KANGKONG 06650 SIMPANG EMPAT.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL IMAN, GULAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH KG.GULAU MUKIM SOK 08210 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ISTIQAMAH, KUALA TERIANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KUALA TERIANG, 07000 LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HUDA, PADANG MATSIRAT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "MUKIM PADANG MATSIRAT, 07000 KUAH, LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL- WAFA, PULAU TUBA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "MUKIM KUAH,07000 KUAH,LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NUR AL-HIDAYAH, KELIBANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "MUKIM KUAH, 07000 KUAH, LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ATTASNIM, BAYAS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "MUKIM ULU MELAKA, 07000 KUAH, LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID RIYADZUSSOLIHIN,PADANG LALANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "MUKIM AYER HANGAT,07000 LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-FALAH, PADANG KANDANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "PADANG KANDANG, 07000 KUAH, LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HANA, KUAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "MUKIM KUAH 07000 KUAH LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-TAQWA KISAP",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. KISAP, MUKIM KUAH07000 KUAHLANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUNNAIM, BUKIT TEMIN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "MUKIM ULU MELAKA 07000 KUAH LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-FALAH, SELAT BAGAN NYIOR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "MUKIM KUAH07000 KUAHLANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL ISLAM, SUNGAI ITAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "MUKIM AYER HANGAT 07000 LANGKAWI",
+      "phone": "04-9593291",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ASSOFIAH KEDA WANG TOK RENDONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "(KEDA) JALAN KISAP07000 KUAHLANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUSSAADAH, KILIM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "MUKIM AYER HANGAT 07000 KUAH LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SAIDINA ABU BAKAR ASSIDDIQ, CHANDEK KURA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "MUKIM KEDAWANG 07000 LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID QURROTU'AYUN (BUKIT TUNGGAL)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "MUKIM KUAH 07000 LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MUADZAM SHAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM BELIMBING KANAN 06300 KUALA NERANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPONG BAROKHAS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM BELIMBING KANAN06300 KUALA NERANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-FALAH KG. BUKIT NAMBUA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PADANG TEMAK06300 KUALA NERANGKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG RAMBUTAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PADANG TEMAK06300 KUALA NERANGKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-AKRAM POKOK MACHANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PADANG TEMAK06300 KUALA NERANGKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG NAI TEH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PADANG TEMAK06300 KUALA NERANGKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KUALA PAI( AL-ISLAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PADANG TEMAK06300 KUALA NERANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID FELDA BUKIT TEMBAGA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PADANG TEMAK 06300 KUALA NERANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG. TANDOP BESAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM TEKAI KANAN NAKA 06300 KUALA NERANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HIDAYAH PEKAN NAKA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM TEKAI KANAN NAKA, 06350 ALOR STAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PONG UTARA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM TEKAI KANAN06300 ALOR STAR,KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-BARAKAH FELDA LUBOK MERBAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM TEKAI KIRI 06350 ALOR STAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG KBG. KENYENG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM TEKAI KANAN 06350 ALOR STAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AT-TARMIZI KG. PADANG CHENDERAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MKM PDG TERAP KIRI 06300 KUALA NERANG KEDAH,",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG TANJONG PDG TERAP KANAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PDG TERAP KANAN 06350 KUALA NERANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MA'ARIF KG PADANG GELANGGANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MKM PDG TERAP KANAN 06300 KUALA NERANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ZAINIAH KAMPUNG PISANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MKM PADANG TERAP KIRI 06300 KUALA NERANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG. PADANG NYIOR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PDG TERAP KIRI 06300 KUALA NERANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPONG DATOK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM TEKAI KIRI 06350 KUALA NERANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUBARAK KAMPONG MASJID",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "KG. MASJID LAMA, MUKIM TEKAI KIRI, NAKA 06350 KUALA NERANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG KBG PALAS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PDG TERAP KANAN 06300 KUALA NERANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG. PADANG SANAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PDG TERAP KIRI 06300 KUALA NERANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG SURAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PEDU 06300 KUALA NERANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMIUL KHAIR TONG PELU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PEDU 06300 KUALA NERANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HALIMI KG LABI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM TUALAK 06300 KUALA NERANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG. TENGAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM KURUNG HITAM 06300 KUALA NERANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG BARU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM TUALAK 06300 KUALA NERANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KUBANG LINTAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM KURUNG HITAM 06300 KUALA NERANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK AL-ISLAH KG PERIK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM KURUNG HITAM 06300 KUALA NERANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PADANG SETOL",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PEDU 06300 KUALA NERANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG. LUBUK PERONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM TEKAI KANAN 06300 KUALA NERANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TANJUNG KIRI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "MUKIM PADANG TERAP KIRI 06300 KUALA NERANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-UBUDIAH KAMPUNG KETEMBA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM KUPANG 09110 KUALA PEGANG BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RAHMANIAH BATU 48",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BONGOR 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HIDAYAH ULU TAWAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BAKAI 09700 KARANGAN KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL HUDA KAMPUNG PADANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM PULAI 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-EHSAN KAMPUNG BANDAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM SIONG 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL KHAIRIAH KAMPUNG MAK LIAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BONGOR 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-TAQWA KAMPUNG SIPUT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM SIONG 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL FALAH SIONG KAMPUNG POKOK SETOL",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM SIONG 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-UBUDIAH KAMPUNG WENG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM SIONG 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HUDA KAMPUNG SEDIM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BAKAI 09700 KARANGAN KULIM KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ALMAKBUD CHARUK BEMBAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM PULAI 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK KAMPUNG KUALA KUANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM KUPANG 09200 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUHAJIRIN FELDA TELOI KANAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TELOI KANAN 09300 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL UBUDIAH KAMPUNG ULU BAKAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BAKAI 09020 MALAU KULIM KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL HUDA BATU 8",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM SIONG 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-'ALIATUL ISLAMIAH KAMPUNG CHAROK BERAS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TELOI KANAN 09300 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS-SYAKIRIN KAMPUNG BUKIT HIJAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM KUPANG 09200 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SULTANAH BAHIYAH BAWAH GUNUNG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BONGOR 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AZIZI KAMPUNG TANJUNG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM KUPANG 09200 KUPANG BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HANNNAN KAMPUNG DALAM WANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM PULAI 09100 BALINGKEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID EHSANIAH PEKAN KUPANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM KUPANG 09200 BALINGKEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL HUDA KAMPUNG HANGUS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM KUPANG 09200 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ISLAH KAMPUNG TIAK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM KUPANG 09200 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL MUTMAINNAH KAMPUNG MENGKUANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM KUPANG 09110 KUALA PEGANG BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL JAMEK AL-QADIM, ULU MELAKA LAMA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. ULU MELAKA LAMA, MK. ULU MELAKA, LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUTTAQIN TITI TEDURI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM PULAI 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NUR IMAN KAMPUNG BESAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TELOI KANAN09300 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS-SYAKIRIN KAMPUNG CHAROK KELIAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM PULAI 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG PAYA BESAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TELOI KANAN09300 KUALA KETILKEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ARIFFIN KAMPUNG GUA REBAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM PULAI 09200 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID UBUDIAH KAMPUNG ASAM JAWA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM PULAI 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG BADANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BAKAI 09700 KARANGAN KULIM KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ITTIHAD KAMPUNG TEMBAK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TELOI KANAN09300 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NUR TAQWA KAMPUNG TANDOP",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BONGOR 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID RAHMANI KAMPUNG SADEK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM KUPANG 09200 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HASANIAH KAMPUNG RAMBONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM PULAI 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MUHAMMADI KAMPUNG BECAH SAWA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM SIONG 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMIUL ULUM KUALA DARAK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TELOI KANAN 09300 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SULTAN SALLEHUDDIN KARIAH TOK BANDAR PULAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM PULAI 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-FALAH KAMPUNG SUNGAI LIMAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM PULAI 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ANNURUL HUDAA KAMPUNG KUALA BAKONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BAKAI 09300 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-FATEH KUALA PEGANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM KUPANG09110 BALINGKEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK AL-ITTIFAQIYAH KAMPUNG CHAROK PUTEH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM SIONG09100 BALINGKEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RAHMAH PADANG KULIM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TELOI KANAN 09300 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS-SUBHAN KAMPUNG KUALA NAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BAKAI09700 MALAUKEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PEKAN JITRA (AL-A'LA0",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "JALAN KODIANG 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL MUHSININ TELOK MALEK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM NAGA, 06000 JITRA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID UMAR ABDUL AZIZ TELAGA BATU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM NAGA 06000 JITRA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SAIDINA OTHMAN KARIAH ALOR BIAK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM NAGA, 06000 JITRA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SULTAN RIJALUDDIN KAMPUNG NAGA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM NAGA, 06000",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TUAN GURU HJ SALEH LUBUK KAWAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM NAGA, 06000",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL FATEH TANJUNG PAUH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM NAGA, 06000",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-IKHWAN PIDA 2",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM TUNJANG, 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SAIDINA ALI TOK TAMBAK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM TUNJANG, 06000 JITRA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PIDA 4,TUNJANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM TUNJANG 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID GELONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM GELONG 06000 JITRA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PEKAN TUNJANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM TUNJANG 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TUAN GURU HJ ISHAQ PULAU PISANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM TUNJANG 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-FAIZIN PULAU KETAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM GELONG 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RAUDHAH PIDA 4 PERING",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM PERING 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL BARAKAH KANDIS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM PERING 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SULTAN SALEHUDDIN PAYA STESYEN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM PERING 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUSSALAM SIPUTEH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "06100 KODIANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SULTAN MAHYUDDIN MANSUR SHAH, JERAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "KG. TANJUNG06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SOLAHUDDIN AL AYUBBI GURINDAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM JERAM 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL HASHIM GELONG RAMBAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM JERAM 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BABUS SALAM PIDA 3",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM TUNJANG 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID HJ ISMAIL PULAU MAHARAJA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM PADANG PERAHU 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL ISLAH PUTAT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM PUTAT 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HUDA KARIAH TOK KEPAK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MASJID AL HUDA KARIAH TOK KEPAK MUKIM PUTAT 06100 KODIANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR RAHMAH MANGGOL BONGOR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM PUTAT 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MEGAT DEWA (JAME' ASSALAM)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM AH,06100 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MELELE (AR RAHMAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM AH 06100 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS SIRAJIAH KODIANG LAMA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM KEPLU 06100 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL EHSAN TITI SELANGOR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM KEPLU 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KODIANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM KEPLU 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR RIDWANIAH BATU 4 CHANGLUN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM KEPLU 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL ABRAR KAMPUNG SANGLANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM SANGLANG 06100 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK AR RAHMAH PADANG PERAHU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "KG IMAM MK PADANG PERAHU",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL FALAH BATU 6 SANGLANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "BATU 6, MUKIM SANGLANG 06100 KODIANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AN-NUR KUALA SANGLANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM SANGLANG 06100 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL AKIFIN BATAS BENGKOK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM SANGLANG 06100 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL HUDA LUBUK AYER",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM JERLUN 06150 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ARAFAH LANA BULU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM JERLUN 06150 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AN NAJAH AYER HITAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "AIR HITAM, MUKIM JERLUN 06150 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AT-TAQWA KARIAH JERLUN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MASJID AT-TAQWA KARIAH JERLUN MUKIM JERLUN AYER HITAM",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR RAHMAN KERPAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM JERLUN 06150 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL AHMADIAH KUBANG SEPAT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM JERLUN 06150 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL AKHYAR MATANG BONGLAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM JERLUN 06150 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL EHSAN KAMPUNG PIDA 7",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM JERLUN 06150 KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG DARAT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM TEMIN 06010 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID IHYA' ULUMUDDIN CHANGLUN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM TEMIN 06010 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID FELDA BATU 8 CHANGLUN (AL-HIJRAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM SG LAKA06010 JITRAKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ABIDIN KAMPUNG SUNGAI LAKA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM SG LAKA 06010 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SAIDINA ABU BAKAR LEMBAH PALAS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM SG. LAKA 06010 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BANI HASHIM HOSBA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM HOSBA 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-BUKHARI KAMPUNG BUKIT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM HOSBA 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-AMIN CHEROK MOKKAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM HOSBA 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL FALAH FELDA GUAR NAPAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM HOSBA 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID DARUS SALAM KAMPUNG KUBANG PASU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAHRA ASUN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM BINJAL 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ABU UBAIDAH KAMPUNG BINJAL",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM BINJAL 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ABU BAKAR KAMPUNG MALAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM MALAU 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID DARUL QURRA' WANG TEPUS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM TEPUS 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL IMAN BUKIT TINGGI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM BUKIT TINGGI 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK AS SHAHAB KEPALA BATAS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM BUKIT TINGGI 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR RAHMAH PULAU TIMBUL",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM JERAM 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SAIDINA OMAR AL KHATTAB KARIAH KETOL",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "BATU 17 JLN KODIANG 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID FELDA BUKIT TANGGA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM TEMIN 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL IHSAN CHANGKAT SETUL",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM TEMIN 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL MUHAJIRIN BUKIT KAYU HITAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "LADANG RAKYAT MUKIM TEMIN 06050 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SHARIFAH FATIMAH KEMUNTING",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM GELONG 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL UBUDIAH PERING",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM PERING 06100 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HUDA FELDA LAKA SELATAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM SG. LAKA 06010 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUTTAQIN BANDAR DARULAMAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM NAGA 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR RAHMAN KEPALA BATU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MUKIM PELUBANG 06000 JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK TUAN GURU HAJI ABD AZIZ PEKAN PENDANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM AIR PUTIH 06700 PENDANGKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID POKOK TAI (AL-MUNIRA)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM AIR PUTIH06700 PENDANGKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RAHMAN PAYA KERCHUT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM AIR PUTIH PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-IRSYAD KUALA RIMAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM AIR PUTIH 06700 PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-AMIN KOBAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM AIR PUTIH 06700 PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SHARIFAH HUSNA PAYA SENA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM AIR PUTIH 06700 PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMIUR RAHMAN PAYA KELUBI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "KG. TEMPOYAK MUKIM AIR PUTIH 06700 PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ATTA'AWUN AYER PUTEH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM AIR PUTIH PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID as-solihin BATU MENUNGGUL",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM AIR PUTIH 06700 PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT JAMBUL (AT-TAQWA)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM AIR PUTIH06700 PENDANGKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT RAYA (FATHURRAHMAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM BUKIT RAYA 06700 PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK SHEIKH ABDULLAH AL-YAFIE KUBANG JELAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM BUKIT RAYA 06600 PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID HASANI KAMPUNG RAMBAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM BUKIT RAYA 06600 PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS SYAKIRIN PEKAN TOKAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM BUKIT RAYA 06600 PENDANG KEDAH",
+      "phone": "04-7641767",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AT TAAHIRIN KAMPUNG PULAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM BUKIT RAYA 06600 PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MUHAMMADI PULAU TENGAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM PADANG KERBAU",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KHALID AL WALID PADANG DURIAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "mukim PADANG KERBAU PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BADIE BENDANG RAJA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM PADANG KERBAU PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUTHIYAH CHEGAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM PADANG PUSING PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-FALAH Sungai TIANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM PADANG KERBAU PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AN-NUR SUNGAI JAGONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM PADANG PUSING PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID 'ibadurrahman aloR BESAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM BUKIT RAYA 06600 PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL IMAM AL SHAFIE SAWA KECHIL",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "KG. SAWA KECHIL MUKIM PADANG PUSING 06700 PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID UMMUL QURA KAMPUNG SENA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM TOBIAR PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID FUTUHURRAHMAN CHAROK KELADI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM PADANG PUSING PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HUDA ALOR PUDAK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM Tobiar PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL IHSAN PAYA RAWA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM TOBIAR PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID RAUDATUL SA'ADAH GELONG GAJAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM TOBIAR PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL FATHONIYAH GUAR KEPAYANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM GUAR KEPAYANG 06700 PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL EHSAN TANAH MERAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM GUAR KEPAYANG PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL HALIMI CHAROK KUDONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM GUAR KEPAYANG PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID darul MuHAMMADI, KERKAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM GUAR KEPAYANG PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID jamek sultan abdul halim KUBUR PANJANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM RAMBAI PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUHIBBIN KAMPUNG BELAT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM RAMBAI PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK TOK MO REH PERUPUK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM RAMBAI PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID raudhatul jannah KUBANG PISANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM RAMBAI PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID U'BUDIA SENARA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM RAMBAI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL IMAN KAMPUNG BARU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM PADANG PELIANG PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL IHSAN PAYA MENGKUANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM AIR PUTIH PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HIDAYAH BUKIT MAk INSON",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM AIR PUTEH PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AN-NUR tanjung setol",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM AIR PUTIH PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID HAMIDI MANJALARA KEPALA BUKIT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM TOBIAR PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HASANIAH BENDANG BUKIT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM RAMBAI PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID arrhuhamaa' KEPALA PARIT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "mukim bukit raya PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID nur hidayah JELUTONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM TOBIAR 06660 PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ULUL ILMI MAHAWANGSA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "KG. SUNGAI SIPUT MUKIM PADANG PELIANG PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID FATHUL MAJID HUJUNG KETON/LINCHAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM PADANG KERBAU PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PERMATANG PASIR (AL-IRFAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "KAMPUNG PERMATANG PASIR",
+      "phone": "013-5841961",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PEKAN BANDAR BAHARU 9 (AL-HALIMI)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "PEKAN BANDAR BAHARU,34950 BANDAR BAHARUKEDAH",
+      "phone": "019-4161516",
+      "fax": "05-7167616"
+    },
+    {
+      "name": "MASJID SUNGAI KECIL ULU (AL-HUDA)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "BATU 27,SUNGAI KECHIL ULU, 34950 BANDAR BAHARU, KEDAH.",
+      "phone": "0194403529",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PERMATANG KERAT TELUNJUK (AL-ISLAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "KAMPUNG PERMATANG KERAT TELUNJUK",
+      "phone": "013-4090278",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT APENG (AL-AFDHAL)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "KAMPUNG BUKIT APENG, MUKIM BAGAN SAMAK",
+      "phone": "01112453600",
+      "fax": ""
+    },
+    {
+      "name": "MASJID CHELONG BATU 22 (AL-RIDZUAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "CHELONG BATU 22, LUBUK BUNTAR,09800 SERDANG,KEDAH",
+      "phone": "'0194803133",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SERDANG (AL-FATEH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "LOT 1459 JALAN TASIK SRI SERDANG BANDAR BAHARU SERDANG 09800 SERDANG KEDAH",
+      "phone": "013-4115959",
+      "fax": "04-4078991"
+    },
+    {
+      "name": "MASJID SELAMA (AL-BARAKAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "PEKAN SELAMA 09810 SELAMA KEDAH",
+      "phone": "013 4584354",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI TAKA (AT-TUQA)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "KAMPUNG SUNGAI TAKA",
+      "phone": "012-566 2332/01",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI TENGAS (AL-FALAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "KAMPUNG SUNGAI TENGAS",
+      "phone": "012-5498331",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AIR PUTIH (AR-RAHMAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "AIR PUTIH 09800 SERDANG KEDAH",
+      "phone": "019-5960896",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PARIT NIBONG (AL-AMAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "PARIT NIBONG, MUKIM BAGAN SAMAK 34950 BANDAR BAHARU KEDAH",
+      "phone": "0174213280",
+      "fax": ""
+    },
+    {
+      "name": "MASJID RELAU (AN-NUR)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "PEKAN RELAU, MUKIM RELAU, 34950 BANDAR BAHARU KEDAH",
+      "phone": "0195651757",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI KECHIL ILIR (AN-NAIM)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "SG.KECHIK ILIR34950 BANDAR BAHARUKEDAH",
+      "phone": "019-4803105",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI BATU (AL-KHAIRIAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "SUNGAI BATU, 09800 SERDANG KEDAH",
+      "phone": "012-4546658",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI SALLEH (AT-TAUFIQ)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "SUNGAI SALLEH, 09800 SERDANGKEDAH",
+      "phone": "012-4360322",
+      "fax": ""
+    },
+    {
+      "name": "AL-JAMIUL MAKMUR PEKAN KULIM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "KULIM 09000 KULIMKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AN NUR JUNJONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "JUNJUNG MUKIM JUNJONG09000 KULIMKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AL HUDA KELANG LAMA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "KELANG LAMA 09000 KULIM KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "TUNKU ABDUR RAHMAN PUTRA SUNGAI LIMAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "SUNGAI LIMAU MUKIM LUNAS 09600 LUNAS KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "ABD. HALIM MUADZAM SHAH, PERMATANG TOK DIK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "PERMATANG TOK DIK, MUKIM NAGA LILIT 09400 PADANG SERAI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "JANNATUL MA'WA NAGALILIT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "NAGALILIT09400 PADANG SERAI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AL MUHTADIN SUNGAI SELUANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "SUNGAI SELUANG09600 LUNASKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AS SYAHIDIN TERAT BATU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "TERAT BATU MUKIM SIDAM KANAN 09400 PADANG SERAIKEDAH",
+      "phone": "O4-4851061",
+      "fax": ""
+    },
+    {
+      "name": "AN NAJAH PADANG SERAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "MASJID PADANG SERAI MUKIM SIDAM KANAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "JAMEK DARULAMAN GUAR LOBAK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "GUAR LOBAK MUKIM SIDAM KANANPADANG SERAIKEDAH",
+      "phone": "04-4851182",
+      "fax": ""
+    },
+    {
+      "name": "DARUL ULUM MERBAU PULAS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "MERBAU PULAS KUALA KETIL KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "NURUL EHSAN SUNGAI KARANGAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "SUNGAI KARANGAN MUKIM PDG MEIHA PADANG SERAI KEDAH",
+      "phone": "0194367237",
+      "fax": ""
+    },
+    {
+      "name": "JAMEK AL-ITTIHAD SUNGAI KOB",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "SUNGAI KOB, MUKIM KARANGAN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "HAJI YASIN SEDIM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "SEDIM MUKIM SEDIMKARANGAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AL-FALAH SELARONG PANJANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "SELARONG PANJANG 09700 KARANGAN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AR-RAHMAN mahang",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "MAHANG MUKIM MAHANG09600 KARANGANKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AS SOLIHIN bagan sena",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "BAGAN SENA MUKIM BAGAN SENA09010 KULIMKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SULTAN BADLISHAH labu besar",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "LABU BESAR MUKIM BAGAN SENA09010 KULIMKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AL-AZIM KAMPUNG BIKAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "KAMPUNG BIKAN MUKIM BAGAN SENA09010 LABU BESARKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AL-FURQAN sungai ular",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "SUNGAI ULAR MUKIM SG ULAR 09000 KULIM KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AS SYARIF sungai tengas",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "SUNGAI TENGAS MUKIM TERAP09800 SERDANGKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AS-SOBIRIN padang china",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "PADANG CHINA, MUKIM PADANG CINA 09700 KARANGAN, KEDAH.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "NURUL IMAN felda gunung bongsu",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "FELDA GUNUNG BONGSU MUKIM KARANGAN 09700 KARANGAN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AL-MUJAHIDIN batu puteh",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "BATU PUTEH MUKIM PDG CHINA09700 KARANGANKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SULTAN ABD. HALIM MUADZAM SHAH KAMPUNG DARUL AMAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "KAMPUNG DARUL AMAN MUKIM KULIM 09000 KULIM KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AL-TAUFIQ AIR MERAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "AIR MERAH MUKIM KULIM 09000 KULIM KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AR-RAUDZOH terap",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "TERAP MUKIM TERAP 09800 SERDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AL-ABRAR kampung badlishah",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "BADLISHAH MUKIM TERAP 09800 SERDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AL-MUTTAQIN taman selasih",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "TAMAN SELASIH MUKIM KULIM 09000 KULIM KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AS-SYAKIRIN sungai pasir dalam",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "SUNGAI PASIR DALAM, MUKIM TERAP 09800 KARANGAN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SAIDINA ABU BAKAR AS-SIDDIQ taman kenari",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "TAMAN KENARI, MUKIM SG ULAR 09000 KULIM KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RAHMAN- PEKAN SIK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH PEKAN SIK, MUKIM SIK 08200 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AN-NAIM KG. NAMEK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH NAMEK MUKIM SIK 08200 SIK KEDAH",
+      "phone": "044-695229",
+      "fax": "04-4694675"
+    },
+    {
+      "name": "MASJID AS-SALAM, CHEPIR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH CHEPIR MUKIM SIK 08200 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ISLAH BANDAR BARU BERIS JAYA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH BANDAR BARU BERIS JAYA MUKIM TELOI 08200 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG BELANTIK (AL-WUSTHA)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH BELANTIK MUKIM SOK 08210 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-AHMADIAH NAMI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH NAMI MUKIM SOK 08210 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUHTADIN SIK DALAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH SIK DALAM MUKIM SIK 08200 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RIDZWAN, HUJUNG BANDAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH KG. HUJUNG BANDAR MUKIM TELOI 08200 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HALIMI, BATU 5",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH BATU LIMA MUKIM TELOI 08200 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-U'LA KG TELOI TUA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH TELOI TUA 08200 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-EHSAN KG. TUPAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH KG TUPAI MUKIM TELOI 08200 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAJUDIN KUALA RUMAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH KUALA RUMAN MUKIM JENERI 08320 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUTTAQIN KG. PADANG CHICAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH PADANG CICAR MUKIM JENERI 08320 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-IRFAN, KG. GAJAH PUTIH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH GAJAH PUTEH JENERI 08320 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-BAROKAH, BERONA KANAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH BERONA MUKIM JENERI 08320 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AN-NUR FELDA TELOI TIMUR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "MASJID AN-NUR KARIAH FELDA TELOI TIMURMUKIM TELOI 09300 KUALA KETILKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AD-DINI KG. CHEMARA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH CEMARA MUKIM TELOI 08200 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-FALAH KG BETONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "MASJID AL-FALAH KARIAH KG BETONG MUKIM JENERI08320 SIKKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MAARIF KG JENERI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "MASJID AL-MAARIF KARIAH JENERI MUKIM JENERI 08320 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS-SOLIHIN, KG LANDAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "MASJID AS-SOLIHIN KARAIAH KG LANDAIMUKIM SOK08210 SIKKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL ISLAM CHAROK TOK UBAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "MASJID NURUL ISLAM KARIAH KG CAROK TOK UBAN MKM SIK 08200 SIKKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HUDA KG LUBUK TUALANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "MASJID AL-HUDA KARIAH LUBUK TUALANG MUKIM SIK08200 SIKKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS-SHAHIDIN KG KOTA AUR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "MASJID AS-SHAHIDIN KARIAH KOTA AUR MUKIM SOK 08210 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ABROR KG BARU DANGLAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "MASJID AL-ABRAR KARIAH DANGLAU MUKIM SOK 08210 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-UBUDIAH KG. SG PAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KARIAH SUNGAI PAU MUKIM TELOI 08200 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ZAHRAH SG SENAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "MASJID AZ-ZAHRAH KARIAH SG SENAM MUKIM JENERI 08320 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SULTAN MUZAFFAR SHAH BANDAR SUNGAI PETANI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "BANDAR SG PETANI 08000 SUNGAI PETANI KEDAH",
+      "phone": "019-5465682",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUQARRABIN ALOR JAWI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KOTA KUALA MUDA08500 SG PETANIKEDAH",
+      "phone": "019-5989376",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ABU BAKAR AS-SIDDIQ BAKAR ARANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KAMPUNG BARU,JALAN BAKAR ARANG 08000 SG PETANIKEDAH",
+      "phone": "044214586",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-UBUDIAH BATU BELACAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "BATU BELACHAN BUKIT SELAMBAU 08010SG PETANIKEDAH",
+      "phone": "013-4820709",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SULTAN ABDUL HALIM MUADZAM SHAH BATU 2",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "JALAN KUALA KETIL 08000 SG PETANIKEDAH",
+      "phone": "019-5418551",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BATU LINTANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "08000 SG PETANIKEDAH",
+      "phone": "017-4025800",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-NAIM BATU 9",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KG BATU 9 LN JENIANG08300 GURUNKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID OTHMANIAH BATU 3",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "JALAN JENIANG 08700 GURUN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-KHAIRIAH BEDONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "08100 BEDONG KEDAH",
+      "phone": "012-4659978",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUTTAQIN KAMPUNG BUJANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KAMPUNG BUJANG, MERBOK, 08100 BEDONGKEDAH",
+      "phone": "013-4406061",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TUAN HAJI YUSOFF BUKIT KECHIL KOTA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KAMPUNG BUKIT KECIL, BUKIT MERIAM, KOTA KUALA MUDA, 08500 SG PETANI, KEDAH",
+      "phone": "019-5482467",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL HASANAH BUKIT KECHIL SIMPOR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KOTA KUALA MUDA08000 SG PETANIKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS-SAADI BUKIT MERIAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KOTA KUALA MUDA 08500 SG PETANI KEDAH",
+      "phone": "044375301",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-WAJDI BUKIT SELAMBAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MUKIM TELOI KIRI 08010 SG PETANI KEDAH",
+      "phone": "019-5693141",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS-SYAKIRIN GUAR STESYEN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "08300 GURUN KEDAH",
+      "phone": "019-5073364",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PEKAN GURUN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "08300 GURUNKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "HAJI KUDONG (MASJID ASY-SYAKIRIN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MUKIM HJ KUDUNG 08500 SG PETANIKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JENIANG (SAFUAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "JENIANG 08700 GURUN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL HIDAYAH KAMPUNG BERAPIT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "08600 SUNGAI PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HUDA KAMPUNG JERONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "TIKAM BATU, 08000 SG. PETANIKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUHSININ KARIAH KAMPUNG RAJA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KAMPUNG RAJA BATU 1 JALAN KUALA KETIL",
+      "phone": "04-4230397",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KOTA RAJA KARIAH KOTA KUALA MUDA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MASJID KOTA RAJA KARIAH KOTA KUALA MUDA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HUSNA KARIAH KUALA SIN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KARIAH KUALA SIN BUKIT SELAMBAU, 08010 SG PETANI, KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK KARIAH KUALA SUNGAI MUDA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MASJID KUALA SUNGAI MUDA KOTA KUALA MUDA KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KARIAH MATANG GEDONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KAMPUNG PERMATANG GEDONG, 08000 SG PETANIKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-BUSYRA KARIAH PEKAN MERBOK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MASJID AL-BUSYRA KARIAH PEKAN MERBOK 08400 MERBOK KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ATIQ KARIAH MASJID MERBOK LAMA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MERBOK 84000 SG PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TUNKU PUAN HABSAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KG. PADANG TEMUSU SG PASIR 08000 SG PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUHSININ",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KG. PANTAI CICAR, JLN SUNGAI PETANI, MK. SIDAM KIRI 09300 KUALA KETIL KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PANTAI PRAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "SIDAM KIRI 09400 KUALA KETIL KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PASIR JERNIH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "08400 MERBOK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PENGKALAN BUJANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "08100 BEDONG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PENGKLAN KAKAP( ABDUL RAHMAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "08400 MERBOK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PENGKALAN LEBAI MAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "08000 SG PETANIKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PERMATANG BERANGAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "PINANG TUNGGAL 08000 SG PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PERMATANG PASIR (AL-KHALIDIAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KAMPUNG PERMATANG PASIR KOTA KUALA MUDA08500 SG PETANIKEDAH",
+      "phone": "0194800517",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PINANG TUNGGAL",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MUKIM PINANG TUNGGAL 08000 SG PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PERMATANG TENGAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "BUKIT MERIAM 08500 SG PETANIKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ZUHRI SEMELING",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "JALAN RAYA SG PETANI, SEMELING BEDONG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SIDAM KIRI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "09400 PADANG SERAI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SIMPOR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KOTA KUALA MUDA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SINTOK BUGIS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KG SINTOK BUGIS, BUKIT MERIAM08500 SG PETANIKEDAH",
+      "phone": "0175890334",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SERI JERAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "08300 GURUN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SG GELAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MUKIM BUJANG 84000 MERBOK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI LALANG (AL-MAKMUR)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "SUNGAI LALANG 08100 SG PETANIKEDAH",
+      "phone": "0195592741",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI LAYAR (AL AMIN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "SUNGAI LAYAR 08000 SG PETANIKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI LAYAR HUJUNG (AL-MAJIDI)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KAMPUNG SUNGAI LAYAR HUJUNG, 08000 SG PETANIKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SUNGAI PASIR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KOTA KUALA MUDA08000 SG PETANIKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SG PIAL",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "08400 MERBOK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMAN BANDAR BARU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "SG LALANG08100 BEDONGKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMAN RIA (AL MUTTAQIN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "TAMAN RIA08000 SG PETANIKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TANJUNG DAWAI (HAJI ZAINUDDIN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "08100 MERBOK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ERSYAD",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MASJID AL-ERSYAD KG TEMPOYAK MERBOK 08100 BEDONG KEDAH",
+      "phone": "019-4481447",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK TELOK AMBOI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KAMPUNG TELOK AMBOI, BUKIT MERIAM 08500 SG PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ASSALAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MASJID KG TELUK WANG SG PASIR 08500 SG PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TIKAM BATU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "08600 SG PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TUKANG JUSOH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "BUKIT MERIAM 08500 SG PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-IHSAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MASJID AL-IHSAN KARIAH KG BERJAYA JENIANG, 08600 GURUN, KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL- IKHLAS PULAU SEPOM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MASJID AL- IKHLAS PULAU SEPOM MUKIM PEKULA TIKAM BATU 08600 SG PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMAN INTAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MUKIM SG PETANI 08600 SG PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMAN RIA JAYA (SULTAN ABDUL HALIM )",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KARIAH TAMAN RIA JAYA MUKIM SG PETANI08000 SG PETANIKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LEBAI SENAWI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KAMPUNG POKOK MACANG, MUKIM TELOI KIRI BUKIT SELAMBAU 08010 SG PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID POKOK ASAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MUKIM PEKULA, 08000 TIKAM BATU, SUNGAI PETANI, KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMAN KELADI (AL-ABRAR)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MUKIM SG PETANI08000 SG PETANIKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PENGHULU HIM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MUKIM SG PETANI08000 SG PETANIKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SG DAUN TENGAH (AL-RIDHWAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "SG LIMAU 06880 ALOR STAR KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAAMI' AL-JADIID, ULU MELAKA BARU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. PADANG GAUNG, MK. ULU MELAKA,LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SG DEDAP (AL-KHAIRIAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "KOTA SARANG SEMUT06800ALOR STARKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG SETAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "06900 YANKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BATU 14 (AL-ISLAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "SIMPANG 3 SG DAUN 06600 SG LIMAUKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SG YAN (ABDUL RAHMAN PUTRA AL-HAJ)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "YAN KECHIL06900 YANKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID DULANG KECHIL",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "MUKIM DULANG 06900 YAN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BATU 16 PDG LUMAT ( AL-UBUDIAH )",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "PADANG LUMAT 08300 GURUN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TEROI (AL-HANNAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "JLN KEPALA BUKIT08800 GUAR CHEMPEDAKKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SEDAKA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "SIMPANG 4 SEDAKA 06900 YAN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SG LIMAU DALAM ( MUAZAM SHAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "06900 YANKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SINGKIR DARAT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "BEDONG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID DULANG BESAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "MUKIM DULANG 06900 YAN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TITI TERAS( NURUL IMAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "MUKIM YAN 06900 KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SG DAUN KUALA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "SIMPANG 3 SG DAUN 06680 ALOR STAR KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SG DAUN ATAS (AL-FALAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "SPG 3, SG DAUN YAN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SELENGKOH KABU 10",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "SULTAN ABDUL HALIM06910 YANKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG TUALANG (AL-IKRAM)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "KOTA SARANG SEMUT06800 ALOR STARKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT BESAR (AL-HADI)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "KOTA SARANG SEMUT 06800 ALOR STARKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PERMATANG BULUH (AR-RAHMAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "KOTA SARANG SEMUT06800 ALOR STARKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT CHORAS DALAM (NURUL HUDA)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "KOTA SARANG SEMUT06800 ALOR STARKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SG LINTANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "ULU SEDAKA 06900 YAN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID GUAR CHEMPEDAK ( AL-WUSTA)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "08800 GURUN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ULU DULANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "DULANG KECHIL 06910 YAN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PEKAN YAN (BADLISHAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "06900 YANKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG RUAT (HJ NYAK GAM)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "JALAN RUAT06900 YANKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ALOR PUDAK (AN-NUR)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "MUKIM SALA BESAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG KBG. PASU( SHARIFAH ZAHRAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "SG LIMAU06800 YANKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG PADANG BESAR( AL-AMIN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "SG LIMAU06680YANKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG PAUH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "MUKIM PAUH 06900 YAN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG KEDA( SG UDANG)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "06900 YANKEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SAIDINA ALI KARRAMALLAHU WAJHAH kem p g a",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "(KEM P G A) BATALION 2, PASUKAN GERAKAN AM, KM. 5, JALAN JUNJONG, 09000 KULIM, KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PULAU KIJANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "JALAN KUALA NERANG,06300 KUALA NERANG, KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID IBNU SINA KARIAH KAMPUNG TRADISI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "CHANGLON, JITRA, KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ABRAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MASJID AL-ABRAR TAMAN PERUDA, JALAN PERUDA 1,",
+      "phone": "044212768",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TUNKU SALLEHUDDIN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KARIAH BANDAR PUTERI JAYA SG. PETANI,KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-UBBAD TANJUNG PARI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM SIONG 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID A'ISHAH, SG. MENGHULU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. SUNGAI MENGHULU,MK. KUAH, LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUTTAQIN BATU 7",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "JALAN KROH MUKIM BALING 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL HUDA KAMPUNG PADANG GEH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TAWAR 09300 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMIUL FALAH KUALA MERAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TAWAR 09300 KUALA KETIL BALING DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID DARUL SAADAH KAMPUNG LUAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM SIONG 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HIJRAH CHARUK NAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BALING 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID DARUSSALAM BINJUL LUAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TAWAR 09310 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK MADINATUL ILMI KUALA KETIL",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TAWAR 09300 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ISLAHIYAH PEKAN TAWAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TAWAR 09300 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID INTAN SAFINAZ KAMPUNG LANAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM PULAI 09110 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AS-SOLIHIN KAMPUNG KEJAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BAKAI 09020 MALAU KULIM KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK KAMPUNG SURAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BAKAI 09300 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUS SALAM, EWA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. EWA, MUKIM AYER HANGAT,LANGKAWI,KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ARRAHMAN,GELAM, KEDAWANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KARIAH KG.GELAM,MUKIM KEDAWANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG SUNGAI KERING",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "KAMPUNG SUNGAI KERING",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BATU 17 (AL-HUDA AL-HALIMI)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "BATU 17 GUAR CHEMPEDAK",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-AMAN, YOOI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. YOOI, MK. BOHOR, LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID MAHMUDI GUAR CHEMPEDAK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TELOI KANAN 09300 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "019-4604491 /01",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RAHMAN KAMPUNG PANTAI CHICAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TAWAR 09300 KUALA KETIL KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK AL-LUTFI BATU HAMPAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM AIR PUTEH PENDANG KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SULTANAH HAMINAH TANJUNG RADIN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "MUKIM GUAR KEPAYANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TUNKU MALIK KAMPUNG TELOK SERA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM PULAI 09100 BALING KEDAH DARUL AMAN",
+      "phone": "0194220778",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HALIMI KAMPUNG SELARONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BAKAI 09020 MALAU KULIM KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK PEKAN MALAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM BAKAI 09020 MALAU KULIM KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-ITTIHAD, KG. KUMPULAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. KUMPULAN, MK. ULU MELAKA, LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-EHSAN, TEMONYONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. BUBOR, TEMONYONG,MK. KEDAWANG, LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID DARUSSALAM, NYIOR CHABANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. NYIOR CHABANG, MK. BOHOR, LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL -HIJRAH KARIAH LUBOK CHEMPEDAK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KAMPUNG SELAT LUBOK CHEMPEDAK,MUKIM KUAH, 07000 LANGKAWI,KEDAH",
+      "phone": "0174207051",
+      "fax": ""
+    },
+    {
+      "name": "MASJID RAUDHATULKHUDRA', PASIR HITAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. PASIR HITAM, MK. AIR HANGAT,LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID UBAIDILLAH BENDANG RAJA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "KAMPUNG BENDANG RAJA,MUKIM BELIMBINGKIRI,06300 KUALA NERANG,KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ANNAWAWI, BOHOR MERAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. BOHOR MERAH, MK. AIR HANGAT, LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID OMAR ZUHDI PARIT PANJANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM TELOI KANAN 09120 BALING KEDAH DARUL AMAN",
+      "phone": "04-4768862",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PERMATANG BONGOR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "MUKIM SALA KECHIL, 06800 KOTA SARANG SEMUT.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BATU 5 (AL-FALAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "BATU 5, JALAN JENIANG,GURUN.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID ANDALUSIA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KARIAH BANDAR LAGUNA MERBOK",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL MUHSININ DARUL AMAN HEIGHTS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MASJID DARUL AMAN HEIGHTS JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MUHAMMAD AL-FATEH TAMAN MUTIARA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "TAMAN MUTIARA SUNGAI KOB KARANGAN KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AN-NUR ULU LEGONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Baling",
+      "address": "MUKIM SIONG 09100 BALING KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID HAJAH ZALEHA BATU LAPAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "MASJID HAJAH ZALEHA KARIAH BATU 8 08200 SIK KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMAN KELISA RIA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "TAMAN KELISA RIA 08000 SUNGAI PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "[15] MASJID AS-SOLIHIN, KAMPUNG BUKIT LADA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KG BUKIT LADA MUKIM BUKIT LADA 06400 POKOK SENA",
+      "phone": "012-4261705",
+      "fax": ""
+    },
+    {
+      "name": "[14] MASJID AR-RAYYAN, KAMPUNG BUKIT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG BUKIT MUKIM BUKIT LADA 06400 POKOK SENA",
+      "phone": "0194419499",
+      "fax": ""
+    },
+    {
+      "name": "[17] MASJID AT-TAQWA, KAMPUNG MENERONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG MENERONG MUKIM BUKIT LADA 06400 POKOK SENA",
+      "phone": "0175682505",
+      "fax": ""
+    },
+    {
+      "name": "[25] MASJID RAUDHATUS SOLIHIN, KG. BUKIT, DERANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG BUKIT MUKIM DERANG 06400 POKOK SENA",
+      "phone": "017-5781442",
+      "fax": ""
+    },
+    {
+      "name": "[26] MASJID AR-RIDHWAN, KAMPUNG EMPA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG EMPA MUKIM DERANG 06400 POKOK SENA",
+      "phone": "013-4753733",
+      "fax": ""
+    },
+    {
+      "name": "[24] MASJID AZ-ZAKIRIN, KAMPUNG KEDUNDUNG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG KEDUNDUNGMUKIM DERANG06400 POKOK SENA",
+      "phone": "017-483 4345",
+      "fax": ""
+    },
+    {
+      "name": "[27] MASJID AR-RAHMAN, KAMPUNG PANCHOR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG PANCHOR MUKIM DERANG 06400 POKOK SENA",
+      "phone": "0194212688",
+      "fax": ""
+    },
+    {
+      "name": "[21] MASJID AR-RAUDHOH, KG. SUNGAI DURIAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG SUNGAI DURIAN MUKIM BANDAR POKOK SENA 06400 POKOK SENA",
+      "phone": "013-4439067",
+      "fax": ""
+    },
+    {
+      "name": "[22] MASJID AL-HUDA, KG. POKOK SENA DALAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KG POKOK SENA DALAMMUKIM BANDAR POKOK SENA06400 POKOK SENA",
+      "phone": "0134315317",
+      "fax": ""
+    },
+    {
+      "name": "[23] MASJID AL-KAUTHAR, KG. BUKIT PAYONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG BUKIT PAYONG MUKIM GAJAH MATI 06400 POKOK SENA",
+      "phone": "0194816964",
+      "fax": ""
+    },
+    {
+      "name": "[29] MASJID KAMPUNG YOI (AR-RAHMAH )",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG YOI MUKIM GAJAH MATI 06400 POKOK SENA",
+      "phone": "0134428793",
+      "fax": ""
+    },
+    {
+      "name": "[28] MASJID KAMPUNG PADANG (AL-IRSYADI)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG PADANG MUKIM GAJAH MATI 06400 POKOK SENA",
+      "phone": "0134643804",
+      "fax": ""
+    },
+    {
+      "name": "[30] MASJID BUKIT LAREK (AL-IHSAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KG BUKIT LAREK MUKIM GAJAH MATI 06400 POKOK SENA",
+      "phone": "01156519485",
+      "fax": ""
+    },
+    {
+      "name": "[31] MASJID FELCRA BUKIT TAMPOI (NURUL IHSAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "FELCRA BUKIT TAMPOIMUKIM GAJAH MATIDAERAH POKOK SENA06300 KUALA NERANA",
+      "phone": "0194239010",
+      "fax": ""
+    },
+    {
+      "name": "[19] MASJID KAMPUNG JABI (FATHUL ARIFIN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG JABI MUKIM JABI",
+      "phone": "010-8234526",
+      "fax": ""
+    },
+    {
+      "name": "[08] MASJID PEKAN POKOK SENA (AN-NUR)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "BANDAR BARU POKOK SENA",
+      "phone": "047821334",
+      "fax": ""
+    },
+    {
+      "name": "[18] MASJID KG. TANJUNG MUSANG (AL-MA'ARIF)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG TANJUNG MUSANG MUKIM JABI 06400 POKOK SENA",
+      "phone": "0128980680",
+      "fax": ""
+    },
+    {
+      "name": "[02] MASJID KAMPUNG BENDANG BARU (AL-ABROR)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KG BENDANG BARU, MUKIM LESONG",
+      "phone": "01110697342",
+      "fax": ""
+    },
+    {
+      "name": "[07] MASJID KAMPUNG GULAU (AS-SALAM)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG GULAU MUKIM LESONG 06400 POKOK SENA",
+      "phone": "0195762491",
+      "fax": ""
+    },
+    {
+      "name": "[03] MASJID KAMPUNG BARU (NURUL IMAN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG BARU MUKIM LESONG 06400 POKOK SENA",
+      "phone": "0195470176",
+      "fax": ""
+    },
+    {
+      "name": "[01] MASJID KAMPUNG BUDI (AL-MUHTADIN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG BUDI MUKIM LESONG 06400 POKOK SENA",
+      "phone": "0134135747",
+      "fax": ""
+    },
+    {
+      "name": "[05] MASJID KAMPUNG NAWA (AL-ISLAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG NAWA MUKIM LESONG 06400 POKOK SENA",
+      "phone": "0195210834",
+      "fax": ""
+    },
+    {
+      "name": "[04] MASJID KAMPUNG KUALA LANJUT (AL-MUBARAK)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG KUALA LANJUT MUKIM LESONG 06400 POKOK SENA",
+      "phone": "0194487118",
+      "fax": ""
+    },
+    {
+      "name": "[06] MASJID KAMPUNG POKOK PAUH (AL-MUHSININ)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG POKOK PAUH MUKIM LESONG 06400 POKOK SENA",
+      "phone": "0195262140",
+      "fax": ""
+    },
+    {
+      "name": "[12] MASJID ALOR SENIBONG (AL-HUDA)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG ALOR SENIBONG MUKIM TUALANG 06400 POKOK SENA",
+      "phone": "0135096953",
+      "fax": ""
+    },
+    {
+      "name": "[20] MASJID CHE MAT ZAIN / KG. KELUT (AL-AKHYAR)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KG SPG TIGA CHE MAT ZAIN MUKIM TUALANG 06400 POKOK SENA",
+      "phone": "019-4914874",
+      "fax": ""
+    },
+    {
+      "name": "[10] MASJID KAMPUNG KOLAM (AL-HARITH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG KOLAM MUKIM TUALANG 06400 POKOK SENA",
+      "phone": "0195589741",
+      "fax": ""
+    },
+    {
+      "name": "[09] MASJID KAMPUNG TENGAH (AL-ANWAR)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG TENGAH MUKIM TUALANG 06400 POKOK SENA",
+      "phone": "0145942516",
+      "fax": ""
+    },
+    {
+      "name": "[13] MASJID KUBANG BADAK (SULTAN ABDUL HALIM)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG KUBANG BADAK MUKIM JABI 06400 POKOK SENA",
+      "phone": "0194179388",
+      "fax": ""
+    },
+    {
+      "name": "[11] MASJID AL-HUDA KAMPUNG TELUK JAMAT (AL-HUDA)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG TELUK JAMAT MUKIM TUALANG 06400 POKOK SENA",
+      "phone": "047877782",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TENGKU AHMAD TAJUDDIN, KG ULU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "KAMPUNG ULU MUKIM KUALA KEDAH06600 KUALA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KG.SUNGKUP",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KG.SUNGKUP BUKIT SELAMBAU, SG.PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KARIAH ZON KENANGA DAN MAWAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "PERSIARAN AMAN JAYA 5, BANDAR AMAN JAYA",
+      "phone": "019-4229727",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SULTAN SALLEHUDDIN SUNGAI BARU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pendang",
+      "address": "KAMPUNG SUNGAI BARU, BUKIT JENUN, PENDANG, KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SINGKIR LAUT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "KG SINGKIR LAUT, BEDONG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-BADAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "KILOMETER 7, JALAN LANGGAR, 06500 LANGGAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUL EHSAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "KILOMETER 8.5, JALAN LANGGAR, 06500 LANGGAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "KAMPUNG SUNGAI BELIDA, GUAR CHEMPEDAK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Yan",
+      "address": "KAMPUNG SUNGAI BELIDA MUKIM SALA BESAR, YAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NURUSSALAM PELUBANG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "KAMPUNG PELUBANG, JALAN WANG TEPUS, JITRA KEDAH.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SAIDINA UMAR AL-KHATTAB PADANG MEIHA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "TAMAN DESA AMAN, SUNGAI KARANGAN, PADANG SERAI, KEDAH.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID PUSAT ISLAM UUM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "UNIVERSITI UTARA MALAYSIA SINTOK 06010 UUM.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KOLEJ MATRIKULASI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "KOLEJ MATRIKULASI, JALAN CHANGLOON 06010 CHANGLOON.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID POLIMAS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "POLITEKNIK SULTAN ABDUL HALIM, BANDAR DARUL AMAN, 06000 JITRA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BUKIT KACHI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "BUKIT KACHI UNIVERSITI UTARA MALAYSIA 06010 UNIVERSITI UTARA MALAYSIA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JENAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "SEKOLAH MENENGAH SULTAN ABDUL HALIM TANAH MERAH 06000 JITRA.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SERI BAYU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "TAMAN SERI BAYU,SUNGAI LALANG,SUNGAI PETANI.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BANDAR PERDANA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "BANDAR PERDANA, SUNGAI PETANI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BANDAR SERI ASTANA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "BANDAR SERI ASTANA, SUNGAI PETANI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RAHMAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "JALAN PANGKALAN, SUNGAI PETANI KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUQARRABIN KARIAH TAMAN ANGSANA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "TAMAN ANGSANA 09000 KULIM KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AL MUNAWWARAH KARIAH KULIM Hi-TECH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "MASJID AL-MUNAWWARAH KTC 4 KULIM HI-TECH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "masjid al ikhlas taman tunku sarina",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "taman tunku sarina,fasa 2,jitra,kedah",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID INSTITUT PERGURUAN DARUL AMAN,JITRA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "INSTITUT PERGURUAN DARUL AMAN, JITRA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "AL MUHAMMADI kariah taman mahsuri",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "TAMAN MAHSURI, PADANG SERAI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK KARIAH BARU KG KOK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KAMPUNG KOK, MUKIM PADANG MATSIRAT, LANGKAWI.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK KARIAH BARU KG KOK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "",
+      "address": "LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HIDAYAH, MERBAU KUDUNG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "KAMPUNG MERBAU KUDUNG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL HIDAYAH KG BENDANG CHEROK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "KG BENDANG CHEROK MK.TEMIN ,PEKAN CHANGLUN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SAIDINA UTHMAN IBN AFFAN KARIAH PAYA BESAR",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "TAMAN KUCHAI, 09600 LUNAS, KEDAH.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMAN BERSATU KUALA KEDAH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "ALWAHDATUL ISLAMIAH TAMAN BERSATU KUALA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMAN TUNKU YAAKOB",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "TAMAN TUNKU YAAKOB, JALAN ALOR MENGKUDU, 05400 ALOR SETAR.",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TOK PASAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "PEKAN KUALA KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID TAMAN SERI PERMAI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "TAMAN PUSPA KENCANA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NUR MUHAMMAD",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "MASJID NUR MUHAMMAD, KOMPLEKS ISLAM DAR AL FAIZIN, KAMPUNG BUKIT APENG, MUKIM BAGAN SAMAK",
+      "phone": "01112453600",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL IRSHAD",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "SURAU (MASJID AL-IRSHAD), SERDANG",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID HIJAU RELAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "SURAU MASJID LAMA, RELAU",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID HIJAU RELAU",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "MASJID HIJAU RELAU, MUKIM RELAU, KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL ITTIHAD",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Bandar Baharu",
+      "address": "MAKTAB MAHMUD BANDAR BAHARU",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LAMA BOHOR BERENDAM",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. BOHOR BERENDAM, YOOI, MK. BOHOR, LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID INDIA LANGKAWI (RIADHUL 'ABIDIN)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. DIDIK, KUAH, MK. KUAH LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID LAMA PADANG MATSIRAT",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. PADANG MATSIRAT, MK. PDG. MATSIRAT, LANGKAWI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-QODIM, KUAH (GHAIRU JAMEK)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Langkawi",
+      "address": "KG. KUAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KARIAH PEREMBA (NURUL ITTIFAQ)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kota Setar",
+      "address": "TAMAN PELANGI",
+      "phone": "047-026161",
+      "fax": "04-7026160"
+    },
+    {
+      "name": "MASJID KARIAH LUNAS",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "D/A MASJID (GHAIR JAMEK) AL-ABRAR, TAMAN GEMILANG, LUNAS",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SUNGAI JAGONG",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "KARIAH SUNGAI JAGONG SUNGAI PETANI",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "BANDAR NURUL IMAM, GURUN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "TAMAN PERUMAHAN PERWAJA, KAMPUNG KELANG KETAPAN GURUN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG BAGAN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "KEDA KAMPUNG BAGAN NAKA, 06350 ALOR STAR, KEDAH",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KARIAH BANDAR MUTIARA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MASJID KARIAH BANDAR MUTIARA JALAN BM 1/2 SUNGAI PETANI KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KARIAH AMANJAYA ANGGERIK",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kuala Muda",
+      "address": "MASJID KARIAH AMANJAYA ANGGERIK 08000 SUNGAI PETANI KEDAH DARUL AMAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "[16] MASJID KAMPUNG PAYA (AL-MAHMUDIAH)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Pokok Sena (Daerah Kecil)",
+      "address": "KAMPUNG PAYA MUKIM BUKIT LADA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "NURUS SAADAH KARIAH TAMAN SEJAHTERA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "TAMAN SEJAHTERA, LUNAS",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BATU BESAR (BADRUL HUDA)",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "BATU BESAR",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG BEGIA",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Sik",
+      "address": "PONDOK BEGIA, KAMPUNG BEGIA",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "ABDUL RAHMAN PUTRA KARIAH KELADI",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kulim",
+      "address": "KAMPUNG KELADI, KULIM",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AT-TAQWA KARIAH JERLUN",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Kubang Pasu",
+      "address": "MASJID AT TAQWA KARIAH JERLUN MUKIM JERLUN AYER HITAM",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID KAMPUNG SIREH",
+      "state": "Kedah",
+      "state_slug": "kedah",
+      "district": "Padang Terap",
+      "address": "KUALA NERANG, KEDAH",
+      "phone": "",
+      "fax": ""
+    }
+  ],
+  "meta": {
+    "title": "Masjid di Kedah - Muat turun percuma",
+    "description": "Senarai masjid di Kedah — 605 masjid. Sumber: SISMIM/JAKIM (direktori kebangsaan masjid & surau). Medan: name, state, state_slug, district, address, phone, fax. Mengandungi 605 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Masjid di Kedah | ListBase",
+    "seo_description": "Muat turun Masjid di Kedah — 605 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 605 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

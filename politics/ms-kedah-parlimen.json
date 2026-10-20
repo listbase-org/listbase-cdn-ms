@@ -1,0 +1,156 @@
+{
+  "id": "ms-kedah-parlimen",
+  "name": "Senarai Parlimen Kedah",
+  "title": "Senarai Parlimen Kedah",
+  "description": "Senarai kerusi Parlimen di Kedah berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P004",
+      "name": "Langkawi",
+      "negeri": "Kedah",
+      "dun_count": 2,
+      "dun": "N01: Ayer Hangat, N02: Kuah"
+    },
+    {
+      "code": "P005",
+      "name": "Jerlun",
+      "negeri": "Kedah",
+      "dun_count": 2,
+      "dun": "N03: Kota Siputeh, N04: Ayer Hitam"
+    },
+    {
+      "code": "P006",
+      "name": "Kubang Pasu",
+      "negeri": "Kedah",
+      "dun_count": 2,
+      "dun": "N05: Bukit Kayu Hitam, N06: Jitra"
+    },
+    {
+      "code": "P007",
+      "name": "Padang Terap",
+      "negeri": "Kedah",
+      "dun_count": 2,
+      "dun": "N07: Kuala Nerang, N08: Pedu"
+    },
+    {
+      "code": "P008",
+      "name": "Pokok Sena",
+      "negeri": "Kedah",
+      "dun_count": 3,
+      "dun": "N09: Bukit Lada, N10: Bukit Pinang, N11: Derga"
+    },
+    {
+      "code": "P009",
+      "name": "Alor Setar",
+      "negeri": "Kedah",
+      "dun_count": 3,
+      "dun": "N12: Suka Menanti, N13: Kota Darul Aman, N14: Alor Mengkudu"
+    },
+    {
+      "code": "P010",
+      "name": "Kuala Kedah",
+      "negeri": "Kedah",
+      "dun_count": 3,
+      "dun": "N15: Anak Bukit, N16: Kubang Rotan, N17: Pengkalan Kundor"
+    },
+    {
+      "code": "P011",
+      "name": "Pendang",
+      "negeri": "Kedah",
+      "dun_count": 2,
+      "dun": "N18: Tokai, N19: Sungai Tiang"
+    },
+    {
+      "code": "P012",
+      "name": "Jerai",
+      "negeri": "Kedah",
+      "dun_count": 3,
+      "dun": "N20: Sungai Limau, N21: Guar Chempedak, N22: Gurun"
+    },
+    {
+      "code": "P013",
+      "name": "Sik",
+      "negeri": "Kedah",
+      "dun_count": 2,
+      "dun": "N23: Belantek, N24: Jeneri"
+    },
+    {
+      "code": "P014",
+      "name": "Merbok",
+      "negeri": "Kedah",
+      "dun_count": 2,
+      "dun": "N25: Bukit Selambau, N26: Tanjong Dawai"
+    },
+    {
+      "code": "P015",
+      "name": "Sungai Petani",
+      "negeri": "Kedah",
+      "dun_count": 3,
+      "dun": "N27: Pantai Merdeka, N28: Bakar Arang, N29: Sidam"
+    },
+    {
+      "code": "P016",
+      "name": "Baling",
+      "negeri": "Kedah",
+      "dun_count": 3,
+      "dun": "N30: Bayu, N31: Kupang, N32: Kuala Ketil"
+    },
+    {
+      "code": "P017",
+      "name": "Padang Serai",
+      "negeri": "Kedah",
+      "dun_count": 2,
+      "dun": "N33: Merbau Pulas, N34: Lunas"
+    },
+    {
+      "code": "P018",
+      "name": "Kulim-Bandar Baharu",
+      "negeri": "Kedah",
+      "dun_count": 2,
+      "dun": "N35: Kulim, N36: Bandar Baharu"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen Kedah - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di Kedah berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested. Mengandungi 15 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen Kedah | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen Kedah — 15 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 15 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

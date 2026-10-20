@@ -1,0 +1,504 @@
+{
+  "id": "ms-selangor-dun",
+  "name": "Senarai Dewan Undangan Negeri (DUN) Selangor",
+  "title": "Senarai Dewan Undangan Negeri (DUN) Selangor",
+  "description": "Senarai 56 kerusi Dewan Undangan Negeri (DUN) bagi negeri Selangor berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 56 State Legislative Assembly seats for Selangor; a verbatim per-state subset of the national ms-dun list.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_code",
+      "label": "Parlimen Code",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_name",
+      "label": "Parlimen Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "N01",
+      "name": "Sungai Air Tawar",
+      "parlimen_code": "P092",
+      "parlimen_name": "Sabak Bernam",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N02",
+      "name": "Sabak",
+      "parlimen_code": "P092",
+      "parlimen_name": "Sabak Bernam",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N03",
+      "name": "Sungai Panjang",
+      "parlimen_code": "P093",
+      "parlimen_name": "Sungai Besar",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N04",
+      "name": "Sekinchan",
+      "parlimen_code": "P093",
+      "parlimen_name": "Sungai Besar",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N05",
+      "name": "Hulu Bernam",
+      "parlimen_code": "P094",
+      "parlimen_name": "Hulu Selangor",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N06",
+      "name": "Kuala Kubu Baharu",
+      "parlimen_code": "P094",
+      "parlimen_name": "Hulu Selangor",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N07",
+      "name": "Batang Kali",
+      "parlimen_code": "P094",
+      "parlimen_name": "Hulu Selangor",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N08",
+      "name": "Sungai Burong",
+      "parlimen_code": "P095",
+      "parlimen_name": "Tanjong Karang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N09",
+      "name": "Permatang",
+      "parlimen_code": "P095",
+      "parlimen_name": "Tanjong Karang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N10",
+      "name": "Bukit Melawati",
+      "parlimen_code": "P096",
+      "parlimen_name": "Kuala Selangor",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N11",
+      "name": "Ijok",
+      "parlimen_code": "P096",
+      "parlimen_name": "Kuala Selangor",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N12",
+      "name": "Jeram",
+      "parlimen_code": "P096",
+      "parlimen_name": "Kuala Selangor",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N13",
+      "name": "Kuang",
+      "parlimen_code": "P097",
+      "parlimen_name": "Selayang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N14",
+      "name": "Rawang",
+      "parlimen_code": "P097",
+      "parlimen_name": "Selayang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N15",
+      "name": "Taman Templer",
+      "parlimen_code": "P097",
+      "parlimen_name": "Selayang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N16",
+      "name": "Sungai Tua",
+      "parlimen_code": "P098",
+      "parlimen_name": "Gombak",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N17",
+      "name": "Gombak Setia",
+      "parlimen_code": "P098",
+      "parlimen_name": "Gombak",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N18",
+      "name": "Hulu Kelang",
+      "parlimen_code": "P098",
+      "parlimen_name": "Gombak",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N19",
+      "name": "Bukit Antarabangsa",
+      "parlimen_code": "P099",
+      "parlimen_name": "Ampang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N20",
+      "name": "Lembah Jaya",
+      "parlimen_code": "P099",
+      "parlimen_name": "Ampang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N21",
+      "name": "Pandan Indah",
+      "parlimen_code": "P100",
+      "parlimen_name": "Pandan",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N22",
+      "name": "Teratai",
+      "parlimen_code": "P100",
+      "parlimen_name": "Pandan",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N23",
+      "name": "Dusun Tua",
+      "parlimen_code": "P101",
+      "parlimen_name": "Hulu Langat",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N24",
+      "name": "Semenyih",
+      "parlimen_code": "P101",
+      "parlimen_name": "Hulu Langat",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N25",
+      "name": "Kajang",
+      "parlimen_code": "P102",
+      "parlimen_name": "Bangi",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N26",
+      "name": "Sungai Ramal",
+      "parlimen_code": "P102",
+      "parlimen_name": "Bangi",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N27",
+      "name": "Balakong",
+      "parlimen_code": "P102",
+      "parlimen_name": "Bangi",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N28",
+      "name": "Seri Kembangan",
+      "parlimen_code": "P103",
+      "parlimen_name": "Puchong",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N29",
+      "name": "Seri Serdang",
+      "parlimen_code": "P103",
+      "parlimen_name": "Puchong",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N30",
+      "name": "Kinrara",
+      "parlimen_code": "P104",
+      "parlimen_name": "Subang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N31",
+      "name": "Subang Jaya",
+      "parlimen_code": "P104",
+      "parlimen_name": "Subang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N32",
+      "name": "Seri Setia",
+      "parlimen_code": "P105",
+      "parlimen_name": "Petaling Jaya",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N33",
+      "name": "Taman Medan",
+      "parlimen_code": "P105",
+      "parlimen_name": "Petaling Jaya",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N34",
+      "name": "Bukit Gasing",
+      "parlimen_code": "P105",
+      "parlimen_name": "Petaling Jaya",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N35",
+      "name": "Kampung Tunku",
+      "parlimen_code": "P106",
+      "parlimen_name": "Damansara",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N36",
+      "name": "Bandar Utama",
+      "parlimen_code": "P106",
+      "parlimen_name": "Damansara",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N37",
+      "name": "Bukit Lanjan",
+      "parlimen_code": "P106",
+      "parlimen_name": "Damansara",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N38",
+      "name": "Paya Jaras",
+      "parlimen_code": "P107",
+      "parlimen_name": "Sungai Buloh",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N39",
+      "name": "Kota Damansara",
+      "parlimen_code": "P107",
+      "parlimen_name": "Sungai Buloh",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N40",
+      "name": "Kota Anggerik",
+      "parlimen_code": "P108",
+      "parlimen_name": "Shah Alam",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N41",
+      "name": "Batu Tiga",
+      "parlimen_code": "P108",
+      "parlimen_name": "Shah Alam",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N42",
+      "name": "Meru",
+      "parlimen_code": "P109",
+      "parlimen_name": "Kapar",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N43",
+      "name": "Sementa",
+      "parlimen_code": "P109",
+      "parlimen_name": "Kapar",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N44",
+      "name": "Selat Klang",
+      "parlimen_code": "P109",
+      "parlimen_name": "Kapar",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N45",
+      "name": "Bandar Baru Klang",
+      "parlimen_code": "P110",
+      "parlimen_name": "Klang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N46",
+      "name": "Pelabuhan Klang",
+      "parlimen_code": "P110",
+      "parlimen_name": "Klang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N47",
+      "name": "Pandamaran",
+      "parlimen_code": "P110",
+      "parlimen_name": "Klang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N48",
+      "name": "Sentosa",
+      "parlimen_code": "P111",
+      "parlimen_name": "Kota Raja",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N49",
+      "name": "Sungai Kandis",
+      "parlimen_code": "P111",
+      "parlimen_name": "Kota Raja",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N50",
+      "name": "Kota Kemuning",
+      "parlimen_code": "P111",
+      "parlimen_name": "Kota Raja",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N51",
+      "name": "Sijangkang",
+      "parlimen_code": "P112",
+      "parlimen_name": "Kuala Langat",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N52",
+      "name": "Banting",
+      "parlimen_code": "P112",
+      "parlimen_name": "Kuala Langat",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N53",
+      "name": "Morib",
+      "parlimen_code": "P112",
+      "parlimen_name": "Kuala Langat",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N54",
+      "name": "Tanjong Sepat",
+      "parlimen_code": "P113",
+      "parlimen_name": "Sepang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N55",
+      "name": "Dengkil",
+      "parlimen_code": "P113",
+      "parlimen_name": "Sepang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    },
+    {
+      "code": "N56",
+      "name": "Sungai Pelek",
+      "parlimen_code": "P113",
+      "parlimen_name": "Sepang",
+      "negeri": "Selangor",
+      "negeri_slug": "selangor"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Dewan Undangan Negeri (DUN) Selangor - Muat turun percuma",
+    "description": "Senarai 56 kerusi Dewan Undangan Negeri (DUN) bagi negeri Selangor berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 56 State Legislative Assembly seats for Selangor; a verbatim per-state subset of the national ms-dun list. Mengandungi 56 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Dewan Undangan Negeri (DUN) Selangor | ListBase",
+    "seo_description": "Muat turun Senarai Dewan Undangan Negeri (DUN) Selangor — 56 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 56 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

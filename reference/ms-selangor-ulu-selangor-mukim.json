@@ -1,0 +1,388 @@
+{
+  "id": "ms-selangor-ulu-selangor-mukim",
+  "name": "Mukim di Daerah Ulu Selangor, Selangor",
+  "title": "Mukim di Daerah Ulu Selangor, Selangor",
+  "description": "Senarai lengkap 26 mukim di daerah Ulu Selangor, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 26 mukim (traditional sub-district units) in Ulu Selangor District, Selangor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "100701",
+      "name": "Batang Kali",
+      "name_uppercase": "BATANG KALI",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1199,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100702",
+      "name": "Buluh Telor",
+      "name_uppercase": "BULUH TELOR",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1200,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100703",
+      "name": "Ampang Pechah",
+      "name_uppercase": "AMPANG PECHAH",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1201,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100704",
+      "name": "Ulu Bernam",
+      "name_uppercase": "ULU BERNAM",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1202,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100705",
+      "name": "Ulu Yam",
+      "name_uppercase": "ULU YAM",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1203,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100706",
+      "name": "Kalumpang",
+      "name_uppercase": "KALUMPANG",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1204,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100707",
+      "name": "Kerling",
+      "name_uppercase": "KERLING",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1205,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100708",
+      "name": "Kuala Kalumpang",
+      "name_uppercase": "KUALA KALUMPANG",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1206,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100709",
+      "name": "Peretak",
+      "name_uppercase": "PERETAK",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1207,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100710",
+      "name": "Rasa",
+      "name_uppercase": "RASA",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1208,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100711",
+      "name": "Serendah",
+      "name_uppercase": "SERENDAH",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1209,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100712",
+      "name": "Sungai Gumut",
+      "name_uppercase": "SUNGAI GUMUT",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1210,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100713",
+      "name": "Sungai Tinggi",
+      "name_uppercase": "SUNGAI TINGGI",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1211,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100740",
+      "name": "Bandar Ulu Yam",
+      "name_uppercase": "BANDAR ULU YAM",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1212,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100741",
+      "name": "Bandar Ulu Yam Baharu",
+      "name_uppercase": "BANDAR ULU YAM BAHARU",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1213,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100742",
+      "name": "Bandar Kalumpang",
+      "name_uppercase": "BANDAR KALUMPANG",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1214,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100743",
+      "name": "Bandar Kuala Kubu Baharu",
+      "name_uppercase": "BANDAR KUALA KUBU BAHARU",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1215,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100744",
+      "name": "Bandar Rasa",
+      "name_uppercase": "BANDAR RASA",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1216,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100745",
+      "name": "Bandar Serendah",
+      "name_uppercase": "BANDAR SERENDAH",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1217,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100746",
+      "name": "Bandar Batang Kali",
+      "name_uppercase": "BANDAR BATANG KALI",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1218,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100747",
+      "name": "Bandar Ulu Bernam I",
+      "name_uppercase": "BANDAR ULU BERNAM I",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1219,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100748",
+      "name": "Bandar Ulu Bernam Ii",
+      "name_uppercase": "BANDAR ULU BERNAM II",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1220,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100749",
+      "name": "Bandar Sungai Chik",
+      "name_uppercase": "BANDAR SUNGAI CHIK",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1221,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100770",
+      "name": "Pekan Kerling",
+      "name_uppercase": "PEKAN KERLING",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1222,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100771",
+      "name": "Pekan Peretak",
+      "name_uppercase": "PEKAN PERETAK",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1223,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    },
+    {
+      "id": "100772",
+      "name": "Pekan Simpang Sungai Choh",
+      "name_uppercase": "PEKAN SIMPANG SUNGAI CHOH",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1224,
+      "state_slug": "selangor",
+      "district_slug": "ulu-selangor"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Ulu Selangor, Selangor - Muat turun percuma",
+    "description": "Senarai lengkap 26 mukim di daerah Ulu Selangor, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 26 mukim (traditional sub-district units) in Ulu Selangor District, Selangor, Malaysia. Mengandungi 26 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Ulu Selangor, Selangor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Ulu Selangor, Selangor — 26 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 26 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

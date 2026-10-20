@@ -1,0 +1,244 @@
+{
+  "id": "ms-johor-pontian-mukim",
+  "name": "Mukim di Daerah Pontian, Johor",
+  "title": "Mukim di Daerah Pontian, Johor",
+  "description": "Senarai lengkap 14 mukim di daerah Pontian, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 14 mukim (traditional sub-district units) in Pontian District, Johor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "010701",
+      "name": "Ayer Baloi",
+      "name_uppercase": "AYER BALOI",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1664,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    },
+    {
+      "id": "010702",
+      "name": "Air Masin",
+      "name_uppercase": "AIR MASIN",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1665,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    },
+    {
+      "id": "010703",
+      "name": "Api-Api",
+      "name_uppercase": "API-API",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1666,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    },
+    {
+      "id": "010704",
+      "name": "Benut",
+      "name_uppercase": "BENUT",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1667,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    },
+    {
+      "id": "010705",
+      "name": "Jeram Batu",
+      "name_uppercase": "JERAM BATU",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1668,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    },
+    {
+      "id": "010706",
+      "name": "Pengkalan Raja",
+      "name_uppercase": "PENGKALAN RAJA",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1669,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    },
+    {
+      "id": "010707",
+      "name": "Pontian",
+      "name_uppercase": "PONTIAN",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1670,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    },
+    {
+      "id": "010708",
+      "name": "Rimba Terjun",
+      "name_uppercase": "RIMBA TERJUN",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1671,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    },
+    {
+      "id": "010709",
+      "name": "Serkat",
+      "name_uppercase": "SERKAT",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1672,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    },
+    {
+      "id": "010710",
+      "name": "Sungai Karang",
+      "name_uppercase": "SUNGAI KARANG",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1673,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    },
+    {
+      "id": "010711",
+      "name": "Sungei Pinggan",
+      "name_uppercase": "SUNGEI PINGGAN",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1674,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    },
+    {
+      "id": "010740",
+      "name": "Bandar Benut",
+      "name_uppercase": "BANDAR BENUT",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1675,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    },
+    {
+      "id": "010741",
+      "name": "Bandar Pontian Kechil",
+      "name_uppercase": "BANDAR PONTIAN KECHIL",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1676,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    },
+    {
+      "id": "010770",
+      "name": "Pekan Pekan Nenas",
+      "name_uppercase": "PEKAN PEKAN NENAS",
+      "district_id": "107",
+      "district": "Pontian",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1677,
+      "state_slug": "johor",
+      "district_slug": "pontian"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Pontian, Johor - Muat turun percuma",
+    "description": "Senarai lengkap 14 mukim di daerah Pontian, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 14 mukim (traditional sub-district units) in Pontian District, Johor, Malaysia. Mengandungi 14 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Pontian, Johor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Pontian, Johor — 14 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 14 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

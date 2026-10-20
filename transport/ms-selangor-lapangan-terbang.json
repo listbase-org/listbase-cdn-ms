@@ -1,0 +1,216 @@
+{
+  "id": "ms-selangor-lapangan-terbang",
+  "name": "Senarai Lapangan Terbang di Negeri Selangor",
+  "title": "Senarai Lapangan Terbang di Negeri Selangor",
+  "description": "Senarai 5 lapangan terbang dan kemudahan penerbangan di Negeri Selangor, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_bm",
+      "label": "Name Bm",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_bm",
+      "label": "State Bm",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "runway_m",
+      "label": "Runway M",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "source_attribution",
+      "label": "Source Attribution",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    },
+    {
+      "key": "has_icao",
+      "label": "Has Icao",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 106,
+      "iata": "",
+      "icao": "WMBR",
+      "name_en": "Bernam River Airfield",
+      "name_bm": "Lapangan Terbang Sungai Bernam",
+      "name_slug": "bernam-river-airfield",
+      "city": "Hulu Selangor",
+      "state": "Selangor",
+      "state_bm": "Selangor",
+      "state_slug": "selangor",
+      "type": "Private",
+      "operator": "Private",
+      "runway_m": "671",
+      "status": "Active",
+      "coordinates": "03°45′58″N 101°19′8″E",
+      "source_attribution": "Wiki",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 107,
+      "iata": "",
+      "icao": "WMBJ",
+      "name_en": "Jugra Air Base",
+      "name_bm": "Pangkalan Udara Jugra",
+      "name_slug": "jugra-air-base",
+      "city": "Jugra",
+      "state": "Selangor",
+      "state_bm": "Selangor",
+      "state_slug": "selangor",
+      "type": "Military",
+      "operator": "RMAF",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "RMAF",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 108,
+      "iata": "",
+      "icao": "",
+      "name_en": "Kinrara Air Base",
+      "name_bm": "Pangkalan Udara Kinrara",
+      "name_slug": "kinrara-air-base",
+      "city": "Kinrara",
+      "state": "Selangor",
+      "state_bm": "Selangor",
+      "state_slug": "selangor",
+      "type": "Military",
+      "operator": "RMAF",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "RMAF",
+      "has_iata": false,
+      "has_icao": false
+    },
+    {
+      "id": 109,
+      "iata": "KUL",
+      "icao": "WMKK",
+      "name_en": "Kuala Lumpur International Airport",
+      "name_bm": "Lapangan Terbang Antarabangsa Kuala Lumpur",
+      "name_slug": "kuala-lumpur-international-airport",
+      "city": "Sepang",
+      "state": "Selangor",
+      "state_bm": "Selangor",
+      "state_slug": "selangor",
+      "type": "International",
+      "operator": "MAHB",
+      "runway_m": "4019",
+      "status": "Active",
+      "coordinates": "02°44′36″N 101°41′53″E",
+      "source_attribution": "CAAM, MAHB, AIP, ICAO",
+      "has_iata": true,
+      "has_icao": true
+    },
+    {
+      "id": 110,
+      "iata": "SZB",
+      "icao": "WMSA",
+      "name_en": "Sultan Abdul Aziz Shah Airport",
+      "name_bm": "Lapangan Terbang Sultan Abdul Aziz Shah",
+      "name_slug": "sultan-abdul-aziz-shah-airport",
+      "city": "Subang",
+      "state": "Selangor",
+      "state_bm": "Selangor",
+      "state_slug": "selangor",
+      "type": "International/Military",
+      "operator": "MAHB / RMAF",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "CAAM, MAHB, AIP, RMAF",
+      "has_iata": true,
+      "has_icao": true
+    }
+  ],
+  "meta": {
+    "title": "Senarai Lapangan Terbang di Negeri Selangor - Muat turun percuma",
+    "description": "Senarai 5 lapangan terbang dan kemudahan penerbangan di Negeri Selangor, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status. Mengandungi 5 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Lapangan Terbang di Negeri Selangor | ListBase",
+    "seo_description": "Muat turun Senarai Lapangan Terbang di Negeri Selangor — 5 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 5 rekod / 18 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

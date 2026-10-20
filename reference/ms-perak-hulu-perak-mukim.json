@@ -1,0 +1,256 @@
+{
+  "id": "ms-perak-hulu-perak-mukim",
+  "name": "Mukim di Daerah Hulu Perak, Perak",
+  "title": "Mukim di Daerah Hulu Perak, Perak",
+  "description": "Senarai lengkap 15 mukim di daerah Hulu Perak, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 15 mukim (traditional sub-district units) in Hulu Perak District, Perak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "080801",
+      "name": "Belukar Semang",
+      "name_uppercase": "BELUKAR SEMANG",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 906,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080802",
+      "name": "Belum",
+      "name_uppercase": "BELUM",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 907,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080803",
+      "name": "Durian Pipit",
+      "name_uppercase": "DURIAN PIPIT",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 908,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080804",
+      "name": "Grik",
+      "name_uppercase": "GRIK",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 909,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080805",
+      "name": "Kenering",
+      "name_uppercase": "KENERING",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 910,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080806",
+      "name": "Kerunai",
+      "name_uppercase": "KERUNAI",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 911,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080807",
+      "name": "Pengkalan Hulu",
+      "name_uppercase": "PENGKALAN HULU",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 912,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080808",
+      "name": "Lenggong",
+      "name_uppercase": "LENGGONG",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 913,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080809",
+      "name": "Temelong",
+      "name_uppercase": "TEMELONG",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 914,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080810",
+      "name": "Temengor",
+      "name_uppercase": "TEMENGOR",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 915,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080840",
+      "name": "Bandar Gerik",
+      "name_uppercase": "BANDAR GERIK",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 916,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080841",
+      "name": "Bandar Kelian Intan",
+      "name_uppercase": "BANDAR KELIAN INTAN",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 917,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080842",
+      "name": "Bandar Pengkalan Hulu",
+      "name_uppercase": "BANDAR PENGKALAN HULU",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 918,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080843",
+      "name": "Bandar Lawn",
+      "name_uppercase": "BANDAR LAWN",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 919,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    },
+    {
+      "id": "080844",
+      "name": "Bandar Lenggong",
+      "name_uppercase": "BANDAR LENGGONG",
+      "district_id": "808",
+      "district": "Hulu Perak",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 920,
+      "state_slug": "perak",
+      "district_slug": "hulu-perak"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Hulu Perak, Perak - Muat turun percuma",
+    "description": "Senarai lengkap 15 mukim di daerah Hulu Perak, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 15 mukim (traditional sub-district units) in Hulu Perak District, Perak, Malaysia. Mengandungi 15 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Hulu Perak, Perak | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Hulu Perak, Perak — 15 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 15 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

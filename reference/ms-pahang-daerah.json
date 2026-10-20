@@ -1,0 +1,144 @@
+{
+  "id": "ms-pahang-daerah",
+  "name": "Daerah di Pahang",
+  "title": "Daerah di Pahang",
+  "description": "Senarai lengkap 11 daerah (district) di negeri Pahang, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 11 administrative districts in Pahang, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "601",
+      "name": "Bentong",
+      "name_uppercase": "BENTONG",
+      "code": "BEN",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "602",
+      "name": "Cameron Highlands",
+      "name_uppercase": "CAMERON HIGHLANDS",
+      "code": "CHI",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "603",
+      "name": "Jerantut",
+      "name_uppercase": "JERANTUT",
+      "code": "JER",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "604",
+      "name": "Kuantan",
+      "name_uppercase": "KUANTAN",
+      "code": "KUA",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "605",
+      "name": "Lipis",
+      "name_uppercase": "LIPIS",
+      "code": "LIP",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "606",
+      "name": "Pekan",
+      "name_uppercase": "PEKAN",
+      "code": "PEK",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "607",
+      "name": "Raub",
+      "name_uppercase": "RAUB",
+      "code": "RAU",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "608",
+      "name": "Temerloh",
+      "name_uppercase": "TEMERLOH",
+      "code": "TER",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "609",
+      "name": "Rompin",
+      "name_uppercase": "ROMPIN",
+      "code": "ROM",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "610",
+      "name": "Maran",
+      "name_uppercase": "MARAN",
+      "code": "MAR",
+      "state_id": "6",
+      "state": "Pahang"
+    },
+    {
+      "id": "611",
+      "name": "Bera",
+      "name_uppercase": "BERA",
+      "code": "BER",
+      "state_id": "6",
+      "state": "Pahang"
+    }
+  ],
+  "meta": {
+    "title": "Daerah di Pahang - Muat turun percuma",
+    "description": "Senarai lengkap 11 daerah (district) di negeri Pahang, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 11 administrative districts in Pahang, Malaysia. Mengandungi 11 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Daerah di Pahang | ListBase",
+    "seo_description": "Muat turun Daerah di Pahang — 11 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 11 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

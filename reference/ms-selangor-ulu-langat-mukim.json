@@ -1,0 +1,508 @@
+{
+  "id": "ms-selangor-ulu-langat-mukim",
+  "name": "Mukim di Daerah Ulu Langat, Selangor",
+  "title": "Mukim di Daerah Ulu Langat, Selangor",
+  "description": "Senarai lengkap 36 mukim di daerah Ulu Langat, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 36 mukim (traditional sub-district units) in Ulu Langat District, Selangor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "100601",
+      "name": "Beranang",
+      "name_uppercase": "BERANANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1163,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100602",
+      "name": "Cheras",
+      "name_uppercase": "CHERAS",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1164,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100603",
+      "name": "Ampang",
+      "name_uppercase": "AMPANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1165,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100604",
+      "name": "Hulu Langat",
+      "name_uppercase": "HULU LANGAT",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1166,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100605",
+      "name": "Hulu Semenyih",
+      "name_uppercase": "HULU SEMENYIH",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1167,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100606",
+      "name": "Kajang",
+      "name_uppercase": "KAJANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1168,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100607",
+      "name": "Semenyih",
+      "name_uppercase": "SEMENYIH",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1169,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100640",
+      "name": "Bandar Cheras",
+      "name_uppercase": "BANDAR CHERAS",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1170,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100641",
+      "name": "Bandar Ulu Langat",
+      "name_uppercase": "BANDAR ULU LANGAT",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1171,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100642",
+      "name": "Bandar Kajang",
+      "name_uppercase": "BANDAR KAJANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1172,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100643",
+      "name": "Bandar Semenyih",
+      "name_uppercase": "BANDAR SEMENYIH",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1173,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100644",
+      "name": "Bandar Ampang",
+      "name_uppercase": "BANDAR AMPANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1174,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100645",
+      "name": "Bandar Balakong",
+      "name_uppercase": "BANDAR BALAKONG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1175,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100646",
+      "name": "Bandar Batu 9, Cheras",
+      "name_uppercase": "BANDAR BATU 9, CHERAS",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1176,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100648",
+      "name": "Bandar Batu 18, Semenyih",
+      "name_uppercase": "BANDAR BATU 18, SEMENYIH",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1177,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100649",
+      "name": "Bandar Batu 26, Beranang",
+      "name_uppercase": "BANDAR BATU 26, BERANANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1178,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100671",
+      "name": "Pekan Beranang",
+      "name_uppercase": "PEKAN BERANANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1179,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100673",
+      "name": "Pekan Kacau",
+      "name_uppercase": "PEKAN KACAU",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1180,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100675",
+      "name": "Pekan Tarun",
+      "name_uppercase": "PEKAN TARUN",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1181,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100676",
+      "name": "Pekan Bangi Lama",
+      "name_uppercase": "PEKAN BANGI LAMA",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1182,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100678",
+      "name": "Pekan Batu 23, Sungai Lalang",
+      "name_uppercase": "PEKAN BATU 23, SUNGAI LALANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1183,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100679",
+      "name": "Pekan Batu 26, Beranang",
+      "name_uppercase": "PEKAN BATU 26, BERANANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1184,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100680",
+      "name": "Pekan Bukit Sungai Raya",
+      "name_uppercase": "PEKAN BUKIT SUNGAI RAYA",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1185,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100681",
+      "name": "Pekan Cheras",
+      "name_uppercase": "PEKAN CHERAS",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1186,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100682",
+      "name": "Pekan Desa Raya",
+      "name_uppercase": "PEKAN DESA RAYA",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1187,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100683",
+      "name": "Pekan Dusun Tua Ulu Langat",
+      "name_uppercase": "PEKAN DUSUN TUA ULU LANGAT",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1188,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100684",
+      "name": "Pekan Kajang",
+      "name_uppercase": "PEKAN KAJANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1189,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100685",
+      "name": "Pekan Kampong Pasir, Batu 14, Semenyih",
+      "name_uppercase": "PEKAN KAMPONG PASIR, BATU 14, SEMENYIH",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1190,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100686",
+      "name": "Pekan Kampong Sungai Tangkas",
+      "name_uppercase": "PEKAN KAMPONG SUNGAI TANGKAS",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1191,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100687",
+      "name": "Pekan Rumah Murah Sungai Lui",
+      "name_uppercase": "PEKAN RUMAH MURAH SUNGAI LUI",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1192,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100688",
+      "name": "Pekan Semenyih",
+      "name_uppercase": "PEKAN SEMENYIH",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1193,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100689",
+      "name": "Pekan Simpang Balak",
+      "name_uppercase": "PEKAN SIMPANG BALAK",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1194,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100690",
+      "name": "Pekan Sri Nanding",
+      "name_uppercase": "PEKAN SRI NANDING",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1195,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100691",
+      "name": "Pekan Sungai Kembong Beranang",
+      "name_uppercase": "PEKAN SUNGAI KEMBONG BERANANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1196,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100692",
+      "name": "Pekan Sungai Lui",
+      "name_uppercase": "PEKAN SUNGAI LUI",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1197,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    },
+    {
+      "id": "100693",
+      "name": "Pekan Sungai Makau",
+      "name_uppercase": "PEKAN SUNGAI MAKAU",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1198,
+      "state_slug": "selangor",
+      "district_slug": "ulu-langat"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Ulu Langat, Selangor - Muat turun percuma",
+    "description": "Senarai lengkap 36 mukim di daerah Ulu Langat, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 36 mukim (traditional sub-district units) in Ulu Langat District, Selangor, Malaysia. Mengandungi 36 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Ulu Langat, Selangor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Ulu Langat, Selangor — 36 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 36 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

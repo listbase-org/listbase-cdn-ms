@@ -1,0 +1,107 @@
+{
+  "id": "ms-terengganu-parlimen",
+  "name": "Senarai Parlimen Terengganu",
+  "title": "Senarai Parlimen Terengganu",
+  "description": "Senarai kerusi Parlimen di Terengganu berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P033",
+      "name": "Besut",
+      "negeri": "Terengganu",
+      "dun_count": 4,
+      "dun": "N01: Kuala Besut, N02: Kota Putera, N03: Jertih, N04: Hulu Besut"
+    },
+    {
+      "code": "P034",
+      "name": "Setiu",
+      "negeri": "Terengganu",
+      "dun_count": 4,
+      "dun": "N05: Jabi, N06: Permaisuri, N07: Langkap, N08: Batu Rakit"
+    },
+    {
+      "code": "P035",
+      "name": "Kuala Nerus",
+      "negeri": "Terengganu",
+      "dun_count": 4,
+      "dun": "N09: Tepuh, N10: Buluh Gading, N11: Seberang Takir, N12: Bukit Tunggal"
+    },
+    {
+      "code": "P036",
+      "name": "Kuala Terengganu",
+      "negeri": "Terengganu",
+      "dun_count": 4,
+      "dun": "N13: Wakaf Mempelam, N14: Bandar, N15: Ladang, N16: Batu Buruk"
+    },
+    {
+      "code": "P037",
+      "name": "Marang",
+      "negeri": "Terengganu",
+      "dun_count": 4,
+      "dun": "N17: Alur Limbat, N18: Bukit Payung, N19: Ru Rendang, N20: Pengkalan Berangan"
+    },
+    {
+      "code": "P038",
+      "name": "Hulu Terengganu",
+      "negeri": "Terengganu",
+      "dun_count": 4,
+      "dun": "N21: Telemung, N22: Manir, N23: Kuala Berang, N24: Ajil"
+    },
+    {
+      "code": "P039",
+      "name": "Dungun",
+      "negeri": "Terengganu",
+      "dun_count": 4,
+      "dun": "N25: Bukit Besi, N26: Rantau Abang, N27: Sura, N28: Paka"
+    },
+    {
+      "code": "P040",
+      "name": "Kemaman",
+      "negeri": "Terengganu",
+      "dun_count": 4,
+      "dun": "N29: Kemasik, N30: Kijal, N31: Cukai, N32: Air Putih"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen Terengganu - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di Terengganu berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested. Mengandungi 8 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen Terengganu | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen Terengganu — 8 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 8 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "id": "ms-perak-larut-dan-matang-mukim",
+  "name": "Mukim di Daerah Larut & Matang, Perak",
+  "title": "Mukim di Daerah Larut & Matang, Perak",
+  "description": "Senarai lengkap 20 mukim di daerah Larut & Matang, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 20 mukim (traditional sub-district units) in Larut & Matang District, Perak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "080601",
+      "name": "Asam Kumbang",
+      "name_uppercase": "ASAM KUMBANG",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 863,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080602",
+      "name": "Batu Kurau",
+      "name_uppercase": "BATU KURAU",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 864,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080603",
+      "name": "Bukit Gantang",
+      "name_uppercase": "BUKIT GANTANG",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 865,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080604",
+      "name": "Jebong",
+      "name_uppercase": "JEBONG",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 866,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080605",
+      "name": "Kamunting",
+      "name_uppercase": "KAMUNTING",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 867,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080606",
+      "name": "Pengkalan Aor",
+      "name_uppercase": "PENGKALAN AOR",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 868,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080607",
+      "name": "Simpang",
+      "name_uppercase": "SIMPANG",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 869,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080608",
+      "name": "Sungai Limau",
+      "name_uppercase": "SUNGAI LIMAU",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 870,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080609",
+      "name": "Sungai Tinggi",
+      "name_uppercase": "SUNGAI TINGGI",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 871,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080610",
+      "name": "Terong",
+      "name_uppercase": "TERONG",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 872,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080611",
+      "name": "Tupai",
+      "name_uppercase": "TUPAI",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 873,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080611",
+      "name": "Bandar Kamunting",
+      "name_uppercase": "BANDAR KAMUNTING",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 874,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080611",
+      "name": "Bandar Kuala Sepetang",
+      "name_uppercase": "BANDAR KUALA SEPETANG",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 875,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080611",
+      "name": "Bandar Matang",
+      "name_uppercase": "BANDAR MATANG",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 876,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080611",
+      "name": "Bandar Taiping",
+      "name_uppercase": "BANDAR TAIPING",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 877,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080670",
+      "name": "Pekan Batu Kurau",
+      "name_uppercase": "PEKAN BATU KURAU",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 878,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080671",
+      "name": "Pekan Changkat Jering",
+      "name_uppercase": "PEKAN CHANGKAT JERING",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 879,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080672",
+      "name": "Pekan Pondok Tanjong",
+      "name_uppercase": "PEKAN PONDOK TANJONG",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 880,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080673",
+      "name": "Pekan Simpang",
+      "name_uppercase": "PEKAN SIMPANG",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 881,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    },
+    {
+      "id": "080674",
+      "name": "Pekan Terung",
+      "name_uppercase": "PEKAN TERUNG",
+      "district_id": "806",
+      "district": "Larut & Matang",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 882,
+      "state_slug": "perak",
+      "district_slug": "larut-dan-matang"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Larut & Matang, Perak - Muat turun percuma",
+    "description": "Senarai lengkap 20 mukim di daerah Larut & Matang, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 20 mukim (traditional sub-district units) in Larut & Matang District, Perak, Malaysia. Mengandungi 20 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Larut & Matang, Perak | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Larut & Matang, Perak — 20 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 20 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

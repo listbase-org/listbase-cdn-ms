@@ -1,0 +1,79 @@
+{
+  "id": "ms-kuantan-pahang-kod-swift",
+  "name": "Kod SWIFT/BIC — Kuantan, Pahang",
+  "title": "Kod SWIFT/BIC — Kuantan, Pahang",
+  "description": "Senarai institusi kewangan di Kuantan, Pahang (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Kuantan, Pahang, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 288,
+      "bank": "PENGURUSAN KUMIPA BERHAD",
+      "city": "KUANTAN, PAHANG",
+      "branch": "",
+      "swift_code": "PKUMMY21"
+    },
+    {
+      "id": 383,
+      "bank": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "city": "KUANTAN, PAHANG",
+      "branch": "",
+      "swift_code": "UOVBMYK102T"
+    },
+    {
+      "id": 410,
+      "bank": "WK OPTIONS AND FUTURES SDN BHD",
+      "city": "KUANTAN, PAHANG",
+      "branch": "",
+      "swift_code": "WKOFMY21"
+    },
+    {
+      "id": 411,
+      "bank": "WK SECURITIES SDN BHD",
+      "city": "KUANTAN, PAHANG",
+      "branch": "",
+      "swift_code": "SESBMY21"
+    }
+  ],
+  "meta": {
+    "title": "Kod SWIFT/BIC — Kuantan, Pahang - Muat turun percuma",
+    "description": "Senarai institusi kewangan di Kuantan, Pahang (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Kuantan, Pahang, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source. Mengandungi 4 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kod SWIFT/BIC — Kuantan, Pahang | ListBase",
+    "seo_description": "Muat turun Kod SWIFT/BIC — Kuantan, Pahang — 4 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 4 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

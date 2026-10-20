@@ -1,0 +1,142 @@
+{
+  "id": "ms-pulau-pinang-parlimen",
+  "name": "Senarai Parlimen Pulau Pinang",
+  "title": "Senarai Parlimen Pulau Pinang",
+  "description": "Senarai kerusi Parlimen di Pulau Pinang berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P041",
+      "name": "Kepala Batas",
+      "negeri": "Pulau Pinang",
+      "dun_count": 3,
+      "dun": "N01: Penaga, N02: Bertam, N03: Pinang Tunggal"
+    },
+    {
+      "code": "P042",
+      "name": "Tasek Gelugor",
+      "negeri": "Pulau Pinang",
+      "dun_count": 3,
+      "dun": "N04: Permatang Berangan, N05: Sungai Dua, N06: Telok Ayer Tawar"
+    },
+    {
+      "code": "P043",
+      "name": "Bagan",
+      "negeri": "Pulau Pinang",
+      "dun_count": 3,
+      "dun": "N07: Sungai Puyu, N08: Bagan Jermal, N09: Bagan Dalam"
+    },
+    {
+      "code": "P044",
+      "name": "Permatang Pauh",
+      "negeri": "Pulau Pinang",
+      "dun_count": 3,
+      "dun": "N10: Seberang Jaya, N11: Permatang Pasir, N12: Penanti"
+    },
+    {
+      "code": "P045",
+      "name": "Bukit Mertajam",
+      "negeri": "Pulau Pinang",
+      "dun_count": 3,
+      "dun": "N13: Berapit, N14: Machang Bubuk, N15: Padang Lalang"
+    },
+    {
+      "code": "P046",
+      "name": "Batu Kawan",
+      "negeri": "Pulau Pinang",
+      "dun_count": 3,
+      "dun": "N16: Perai, N17: Bukit Tengah, N18: Bukit Tambun"
+    },
+    {
+      "code": "P047",
+      "name": "Nibong Tebal",
+      "negeri": "Pulau Pinang",
+      "dun_count": 3,
+      "dun": "N19: Jawi, N20: Sungai Bakap, N21: Sungai Acheh"
+    },
+    {
+      "code": "P048",
+      "name": "Bukit Bendera",
+      "negeri": "Pulau Pinang",
+      "dun_count": 4,
+      "dun": "N22: Tanjong Bunga, N23: Air Putih, N24: Kebun Bunga, N25: Pulau Tikus"
+    },
+    {
+      "code": "P049",
+      "name": "Tanjong",
+      "negeri": "Pulau Pinang",
+      "dun_count": 3,
+      "dun": "N26: Padang Kota, N27: Pengkalan Kota, N28: Komtar"
+    },
+    {
+      "code": "P050",
+      "name": "Jelutong",
+      "negeri": "Pulau Pinang",
+      "dun_count": 3,
+      "dun": "N29: Datok Keramat, N30: Sungai Pinang, N31: Batu Lancang"
+    },
+    {
+      "code": "P051",
+      "name": "Bukit Gelugor",
+      "negeri": "Pulau Pinang",
+      "dun_count": 3,
+      "dun": "N32: Seri Delima, N33: Air Itam, N34: Paya Terubong"
+    },
+    {
+      "code": "P052",
+      "name": "Bayan Baru",
+      "negeri": "Pulau Pinang",
+      "dun_count": 3,
+      "dun": "N35: Batu Uban, N36: Pantai Jerejak, N37: Batu Maung"
+    },
+    {
+      "code": "P053",
+      "name": "Balik Pulau",
+      "negeri": "Pulau Pinang",
+      "dun_count": 3,
+      "dun": "N38: Bayan Lepas, N39: Pulau Betong, N40: Telok Bahang"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen Pulau Pinang - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di Pulau Pinang berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested. Mengandungi 13 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen Pulau Pinang | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen Pulau Pinang — 13 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 13 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

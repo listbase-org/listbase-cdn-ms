@@ -1,0 +1,580 @@
+{
+  "id": "ms-negeri-sembilan-seremban-mukim",
+  "name": "Mukim di Daerah Seremban, Negeri Sembilan",
+  "title": "Mukim di Daerah Seremban, Negeri Sembilan",
+  "description": "Senarai lengkap 42 mukim di daerah Seremban, negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 42 mukim (traditional sub-district units) in Seremban District, Negeri Sembilan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "050501",
+      "name": "Ampangan",
+      "name_uppercase": "AMPANGAN",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1397,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050502",
+      "name": "Labu",
+      "name_uppercase": "LABU",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1398,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050503",
+      "name": "Lenggeng",
+      "name_uppercase": "LENGGENG",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1399,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050504",
+      "name": "Pantai",
+      "name_uppercase": "PANTAI",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1400,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050505",
+      "name": "Rantau",
+      "name_uppercase": "RANTAU",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1401,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050506",
+      "name": "Rasah",
+      "name_uppercase": "RASAH",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1402,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050507",
+      "name": "Seremban",
+      "name_uppercase": "SEREMBAN",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1403,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050508",
+      "name": "Setul",
+      "name_uppercase": "SETUL",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1404,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050540",
+      "name": "Bandar Seremban",
+      "name_uppercase": "BANDAR SEREMBAN",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1405,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050541",
+      "name": "Bandar Seremban 3",
+      "name_uppercase": "BANDAR SEREMBAN 3",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1406,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050542",
+      "name": "Bandar Seremban Utama",
+      "name_uppercase": "BANDAR SEREMBAN UTAMA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1407,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050543",
+      "name": "Bandar Mantin Utama",
+      "name_uppercase": "BANDAR MANTIN UTAMA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1408,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050544",
+      "name": "Bandar Baru Enstek",
+      "name_uppercase": "BANDAR BARU ENSTEK",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1409,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050545",
+      "name": "Bandar Baru Kota Sri Mas",
+      "name_uppercase": "BANDAR BARU KOTA SRI MAS",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1410,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050546",
+      "name": "Bandar Nilai Utama",
+      "name_uppercase": "BANDAR NILAI UTAMA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1411,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050547",
+      "name": "Bandar Sri Sendayan",
+      "name_uppercase": "BANDAR SRI SENDAYAN",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1412,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050570",
+      "name": "Pekan Broga",
+      "name_uppercase": "PEKAN BROGA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1413,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050571",
+      "name": "Pekan Ulu Beranang",
+      "name_uppercase": "PEKAN ULU BERANANG",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1414,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050572",
+      "name": "Pekan Labu",
+      "name_uppercase": "PEKAN LABU",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1415,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050573",
+      "name": "Pekan Lenggeng",
+      "name_uppercase": "PEKAN LENGGENG",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1416,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050574",
+      "name": "Pekan Mambau",
+      "name_uppercase": "PEKAN MAMBAU",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1417,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050575",
+      "name": "Pekan Nilai",
+      "name_uppercase": "PEKAN NILAI",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1418,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050576",
+      "name": "Pekan Mantin",
+      "name_uppercase": "PEKAN MANTIN",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1419,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050577",
+      "name": "Pekan Pajam",
+      "name_uppercase": "PEKAN PAJAM",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1420,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050578",
+      "name": "Pekan Rantau",
+      "name_uppercase": "PEKAN RANTAU",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1421,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050579",
+      "name": "Pekan Tiroi",
+      "name_uppercase": "PEKAN TIROI",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1422,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050580",
+      "name": "Pekan Pancor",
+      "name_uppercase": "PEKAN PANCOR",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1423,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050581",
+      "name": "Pekan Taman Seremban",
+      "name_uppercase": "PEKAN TAMAN SEREMBAN",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1424,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050582",
+      "name": "Pekan Rahang Baru",
+      "name_uppercase": "PEKAN RAHANG BARU",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1425,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050583",
+      "name": "Pekan Paroi",
+      "name_uppercase": "PEKAN PAROI",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1426,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050584",
+      "name": "Pekan Bukit Kepayang",
+      "name_uppercase": "PEKAN BUKIT KEPAYANG",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1427,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050585",
+      "name": "Pekan Dusun Setia",
+      "name_uppercase": "PEKAN DUSUN SETIA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1428,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050586",
+      "name": "Pekan Sungai Gadut",
+      "name_uppercase": "PEKAN SUNGAI GADUT",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1429,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050587",
+      "name": "Pekan Bukti",
+      "name_uppercase": "PEKAN BUKTI",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1430,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050588",
+      "name": "Pekan Sikamat",
+      "name_uppercase": "PEKAN SIKAMAT",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1431,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050589",
+      "name": "Pekan Setul",
+      "name_uppercase": "PEKAN SETUL",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1432,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050590",
+      "name": "Pekan Shah Bandar",
+      "name_uppercase": "PEKAN SHAH BANDAR",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1433,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050591",
+      "name": "Pekan Ulu Temiang",
+      "name_uppercase": "PEKAN ULU TEMIANG",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1434,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050592",
+      "name": "Pekan Paroi Jaya",
+      "name_uppercase": "PEKAN PAROI JAYA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1435,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050593",
+      "name": "Pekan Rasah Jaya",
+      "name_uppercase": "PEKAN RASAH JAYA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1436,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050594",
+      "name": "Pekan Senawang",
+      "name_uppercase": "PEKAN SENAWANG",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1437,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    },
+    {
+      "id": "050595",
+      "name": "Pekan Seremban Jaya",
+      "name_uppercase": "PEKAN SEREMBAN JAYA",
+      "district_id": "505",
+      "district": "Seremban",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1438,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "seremban"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Seremban, Negeri Sembilan - Muat turun percuma",
+    "description": "Senarai lengkap 42 mukim di daerah Seremban, negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 42 mukim (traditional sub-district units) in Seremban District, Negeri Sembilan, Malaysia. Mengandungi 42 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Seremban, Negeri Sembilan | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Seremban, Negeri Sembilan — 42 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 42 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

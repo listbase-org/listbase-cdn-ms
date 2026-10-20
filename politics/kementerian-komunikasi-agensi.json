@@ -1,0 +1,258 @@
+{
+  "id": "kementerian-komunikasi-agensi",
+  "name": "Senarai Agensi Kementerian Komunikasi",
+  "title": "Senarai Agensi Kementerian Komunikasi",
+  "description": "Senarai 6 agensi kerajaan di bawah Kementerian Komunikasi (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 6/6 koordinat, 6/6 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "INSTITUT PENYIARAN DAN PENERANGAN TUN ABDUL RAZAK (IPPTAR)",
+      "parent_body": "Kementerian Komunikasi",
+      "parent_body_slug": "kementerian-komunikasi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Institut Penyiaran dan Penerangan Tun Abdul Razak (IPPTAR)",
+      "address": "Kementerian Komunikasi Dan Multimedia Malaysia, Peti Surat 12163, Jalan Pantai Baharu, 59700, Kuala Lumpur",
+      "phone": "603-22957555",
+      "fax": "603-22957575",
+      "email": "webmaster@ipptar.gov.my",
+      "contact_person": "webmaster",
+      "website": "http://www.ipptar.gov.my/index.php?lang=ms",
+      "latitude": "3.111218",
+      "longitude": "101.672891",
+      "facebook": "https://www.facebook.com/pages/Institut-Penyiaran-Dan-Penerangan-Tun-Abdul-Razak-IPPTAR/216628795049152",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PAP-20-02-00",
+      "active": true,
+      "agency_id": 41633
+    },
+    {
+      "name": "JABATAN PENERANGAN MALAYSIA",
+      "parent_body": "Kementerian Komunikasi",
+      "parent_body_slug": "kementerian-komunikasi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Jabatan Penerangan Malaysia",
+      "address": "Aras 5, 8 -16 dan 18, Kompleks Kementerian Komunikasi dan Multimedia, Lot 4G9, Persiaran Perdana, Presint 4, 62100, Putrajaya",
+      "phone": "603-8911 3440",
+      "fax": "603-8911 3466",
+      "email": "webmaster@inform.gov.my",
+      "contact_person": "webmaster",
+      "website": "https://www.penerangan.gov.my/japenv2/index.php/utama/",
+      "latitude": "2.9036578",
+      "longitude": "101.6797071",
+      "facebook": "https://www.facebook.com/penerangan/",
+      "twitter": "https://twitter.com/Jpenerangan",
+      "instagram": "https://www.instagram.com/japenmalaysia/?hl=en",
+      "youtube": "https://www.youtube.com/user/jabatanpenerangan",
+      "unique_code": "PAP-20-03-00",
+      "active": true,
+      "agency_id": 41732
+    },
+    {
+      "name": "Jabatan Penyiaran Malaysia (RTM)",
+      "parent_body": "Kementerian Komunikasi",
+      "parent_body_slug": "kementerian-komunikasi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Jabatan Penyiaran Malaysia (RTM)",
+      "address": "Radio Televisyen Malaysia, Angkasapuri, 50614, Kuala Lumpur",
+      "phone": "0322825333",
+      "fax": "0322827146",
+      "email": "aduan@rtm.gov.my",
+      "contact_person": "UKK",
+      "website": "https://www.rtm.gov.my",
+      "latitude": "3.113273",
+      "longitude": "101.670494",
+      "facebook": "https://www.facebook.com/RadioTelevisyenMalaysia",
+      "twitter": "https://twitter.com/RTM_Malaysia",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PAP-20-04-00",
+      "active": true,
+      "agency_id": 41320
+    },
+    {
+      "name": "KEMENTERIAN KOMUNIKASI",
+      "parent_body": "Kementerian Komunikasi",
+      "parent_body_slug": "kementerian-komunikasi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Kementerian Komunikasi",
+      "address": "Lot 4G9, Persiaran Perdana, Presint 4, Pusat Pentadbiran Kerajaan Persekutuan, 62100, Putrajaya",
+      "phone": "603-8000 8000",
+      "fax": "603-8911 5183",
+      "email": "webmaster@kkd.gov.my",
+      "contact_person": "Webmaster",
+      "website": "http://www.komunikasi.gov.my",
+      "latitude": "2.904075",
+      "longitude": "101.681809",
+      "facebook": "https://www.facebook.com/KEMENTERIANKOMUNIKASI",
+      "twitter": "https://twitter.com/komunikasi_gov",
+      "instagram": "https://www.instagram.com/komunikasi_gov/",
+      "youtube": "https://www.youtube.com/@komunikasi_gov/videos",
+      "unique_code": "PAP-20-01-00",
+      "active": true,
+      "agency_id": 41927
+    },
+    {
+      "name": "PERBADANAN KEMAJUAN FILEM NASIONAL MALAYSIA (FINAS)",
+      "parent_body": "Kementerian Komunikasi",
+      "parent_body_slug": "kementerian-komunikasi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Perbadanan Kemajuan Filem Nasional Malaysia (FINAS)",
+      "address": "Kompleks Studio Merdeka, Jalan Hulu Kelang, 68000, Ampang, Selangor",
+      "phone": "603-41041300",
+      "fax": "603-41075216",
+      "email": "info@finas.my",
+      "contact_person": "pro",
+      "website": "https://www.finas.gov.my/en/",
+      "latitude": "3.2080898",
+      "longitude": "101.753925",
+      "facebook": "https://www.facebook.com/malaysiafinas",
+      "twitter": "https://twitter.com/finasmalaysia",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCONxLXY7UjmiVQmxswa-aFg",
+      "unique_code": "BBP-20-02-00",
+      "active": true,
+      "agency_id": 41896
+    },
+    {
+      "name": "SURUHANJAYA KOMUNIKASI DAN MULTIMEDIA MALAYSIA (SKMM)",
+      "parent_body": "Kementerian Komunikasi",
+      "parent_body_slug": "kementerian-komunikasi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Suruhanjaya Komunikasi dan Multimedia Malaysia (SKMM)",
+      "address": "Suruhanjaya Komunikasi dan Multimedia Malaysia Off Persiaran Multimedia 63000 Cyberjaya Selangor Darul Ehsan",
+      "phone": "603-8688 8000",
+      "fax": "03-8688 1000",
+      "email": "scd@mcmc.gov.my",
+      "contact_person": "PRO",
+      "website": "http://www.skmm.gov.my/",
+      "latitude": "2.9215471",
+      "longitude": "101.6615427",
+      "facebook": "https://www.facebook.com/SuruhanjayaKomunikasiMultimediaMalaysia",
+      "twitter": "https://twitter.com/SKMM_MCMC",
+      "instagram": "http://instagram.com/skmm_mcmc",
+      "youtube": "https://www.youtube.com/user/broadbandmy",
+      "unique_code": "PUB-13922-00",
+      "active": true,
+      "agency_id": 41040
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi Kementerian Komunikasi - Muat turun percuma",
+    "description": "Senarai 6 agensi kerajaan di bawah Kementerian Komunikasi (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 6/6 koordinat, 6/6 laman web. Mengandungi 6 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi Kementerian Komunikasi | ListBase",
+    "seo_description": "Muat turun Senarai Agensi Kementerian Komunikasi — 6 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 6 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

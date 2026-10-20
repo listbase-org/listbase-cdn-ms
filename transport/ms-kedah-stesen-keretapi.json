@@ -1,0 +1,208 @@
+{
+  "id": "ms-kedah-stesen-keretapi",
+  "name": "Stesen Keretapi di Kedah",
+  "title": "Stesen Keretapi di Kedah",
+  "description": "Senarai stesen keretapi di Kedah, Malaysia — 7 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "country_ms",
+      "label": "Country Ms",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    },
+    {
+      "key": "stesen_minyak_terdekat_km",
+      "label": "Stesen Minyak Terdekat Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q1074048",
+      "name_ms": "Stesen keretapi Alor Setar",
+      "name_en": "Alor Setar railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 6.114722,
+      "longitude": 100.37,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1074048",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "stesen_minyak_terdekat_km": 0.7435
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q1074985",
+      "name_ms": "Stesen keretapi Sungai Petani",
+      "name_en": "Sungai Petani railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.6431,
+      "longitude": 100.4899,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1074985",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "stesen_minyak_terdekat_km": 0.4115
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q28197633",
+      "name_ms": "Stesen keretapi Anak Bukit",
+      "name_en": "Anak Bukit railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 6.1834,
+      "longitude": 100.3749,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28197633",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "stesen_minyak_terdekat_km": 2.1759
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q28197634",
+      "name_ms": "Stesen keretapi Kodiang",
+      "name_en": "Kodiang railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 6.3707,
+      "longitude": 100.3027,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28197634",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "stesen_minyak_terdekat_km": 2.4521
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q52090498",
+      "name_ms": "Stesen keretapi Kobah",
+      "name_en": "Kobah railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.972215354,
+      "longitude": 100.440736726,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52090498",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "stesen_minyak_terdekat_km": 1.264
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q5620516",
+      "name_ms": "Stesen keretapi Gurun",
+      "name_en": "Gurun railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.819722,
+      "longitude": 100.478333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5620516",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "stesen_minyak_terdekat_km": 0.1029
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q85846330",
+      "name_ms": "Stesen keretapi Kobah",
+      "name_en": "Kobah railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.972333333,
+      "longitude": 100.44075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85846330",
+      "negeri": "Kedah",
+      "negeri_slug": "kedah",
+      "stesen_minyak_terdekat_km": 1.2557
+    }
+  ],
+  "meta": {
+    "title": "Stesen Keretapi di Kedah - Muat turun percuma",
+    "description": "Senarai stesen keretapi di Kedah, Malaysia — 7 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit. Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen Keretapi di Kedah | ListBase",
+    "seo_description": "Muat turun Stesen Keretapi di Kedah — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 14 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

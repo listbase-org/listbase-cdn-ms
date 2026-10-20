@@ -1,0 +1,256 @@
+{
+  "id": "ms-negeri-sembilan-unlocode",
+  "name": "Kod lokasi UN/LOCODE — Negeri Sembilan, Malaysia",
+  "title": "Kod lokasi UN/LOCODE — Negeri Sembilan, Malaysia",
+  "description": "Kod lokasi UN/LOCODE bagi Negeri Sembilan (State), Malaysia — 7 lokasi yang diiktiraf UNECE termasuk pelabuhan, lapangan terbang, terminal dan titik pengangkutan darat. Setiap rekod membawa kod 5 aksara (MY + 3), nama rasmi, kod subdivisyen ISO 3166-2 MY-05, fungsi pengangkutan dan koordinat jika tersedia. 7/7 (100%) rekod mempunyai koordinat. Subdivisyen dibaca terus daripada medan `Subdivision` sumber — tiada padanan geometri atau nama.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "locode": "MYBAH",
+      "country": "MY",
+      "location": "BAH",
+      "name": "Bahau",
+      "name_wo_diacritics": "Bahau",
+      "subdivision_code": "05",
+      "subdivision_name": "Negeri Sembilan",
+      "subdivision_type": "State",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "0490N 10225E",
+      "latitude": 5.5,
+      "longitude": 102.4167,
+      "date_updated": "2009-01",
+      "remarks": ""
+    },
+    {
+      "locode": "MYKUP",
+      "country": "MY",
+      "location": "KUP",
+      "name": "Kuala Pilah",
+      "name_wo_diacritics": "Kuala Pilah",
+      "subdivision_code": "05",
+      "subdivision_name": "Negeri Sembilan",
+      "subdivision_type": "State",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "0244N 10215E",
+      "latitude": 2.7333,
+      "longitude": 102.25,
+      "date_updated": "2015-01",
+      "remarks": ""
+    },
+    {
+      "locode": "MYNII",
+      "country": "MY",
+      "location": "NII",
+      "name": "Nilai",
+      "name_wo_diacritics": "Nilai",
+      "subdivision_code": "05",
+      "subdivision_name": "Negeri Sembilan",
+      "subdivision_type": "State",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "1-------",
+      "functions": "Maritime transport (sea port)",
+      "iata": "",
+      "coordinates": "0249N 10148E",
+      "latitude": 2.8167,
+      "longitude": 101.8,
+      "date_updated": "2014-07",
+      "remarks": ""
+    },
+    {
+      "locode": "MYREM",
+      "country": "MY",
+      "location": "REM",
+      "name": "Rembau",
+      "name_wo_diacritics": "Rembau",
+      "subdivision_code": "05",
+      "subdivision_name": "Negeri Sembilan",
+      "subdivision_type": "State",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "0235N 10206E",
+      "latitude": 2.5833,
+      "longitude": 102.1,
+      "date_updated": "2014-01",
+      "remarks": ""
+    },
+    {
+      "locode": "MYSEW",
+      "country": "MY",
+      "location": "SEW",
+      "name": "Senawang",
+      "name_wo_diacritics": "Senawang",
+      "subdivision_code": "05",
+      "subdivision_name": "Negeri Sembilan",
+      "subdivision_type": "State",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "0242N 10158E",
+      "latitude": 2.7,
+      "longitude": 101.9667,
+      "date_updated": "2002-12",
+      "remarks": ""
+    },
+    {
+      "locode": "MYSRB",
+      "country": "MY",
+      "location": "SRB",
+      "name": "Seremban",
+      "name_wo_diacritics": "Seremban",
+      "subdivision_code": "05",
+      "subdivision_name": "Negeri Sembilan",
+      "subdivision_type": "State",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "0243N 10156E",
+      "latitude": 2.7167,
+      "longitude": 101.9333,
+      "date_updated": "2002-12",
+      "remarks": ""
+    },
+    {
+      "locode": "MYSUG",
+      "country": "MY",
+      "location": "SUG",
+      "name": "Sungai Gadut",
+      "name_wo_diacritics": "Sungai Gadut",
+      "subdivision_code": "05",
+      "subdivision_name": "Negeri Sembilan",
+      "subdivision_type": "State",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "0240N 10200E",
+      "latitude": 2.6667,
+      "longitude": 102,
+      "date_updated": "2015-01",
+      "remarks": ""
+    }
+  ],
+  "meta": {
+    "title": "Kod lokasi UN/LOCODE — Negeri Sembilan, Malaysia - Muat turun percuma",
+    "description": "Kod lokasi UN/LOCODE bagi Negeri Sembilan (State), Malaysia — 7 lokasi yang diiktiraf UNECE termasuk pelabuhan, lapangan terbang, terminal dan titik pengangkutan darat. Setiap rekod membawa kod 5 aksara (MY + 3), nama rasmi, kod subdivisyen ISO 3166-2 MY-05, fungsi pengangkutan dan koordinat jika tersedia. 7/7 (100%) rekod mempunyai koordinat. Subdivisyen dibaca terus daripada medan `Subdivision` sumber — tiada padanan geometri atau nama. Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kod lokasi UN/LOCODE — Negeri Sembilan, Malaysia | ListBase",
+    "seo_description": "Muat turun Kod lokasi UN/LOCODE — Negeri Sembilan, Malaysia — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 18 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

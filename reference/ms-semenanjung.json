@@ -1,0 +1,170 @@
+{
+  "id": "ms-semenanjung",
+  "name": "Semenanjung di Malaysia",
+  "title": "Semenanjung di Malaysia",
+  "description": "Peninsulas in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q43467",
+      "name_ms": "Indochina",
+      "name_en": "Mainland Southeast Asia",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 16,
+      "longitude": 102,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q43467"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q64210582",
+      "name_ms": "",
+      "name_en": "Klias peninsula",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.385833,
+      "longitude": 115.579444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64210582"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q64188365",
+      "name_ms": "",
+      "name_en": "Kudat peninsula",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 6.935556,
+      "longitude": 116.761667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64188365"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q64167272",
+      "name_ms": "",
+      "name_en": "Sandakan peninsula",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.906667,
+      "longitude": 117.975833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64167272"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q64198365",
+      "name_ms": "Semenanjung Bengkoka",
+      "name_en": "Bengkoka peninsula",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 6.924444,
+      "longitude": 117.145556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64198365"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q64149196",
+      "name_ms": "Semenanjung Dent",
+      "name_en": "Dent peninsula",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.208889,
+      "longitude": 118.936111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64149196"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q18758",
+      "name_ms": "Semenanjung Tanah Melayu",
+      "name_en": "Malay Peninsula",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 7,
+      "longitude": 100,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18758"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q7449803",
+      "name_ms": "",
+      "name_en": "Semporna peninsula",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.53926,
+      "longitude": 118.015,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7449803"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q107561654",
+      "name_ms": "Tanjung Penyabong",
+      "name_en": "Penyabong Peninsula",
+      "admin_area_ms": "Daerah Mersing",
+      "admin_area_en": "Mersing District",
+      "latitude": 2.637472,
+      "longitude": 103.756139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107561654"
+    }
+  ],
+  "meta": {
+    "title": "Semenanjung di Malaysia - Muat turun percuma",
+    "description": "Peninsulas in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location). Mengandungi 9 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Semenanjung di Malaysia | ListBase",
+    "seo_description": "Muat turun Semenanjung di Malaysia — 9 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 9 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

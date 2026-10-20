@@ -1,0 +1,336 @@
+{
+  "id": "ms-pahang-lapangan-terbang",
+  "name": "Senarai Lapangan Terbang di Negeri Pahang",
+  "title": "Senarai Lapangan Terbang di Negeri Pahang",
+  "description": "Senarai 11 lapangan terbang dan kemudahan penerbangan di Negeri Pahang, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_bm",
+      "label": "Name Bm",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_bm",
+      "label": "State Bm",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "runway_m",
+      "label": "Runway M",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "source_attribution",
+      "label": "Source Attribution",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    },
+    {
+      "key": "has_icao",
+      "label": "Has Icao",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 23,
+      "iata": "",
+      "icao": "WMAC",
+      "name_en": "Benta Airport",
+      "name_bm": "Lapangan Terbang Benta",
+      "name_slug": "benta-airport",
+      "city": "Benta",
+      "state": "Pahang",
+      "state_bm": "Pahang",
+      "state_slug": "pahang",
+      "type": "Military/STOL",
+      "operator": "MINDEF",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "04°02'59\"N 101°58'55\"E",
+      "source_attribution": "CAAM, AIP",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 24,
+      "iata": "",
+      "icao": "WMAD",
+      "name_en": "Bentong Airport",
+      "name_bm": "Lapangan Terbang Bentong",
+      "name_slug": "bentong-airport",
+      "city": "Bentong",
+      "state": "Pahang",
+      "state_bm": "Pahang",
+      "state_slug": "pahang",
+      "type": "Military/STOL",
+      "operator": "MINDEF",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "03°32'59\"N 101°52'55\"E",
+      "source_attribution": "CAAM, AIP",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 25,
+      "iata": "",
+      "icao": "",
+      "name_en": "Bukit Ibam Air Base",
+      "name_bm": "Pangkalan Udara Bukit Ibam",
+      "name_slug": "bukit-ibam-air-base",
+      "city": "Bukit Ibam",
+      "state": "Pahang",
+      "state_bm": "Pahang",
+      "state_slug": "pahang",
+      "type": "Military",
+      "operator": "RMAF",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "RMAF, Wiki",
+      "has_iata": false,
+      "has_icao": false
+    },
+    {
+      "id": 26,
+      "iata": "",
+      "icao": "",
+      "name_en": "Cameron Highlands Airstrip",
+      "name_bm": "Lapangan Terbang Cameron Highlands",
+      "name_slug": "cameron-highlands-airstrip",
+      "city": "Ringlet",
+      "state": "Pahang",
+      "state_bm": "Pahang",
+      "state_slug": "pahang",
+      "type": "Domestic",
+      "operator": "",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "Wiki, PilotNav",
+      "has_iata": false,
+      "has_icao": false
+    },
+    {
+      "id": 27,
+      "iata": "",
+      "icao": "",
+      "name_en": "Kuala Lompat Airstrip",
+      "name_bm": "Lapangan Terbang Kuala Lompat",
+      "name_slug": "kuala-lompat-airstrip",
+      "city": "Kuala Lompat",
+      "state": "Pahang",
+      "state_bm": "Pahang",
+      "state_slug": "pahang",
+      "type": "Domestic",
+      "operator": "",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "Wiki",
+      "has_iata": false,
+      "has_icao": false
+    },
+    {
+      "id": 28,
+      "iata": "",
+      "icao": "",
+      "name_en": "Lanjut Airstrip",
+      "name_bm": "Lapangan Terbang Lanjut",
+      "name_slug": "lanjut-airstrip",
+      "city": "Rompin",
+      "state": "Pahang",
+      "state_bm": "Pahang",
+      "state_slug": "pahang",
+      "type": "Private",
+      "operator": "Private",
+      "runway_m": "781",
+      "status": "Active",
+      "coordinates": "02°51′14″N 103°27′19″E",
+      "source_attribution": "Wiki",
+      "has_iata": false,
+      "has_icao": false
+    },
+    {
+      "id": 29,
+      "iata": "",
+      "icao": "",
+      "name_en": "Pekan Airstrip",
+      "name_bm": "Lapangan Terbang Pekan",
+      "name_slug": "pekan-airstrip",
+      "city": "Pekan",
+      "state": "Pahang",
+      "state_bm": "Pahang",
+      "state_slug": "pahang",
+      "type": "Domestic",
+      "operator": "",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "Wiki",
+      "has_iata": false,
+      "has_icao": false
+    },
+    {
+      "id": 30,
+      "iata": "TOD",
+      "icao": "WMBT",
+      "name_en": "Pulau Tioman Airport",
+      "name_bm": "Lapangan Terbang Pulau Tioman",
+      "name_slug": "pulau-tioman-airport",
+      "city": "Tioman",
+      "state": "Pahang",
+      "state_bm": "Pahang",
+      "state_slug": "pahang",
+      "type": "Domestic/STOL",
+      "operator": "MAHB",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "CAAM, MAHB, AIP",
+      "has_iata": true,
+      "has_icao": true
+    },
+    {
+      "id": 31,
+      "iata": "KUA",
+      "icao": "WMKD",
+      "name_en": "Sultan Haji Ahmad Shah Airport",
+      "name_bm": "Lapangan Terbang Sultan Haji Ahmad Shah",
+      "name_slug": "sultan-haji-ahmad-shah-airport",
+      "city": "Kuantan",
+      "state": "Pahang",
+      "state_bm": "Pahang",
+      "state_slug": "pahang",
+      "type": "Domestic/Military",
+      "operator": "MAHB / RMAF",
+      "runway_m": "2804",
+      "status": "Active",
+      "coordinates": "3.7697°N 103.2094°E",
+      "source_attribution": "CAAM, MAHB, AIP",
+      "has_iata": true,
+      "has_icao": true
+    },
+    {
+      "id": 32,
+      "iata": "",
+      "icao": "WMAN",
+      "name_en": "Sungai Tiang Airstrip",
+      "name_bm": "Lapangan Terbang Sungai Tiang",
+      "name_slug": "sungai-tiang-airstrip",
+      "city": "Sungai Tiang",
+      "state": "Pahang",
+      "state_bm": "Pahang",
+      "state_slug": "pahang",
+      "type": "Domestic/STOL",
+      "operator": "CAAM",
+      "runway_m": "792",
+      "status": "Active",
+      "coordinates": "04°19'49\"N 102°23'42\"E",
+      "source_attribution": "CAAM, AIP",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 33,
+      "iata": "",
+      "icao": "WMBE",
+      "name_en": "Termeloh Airstrip",
+      "name_bm": "Lapangan Terbang Termeloh",
+      "name_slug": "termeloh-airstrip",
+      "city": "Temerloh",
+      "state": "Pahang",
+      "state_bm": "Pahang",
+      "state_slug": "pahang",
+      "type": "Military/STOL",
+      "operator": "MINDEF",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "03°27'59\"N 102°22'54\"E",
+      "source_attribution": "CAAM, AIP",
+      "has_iata": false,
+      "has_icao": true
+    }
+  ],
+  "meta": {
+    "title": "Senarai Lapangan Terbang di Negeri Pahang - Muat turun percuma",
+    "description": "Senarai 11 lapangan terbang dan kemudahan penerbangan di Negeri Pahang, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status. Mengandungi 11 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Lapangan Terbang di Negeri Pahang | ListBase",
+    "seo_description": "Muat turun Senarai Lapangan Terbang di Negeri Pahang — 11 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 11 rekod / 18 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ms-kota-kinabalu-sabah-kod-swift",
+  "name": "Kod SWIFT/BIC — Kota Kinabalu, Sabah",
+  "title": "Kod SWIFT/BIC — Kota Kinabalu, Sabah",
+  "description": "Senarai institusi kewangan di Kota Kinabalu, Sabah (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Kota Kinabalu, Sabah, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 22,
+      "bank": "ALLIANCE INTERNATIONAL BERHAD",
+      "city": "KOTA KINABALU, SABAH",
+      "branch": "",
+      "swift_code": "HHBSMY41"
+    },
+    {
+      "id": 210,
+      "bank": "MALAYAN BANKING BERHAD (MAYBANK)",
+      "city": "KOTA KINABALU, SABAH",
+      "branch": "",
+      "swift_code": "MBBEMYKLKIN"
+    },
+    {
+      "id": 324,
+      "bank": "SABAH DEVELOPMENT BANK BHD.",
+      "city": "KOTA KINABALU, SABAH",
+      "branch": "",
+      "swift_code": "SDBEMY41"
+    },
+    {
+      "id": 325,
+      "bank": "SAHAM SABAH BERHAD",
+      "city": "KOTA KINABALU, SABAH",
+      "branch": "",
+      "swift_code": "SASBMY41"
+    },
+    {
+      "id": 376,
+      "bank": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "city": "KOTA KINABALU, SABAH",
+      "branch": "",
+      "swift_code": "UOVBMYK104K"
+    },
+    {
+      "id": 398,
+      "bank": "UOB KAY HIAN SECURITIES (M) SDN BHD",
+      "city": "KOTA KINABALU, SABAH",
+      "branch": "",
+      "swift_code": "INNOMY41"
+    }
+  ],
+  "meta": {
+    "title": "Kod SWIFT/BIC — Kota Kinabalu, Sabah - Muat turun percuma",
+    "description": "Senarai institusi kewangan di Kota Kinabalu, Sabah (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Kota Kinabalu, Sabah, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source. Mengandungi 6 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kod SWIFT/BIC — Kota Kinabalu, Sabah | ListBase",
+    "seo_description": "Muat turun Kod SWIFT/BIC — Kota Kinabalu, Sabah — 6 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 6 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "ms-wp-labuan-lapangan-terbang",
+  "name": "Senarai Lapangan Terbang di Wilayah Persekutuan Labuan",
+  "title": "Senarai Lapangan Terbang di Wilayah Persekutuan Labuan",
+  "description": "Senarai 1 lapangan terbang dan kemudahan penerbangan di Wilayah Persekutuan Labuan, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_bm",
+      "label": "Name Bm",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_bm",
+      "label": "State Bm",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "runway_m",
+      "label": "Runway M",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "source_attribution",
+      "label": "Source Attribution",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    },
+    {
+      "key": "has_icao",
+      "label": "Has Icao",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 19,
+      "iata": "LBU",
+      "icao": "WBKL",
+      "name_en": "Labuan Airport",
+      "name_bm": "Lapangan Terbang Labuan",
+      "name_slug": "labuan-airport",
+      "city": "Labuan",
+      "state": "Labuan",
+      "state_bm": "Wilayah Persekutuan Labuan",
+      "state_slug": "wp-labuan",
+      "type": "Domestic/Military",
+      "operator": "MAHB / RMAF",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "CAAM, MAHB, AIP",
+      "has_iata": true,
+      "has_icao": true
+    }
+  ],
+  "meta": {
+    "title": "Senarai Lapangan Terbang di Wilayah Persekutuan Labuan - Muat turun percuma",
+    "description": "Senarai 1 lapangan terbang dan kemudahan penerbangan di Wilayah Persekutuan Labuan, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status. Mengandungi 1 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Lapangan Terbang di Wilayah Persekutuan Labuan | ListBase",
+    "seo_description": "Muat turun Senarai Lapangan Terbang di Wilayah Persekutuan Labuan — 1 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 1 rekod / 18 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "ms-perlis-parlimen",
+  "name": "Senarai Parlimen Perlis",
+  "title": "Senarai Parlimen Perlis",
+  "description": "Senarai kerusi Parlimen di Perlis berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P001",
+      "name": "Padang Besar",
+      "negeri": "Perlis",
+      "dun_count": 5,
+      "dun": "N01: Titi Tinggi, N02: Beseri, N03: Chuping, N04: Mata Ayer, N05: Santan"
+    },
+    {
+      "code": "P002",
+      "name": "Kangar",
+      "negeri": "Perlis",
+      "dun_count": 5,
+      "dun": "N06: Bintong, N07: Sena, N08: Indera Kayangan, N09: Kuala Perlis, N10: Kayang"
+    },
+    {
+      "code": "P003",
+      "name": "Arau",
+      "negeri": "Perlis",
+      "dun_count": 5,
+      "dun": "N11: Pauh, N12: Tambun Tulang, N13: Guar Sanji, N14: Simpang Empat, N15: Sanglang"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen Perlis - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di Perlis berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested. Mengandungi 3 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen Perlis | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen Perlis — 3 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 3 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

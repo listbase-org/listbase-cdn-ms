@@ -1,0 +1,136 @@
+{
+  "id": "ms-johor-daerah",
+  "name": "Daerah di Johor",
+  "title": "Daerah di Johor",
+  "description": "Senarai lengkap 10 daerah (district) di negeri Johor, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 10 administrative districts in Johor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "101",
+      "name": "Batu Pahat",
+      "name_uppercase": "BATU PAHAT",
+      "code": "BPA",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "102",
+      "name": "Johor Bahru",
+      "name_uppercase": "JOHOR BAHRU",
+      "code": "JBA",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "103",
+      "name": "Kluang",
+      "name_uppercase": "KLUANG",
+      "code": "KLU",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "104",
+      "name": "Kota Tinggi",
+      "name_uppercase": "KOTA TINGGI",
+      "code": "KTI",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "105",
+      "name": "Mersing",
+      "name_uppercase": "MERSING",
+      "code": "MER",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "106",
+      "name": "Muar",
+      "name_uppercase": "MUAR",
+      "code": "MUA",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "107",
+      "name": "Pontian",
+      "name_uppercase": "PONTIAN",
+      "code": "PON",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "108",
+      "name": "Segamat",
+      "name_uppercase": "SEGAMAT",
+      "code": "SEG",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "109",
+      "name": "Kulaijaya",
+      "name_uppercase": "KULAIJAYA",
+      "code": "KUL",
+      "state_id": "1",
+      "state": "Johor"
+    },
+    {
+      "id": "110",
+      "name": "Ledang",
+      "name_uppercase": "LEDANG",
+      "code": "LED",
+      "state_id": "1",
+      "state": "Johor"
+    }
+  ],
+  "meta": {
+    "title": "Daerah di Johor - Muat turun percuma",
+    "description": "Senarai lengkap 10 daerah (district) di negeri Johor, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 10 administrative districts in Johor, Malaysia. Mengandungi 10 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Daerah di Johor | ListBase",
+    "seo_description": "Muat turun Daerah di Johor — 10 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 10 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

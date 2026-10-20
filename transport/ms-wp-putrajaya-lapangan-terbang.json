@@ -1,0 +1,136 @@
+{
+  "id": "ms-wp-putrajaya-lapangan-terbang",
+  "name": "Senarai Lapangan Terbang di Wilayah Persekutuan Putrajaya",
+  "title": "Senarai Lapangan Terbang di Wilayah Persekutuan Putrajaya",
+  "description": "Senarai 1 lapangan terbang dan kemudahan penerbangan di Wilayah Persekutuan Putrajaya, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_bm",
+      "label": "Name Bm",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_bm",
+      "label": "State Bm",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "runway_m",
+      "label": "Runway M",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "source_attribution",
+      "label": "Source Attribution",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    },
+    {
+      "key": "has_icao",
+      "label": "Has Icao",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 48,
+      "iata": "",
+      "icao": "My-0044",
+      "name_en": "Putrajaya Recreational Airport",
+      "name_bm": "Lapangan Terbang Rekreasi Putrajaya",
+      "name_slug": "putrajaya-recreational-airport",
+      "city": "Putrajaya",
+      "state": "Putrajaya",
+      "state_bm": "Wilayah Persekutuan Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "type": "Private",
+      "operator": "",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "Wiki",
+      "has_iata": false,
+      "has_icao": true
+    }
+  ],
+  "meta": {
+    "title": "Senarai Lapangan Terbang di Wilayah Persekutuan Putrajaya - Muat turun percuma",
+    "description": "Senarai 1 lapangan terbang dan kemudahan penerbangan di Wilayah Persekutuan Putrajaya, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status. Mengandungi 1 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Lapangan Terbang di Wilayah Persekutuan Putrajaya | ListBase",
+    "seo_description": "Muat turun Senarai Lapangan Terbang di Wilayah Persekutuan Putrajaya — 1 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 1 rekod / 18 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

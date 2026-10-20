@@ -1,0 +1,214 @@
+{
+  "id": "ms-kementerian-luar-negeri-agensi",
+  "name": "Senarai Agensi Kementerian Luar Negeri",
+  "title": "Senarai Agensi Kementerian Luar Negeri",
+  "description": "Senarai 4 agensi kerajaan di bawah Kementerian Luar Negeri (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 4/4 koordinat, 3/4 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "INSTITUT DIPLOMASI DAN HUBUNGAN LUAR NEGERI (IDFR)",
+      "parent_body": "Kementerian Luar Negeri",
+      "parent_body_slug": "kementerian-luar-negeri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "INSTITUT DIPLOMASI DAN HUBUNGAN LUAR NEGERI",
+      "address": "Jalan Wisma Putra, 50460, Kuala Lumpur",
+      "phone": "603-2149 1000",
+      "fax": "603-2144 5640",
+      "email": "info@idfr.gov.my",
+      "contact_person": "info",
+      "website": "https://www.idfr.gov.my/index.php/ms/",
+      "latitude": "3.13349",
+      "longitude": "101.7014426",
+      "facebook": "https://www.facebook.com/IDFRMalaysia/",
+      "twitter": "https://twitter.com/IDFRMalaysia",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PAP-03-02-00",
+      "active": true,
+      "agency_id": 242
+    },
+    {
+      "name": "KEMENTERIAN LUAR NEGERI",
+      "parent_body": "Kementerian Luar Negeri",
+      "parent_body_slug": "kementerian-luar-negeri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "KEMENTERIAN LUAR NEGERI MALAYSIA",
+      "address": "Wisma Putra, No 1, Jalan Wisma Putra, Presint 2, 62602, Putrajaya",
+      "phone": "603-8000 8000",
+      "fax": "603-8889 1717",
+      "email": "pro.ukk@kln.gov.my",
+      "contact_person": "pro",
+      "website": "http://www.kln.gov.my/",
+      "latitude": "2.926342",
+      "longitude": "101.692993",
+      "facebook": "https://www.facebook.com/MOFAMalaysia/",
+      "twitter": "https://twitter.com/malaysiamfa?lang=en",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PAP-03-01-00",
+      "active": true,
+      "agency_id": 241
+    },
+    {
+      "name": "PIHAK BERKUASA KEBANGSAAN KONVENSYEN SENJATA KIMIA",
+      "parent_body": "Kementerian Luar Negeri",
+      "parent_body_slug": "kementerian-luar-negeri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Pihak Berkuasa Kebangsaan Konvensyen Senjata Kimia",
+      "address": "Ministry of Foreign Affairs, Wisma Putra, No. 1, Jalan Wisma Putra, Presint 2, 62602 Putrajaya",
+      "phone": "",
+      "fax": "603-8889 4276",
+      "email": "nacwc@kln.gov.my",
+      "contact_person": "nacwc",
+      "website": "",
+      "latitude": "2.9255041",
+      "longitude": "101.6900589",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "SEM90003",
+      "active": true,
+      "agency_id": 42090
+    },
+    {
+      "name": "PUSAT SERANTAU ASIA TENGGARA BAGI MENCEGAH KEGANASAN (SEARCCT)",
+      "parent_body": "Kementerian Luar Negeri",
+      "parent_body_slug": "kementerian-luar-negeri",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "PUSAT SERANTAU ASIA TENGGARA BAGI MENCEGAH KEGANASAN (SEARCCT)",
+      "address": "No. 516, Persiaran Tuanku Ja’afar, Bukit Persekutuan, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+      "phone": "603-2280 2800",
+      "fax": "603-2274 9487",
+      "email": "info@searcct.gov.my",
+      "contact_person": "info",
+      "website": "http://www.searcct.gov.my/",
+      "latitude": "3.14119",
+      "longitude": "101.683051",
+      "facebook": "https://web.facebook.com/searcctkln/?_rdc=1&_rdr",
+      "twitter": "https://twitter.com/searcct2003?lang=en",
+      "instagram": "https://www.instagram.com/searcct/",
+      "youtube": "",
+      "unique_code": "PAP-03-03-00",
+      "active": true,
+      "agency_id": 243
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi Kementerian Luar Negeri - Muat turun percuma",
+    "description": "Senarai 4 agensi kerajaan di bawah Kementerian Luar Negeri (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 4/4 koordinat, 3/4 laman web. Mengandungi 4 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi Kementerian Luar Negeri | ListBase",
+    "seo_description": "Muat turun Senarai Agensi Kementerian Luar Negeri — 4 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 4 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "id": "ms-labuan-kod-swift",
+  "name": "Kod SWIFT/BIC — Labuan",
+  "title": "Kod SWIFT/BIC — Labuan",
+  "description": "Senarai institusi kewangan di Labuan (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Labuan, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 18,
+      "bank": "AL ATAS CAPITAL AND STOCK BROKERAGE HOUSE PTE LTD",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "ACSBMYK1"
+    },
+    {
+      "id": 37,
+      "bank": "AMBANK (M) BERHAD",
+      "city": "LABUAN",
+      "branch": "(LABUAN OFFSHORE BRANCH (LICENSED LABUAN BANK NO.080097D))",
+      "swift_code": "ARBKMYKLLAB"
+    },
+    {
+      "id": 53,
+      "bank": "ASIAN TRADE INVESTMENT BANK LTD",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "ATBLMY21"
+    },
+    {
+      "id": 58,
+      "bank": "BANK AL HABIB LIMITED",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "BAHLMY2A"
+    },
+    {
+      "id": 61,
+      "bank": "BANK ISLAM MALAYSIA BERHAD LABUAN OFFSHORE BRANCH",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "BISLMYKA"
+    },
+    {
+      "id": 70,
+      "bank": "BANK OF AMERICA, MALAYSIA BERHAD",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "BOFAMY2XLBN"
+    },
+    {
+      "id": 72,
+      "bank": "BANK OF NOVA SCOTIA, THE",
+      "city": "LABUAN",
+      "branch": "(THE LABUAN BRANCH)",
+      "swift_code": "NOSCMY2L"
+    },
+    {
+      "id": 75,
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "LABUAN",
+      "branch": "(LABUAN BRANCH)",
+      "swift_code": "BOTKMYKA"
+    },
+    {
+      "id": 91,
+      "bank": "BNP PARIBAS",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "BNPAMYKA"
+    },
+    {
+      "id": 104,
+      "bank": "CAPITAL INVESTMENT BANK (LABUAN) LIMITED (CIB LABUAN)",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "CINBMY21"
+    },
+    {
+      "id": 106,
+      "bank": "CIMB BANK (L) LIMITED",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "CIBBMYKA"
+    },
+    {
+      "id": 109,
+      "bank": "CIMB BANK BERHAD, LABUAN OFFSHORE BRANCH",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "CIBBMY2L"
+    },
+    {
+      "id": 128,
+      "bank": "DBS BANK LTD, LABUAN BRANCH",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "DBSSMY2A"
+    },
+    {
+      "id": 133,
+      "bank": "DEUTSCHE BANK (MALAYSIA) BERHAD",
+      "city": "LABUAN",
+      "branch": "(LABUAN BRANCH)",
+      "swift_code": "DEUTMYKLBLB"
+    },
+    {
+      "id": 144,
+      "bank": "FIDELITY ASIA BANK LTD",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "FABEMY22"
+    },
+    {
+      "id": 145,
+      "bank": "FIRST EAST EXPORT BANK",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "FEEBMYKA"
+    },
+    {
+      "id": 156,
+      "bank": "HONG LEONG BANK BERHAD, LABUAN INTERNATIONAL BRANCH",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "HLBLMY22"
+    },
+    {
+      "id": 165,
+      "bank": "IBH INVESTMENT BANK LIMITED",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "IBHIMY2L"
+    },
+    {
+      "id": 168,
+      "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MALAYSIA) BERHAD.",
+      "city": "LABUAN",
+      "branch": "(LABUAN BRANCH)",
+      "swift_code": "ICBKMYKLLAB"
+    },
+    {
+      "id": 174,
+      "bank": "J.P. MORGAN CHASE BANK BERHAD",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "CHASMYL1"
+    },
+    {
+      "id": 182,
+      "bank": "JPMORGAN CHASE BANK, N.A., LABUAN BRANCH",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "CHASMY2A"
+    },
+    {
+      "id": 200,
+      "bank": "LABUAN SECURITIES SDN BHD",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "LABNMY21"
+    },
+    {
+      "id": 244,
+      "bank": "MAYBANK INTERNATIONAL (L) LTD.",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "MBBEMYKA"
+    },
+    {
+      "id": 245,
+      "bank": "MAYBANK INTERNATIONAL LABUAN BRANCH",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "MBBEMY2L"
+    },
+    {
+      "id": 252,
+      "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD. LABUAN BRANCH",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "ICBCMY2L"
+    },
+    {
+      "id": 256,
+      "bank": "MIDDLE EAST INVESTMENT BANK LTD",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "MEIBMYKA"
+    },
+    {
+      "id": 261,
+      "bank": "MIZUHO BANK, LTD., LABUAN BRANCH",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "MHCBMY2L"
+    },
+    {
+      "id": 267,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "NBADMYKLLAU"
+    },
+    {
+      "id": 281,
+      "bank": "OVERSEA-CHINESE BANKING CORP. LTD, LABUAN BRANCH",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "OCBCMYKA"
+    },
+    {
+      "id": 295,
+      "bank": "PG ASIA INVESTMENT BANK LTD",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "AINEMY22"
+    },
+    {
+      "id": 304,
+      "bank": "PUBLIC BANK (L) LTD",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "PBLLMYKA"
+    },
+    {
+      "id": 314,
+      "bank": "RHB BANK (L) LTD",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "RHBBMYKA"
+    },
+    {
+      "id": 323,
+      "bank": "RSLE HOLDING (LABUAN) CORPORATION",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "RHLCMY21"
+    },
+    {
+      "id": 336,
+      "bank": "SCHRODERS MALAYSIA (L) BERHAD",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "SMBLMYK1"
+    },
+    {
+      "id": 349,
+      "bank": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
+      "city": "LABUAN",
+      "branch": "(LABUAN OFFSHORE BANKING UNIT ONLY)",
+      "swift_code": "SCBLMYKXLAB"
+    },
+    {
+      "id": 352,
+      "bank": "SUMITOMO MITSUI BANKING CORPORATION",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "SMBCMYKA"
+    },
+    {
+      "id": 363,
+      "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "HSBCMYKA"
+    },
+    {
+      "id": 396,
+      "bank": "UNITED OVERSEAS BANK LIMITED LABUAN BRANCH",
+      "city": "LABUAN",
+      "branch": "",
+      "swift_code": "UOVBMY2L"
+    }
+  ],
+  "meta": {
+    "title": "Kod SWIFT/BIC — Labuan - Muat turun percuma",
+    "description": "Senarai institusi kewangan di Labuan (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Labuan, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source. Mengandungi 38 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kod SWIFT/BIC — Labuan | ListBase",
+    "seo_description": "Muat turun Kod SWIFT/BIC — Labuan — 38 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 38 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

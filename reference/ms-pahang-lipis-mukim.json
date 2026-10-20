@@ -1,0 +1,328 @@
+{
+  "id": "ms-pahang-lipis-mukim",
+  "name": "Mukim di Daerah Lipis, Pahang",
+  "title": "Mukim di Daerah Lipis, Pahang",
+  "description": "Senarai lengkap 21 mukim di daerah Lipis, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 21 mukim (traditional sub-district units) in Lipis District, Pahang, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "060501",
+      "name": "Batu Yon",
+      "name_uppercase": "BATU YON",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 987,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060502",
+      "name": "Budu",
+      "name_uppercase": "BUDU",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 988,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060503",
+      "name": "Cheka",
+      "name_uppercase": "CHEKA",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 989,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060504",
+      "name": "Gua",
+      "name_uppercase": "GUA",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 990,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060510",
+      "name": "Ulu Jelai",
+      "name_uppercase": "ULU JELAI",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 991,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060505",
+      "name": "Kechau",
+      "name_uppercase": "KECHAU",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 992,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060506",
+      "name": "Kuala Lipis",
+      "name_uppercase": "KUALA LIPIS",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 993,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060507",
+      "name": "Penjom",
+      "name_uppercase": "PENJOM",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 994,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060508",
+      "name": "Tanjung Besar",
+      "name_uppercase": "TANJUNG BESAR",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 995,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060509",
+      "name": "Telang",
+      "name_uppercase": "TELANG",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 996,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060540",
+      "name": "Bandar Kuala Lipis",
+      "name_uppercase": "BANDAR KUALA LIPIS",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 997,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060541",
+      "name": "Benta",
+      "name_uppercase": "BENTA",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 998,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060542",
+      "name": "Padang Tengku",
+      "name_uppercase": "PADANG TENGKU",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 999,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060572",
+      "name": "Pekan Padang Tengku",
+      "name_uppercase": "PEKAN PADANG TENGKU",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1000,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060573",
+      "name": "Pekan Taman Jelai",
+      "name_uppercase": "PEKAN TAMAN JELAI",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1001,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060574",
+      "name": "Pekan Penjom",
+      "name_uppercase": "PEKAN PENJOM",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1002,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060575",
+      "name": "Pekan Mela",
+      "name_uppercase": "PEKAN MELA",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1003,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060576",
+      "name": "Pekan Kerambit",
+      "name_uppercase": "PEKAN KERAMBIT",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1004,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060577",
+      "name": "Pekan Rpsb Kg. Pagar",
+      "name_uppercase": "PEKAN RPSB KG. PAGAR",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1005,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060578",
+      "name": "Pekan Merapuh",
+      "name_uppercase": "PEKAN MERAPUH",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1006,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    },
+    {
+      "id": "060579",
+      "name": "Pekan Kechau Tui",
+      "name_uppercase": "PEKAN KECHAU TUI",
+      "district_id": "605",
+      "district": "Lipis",
+      "state_id": "6",
+      "state": "Pahang",
+      "parent_index": 1007,
+      "state_slug": "pahang",
+      "district_slug": "lipis"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Lipis, Pahang - Muat turun percuma",
+    "description": "Senarai lengkap 21 mukim di daerah Lipis, negeri Pahang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 21 mukim (traditional sub-district units) in Lipis District, Pahang, Malaysia. Mengandungi 21 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Lipis, Pahang | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Lipis, Pahang — 21 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 21 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

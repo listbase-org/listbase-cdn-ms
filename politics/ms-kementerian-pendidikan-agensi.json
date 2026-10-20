@@ -1,0 +1,302 @@
+{
+  "id": "ms-kementerian-pendidikan-agensi",
+  "name": "Senarai Agensi Kementerian Pendidikan",
+  "title": "Senarai Agensi Kementerian Pendidikan",
+  "description": "Senarai 8 agensi kerajaan di bawah Kementerian Pendidikan (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 8/8 koordinat, 8/8 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "DEWAN BAHASA DAN PUSTAKA (DBP)",
+      "parent_body": "Kementerian Pendidikan",
+      "parent_body_slug": "kementerian-pendidikan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Dewan Bahasa dan Pustaka (DBP)",
+      "address": "Menara DBP, Jalan Dewan Bahasa, 50460 Kuala Lumpur",
+      "phone": "603-2147 9000",
+      "fax": "03-2147 9601",
+      "email": "webmaster@dbp.gov.my",
+      "contact_person": "webmaster",
+      "website": "http://lamanweb.dbp.gov.my/",
+      "latitude": "3.1342362",
+      "longitude": "101.7013441",
+      "facebook": "https://www.facebook.com/pages/Dewan-Bahasa-dan-Pustaka-Malaysia/109573169113660?ref=mf",
+      "twitter": "https://twitter.com/DBPMalaysia",
+      "instagram": "",
+      "youtube": "http://lamanweb.dbp.gov.my/#",
+      "unique_code": "BBP-24-01-00",
+      "active": true,
+      "agency_id": 253
+    },
+    {
+      "name": "Institut Terjemahan & Buku Malaysia",
+      "parent_body": "Kementerian Pendidikan",
+      "parent_body_slug": "kementerian-pendidikan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Institut Terjemahan & Buku Malaysia",
+      "address": "Wisma ITBM, No. 2, Jalan 2/27E Seksyen 10, Wangsa Maju 53300 Kuala Lumpur, Malaysia",
+      "phone": "603-4145 1800",
+      "fax": "60-3414 9153",
+      "email": "info@itbm.com.my",
+      "contact_person": "info",
+      "website": "https://www.itbm.com.my/",
+      "latitude": "3.190155",
+      "longitude": "101.735611",
+      "facebook": "https://www.facebook.com/rakanITBM/",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "KPM-99-01-00",
+      "active": true,
+      "agency_id": 41878
+    },
+    {
+      "name": "Jabatan Pendidikan Negeri Melaka",
+      "parent_body": "Kementerian Pendidikan",
+      "parent_body_slug": "kementerian-pendidikan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Jabatan Pendidikan Negeri Melaka",
+      "address": "Jabatan Pelajaran Melaka, Jalan Istana, 75450 Bukit Beruang, Ayer Keroh, Melaka.",
+      "phone": "06-232 3776",
+      "fax": "06-232 0500",
+      "email": "",
+      "contact_person": "",
+      "website": "http://jpnmelaka.moe.gov.my",
+      "latitude": "2.25",
+      "longitude": "102.283333",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PUB-14431-00",
+      "active": true,
+      "agency_id": 41507
+    },
+    {
+      "name": "KEMENTERIAN PENDIDIKAN MALAYSIA",
+      "parent_body": "Kementerian Pendidikan",
+      "parent_body_slug": "kementerian-pendidikan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "KEMENTERIAN PENDIDIKAN MALAYSIA",
+      "address": "No. 2, Menara 2, Jalan P5/6, Presint 5, Pusat Pentadbiran Kerajaan Persekutuan, 62200, Putrajaya",
+      "phone": "603-8870 6000",
+      "fax": "603-8884 6411",
+      "email": "adukpm@moe.gov.my",
+      "contact_person": "pro",
+      "website": "http://www.moe.gov.my/",
+      "latitude": "2.903107",
+      "longitude": "101.668204",
+      "facebook": "https://www.facebook.com/KemPendidikan",
+      "twitter": "https://twitter.com/KemPendidikan",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PAP-24-01-00",
+      "active": true,
+      "agency_id": 254
+    },
+    {
+      "name": "LEMBAGA PEPERIKSAAN MALAYSIA (LPM)",
+      "parent_body": "Kementerian Pendidikan",
+      "parent_body_slug": "kementerian-pendidikan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "LEMBAGA PEPERIKSAAN MALAYSIA (LPM)",
+      "address": "Aras 2 , Blok E11, Kompleks E, Pusat Pentadbiran Kerajaan Persekutuan, 62604, Putrajaya",
+      "phone": "603-8000 8000",
+      "fax": "03-8888 8001",
+      "email": "80008000@1mocc.gov.my",
+      "contact_person": "MyGCC",
+      "website": "http://lp.moe.gov.my/",
+      "latitude": "3.054303",
+      "longitude": "101.6204329",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PUB-14134-00",
+      "active": true,
+      "agency_id": 41216
+    },
+    {
+      "name": "MAJLIS PEPERIKSAAN MALAYSIA",
+      "parent_body": "Kementerian Pendidikan",
+      "parent_body_slug": "kementerian-pendidikan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Majlis Peperiksaan Malaysia",
+      "address": "Persiaran 1, Bandar Baru Selayang, 68100 Batu Caves, Selangor",
+      "phone": "603-6126 1600",
+      "fax": "603-6136 1488",
+      "email": "ppa@mpm.edu.my",
+      "contact_person": "ppa",
+      "website": "http://www.mpm.edu.my/",
+      "latitude": "3.2607392",
+      "longitude": "101.6515523",
+      "facebook": "https://www.facebook.com/MajlisPeperiksaan/",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "BBP-24-02-00",
+      "active": true,
+      "agency_id": 39598
+    },
+    {
+      "name": "Perbadanan Kota Buku (PKB)",
+      "parent_body": "Kementerian Pendidikan",
+      "parent_body_slug": "kementerian-pendidikan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Perbadanan Kota Buku (PKB)",
+      "address": "Perbadanan Kota Buku, Tingkat 6, Menara PTPTN, Blok D, Megan Avenue II, No.12, Jalan Yap Kwan Seng, 50450 Kuala Lumpur.",
+      "phone": "603-2603 7766",
+      "fax": "",
+      "email": "info@kotabuku.my",
+      "contact_person": "info",
+      "website": "https://kotabuku.my/",
+      "latitude": "3.163119",
+      "longitude": "101.712849",
+      "facebook": "https://www.facebook.com/KotaBukuKL/",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "KPM-99-03-00",
+      "active": true,
+      "agency_id": 42036
+    },
+    {
+      "name": "Unit Pelaksanaan dan Prestasi Pendidikan (PADU)",
+      "parent_body": "Kementerian Pendidikan",
+      "parent_body_slug": "kementerian-pendidikan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Unit Pelaksanaan dan Prestasi Pendidikan (PADU)",
+      "address": "Unit Pelaksanaan dan Prestasi Pendidikan (PADU) Aras 3, Blok E9, Kompleks E, Presint 1 Pusat Pentadbiran Kerajaan Persekutuan 62604 Putrajaya Malaysia",
+      "phone": "603-8888 1001",
+      "fax": "03-8888 1146",
+      "email": "info@padu.edu.my",
+      "contact_person": "info",
+      "website": "https://www.padu.edu.my/",
+      "latitude": "2.942549",
+      "longitude": "101.708599",
+      "facebook": "https://www.facebook.com/padu.pppm",
+      "twitter": "https://twitter.com/padueducation?lang=en",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "KPM-99-05-00",
+      "active": true,
+      "agency_id": 42040
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi Kementerian Pendidikan - Muat turun percuma",
+    "description": "Senarai 8 agensi kerajaan di bawah Kementerian Pendidikan (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 8/8 koordinat, 8/8 laman web. Mengandungi 8 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi Kementerian Pendidikan | ListBase",
+    "seo_description": "Muat turun Senarai Agensi Kementerian Pendidikan — 8 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 8 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

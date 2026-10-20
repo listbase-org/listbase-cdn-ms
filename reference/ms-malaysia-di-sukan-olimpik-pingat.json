@@ -1,0 +1,352 @@
+{
+  "id": "ms-malaysia-di-sukan-olimpik-pingat",
+  "name": "Malaysia di Sukan Olimpik — pungutan pingat 1992–2020 (19)",
+  "title": "Malaysia di Sukan Olimpik — pungutan pingat 1992–2020 (19)",
+  "description": "Semua kedudukan berpingat atlet yang mewakili Malaysia (kod MAS, sejak 1964) di Sukan Olimpik Musim Panas dan Musim Sejuk menurut olympedia.org: tahun, jenis Sukan Olimpik, sukan, acara, atlet, pasukan/pasangan, kedudukan, pingat dan kod NOC. Satu rekod = satu atlet dalam satu acara (pingat berpasukan dicatat untuk setiap ahli pasukan). Liputan hingga 2022 (Paris 2024 tiada dalam sumber). Nama sukan, acara, pasukan, atlet dan kod kedudukan seperti dalam sumber (bahasa Inggeris; \"=3\" = kedudukan seri). Dikecualikan: Sukan Olimpik Remaja, Sukan 1906, acara pameran tanpa pingat.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "jenis_sukan_olimpik",
+      "label": "Jenis Sukan Olimpik",
+      "type": "string"
+    },
+    {
+      "key": "sukan_olimpik_sumber",
+      "label": "Sukan Olimpik Sumber",
+      "type": "string"
+    },
+    {
+      "key": "sukan",
+      "label": "Sukan",
+      "type": "string"
+    },
+    {
+      "key": "acara",
+      "label": "Acara",
+      "type": "string"
+    },
+    {
+      "key": "atlet",
+      "label": "Atlet",
+      "type": "string"
+    },
+    {
+      "key": "id_atlet",
+      "label": "Id Atlet",
+      "type": "number"
+    },
+    {
+      "key": "pasukan_atau_pasangan",
+      "label": "Pasukan Atau Pasangan",
+      "type": "string"
+    },
+    {
+      "key": "kedudukan",
+      "label": "Kedudukan",
+      "type": "string"
+    },
+    {
+      "key": "kedudukan_seri",
+      "label": "Kedudukan Seri",
+      "type": "boolean"
+    },
+    {
+      "key": "pingat",
+      "label": "Pingat",
+      "type": "string"
+    },
+    {
+      "key": "kod_noc",
+      "label": "Kod Noc",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 1992,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "1992 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Doubles, Men (Olympic)",
+      "atlet": "Ajib Sidek Mohamed",
+      "id_atlet": 958,
+      "pasukan_atau_pasangan": "Alan Sidek Mohamed",
+      "kedudukan": "=3",
+      "kedudukan_seri": true,
+      "pingat": "Gangsa",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 1992,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "1992 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Doubles, Men (Olympic)",
+      "atlet": "Alan Sidek Mohamed",
+      "id_atlet": 957,
+      "pasukan_atau_pasangan": "Ajib Sidek Mohamed",
+      "kedudukan": "=3",
+      "kedudukan_seri": true,
+      "pingat": "Gangsa",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 1996,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "1996 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Doubles, Men (Olympic)",
+      "atlet": "Cheah Soon Kit",
+      "id_atlet": 954,
+      "pasukan_atau_pasangan": "Yap Kim Hock",
+      "kedudukan": "2",
+      "kedudukan_seri": false,
+      "pingat": "Perak",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 1996,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "1996 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Doubles, Men (Olympic)",
+      "atlet": "Yap Kim Hock",
+      "id_atlet": 962,
+      "pasukan_atau_pasangan": "Cheah Soon Kit",
+      "kedudukan": "2",
+      "kedudukan_seri": false,
+      "pingat": "Perak",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 1996,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "1996 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Singles, Men (Olympic)",
+      "atlet": "Adul Sidek Mohamed",
+      "id_atlet": 959,
+      "pasukan_atau_pasangan": "",
+      "kedudukan": "3",
+      "kedudukan_seri": false,
+      "pingat": "Gangsa",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2008,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2008 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Singles, Men (Olympic)",
+      "atlet": "Lee Chong Wei",
+      "id_atlet": 105855,
+      "pasukan_atau_pasangan": "",
+      "kedudukan": "2",
+      "kedudukan_seri": false,
+      "pingat": "Perak",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2012,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2012 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Singles, Men (Olympic)",
+      "atlet": "Lee Chong Wei",
+      "id_atlet": 105855,
+      "pasukan_atau_pasangan": "",
+      "kedudukan": "2",
+      "kedudukan_seri": false,
+      "pingat": "Perak",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2012,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2012 Summer Olympics",
+      "sukan": "Diving (Aquatics)",
+      "acara": "Platform, Women (Olympic)",
+      "atlet": "Pandelela Rinong",
+      "id_atlet": 116060,
+      "pasukan_atau_pasangan": "",
+      "kedudukan": "3",
+      "kedudukan_seri": false,
+      "pingat": "Gangsa",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2016,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2016 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Doubles, Men (Olympic)",
+      "atlet": "Goh Wei Shem",
+      "id_atlet": 135086,
+      "pasukan_atau_pasangan": "Tan Wee Kiong",
+      "kedudukan": "2",
+      "kedudukan_seri": false,
+      "pingat": "Perak",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2016,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2016 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Doubles, Men (Olympic)",
+      "atlet": "Tan Wee Kiong",
+      "id_atlet": 135087,
+      "pasukan_atau_pasangan": "Goh Wei Shem",
+      "kedudukan": "2",
+      "kedudukan_seri": false,
+      "pingat": "Perak",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2016,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2016 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Doubles, Mixed (Olympic)",
+      "atlet": "Chan Peng Soon",
+      "id_atlet": 126479,
+      "pasukan_atau_pasangan": "Goh Liu Ying",
+      "kedudukan": "2",
+      "kedudukan_seri": false,
+      "pingat": "Perak",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2016,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2016 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Doubles, Mixed (Olympic)",
+      "atlet": "Goh Liu Ying",
+      "id_atlet": 126480,
+      "pasukan_atau_pasangan": "Chan Peng Soon",
+      "kedudukan": "2",
+      "kedudukan_seri": false,
+      "pingat": "Perak",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2016,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2016 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Singles, Men (Olympic)",
+      "atlet": "Lee Chong Wei",
+      "id_atlet": 105855,
+      "pasukan_atau_pasangan": "",
+      "kedudukan": "2",
+      "kedudukan_seri": false,
+      "pingat": "Perak",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2016,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2016 Summer Olympics",
+      "sukan": "Cycling Track (Cycling)",
+      "acara": "Keirin, Men (Olympic)",
+      "atlet": "Azizul Awang",
+      "id_atlet": 113176,
+      "pasukan_atau_pasangan": "",
+      "kedudukan": "3",
+      "kedudukan_seri": false,
+      "pingat": "Gangsa",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2016,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2016 Summer Olympics",
+      "sukan": "Diving (Aquatics)",
+      "acara": "Synchronized Platform, Women (Olympic)",
+      "atlet": "Cheong Jun Hoong",
+      "id_atlet": 125973,
+      "pasukan_atau_pasangan": "Pandelela Rinong",
+      "kedudukan": "2",
+      "kedudukan_seri": false,
+      "pingat": "Perak",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2016,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2016 Summer Olympics",
+      "sukan": "Diving (Aquatics)",
+      "acara": "Synchronized Platform, Women (Olympic)",
+      "atlet": "Pandelela Rinong",
+      "id_atlet": 116060,
+      "pasukan_atau_pasangan": "Cheong Jun Hoong",
+      "kedudukan": "2",
+      "kedudukan_seri": false,
+      "pingat": "Perak",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2020,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2020 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Doubles, Men (Olympic)",
+      "atlet": "Aaron Chia",
+      "id_atlet": 145202,
+      "pasukan_atau_pasangan": "Soh Wooi Yik",
+      "kedudukan": "3",
+      "kedudukan_seri": false,
+      "pingat": "Gangsa",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2020,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2020 Summer Olympics",
+      "sukan": "Badminton",
+      "acara": "Doubles, Men (Olympic)",
+      "atlet": "Soh Wooi Yik",
+      "id_atlet": 145204,
+      "pasukan_atau_pasangan": "Aaron Chia",
+      "kedudukan": "3",
+      "kedudukan_seri": false,
+      "pingat": "Gangsa",
+      "kod_noc": "MAS"
+    },
+    {
+      "tahun": 2020,
+      "jenis_sukan_olimpik": "Musim Panas",
+      "sukan_olimpik_sumber": "2020 Summer Olympics",
+      "sukan": "Cycling Track (Cycling)",
+      "acara": "Keirin, Men (Olympic)",
+      "atlet": "Azizul Awang",
+      "id_atlet": 113176,
+      "pasukan_atau_pasangan": "",
+      "kedudukan": "2",
+      "kedudukan_seri": false,
+      "pingat": "Perak",
+      "kod_noc": "MAS"
+    }
+  ],
+  "meta": {
+    "title": "Malaysia di Sukan Olimpik — pungutan pingat 1992–2020 (19) - Muat turun percuma",
+    "description": "Semua kedudukan berpingat atlet yang mewakili Malaysia (kod MAS, sejak 1964) di Sukan Olimpik Musim Panas dan Musim Sejuk menurut olympedia.org: tahun, jenis Sukan Olimpik, sukan, acara, atlet, pasukan/pasangan, kedudukan, pingat dan kod NOC. Satu rekod = satu atlet dalam satu acara (pingat berpasukan dicatat untuk setiap ahli pasukan). Liputan hingga 2022 (Paris 2024 tiada dalam sumber). Nama sukan, acara, pasukan, atlet dan kod kedudukan seperti dalam sumber (bahasa Inggeris; \"=3\" = kedudukan seri). Dikecualikan: Sukan Olimpik Remaja, Sukan 1906, acara pameran tanpa pingat. Mengandungi 19 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Malaysia di Sukan Olimpik — pungutan pingat 1992–2020 (19) | ListBase",
+    "seo_description": "Muat turun Malaysia di Sukan Olimpik — pungutan pingat 1992–2020 (19) — 19 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 19 rekod / 12 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

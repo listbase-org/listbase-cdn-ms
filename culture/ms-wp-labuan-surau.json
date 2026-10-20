@@ -1,0 +1,520 @@
+{
+  "id": "ms-wp-labuan-surau",
+  "name": "Surau di WP Labuan",
+  "title": "Surau di WP Labuan",
+  "description": "Senarai surau di WP Labuan — 51 surau. Sumber: SISMIM/JAKIM (direktori kebangsaan masjid & surau). Medan: name, state, state_slug, district, address, phone, fax.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "SURAU AN-NAIM",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "SEKOLAH MENENGAH SAINS LABUAN PETI SURAT 82206",
+      "phone": "017-2138818",
+      "fax": "087-462835"
+    },
+    {
+      "name": "SURAU AL MUJTAHIDIN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "SEK. MEN. TEKNIK LABUAN PETI SURAT 80276",
+      "phone": "019-8844524",
+      "fax": "087-461820"
+    },
+    {
+      "name": "SURAU AL-MAJID",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "LABUAN SHIPYARD SDN. BHD. KM.9, JALAN RANCHA-RANCHA PO. BOX 203",
+      "phone": "019-8723301",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL-IKHLASIAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG.BELUKUT",
+      "phone": "016-8047452",
+      "fax": ""
+    },
+    {
+      "name": "SURAU NUR HIDAYAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "PERUMAHAN KOS RENDAH BATU ARANG, TAMAN RANCHA-RANCHA 2",
+      "phone": "01112651953",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AR-RAUDHAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KAMPUNG BUKIT KUDA",
+      "phone": "0168045260",
+      "fax": ""
+    },
+    {
+      "name": "SURAU DARUS SALAM",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "PP 0222 KG PATAU-PATAU NO 2",
+      "phone": "016-8246193",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AS-SYAKIRIN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "PERUMAHAN TAMAN MUTIARA KG. SUNGAI BEDAUN",
+      "phone": "011-31501350",
+      "fax": ""
+    },
+    {
+      "name": "SURAU KHALID AL WALID",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KAMPUNG BATU MANIKAR",
+      "phone": "016-8396229",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL-MUNAWWARAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG.PATAU-PATAU 1",
+      "phone": "0138800704",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AN-NUR RAHIM",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG.SUNGAI BUTON",
+      "phone": "017-8640223",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL-HIKMAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "BAHAGIAN HAL EHWAL ISLAM & MASJID KAMPUS ANTARABANGSA LABUAN JALAN JSG. PAGAR UMS-KAL 87000 W.P. LABUAN",
+      "phone": "013-6848721",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL-IRFAN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KOLEJ MATRIKULASI LABUAN KEMENTERIAN PENDIDIKAN MALAYSIA JALAN OKK DAUD MERINDING PETI SURAT 81735",
+      "phone": "0195279608",
+      "fax": "087-466500"
+    },
+    {
+      "name": "SURAU UWAIS AL QARNI",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "JALAN TANJUNG KUBONG KG.PANTAI",
+      "phone": "0111-6039091",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AS-SAADAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "PANGKALAN UDARA LABUAN",
+      "phone": "0199562492",
+      "fax": ""
+    },
+    {
+      "name": "SURAU KILAN KASSIM",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG. KILAN KASSIM",
+      "phone": "0195809008",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL-AMIN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "D/A Jabatan Laut Malaysia Ibu Pejabat Laut W.P. Labuan Peti Surat 81005",
+      "phone": "087-412208",
+      "fax": "413515"
+    },
+    {
+      "name": "SURAU AL-IKHWAN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "APARTMENT TUDM TAMAN FULLIWA JALAN RANCHA-RANCHA KG. BATU ARANG",
+      "phone": "012-8679407",
+      "fax": ""
+    },
+    {
+      "name": "SURAU SKUADRON TUDM 340",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "SKUADRON 340 TUDM BUKIT KUBONG",
+      "phone": "087592600",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL-IKHWAN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "RUMAH PANGSA PERBADANAN LABUAN JALAN BATU ARANG PETI SURAT 81245",
+      "phone": "0168438738",
+      "fax": ""
+    },
+    {
+      "name": "SURAU NURHIDAYAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "PERUMAHAN TAMAN UDARA KAMPUNG SUNGAI BEDAUN",
+      "phone": "0123237432",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL GHUFRANIAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "TAMAN PERUMAHAN LDA KAMPUNG SUNGAI BEDAUN",
+      "phone": "01115039192",
+      "fax": ""
+    },
+    {
+      "name": "SURAU KAMPUNG NAGALANG",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KAMPUNG NAGALANG",
+      "phone": "01131444319",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL-IRSYAD",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KAMPUNG KILAN PULAU AKAR",
+      "phone": "0138730486",
+      "fax": ""
+    },
+    {
+      "name": "SURAU BEBULOH LAUT",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KAMPUNG BEBULOH LAUT",
+      "phone": "0128436656",
+      "fax": ""
+    },
+    {
+      "name": "SURAU KAMPUNG RANCA-RANCA LAUT",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KAMPUNG RANCA-RANCA LAUT",
+      "phone": "016-8042810",
+      "fax": ""
+    },
+    {
+      "name": "SURAU ABU ZAIHAN MUHAMMAD AL-BIRUNI",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "INSTITUT LATIHAN PERINDUSTRIANJABATAN TENAGA RAKYAT KSMPETI SURAT 80849JALAN MOHD SALLEH",
+      "phone": "0197084519",
+      "fax": ""
+    },
+    {
+      "name": "SURAU PERUMAHAN KASTAM",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "D/A JABATAN KASTAM DIRAJA MALAYSIA WISMA KASTAM JALAN MERDEKA PETI SURAT 81003",
+      "phone": "0198030020",
+      "fax": ""
+    },
+    {
+      "name": "SURAU ASIAN SUPPLY BASE",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KAWASAN PERINDUSTRIAN RANCA-RANCA PETI SURAT 80751",
+      "phone": "087-411611",
+      "fax": ""
+    },
+    {
+      "name": "SURAU KAMPUNG KERUPANG 3",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KAMPUNG KERUPANG 3 PETI SURAT 80945",
+      "phone": "019-8723309",
+      "fax": ""
+    },
+    {
+      "name": "SURAU MUSOLLA IBNU SINA",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "IBU PEJABAT POLIS DAERAH (BAKA)POLIS DIRAJA MALAYSIA PETI SURAT 81004",
+      "phone": "016-7874548",
+      "fax": ""
+    },
+    {
+      "name": "SURAU BALAI BOMBA",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "IBU PEJABAT JABATAN BOMBA & PENYELAMAT WPL JALAN TUN MUSTAPHA PETI SURAT 81301",
+      "phone": "0178901181",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AR RAYYAN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "PERUMAHAN TAMAN MUTIARA, KAMPUNG SUNGAI BEDAUN",
+      "phone": "016-4456372",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL SAKINAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "D/A Jabatan Pertanian Tingkat 3, Wisma Wong Wo Lo Peti Surat 157 87008 W.P. Labuan",
+      "phone": "087-408 511",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL HIDAYAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "51 KOMPENI KOMPOSIT KPD JALAN SAWANGAN CINA MEMBEDAI",
+      "phone": "019-9569616",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL-UBUDIYYAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "TAMAN PERUMAHAN KAKITANGAN AWAM JALAN BUKIT KUDA",
+      "phone": "0123061551",
+      "fax": ""
+    },
+    {
+      "name": "SURAU NURUL ISLAM",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "PUSAT BANDAR JALAN MERDEKA",
+      "phone": "019-8821122",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AT TAQWA",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "PETRONAS METHANOL LABUAN PETI SURAT 80079",
+      "phone": "019-8503415",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL MUBARAKAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG. SUNGAI BANGAT JALAN MOHD SALLEH OFF JALAN TAMAN MUTIARA PETI SURAT 82280 W.P. Labuan",
+      "phone": "013-8643229",
+      "fax": ""
+    },
+    {
+      "name": "SURAU KOMPLEKS DARUL KIFAYAH MAIWP LABUAN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "Lot 7923 Jalan Tanjung Taras 87008 W.P. Labuan",
+      "phone": "017-4255573",
+      "fax": ""
+    },
+    {
+      "name": "SURAU PASAR SENTRAL LABUAN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "D/A ALLI HANDICRAFT ENTERPRISE E1 ARAS 1 PASAR SENTRAL LABUAN BANGUNAN UTC PASAR SENTRAL W.P. LABUAN",
+      "phone": "019-8121857",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL-ANSOOR",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "PERUMAHAN MPL BATU ARANG, JLN TANJUNG ARU 87000 WILAYAH PERSEKUTUAN LABUAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SURAU KAMPUNG KIAMSAM",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KAMPUNG KIAMSAM 87000 WILAYAH PERSEKUTUAN LABUAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL-KAUSAR",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "JABATAN KESIHATAN WILAYAH PERSEKUTUAN LABUAN PETI SURAT 80832, 87018 WILAYAH PERSEKUTUAN LABUAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AS-SALAM",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "JABATAN BOMBA DAN PENYELAMAT KOMPLEKS IBU PEJABAT, JLN RANCHA-RANCHA 87000 WILAYAH PERSEKUTUAN LABUAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SURAU TANJUNG KUBONG",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "P.O BOX 81569, SIMPANG HJ SABAN BLOK TANJUNG KUBONG KAMPUNG LUBOK TEMIANG 87000 WILAYAH PERSEKUTUAN LABUAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SURAU GANGGARAK PERMAI",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "TAMAN GANGGARAK PERMAI JALAN POHON BATU 87000 WILAYAH PERSEKUTUAN LABUAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AL-MUSTASHFAA",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "HOSPITAL LABUAN PETI SURAT 81006, 87020 WILAYAH PERSEKUTUAN LABUAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SURAU MUSALLA AL-KAAFIY",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "JABATAN MUFTI WILAYAH PERSEKUTUAN LABUAN, TINGKAT 9 BLOK 4, UJANA KEWANGAN 87000 WILAYAH PERSEKUTUAN LABUAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "SURAU FATH AL-BARI",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "PUSAT KOREKSIONAL LABUAN, JLN BUKIT TIMBALAI, WP LABUAN",
+      "phone": "0194994990",
+      "fax": ""
+    },
+    {
+      "name": "SURAU AN-NAJAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "PROGRAM RESIDENSI RAKYAT (PRR) KAMPUNG BATU ARANG WP LABUAN",
+      "phone": "0198029550",
+      "fax": ""
+    }
+  ],
+  "meta": {
+    "title": "Surau di WP Labuan - Muat turun percuma",
+    "description": "Senarai surau di WP Labuan — 51 surau. Sumber: SISMIM/JAKIM (direktori kebangsaan masjid & surau). Medan: name, state, state_slug, district, address, phone, fax. Mengandungi 51 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Surau di WP Labuan | ListBase",
+    "seo_description": "Muat turun Surau di WP Labuan — 51 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 51 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "id": "ms-pulau-pinang-timor-laut-mukim",
+  "name": "Mukim di Daerah Timor Laut, Pulau Pinang",
+  "title": "Mukim di Daerah Timor Laut, Pulau Pinang",
+  "description": "Senarai lengkap 14 mukim di daerah Timor Laut, negeri Pulau Pinang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 14 mukim (traditional sub-district units) in Timor Laut District, Pulau Pinang, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "070401",
+      "name": "Mukim 13",
+      "name_uppercase": "MUKIM 13",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 725,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    },
+    {
+      "id": "070402",
+      "name": "Mukim 14",
+      "name_uppercase": "MUKIM 14",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 726,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    },
+    {
+      "id": "070404",
+      "name": "Mukim 16",
+      "name_uppercase": "MUKIM 16",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 727,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    },
+    {
+      "id": "070405",
+      "name": "Mukim 17",
+      "name_uppercase": "MUKIM 17",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 728,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    },
+    {
+      "id": "070406",
+      "name": "Mukim 18",
+      "name_uppercase": "MUKIM 18",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 729,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    },
+    {
+      "id": "070440",
+      "name": "Bandar Ayer Itam",
+      "name_uppercase": "BANDAR AYER ITAM",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 730,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    },
+    {
+      "id": "070441",
+      "name": "Bandar Batu Ferringgi",
+      "name_uppercase": "BANDAR BATU FERRINGGI",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 731,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    },
+    {
+      "id": "070442",
+      "name": "Bandar Bukit Bendera",
+      "name_uppercase": "BANDAR BUKIT BENDERA",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 732,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    },
+    {
+      "id": "070443",
+      "name": "Bandar Glugor",
+      "name_uppercase": "BANDAR GLUGOR",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 733,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    },
+    {
+      "id": "070444",
+      "name": "Bandar George Town",
+      "name_uppercase": "BANDAR GEORGE TOWN",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 734,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    },
+    {
+      "id": "070445",
+      "name": "Bandar Jelutong",
+      "name_uppercase": "BANDAR JELUTONG",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 735,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    },
+    {
+      "id": "070446",
+      "name": "Bandar Tanjong Bungah",
+      "name_uppercase": "BANDAR TANJONG BUNGAH",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 736,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    },
+    {
+      "id": "070447",
+      "name": "Bandar Tanjong Tokong",
+      "name_uppercase": "BANDAR TANJONG TOKONG",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 737,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    },
+    {
+      "id": "070448",
+      "name": "Bandar Tanjong Pinang",
+      "name_uppercase": "BANDAR TANJONG PINANG",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang",
+      "parent_index": 738,
+      "state_slug": "pulau-pinang",
+      "district_slug": "timor-laut"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Timor Laut, Pulau Pinang - Muat turun percuma",
+    "description": "Senarai lengkap 14 mukim di daerah Timor Laut, negeri Pulau Pinang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 14 mukim (traditional sub-district units) in Timor Laut District, Pulau Pinang, Malaysia. Mengandungi 14 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Timor Laut, Pulau Pinang | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Timor Laut, Pulau Pinang — 14 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 14 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

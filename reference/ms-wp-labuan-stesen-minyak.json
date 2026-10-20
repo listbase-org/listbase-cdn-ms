@@ -1,0 +1,211 @@
+{
+  "id": "ms-wp-labuan-stesen-minyak",
+  "name": "Stesen Minyak di Wilayah Persekutuan Labuan",
+  "title": "Stesen Minyak di Wilayah Persekutuan Labuan",
+  "description": "Senarai stesen minyak (stesen petrol) di Wilayah Persekutuan Labuan, Malaysia dengan jenama, alamat, koordinat, jenis perkhidmatan dan waktu operasi.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "brand",
+      "label": "Brand",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lng",
+      "label": "Lng",
+      "type": "number"
+    },
+    {
+      "key": "place_id",
+      "label": "Place Id",
+      "type": "string"
+    },
+    {
+      "key": "service_types",
+      "label": "Service Types",
+      "type": "string"
+    },
+    {
+      "key": "opening_hours",
+      "label": "Opening Hours",
+      "type": "string"
+    },
+    {
+      "key": "rating",
+      "label": "Rating",
+      "type": "number"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "services",
+      "label": "Services",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 2959,
+      "name": "PETRONAS Jalan Saguking",
+      "brand": "petronas",
+      "address": "Lot LA 207527044(U1680), Jalan Saguking, Bandar Labuan, 87008 Victoria, Wilayah Persekutuan, Malaysia",
+      "negeri": "Wilayah Persekutuan Labuan",
+      "lat": 5.2823161,
+      "lng": 115.2454588,
+      "place_id": "ChIJtcHO0foYIzIRoiGrDSQ1R4w",
+      "service_types": "Convenience Store, Loyalty Program, ATM, Car Wash, EV Charging, Toilet, Air Compressor, Water Dispenser",
+      "opening_hours": "",
+      "rating": 4,
+      "operator": "",
+      "services": "Convenience Store, Loyalty Program, ATM, Car Wash, EV Charging, Toilet, Air Compressor, Water Dispenser"
+    },
+    {
+      "id": 2960,
+      "name": "PETRONAS - Jalan Tun Mustapha, Labuan",
+      "brand": "petronas",
+      "address": "Victoria, 87000, Stesen Petronas, Jalan Tun Mustapha, 87000 Labuan, Wilayah Persekutuan Labuan, Malaysia",
+      "negeri": "Wilayah Persekutuan Labuan",
+      "lat": 5.305808799999999,
+      "lng": 115.2377724,
+      "place_id": "ChIJtcHO0foYIzIRHVKkjeJtQf0",
+      "service_types": "便利店, Convenience Store, Loyalty Program, ATM, Toilet, WiFi",
+      "opening_hours": "Monday: 6:00 AM – 10:00 PM, Tuesday: 6:00 AM – 10:00 PM, Wednesday: 6:00 AM – 10:00 PM, Thursday: 6:00 AM – 10:00 PM, Friday: 6:00 AM – 10:00 PM, Saturday: 6:00 AM – 10:00 PM, Sunday: 6:00 AM – 10:00 PM",
+      "rating": 4,
+      "operator": "",
+      "services": "Convenience Store, Loyalty Program, ATM, Toilet, WiFi"
+    },
+    {
+      "id": 2961,
+      "name": "Shell",
+      "brand": "shell",
+      "address": "Jalan Tun Mustapha, Kampung Jawa, 87000 Victoria, Wilayah Persekutuan Labuan, Malaysia",
+      "negeri": "Wilayah Persekutuan Labuan",
+      "lat": 5.2925208999999995,
+      "lng": 115.24580619999999,
+      "place_id": "ChIJydLXx_oYIzIRWDuPyxwx_M0",
+      "service_types": "便利店, Convenience Store, Car Wash, ATM, Loyalty Program, Toilet, Water Dispenser",
+      "opening_hours": "Monday: Open 24 hours, Tuesday: Open 24 hours, Wednesday: Open 24 hours, Thursday: Open 24 hours, Friday: Open 24 hours, Saturday: Open 24 hours, Sunday: Open 24 hours",
+      "rating": 4,
+      "operator": "",
+      "services": "Convenience Store, Car Wash, ATM, Loyalty Program, Toilet, Water Dispenser"
+    },
+    {
+      "id": 2962,
+      "name": "PETRONAS - Jalan Pohon Batu",
+      "brand": "petronas",
+      "address": "Km 6.5, Lot CG 205005894, Jalan Pohon Batu, Bandar Labuan, 87000 Labuan, Wilayah Persekutuan, Malaysia",
+      "negeri": "Wilayah Persekutuan Labuan",
+      "lat": 5.3305720999999995,
+      "lng": 115.2324884,
+      "place_id": "ChIJtcHO0foYIzIRLdDAFbMfAnU",
+      "service_types": "Convenience Store, Loyalty Program, ATM, Car Wash, EV Charging, Toilet, Water Dispenser",
+      "opening_hours": "Monday: 6:00 AM – 10:00 PM, Tuesday: 6:00 AM – 10:00 PM, Wednesday: 6:00 AM – 10:00 PM, Thursday: 6:00 AM – 10:00 PM, Friday: 6:00 AM – 10:00 PM, Saturday: 6:00 AM – 10:00 PM, Sunday: 6:00 AM – 10:00 PM",
+      "rating": 4,
+      "operator": "",
+      "services": "Convenience Store, Loyalty Program, ATM, Car Wash, EV Charging, Toilet, Water Dispenser"
+    },
+    {
+      "id": 2963,
+      "name": "Petron Market Street",
+      "brand": "petron",
+      "address": "87, Jalan Perpaduan, WP, 87023 Victoria, Wilayah Persekutuan Labuan, Malaysia",
+      "negeri": "Wilayah Persekutuan Labuan",
+      "lat": 5.278567,
+      "lng": 115.24080250000002,
+      "place_id": "ChIJ8668kt4YIzIRPpMCbZ5eUzc",
+      "service_types": "Convenience Store, Car Wash Premium, Loyalty Program",
+      "opening_hours": "Monday: 6:00 AM – 10:00 PM, Tuesday: 6:00 AM – 10:00 PM, Wednesday: 6:00 AM – 10:00 PM, Thursday: 6:00 AM – 10:00 PM, Friday: 6:00 AM – 10:00 PM, Saturday: 6:00 AM – 10:00 PM, Sunday: 6:00 AM – 10:00 PM",
+      "rating": 4,
+      "operator": "",
+      "services": "Convenience Store, Car Wash Premium, Loyalty Program"
+    },
+    {
+      "id": 2964,
+      "name": "Shell",
+      "brand": "shell",
+      "address": "Jalan Tanjung Purun, Bandar Labuan, 87000 Victoria, Wilayah Persekutuan Labuan, Malaysia",
+      "negeri": "Wilayah Persekutuan Labuan",
+      "lat": 5.2765796,
+      "lng": 115.2520298,
+      "place_id": "ChIJFZ_qhcMYIzIRk-OtAAylpJs",
+      "service_types": "便利店, Convenience Store, Car Wash, ATM, EV Charging, Coffee Shop, Loyalty Program, Toilet, Water Dispenser",
+      "opening_hours": "Monday: 6:00 AM – 10:00 PM, Tuesday: 6:00 AM – 10:00 PM, Wednesday: 6:00 AM – 10:00 PM, Thursday: 6:00 AM – 10:00 PM, Friday: 6:00 AM – 10:00 PM, Saturday: 6:00 AM – 10:00 PM, Sunday: 6:00 AM – 10:00 PM",
+      "rating": 4,
+      "operator": "",
+      "services": "Convenience Store, Car Wash, ATM, EV Charging, Coffee Shop, Loyalty Program, Toilet, Water Dispenser"
+    },
+    {
+      "id": 2965,
+      "name": "Plant 2",
+      "brand": "",
+      "address": "Bandar Labuan, 87000 Victoria, Labuan Federal Territory, Malaysia",
+      "negeri": "Wilayah Persekutuan Labuan",
+      "lat": 5.2770169000000005,
+      "lng": 115.24357690000001,
+      "place_id": "ChIJrR0aVgkZIzIRxKyYgTVwxhA",
+      "service_types": "Convenience Store, Car Wash, ATM, Toilet, Air Compressor",
+      "opening_hours": "",
+      "rating": 4,
+      "operator": "",
+      "services": "Convenience Store, Car Wash, ATM, Toilet, Air Compressor"
+    },
+    {
+      "id": 2966,
+      "name": "SKg batu arang u3079",
+      "brand": "",
+      "address": "Batu arang 1, Kampung Jawa, 87000 Labuan, Wilayah Persekutuan Labuan, Malaysia",
+      "negeri": "Wilayah Persekutuan Labuan",
+      "lat": 5.293283799999999,
+      "lng": 115.24520570000001,
+      "place_id": "ChIJW0Amq7MZIzIRvb9bLaZfr20",
+      "service_types": "Convenience Store, Car Wash, ATM",
+      "opening_hours": "",
+      "rating": 4,
+      "operator": "",
+      "services": "Convenience Store, Car Wash, ATM"
+    }
+  ],
+  "meta": {
+    "title": "Stesen Minyak di Wilayah Persekutuan Labuan - Muat turun percuma",
+    "description": "Senarai stesen minyak (stesen petrol) di Wilayah Persekutuan Labuan, Malaysia dengan jenama, alamat, koordinat, jenis perkhidmatan dan waktu operasi. Mengandungi 8 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen Minyak di Wilayah Persekutuan Labuan | ListBase",
+    "seo_description": "Muat turun Stesen Minyak di Wilayah Persekutuan Labuan — 8 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 8 rekod / 13 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

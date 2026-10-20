@@ -1,0 +1,324 @@
+{
+  "id": "ms-kementerian-belia-dan-sukan-agensi",
+  "name": "Senarai Agensi Kementerian Belia dan Sukan",
+  "title": "Senarai Agensi Kementerian Belia dan Sukan",
+  "description": "Senarai 9 agensi kerajaan di bawah Kementerian Belia dan Sukan (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 9/9 koordinat, 9/9 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Institut Kemahiran Belia Negara (IKBN) Alor Gajah",
+      "parent_body": "Kementerian Belia dan Sukan",
+      "parent_body_slug": "kementerian-belia-dan-sukan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Institut Kemahiran Belia Negara (IKBN) Alor Gajah",
+      "address": "Km 34 Jalan Ramuan China Besar 78300 Masjid Tanah Melaka",
+      "phone": "606-3851 255_",
+      "fax": "60-6385 1250",
+      "email": "iktbn_agajah@kbs.gov.my",
+      "contact_person": "PRO",
+      "website": "http://kemahiran.kbs.gov.my/index.php/ms/iktbn-alorgajah-laman-utama",
+      "latitude": "2.383760",
+      "longitude": "101.971820",
+      "facebook": "https://www.facebook.com/ikbnag",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "A17",
+      "active": true,
+      "agency_id": 17
+    },
+    {
+      "name": "Institut Penyelidikan Pembangunan Belia Malaysia (IYRES)",
+      "parent_body": "Kementerian Belia dan Sukan",
+      "parent_body_slug": "kementerian-belia-dan-sukan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "IYRES merupakan sebuah pusat penyelidikan nasional yang mengkaji pelbagai aspek aliran dan pembangunan generasi muda dan kaitannya dengan perubahan yang berlaku di peringkat nasional, serantau dan antarabangsa. Untuk mencapai matlamatnya, Institut ini akan melaksanakan pelbagai penyelidikan; menganjurkan persidangan, bengkel, syarahan dan seminar; menerbitkan jurnal, risalah mengenai hasil penyelidikan; mewujud dan melaksanakan program latihan berkaitan penyelidikan; dan menyediakan kemudahan penyelidikan yang pelbagai termasuklah sebuah pusat sumber dan data mengenai pembangunan belia.",
+      "address": "Institut Penyelidikan Pembangunan Belia Malaysia (IYRES), Aras 10, Menara KBS, No. 27, Persiaran Perdana, Presint 4, 62570 PUTRAJAYA.",
+      "phone": "603-8871 3232",
+      "fax": "03-8871 3342",
+      "email": "info@iyres.gov.my",
+      "contact_person": "Unit Perhubungan Awam",
+      "website": "https://www.ippbm.gov.my/index.php/ms/",
+      "latitude": "2.9139696",
+      "longitude": "101.6825928",
+      "facebook": "https://web.facebook.com/IYRESMALAYSIA",
+      "twitter": "https://twitter.com/iyreskbs",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCM9ATMGpFvOkx1FdzW-_U3A",
+      "unique_code": "BBP-18-03-00",
+      "active": true,
+      "agency_id": 20280
+    },
+    {
+      "name": "Institut Sukan Negara(ISN)",
+      "parent_body": "Kementerian Belia dan Sukan",
+      "parent_body_slug": "kementerian-belia-dan-sukan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Institut Sukan Negara (ISN) adalah agensi di bawah Kementerian Belia dan Sukan yang merupakan peneraju kepada pembangunan kemajuan dan kecemerlangan sains, perubatan dan teknologi sukan negara. Kecemerlangan dan kejayaan dalam peningkatan prestasi atlet dan sukan negara menjadi fokus utama ISN kerana kejayaan melahirkan atlet bertaraf dunia adalah melalui penerapan elemen sains sukan dan perubatan sukan yang bermula dari peringkat akar umbi sehinggalah menjadi seorang atlet bertaraf dunia.",
+      "address": "Institut Sukan Negara, Kompleks Sukan Negara, Bukit Jalil, 57000 Kuala Lumpur.",
+      "phone": "603-8991 4400",
+      "fax": "03-8996 8748",
+      "email": "contact@isn.gov.my",
+      "contact_person": "Unit Komunikasi Korporat",
+      "website": "http://new.isn.gov.my/",
+      "latitude": "3.0526",
+      "longitude": "101.692239999999",
+      "facebook": "https://www.facebook.com/isnmalaysia",
+      "twitter": "https://twitter.com/isnmalaysia",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "BBP-18-04-00",
+      "active": true,
+      "agency_id": 20290
+    },
+    {
+      "name": "Jabatan Belia dan Sukan Negara",
+      "parent_body": "Kementerian Belia dan Sukan",
+      "parent_body_slug": "kementerian-belia-dan-sukan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Belia Berdaya Maju, Bersatu-padu, Mengamalkan Nilai-nilai Murni dan Masyarakat Berbudaya Sukan Menjelang 2020",
+      "address": "Pejabat Ketua Pengarah, Jabatan Belia dan Sukan Negara Aras 14, Menara KBS, Kementerian Belia dan Sukan No 27 Persiaran Perdana, Presint 4 62570 Putrajaya",
+      "phone": "603-8871 3000",
+      "fax": "03-8888 8723",
+      "email": "jbsn@kbs.gov.my",
+      "contact_person": "Jabatan Belia dan Sukan Negara",
+      "website": "http://www.jbsn.gov.my/",
+      "latitude": "2.914700",
+      "longitude": "101.684745",
+      "facebook": "https://www.facebook.com/JBSNEGARA/",
+      "twitter": "https://twitter.com/jbsn_kbs",
+      "instagram": "https://www.instagram.com/jbsn_kbs/",
+      "youtube": "",
+      "unique_code": "PAP-18-02-00",
+      "active": true,
+      "agency_id": 20312
+    },
+    {
+      "name": "KEMENTERIAN BELIA DAN SUKAN",
+      "parent_body": "Kementerian Belia dan Sukan",
+      "parent_body_slug": "kementerian-belia-dan-sukan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "KEMENTERIAN BELIA DAN SUKAN",
+      "address": "Menara KBS, No 27 Persiaran Perdana, Presint 4, Pusat Pentadbiran Kerajaan Persekutuan, 62570 Putrajaya",
+      "phone": "603-8000 8000",
+      "fax": "603-8888 8770",
+      "email": "webmaster@kbs.gov.my",
+      "contact_person": "webmaster",
+      "website": "http://www.kbs.gov.my/",
+      "latitude": "2.913982",
+      "longitude": "101.684788",
+      "facebook": "https://web.facebook.com/myKBSMalaysia/",
+      "twitter": "https://twitter.com/KBSMalaysia",
+      "instagram": "https://www.instagram.com/explore/locations/267207602/menara-kbs-kementerian-belia-dan-sukan-presint-4-putrajaya/",
+      "youtube": "https://www.youtube.com/user/UKKKBSMalaysia",
+      "unique_code": "PAP-18-01-00",
+      "active": true,
+      "agency_id": 42080
+    },
+    {
+      "name": "Majlis Sukan Negara(MSN)",
+      "parent_body": "Kementerian Belia dan Sukan",
+      "parent_body_slug": "kementerian-belia-dan-sukan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Majlis Sukan Negara ditubuhkan di bawah Akta Majlis Sukan Negara Malaysia 1971 dan Akta Majlis Sukan Negara (pindaan 1979). Pelancarannya secara rasmi telah dilakukan oleh Y.A.B. Tun Abdul Razak b. Datuk Hussein, Perdana Menteri Malaysia yang kedua pada 21 Februari 1972. Pada peringkat awal penubuhannya, program-program sukan prestasi tinggi dilaksanakan di bawah kendalian Bahagian Sukan, Kementerian Kebudayaan Belia dan Sukan(nama Kementerian Belia Dan Sukan ketika itu). Untuk mencapai matlamat penubuhan Majlis, satu usaha kolektif melibatkan secara langsung semua agensi kerajaan dan bukan kerajaan, pertubuhan-pertubuhan sukan tanahair, majlis-majlis sukan negeri, institusi pengajian tinggi, badan-badan sukarela serta orang perseorangan telah diusahakan supaya mutu sukan negara dapat mencapai prestasi yang terbaik. Selepas organisasi Majlis disusun semula pada tahun 1981, Majlis mula mengorak langkah dan seterusnya mengembangkan program dan aktiviti sehinggalah apa yang dapat dilihat masa kini. Matlamat penubuhan Majlis Sukan Negara Malaysia adalah selaras dengan Dasar Sukan Negara iaitu bertanggungjawab sepenuhnya ke arah penggalakkan, pembangunan dan pencapaian cemerlang dalam sukan-sukan di peringkat tertinggi.",
+      "address": "Kompleks Sukan Negara, Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur",
+      "phone": "603-8992 9600",
+      "fax": "03-8996 7400",
+      "email": "webinfo@nsc.gov.my",
+      "contact_person": "Cawangan Komunikasi Korporat",
+      "website": "https://www.nsc.gov.my/",
+      "latitude": "3.0527016",
+      "longitude": "101.6923285",
+      "facebook": "https://www.facebook.com/majlissukannegaramalaysia",
+      "twitter": "https://twitter.com/MSNMALAYSIA",
+      "instagram": "https://www.instagram.com/msn_malaysia_official/",
+      "youtube": "https://www.youtube.com/channel/UCfdG9umHM1PSWiMvsDeQciw/videos",
+      "unique_code": "BBP-18-01-00",
+      "active": true,
+      "agency_id": 20268
+    },
+    {
+      "name": "Pejabat Pendaftar Pertubuhan Belia",
+      "parent_body": "Kementerian Belia dan Sukan",
+      "parent_body_slug": "kementerian-belia-dan-sukan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "PPenubuhan Pejabat Pendaftar Pertubuhan Belia berkait rapat dengan kewujudan Akta Pertubuhan Belia dan Pembangunan Belia 2007 dan fungsinya untuk mentadbir Akta Pertubuhan Belia dan Pembangunan Belia 2007. Draf Akta Pertubuhan Belia dan Pembangunan Belia 2007 telah dibaca buat kali pertama di Parlimen pada 12 Disember 2006 dan kali kedua pada 8 Mei 2007. Seterusnya diluluskan di Dewan Negara pada 23 Mei 2007. Akta ini telah diwartakan pada 26 Julai 2007 dan mula berkuatkuasa pada 31 Disember 2007. Pejabat Pendaftar Pertubuhan Belia telah memulakan operasi sebagai sekretariat akta pada 1 Januari 2007 dengan pewujudan \"Core Team\" yang diketuai oleh seorang Pemangku Pendaftar.",
+      "address": "Pejabat Pendaftar Pertubuhan Belia Aras 4, Blok C7, Kompleks C Pusat Pentadbiran Kerajaan Persekutuan 62520 PUTRAJAYA 62675 Putrajaya",
+      "phone": "603-8881 0842",
+      "fax": "03-8881 0058",
+      "email": "pppb@kbs.gov.my",
+      "contact_person": "pppb",
+      "website": "http://roy.kbs.gov.my/en/",
+      "latitude": "2.914727",
+      "longitude": "101.683093",
+      "facebook": "http://www.facebook.com/ROYKBSMalaysia",
+      "twitter": "http://www.twitter.com/ROY_KBS",
+      "instagram": "",
+      "youtube": "http://www.youtube.com/user/UKKKBSMalaysia",
+      "unique_code": "PAP-18-03-00",
+      "active": true,
+      "agency_id": 20314
+    },
+    {
+      "name": "Pejabat Pesuruhjaya Sukan",
+      "parent_body": "Kementerian Belia dan Sukan",
+      "parent_body_slug": "kementerian-belia-dan-sukan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Merealisasikan pembangunan pentadbiran sukan yang berkualiti",
+      "address": "Pejabat Pesuruhjaya Sukan Malaysia, Aras 2, Gimnasium 3, Kuala Lumpur Sport City, 57000 Seri Petaling, Kuala Lumpur",
+      "phone": "603-8994 4800",
+      "fax": "03-8994 4810",
+      "email": "pps@kbs.gov.my",
+      "contact_person": "Shamsul Riza bin Sahar",
+      "website": "http://pps.kbs.gov.my/en/",
+      "latitude": "3.0557163",
+      "longitude": "101.6911629",
+      "facebook": "http://www.facebook.com/joomlashine",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "http://www.youtube.com/joomlashine",
+      "unique_code": "PAP-18-04-00",
+      "active": true,
+      "agency_id": 20316
+    },
+    {
+      "name": "PERBADANAN STADIUM MALAYSIA",
+      "parent_body": "Kementerian Belia dan Sukan",
+      "parent_body_slug": "kementerian-belia-dan-sukan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Menjadikan arena-arena di bawah pengurusan PSM sebagai pilihan utama penganjuran acara sukan dan bukan sukan di rantau ini.",
+      "address": "Perbadanan Stadium Malaysia, L2-E-10 Aras 2, Enterprise 4, Technology Park Malaysia, Lebuhraya Puchong-Sg.Besi, Bukit Jalil, 57000 Kuala Lumpur",
+      "phone": "603-8992 0888",
+      "fax": "03-8994 4663",
+      "email": "admin@stadium.gov.my",
+      "contact_person": "Unit Komunikasi Korporat",
+      "website": "http://www.stadium.gov.my",
+      "latitude": "3.0468871",
+      "longitude": "101.6851536",
+      "facebook": "https://www.facebook.com/stadium.malaysia/",
+      "twitter": "https://twitter.com/StadiumMalaysia",
+      "instagram": "https://www.instagram.com/stadiummalaysia_official/",
+      "youtube": "",
+      "unique_code": "BBP-18-02-00",
+      "active": true,
+      "agency_id": 20274
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi Kementerian Belia dan Sukan - Muat turun percuma",
+    "description": "Senarai 9 agensi kerajaan di bawah Kementerian Belia dan Sukan (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 9/9 koordinat, 9/9 laman web. Mengandungi 9 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi Kementerian Belia dan Sukan | ListBase",
+    "seo_description": "Muat turun Senarai Agensi Kementerian Belia dan Sukan — 9 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 9 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

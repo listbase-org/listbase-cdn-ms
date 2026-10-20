@@ -1,0 +1,2014 @@
+{
+  "id": "ms-selangor-mukim",
+  "name": "Mukim di Selangor",
+  "title": "Mukim di Selangor",
+  "description": "Senarai lengkap 217 mukim di negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 217 mukim (traditional sub-district units) in Selangor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 217,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "100101",
+      "name": "Kapar",
+      "name_uppercase": "KAPAR",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100102",
+      "name": "Klang",
+      "name_uppercase": "KLANG",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100140",
+      "name": "Bandar Klang",
+      "name_uppercase": "BANDAR KLANG",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100141",
+      "name": "Bandar Port Swettenham",
+      "name_uppercase": "BANDAR PORT SWETTENHAM",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100142",
+      "name": "Bandar Sultan Sulaiman",
+      "name_uppercase": "BANDAR SULTAN SULAIMAN",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100143",
+      "name": "Bandar Shah Alam",
+      "name_uppercase": "BANDAR SHAH ALAM",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100170",
+      "name": "Pekan Bukit Kemuning",
+      "name_uppercase": "PEKAN BUKIT KEMUNING",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100171",
+      "name": "Pekan Kapar",
+      "name_uppercase": "PEKAN KAPAR",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100172",
+      "name": "Pekan Meru",
+      "name_uppercase": "PEKAN MERU",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100173",
+      "name": "Pekan Telok Menegun",
+      "name_uppercase": "PEKAN TELOK MENEGUN",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100174",
+      "name": "Pekan Batu Empat",
+      "name_uppercase": "PEKAN BATU EMPAT",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100175",
+      "name": "Pekan Pandamaran",
+      "name_uppercase": "PEKAN PANDAMARAN",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100201",
+      "name": "Bandar",
+      "name_uppercase": "BANDAR",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100202",
+      "name": "Batu",
+      "name_uppercase": "BATU",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100203",
+      "name": "Jugra",
+      "name_uppercase": "JUGRA",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100204",
+      "name": "Kelanang",
+      "name_uppercase": "KELANANG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100205",
+      "name": "Morib",
+      "name_uppercase": "MORIB",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100206",
+      "name": "Tanjong Duabelas",
+      "name_uppercase": "TANJONG DUABELAS",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100207",
+      "name": "Telok Panglima Garang",
+      "name_uppercase": "TELOK PANGLIMA GARANG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100240",
+      "name": "Bandar Banting",
+      "name_uppercase": "BANDAR BANTING",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100241",
+      "name": "Bandar Jenjarom",
+      "name_uppercase": "BANDAR JENJAROM",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100242",
+      "name": "Bandar Sijangkang",
+      "name_uppercase": "BANDAR SIJANGKANG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100243",
+      "name": "Bandar Tanjong Sepat",
+      "name_uppercase": "BANDAR TANJONG SEPAT",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100244",
+      "name": "Bandar Telok Panglima Garang",
+      "name_uppercase": "BANDAR TELOK PANGLIMA GARANG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100270",
+      "name": "Pekan Batu",
+      "name_uppercase": "PEKAN BATU",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100271",
+      "name": "Pekan Bukit Changgang",
+      "name_uppercase": "PEKAN BUKIT CHANGGANG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100272",
+      "name": "Pekan Chodoi",
+      "name_uppercase": "PEKAN CHODOI",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100273",
+      "name": "Pekan Jenjarom",
+      "name_uppercase": "PEKAN JENJAROM",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100274",
+      "name": "Pekan Kanchong",
+      "name_uppercase": "PEKAN KANCHONG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100275",
+      "name": "Pekan Kanchong Darat",
+      "name_uppercase": "PEKAN KANCHONG DARAT",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100276",
+      "name": "Pekan Kelanang Batu Enam",
+      "name_uppercase": "PEKAN KELANANG BATU ENAM",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100277",
+      "name": "Pekan Morib",
+      "name_uppercase": "PEKAN MORIB",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100278",
+      "name": "Pekan Sijangkang",
+      "name_uppercase": "PEKAN SIJANGKANG",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100279",
+      "name": "Pekan Permatang Pasir",
+      "name_uppercase": "PEKAN PERMATANG PASIR",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100280",
+      "name": "Pekan Simpang Morib",
+      "name_uppercase": "PEKAN SIMPANG MORIB",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100281",
+      "name": "Pekan Sungai Manggis",
+      "name_uppercase": "PEKAN SUNGAI MANGGIS",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100282",
+      "name": "Pekan Sungai Raba",
+      "name_uppercase": "PEKAN SUNGAI RABA",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100283",
+      "name": "Pekan Tanjong Duabelas",
+      "name_uppercase": "PEKAN TANJONG DUABELAS",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100284",
+      "name": "Pekan Telok Datok",
+      "name_uppercase": "PEKAN TELOK DATOK",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100286",
+      "name": "Pekan Tongkah",
+      "name_uppercase": "PEKAN TONGKAH",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100287",
+      "name": "Pekan Telok",
+      "name_uppercase": "PEKAN TELOK",
+      "district_id": "1002",
+      "district": "Kuala Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100401",
+      "name": "Api-Api",
+      "name_uppercase": "API-API",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100405",
+      "name": "Ijok",
+      "name_uppercase": "IJOK",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100406",
+      "name": "Jeram",
+      "name_uppercase": "JERAM",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100407",
+      "name": "Kuala Selangor",
+      "name_uppercase": "KUALA SELANGOR",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100408",
+      "name": "Pasangan",
+      "name_uppercase": "PASANGAN",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100409",
+      "name": "Tanjong Karang",
+      "name_uppercase": "TANJONG KARANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100410",
+      "name": "Bestari Jaya",
+      "name_uppercase": "BESTARI JAYA",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100440",
+      "name": "Bandar Kuala Selangor",
+      "name_uppercase": "BANDAR KUALA SELANGOR",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100441",
+      "name": "Bandar Tanjong Karang",
+      "name_uppercase": "BANDAR TANJONG KARANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100470",
+      "name": "Pekan Asam Jawa",
+      "name_uppercase": "PEKAN ASAM JAWA",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100472",
+      "name": "Pekan Bukit Rotan",
+      "name_uppercase": "PEKAN BUKIT ROTAN",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100473",
+      "name": "Pekan Jeram",
+      "name_uppercase": "PEKAN JERAM",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100474",
+      "name": "Pekan Kampong Kuantan",
+      "name_uppercase": "PEKAN KAMPONG KUANTAN",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100475",
+      "name": "Pekan Kuala Sungai Buloh",
+      "name_uppercase": "PEKAN KUALA SUNGAI BULOH",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100476",
+      "name": "Pekan Pasir Penampang",
+      "name_uppercase": "PEKAN PASIR PENAMPANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100477",
+      "name": "Pekan Simpang Tiga",
+      "name_uppercase": "PEKAN SIMPANG TIGA",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100478",
+      "name": "Pekan Tanjong Karang",
+      "name_uppercase": "PEKAN TANJONG KARANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100479",
+      "name": "Pekan Bukti Belimbing",
+      "name_uppercase": "PEKAN BUKTI BELIMBING",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100480",
+      "name": "Pekan Bukit Talang",
+      "name_uppercase": "PEKAN BUKIT TALANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100481",
+      "name": "Pekan Kambung Baru Hulu Tiram Buruk",
+      "name_uppercase": "PEKAN KAMBUNG BARU HULU TIRAM BURUK",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100482",
+      "name": "Pekan Parti Mahang",
+      "name_uppercase": "PEKAN PARTI MAHANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100483",
+      "name": "Pekan Simpang Tiga Ijok",
+      "name_uppercase": "PEKAN SIMPANG TIGA IJOK",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100484",
+      "name": "Pekan Sungai Sembilang",
+      "name_uppercase": "PEKAN SUNGAI SEMBILANG",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100485",
+      "name": "Pekan Taman Pkns",
+      "name_uppercase": "PEKAN TAMAN PKNS",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100488",
+      "name": "Pekan Tambak Jawa",
+      "name_uppercase": "PEKAN TAMBAK JAWA",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100491",
+      "name": "Pekan Bestari Jaya",
+      "name_uppercase": "PEKAN BESTARI JAYA",
+      "district_id": "1004",
+      "district": "Kuala Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100501",
+      "name": "Bagan Nakhoda Omar",
+      "name_uppercase": "BAGAN NAKHODA OMAR",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100502",
+      "name": "Pancang Bedena",
+      "name_uppercase": "PANCANG BEDENA",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100503",
+      "name": "Pasir Panjang",
+      "name_uppercase": "PASIR PANJANG",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100504",
+      "name": "Sabak",
+      "name_uppercase": "SABAK",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100505",
+      "name": "Sungai Panjang",
+      "name_uppercase": "SUNGAI PANJANG",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100570",
+      "name": "Pekan Bagan Terap",
+      "name_uppercase": "PEKAN BAGAN TERAP",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100571",
+      "name": "Pekan Parit Enam",
+      "name_uppercase": "PEKAN PARIT ENAM",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100572",
+      "name": "Pekan Parit Sembilan",
+      "name_uppercase": "PEKAN PARIT SEMBILAN",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100573",
+      "name": "Pekan Sekinchan",
+      "name_uppercase": "PEKAN SEKINCHAN",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100575",
+      "name": "Pekan Sabak",
+      "name_uppercase": "PEKAN SABAK",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100576",
+      "name": "Pekan Sungai Air Tawar",
+      "name_uppercase": "PEKAN SUNGAI AIR TAWAR",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100577",
+      "name": "Pekan Sungai Sepintas",
+      "name_uppercase": "PEKAN SUNGAI SEPINTAS",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100578",
+      "name": "Pekan Bagan Nakhoda Omar",
+      "name_uppercase": "PEKAN BAGAN NAKHODA OMAR",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100579",
+      "name": "Pekan Parit Baru",
+      "name_uppercase": "PEKAN PARIT BARU",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100580",
+      "name": "Pekan Pasir Panjang",
+      "name_uppercase": "PEKAN PASIR PANJANG",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100581",
+      "name": "Pekan Sekinchan Site A",
+      "name_uppercase": "PEKAN SEKINCHAN SITE A",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100582",
+      "name": "Pekan Sungai Besar",
+      "name_uppercase": "PEKAN SUNGAI BESAR",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100583",
+      "name": "Pekan Sungai Haji Dorani",
+      "name_uppercase": "PEKAN SUNGAI HAJI DORANI",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100584",
+      "name": "Pekan Sungai Nibong",
+      "name_uppercase": "PEKAN SUNGAI NIBONG",
+      "district_id": "1005",
+      "district": "Sabak Bernam",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100601",
+      "name": "Beranang",
+      "name_uppercase": "BERANANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100602",
+      "name": "Cheras",
+      "name_uppercase": "CHERAS",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100603",
+      "name": "Ampang",
+      "name_uppercase": "AMPANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100604",
+      "name": "Hulu Langat",
+      "name_uppercase": "HULU LANGAT",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100605",
+      "name": "Hulu Semenyih",
+      "name_uppercase": "HULU SEMENYIH",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100606",
+      "name": "Kajang",
+      "name_uppercase": "KAJANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100607",
+      "name": "Semenyih",
+      "name_uppercase": "SEMENYIH",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100640",
+      "name": "Bandar Cheras",
+      "name_uppercase": "BANDAR CHERAS",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100641",
+      "name": "Bandar Ulu Langat",
+      "name_uppercase": "BANDAR ULU LANGAT",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100642",
+      "name": "Bandar Kajang",
+      "name_uppercase": "BANDAR KAJANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100643",
+      "name": "Bandar Semenyih",
+      "name_uppercase": "BANDAR SEMENYIH",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100644",
+      "name": "Bandar Ampang",
+      "name_uppercase": "BANDAR AMPANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100645",
+      "name": "Bandar Balakong",
+      "name_uppercase": "BANDAR BALAKONG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100646",
+      "name": "Bandar Batu 9, Cheras",
+      "name_uppercase": "BANDAR BATU 9, CHERAS",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100648",
+      "name": "Bandar Batu 18, Semenyih",
+      "name_uppercase": "BANDAR BATU 18, SEMENYIH",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100649",
+      "name": "Bandar Batu 26, Beranang",
+      "name_uppercase": "BANDAR BATU 26, BERANANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100671",
+      "name": "Pekan Beranang",
+      "name_uppercase": "PEKAN BERANANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100673",
+      "name": "Pekan Kacau",
+      "name_uppercase": "PEKAN KACAU",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100675",
+      "name": "Pekan Tarun",
+      "name_uppercase": "PEKAN TARUN",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100676",
+      "name": "Pekan Bangi Lama",
+      "name_uppercase": "PEKAN BANGI LAMA",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100678",
+      "name": "Pekan Batu 23, Sungai Lalang",
+      "name_uppercase": "PEKAN BATU 23, SUNGAI LALANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100679",
+      "name": "Pekan Batu 26, Beranang",
+      "name_uppercase": "PEKAN BATU 26, BERANANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100680",
+      "name": "Pekan Bukit Sungai Raya",
+      "name_uppercase": "PEKAN BUKIT SUNGAI RAYA",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100681",
+      "name": "Pekan Cheras",
+      "name_uppercase": "PEKAN CHERAS",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100682",
+      "name": "Pekan Desa Raya",
+      "name_uppercase": "PEKAN DESA RAYA",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100683",
+      "name": "Pekan Dusun Tua Ulu Langat",
+      "name_uppercase": "PEKAN DUSUN TUA ULU LANGAT",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100684",
+      "name": "Pekan Kajang",
+      "name_uppercase": "PEKAN KAJANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100685",
+      "name": "Pekan Kampong Pasir, Batu 14, Semenyih",
+      "name_uppercase": "PEKAN KAMPONG PASIR, BATU 14, SEMENYIH",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100686",
+      "name": "Pekan Kampong Sungai Tangkas",
+      "name_uppercase": "PEKAN KAMPONG SUNGAI TANGKAS",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100687",
+      "name": "Pekan Rumah Murah Sungai Lui",
+      "name_uppercase": "PEKAN RUMAH MURAH SUNGAI LUI",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100688",
+      "name": "Pekan Semenyih",
+      "name_uppercase": "PEKAN SEMENYIH",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100689",
+      "name": "Pekan Simpang Balak",
+      "name_uppercase": "PEKAN SIMPANG BALAK",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100690",
+      "name": "Pekan Sri Nanding",
+      "name_uppercase": "PEKAN SRI NANDING",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100691",
+      "name": "Pekan Sungai Kembong Beranang",
+      "name_uppercase": "PEKAN SUNGAI KEMBONG BERANANG",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100692",
+      "name": "Pekan Sungai Lui",
+      "name_uppercase": "PEKAN SUNGAI LUI",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100693",
+      "name": "Pekan Sungai Makau",
+      "name_uppercase": "PEKAN SUNGAI MAKAU",
+      "district_id": "1006",
+      "district": "Ulu Langat",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100701",
+      "name": "Batang Kali",
+      "name_uppercase": "BATANG KALI",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100702",
+      "name": "Buluh Telor",
+      "name_uppercase": "BULUH TELOR",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100703",
+      "name": "Ampang Pechah",
+      "name_uppercase": "AMPANG PECHAH",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100704",
+      "name": "Ulu Bernam",
+      "name_uppercase": "ULU BERNAM",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100705",
+      "name": "Ulu Yam",
+      "name_uppercase": "ULU YAM",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100706",
+      "name": "Kalumpang",
+      "name_uppercase": "KALUMPANG",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100707",
+      "name": "Kerling",
+      "name_uppercase": "KERLING",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100708",
+      "name": "Kuala Kalumpang",
+      "name_uppercase": "KUALA KALUMPANG",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100709",
+      "name": "Peretak",
+      "name_uppercase": "PERETAK",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100710",
+      "name": "Rasa",
+      "name_uppercase": "RASA",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100711",
+      "name": "Serendah",
+      "name_uppercase": "SERENDAH",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100712",
+      "name": "Sungai Gumut",
+      "name_uppercase": "SUNGAI GUMUT",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100713",
+      "name": "Sungai Tinggi",
+      "name_uppercase": "SUNGAI TINGGI",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100740",
+      "name": "Bandar Ulu Yam",
+      "name_uppercase": "BANDAR ULU YAM",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100741",
+      "name": "Bandar Ulu Yam Baharu",
+      "name_uppercase": "BANDAR ULU YAM BAHARU",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100742",
+      "name": "Bandar Kalumpang",
+      "name_uppercase": "BANDAR KALUMPANG",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100743",
+      "name": "Bandar Kuala Kubu Baharu",
+      "name_uppercase": "BANDAR KUALA KUBU BAHARU",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100744",
+      "name": "Bandar Rasa",
+      "name_uppercase": "BANDAR RASA",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100745",
+      "name": "Bandar Serendah",
+      "name_uppercase": "BANDAR SERENDAH",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100746",
+      "name": "Bandar Batang Kali",
+      "name_uppercase": "BANDAR BATANG KALI",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100747",
+      "name": "Bandar Ulu Bernam I",
+      "name_uppercase": "BANDAR ULU BERNAM I",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100748",
+      "name": "Bandar Ulu Bernam Ii",
+      "name_uppercase": "BANDAR ULU BERNAM II",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100749",
+      "name": "Bandar Sungai Chik",
+      "name_uppercase": "BANDAR SUNGAI CHIK",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100770",
+      "name": "Pekan Kerling",
+      "name_uppercase": "PEKAN KERLING",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100771",
+      "name": "Pekan Peretak",
+      "name_uppercase": "PEKAN PERETAK",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100772",
+      "name": "Pekan Simpang Sungai Choh",
+      "name_uppercase": "PEKAN SIMPANG SUNGAI CHOH",
+      "district_id": "1007",
+      "district": "Ulu Selangor",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100801",
+      "name": "Damansara",
+      "name_uppercase": "DAMANSARA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100802",
+      "name": "Bukit Raja",
+      "name_uppercase": "BUKIT RAJA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100803",
+      "name": "Petaling",
+      "name_uppercase": "PETALING",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100804",
+      "name": "Sungai Buloh",
+      "name_uppercase": "SUNGAI BULOH",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100840",
+      "name": "Bandar Petaling Jaya",
+      "name_uppercase": "BANDAR PETALING JAYA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100841",
+      "name": "Bandar Shah Alam",
+      "name_uppercase": "BANDAR SHAH ALAM",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100842",
+      "name": "Bandar Damansara",
+      "name_uppercase": "BANDAR DAMANSARA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100843",
+      "name": "Bandar Glenmarie",
+      "name_uppercase": "BANDAR GLENMARIE",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100844",
+      "name": "Bandar Petaling Jaya Selatan",
+      "name_uppercase": "BANDAR PETALING JAYA SELATAN",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100845",
+      "name": "Bandar Saujana",
+      "name_uppercase": "BANDAR SAUJANA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100846",
+      "name": "Bandar Sri Damansara",
+      "name_uppercase": "BANDAR SRI DAMANSARA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100847",
+      "name": "Bandar Subang Jaya",
+      "name_uppercase": "BANDAR SUBANG JAYA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100848",
+      "name": "Bandar Sunway",
+      "name_uppercase": "BANDAR SUNWAY",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100870",
+      "name": "Pekan Batu Tiga",
+      "name_uppercase": "PEKAN BATU TIGA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100871",
+      "name": "Pekan Merbau Sempak",
+      "name_uppercase": "PEKAN MERBAU SEMPAK",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100872",
+      "name": "Pekan Puchong",
+      "name_uppercase": "PEKAN PUCHONG",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100874",
+      "name": "Pekan Serdang",
+      "name_uppercase": "PEKAN SERDANG",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100875",
+      "name": "Pekan Sungai Buloh",
+      "name_uppercase": "PEKAN SUNGAI BULOH",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100876",
+      "name": "Pekan Sungai Penchala",
+      "name_uppercase": "PEKAN SUNGAI PENCHALA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100877",
+      "name": "Pekan Cempaka",
+      "name_uppercase": "PEKAN CEMPAKA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100878",
+      "name": "Pekan Country Height",
+      "name_uppercase": "PEKAN COUNTRY HEIGHT",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100879",
+      "name": "Pekan Desa Puchong",
+      "name_uppercase": "PEKAN DESA PUCHONG",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100880",
+      "name": "Pekan Hicom",
+      "name_uppercase": "PEKAN HICOM",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100881",
+      "name": "Pekan Kayu Ara",
+      "name_uppercase": "PEKAN KAYU ARA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100882",
+      "name": "Pekan Kinrara",
+      "name_uppercase": "PEKAN KINRARA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100884",
+      "name": "Pekan Baru Hicom",
+      "name_uppercase": "PEKAN BARU HICOM",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100885",
+      "name": "Pekan Baru Subang",
+      "name_uppercase": "PEKAN BARU SUBANG",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100886",
+      "name": "Pekan Baru Sungai Besi",
+      "name_uppercase": "PEKAN BARU SUNGAI BESI",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100887",
+      "name": "Pekan Baru Sungai Buloh",
+      "name_uppercase": "PEKAN BARU SUNGAI BULOH",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100888",
+      "name": "Pekan Baru Penaga",
+      "name_uppercase": "PEKAN BARU PENAGA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100889",
+      "name": "Pekan Puchong Jaya",
+      "name_uppercase": "PEKAN PUCHONG JAYA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100890",
+      "name": "Pekan Puchong Perdana",
+      "name_uppercase": "PEKAN PUCHONG PERDANA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100891",
+      "name": "Pekan Subang",
+      "name_uppercase": "PEKAN SUBANG",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100892",
+      "name": "Pekan Subang Jaya",
+      "name_uppercase": "PEKAN SUBANG JAYA",
+      "district_id": "1008",
+      "district": "Petaling",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100902",
+      "name": "Ulu Kelang",
+      "name_uppercase": "ULU KELANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100903",
+      "name": "Rawang",
+      "name_uppercase": "RAWANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100904",
+      "name": "Setapak",
+      "name_uppercase": "SETAPAK",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100940",
+      "name": "Bandar Batu Arang",
+      "name_uppercase": "BANDAR BATU ARANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100942",
+      "name": "Bandar Rawang",
+      "name_uppercase": "BANDAR RAWANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100943",
+      "name": "Bandar Gombak Setia",
+      "name_uppercase": "BANDAR GOMBAK SETIA",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100944",
+      "name": "Bandar Ulu Kelang",
+      "name_uppercase": "BANDAR ULU KELANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100945",
+      "name": "Bandar Kepong",
+      "name_uppercase": "BANDAR KEPONG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100946",
+      "name": "Bandar Kundang",
+      "name_uppercase": "BANDAR KUNDANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100947",
+      "name": "Bandar Selayang",
+      "name_uppercase": "BANDAR SELAYANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100948",
+      "name": "Bandar Sungai Buloh",
+      "name_uppercase": "BANDAR SUNGAI BULOH",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100949",
+      "name": "Bandar Sungai Pusu",
+      "name_uppercase": "BANDAR SUNGAI PUSU",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100972",
+      "name": "Pekan Batu 20",
+      "name_uppercase": "PEKAN BATU 20",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100973",
+      "name": "Pekan Kuang",
+      "name_uppercase": "PEKAN KUANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100974",
+      "name": "Pekan Mimaland",
+      "name_uppercase": "PEKAN MIMALAND",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100975",
+      "name": "Pekan Pengkalan Kundang",
+      "name_uppercase": "PEKAN PENGKALAN KUNDANG",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100976",
+      "name": "Pekan Sungai Buloh",
+      "name_uppercase": "PEKAN SUNGAI BULOH",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "100977",
+      "name": "Pekan Templer",
+      "name_uppercase": "PEKAN TEMPLER",
+      "district_id": "1009",
+      "district": "Gombak",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101001",
+      "name": "Dengkil",
+      "name_uppercase": "DENGKIL",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101003",
+      "name": "Sepang",
+      "name_uppercase": "SEPANG",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101040",
+      "name": "Bandar Sepang",
+      "name_uppercase": "BANDAR SEPANG",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101041",
+      "name": "Bandar Baru Bangi",
+      "name_uppercase": "BANDAR BARU BANGI",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101042",
+      "name": "Bandar Baru Salak Tinggi",
+      "name_uppercase": "BANDAR BARU SALAK TINGGI",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101043",
+      "name": "Bandar Lapangan Terbang Antarabangsa Sepang",
+      "name_uppercase": "BANDAR LAPANGAN TERBANG ANTARABANGSA SEPANG",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101044",
+      "name": "Bandar Sungai Merab",
+      "name_uppercase": "BANDAR SUNGAI MERAB",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101070",
+      "name": "Pekan Dengkil",
+      "name_uppercase": "PEKAN DENGKIL",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101071",
+      "name": "Pekan Salak",
+      "name_uppercase": "PEKAN SALAK",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101072",
+      "name": "Pekan Sungai Pelek",
+      "name_uppercase": "PEKAN SUNGAI PELEK",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101074",
+      "name": "Pekan Batu 1 Sepang",
+      "name_uppercase": "PEKAN BATU 1 SEPANG",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101075",
+      "name": "Pekan Bukit Bisa",
+      "name_uppercase": "PEKAN BUKIT BISA",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101076",
+      "name": "Pekan Bukit Prang",
+      "name_uppercase": "PEKAN BUKIT PRANG",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101077",
+      "name": "Pekan Dato Bakar Baginda",
+      "name_uppercase": "PEKAN DATO BAKAR BAGINDA",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101078",
+      "name": "Pekan Baru Salak Tinggi",
+      "name_uppercase": "PEKAN BARU SALAK TINGGI",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101079",
+      "name": "Pekan Sungai Merab",
+      "name_uppercase": "PEKAN SUNGAI MERAB",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "101080",
+      "name": "Pekan Tanjung Mas",
+      "name_uppercase": "PEKAN TANJUNG MAS",
+      "district_id": "1010",
+      "district": "Sepang",
+      "state_id": "10",
+      "state": "Selangor"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Selangor - Muat turun percuma",
+    "description": "Senarai lengkap 217 mukim di negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 217 mukim (traditional sub-district units) in Selangor, Malaysia. Mengandungi 217 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Selangor | ListBase",
+    "seo_description": "Muat turun Mukim di Selangor — 217 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 217 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

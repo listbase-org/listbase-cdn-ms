@@ -1,0 +1,219 @@
+{
+  "id": "ms-perak-parlimen",
+  "name": "Senarai Parlimen Perak",
+  "title": "Senarai Parlimen Perak",
+  "description": "Senarai kerusi Parlimen di Perak berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P054",
+      "name": "Gerik",
+      "negeri": "Perak",
+      "dun_count": 2,
+      "dun": "N01: Pengkalan Hulu, N02: Temengor"
+    },
+    {
+      "code": "P055",
+      "name": "Lenggong",
+      "negeri": "Perak",
+      "dun_count": 2,
+      "dun": "N03: Kenering, N04: Kota Tampan"
+    },
+    {
+      "code": "P056",
+      "name": "Larut",
+      "negeri": "Perak",
+      "dun_count": 3,
+      "dun": "N05: Selama, N06: Kubu Gajah, N07: Batu Kurau"
+    },
+    {
+      "code": "P057",
+      "name": "Parit Buntar",
+      "negeri": "Perak",
+      "dun_count": 2,
+      "dun": "N08: Titi Serong, N09: Kuala Kurau"
+    },
+    {
+      "code": "P058",
+      "name": "Bagan Serai",
+      "negeri": "Perak",
+      "dun_count": 3,
+      "dun": "N10: Alor Pongsu, N11: Gunong Semanggol, N12: Selinsing"
+    },
+    {
+      "code": "P059",
+      "name": "Bukit Gantang",
+      "negeri": "Perak",
+      "dun_count": 3,
+      "dun": "N13: Kuala Sepetang, N14: Changkat Jering, N15: Trong"
+    },
+    {
+      "code": "P060",
+      "name": "Taiping",
+      "negeri": "Perak",
+      "dun_count": 3,
+      "dun": "N16: Kamunting, N17: Pokok Assam, N18: Aulong"
+    },
+    {
+      "code": "P061",
+      "name": "Padang Rengas",
+      "negeri": "Perak",
+      "dun_count": 2,
+      "dun": "N19: Chenderoh, N20: Lubok Merbau"
+    },
+    {
+      "code": "P062",
+      "name": "Sungai Siput",
+      "negeri": "Perak",
+      "dun_count": 2,
+      "dun": "N21: Lintang, N22: Jalong"
+    },
+    {
+      "code": "P063",
+      "name": "Tambun",
+      "negeri": "Perak",
+      "dun_count": 2,
+      "dun": "N23: Manjoi, N24: Hulu Kinta"
+    },
+    {
+      "code": "P064",
+      "name": "Ipoh Timor",
+      "negeri": "Perak",
+      "dun_count": 3,
+      "dun": "N25: Canning, N26: Tebing Tinggi, N27: Pasir Pinji"
+    },
+    {
+      "code": "P065",
+      "name": "Ipoh Barat",
+      "negeri": "Perak",
+      "dun_count": 3,
+      "dun": "N28: Bercham, N29: Kepayang, N30: Buntong"
+    },
+    {
+      "code": "P066",
+      "name": "Batu Gajah",
+      "negeri": "Perak",
+      "dun_count": 3,
+      "dun": "N31: Jelapang, N32: Menglembu, N33: Tronoh"
+    },
+    {
+      "code": "P067",
+      "name": "Kuala Kangsar",
+      "negeri": "Perak",
+      "dun_count": 2,
+      "dun": "N34: Bukit Chandan, N35: Manong"
+    },
+    {
+      "code": "P068",
+      "name": "Beruas",
+      "negeri": "Perak",
+      "dun_count": 3,
+      "dun": "N36: Pengkalan Baharu, N37: Pantai Remis, N38: Astaka"
+    },
+    {
+      "code": "P069",
+      "name": "Parit",
+      "negeri": "Perak",
+      "dun_count": 2,
+      "dun": "N39: Belanja, N40: Bota"
+    },
+    {
+      "code": "P070",
+      "name": "Kampar",
+      "negeri": "Perak",
+      "dun_count": 3,
+      "dun": "N41: Malim Nawar, N42: Keranji, N43: Tualang Sekah"
+    },
+    {
+      "code": "P071",
+      "name": "Gopeng",
+      "negeri": "Perak",
+      "dun_count": 3,
+      "dun": "N44: Sungai Rapat, N45: Simpang Pulai, N46: Teja"
+    },
+    {
+      "code": "P072",
+      "name": "Tapah",
+      "negeri": "Perak",
+      "dun_count": 2,
+      "dun": "N47: Chenderiang, N48: Ayer Kuning"
+    },
+    {
+      "code": "P073",
+      "name": "Pasir Salak",
+      "negeri": "Perak",
+      "dun_count": 2,
+      "dun": "N49: Sungai Manik, N50: Kampong Gajah"
+    },
+    {
+      "code": "P074",
+      "name": "Lumut",
+      "negeri": "Perak",
+      "dun_count": 2,
+      "dun": "N51: Pasir Panjang, N52: Pangkor"
+    },
+    {
+      "code": "P075",
+      "name": "Bagan Datuk",
+      "negeri": "Perak",
+      "dun_count": 2,
+      "dun": "N53: Rungkup, N54: Hutan Melintang"
+    },
+    {
+      "code": "P076",
+      "name": "Teluk Intan",
+      "negeri": "Perak",
+      "dun_count": 2,
+      "dun": "N55: Pasir Bedamar, N56: Changkat Jong"
+    },
+    {
+      "code": "P077",
+      "name": "Tanjong Malim",
+      "negeri": "Perak",
+      "dun_count": 3,
+      "dun": "N57: Sungkai, N58: Slim, N59: Behrang"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen Perak - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di Perak berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested. Mengandungi 24 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen Perak | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen Perak — 24 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 24 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

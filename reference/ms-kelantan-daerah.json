@@ -1,0 +1,144 @@
+{
+  "id": "ms-kelantan-daerah",
+  "name": "Daerah di Kelantan",
+  "title": "Daerah di Kelantan",
+  "description": "Senarai lengkap 11 daerah (district) di negeri Kelantan, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 11 administrative districts in Kelantan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "301",
+      "name": "Bachok",
+      "name_uppercase": "BACHOK",
+      "code": "BAC",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "302",
+      "name": "Kota Bharu",
+      "name_uppercase": "KOTA BHARU",
+      "code": "KBH",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "303",
+      "name": "Machang",
+      "name_uppercase": "MACHANG",
+      "code": "MAC",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "304",
+      "name": "Pasir Mas",
+      "name_uppercase": "PASIR MAS",
+      "code": "PMA",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "305",
+      "name": "Pasir Puteh",
+      "name_uppercase": "PASIR PUTEH",
+      "code": "PPU",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "306",
+      "name": "Tanah Merah",
+      "name_uppercase": "TANAH MERAH",
+      "code": "TME",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "307",
+      "name": "Tumpat",
+      "name_uppercase": "TUMPAT",
+      "code": "TUM",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "308",
+      "name": "Gua Musang",
+      "name_uppercase": "GUA MUSANG",
+      "code": "GMU",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "310",
+      "name": "Kuala Krai",
+      "name_uppercase": "KUALA KRAI",
+      "code": "KKR",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "311",
+      "name": "Jeli",
+      "name_uppercase": "JELI",
+      "code": "JEL",
+      "state_id": "3",
+      "state": "Kelantan"
+    },
+    {
+      "id": "312",
+      "name": "Kecil Lojing",
+      "name_uppercase": "KECIL LOJING",
+      "code": "KLO",
+      "state_id": "3",
+      "state": "Kelantan"
+    }
+  ],
+  "meta": {
+    "title": "Daerah di Kelantan - Muat turun percuma",
+    "description": "Senarai lengkap 11 daerah (district) di negeri Kelantan, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 11 administrative districts in Kelantan, Malaysia. Mengandungi 11 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Daerah di Kelantan | ListBase",
+    "seo_description": "Muat turun Daerah di Kelantan — 11 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 11 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

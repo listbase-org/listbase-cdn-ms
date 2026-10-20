@@ -1,0 +1,250 @@
+{
+  "id": "ms-rumah-api",
+  "name": "Rumah api di Malaysia",
+  "title": "Rumah api di Malaysia",
+  "description": "Rumah api di Malaysia — 13 entri lighthouse (Rumah Api) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=wd:Q39715 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Fort Cornwallis Lighthouse, Malacca Light, One Fathom Bank Lighthouse, Pantai Kok Lighthouse, Pulau Peesang Lighthouse. Liputan label Bahasa Melayu: 7/13. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, admin_area_ms, admin_area_en, latitude, longitude, wikidata_url.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27557239",
+      "name_ms": "",
+      "name_en": "Fort Cornwallis Lighthouse",
+      "type_ms": "Rumah Api",
+      "type_en": "Lighthouse",
+      "admin_area_ms": "George Town",
+      "admin_area_en": "George Town",
+      "latitude": 5.420805555,
+      "longitude": 100.344611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27557239"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q6740801",
+      "name_ms": "",
+      "name_en": "Malacca Light",
+      "type_ms": "Rumah Api",
+      "type_en": "Lighthouse",
+      "admin_area_ms": "Bandaraya Melaka",
+      "admin_area_en": "Malacca",
+      "latitude": 2.1925,
+      "longitude": 102.249166666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6740801"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q7092627",
+      "name_ms": "",
+      "name_en": "One Fathom Bank Lighthouse",
+      "type_ms": "Rumah Api",
+      "type_en": "Lighthouse",
+      "admin_area_ms": "Selangor",
+      "admin_area_en": "Selangor",
+      "latitude": 2.88416667,
+      "longitude": 100.98555556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7092627"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q32822158",
+      "name_ms": "",
+      "name_en": "Pantai Kok Lighthouse",
+      "type_ms": "Rumah Api",
+      "type_en": "Lighthouse",
+      "admin_area_ms": "Langkawi",
+      "admin_area_en": "Langkawi",
+      "latitude": 6.363963888,
+      "longitude": 99.683261111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32822158"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q15269161",
+      "name_ms": "",
+      "name_en": "Pulau Peesang Lighthouse",
+      "type_ms": "Rumah Api",
+      "type_en": "Lighthouse",
+      "admin_area_ms": "Johor",
+      "admin_area_en": "Johor",
+      "latitude": 1.46944444,
+      "longitude": 103.25583333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15269161"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q29855585",
+      "name_ms": "Rumah Api Batu Tinagat",
+      "name_en": "Batu Tinagat Lighthouse",
+      "type_ms": "Rumah Api",
+      "type_en": "Lighthouse",
+      "admin_area_ms": "Bahagian Tawau",
+      "admin_area_en": "Tawau Division",
+      "latitude": 4.22583333,
+      "longitude": 117.98083333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29855585"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q7419614",
+      "name_ms": "Rumah Api Bukit Jugra",
+      "name_en": "Bukit Jugra lighthouse",
+      "type_ms": "Rumah Api",
+      "type_en": "Lighthouse",
+      "admin_area_ms": "Kuala Langat",
+      "admin_area_en": "Kuala Langat",
+      "latitude": 2.835729386,
+      "longitude": 101.417509066,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7419614"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q96867645",
+      "name_ms": "Rumah Api Bukit Segenting",
+      "name_en": "Bukit Segenting Lighthouse",
+      "type_ms": "Rumah Api",
+      "type_en": "Lighthouse",
+      "admin_area_ms": "Senggarang",
+      "admin_area_en": "Senggarang",
+      "latitude": 1.790944444,
+      "longitude": 102.889277777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96867645"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q25480208",
+      "name_ms": "Rumah Api Kuala Selangor",
+      "name_en": "",
+      "type_ms": "Rumah Api",
+      "type_en": "Lighthouse",
+      "admin_area_ms": "Daerah Kuala Selangor",
+      "admin_area_en": "Kuala Selangor District",
+      "latitude": 3.3412,
+      "longitude": 101.2449,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25480208"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q112842519",
+      "name_ms": "Rumah Api Kuala Selangor",
+      "name_en": "Bukit Melawati Lighthouse",
+      "type_ms": "Rumah Api",
+      "type_en": "Lighthouse",
+      "admin_area_ms": "Daerah Kuala Selangor",
+      "admin_area_en": "Kuala Selangor District",
+      "latitude": 3.34125,
+      "longitude": 101.245,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112842519"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q12702162",
+      "name_ms": "Rumah Api Tumpat",
+      "name_en": "Tumpat Lighthouse",
+      "type_ms": "Rumah Api",
+      "type_en": "Lighthouse",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 6.2005475,
+      "longitude": 102.1670989,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12702162"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q5035011",
+      "name_ms": "Rumah api Tanjung Tuan",
+      "name_en": "Cape Rachado Lighthouse",
+      "type_ms": "Rumah Api",
+      "type_en": "Lighthouse",
+      "admin_area_ms": "Melaka",
+      "admin_area_en": "Malacca",
+      "latitude": 2.40722222,
+      "longitude": 101.85222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5035011"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q7259257",
+      "name_ms": "",
+      "name_en": "Undan Island Lighthouse",
+      "type_ms": "Rumah Api",
+      "type_en": "Lighthouse",
+      "admin_area_ms": "Melaka",
+      "admin_area_en": "Malacca",
+      "latitude": 2.04819444,
+      "longitude": 102.33391667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7259257"
+    }
+  ],
+  "meta": {
+    "title": "Rumah api di Malaysia - Muat turun percuma",
+    "description": "Rumah api di Malaysia — 13 entri lighthouse (Rumah Api) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=wd:Q39715 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Fort Cornwallis Lighthouse, Malacca Light, One Fathom Bank Lighthouse, Pantai Kok Lighthouse, Pulau Peesang Lighthouse. Liputan label Bahasa Melayu: 7/13. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, admin_area_ms, admin_area_en, latitude, longitude, wikidata_url. Mengandungi 13 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Rumah api di Malaysia | ListBase",
+    "seo_description": "Muat turun Rumah api di Malaysia — 13 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 13 rekod / 11 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

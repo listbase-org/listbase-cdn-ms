@@ -1,0 +1,340 @@
+{
+  "id": "ms-perak-kinta-mukim",
+  "name": "Mukim di Daerah Kinta, Perak",
+  "title": "Mukim di Daerah Kinta, Perak",
+  "description": "Senarai lengkap 22 mukim di daerah Kinta, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 22 mukim (traditional sub-district units) in Kinta District, Perak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "080301",
+      "name": "Belanja",
+      "name_uppercase": "BELANJA",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 806,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080302",
+      "name": "Hulu Kinta",
+      "name_uppercase": "HULU KINTA",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 807,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080304",
+      "name": "Sungai Raia",
+      "name_uppercase": "SUNGAI RAIA",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 808,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080305",
+      "name": "Sungai Terap",
+      "name_uppercase": "SUNGAI TERAP",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 809,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080306",
+      "name": "Tanjong Tualang",
+      "name_uppercase": "TANJONG TUALANG",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 810,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080340",
+      "name": "Bandar Batu Gajah",
+      "name_uppercase": "BANDAR BATU GAJAH",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 811,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080341",
+      "name": "Bandar Chemor",
+      "name_uppercase": "BANDAR CHEMOR",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 812,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080343",
+      "name": "Bandar Ipoh (U)",
+      "name_uppercase": "BANDAR IPOH (U)",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 813,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080344",
+      "name": "Bandar Ipoh (S)",
+      "name_uppercase": "BANDAR IPOH (S)",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 814,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080345",
+      "name": "Bandar Jelapang",
+      "name_uppercase": "BANDAR JELAPANG",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 815,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080347",
+      "name": "Bandar Lahat",
+      "name_uppercase": "BANDAR LAHAT",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 816,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080348",
+      "name": "Bandar Mengelembu",
+      "name_uppercase": "BANDAR MENGELEMBU",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 817,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080349",
+      "name": "Bandar Papan",
+      "name_uppercase": "BANDAR PAPAN",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 818,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080351",
+      "name": "Bandar Pusing",
+      "name_uppercase": "BANDAR PUSING",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 819,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080352",
+      "name": "Bandar Seputeh",
+      "name_uppercase": "BANDAR SEPUTEH",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 820,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080353",
+      "name": "Bandar Sungai Raya",
+      "name_uppercase": "BANDAR SUNGAI RAYA",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 821,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080354",
+      "name": "Bandar Tambun",
+      "name_uppercase": "BANDAR TAMBUN",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 822,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080355",
+      "name": "Bandar Tanjong Rambutan",
+      "name_uppercase": "BANDAR TANJONG RAMBUTAN",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 823,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080356",
+      "name": "Bandar Teronoh",
+      "name_uppercase": "BANDAR TERONOH",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 824,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080370",
+      "name": "Pekan Kanthan",
+      "name_uppercase": "PEKAN KANTHAN",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 825,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080373",
+      "name": "Pekan Simpang Pulai",
+      "name_uppercase": "PEKAN SIMPANG PULAI",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 826,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    },
+    {
+      "id": "080374",
+      "name": "Pekan Tanjong Tualang",
+      "name_uppercase": "PEKAN TANJONG TUALANG",
+      "district_id": "803",
+      "district": "Kinta",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 827,
+      "state_slug": "perak",
+      "district_slug": "kinta"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Kinta, Perak - Muat turun percuma",
+    "description": "Senarai lengkap 22 mukim di daerah Kinta, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 22 mukim (traditional sub-district units) in Kinta District, Perak, Malaysia. Mengandungi 22 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Kinta, Perak | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Kinta, Perak — 22 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 22 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

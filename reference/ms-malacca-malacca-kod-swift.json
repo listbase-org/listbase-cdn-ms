@@ -1,0 +1,79 @@
+{
+  "id": "ms-malacca-malacca-kod-swift",
+  "name": "Kod SWIFT/BIC — Malacca, Malacca",
+  "title": "Kod SWIFT/BIC — Malacca, Malacca",
+  "description": "Senarai institusi kewangan di Malacca, Malacca (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Malacca, Malacca, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 221,
+      "bank": "MALAYAN BANKING BERHAD (MAYBANK)",
+      "city": "MALACCA, MALACCA",
+      "branch": "",
+      "swift_code": "MBBEMYKLMAL"
+    },
+    {
+      "id": 276,
+      "bank": "OCBC SECURITIES (MELAKA) SDN BHD",
+      "city": "MALACCA, MALACCA",
+      "branch": "",
+      "swift_code": "OSMSMY21"
+    },
+    {
+      "id": 337,
+      "bank": "SFSB SERVICES (MELAKA) SDN. BHD.",
+      "city": "MALACCA, MALACCA",
+      "branch": "",
+      "swift_code": "SFDBMY21"
+    },
+    {
+      "id": 386,
+      "bank": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "city": "MALACCA, MALACCA",
+      "branch": "",
+      "swift_code": "UOVBMYK1027"
+    }
+  ],
+  "meta": {
+    "title": "Kod SWIFT/BIC — Malacca, Malacca - Muat turun percuma",
+    "description": "Senarai institusi kewangan di Malacca, Malacca (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Malacca, Malacca, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source. Mengandungi 4 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kod SWIFT/BIC — Malacca, Malacca | ListBase",
+    "seo_description": "Muat turun Kod SWIFT/BIC — Malacca, Malacca — 4 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 4 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

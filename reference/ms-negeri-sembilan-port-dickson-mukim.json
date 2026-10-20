@@ -1,0 +1,316 @@
+{
+  "id": "ms-negeri-sembilan-port-dickson-mukim",
+  "name": "Mukim di Daerah Port Dickson, Negeri Sembilan",
+  "title": "Mukim di Daerah Port Dickson, Negeri Sembilan",
+  "description": "Senarai lengkap 20 mukim di daerah Port Dickson, negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 20 mukim (traditional sub-district units) in Port Dickson District, Negeri Sembilan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "050301",
+      "name": "Jimah",
+      "name_uppercase": "JIMAH",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1349,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050303",
+      "name": "Linggi",
+      "name_uppercase": "LINGGI",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1350,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050304",
+      "name": "Port Dickson",
+      "name_uppercase": "PORT DICKSON",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1351,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050305",
+      "name": "Si Rusa",
+      "name_uppercase": "SI RUSA",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1352,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050340",
+      "name": "Bandar Port Dickson",
+      "name_uppercase": "BANDAR PORT DICKSON",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1353,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050341",
+      "name": "Bandar Teluk Kemang",
+      "name_uppercase": "BANDAR TELUK KEMANG",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1354,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050370",
+      "name": "Pekan Lukut",
+      "name_uppercase": "PEKAN LUKUT",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1355,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050371",
+      "name": "Pekan Pasir Panjang",
+      "name_uppercase": "PEKAN PASIR PANJANG",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1356,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050372",
+      "name": "Pekan Pengkalan Kempas",
+      "name_uppercase": "PEKAN PENGKALAN KEMPAS",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1357,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050373",
+      "name": "Pekan Chuah",
+      "name_uppercase": "PEKAN CHUAH",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1358,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050374",
+      "name": "Pekan Port Dickson",
+      "name_uppercase": "PEKAN PORT DICKSON",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1359,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050375",
+      "name": "Pekan Teluk Kemang",
+      "name_uppercase": "PEKAN TELUK KEMANG",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1360,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050376",
+      "name": "Pekan Bukit Pelanduk",
+      "name_uppercase": "PEKAN BUKIT PELANDUK",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1361,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050377",
+      "name": "Pekan Linggi",
+      "name_uppercase": "PEKAN LINGGI",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1362,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050378",
+      "name": "Pekan Air Kuning",
+      "name_uppercase": "PEKAN AIR KUNING",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1363,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050379",
+      "name": "Pekan Sungai Menyala",
+      "name_uppercase": "PEKAN SUNGAI MENYALA",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1364,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050380",
+      "name": "Pekan Bagan Pinang",
+      "name_uppercase": "PEKAN BAGAN PINANG",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1365,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050381",
+      "name": "Pekan Tanah Merah Utara",
+      "name_uppercase": "PEKAN TANAH MERAH UTARA",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1366,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050382",
+      "name": "Pekan Tanah Merah Selatan",
+      "name_uppercase": "PEKAN TANAH MERAH SELATAN",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1367,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    },
+    {
+      "id": "050383",
+      "name": "Pekan Jemima",
+      "name_uppercase": "PEKAN JEMIMA",
+      "district_id": "503",
+      "district": "Port Dickson",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1368,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "port-dickson"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Port Dickson, Negeri Sembilan - Muat turun percuma",
+    "description": "Senarai lengkap 20 mukim di daerah Port Dickson, negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 20 mukim (traditional sub-district units) in Port Dickson District, Negeri Sembilan, Malaysia. Mengandungi 20 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Port Dickson, Negeri Sembilan | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Port Dickson, Negeri Sembilan — 20 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 20 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

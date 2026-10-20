@@ -1,0 +1,4506 @@
+{
+  "id": "ms-bandar",
+  "name": "Senarai Bandar dan Pekan Malaysia",
+  "title": "Senarai Bandar dan Pekan Malaysia",
+  "description": "Senarai bandar dan pekan di Malaysia berserta poskod yang ditetapkan untuk setiap satu. Disusun mengikut negeri dan slug bandar. Setiap rekod menyimpan nama bandar, negeri induk, jumlah poskod, dan senarai poskod 5-digit yang dikaitkan. Sumber data: AsyrafHussin/malaysia-postcodes.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 444,
+  "columns": [
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_short",
+      "label": "State Short",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "state_type",
+      "label": "State Type",
+      "type": "string"
+    },
+    {
+      "key": "postcode_count",
+      "label": "Postcode Count",
+      "type": "number"
+    },
+    {
+      "key": "postcodes",
+      "label": "Postcodes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city": "Ayer Baloi",
+      "city_slug": "ayer-baloi",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "82100"
+    },
+    {
+      "city": "Ayer Hitam",
+      "city_slug": "ayer-hitam",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "86100"
+    },
+    {
+      "city": "Ayer Tawar 2",
+      "city_slug": "ayer-tawar-2",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "81920"
+    },
+    {
+      "city": "Bandar Penawar",
+      "city_slug": "bandar-penawar",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "81930, 81960"
+    },
+    {
+      "city": "Bandar Tenggara",
+      "city_slug": "bandar-tenggara",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "81440"
+    },
+    {
+      "city": "Batu Anam",
+      "city_slug": "batu-anam",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "85100"
+    },
+    {
+      "city": "Batu Pahat",
+      "city_slug": "batu-pahat",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 7,
+      "postcodes": "83000, 83010, 83020, 83030, 83040, 83050, 86400"
+    },
+    {
+      "city": "Bekok",
+      "city_slug": "bekok",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "86500"
+    },
+    {
+      "city": "Benut",
+      "city_slug": "benut",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "82200"
+    },
+    {
+      "city": "Bukit Gambir",
+      "city_slug": "bukit-gambir",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "84800"
+    },
+    {
+      "city": "Bukit Pasir",
+      "city_slug": "bukit-pasir",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "84300"
+    },
+    {
+      "city": "Chaah",
+      "city_slug": "chaah",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "85400"
+    },
+    {
+      "city": "Endau",
+      "city_slug": "endau",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "86900, 86999"
+    },
+    {
+      "city": "Gelang Patah",
+      "city_slug": "gelang-patah",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "81550, 81560"
+    },
+    {
+      "city": "Gerisek",
+      "city_slug": "gerisek",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "84700, 84710"
+    },
+    {
+      "city": "Gugusan Taib Andak",
+      "city_slug": "gugusan-taib-andak",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "81450"
+    },
+    {
+      "city": "Ibrahim International Business District",
+      "city_slug": "ibrahim-international-business-district",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "80888"
+    },
+    {
+      "city": "Iskandar Puteri",
+      "city_slug": "iskandar-puteri",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 44,
+      "postcodes": "79000, 79050, 79100, 79150, 79200, 79250, 79502, 79503, 79504, 79505, 79511, 79513, 79514, 79517, 79518, 79520, 79521, 79523, 79532, 79538, 79540, 79546, 79548, 79550, 79552, 79555, 79570, 79575, 79576, 79592, 79601, 79603, 79605, 79606, 79612, 79626, 79630, 79632, 79646, 79658, 79660, 79680, 79681, 79683"
+    },
+    {
+      "city": "Jementah",
+      "city_slug": "jementah",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "85200, 85210"
+    },
+    {
+      "city": "Johor Bahru",
+      "city_slug": "johor-bahru",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 92,
+      "postcodes": "80000, 80050, 80100, 80110, 80150, 80200, 80250, 80300, 80350, 80400, 80500, 80502, 80503, 80504, 80505, 80506, 80508, 80514, 80516, 80517, 80518, 80519, 80520, 80529, 80530, 80532, 80534, 80536, 80538, 80540, 80542, 80546, 80548, 80550, 80552, 80558, 80560, 80564, 80568, 80570, 80576, 80578, 80584, 80586, 80590, 80592, 80594, 80596, 80600, 80604, 80606, 80608, 80610, 80612, 80620, 80622, 80626, 80628, 80630, 80632, 80644, 80646, 80648, 80658, 80660, 80662, 80664, 80668, 80670, 80672, 80673, 80676, 80700, 80710, 80720, 80730, 80750, 80800, 80900, 80902, 80904, 80906, 80908, 80988, 80990, 81100, 81110, 81120, 81200, 81250, 81300, 81310"
+    },
+    {
+      "city": "Kahang",
+      "city_slug": "kahang",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "86700"
+    },
+    {
+      "city": "Kluang",
+      "city_slug": "kluang",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "86000, 86007"
+    },
+    {
+      "city": "Kota Tinggi",
+      "city_slug": "kota-tinggi",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "81900, 81907, 81910"
+    },
+    {
+      "city": "Kukup",
+      "city_slug": "kukup",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "82300"
+    },
+    {
+      "city": "Kulai",
+      "city_slug": "kulai",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 6,
+      "postcodes": "81000, 81010, 81020, 81030, 81040, 81050"
+    },
+    {
+      "city": "Labis",
+      "city_slug": "labis",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "85300"
+    },
+    {
+      "city": "Layang-Layang",
+      "city_slug": "layang-layang",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "81850"
+    },
+    {
+      "city": "Masai",
+      "city_slug": "masai",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "81750, 81760"
+    },
+    {
+      "city": "Mersing",
+      "city_slug": "mersing",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "86800, 86810"
+    },
+    {
+      "city": "Muar",
+      "city_slug": "muar",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 11,
+      "postcodes": "84000, 84007, 84010, 84020, 84030, 84040, 84050, 84100, 84200, 84300, 84410"
+    },
+    {
+      "city": "Pagoh",
+      "city_slug": "pagoh",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "84600"
+    },
+    {
+      "city": "Paloh",
+      "city_slug": "paloh",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "86600"
+    },
+    {
+      "city": "Panchor",
+      "city_slug": "panchor",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "84500"
+    },
+    {
+      "city": "Parit Jawa",
+      "city_slug": "parit-jawa",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "84150, 84160"
+    },
+    {
+      "city": "Parit Raja",
+      "city_slug": "parit-raja",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "86400"
+    },
+    {
+      "city": "Parit Sulong",
+      "city_slug": "parit-sulong",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "83500"
+    },
+    {
+      "city": "Pasir Gudang",
+      "city_slug": "pasir-gudang",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "81700"
+    },
+    {
+      "city": "Pekan Nenas",
+      "city_slug": "pekan-nenas",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "81500"
+    },
+    {
+      "city": "Pengerang",
+      "city_slug": "pengerang",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "81600, 81620, 81650"
+    },
+    {
+      "city": "Pontian",
+      "city_slug": "pontian",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "82000, 82010, 82020, 82030"
+    },
+    {
+      "city": "Rengam",
+      "city_slug": "rengam",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "86300"
+    },
+    {
+      "city": "Rengit",
+      "city_slug": "rengit",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "83100"
+    },
+    {
+      "city": "Segamat",
+      "city_slug": "segamat",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 7,
+      "postcodes": "85000, 85010, 85020, 85030, 85060, 85070, 85080"
+    },
+    {
+      "city": "Semerah",
+      "city_slug": "semerah",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "83600, 83610"
+    },
+    {
+      "city": "Senai",
+      "city_slug": "senai",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "81400, 81410"
+    },
+    {
+      "city": "Senggarang",
+      "city_slug": "senggarang",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "83200"
+    },
+    {
+      "city": "Seri Gading",
+      "city_slug": "seri-gading",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "83300"
+    },
+    {
+      "city": "Seri Medan",
+      "city_slug": "seri-medan",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "83400"
+    },
+    {
+      "city": "Simpang Rengam",
+      "city_slug": "simpang-rengam",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "86200"
+    },
+    {
+      "city": "Sungai Mati",
+      "city_slug": "sungai-mati",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "84400, 84409"
+    },
+    {
+      "city": "Tangkak",
+      "city_slug": "tangkak",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "84900, 84990"
+    },
+    {
+      "city": "Tioman",
+      "city_slug": "tioman",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "86800"
+    },
+    {
+      "city": "Ulu Tiram",
+      "city_slug": "ulu-tiram",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "81800, 81810"
+    },
+    {
+      "city": "Yong Peng",
+      "city_slug": "yong-peng",
+      "state": "Johor",
+      "state_short": "Johor",
+      "state_slug": "johor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "83700, 83710"
+    },
+    {
+      "city": "Alor Setar",
+      "city_slug": "alor-setar",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 77,
+      "postcodes": "05000, 05050, 05100, 05150, 05200, 05250, 05300, 05350, 05400, 05450, 05460, 05500, 05502, 05503, 05504, 05505, 05506, 05508, 05512, 05514, 05516, 05517, 05518, 05520, 05532, 05534, 05536, 05538, 05550, 05551, 05552, 05556, 05558, 05560, 05564, 05576, 05578, 05580, 05582, 05586, 05590, 05592, 05594, 05600, 05604, 05610, 05612, 05614, 05620, 05621, 05622, 05626, 05628, 05630, 05632, 05644, 05660, 05661, 05664, 05670, 05672, 05673, 05674, 05675, 05676, 05680, 05690, 05696, 05700, 05710, 05720, 05990, 06250, 06509, 06550, 06570, 06660"
+    },
+    {
+      "city": "Ayer Hitam",
+      "city_slug": "ayer-hitam",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "06150"
+    },
+    {
+      "city": "Baling",
+      "city_slug": "baling",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "09100"
+    },
+    {
+      "city": "Bandar Baharu",
+      "city_slug": "bandar-baharu",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "34950"
+    },
+    {
+      "city": "Bandar Bahru",
+      "city_slug": "bandar-bahru",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "14290, 14390"
+    },
+    {
+      "city": "Bedong",
+      "city_slug": "bedong",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "08100, 08110"
+    },
+    {
+      "city": "Bukit Kayu Hitam",
+      "city_slug": "bukit-kayu-hitam",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "06050"
+    },
+    {
+      "city": "Changloon",
+      "city_slug": "changloon",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "06010"
+    },
+    {
+      "city": "Gurun",
+      "city_slug": "gurun",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "08300, 08330, 08800"
+    },
+    {
+      "city": "Jeniang",
+      "city_slug": "jeniang",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "08320, 08700"
+    },
+    {
+      "city": "Jitra",
+      "city_slug": "jitra",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "06000, 06007, 06009"
+    },
+    {
+      "city": "Karangan",
+      "city_slug": "karangan",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "09700"
+    },
+    {
+      "city": "Kepala Batas",
+      "city_slug": "kepala-batas",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "06200, 06207, 06209"
+    },
+    {
+      "city": "Kodiang",
+      "city_slug": "kodiang",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "06100"
+    },
+    {
+      "city": "Kota Kuala Muda",
+      "city_slug": "kota-kuala-muda",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "08500, 08507, 08509"
+    },
+    {
+      "city": "Kota Sarang Semut",
+      "city_slug": "kota-sarang-semut",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "06800"
+    },
+    {
+      "city": "Kuala Kedah",
+      "city_slug": "kuala-kedah",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "06600"
+    },
+    {
+      "city": "Kuala Ketil",
+      "city_slug": "kuala-ketil",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "09300, 09310"
+    },
+    {
+      "city": "Kuala Nerang",
+      "city_slug": "kuala-nerang",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "06300"
+    },
+    {
+      "city": "Kuala Pegang",
+      "city_slug": "kuala-pegang",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "09110"
+    },
+    {
+      "city": "Kulim",
+      "city_slug": "kulim",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 5,
+      "postcodes": "09000, 09007, 09009, 09010, 09020"
+    },
+    {
+      "city": "Kupang",
+      "city_slug": "kupang",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "09200"
+    },
+    {
+      "city": "Langgar",
+      "city_slug": "langgar",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "06500, 06507"
+    },
+    {
+      "city": "Langkawi",
+      "city_slug": "langkawi",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "07000, 07007, 07009, 07100"
+    },
+    {
+      "city": "Lunas",
+      "city_slug": "lunas",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "09600"
+    },
+    {
+      "city": "Merbok",
+      "city_slug": "merbok",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "08400, 08407, 08409"
+    },
+    {
+      "city": "Padang Serai",
+      "city_slug": "padang-serai",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "09400, 09410"
+    },
+    {
+      "city": "Pendang",
+      "city_slug": "pendang",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 7,
+      "postcodes": "06700, 06707, 06709, 06710, 06720, 06750, 06760"
+    },
+    {
+      "city": "Pokok Sena",
+      "city_slug": "pokok-sena",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "06350, 06400"
+    },
+    {
+      "city": "Serdang",
+      "city_slug": "serdang",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "09800, 09810"
+    },
+    {
+      "city": "Sik",
+      "city_slug": "sik",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "08200, 08210, 08340"
+    },
+    {
+      "city": "Simpang Empat",
+      "city_slug": "simpang-empat",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "06650, 06680"
+    },
+    {
+      "city": "Sungai Petani",
+      "city_slug": "sungai-petani",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 5,
+      "postcodes": "08000, 08007, 08009, 08010, 08600"
+    },
+    {
+      "city": "Yan",
+      "city_slug": "yan",
+      "state": "Kedah",
+      "state_short": "Kedah",
+      "state_slug": "kedah",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "06900, 06910"
+    },
+    {
+      "city": "Ayer Lanas",
+      "city_slug": "ayer-lanas",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "17700"
+    },
+    {
+      "city": "Bachok",
+      "city_slug": "bachok",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 12,
+      "postcodes": "16020, 16030, 16050, 16060, 16070, 16090, 16300, 16310, 16320, 16350, 16370, 16390"
+    },
+    {
+      "city": "Cherang Ruku",
+      "city_slug": "cherang-ruku",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "16700"
+    },
+    {
+      "city": "Dabong",
+      "city_slug": "dabong",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "18200"
+    },
+    {
+      "city": "Gua Musang",
+      "city_slug": "gua-musang",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "18300"
+    },
+    {
+      "city": "Jeli",
+      "city_slug": "jeli",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "17600"
+    },
+    {
+      "city": "Kem Desa Pahlawan",
+      "city_slug": "kem-desa-pahlawan",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "16500"
+    },
+    {
+      "city": "Ketereh",
+      "city_slug": "ketereh",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "16450"
+    },
+    {
+      "city": "Kota Bharu",
+      "city_slug": "kota-bharu",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 93,
+      "postcodes": "15000, 15050, 15100, 15150, 15159, 15160, 15200, 15300, 15350, 15400, 15500, 15502, 15503, 15504, 15505, 15506, 15508, 15512, 15514, 15516, 15517, 15518, 15519, 15520, 15524, 15529, 15532, 15534, 15536, 15538, 15540, 15546, 15548, 15550, 15551, 15556, 15558, 15560, 15564, 15570, 15572, 15576, 15578, 15582, 15586, 15590, 15592, 15594, 15596, 15600, 15604, 15606, 15608, 15609, 15610, 15612, 15614, 15616, 15620, 15622, 15623, 15624, 15626, 15628, 15630, 15632, 15634, 15644, 15646, 15648, 15658, 15660, 15661, 15662, 15664, 15670, 15672, 15673, 15674, 15676, 15680, 15690, 15700, 15710, 15720, 15730, 15740, 15988, 15990, 16010, 16100, 16109, 16150"
+    },
+    {
+      "city": "Kuala Balah",
+      "city_slug": "kuala-balah",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "17610"
+    },
+    {
+      "city": "Kuala Krai",
+      "city_slug": "kuala-krai",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "18000, 18020, 18050"
+    },
+    {
+      "city": "Machang",
+      "city_slug": "machang",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "18500"
+    },
+    {
+      "city": "Melor",
+      "city_slug": "melor",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "16400"
+    },
+    {
+      "city": "Pasir Mas",
+      "city_slug": "pasir-mas",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 10,
+      "postcodes": "17000, 17007, 17009, 17010, 17020, 17030, 17040, 17050, 17060, 17070"
+    },
+    {
+      "city": "Pasir Puteh",
+      "city_slug": "pasir-puteh",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "16800"
+    },
+    {
+      "city": "Pulai Chondong",
+      "city_slug": "pulai-chondong",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "16600"
+    },
+    {
+      "city": "Rantau Panjang",
+      "city_slug": "rantau-panjang",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "17200"
+    },
+    {
+      "city": "Selising",
+      "city_slug": "selising",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "16810"
+    },
+    {
+      "city": "Tanah Merah",
+      "city_slug": "tanah-merah",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 6,
+      "postcodes": "17500, 17507, 17509, 17510, 17520, 17599"
+    },
+    {
+      "city": "Temangan",
+      "city_slug": "temangan",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "18400"
+    },
+    {
+      "city": "Tumpat",
+      "city_slug": "tumpat",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "16080, 16200, 16210"
+    },
+    {
+      "city": "Wakaf Bharu",
+      "city_slug": "wakaf-bharu",
+      "state": "Kelantan",
+      "state_short": "Kelantan",
+      "state_slug": "kelantan",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "16040, 16250, 16266"
+    },
+    {
+      "city": "Alor Gajah",
+      "city_slug": "alor-gajah",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "78000, 78009"
+    },
+    {
+      "city": "Asahan",
+      "city_slug": "asahan",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "77100, 77109"
+    },
+    {
+      "city": "Ayer Keroh",
+      "city_slug": "ayer-keroh",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "75450"
+    },
+    {
+      "city": "Bemban",
+      "city_slug": "bemban",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "77200"
+    },
+    {
+      "city": "Durian Tunggal",
+      "city_slug": "durian-tunggal",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "76100, 76109"
+    },
+    {
+      "city": "Jasin",
+      "city_slug": "jasin",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "77000, 77007, 77008, 77009"
+    },
+    {
+      "city": "Kem Trendak",
+      "city_slug": "kem-trendak",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "76200"
+    },
+    {
+      "city": "Kuala Sungai Baru",
+      "city_slug": "kuala-sungai-baru",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "78200"
+    },
+    {
+      "city": "Lubok China",
+      "city_slug": "lubok-china",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "78100"
+    },
+    {
+      "city": "Masjid Tanah",
+      "city_slug": "masjid-tanah",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "78300, 78307, 78309"
+    },
+    {
+      "city": "Melaka",
+      "city_slug": "melaka",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 13,
+      "postcodes": "75000, 75050, 75100, 75150, 75200, 75250, 75260, 75300, 75350, 75400, 75430, 75460, 76450"
+    },
+    {
+      "city": "Merlimau",
+      "city_slug": "merlimau",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "77300"
+    },
+    {
+      "city": "Selandar",
+      "city_slug": "selandar",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "77500"
+    },
+    {
+      "city": "Sungai Rambai",
+      "city_slug": "sungai-rambai",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "77400"
+    },
+    {
+      "city": "Sungai Udang",
+      "city_slug": "sungai-udang",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "76300"
+    },
+    {
+      "city": "Tanjong Kling",
+      "city_slug": "tanjong-kling",
+      "state": "Melaka",
+      "state_short": "Melaka",
+      "state_slug": "melaka",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "76400, 76409"
+    },
+    {
+      "city": "Bahau",
+      "city_slug": "bahau",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "72100, 72107, 72109"
+    },
+    {
+      "city": "Bandar Baru Enstek",
+      "city_slug": "bandar-baru-enstek",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "71760"
+    },
+    {
+      "city": "Bandar Seri Jempol",
+      "city_slug": "bandar-seri-jempol",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "72120, 72127, 72129"
+    },
+    {
+      "city": "Batu Kikir",
+      "city_slug": "batu-kikir",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "72200, 72207, 72209"
+    },
+    {
+      "city": "Gemas",
+      "city_slug": "gemas",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 5,
+      "postcodes": "73400, 73409, 73410, 73420, 73480"
+    },
+    {
+      "city": "Gemencheh",
+      "city_slug": "gemencheh",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 5,
+      "postcodes": "73200, 73207, 73209, 73300, 73309"
+    },
+    {
+      "city": "Johol",
+      "city_slug": "johol",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "73100, 73109"
+    },
+    {
+      "city": "Kota",
+      "city_slug": "kota",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "71350, 71359"
+    },
+    {
+      "city": "Kuala Klawang",
+      "city_slug": "kuala-klawang",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "71600, 71609, 71650, 71659"
+    },
+    {
+      "city": "Kuala Pilah",
+      "city_slug": "kuala-pilah",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 6,
+      "postcodes": "72000, 72007, 72009, 72500, 72507, 72509"
+    },
+    {
+      "city": "Labu",
+      "city_slug": "labu",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "71900, 71907, 71909"
+    },
+    {
+      "city": "Linggi",
+      "city_slug": "linggi",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "71150, 71159"
+    },
+    {
+      "city": "Mantin",
+      "city_slug": "mantin",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 5,
+      "postcodes": "71700, 71707, 71709, 71750, 71759"
+    },
+    {
+      "city": "Nilai",
+      "city_slug": "nilai",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "71800, 71807, 71809, 71850"
+    },
+    {
+      "city": "Port Dickson",
+      "city_slug": "port-dickson",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 6,
+      "postcodes": "71000, 71007, 71009, 71010, 71960, 71999"
+    },
+    {
+      "city": "Pusat Bandar Palong",
+      "city_slug": "pusat-bandar-palong",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 5,
+      "postcodes": "73430, 73440, 73450, 73460, 73470"
+    },
+    {
+      "city": "Rantau",
+      "city_slug": "rantau",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "71100, 71109, 71200, 71209"
+    },
+    {
+      "city": "Rembau",
+      "city_slug": "rembau",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "71300, 71309, 71400, 71409"
+    },
+    {
+      "city": "Rompin",
+      "city_slug": "rompin",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "73500, 73507, 73509"
+    },
+    {
+      "city": "Seremban",
+      "city_slug": "seremban",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 71,
+      "postcodes": "70000, 70100, 70200, 70300, 70400, 70450, 70500, 70502, 70503, 70504, 70505, 70506, 70508, 70512, 70516, 70517, 70518, 70532, 70534, 70536, 70540, 70546, 70548, 70550, 70551, 70558, 70560, 70564, 70570, 70572, 70576, 70578, 70582, 70586, 70590, 70592, 70594, 70596, 70600, 70604, 70606, 70608, 70609, 70610, 70620, 70626, 70628, 70632, 70634, 70644, 70646, 70648, 70658, 70664, 70670, 70672, 70673, 70674, 70676, 70690, 70700, 70710, 70720, 70730, 70740, 70750, 70990, 71450, 71459, 71770, 71950"
+    },
+    {
+      "city": "Si Rusa",
+      "city_slug": "si-rusa",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "71050, 71059, 71250, 71259"
+    },
+    {
+      "city": "Simpang Durian",
+      "city_slug": "simpang-durian",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "72400, 72409"
+    },
+    {
+      "city": "Simpang Pertang",
+      "city_slug": "simpang-pertang",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "72300, 72307, 72309"
+    },
+    {
+      "city": "Tampin",
+      "city_slug": "tampin",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "73000, 73007, 73009"
+    },
+    {
+      "city": "Tanjong Ipoh",
+      "city_slug": "tanjong-ipoh",
+      "state": "Negeri Sembilan",
+      "state_short": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "71500, 71509, 71550, 71559"
+    },
+    {
+      "city": "Balok",
+      "city_slug": "balok",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "26080, 26100, 26150, 26190"
+    },
+    {
+      "city": "Bandar Pusat Jengka",
+      "city_slug": "bandar-pusat-jengka",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 10,
+      "postcodes": "26400, 26410, 26420, 26430, 26440, 26450, 26460, 26485, 26490, 27080"
+    },
+    {
+      "city": "Bandar Tun Abdul Razak",
+      "city_slug": "bandar-tun-abdul-razak",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "26900, 26999"
+    },
+    {
+      "city": "Benta",
+      "city_slug": "benta",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "27300, 27310"
+    },
+    {
+      "city": "Bentong",
+      "city_slug": "bentong",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 6,
+      "postcodes": "28700, 28707, 28709, 28730, 28740, 28750"
+    },
+    {
+      "city": "Brinchang",
+      "city_slug": "brinchang",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "39100"
+    },
+    {
+      "city": "Bukit Fraser",
+      "city_slug": "bukit-fraser",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "49000"
+    },
+    {
+      "city": "Bukit Goh",
+      "city_slug": "bukit-goh",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "26050, 26090"
+    },
+    {
+      "city": "Chenor",
+      "city_slug": "chenor",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "28100"
+    },
+    {
+      "city": "Chini",
+      "city_slug": "chini",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "26690"
+    },
+    {
+      "city": "Damak",
+      "city_slug": "damak",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "27030"
+    },
+    {
+      "city": "Dong",
+      "city_slug": "dong",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "27400"
+    },
+    {
+      "city": "Gambang",
+      "city_slug": "gambang",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 8,
+      "postcodes": "26300, 26310, 26320, 26330, 26340, 26350, 26360, 26370"
+    },
+    {
+      "city": "Genting Highlands",
+      "city_slug": "genting-highlands",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "69000"
+    },
+    {
+      "city": "Jaya Gading",
+      "city_slug": "jaya-gading",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "26250"
+    },
+    {
+      "city": "Jerantut",
+      "city_slug": "jerantut",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 9,
+      "postcodes": "27000, 27010, 27020, 27040, 27050, 27060, 27070, 27090, 27150"
+    },
+    {
+      "city": "Karak",
+      "city_slug": "karak",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "28600, 28610, 28620"
+    },
+    {
+      "city": "Kemayan",
+      "city_slug": "kemayan",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "28340, 28380"
+    },
+    {
+      "city": "Kuala Krau",
+      "city_slug": "kuala-krau",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "28050"
+    },
+    {
+      "city": "Kuala Lipis",
+      "city_slug": "kuala-lipis",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "27200, 27207, 27209, 27210"
+    },
+    {
+      "city": "Kuala Rompin",
+      "city_slug": "kuala-rompin",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "26800, 26810, 26820"
+    },
+    {
+      "city": "Kuantan",
+      "city_slug": "kuantan",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 93,
+      "postcodes": "25000, 25020, 25040, 25050, 25100, 25150, 25200, 25250, 25300, 25320, 25350, 25500, 25502, 25503, 25504, 25505, 25506, 25508, 25509, 25512, 25514, 25516, 25517, 25518, 25520, 25524, 25529, 25532, 25534, 25536, 25538, 25540, 25546, 25548, 25550, 25551, 25552, 25556, 25558, 25560, 25564, 25570, 25576, 25578, 25582, 25584, 25586, 25590, 25592, 25594, 25596, 25598, 25600, 25604, 25606, 25608, 25609, 25610, 25612, 25614, 25620, 25622, 25626, 25628, 25630, 25632, 25644, 25646, 25648, 25656, 25660, 25661, 25662, 25670, 25672, 25673, 25674, 25676, 25690, 25700, 25710, 25720, 25730, 25740, 25750, 25990, 26000, 26010, 26040, 26060, 26070, 26140, 26180"
+    },
+    {
+      "city": "Lanchang",
+      "city_slug": "lanchang",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "28500"
+    },
+    {
+      "city": "Lurah Bilut",
+      "city_slug": "lurah-bilut",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "28800"
+    },
+    {
+      "city": "Maran",
+      "city_slug": "maran",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "26500"
+    },
+    {
+      "city": "Mentakab",
+      "city_slug": "mentakab",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "28400, 28407, 28409"
+    },
+    {
+      "city": "Muadzam Shah",
+      "city_slug": "muadzam-shah",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "26700"
+    },
+    {
+      "city": "Padang Tengku",
+      "city_slug": "padang-tengku",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "27100"
+    },
+    {
+      "city": "Pekan",
+      "city_slug": "pekan",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 10,
+      "postcodes": "26600, 26607, 26609, 26610, 26620, 26630, 26640, 26650, 26660, 26680"
+    },
+    {
+      "city": "Raub",
+      "city_slug": "raub",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 7,
+      "postcodes": "27600, 27607, 27609, 27610, 27620, 27630, 27670"
+    },
+    {
+      "city": "Ringlet",
+      "city_slug": "ringlet",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "39200"
+    },
+    {
+      "city": "Sega",
+      "city_slug": "sega",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "27660"
+    },
+    {
+      "city": "Sungai Koyan",
+      "city_slug": "sungai-koyan",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "27650"
+    },
+    {
+      "city": "Sungai Lembing",
+      "city_slug": "sungai-lembing",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "26200"
+    },
+    {
+      "city": "Sungai Ruan",
+      "city_slug": "sungai-ruan",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "27500"
+    },
+    {
+      "city": "Tanah Rata",
+      "city_slug": "tanah-rata",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "39000, 39007, 39009, 39010"
+    },
+    {
+      "city": "Temerloh",
+      "city_slug": "temerloh",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 7,
+      "postcodes": "28000, 28007, 28009, 28010, 28020, 28030, 28040"
+    },
+    {
+      "city": "Triang",
+      "city_slug": "triang",
+      "state": "Pahang",
+      "state_short": "Pahang",
+      "state_slug": "pahang",
+      "state_type": "negeri",
+      "postcode_count": 6,
+      "postcodes": "28200, 28300, 28310, 28320, 28330, 28350"
+    },
+    {
+      "city": "Ayer Tawar",
+      "city_slug": "ayer-tawar",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "32400"
+    },
+    {
+      "city": "Bagan Datoh",
+      "city_slug": "bagan-datoh",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "36100"
+    },
+    {
+      "city": "Bagan Serai",
+      "city_slug": "bagan-serai",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "34300, 34310"
+    },
+    {
+      "city": "Bandar Seri Iskandar",
+      "city_slug": "bandar-seri-iskandar",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "32610"
+    },
+    {
+      "city": "Batu Gajah",
+      "city_slug": "batu-gajah",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "31000, 31007, 31009"
+    },
+    {
+      "city": "Batu Kurau",
+      "city_slug": "batu-kurau",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "34500, 34510, 34520"
+    },
+    {
+      "city": "Behrang Stesen",
+      "city_slug": "behrang-stesen",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "35950"
+    },
+    {
+      "city": "Bidor",
+      "city_slug": "bidor",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "35500"
+    },
+    {
+      "city": "Bota",
+      "city_slug": "bota",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "32600"
+    },
+    {
+      "city": "Bruas",
+      "city_slug": "bruas",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "32700"
+    },
+    {
+      "city": "Changkat Jering",
+      "city_slug": "changkat-jering",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "34850"
+    },
+    {
+      "city": "Changkat Keruing",
+      "city_slug": "changkat-keruing",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "32500"
+    },
+    {
+      "city": "Chemor",
+      "city_slug": "chemor",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "31200"
+    },
+    {
+      "city": "Chenderiang",
+      "city_slug": "chenderiang",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "35300"
+    },
+    {
+      "city": "Chenderong Balai",
+      "city_slug": "chenderong-balai",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "36600"
+    },
+    {
+      "city": "Chikus",
+      "city_slug": "chikus",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "36750"
+    },
+    {
+      "city": "Enggor",
+      "city_slug": "enggor",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "33600"
+    },
+    {
+      "city": "Gerik",
+      "city_slug": "gerik",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "33300, 33310, 33320"
+    },
+    {
+      "city": "Gopeng",
+      "city_slug": "gopeng",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "31600, 31610"
+    },
+    {
+      "city": "Hutan Melintang",
+      "city_slug": "hutan-melintang",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "36400"
+    },
+    {
+      "city": "Intan",
+      "city_slug": "intan",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "33200"
+    },
+    {
+      "city": "Ipoh",
+      "city_slug": "ipoh",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 112,
+      "postcodes": "30000, 30010, 30020, 30100, 30200, 30205, 30250, 30300, 30350, 30400, 30450, 30500, 30502, 30503, 30504, 30505, 30506, 30508, 30510, 30512, 30516, 30517, 30518, 30519, 30520, 30524, 30532, 30534, 30536, 30540, 30542, 30546, 30548, 30550, 30551, 30552, 30554, 30556, 30560, 30564, 30570, 30576, 30580, 30582, 30586, 30590, 30592, 30594, 30596, 30600, 30604, 30606, 30609, 30610, 30612, 30614, 30620, 30621, 30622, 30626, 30628, 30630, 30632, 30634, 30644, 30646, 30648, 30656, 30658, 30660, 30661, 30662, 30664, 30668, 30670, 30673, 30674, 30676, 30682, 30690, 30700, 30710, 30720, 30730, 30740, 30750, 30760, 30770, 30780, 30790, 30800, 30810, 30820, 30830, 30840, 30900, 30902, 30904, 30906, 30908, 30910, 30912, 30988, 30990, 31350, 31400, 31407, 31409, 31450, 31500, 31650, 31672"
+    },
+    {
+      "city": "Jeram",
+      "city_slug": "jeram",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "31850"
+    },
+    {
+      "city": "Kampar",
+      "city_slug": "kampar",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 6,
+      "postcodes": "31900, 31907, 31909, 31910, 31920, 31950"
+    },
+    {
+      "city": "Kampung Gajah",
+      "city_slug": "kampung-gajah",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "36800, 36810"
+    },
+    {
+      "city": "Kampung Kepayang",
+      "city_slug": "kampung-kepayang",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "31300"
+    },
+    {
+      "city": "Kamunting",
+      "city_slug": "kamunting",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "34600"
+    },
+    {
+      "city": "Kuala Kangsar",
+      "city_slug": "kuala-kangsar",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 7,
+      "postcodes": "33000, 33007, 33009, 33010, 33020, 33030, 33040"
+    },
+    {
+      "city": "Kuala Kurau",
+      "city_slug": "kuala-kurau",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "34350"
+    },
+    {
+      "city": "Kuala Sepetang",
+      "city_slug": "kuala-sepetang",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "34650"
+    },
+    {
+      "city": "Lambor Kanan",
+      "city_slug": "lambor-kanan",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "32900, 32999"
+    },
+    {
+      "city": "Langkap",
+      "city_slug": "langkap",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "36700"
+    },
+    {
+      "city": "Lenggong",
+      "city_slug": "lenggong",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "33400, 33410, 33420"
+    },
+    {
+      "city": "Lumut",
+      "city_slug": "lumut",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "32200"
+    },
+    {
+      "city": "Malim Nawar",
+      "city_slug": "malim-nawar",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "31700"
+    },
+    {
+      "city": "Manong",
+      "city_slug": "manong",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "33800"
+    },
+    {
+      "city": "Matang",
+      "city_slug": "matang",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "34750"
+    },
+    {
+      "city": "Padang Rengas",
+      "city_slug": "padang-rengas",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "33700"
+    },
+    {
+      "city": "Pangkor",
+      "city_slug": "pangkor",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "32300"
+    },
+    {
+      "city": "Pantai Remis",
+      "city_slug": "pantai-remis",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "34900, 34910"
+    },
+    {
+      "city": "Parit",
+      "city_slug": "parit",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "32800, 32810"
+    },
+    {
+      "city": "Parit Buntar",
+      "city_slug": "parit-buntar",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "34200"
+    },
+    {
+      "city": "Pengkalan Hulu",
+      "city_slug": "pengkalan-hulu",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "33100"
+    },
+    {
+      "city": "Pusing",
+      "city_slug": "pusing",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "31550, 31560"
+    },
+    {
+      "city": "Rantau Panjang",
+      "city_slug": "rantau-panjang",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "34140"
+    },
+    {
+      "city": "Sauk",
+      "city_slug": "sauk",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "33500"
+    },
+    {
+      "city": "Selama",
+      "city_slug": "selama",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "34100, 34120, 34130"
+    },
+    {
+      "city": "Selekoh",
+      "city_slug": "selekoh",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "36200, 36207, 36209"
+    },
+    {
+      "city": "Seri Manjung",
+      "city_slug": "seri-manjung",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "32040, 32050"
+    },
+    {
+      "city": "Simpang",
+      "city_slug": "simpang",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "34700"
+    },
+    {
+      "city": "Simpang Ampat Semanggol",
+      "city_slug": "simpang-ampat-semanggol",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "34400"
+    },
+    {
+      "city": "Sitiawan",
+      "city_slug": "sitiawan",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "32000, 32010, 32020"
+    },
+    {
+      "city": "Slim River",
+      "city_slug": "slim-river",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "35800, 35820"
+    },
+    {
+      "city": "Sungai Siput",
+      "city_slug": "sungai-siput",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "31050, 31100, 31120"
+    },
+    {
+      "city": "Sungai Sumun",
+      "city_slug": "sungai-sumun",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "36300, 36307, 36309"
+    },
+    {
+      "city": "Sungkai",
+      "city_slug": "sungkai",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "35600"
+    },
+    {
+      "city": "Taiping",
+      "city_slug": "taiping",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 7,
+      "postcodes": "34000, 34007, 34008, 34009, 34010, 34020, 34030"
+    },
+    {
+      "city": "Tanjong Malim",
+      "city_slug": "tanjong-malim",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "35900, 35907, 35909, 35910"
+    },
+    {
+      "city": "Tanjong Piandang",
+      "city_slug": "tanjong-piandang",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "34250"
+    },
+    {
+      "city": "Tanjong Rambutan",
+      "city_slug": "tanjong-rambutan",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "31250"
+    },
+    {
+      "city": "Tanjong Tualang",
+      "city_slug": "tanjong-tualang",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "31800"
+    },
+    {
+      "city": "Tapah",
+      "city_slug": "tapah",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "35000, 35007, 35009"
+    },
+    {
+      "city": "Tapah Road",
+      "city_slug": "tapah-road",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "35400"
+    },
+    {
+      "city": "Teluk Intan",
+      "city_slug": "teluk-intan",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 8,
+      "postcodes": "36000, 36007, 36008, 36009, 36010, 36020, 36030, 36110"
+    },
+    {
+      "city": "Temoh",
+      "city_slug": "temoh",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "35350"
+    },
+    {
+      "city": "TLDM Lumut",
+      "city_slug": "tldm-lumut",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "32100"
+    },
+    {
+      "city": "Trolak",
+      "city_slug": "trolak",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "35700"
+    },
+    {
+      "city": "Trong",
+      "city_slug": "trong",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "34800"
+    },
+    {
+      "city": "Tronoh",
+      "city_slug": "tronoh",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "31750"
+    },
+    {
+      "city": "Ulu Bernam",
+      "city_slug": "ulu-bernam",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "36500"
+    },
+    {
+      "city": "Ulu Kinta",
+      "city_slug": "ulu-kinta",
+      "state": "Perak",
+      "state_short": "Perak",
+      "state_slug": "perak",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "31150, 31199"
+    },
+    {
+      "city": "Arau",
+      "city_slug": "arau",
+      "state": "Perlis",
+      "state_short": "Perlis",
+      "state_slug": "perlis",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "02600, 02607, 02609"
+    },
+    {
+      "city": "Kaki Bukit",
+      "city_slug": "kaki-bukit",
+      "state": "Perlis",
+      "state_short": "Perlis",
+      "state_slug": "perlis",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "02200"
+    },
+    {
+      "city": "Kangar",
+      "city_slug": "kangar",
+      "state": "Perlis",
+      "state_short": "Perlis",
+      "state_slug": "perlis",
+      "state_type": "negeri",
+      "postcode_count": 67,
+      "postcodes": "01000, 01007, 01009, 01500, 01502, 01503, 01504, 01505, 01506, 01508, 01512, 01514, 01516, 01517, 01518, 01524, 01529, 01532, 01538, 01540, 01546, 01550, 01551, 01556, 01560, 01564, 01570, 01572, 01576, 01578, 01582, 01586, 01590, 01592, 01594, 01596, 01598, 01600, 01604, 01606, 01608, 01609, 01610, 01612, 01614, 01620, 01622, 01626, 01628, 01630, 01632, 01634, 01644, 01646, 01648, 01660, 01664, 01670, 01672, 01673, 01674, 01676, 01680, 01694, 02400, 02450, 02500"
+    },
+    {
+      "city": "Kuala Perlis",
+      "city_slug": "kuala-perlis",
+      "state": "Perlis",
+      "state_short": "Perlis",
+      "state_slug": "perlis",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "02000"
+    },
+    {
+      "city": "Padang Besar",
+      "city_slug": "padang-besar",
+      "state": "Perlis",
+      "state_short": "Perlis",
+      "state_slug": "perlis",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "02100"
+    },
+    {
+      "city": "Simpang Ampat",
+      "city_slug": "simpang-ampat",
+      "state": "Perlis",
+      "state_short": "Perlis",
+      "state_slug": "perlis",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "02700, 02707, 02709, 02800"
+    },
+    {
+      "city": "Ayer Itam",
+      "city_slug": "ayer-itam",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "11500"
+    },
+    {
+      "city": "Balik Pulau",
+      "city_slug": "balik-pulau",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "11000, 11010, 11020"
+    },
+    {
+      "city": "Batu Ferringhi",
+      "city_slug": "batu-ferringhi",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "11100"
+    },
+    {
+      "city": "Batu Maung",
+      "city_slug": "batu-maung",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "11960"
+    },
+    {
+      "city": "Bayan Lepas",
+      "city_slug": "bayan-lepas",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "11900, 11910, 11920, 11950"
+    },
+    {
+      "city": "Bukit Mertajam",
+      "city_slug": "bukit-mertajam",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "14000, 14007, 14009, 14020"
+    },
+    {
+      "city": "Butterworth",
+      "city_slug": "butterworth",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 15,
+      "postcodes": "12000, 12100, 12200, 12300, 12700, 12710, 12720, 12990, 13000, 13009, 13020, 13050, 13400, 13409, 13800"
+    },
+    {
+      "city": "Gelugor",
+      "city_slug": "gelugor",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "11700"
+    },
+    {
+      "city": "Jelutong",
+      "city_slug": "jelutong",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "11600, 11609"
+    },
+    {
+      "city": "Kepala Batas",
+      "city_slug": "kepala-batas",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "13200, 13210, 13220"
+    },
+    {
+      "city": "Kubang Semang",
+      "city_slug": "kubang-semang",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "14400"
+    },
+    {
+      "city": "Nibong Tebal",
+      "city_slug": "nibong-tebal",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "14300, 14310, 14320"
+    },
+    {
+      "city": "Penaga",
+      "city_slug": "penaga",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "13100, 13110"
+    },
+    {
+      "city": "Penang Hill",
+      "city_slug": "penang-hill",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "11300"
+    },
+    {
+      "city": "Perai",
+      "city_slug": "perai",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "13600, 13700"
+    },
+    {
+      "city": "Permatang Pauh",
+      "city_slug": "permatang-pauh",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "13500"
+    },
+    {
+      "city": "Pulau Pinang",
+      "city_slug": "pulau-pinang",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 88,
+      "postcodes": "10000, 10050, 10100, 10150, 10200, 10250, 10300, 10350, 10400, 10450, 10460, 10470, 10500, 10502, 10503, 10504, 10505, 10506, 10508, 10512, 10514, 10516, 10518, 10524, 10534, 10538, 10540, 10542, 10546, 10550, 10551, 10552, 10558, 10560, 10564, 10566, 10570, 10576, 10578, 10582, 10590, 10592, 10593, 10594, 10596, 10600, 10604, 10609, 10610, 10612, 10620, 10622, 10626, 10628, 10634, 10646, 10648, 10660, 10661, 10662, 10670, 10672, 10673, 10674, 10676, 10690, 10710, 10720, 10730, 10740, 10750, 10760, 10770, 10780, 10790, 10800, 10810, 10820, 10830, 10840, 10850, 10910, 10920, 10990, 11050, 11060, 11400, 11409"
+    },
+    {
+      "city": "Simpang Ampat",
+      "city_slug": "simpang-ampat",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "14100, 14101, 14110, 14120"
+    },
+    {
+      "city": "Sungai Jawi",
+      "city_slug": "sungai-jawi",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "14200"
+    },
+    {
+      "city": "Tanjong Bungah",
+      "city_slug": "tanjong-bungah",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "11200"
+    },
+    {
+      "city": "Tasek Gelugor",
+      "city_slug": "tasek-gelugor",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "13300, 13310"
+    },
+    {
+      "city": "Usm Pulau Pinang",
+      "city_slug": "usm-pulau-pinang",
+      "state": "Pulau Pinang",
+      "state_short": "Pulau Pinang",
+      "state_slug": "pulau-pinang",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "11800"
+    },
+    {
+      "city": "Beaufort",
+      "city_slug": "beaufort",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89800, 89807, 89808, 89809"
+    },
+    {
+      "city": "Beluran",
+      "city_slug": "beluran",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "90100, 90107, 90109"
+    },
+    {
+      "city": "Beverly",
+      "city_slug": "beverly",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "88700, 89260"
+    },
+    {
+      "city": "Bongawan",
+      "city_slug": "bongawan",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89700, 89707, 89708, 89709"
+    },
+    {
+      "city": "Inanam",
+      "city_slug": "inanam",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "88857"
+    },
+    {
+      "city": "Keningau",
+      "city_slug": "keningau",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89000, 89007, 89008, 89009"
+    },
+    {
+      "city": "Kota Belud",
+      "city_slug": "kota-belud",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89150, 89157, 89158, 89159"
+    },
+    {
+      "city": "Kota Kinabalu",
+      "city_slug": "kota-kinabalu",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 211,
+      "postcodes": "88000, 88100, 88110, 88150, 88200, 88220, 88300, 88400, 88450, 88458, 88460, 88500, 88502, 88504, 88505, 88506, 88508, 88510, 88512, 88514, 88516, 88518, 88520, 88526, 88527, 88532, 88534, 88538, 88540, 88546, 88550, 88551, 88552, 88554, 88556, 88558, 88560, 88562, 88564, 88566, 88568, 88570, 88572, 88576, 88580, 88582, 88586, 88590, 88592, 88594, 88596, 88598, 88600, 88602, 88604, 88606, 88608, 88609, 88610, 88612, 88614, 88617, 88618, 88620, 88621, 88622, 88624, 88626, 88628, 88630, 88632, 88634, 88644, 88646, 88648, 88656, 88658, 88660, 88661, 88662, 88670, 88672, 88673, 88675, 88676, 88680, 88690, 88740, 88757, 88758, 88759, 88760, 88761, 88762, 88763, 88764, 88765, 88766, 88767, 88768, 88769, 88770, 88771, 88772, 88773, 88774, 88775, 88776, 88777, 88778, 88779, 88780, 88781, 88782, 88783, 88784, 88785, 88786, 88787, 88788, 88789, 88790, 88800, 88801, 88802, 88803, 88804, 88805, 88806, 88807, 88808, 88809, 88810, 88811, 88812, 88813, 88814, 88815, 88816, 88817, 88818, 88819, 88820, 88821, 88822, 88823, 88824, 88825, 88826, 88827, 88828, 88829, 88830, 88831, 88832, 88833, 88834, 88835, 88836, 88837, 88838, 88839, 88840, 88841, 88842, 88843, 88844, 88845, 88846, 88847, 88848, 88849, 88850, 88851, 88852, 88853, 88854, 88855, 88860, 88861, 88862, 88863, 88865, 88866, 88867, 88868, 88869, 88870, 88871, 88872, 88873, 88874, 88875, 88900, 88901, 88902, 88903, 88904, 88905, 88906, 88988, 88990, 88991, 88992, 88993, 88994, 88995, 88996, 88997, 88998, 88999"
+    },
+    {
+      "city": "Kota Kinabatangan",
+      "city_slug": "kota-kinabatangan",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "90200"
+    },
+    {
+      "city": "Kota Marudu",
+      "city_slug": "kota-marudu",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89100, 89107, 89108, 89109"
+    },
+    {
+      "city": "Kuala Penyu",
+      "city_slug": "kuala-penyu",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89740, 89747, 89748, 89749"
+    },
+    {
+      "city": "Kudat",
+      "city_slug": "kudat",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89050, 89057, 89058, 89059"
+    },
+    {
+      "city": "Kunak",
+      "city_slug": "kunak",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "91200, 91207, 91209"
+    },
+    {
+      "city": "Lahad Datu",
+      "city_slug": "lahad-datu",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 23,
+      "postcodes": "91100, 91108, 91109, 91110, 91111, 91112, 91113, 91114, 91115, 91116, 91117, 91118, 91119, 91120, 91121, 91122, 91123, 91124, 91125, 91126, 91127, 91128, 91150"
+    },
+    {
+      "city": "Likas",
+      "city_slug": "likas",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "88856"
+    },
+    {
+      "city": "Membakut",
+      "city_slug": "membakut",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89720, 89727, 89728, 89729"
+    },
+    {
+      "city": "Menumbok",
+      "city_slug": "menumbok",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89760, 89767, 89768, 89769"
+    },
+    {
+      "city": "Nabawan",
+      "city_slug": "nabawan",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89950, 89957, 89958, 89959"
+    },
+    {
+      "city": "Pamol",
+      "city_slug": "pamol",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "90400"
+    },
+    {
+      "city": "Papar",
+      "city_slug": "papar",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89600, 89607, 89608, 89609"
+    },
+    {
+      "city": "Penampang",
+      "city_slug": "penampang",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89500, 89507, 89508, 89509"
+    },
+    {
+      "city": "Putatan",
+      "city_slug": "putatan",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 5,
+      "postcodes": "88721, 88722, 88723, 88724, 88725"
+    },
+    {
+      "city": "Ranau",
+      "city_slug": "ranau",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 7,
+      "postcodes": "89300, 89307, 89308, 89309, 89320, 89350, 89357"
+    },
+    {
+      "city": "Sandakan",
+      "city_slug": "sandakan",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 46,
+      "postcodes": "90000, 90008, 90009, 90300, 90307, 90700, 90701, 90702, 90703, 90704, 90705, 90706, 90707, 90708, 90709, 90711, 90712, 90713, 90714, 90715, 90716, 90717, 90718, 90719, 90720, 90721, 90722, 90723, 90724, 90725, 90726, 90727, 90728, 90729, 90730, 90731, 90732, 90733, 90734, 90735, 90736, 90737, 90738, 90739, 90740, 90741"
+    },
+    {
+      "city": "Semporna",
+      "city_slug": "semporna",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "91300, 91307, 91308, 91309"
+    },
+    {
+      "city": "Sipitang",
+      "city_slug": "sipitang",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89850, 89857, 89858, 89859"
+    },
+    {
+      "city": "Tambunan",
+      "city_slug": "tambunan",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89650, 89657, 89658, 89659"
+    },
+    {
+      "city": "Tamparuli",
+      "city_slug": "tamparuli",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89250, 89257, 89258, 89259"
+    },
+    {
+      "city": "Tanjung Aru",
+      "city_slug": "tanjung-aru",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "88858"
+    },
+    {
+      "city": "Tawau",
+      "city_slug": "tawau",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 32,
+      "postcodes": "91000, 91007, 91008, 91009, 91010, 91011, 91012, 91013, 91014, 91015, 91016, 91017, 91018, 91019, 91020, 91021, 91022, 91023, 91024, 91025, 91026, 91027, 91028, 91029, 91030, 91031, 91032, 91033, 91034, 91035, 91045, 91056"
+    },
+    {
+      "city": "Tenghilan",
+      "city_slug": "tenghilan",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "89260"
+    },
+    {
+      "city": "Tenom",
+      "city_slug": "tenom",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89900, 89907, 89908, 89909"
+    },
+    {
+      "city": "Tuaran",
+      "city_slug": "tuaran",
+      "state": "Sabah",
+      "state_short": "Sabah",
+      "state_slug": "sabah",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "89200, 89207, 89208, 89209"
+    },
+    {
+      "city": "Asajaya",
+      "city_slug": "asajaya",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "94600"
+    },
+    {
+      "city": "Balingian",
+      "city_slug": "balingian",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "96350"
+    },
+    {
+      "city": "Baram",
+      "city_slug": "baram",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "98050, 98057, 98058, 98059"
+    },
+    {
+      "city": "Bau",
+      "city_slug": "bau",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "94000, 94007, 94009"
+    },
+    {
+      "city": "Bekenu",
+      "city_slug": "bekenu",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "98150, 98157, 98159"
+    },
+    {
+      "city": "Belaga",
+      "city_slug": "belaga",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "96900, 96950, 96999"
+    },
+    {
+      "city": "Belawai",
+      "city_slug": "belawai",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "96150"
+    },
+    {
+      "city": "Betong",
+      "city_slug": "betong",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "95700, 95707, 95709"
+    },
+    {
+      "city": "Bintangor",
+      "city_slug": "bintangor",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 5,
+      "postcodes": "96500, 96507, 96508, 96509, 96510"
+    },
+    {
+      "city": "Bintulu",
+      "city_slug": "bintulu",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 12,
+      "postcodes": "97000, 97004, 97007, 97008, 97009, 97010, 97011, 97012, 97013, 97014, 97015, 97300"
+    },
+    {
+      "city": "Dalat",
+      "city_slug": "dalat",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "96300, 96307, 96309"
+    },
+    {
+      "city": "Daro",
+      "city_slug": "daro",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "96200"
+    },
+    {
+      "city": "Debak",
+      "city_slug": "debak",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "95500"
+    },
+    {
+      "city": "Engkilili",
+      "city_slug": "engkilili",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "95800"
+    },
+    {
+      "city": "Julau",
+      "city_slug": "julau",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "96600"
+    },
+    {
+      "city": "Kabong",
+      "city_slug": "kabong",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "94650"
+    },
+    {
+      "city": "Kanowit",
+      "city_slug": "kanowit",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "96700, 96707, 96709"
+    },
+    {
+      "city": "Kapit",
+      "city_slug": "kapit",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "96800, 96807, 96809"
+    },
+    {
+      "city": "Kota Samarahan",
+      "city_slug": "kota-samarahan",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "94300"
+    },
+    {
+      "city": "Kuching",
+      "city_slug": "kuching",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 118,
+      "postcodes": "93000, 93010, 93030, 93050, 93100, 93150, 93200, 93250, 93300, 93350, 93400, 93450, 93500, 93502, 93503, 93504, 93505, 93506, 93507, 93508, 93514, 93516, 93517, 93518, 93519, 93520, 93527, 93529, 93532, 93540, 93550, 93551, 93552, 93554, 93556, 93558, 93560, 93564, 93566, 93570, 93572, 93576, 93578, 93582, 93586, 93590, 93592, 93594, 93596, 93600, 93604, 93606, 93608, 93609, 93610, 93612, 93614, 93618, 93619, 93620, 93626, 93628, 93632, 93634, 93648, 93658, 93660, 93661, 93662, 93668, 93670, 93672, 93677, 93690, 93694, 93700, 93702, 93704, 93706, 93708, 93710, 93712, 93714, 93716, 93718, 93720, 93722, 93724, 93726, 93728, 93730, 93732, 93734, 93736, 93738, 93740, 93742, 93744, 93746, 93748, 93750, 93752, 93754, 93756, 93758, 93760, 93762, 93764, 93900, 93902, 93904, 93906, 93908, 93910, 93912, 93914, 93916, 93990"
+    },
+    {
+      "city": "Lawas",
+      "city_slug": "lawas",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "98850, 98857, 98859"
+    },
+    {
+      "city": "Limbang",
+      "city_slug": "limbang",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "98700, 98707, 98708, 98709"
+    },
+    {
+      "city": "Lingga",
+      "city_slug": "lingga",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "94900"
+    },
+    {
+      "city": "Long Lama",
+      "city_slug": "long-lama",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "98300"
+    },
+    {
+      "city": "Lubok Antu",
+      "city_slug": "lubok-antu",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "95900"
+    },
+    {
+      "city": "Lundu",
+      "city_slug": "lundu",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "94500, 94507, 94509"
+    },
+    {
+      "city": "Lutong",
+      "city_slug": "lutong",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "98100, 98107, 98109"
+    },
+    {
+      "city": "Matu",
+      "city_slug": "matu",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "96250"
+    },
+    {
+      "city": "Miri",
+      "city_slug": "miri",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "98000, 98007, 98008, 98009"
+    },
+    {
+      "city": "Mukah",
+      "city_slug": "mukah",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "96400, 96410"
+    },
+    {
+      "city": "Nanga Medamit",
+      "city_slug": "nanga-medamit",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "98750"
+    },
+    {
+      "city": "Niah",
+      "city_slug": "niah",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "98200"
+    },
+    {
+      "city": "Pusa",
+      "city_slug": "pusa",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "94950"
+    },
+    {
+      "city": "Pusat Mel Miri",
+      "city_slug": "pusat-mel-miri",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "98070"
+    },
+    {
+      "city": "Roban",
+      "city_slug": "roban",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "95300"
+    },
+    {
+      "city": "Saratok",
+      "city_slug": "saratok",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "95400, 95407, 95409"
+    },
+    {
+      "city": "Sarikei",
+      "city_slug": "sarikei",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "96100, 96107, 96108, 96109"
+    },
+    {
+      "city": "Sebauh",
+      "city_slug": "sebauh",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "97100"
+    },
+    {
+      "city": "Sebuyau",
+      "city_slug": "sebuyau",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "94850"
+    },
+    {
+      "city": "Serian",
+      "city_slug": "serian",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 5,
+      "postcodes": "94700, 94707, 94709, 94750, 94760"
+    },
+    {
+      "city": "Sibu",
+      "city_slug": "sibu",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "96000, 96007, 96008, 96009"
+    },
+    {
+      "city": "Sibu Jaya",
+      "city_slug": "sibu-jaya",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "96010"
+    },
+    {
+      "city": "Siburan",
+      "city_slug": "siburan",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "94200"
+    },
+    {
+      "city": "Simunjan",
+      "city_slug": "simunjan",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "94800, 94807, 94809"
+    },
+    {
+      "city": "Song",
+      "city_slug": "song",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "96850"
+    },
+    {
+      "city": "Spaoh",
+      "city_slug": "spaoh",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "95600"
+    },
+    {
+      "city": "Sri Aman",
+      "city_slug": "sri-aman",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "95000, 95007, 95008, 95009"
+    },
+    {
+      "city": "Sundar",
+      "city_slug": "sundar",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "98800"
+    },
+    {
+      "city": "Tatau",
+      "city_slug": "tatau",
+      "state": "Sarawak",
+      "state_short": "Sarawak",
+      "state_slug": "sarawak",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "97200"
+    },
+    {
+      "city": "Ampang",
+      "city_slug": "ampang",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "68000"
+    },
+    {
+      "city": "Bandar Baru Bangi",
+      "city_slug": "bandar-baru-bangi",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "43650"
+    },
+    {
+      "city": "Bandar Puncak Alam",
+      "city_slug": "bandar-puncak-alam",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "42300"
+    },
+    {
+      "city": "Bangi",
+      "city_slug": "bangi",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "43600"
+    },
+    {
+      "city": "Banting",
+      "city_slug": "banting",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "42700"
+    },
+    {
+      "city": "Batang Berjuntai",
+      "city_slug": "batang-berjuntai",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 5,
+      "postcodes": "45600, 45607, 45609, 45620, 45630"
+    },
+    {
+      "city": "Batang Kali",
+      "city_slug": "batang-kali",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "44300, 44309, 44330"
+    },
+    {
+      "city": "Batu Caves",
+      "city_slug": "batu-caves",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "68100"
+    },
+    {
+      "city": "Beranang",
+      "city_slug": "beranang",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "43700, 43701"
+    },
+    {
+      "city": "Bukit Rotan",
+      "city_slug": "bukit-rotan",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "45700"
+    },
+    {
+      "city": "Cheras",
+      "city_slug": "cheras",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "43200, 43207"
+    },
+    {
+      "city": "Cyberjaya",
+      "city_slug": "cyberjaya",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "63000, 63100, 63200, 63300"
+    },
+    {
+      "city": "Dengkil",
+      "city_slug": "dengkil",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "43800, 43807"
+    },
+    {
+      "city": "Hulu Langat",
+      "city_slug": "hulu-langat",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "43100"
+    },
+    {
+      "city": "Jenjarom",
+      "city_slug": "jenjarom",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "42600, 42610, 42619"
+    },
+    {
+      "city": "Jeram",
+      "city_slug": "jeram",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "45800"
+    },
+    {
+      "city": "Kajang",
+      "city_slug": "kajang",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "43000, 43007, 43009, 43558"
+    },
+    {
+      "city": "Kapar",
+      "city_slug": "kapar",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "42200, 42209"
+    },
+    {
+      "city": "Kerling",
+      "city_slug": "kerling",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "44100"
+    },
+    {
+      "city": "Klang",
+      "city_slug": "klang",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 39,
+      "postcodes": "41000, 41050, 41070, 41100, 41150, 41160, 41200, 41205, 41250, 41299, 41300, 41301, 41400, 41500, 41506, 41560, 41586, 41600, 41670, 41672, 41700, 41710, 41720, 41730, 41750, 41780, 41900, 41902, 41904, 41906, 41908, 41910, 41912, 41914, 41916, 41918, 41990, 42100, 42150"
+    },
+    {
+      "city": "KLIA",
+      "city_slug": "klia",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "64000"
+    },
+    {
+      "city": "Kuala Kubu Baru",
+      "city_slug": "kuala-kubu-baru",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "44000, 44010, 44020, 44110"
+    },
+    {
+      "city": "Kuala Selangor",
+      "city_slug": "kuala-selangor",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "45000, 45010"
+    },
+    {
+      "city": "Pelabuhan Klang",
+      "city_slug": "pelabuhan-klang",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "42000, 42007, 42008, 42009"
+    },
+    {
+      "city": "Petaling Jaya",
+      "city_slug": "petaling-jaya",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 93,
+      "postcodes": "46000, 46040, 46050, 46080, 46100, 46150, 46160, 46200, 46300, 46350, 46400, 46460, 46500, 46505, 46506, 46510, 46547, 46549, 46551, 46564, 46582, 46598, 46662, 46667, 46668, 46672, 46675, 46692, 46700, 46710, 46720, 46730, 46740, 46750, 46760, 46770, 46780, 46781, 46782, 46783, 46784, 46785, 46786, 46787, 46788, 46789, 46790, 46791, 46792, 46793, 46794, 46795, 46796, 46797, 46798, 46799, 46800, 46801, 46802, 46803, 46804, 46805, 46806, 46860, 46870, 46960, 46962, 46964, 46966, 46968, 46970, 46972, 46974, 46976, 46978, 46990, 47300, 47301, 47304, 47307, 47308, 47309, 47310, 47400, 47410, 47430, 47800, 47801, 47810, 47820, 47829, 47830, 47850"
+    },
+    {
+      "city": "Puchong",
+      "city_slug": "puchong",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 10,
+      "postcodes": "47100, 47110, 47120, 47130, 47140, 47150, 47160, 47170, 47180, 47190"
+    },
+    {
+      "city": "Pulau Carey",
+      "city_slug": "pulau-carey",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "42960, 42999"
+    },
+    {
+      "city": "Pulau Indah",
+      "city_slug": "pulau-indah",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "42900, 42907, 42920"
+    },
+    {
+      "city": "Pulau Ketam",
+      "city_slug": "pulau-ketam",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "42940"
+    },
+    {
+      "city": "Rasa",
+      "city_slug": "rasa",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "44200"
+    },
+    {
+      "city": "Rawang",
+      "city_slug": "rawang",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 8,
+      "postcodes": "48000, 48009, 48010, 48020, 48050, 48100, 48300, 48302"
+    },
+    {
+      "city": "Sabak Bernam",
+      "city_slug": "sabak-bernam",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "45200, 45207, 45209"
+    },
+    {
+      "city": "Sekinchan",
+      "city_slug": "sekinchan",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "45400"
+    },
+    {
+      "city": "Semenyih",
+      "city_slug": "semenyih",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "43500"
+    },
+    {
+      "city": "Sepang",
+      "city_slug": "sepang",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "43900"
+    },
+    {
+      "city": "Serdang",
+      "city_slug": "serdang",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "43400"
+    },
+    {
+      "city": "Serendah",
+      "city_slug": "serendah",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "48200, 48250"
+    },
+    {
+      "city": "Seri Kembangan",
+      "city_slug": "seri-kembangan",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "43300, 43399"
+    },
+    {
+      "city": "Shah Alam",
+      "city_slug": "shah-alam",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 96,
+      "postcodes": "40000, 40100, 40140, 40150, 40160, 40169, 40170, 40179, 40200, 40250, 40300, 40350, 40400, 40409, 40410, 40440, 40450, 40460, 40470, 40490, 40500, 40502, 40503, 40505, 40512, 40517, 40520, 40529, 40542, 40548, 40550, 40551, 40560, 40564, 40570, 40572, 40576, 40578, 40582, 40590, 40592, 40594, 40596, 40598, 40600, 40604, 40607, 40608, 40610, 40612, 40620, 40622, 40626, 40630, 40632, 40646, 40648, 40650, 40660, 40664, 40670, 40672, 40673, 40674, 40675, 40676, 40680, 40690, 40700, 40702, 40704, 40706, 40708, 40710, 40712, 40714, 40716, 40718, 40720, 40722, 40724, 40726, 40728, 40730, 40732, 40800, 40802, 40804, 40806, 40808, 40810, 40900, 40912, 40915, 40990, 42450"
+    },
+    {
+      "city": "Subang Airport",
+      "city_slug": "subang-airport",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "47200, 47210"
+    },
+    {
+      "city": "Subang Jaya",
+      "city_slug": "subang-jaya",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 12,
+      "postcodes": "47500, 47507, 47510, 47600, 47601, 47610, 47618, 47620, 47630, 47640, 47650, 55555"
+    },
+    {
+      "city": "Sungai Ayer Tawar",
+      "city_slug": "sungai-ayer-tawar",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "45100"
+    },
+    {
+      "city": "Sungai Besar",
+      "city_slug": "sungai-besar",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "45300"
+    },
+    {
+      "city": "Sungai Buloh",
+      "city_slug": "sungai-buloh",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "47000, 47020, 47031"
+    },
+    {
+      "city": "Sungai Pelek",
+      "city_slug": "sungai-pelek",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "43950, 43999"
+    },
+    {
+      "city": "Tanjong Karang",
+      "city_slug": "tanjong-karang",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "45500"
+    },
+    {
+      "city": "Tanjong Sepat",
+      "city_slug": "tanjong-sepat",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "42800"
+    },
+    {
+      "city": "Telok Panglima Garang",
+      "city_slug": "telok-panglima-garang",
+      "state": "Selangor",
+      "state_short": "Selangor",
+      "state_slug": "selangor",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "42425, 42500, 42507, 42509"
+    },
+    {
+      "city": "Ajil",
+      "city_slug": "ajil",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "21800, 21810, 21820"
+    },
+    {
+      "city": "Al Muktatfi Billah Shah",
+      "city_slug": "al-muktatfi-billah-shah",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "23400"
+    },
+    {
+      "city": "Ayer Puteh",
+      "city_slug": "ayer-puteh",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "24050"
+    },
+    {
+      "city": "Bukit Besi",
+      "city_slug": "bukit-besi",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "23200"
+    },
+    {
+      "city": "Bukit Payong",
+      "city_slug": "bukit-payong",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "21400"
+    },
+    {
+      "city": "Ceneh",
+      "city_slug": "ceneh",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "24060"
+    },
+    {
+      "city": "Chalok",
+      "city_slug": "chalok",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "21450"
+    },
+    {
+      "city": "Cukai",
+      "city_slug": "cukai",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 7,
+      "postcodes": "24000, 24007, 24009, 24010, 24020, 24030, 24040"
+    },
+    {
+      "city": "Dungun",
+      "city_slug": "dungun",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 4,
+      "postcodes": "23000, 23007, 23009, 23050"
+    },
+    {
+      "city": "Jerteh",
+      "city_slug": "jerteh",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 5,
+      "postcodes": "22000, 22010, 22020, 22030, 22040"
+    },
+    {
+      "city": "Kampung Raja",
+      "city_slug": "kampung-raja",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "22200"
+    },
+    {
+      "city": "Kemasek",
+      "city_slug": "kemasek",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 5,
+      "postcodes": "24200, 24207, 24209, 24210, 24220"
+    },
+    {
+      "city": "Kerteh",
+      "city_slug": "kerteh",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "24300"
+    },
+    {
+      "city": "Ketengah Jaya",
+      "city_slug": "ketengah-jaya",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "23300, 23345"
+    },
+    {
+      "city": "Kijal",
+      "city_slug": "kijal",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "24100, 24107, 24109"
+    },
+    {
+      "city": "Kuala Berang",
+      "city_slug": "kuala-berang",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "21700"
+    },
+    {
+      "city": "Kuala Besut",
+      "city_slug": "kuala-besut",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 3,
+      "postcodes": "22300, 22307, 22309"
+    },
+    {
+      "city": "Kuala Terengganu",
+      "city_slug": "kuala-terengganu",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 119,
+      "postcodes": "20000, 20050, 20080, 20100, 20200, 20300, 20400, 20500, 20502, 20503, 20504, 20505, 20506, 20508, 20512, 20514, 20516, 20517, 20518, 20519, 20520, 20532, 20534, 20536, 20538, 20540, 20542, 20546, 20548, 20550, 20551, 20552, 20554, 20556, 20560, 20564, 20566, 20568, 20570, 20572, 20576, 20578, 20582, 20586, 20590, 20592, 20596, 20600, 20604, 20606, 20608, 20609, 20610, 20612, 20614, 20618, 20620, 20622, 20626, 20628, 20630, 20632, 20646, 20648, 20656, 20658, 20660, 20661, 20662, 20664, 20668, 20670, 20672, 20673, 20674, 20676, 20680, 20690, 20698, 20700, 20710, 20720, 20900, 20902, 20904, 20906, 20908, 20910, 20912, 20914, 20916, 20918, 20920, 20922, 20924, 20926, 20928, 20930, 20990, 20999, 21000, 21009, 21010, 21020, 21030, 21040, 21050, 21060, 21070, 21080, 21090, 21100, 21109, 21200, 21209, 21210, 21220, 21300, 21309"
+    },
+    {
+      "city": "Marang",
+      "city_slug": "marang",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 2,
+      "postcodes": "21600, 21610"
+    },
+    {
+      "city": "Paka",
+      "city_slug": "paka",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "23100"
+    },
+    {
+      "city": "Permaisuri",
+      "city_slug": "permaisuri",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 5,
+      "postcodes": "22100, 22107, 22109, 22110, 22120"
+    },
+    {
+      "city": "Sungai Tong",
+      "city_slug": "sungai-tong",
+      "state": "Terengganu",
+      "state_short": "Terengganu",
+      "state_slug": "terengganu",
+      "state_type": "negeri",
+      "postcode_count": 1,
+      "postcodes": "21500"
+    },
+    {
+      "city": "Kuala Lumpur",
+      "city_slug": "kuala-lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "state_short": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "state_type": "wilayah-persekutuan",
+      "postcode_count": 298,
+      "postcodes": "50000, 50050, 50088, 50100, 50150, 50200, 50250, 50300, 50350, 50400, 50420, 50450, 50460, 50470, 50480, 50489, 50490, 50500, 50502, 50504, 50505, 50506, 50507, 50508, 50512, 50514, 50515, 50519, 50528, 50529, 50530, 50532, 50534, 50536, 50538, 50540, 50544, 50546, 50548, 50550, 50551, 50552, 50554, 50556, 50560, 50562, 50564, 50566, 50568, 50572, 50576, 50578, 50580, 50582, 50586, 50588, 50590, 50592, 50594, 50596, 50598, 50599, 50600, 50603, 50604, 50605, 50608, 50609, 50610, 50612, 50614, 50620, 50621, 50622, 50623, 50626, 50630, 50632, 50634, 50636, 50638, 50640, 50642, 50644, 50646, 50648, 50650, 50652, 50653, 50656, 50658, 50660, 50661, 50662, 50664, 50666, 50668, 50670, 50672, 50673, 50674, 50676, 50677, 50678, 50680, 50682, 50684, 50688, 50694, 50700, 50702, 50704, 50706, 50708, 50710, 50712, 50714, 50716, 50718, 50720, 50722, 50724, 50726, 50728, 50730, 50732, 50734, 50736, 50738, 50740, 50742, 50744, 50746, 50748, 50750, 50752, 50754, 50758, 50760, 50762, 50764, 50766, 50768, 50770, 50772, 50774, 50776, 50778, 50780, 50782, 50784, 50786, 50788, 50790, 50792, 50794, 50796, 50798, 50800, 50802, 50804, 50806, 50808, 50810, 50812, 50814, 50816, 50818, 50901, 50902, 50903, 50904, 50906, 50907, 50908, 50909, 50910, 50911, 50912, 50913, 50914, 50915, 50916, 50917, 50918, 50919, 50920, 50921, 50922, 50923, 50924, 50925, 50926, 50927, 50928, 50929, 50930, 50931, 50932, 50933, 50934, 50935, 50936, 50937, 50938, 50939, 50940, 50941, 50942, 50943, 50944, 50945, 50946, 50947, 50948, 50949, 50950, 50988, 50989, 50990, 51000, 51100, 51200, 51300, 51640, 51700, 51800, 51900, 51990, 52000, 52100, 52109, 52200, 52210, 52220, 53000, 53100, 53200, 53500, 53700, 53800, 53990, 54000, 54050, 54100, 54200, 54540, 55000, 55100, 55188, 55200, 55220, 55300, 55330, 55700, 55710, 55720, 55900, 55902, 55904, 55906, 55908, 55910, 55912, 55914, 55916, 55918, 55920, 55922, 55924, 55926, 55928, 55930, 55932, 55934, 55990, 56000, 56100, 57000, 57100, 57200, 57700, 57990, 58000, 58100, 58200, 58209, 58700, 58990, 59000, 59001, 59100, 59200, 59206, 59700, 59800, 59990, 60000"
+    },
+    {
+      "city": "Setapak",
+      "city_slug": "setapak",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "state_short": "WP Kuala Lumpur",
+      "state_slug": "wp-kuala-lumpur",
+      "state_type": "wilayah-persekutuan",
+      "postcode_count": 1,
+      "postcodes": "53300"
+    },
+    {
+      "city": "Labuan",
+      "city_slug": "labuan",
+      "state": "Wilayah Persekutuan Labuan",
+      "state_short": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "state_type": "wilayah-persekutuan",
+      "postcode_count": 27,
+      "postcodes": "87000, 87007, 87008, 87010, 87011, 87012, 87013, 87014, 87015, 87016, 87017, 87018, 87019, 87020, 87021, 87022, 87023, 87024, 87025, 87026, 87027, 87028, 87029, 87030, 87031, 87032, 87033"
+    },
+    {
+      "city": "Putrajaya",
+      "city_slug": "putrajaya",
+      "state": "Wilayah Persekutuan Putrajaya",
+      "state_short": "WP Putrajaya",
+      "state_slug": "wp-putrajaya",
+      "state_type": "wilayah-persekutuan",
+      "postcode_count": 74,
+      "postcodes": "62000, 62007, 62050, 62052, 62100, 62150, 62200, 62250, 62300, 62500, 62502, 62503, 62504, 62505, 62506, 62510, 62512, 62514, 62516, 62517, 62518, 62519, 62520, 62522, 62524, 62526, 62527, 62529, 62530, 62532, 62536, 62539, 62540, 62542, 62546, 62550, 62551, 62570, 62574, 62576, 62578, 62582, 62584, 62590, 62592, 62594, 62596, 62602, 62604, 62605, 62606, 62616, 62618, 62620, 62623, 62624, 62628, 62630, 62632, 62648, 62652, 62654, 62657, 62662, 62668, 62670, 62674, 62675, 62676, 62677, 62686, 62690, 62692, 62988"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Bandar dan Pekan Malaysia - Muat turun percuma",
+    "description": "Senarai bandar dan pekan di Malaysia berserta poskod yang ditetapkan untuk setiap satu. Disusun mengikut negeri dan slug bandar. Setiap rekod menyimpan nama bandar, negeri induk, jumlah poskod, dan senarai poskod 5-digit yang dikaitkan. Sumber data: AsyrafHussin/malaysia-postcodes. Mengandungi 444 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Bandar dan Pekan Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Bandar dan Pekan Malaysia — 444 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 444 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

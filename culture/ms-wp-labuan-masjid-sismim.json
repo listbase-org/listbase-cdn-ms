@@ -1,0 +1,223 @@
+{
+  "id": "ms-wp-labuan-masjid-sismim",
+  "name": "Masjid di WP Labuan",
+  "title": "Masjid di WP Labuan",
+  "description": "Senarai masjid di WP Labuan — 18 masjid. Sumber: SISMIM/JAKIM (direktori kebangsaan masjid & surau). Medan: name, state, state_slug, district, address, phone, fax.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "MASJID JAMEK AN- NUR",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "PETI SURAT 81981",
+      "phone": "087-414212",
+      "fax": "087-426212"
+    },
+    {
+      "name": "MASJID NURUL IMAN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG. SUNGAI BEDAUNPETI SURAT 80182",
+      "phone": "013-3132900",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BEBULOH DARAT",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG. BEBULOH DARAT",
+      "phone": "014-6850329",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK ADAM",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KAMPUNG LAJAU",
+      "phone": "019-8953788",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SIRAJUL ISLAM",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG. TANJUNG ARU P.O.BOX 81954 87029 WILAYAH PERSEKUTUAN LABUAN",
+      "phone": "0195344756",
+      "fax": ""
+    },
+    {
+      "name": "MASJID RANCHA- RANCHA DARAT",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG. RANCHA - RANCHA DARATPETI SURAT 8225387032 W.P. LABUAN",
+      "phone": "016-8497446",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL - MUTTAKIN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "TAMAN IOFC, KG.KERUPANG 2",
+      "phone": "012-2781256",
+      "fax": ""
+    },
+    {
+      "name": "MASJID NUR IMAN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG. GANGGARAK PETI SURAT 81384",
+      "phone": "016-8373456",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-FALAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "JALAN MOHD SALLEHKG. BUKIT KALAM",
+      "phone": "012-8021741",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL MUNAWWAR",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG.POHON BATU PETI SURAT 156",
+      "phone": "013-8578908",
+      "fax": ""
+    },
+    {
+      "name": "MASJID JAMEK LAYANG-LAYANGAN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG.LAYANG-LAYANG, PETI SURAT 81896",
+      "phone": "013-8562102",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-MUZAKIRULLAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "JALAN TANJUNG KUBONG,KG. LUBOK TEMIANG",
+      "phone": "016-8467224",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AR-RAHMAN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG.SUNGAI LADA",
+      "phone": "0111-6040252",
+      "fax": ""
+    },
+    {
+      "name": "MASJID SULTAN MUHAMMAD V",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "JALAN POHON BATU KAMPUNG LAJAU",
+      "phone": "019-9319616",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-EHSAN",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG.SUNGAI LABU PETI SURAT 80729 W.P LABUAN",
+      "phone": "012-8296677",
+      "fax": ""
+    },
+    {
+      "name": "MASJID BAITUL MAKMUR",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KG. DURIAN TUNJONG PETI SURAT 81416",
+      "phone": "016-8404252",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-SULTAN ABDULLAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KAMPUNG SUNGAI BEDAUN WILAYAH PERSEKUTUAN LABUAN",
+      "phone": "",
+      "fax": ""
+    },
+    {
+      "name": "MASJID AL-HIJRAH",
+      "state": "WP Labuan",
+      "state_slug": "wp-labuan",
+      "district": "Wilayah Persekutuan Labuan",
+      "address": "KAMPUNG SUNGAI MIRI",
+      "phone": "",
+      "fax": ""
+    }
+  ],
+  "meta": {
+    "title": "Masjid di WP Labuan - Muat turun percuma",
+    "description": "Senarai masjid di WP Labuan — 18 masjid. Sumber: SISMIM/JAKIM (direktori kebangsaan masjid & surau). Medan: name, state, state_slug, district, address, phone, fax. Mengandungi 18 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Masjid di WP Labuan | ListBase",
+    "seo_description": "Muat turun Masjid di WP Labuan — 18 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 18 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

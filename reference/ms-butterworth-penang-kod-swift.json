@@ -1,0 +1,72 @@
+{
+  "id": "ms-butterworth-penang-kod-swift",
+  "name": "Kod SWIFT/BIC — Butterworth, Penang",
+  "title": "Kod SWIFT/BIC — Butterworth, Penang",
+  "description": "Senarai institusi kewangan di Butterworth, Penang (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Butterworth, Penang, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 207,
+      "bank": "MALAYAN BANKING BERHAD (MAYBANK)",
+      "city": "BUTTERWORTH, PENANG",
+      "branch": "(TRADE FINANCE CENTER)",
+      "swift_code": "MBBEMYKLBWC"
+    },
+    {
+      "id": 255,
+      "bank": "MERCURY SECURITIES SDN. BHD.",
+      "city": "BUTTERWORTH, PENANG",
+      "branch": "",
+      "swift_code": "MERYMY21"
+    },
+    {
+      "id": 369,
+      "bank": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "city": "BUTTERWORTH, PENANG",
+      "branch": "",
+      "swift_code": "UOVBMYK101P"
+    }
+  ],
+  "meta": {
+    "title": "Kod SWIFT/BIC — Butterworth, Penang - Muat turun percuma",
+    "description": "Senarai institusi kewangan di Butterworth, Penang (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Butterworth, Penang, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source. Mengandungi 3 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kod SWIFT/BIC — Butterworth, Penang | ListBase",
+    "seo_description": "Muat turun Kod SWIFT/BIC — Butterworth, Penang — 3 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 3 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

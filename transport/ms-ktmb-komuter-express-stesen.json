@@ -1,0 +1,106 @@
+{
+  "id": "ms-ktmb-komuter-express-stesen",
+  "name": "Stesen KTMB — Komuter Express",
+  "title": "Stesen KTMB — Komuter Express",
+  "description": "1 stesen KTMB yang dilayan oleh perkhidmatan Komuter Express (kod EXPRESS). Pecahan daripada ms-ktmb-stesen mengikut keahlian perkhidmatan yang dinyatakan dalam sumber.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nama_stesen",
+      "label": "Nama Stesen",
+      "type": "string"
+    },
+    {
+      "key": "kod_stesen",
+      "label": "Kod Stesen",
+      "type": "number"
+    },
+    {
+      "key": "jenis_kod",
+      "label": "Jenis Kod",
+      "type": "string"
+    },
+    {
+      "key": "jenis_stesen",
+      "label": "Jenis Stesen",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "aktif",
+      "label": "Aktif",
+      "type": "boolean"
+    },
+    {
+      "key": "bil_perkhidmatan",
+      "label": "Bil Perkhidmatan",
+      "type": "number"
+    },
+    {
+      "key": "bil_laluan",
+      "label": "Bil Laluan",
+      "type": "number"
+    },
+    {
+      "key": "perkhidmatan",
+      "label": "Perkhidmatan",
+      "type": "string"
+    },
+    {
+      "key": "laluan",
+      "label": "Laluan",
+      "type": "string"
+    },
+    {
+      "key": "ktmb_id",
+      "label": "Ktmb Id",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 112,
+      "nama_stesen": "Seremban",
+      "kod_stesen": 22700,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 2.718826,
+      "longitude": 101.94085,
+      "aktif": true,
+      "bil_perkhidmatan": 3,
+      "bil_laluan": 2,
+      "perkhidmatan": "Electric Train Sevice (ETS), Komuter Express, KTM Komuter",
+      "laluan": "Batu Caves - Pulau Sebang, Padang Besar - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446e1"
+    }
+  ],
+  "meta": {
+    "title": "Stesen KTMB — Komuter Express - Muat turun percuma",
+    "description": "1 stesen KTMB yang dilayan oleh perkhidmatan Komuter Express (kod EXPRESS). Pecahan daripada ms-ktmb-stesen mengikut keahlian perkhidmatan yang dinyatakan dalam sumber. Mengandungi 1 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen KTMB — Komuter Express | ListBase",
+    "seo_description": "Muat turun Stesen KTMB — Komuter Express — 1 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 1 rekod / 13 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,934 @@
+{
+  "id": "ms-pulau-pinang-mukim",
+  "name": "Mukim di Pulau Pinang",
+  "title": "Mukim di Pulau Pinang",
+  "description": "Senarai lengkap 97 mukim di negeri Pulau Pinang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 97 mukim (traditional sub-district units) in Pulau Pinang, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 97,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "070101",
+      "name": "Mukim 1",
+      "name_uppercase": "MUKIM 1",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070102",
+      "name": "Mukim 2",
+      "name_uppercase": "MUKIM 2",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070103",
+      "name": "Mukim 3",
+      "name_uppercase": "MUKIM 3",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070104",
+      "name": "Mukim 4",
+      "name_uppercase": "MUKIM 4",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070105",
+      "name": "Mukim 5",
+      "name_uppercase": "MUKIM 5",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070106",
+      "name": "Mukim 6",
+      "name_uppercase": "MUKIM 6",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070107",
+      "name": "Mukim 7",
+      "name_uppercase": "MUKIM 7",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070108",
+      "name": "Mukim 8",
+      "name_uppercase": "MUKIM 8",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070109",
+      "name": "Mukim 9",
+      "name_uppercase": "MUKIM 9",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070110",
+      "name": "Mukim 10",
+      "name_uppercase": "MUKIM 10",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070111",
+      "name": "Mukim 11",
+      "name_uppercase": "MUKIM 11",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070112",
+      "name": "Mukim 12",
+      "name_uppercase": "MUKIM 12",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070113",
+      "name": "Mukim 13",
+      "name_uppercase": "MUKIM 13",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070114",
+      "name": "Mukim 14",
+      "name_uppercase": "MUKIM 14",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070115",
+      "name": "Mukim 15",
+      "name_uppercase": "MUKIM 15",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070116",
+      "name": "Mukim 16",
+      "name_uppercase": "MUKIM 16",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070117",
+      "name": "Mukim 17",
+      "name_uppercase": "MUKIM 17",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070118",
+      "name": "Mukim 18",
+      "name_uppercase": "MUKIM 18",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070120",
+      "name": "Mukim 20",
+      "name_uppercase": "MUKIM 20",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070121",
+      "name": "Mukim 21",
+      "name_uppercase": "MUKIM 21",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070129",
+      "name": "Mukim 19",
+      "name_uppercase": "MUKIM 19",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070140",
+      "name": "Bandar Bukit Mertajam",
+      "name_uppercase": "BANDAR BUKIT MERTAJAM",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070141",
+      "name": "Bandar Prai",
+      "name_uppercase": "BANDAR PRAI",
+      "district_id": "701",
+      "district": "Seberang Perai Tengah",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070201",
+      "name": "Mukim 1",
+      "name_uppercase": "MUKIM 1",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070202",
+      "name": "Mukim 2",
+      "name_uppercase": "MUKIM 2",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070203",
+      "name": "Mukim 3",
+      "name_uppercase": "MUKIM 3",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070204",
+      "name": "Mukim 4",
+      "name_uppercase": "MUKIM 4",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070205",
+      "name": "Mukim 5",
+      "name_uppercase": "MUKIM 5",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070206",
+      "name": "Mukim 6",
+      "name_uppercase": "MUKIM 6",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070207",
+      "name": "Mukim 7",
+      "name_uppercase": "MUKIM 7",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070208",
+      "name": "Mukim 8",
+      "name_uppercase": "MUKIM 8",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070209",
+      "name": "Mukim 9",
+      "name_uppercase": "MUKIM 9",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070210",
+      "name": "Mukim 10",
+      "name_uppercase": "MUKIM 10",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070211",
+      "name": "Mukim 11",
+      "name_uppercase": "MUKIM 11",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070212",
+      "name": "Mukim 12",
+      "name_uppercase": "MUKIM 12",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070213",
+      "name": "Mukim 13",
+      "name_uppercase": "MUKIM 13",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070214",
+      "name": "Mukim 14",
+      "name_uppercase": "MUKIM 14",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070215",
+      "name": "Mukim 15",
+      "name_uppercase": "MUKIM 15",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070216",
+      "name": "Mukim 16",
+      "name_uppercase": "MUKIM 16",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070240",
+      "name": "Bandar Butterworth",
+      "name_uppercase": "BANDAR BUTTERWORTH",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070241",
+      "name": "Bandar Kepala Batas",
+      "name_uppercase": "BANDAR KEPALA BATAS",
+      "district_id": "702",
+      "district": "Seberang Perai Utara",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070301",
+      "name": "Mukim 1",
+      "name_uppercase": "MUKIM 1",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070302",
+      "name": "Mukim 2",
+      "name_uppercase": "MUKIM 2",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070303",
+      "name": "Mukim 3",
+      "name_uppercase": "MUKIM 3",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070304",
+      "name": "Mukim 4",
+      "name_uppercase": "MUKIM 4",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070305",
+      "name": "Mukim 5",
+      "name_uppercase": "MUKIM 5",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070306",
+      "name": "Mukim 6",
+      "name_uppercase": "MUKIM 6",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070307",
+      "name": "Mukim 7",
+      "name_uppercase": "MUKIM 7",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070308",
+      "name": "Mukim 8",
+      "name_uppercase": "MUKIM 8",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070309",
+      "name": "Mukim 9",
+      "name_uppercase": "MUKIM 9",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070310",
+      "name": "Mukim 10",
+      "name_uppercase": "MUKIM 10",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070311",
+      "name": "Mukim 11",
+      "name_uppercase": "MUKIM 11",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070312",
+      "name": "Mukim 12",
+      "name_uppercase": "MUKIM 12",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070313",
+      "name": "Mukim 13",
+      "name_uppercase": "MUKIM 13",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070314",
+      "name": "Mukim 14",
+      "name_uppercase": "MUKIM 14",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070315",
+      "name": "Mukim 15",
+      "name_uppercase": "MUKIM 15",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070316",
+      "name": "Mukim 16",
+      "name_uppercase": "MUKIM 16",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070340",
+      "name": "Bandar Nibong Tebal",
+      "name_uppercase": "BANDAR NIBONG TEBAL",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070341",
+      "name": "Bandar Sungai Bakap",
+      "name_uppercase": "BANDAR SUNGAI BAKAP",
+      "district_id": "703",
+      "district": "Seberang Perai Selatan",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070401",
+      "name": "Mukim 13",
+      "name_uppercase": "MUKIM 13",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070402",
+      "name": "Mukim 14",
+      "name_uppercase": "MUKIM 14",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070404",
+      "name": "Mukim 16",
+      "name_uppercase": "MUKIM 16",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070405",
+      "name": "Mukim 17",
+      "name_uppercase": "MUKIM 17",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070406",
+      "name": "Mukim 18",
+      "name_uppercase": "MUKIM 18",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070440",
+      "name": "Bandar Ayer Itam",
+      "name_uppercase": "BANDAR AYER ITAM",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070441",
+      "name": "Bandar Batu Ferringgi",
+      "name_uppercase": "BANDAR BATU FERRINGGI",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070442",
+      "name": "Bandar Bukit Bendera",
+      "name_uppercase": "BANDAR BUKIT BENDERA",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070443",
+      "name": "Bandar Glugor",
+      "name_uppercase": "BANDAR GLUGOR",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070444",
+      "name": "Bandar George Town",
+      "name_uppercase": "BANDAR GEORGE TOWN",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070445",
+      "name": "Bandar Jelutong",
+      "name_uppercase": "BANDAR JELUTONG",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070446",
+      "name": "Bandar Tanjong Bungah",
+      "name_uppercase": "BANDAR TANJONG BUNGAH",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070447",
+      "name": "Bandar Tanjong Tokong",
+      "name_uppercase": "BANDAR TANJONG TOKONG",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070448",
+      "name": "Bandar Tanjong Pinang",
+      "name_uppercase": "BANDAR TANJONG PINANG",
+      "district_id": "704",
+      "district": "Timor Laut",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070501",
+      "name": "Mukim 1",
+      "name_uppercase": "MUKIM 1",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070502",
+      "name": "Mukim 2",
+      "name_uppercase": "MUKIM 2",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070503",
+      "name": "Mukim 3",
+      "name_uppercase": "MUKIM 3",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070504",
+      "name": "Mukim 4",
+      "name_uppercase": "MUKIM 4",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070505",
+      "name": "Mukim 5",
+      "name_uppercase": "MUKIM 5",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070506",
+      "name": "Mukim 6",
+      "name_uppercase": "MUKIM 6",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070507",
+      "name": "Mukim 7",
+      "name_uppercase": "MUKIM 7",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070508",
+      "name": "Mukim 8",
+      "name_uppercase": "MUKIM 8",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070509",
+      "name": "Mukim 9",
+      "name_uppercase": "MUKIM 9",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070510",
+      "name": "Mukim 10",
+      "name_uppercase": "MUKIM 10",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070511",
+      "name": "Mukim 11",
+      "name_uppercase": "MUKIM 11",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070512",
+      "name": "Mukim 12",
+      "name_uppercase": "MUKIM 12",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070513",
+      "name": "Mukim A",
+      "name_uppercase": "MUKIM A",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070514",
+      "name": "Mukim B",
+      "name_uppercase": "MUKIM B",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070515",
+      "name": "Mukim C",
+      "name_uppercase": "MUKIM C",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070516",
+      "name": "Mukim D",
+      "name_uppercase": "MUKIM D",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070517",
+      "name": "Mukim E",
+      "name_uppercase": "MUKIM E",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070518",
+      "name": "Mukim F",
+      "name_uppercase": "MUKIM F",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070519",
+      "name": "Mukim G",
+      "name_uppercase": "MUKIM G",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070520",
+      "name": "Mukim H",
+      "name_uppercase": "MUKIM H",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070521",
+      "name": "Mukim I",
+      "name_uppercase": "MUKIM I",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070522",
+      "name": "Mukim J",
+      "name_uppercase": "MUKIM J",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070540",
+      "name": "Bandar Balik Pulau",
+      "name_uppercase": "BANDAR BALIK PULAU",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "070541",
+      "name": "Bandar Bayan Lepas",
+      "name_uppercase": "BANDAR BAYAN LEPAS",
+      "district_id": "705",
+      "district": "Barat Daya",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Pulau Pinang - Muat turun percuma",
+    "description": "Senarai lengkap 97 mukim di negeri Pulau Pinang, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 97 mukim (traditional sub-district units) in Pulau Pinang, Malaysia. Mengandungi 97 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Pulau Pinang | ListBase",
+    "seo_description": "Muat turun Mukim di Pulau Pinang — 97 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 97 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

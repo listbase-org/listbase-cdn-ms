@@ -1,0 +1,1024 @@
+{
+  "id": "ms-cuti-umum",
+  "name": "Cuti umum Malaysia (2020–2026)",
+  "title": "Cuti umum Malaysia (2020–2026)",
+  "description": "Public holidays 2020-2026 with native and English names",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 107,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "number"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "number"
+    },
+    {
+      "key": "day_of_week",
+      "label": "Day Of Week",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2020-01-25",
+      "year": 2020,
+      "name_ms": "Chinese New Year",
+      "name_en": "Chinese New Year",
+      "month": 1,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-01-26",
+      "year": 2020,
+      "name_ms": "Chinese New Year (Second Day)",
+      "name_en": "Chinese New Year (Second Day)",
+      "month": 1,
+      "day": 26,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-01-27",
+      "year": 2020,
+      "name_ms": "Chinese New Year (Second Day) (observed)",
+      "name_en": "Chinese New Year (Second Day) (observed)",
+      "month": 1,
+      "day": 27,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-05-01",
+      "year": 2020,
+      "name_ms": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-05-07",
+      "year": 2020,
+      "name_ms": "Vesak Day",
+      "name_en": "Vesak Day",
+      "month": 5,
+      "day": 7,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-05-24",
+      "year": 2020,
+      "name_ms": "Eid al-Fitr",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 24,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-05-25",
+      "year": 2020,
+      "name_ms": "Eid al-Fitr (Second Day)",
+      "name_en": "Eid al-Fitr (Second Day)",
+      "month": 5,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-05-26",
+      "year": 2020,
+      "name_ms": "Eid al-Fitr (observed)",
+      "name_en": "Eid al-Fitr (observed)",
+      "month": 5,
+      "day": 26,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-06-08",
+      "year": 2020,
+      "name_ms": "Birthday of HM Yang di-Pertuan Agong",
+      "name_en": "Birthday of HM Yang di-Pertuan Agong",
+      "month": 6,
+      "day": 8,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-07-31",
+      "year": 2020,
+      "name_ms": "Eid al-Adha",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 31,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-08-20",
+      "year": 2020,
+      "name_ms": "Islamic New Year",
+      "name_en": "Islamic New Year",
+      "month": 8,
+      "day": 20,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-08-31",
+      "year": 2020,
+      "name_ms": "National Day",
+      "name_en": "National Day",
+      "month": 8,
+      "day": 31,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-09-16",
+      "year": 2020,
+      "name_ms": "Malaysia Day",
+      "name_en": "Malaysia Day",
+      "month": 9,
+      "day": 16,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-10-29",
+      "year": 2020,
+      "name_ms": "Prophet Muhammad's Birthday",
+      "name_en": "Prophet Muhammad's Birthday",
+      "month": 10,
+      "day": 29,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-12-25",
+      "year": 2020,
+      "name_ms": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-02-12",
+      "year": 2021,
+      "name_ms": "Chinese New Year",
+      "name_en": "Chinese New Year",
+      "month": 2,
+      "day": 12,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-02-13",
+      "year": 2021,
+      "name_ms": "Chinese New Year (Second Day)",
+      "name_en": "Chinese New Year (Second Day)",
+      "month": 2,
+      "day": 13,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-05-01",
+      "year": 2021,
+      "name_ms": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-05-13",
+      "year": 2021,
+      "name_ms": "Eid al-Fitr",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 13,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-05-14",
+      "year": 2021,
+      "name_ms": "Eid al-Fitr (Second Day)",
+      "name_en": "Eid al-Fitr (Second Day)",
+      "month": 5,
+      "day": 14,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-05-26",
+      "year": 2021,
+      "name_ms": "Vesak Day",
+      "name_en": "Vesak Day",
+      "month": 5,
+      "day": 26,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-06-07",
+      "year": 2021,
+      "name_ms": "Birthday of HM Yang di-Pertuan Agong",
+      "name_en": "Birthday of HM Yang di-Pertuan Agong",
+      "month": 6,
+      "day": 7,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-07-20",
+      "year": 2021,
+      "name_ms": "Eid al-Adha",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 20,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-08-10",
+      "year": 2021,
+      "name_ms": "Islamic New Year",
+      "name_en": "Islamic New Year",
+      "month": 8,
+      "day": 10,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-08-31",
+      "year": 2021,
+      "name_ms": "National Day",
+      "name_en": "National Day",
+      "month": 8,
+      "day": 31,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-09-16",
+      "year": 2021,
+      "name_ms": "Malaysia Day",
+      "name_en": "Malaysia Day",
+      "month": 9,
+      "day": 16,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-10-19",
+      "year": 2021,
+      "name_ms": "Prophet Muhammad's Birthday",
+      "name_en": "Prophet Muhammad's Birthday",
+      "month": 10,
+      "day": 19,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-12-25",
+      "year": 2021,
+      "name_ms": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-02-01",
+      "year": 2022,
+      "name_ms": "Chinese New Year",
+      "name_en": "Chinese New Year",
+      "month": 2,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-02-02",
+      "year": 2022,
+      "name_ms": "Chinese New Year (Second Day)",
+      "name_en": "Chinese New Year (Second Day)",
+      "month": 2,
+      "day": 2,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-05-01",
+      "year": 2022,
+      "name_ms": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-05-02",
+      "year": 2022,
+      "name_ms": "Eid al-Fitr",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-05-03",
+      "year": 2022,
+      "name_ms": "Eid al-Fitr (Second Day)",
+      "name_en": "Eid al-Fitr (Second Day)",
+      "month": 5,
+      "day": 3,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-05-04",
+      "year": 2022,
+      "name_ms": "Labor Day (observed)",
+      "name_en": "Labor Day (observed)",
+      "month": 5,
+      "day": 4,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-05-15",
+      "year": 2022,
+      "name_ms": "Vesak Day",
+      "name_en": "Vesak Day",
+      "month": 5,
+      "day": 15,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-05-16",
+      "year": 2022,
+      "name_ms": "Vesak Day (observed)",
+      "name_en": "Vesak Day (observed)",
+      "month": 5,
+      "day": 16,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-06-06",
+      "year": 2022,
+      "name_ms": "Birthday of HM Yang di-Pertuan Agong",
+      "name_en": "Birthday of HM Yang di-Pertuan Agong",
+      "month": 6,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-07-10",
+      "year": 2022,
+      "name_ms": "Eid al-Adha",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 10,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-07-11",
+      "year": 2022,
+      "name_ms": "Eid al-Adha (observed)",
+      "name_en": "Eid al-Adha (observed)",
+      "month": 7,
+      "day": 11,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-07-30",
+      "year": 2022,
+      "name_ms": "Islamic New Year",
+      "name_en": "Islamic New Year",
+      "month": 7,
+      "day": 30,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-08-31",
+      "year": 2022,
+      "name_ms": "National Day",
+      "name_en": "National Day",
+      "month": 8,
+      "day": 31,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-09-16",
+      "year": 2022,
+      "name_ms": "Malaysia Day",
+      "name_en": "Malaysia Day",
+      "month": 9,
+      "day": 16,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-10-10",
+      "year": 2022,
+      "name_ms": "Prophet Muhammad's Birthday",
+      "name_en": "Prophet Muhammad's Birthday",
+      "month": 10,
+      "day": 10,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-11-18",
+      "year": 2022,
+      "name_ms": "General election additional holiday",
+      "name_en": "General election additional holiday",
+      "month": 11,
+      "day": 18,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-11-19",
+      "year": 2022,
+      "name_ms": "General election additional holiday",
+      "name_en": "General election additional holiday",
+      "month": 11,
+      "day": 19,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-11-28",
+      "year": 2022,
+      "name_ms": "Additional holiday",
+      "name_en": "Additional holiday",
+      "month": 11,
+      "day": 28,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-12-25",
+      "year": 2022,
+      "name_ms": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-12-26",
+      "year": 2022,
+      "name_ms": "Christmas Day (observed)",
+      "name_en": "Christmas Day (observed)",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-01-22",
+      "year": 2023,
+      "name_ms": "Chinese New Year",
+      "name_en": "Chinese New Year",
+      "month": 1,
+      "day": 22,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-01-23",
+      "year": 2023,
+      "name_ms": "Chinese New Year (Second Day)",
+      "name_en": "Chinese New Year (Second Day)",
+      "month": 1,
+      "day": 23,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-01-24",
+      "year": 2023,
+      "name_ms": "Chinese New Year (observed)",
+      "name_en": "Chinese New Year (observed)",
+      "month": 1,
+      "day": 24,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-04-21",
+      "year": 2023,
+      "name_ms": "Eid al-Fitr (additional holiday)",
+      "name_en": "Eid al-Fitr (additional holiday)",
+      "month": 4,
+      "day": 21,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-04-22",
+      "year": 2023,
+      "name_ms": "Eid al-Fitr",
+      "name_en": "Eid al-Fitr",
+      "month": 4,
+      "day": 22,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-04-23",
+      "year": 2023,
+      "name_ms": "Eid al-Fitr (Second Day)",
+      "name_en": "Eid al-Fitr (Second Day)",
+      "month": 4,
+      "day": 23,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-04-24",
+      "year": 2023,
+      "name_ms": "Eid al-Fitr (Second Day) (observed)",
+      "name_en": "Eid al-Fitr (Second Day) (observed)",
+      "month": 4,
+      "day": 24,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-05-01",
+      "year": 2023,
+      "name_ms": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-05-04",
+      "year": 2023,
+      "name_ms": "Vesak Day",
+      "name_en": "Vesak Day",
+      "month": 5,
+      "day": 4,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-06-05",
+      "year": 2023,
+      "name_ms": "Birthday of HM Yang di-Pertuan Agong",
+      "name_en": "Birthday of HM Yang di-Pertuan Agong",
+      "month": 6,
+      "day": 5,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-06-29",
+      "year": 2023,
+      "name_ms": "Eid al-Adha",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 29,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-07-19",
+      "year": 2023,
+      "name_ms": "Islamic New Year",
+      "name_en": "Islamic New Year",
+      "month": 7,
+      "day": 19,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-08-31",
+      "year": 2023,
+      "name_ms": "National Day",
+      "name_en": "National Day",
+      "month": 8,
+      "day": 31,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-09-16",
+      "year": 2023,
+      "name_ms": "Malaysia Day",
+      "name_en": "Malaysia Day",
+      "month": 9,
+      "day": 16,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-09-28",
+      "year": 2023,
+      "name_ms": "Prophet Muhammad's Birthday",
+      "name_en": "Prophet Muhammad's Birthday",
+      "month": 9,
+      "day": 28,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-12-25",
+      "year": 2023,
+      "name_ms": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-02-10",
+      "year": 2024,
+      "name_ms": "Chinese New Year",
+      "name_en": "Chinese New Year",
+      "month": 2,
+      "day": 10,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-02-11",
+      "year": 2024,
+      "name_ms": "Chinese New Year (Second Day)",
+      "name_en": "Chinese New Year (Second Day)",
+      "month": 2,
+      "day": 11,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-02-12",
+      "year": 2024,
+      "name_ms": "Chinese New Year (Second Day) (observed)",
+      "name_en": "Chinese New Year (Second Day) (observed)",
+      "month": 2,
+      "day": 12,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-04-10",
+      "year": 2024,
+      "name_ms": "Eid al-Fitr",
+      "name_en": "Eid al-Fitr",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-04-11",
+      "year": 2024,
+      "name_ms": "Eid al-Fitr (Second Day)",
+      "name_en": "Eid al-Fitr (Second Day)",
+      "month": 4,
+      "day": 11,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-05-01",
+      "year": 2024,
+      "name_ms": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-05-22",
+      "year": 2024,
+      "name_ms": "Vesak Day",
+      "name_en": "Vesak Day",
+      "month": 5,
+      "day": 22,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-06-03",
+      "year": 2024,
+      "name_ms": "Birthday of HM Yang di-Pertuan Agong",
+      "name_en": "Birthday of HM Yang di-Pertuan Agong",
+      "month": 6,
+      "day": 3,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-06-17",
+      "year": 2024,
+      "name_ms": "Eid al-Adha",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 17,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-07-07",
+      "year": 2024,
+      "name_ms": "Islamic New Year",
+      "name_en": "Islamic New Year",
+      "month": 7,
+      "day": 7,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-08-31",
+      "year": 2024,
+      "name_ms": "National Day",
+      "name_en": "National Day",
+      "month": 8,
+      "day": 31,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-09-16",
+      "year": 2024,
+      "name_ms": "Malaysia Day; Prophet Muhammad's Birthday",
+      "name_en": "Malaysia Day; Prophet Muhammad's Birthday",
+      "month": 9,
+      "day": 16,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-12-25",
+      "year": 2024,
+      "name_ms": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-01-29",
+      "year": 2025,
+      "name_ms": "Chinese New Year",
+      "name_en": "Chinese New Year",
+      "month": 1,
+      "day": 29,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-01-30",
+      "year": 2025,
+      "name_ms": "Chinese New Year (Second Day)",
+      "name_en": "Chinese New Year (Second Day)",
+      "month": 1,
+      "day": 30,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-03-31",
+      "year": 2025,
+      "name_ms": "Eid al-Fitr",
+      "name_en": "Eid al-Fitr",
+      "month": 3,
+      "day": 31,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-04-01",
+      "year": 2025,
+      "name_ms": "Eid al-Fitr (Second Day)",
+      "name_en": "Eid al-Fitr (Second Day)",
+      "month": 4,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-05-01",
+      "year": 2025,
+      "name_ms": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-05-12",
+      "year": 2025,
+      "name_ms": "Vesak Day",
+      "name_en": "Vesak Day",
+      "month": 5,
+      "day": 12,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-06-02",
+      "year": 2025,
+      "name_ms": "Birthday of HM Yang di-Pertuan Agong",
+      "name_en": "Birthday of HM Yang di-Pertuan Agong",
+      "month": 6,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-06-07",
+      "year": 2025,
+      "name_ms": "Eid al-Adha",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 7,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-06-27",
+      "year": 2025,
+      "name_ms": "Islamic New Year",
+      "name_en": "Islamic New Year",
+      "month": 6,
+      "day": 27,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-08-31",
+      "year": 2025,
+      "name_ms": "National Day",
+      "name_en": "National Day",
+      "month": 8,
+      "day": 31,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-09-01",
+      "year": 2025,
+      "name_ms": "National Day (observed)",
+      "name_en": "National Day (observed)",
+      "month": 9,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-09-05",
+      "year": 2025,
+      "name_ms": "Prophet Muhammad's Birthday",
+      "name_en": "Prophet Muhammad's Birthday",
+      "month": 9,
+      "day": 5,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-09-15",
+      "year": 2025,
+      "name_ms": "Additional holiday",
+      "name_en": "Additional holiday",
+      "month": 9,
+      "day": 15,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-09-16",
+      "year": 2025,
+      "name_ms": "Malaysia Day",
+      "name_en": "Malaysia Day",
+      "month": 9,
+      "day": 16,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-12-25",
+      "year": 2025,
+      "name_ms": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-02-17",
+      "year": 2026,
+      "name_ms": "Chinese New Year",
+      "name_en": "Chinese New Year",
+      "month": 2,
+      "day": 17,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-02-18",
+      "year": 2026,
+      "name_ms": "Chinese New Year (Second Day)",
+      "name_en": "Chinese New Year (Second Day)",
+      "month": 2,
+      "day": 18,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-03-21",
+      "year": 2026,
+      "name_ms": "Eid al-Fitr",
+      "name_en": "Eid al-Fitr",
+      "month": 3,
+      "day": 21,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-03-22",
+      "year": 2026,
+      "name_ms": "Eid al-Fitr (Second Day)",
+      "name_en": "Eid al-Fitr (Second Day)",
+      "month": 3,
+      "day": 22,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-03-23",
+      "year": 2026,
+      "name_ms": "Eid al-Fitr (Second Day) (observed)",
+      "name_en": "Eid al-Fitr (Second Day) (observed)",
+      "month": 3,
+      "day": 23,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-05-01",
+      "year": 2026,
+      "name_ms": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-05-27",
+      "year": 2026,
+      "name_ms": "Eid al-Adha",
+      "name_en": "Eid al-Adha",
+      "month": 5,
+      "day": 27,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-05-31",
+      "year": 2026,
+      "name_ms": "Vesak Day",
+      "name_en": "Vesak Day",
+      "month": 5,
+      "day": 31,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-06-01",
+      "year": 2026,
+      "name_ms": "Birthday of HM Yang di-Pertuan Agong",
+      "name_en": "Birthday of HM Yang di-Pertuan Agong",
+      "month": 6,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-06-02",
+      "year": 2026,
+      "name_ms": "Vesak Day (observed)",
+      "name_en": "Vesak Day (observed)",
+      "month": 6,
+      "day": 2,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-06-17",
+      "year": 2026,
+      "name_ms": "Islamic New Year",
+      "name_en": "Islamic New Year",
+      "month": 6,
+      "day": 17,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-08-25",
+      "year": 2026,
+      "name_ms": "Prophet Muhammad's Birthday",
+      "name_en": "Prophet Muhammad's Birthday",
+      "month": 8,
+      "day": 25,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-08-31",
+      "year": 2026,
+      "name_ms": "National Day",
+      "name_en": "National Day",
+      "month": 8,
+      "day": 31,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-09-16",
+      "year": 2026,
+      "name_ms": "Malaysia Day",
+      "name_en": "Malaysia Day",
+      "month": 9,
+      "day": 16,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-12-25",
+      "year": 2026,
+      "name_ms": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    }
+  ],
+  "meta": {
+    "title": "Cuti umum Malaysia (2020–2026) - Free Download",
+    "description": "Public holidays 2020-2026 with native and English names Contains 107 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cuti umum Malaysia (2020–2026) | ListBase",
+    "seo_description": "Download Cuti umum Malaysia (2020–2026) — 107 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 107 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: open data"
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "id": "ms-johor-ledang-mukim",
+  "name": "Mukim di Daerah Ledang, Johor",
+  "title": "Mukim di Daerah Ledang, Johor",
+  "description": "Senarai lengkap 12 mukim di daerah Ledang, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 12 mukim (traditional sub-district units) in Ledang District, Johor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "011001",
+      "name": "Tangkak",
+      "name_uppercase": "TANGKAK",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1701,
+      "state_slug": "johor",
+      "district_slug": "ledang"
+    },
+    {
+      "id": "011002",
+      "name": "Bukit Serampang",
+      "name_uppercase": "BUKIT SERAMPANG",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1702,
+      "state_slug": "johor",
+      "district_slug": "ledang"
+    },
+    {
+      "id": "011003",
+      "name": "Gersik",
+      "name_uppercase": "GERSIK",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1703,
+      "state_slug": "johor",
+      "district_slug": "ledang"
+    },
+    {
+      "id": "011004",
+      "name": "Serom",
+      "name_uppercase": "SEROM",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1704,
+      "state_slug": "johor",
+      "district_slug": "ledang"
+    },
+    {
+      "id": "011005",
+      "name": "Kundang",
+      "name_uppercase": "KUNDANG",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1705,
+      "state_slug": "johor",
+      "district_slug": "ledang"
+    },
+    {
+      "id": "011006",
+      "name": "Kesang",
+      "name_uppercase": "KESANG",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1706,
+      "state_slug": "johor",
+      "district_slug": "ledang"
+    },
+    {
+      "id": "011040",
+      "name": "Badnar Bukit Kangkar",
+      "name_uppercase": "BADNAR BUKIT KANGKAR",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1707,
+      "state_slug": "johor",
+      "district_slug": "ledang"
+    },
+    {
+      "id": "011041",
+      "name": "Bandar Parit Bunga",
+      "name_uppercase": "BANDAR PARIT BUNGA",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1708,
+      "state_slug": "johor",
+      "district_slug": "ledang"
+    },
+    {
+      "id": "011042",
+      "name": "Bandar Serom",
+      "name_uppercase": "BANDAR SEROM",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1709,
+      "state_slug": "johor",
+      "district_slug": "ledang"
+    },
+    {
+      "id": "011043",
+      "name": "Bandar Sungai Mati",
+      "name_uppercase": "BANDAR SUNGAI MATI",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1710,
+      "state_slug": "johor",
+      "district_slug": "ledang"
+    },
+    {
+      "id": "011044",
+      "name": "Bandar Tangkak",
+      "name_uppercase": "BANDAR TANGKAK",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1711,
+      "state_slug": "johor",
+      "district_slug": "ledang"
+    },
+    {
+      "id": "011070",
+      "name": "Pekan Grisek",
+      "name_uppercase": "PEKAN GRISEK",
+      "district_id": "110",
+      "district": "Ledang",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1712,
+      "state_slug": "johor",
+      "district_slug": "ledang"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Ledang, Johor - Muat turun percuma",
+    "description": "Senarai lengkap 12 mukim di daerah Ledang, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 12 mukim (traditional sub-district units) in Ledang District, Johor, Malaysia. Mengandungi 12 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Ledang, Johor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Ledang, Johor — 12 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 12 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

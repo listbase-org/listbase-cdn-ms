@@ -1,0 +1,328 @@
+{
+  "id": "ms-kuil-hindu",
+  "name": "Kuil Hindu di Malaysia",
+  "title": "Kuil Hindu di Malaysia",
+  "description": "Kuil Hindu di Malaysia — 19 entri hindu temple (Kuil Hindu) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=wd:Q842402 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Arulmigu Karumariamman Temple, Arulmigu Maha Muthu Mariamman Thevasthanam, Arulmigu Shree Maha Kaliamman Temple, Jalan Baru Sri Muniswarar Temple, Kuil Arulmigu Raja Mariamman Devasthanam. Liputan label Bahasa Melayu: 11/19. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, admin_area_ms, admin_area_en, latitude, longitude, wikidata_url.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4802041",
+      "name_ms": "",
+      "name_en": "Arulmigu Karumariamman Temple",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Pulau Pinang",
+      "admin_area_en": "Penang",
+      "latitude": 5.39472222,
+      "longitude": 100.395,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4802041"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q4802040",
+      "name_ms": "",
+      "name_en": "Arulmigu Maha Muthu Mariamman Thevasthanam",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Kampar",
+      "admin_area_en": "Kampar District",
+      "latitude": 4.46150556,
+      "longitude": 101.15661667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4802040"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q111939657",
+      "name_ms": "",
+      "name_en": "Arulmigu Shree Maha Kaliamman Temple",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Bentong",
+      "admin_area_en": "Bentong",
+      "latitude": 3.400555555,
+      "longitude": 101.770611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111939657"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q15229216",
+      "name_ms": "",
+      "name_en": "Jalan Baru Sri Muniswarar Temple",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Pulau Pinang",
+      "admin_area_en": "Penang",
+      "latitude": 5.38,
+      "longitude": 100.39472222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15229216"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q95706346",
+      "name_ms": "Kuil Arulmigu Raja Mariamman Devasthanam",
+      "name_en": "Arulmigu Raja Mariamman Devasthanam Temple",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.459194444,
+      "longitude": 103.763805555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q95706346"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q105100407",
+      "name_ms": "Kuil Arulmigu Thendayuthapani",
+      "name_en": "Arulmigu Thendayuthapani Temple",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.471111111,
+      "longitude": 103.758666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105100407"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q18109816",
+      "name_ms": "Kuil Balathandayuthapani",
+      "name_en": "Arulmigu Balathandayuthapani Temple, Penang",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "George Town",
+      "admin_area_en": "George Town",
+      "latitude": 5.434055555,
+      "longitude": 100.295805555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18109816"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q4802043",
+      "name_ms": "Kuil Kaca Arulmigu Sri Rajakaliamman",
+      "name_en": "Arulmigu Sri Rajakaliamman Glass Temple",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.46861111,
+      "longitude": 103.75972222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4802043"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q13161247",
+      "name_ms": "Kuil Sri Kandaswamy",
+      "name_en": "Sri Kandaswamy Kovil",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 3.13396,
+      "longitude": 101.69338,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13161247"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q60756139",
+      "name_ms": "Kuil Sri Maha Mariamman",
+      "name_en": "Seafield Sri Maha Mariamman Temple",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "UEP Subang Jaya",
+      "admin_area_en": "UEP Subang Jaya",
+      "latitude": 3.029538888,
+      "longitude": 101.57772,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60756139"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q7586152",
+      "name_ms": "Kuil Sri Maha Mariamman, Kuala Lumpur",
+      "name_en": "Sri Mahamariamman Temple",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.14333,
+      "longitude": 101.696,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7586152"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q7586151",
+      "name_ms": "Kuil Sri Mariamman, Pulau Pinang",
+      "name_en": "Sri Mahamariamman Temple, Penang",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "George Town",
+      "admin_area_en": "George Town",
+      "latitude": 5.41725,
+      "longitude": 100.338261111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7586151"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q7368081",
+      "name_ms": "Kuil Sri Poyyatha Vinayagar Moorthi",
+      "name_en": "Sri Poyatha Moorthi Temple",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Melaka",
+      "admin_area_en": "Malacca",
+      "latitude": 2.20557,
+      "longitude": 102.242,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7368081"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q127690368",
+      "name_ms": "Kuil Sri Subramaniar Swamy",
+      "name_en": "Sri Subramaniar Swamy Temple",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Selangor",
+      "admin_area_en": "Selangor",
+      "latitude": 3.2378,
+      "longitude": 101.684,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127690368"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q7586292",
+      "name_ms": "Kuil Sri Sundaraja Perumal, Klang",
+      "name_en": "Sri Sunderaraja Perumal Temple",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Selangor",
+      "admin_area_en": "Selangor",
+      "latitude": 3.0336794,
+      "longitude": 101.4377922,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7586292"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q6980376",
+      "name_ms": "",
+      "name_en": "Nattukkottai Chettiar Temple, Penang",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Pulau Pinang",
+      "admin_area_en": "Penang",
+      "latitude": 5.46513,
+      "longitude": 100.287,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6980376"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q7585646",
+      "name_ms": "",
+      "name_en": "Sree Maha Mariamman Devasthanam Temple, Butterworth",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Pulau Pinang",
+      "admin_area_en": "Penang",
+      "latitude": 5.4125,
+      "longitude": 100.37,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7585646"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q138866900",
+      "name_ms": "",
+      "name_en": "Sri Pathirakaliamman Temple",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Perak",
+      "admin_area_en": "Perak",
+      "latitude": 4.222324,
+      "longitude": 100.575214,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138866900"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q7586271",
+      "name_ms": "",
+      "name_en": "Sri Sithi Vinayagar Temple",
+      "type_ms": "Kuil Hindu",
+      "type_en": "Hindu temple",
+      "admin_area_ms": "Selangor",
+      "admin_area_en": "Selangor",
+      "latitude": 3.09112,
+      "longitude": 101.646,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7586271"
+    }
+  ],
+  "meta": {
+    "title": "Kuil Hindu di Malaysia - Muat turun percuma",
+    "description": "Kuil Hindu di Malaysia — 19 entri hindu temple (Kuil Hindu) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=wd:Q842402 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Arulmigu Karumariamman Temple, Arulmigu Maha Muthu Mariamman Thevasthanam, Arulmigu Shree Maha Kaliamman Temple, Jalan Baru Sri Muniswarar Temple, Kuil Arulmigu Raja Mariamman Devasthanam. Liputan label Bahasa Melayu: 11/19. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, admin_area_ms, admin_area_en, latitude, longitude, wikidata_url. Mengandungi 19 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kuil Hindu di Malaysia | ListBase",
+    "seo_description": "Muat turun Kuil Hindu di Malaysia — 19 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 19 rekod / 11 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ms-negeri-sembilan-daerah",
+  "name": "Daerah di Negeri Sembilan",
+  "title": "Daerah di Negeri Sembilan",
+  "description": "Senarai lengkap 7 daerah (district) di negeri Negeri Sembilan, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 7 administrative districts in Negeri Sembilan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "501",
+      "name": "Jelebu",
+      "name_uppercase": "JELEBU",
+      "code": "JEL",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "502",
+      "name": "Kuala Pilah",
+      "name_uppercase": "KUALA PILAH",
+      "code": "KPI",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "503",
+      "name": "Port Dickson",
+      "name_uppercase": "PORT DICKSON",
+      "code": "PDI",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "504",
+      "name": "Rembau",
+      "name_uppercase": "REMBAU",
+      "code": "REM",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "505",
+      "name": "Seremban",
+      "name_uppercase": "SEREMBAN",
+      "code": "SER",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "506",
+      "name": "Tampin",
+      "name_uppercase": "TAMPIN",
+      "code": "TAM",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    },
+    {
+      "id": "507",
+      "name": "Jempol",
+      "name_uppercase": "JEMPOL",
+      "code": "JEM",
+      "state_id": "5",
+      "state": "Negeri Sembilan"
+    }
+  ],
+  "meta": {
+    "title": "Daerah di Negeri Sembilan - Muat turun percuma",
+    "description": "Senarai lengkap 7 daerah (district) di negeri Negeri Sembilan, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 7 administrative districts in Negeri Sembilan, Malaysia. Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Daerah di Negeri Sembilan | ListBase",
+    "seo_description": "Muat turun Daerah di Negeri Sembilan — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

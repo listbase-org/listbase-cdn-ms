@@ -1,0 +1,144 @@
+{
+  "id": "ms-sarawak-daerah",
+  "name": "Daerah di Sarawak",
+  "title": "Daerah di Sarawak",
+  "description": "Senarai lengkap 11 daerah (district) di negeri Sarawak, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 11 administrative districts in Sarawak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "1301",
+      "name": "Kuching",
+      "name_uppercase": "KUCHING",
+      "code": "KUC",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "1302",
+      "name": "Sri Aman",
+      "name_uppercase": "SRI AMAN",
+      "code": "SAM",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "1303",
+      "name": "Sibu",
+      "name_uppercase": "SIBU",
+      "code": "SIB",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "1304",
+      "name": "Miri",
+      "name_uppercase": "MIRI",
+      "code": "MIR",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "1305",
+      "name": "Limbang",
+      "name_uppercase": "LIMBANG",
+      "code": "LIM",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "1306",
+      "name": "Sarikei",
+      "name_uppercase": "SARIKEI",
+      "code": "SAR",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "1307",
+      "name": "Kapit",
+      "name_uppercase": "KAPIT",
+      "code": "KAP",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "1308",
+      "name": "Samarahan",
+      "name_uppercase": "SAMARAHAN",
+      "code": "SAM",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "1309",
+      "name": "Bintulu",
+      "name_uppercase": "BINTULU",
+      "code": "BIN",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "1310",
+      "name": "Mukah",
+      "name_uppercase": "MUKAH",
+      "code": "MUK",
+      "state_id": "13",
+      "state": "Sarawak"
+    },
+    {
+      "id": "1311",
+      "name": "Betong",
+      "name_uppercase": "BETONG",
+      "code": "BET",
+      "state_id": "13",
+      "state": "Sarawak"
+    }
+  ],
+  "meta": {
+    "title": "Daerah di Sarawak - Muat turun percuma",
+    "description": "Senarai lengkap 11 daerah (district) di negeri Sarawak, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 11 administrative districts in Sarawak, Malaysia. Mengandungi 11 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Daerah di Sarawak | ListBase",
+    "seo_description": "Muat turun Daerah di Sarawak — 11 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 11 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

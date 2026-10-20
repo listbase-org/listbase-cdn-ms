@@ -1,0 +1,712 @@
+{
+  "id": "ms-sarawak-dun",
+  "name": "Senarai Dewan Undangan Negeri (DUN) Sarawak",
+  "title": "Senarai Dewan Undangan Negeri (DUN) Sarawak",
+  "description": "Senarai 82 kerusi Dewan Undangan Negeri (DUN) bagi negeri Sarawak berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 82 State Legislative Assembly seats for Sarawak; a verbatim per-state subset of the national ms-dun list.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_code",
+      "label": "Parlimen Code",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_name",
+      "label": "Parlimen Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "N01",
+      "name": "Opar",
+      "parlimen_code": "P192",
+      "parlimen_name": "Mas Gading",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N02",
+      "name": "Tasik Biru",
+      "parlimen_code": "P192",
+      "parlimen_name": "Mas Gading",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N03",
+      "name": "Tanjong Datu",
+      "parlimen_code": "P193",
+      "parlimen_name": "Santubong",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N04",
+      "name": "Pantai Damai",
+      "parlimen_code": "P193",
+      "parlimen_name": "Santubong",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N05",
+      "name": "Demak Laut",
+      "parlimen_code": "P193",
+      "parlimen_name": "Santubong",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N06",
+      "name": "Tupong",
+      "parlimen_code": "P194",
+      "parlimen_name": "Petra Jaya",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N07",
+      "name": "Samariang",
+      "parlimen_code": "P194",
+      "parlimen_name": "Petra Jaya",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N08",
+      "name": "Satok",
+      "parlimen_code": "P194",
+      "parlimen_name": "Petra Jaya",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N09",
+      "name": "Padungan",
+      "parlimen_code": "P195",
+      "parlimen_name": "Bandar Kuching",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N10",
+      "name": "Pending",
+      "parlimen_code": "P195",
+      "parlimen_name": "Bandar Kuching",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N11",
+      "name": "Batu Lintang",
+      "parlimen_code": "P195",
+      "parlimen_name": "Bandar Kuching",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N12",
+      "name": "Kota Sentosa",
+      "parlimen_code": "P196",
+      "parlimen_name": "Stampin",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N13",
+      "name": "Batu Kitang",
+      "parlimen_code": "P196",
+      "parlimen_name": "Stampin",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N14",
+      "name": "Batu Kawah",
+      "parlimen_code": "P196",
+      "parlimen_name": "Stampin",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N15",
+      "name": "Asajaya",
+      "parlimen_code": "P197",
+      "parlimen_name": "Kota Samarahan",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N16",
+      "name": "Muara Tuang",
+      "parlimen_code": "P197",
+      "parlimen_name": "Kota Samarahan",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N17",
+      "name": "Stakan",
+      "parlimen_code": "P197",
+      "parlimen_name": "Kota Samarahan",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N18",
+      "name": "Serembu",
+      "parlimen_code": "P198",
+      "parlimen_name": "Puncak Borneo",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N19",
+      "name": "Mambong",
+      "parlimen_code": "P198",
+      "parlimen_name": "Puncak Borneo",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N20",
+      "name": "Tarat",
+      "parlimen_code": "P198",
+      "parlimen_name": "Puncak Borneo",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N21",
+      "name": "Tebedu",
+      "parlimen_code": "P199",
+      "parlimen_name": "Serian",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N22",
+      "name": "Kedup",
+      "parlimen_code": "P199",
+      "parlimen_name": "Serian",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N23",
+      "name": "Bukit Semuja",
+      "parlimen_code": "P199",
+      "parlimen_name": "Serian",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N24",
+      "name": "Sadong Jaya",
+      "parlimen_code": "P200",
+      "parlimen_name": "Batang Sadong",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N25",
+      "name": "Simunjan",
+      "parlimen_code": "P200",
+      "parlimen_name": "Batang Sadong",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N26",
+      "name": "Gedong",
+      "parlimen_code": "P200",
+      "parlimen_name": "Batang Sadong",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N27",
+      "name": "Sebuyau",
+      "parlimen_code": "P201",
+      "parlimen_name": "Batang Lupar",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N28",
+      "name": "Lingga",
+      "parlimen_code": "P201",
+      "parlimen_name": "Batang Lupar",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N29",
+      "name": "Beting Maro",
+      "parlimen_code": "P201",
+      "parlimen_name": "Batang Lupar",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N30",
+      "name": "Balai Ringin",
+      "parlimen_code": "P202",
+      "parlimen_name": "Sri Aman",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N31",
+      "name": "Bukit Begunan",
+      "parlimen_code": "P202",
+      "parlimen_name": "Sri Aman",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N32",
+      "name": "Simanggang",
+      "parlimen_code": "P202",
+      "parlimen_name": "Sri Aman",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N33",
+      "name": "Engkilili",
+      "parlimen_code": "P203",
+      "parlimen_name": "Lubok Antu",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N34",
+      "name": "Batang Ai",
+      "parlimen_code": "P203",
+      "parlimen_name": "Lubok Antu",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N35",
+      "name": "Saribas",
+      "parlimen_code": "P204",
+      "parlimen_name": "Betong",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N36",
+      "name": "Layar",
+      "parlimen_code": "P204",
+      "parlimen_name": "Betong",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N37",
+      "name": "Bukit Saban",
+      "parlimen_code": "P204",
+      "parlimen_name": "Betong",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N38",
+      "name": "Kalaka",
+      "parlimen_code": "P205",
+      "parlimen_name": "Saratok",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N39",
+      "name": "Krian",
+      "parlimen_code": "P205",
+      "parlimen_name": "Saratok",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N40",
+      "name": "Kabong",
+      "parlimen_code": "P205",
+      "parlimen_name": "Saratok",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N41",
+      "name": "Kuala Rajang",
+      "parlimen_code": "P206",
+      "parlimen_name": "Tanjong Manis",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N42",
+      "name": "Semop",
+      "parlimen_code": "P206",
+      "parlimen_name": "Tanjong Manis",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N43",
+      "name": "Daro",
+      "parlimen_code": "P207",
+      "parlimen_name": "Igan",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N44",
+      "name": "Jemoreng",
+      "parlimen_code": "P207",
+      "parlimen_name": "Igan",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N45",
+      "name": "Repok",
+      "parlimen_code": "P208",
+      "parlimen_name": "Sarikei",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N46",
+      "name": "Meradong",
+      "parlimen_code": "P208",
+      "parlimen_name": "Sarikei",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N47",
+      "name": "Pakan",
+      "parlimen_code": "P209",
+      "parlimen_name": "Julau",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N48",
+      "name": "Meluan",
+      "parlimen_code": "P209",
+      "parlimen_name": "Julau",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N49",
+      "name": "Ngemah",
+      "parlimen_code": "P210",
+      "parlimen_name": "Kanowit",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N50",
+      "name": "Machan",
+      "parlimen_code": "P210",
+      "parlimen_name": "Kanowit",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N51",
+      "name": "Bukit Assek",
+      "parlimen_code": "P211",
+      "parlimen_name": "Lanang",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N52",
+      "name": "Dudong",
+      "parlimen_code": "P211",
+      "parlimen_name": "Lanang",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N53",
+      "name": "Bawang Assan",
+      "parlimen_code": "P212",
+      "parlimen_name": "Sibu",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N54",
+      "name": "Pelawan",
+      "parlimen_code": "P212",
+      "parlimen_name": "Sibu",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N55",
+      "name": "Nangka",
+      "parlimen_code": "P212",
+      "parlimen_name": "Sibu",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N56",
+      "name": "Dalat",
+      "parlimen_code": "P213",
+      "parlimen_name": "Mukah",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N57",
+      "name": "Tellian",
+      "parlimen_code": "P213",
+      "parlimen_name": "Mukah",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N58",
+      "name": "Balingian",
+      "parlimen_code": "P213",
+      "parlimen_name": "Mukah",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N59",
+      "name": "Tamin",
+      "parlimen_code": "P214",
+      "parlimen_name": "Selangau",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N60",
+      "name": "Kakus",
+      "parlimen_code": "P214",
+      "parlimen_name": "Selangau",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N61",
+      "name": "Pelagus",
+      "parlimen_code": "P215",
+      "parlimen_name": "Kapit",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N62",
+      "name": "Katibas",
+      "parlimen_code": "P215",
+      "parlimen_name": "Kapit",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N63",
+      "name": "Bukit Goram",
+      "parlimen_code": "P215",
+      "parlimen_name": "Kapit",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N64",
+      "name": "Baleh",
+      "parlimen_code": "P216",
+      "parlimen_name": "Hulu Rajang",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N65",
+      "name": "Belaga",
+      "parlimen_code": "P216",
+      "parlimen_name": "Hulu Rajang",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N66",
+      "name": "Murum",
+      "parlimen_code": "P216",
+      "parlimen_name": "Hulu Rajang",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N67",
+      "name": "Jepak",
+      "parlimen_code": "P217",
+      "parlimen_name": "Bintulu",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N68",
+      "name": "Tanjong Batu",
+      "parlimen_code": "P217",
+      "parlimen_name": "Bintulu",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N69",
+      "name": "Kemena",
+      "parlimen_code": "P217",
+      "parlimen_name": "Bintulu",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N70",
+      "name": "Samalaju",
+      "parlimen_code": "P217",
+      "parlimen_name": "Bintulu",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N71",
+      "name": "Bekenu",
+      "parlimen_code": "P218",
+      "parlimen_name": "Sibuti",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N72",
+      "name": "Lambir",
+      "parlimen_code": "P218",
+      "parlimen_name": "Sibuti",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N73",
+      "name": "Piasau",
+      "parlimen_code": "P219",
+      "parlimen_name": "Miri",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N74",
+      "name": "Pujut",
+      "parlimen_code": "P219",
+      "parlimen_name": "Miri",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N75",
+      "name": "Senadin",
+      "parlimen_code": "P219",
+      "parlimen_name": "Miri",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N76",
+      "name": "Marudi",
+      "parlimen_code": "P220",
+      "parlimen_name": "Baram",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N77",
+      "name": "Telang Usan",
+      "parlimen_code": "P220",
+      "parlimen_name": "Baram",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N78",
+      "name": "Mulu",
+      "parlimen_code": "P220",
+      "parlimen_name": "Baram",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N79",
+      "name": "Bukit Kota",
+      "parlimen_code": "P221",
+      "parlimen_name": "Limbang",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N80",
+      "name": "Batu Danau",
+      "parlimen_code": "P221",
+      "parlimen_name": "Limbang",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N81",
+      "name": "Ba'kelalan",
+      "parlimen_code": "P222",
+      "parlimen_name": "Lawas",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    },
+    {
+      "code": "N82",
+      "name": "Bukit Sari",
+      "parlimen_code": "P222",
+      "parlimen_name": "Lawas",
+      "negeri": "Sarawak",
+      "negeri_slug": "sarawak"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Dewan Undangan Negeri (DUN) Sarawak - Muat turun percuma",
+    "description": "Senarai 82 kerusi Dewan Undangan Negeri (DUN) bagi negeri Sarawak berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 82 State Legislative Assembly seats for Sarawak; a verbatim per-state subset of the national ms-dun list. Mengandungi 82 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Dewan Undangan Negeri (DUN) Sarawak | ListBase",
+    "seo_description": "Muat turun Senarai Dewan Undangan Negeri (DUN) Sarawak — 82 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 82 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "id": "ms-johor-dun",
+  "name": "Senarai Dewan Undangan Negeri (DUN) Johor",
+  "title": "Senarai Dewan Undangan Negeri (DUN) Johor",
+  "description": "Senarai 56 kerusi Dewan Undangan Negeri (DUN) bagi negeri Johor berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 56 State Legislative Assembly seats for Johor; a verbatim per-state subset of the national ms-dun list.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_code",
+      "label": "Parlimen Code",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_name",
+      "label": "Parlimen Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "N01",
+      "name": "Buloh Kasap",
+      "parlimen_code": "P140",
+      "parlimen_name": "Segamat",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N02",
+      "name": "Jementah",
+      "parlimen_code": "P140",
+      "parlimen_name": "Segamat",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N03",
+      "name": "Pemanis",
+      "parlimen_code": "P141",
+      "parlimen_name": "Sekijang",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N04",
+      "name": "Kemelah",
+      "parlimen_code": "P141",
+      "parlimen_name": "Sekijang",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N05",
+      "name": "Tenang",
+      "parlimen_code": "P142",
+      "parlimen_name": "Labis",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N06",
+      "name": "Bekok",
+      "parlimen_code": "P142",
+      "parlimen_name": "Labis",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N07",
+      "name": "Bukit Kepong",
+      "parlimen_code": "P143",
+      "parlimen_name": "Pagoh",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N08",
+      "name": "Bukit Pasir",
+      "parlimen_code": "P143",
+      "parlimen_name": "Pagoh",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N09",
+      "name": "Gambir",
+      "parlimen_code": "P144",
+      "parlimen_name": "Ledang",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N10",
+      "name": "Tangkak",
+      "parlimen_code": "P144",
+      "parlimen_name": "Ledang",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N11",
+      "name": "Serom",
+      "parlimen_code": "P144",
+      "parlimen_name": "Ledang",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N12",
+      "name": "Bentayan",
+      "parlimen_code": "P145",
+      "parlimen_name": "Bakri",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N13",
+      "name": "Simpang Jeram",
+      "parlimen_code": "P145",
+      "parlimen_name": "Bakri",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N14",
+      "name": "Bukit Naning",
+      "parlimen_code": "P145",
+      "parlimen_name": "Bakri",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N15",
+      "name": "Maharani",
+      "parlimen_code": "P146",
+      "parlimen_name": "Muar",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N16",
+      "name": "Sungai Balang",
+      "parlimen_code": "P146",
+      "parlimen_name": "Muar",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N17",
+      "name": "Semerah",
+      "parlimen_code": "P147",
+      "parlimen_name": "Parit Sulong",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N18",
+      "name": "Sri Medan",
+      "parlimen_code": "P147",
+      "parlimen_name": "Parit Sulong",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N19",
+      "name": "Yong Peng",
+      "parlimen_code": "P148",
+      "parlimen_name": "Ayer Hitam",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N20",
+      "name": "Semarang",
+      "parlimen_code": "P148",
+      "parlimen_name": "Ayer Hitam",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N21",
+      "name": "Parit Yaani",
+      "parlimen_code": "P149",
+      "parlimen_name": "Sri Gading",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N22",
+      "name": "Parit Raja",
+      "parlimen_code": "P149",
+      "parlimen_name": "Sri Gading",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N23",
+      "name": "Penggaram",
+      "parlimen_code": "P150",
+      "parlimen_name": "Batu Pahat",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N24",
+      "name": "Senggarang",
+      "parlimen_code": "P150",
+      "parlimen_name": "Batu Pahat",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N25",
+      "name": "Rengit",
+      "parlimen_code": "P150",
+      "parlimen_name": "Batu Pahat",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N26",
+      "name": "Machap",
+      "parlimen_code": "P151",
+      "parlimen_name": "Simpang Renggam",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N27",
+      "name": "Layang-Layang",
+      "parlimen_code": "P151",
+      "parlimen_name": "Simpang Renggam",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N28",
+      "name": "Mengkibol",
+      "parlimen_code": "P152",
+      "parlimen_name": "Kluang",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N29",
+      "name": "Mahkota",
+      "parlimen_code": "P152",
+      "parlimen_name": "Kluang",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N30",
+      "name": "Paloh",
+      "parlimen_code": "P153",
+      "parlimen_name": "Sembrong",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N31",
+      "name": "Kahang",
+      "parlimen_code": "P153",
+      "parlimen_name": "Sembrong",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N32",
+      "name": "Endau",
+      "parlimen_code": "P154",
+      "parlimen_name": "Mersing",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N33",
+      "name": "Tenggaroh",
+      "parlimen_code": "P154",
+      "parlimen_name": "Mersing",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N34",
+      "name": "Panti",
+      "parlimen_code": "P155",
+      "parlimen_name": "Tenggara",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N35",
+      "name": "Pasir Raja",
+      "parlimen_code": "P155",
+      "parlimen_name": "Tenggara",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N36",
+      "name": "Sedili",
+      "parlimen_code": "P156",
+      "parlimen_name": "Kota Tinggi",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N37",
+      "name": "Johor Lama",
+      "parlimen_code": "P156",
+      "parlimen_name": "Kota Tinggi",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N38",
+      "name": "Penawar",
+      "parlimen_code": "P157",
+      "parlimen_name": "Pengerang",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N39",
+      "name": "Tanjung Surat",
+      "parlimen_code": "P157",
+      "parlimen_name": "Pengerang",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N40",
+      "name": "Tiram",
+      "parlimen_code": "P158",
+      "parlimen_name": "Tebrau",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N41",
+      "name": "Puteri Wangsa",
+      "parlimen_code": "P158",
+      "parlimen_name": "Tebrau",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N42",
+      "name": "Johor Jaya",
+      "parlimen_code": "P159",
+      "parlimen_name": "Pasir Gudang",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N43",
+      "name": "Permas",
+      "parlimen_code": "P159",
+      "parlimen_name": "Pasir Gudang",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N44",
+      "name": "Larkin",
+      "parlimen_code": "P160",
+      "parlimen_name": "Johor Bahru",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N45",
+      "name": "Stulang",
+      "parlimen_code": "P160",
+      "parlimen_name": "Johor Bahru",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N46",
+      "name": "Perling",
+      "parlimen_code": "P161",
+      "parlimen_name": "Pulai",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N47",
+      "name": "Kempas",
+      "parlimen_code": "P161",
+      "parlimen_name": "Pulai",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N48",
+      "name": "Skudai",
+      "parlimen_code": "P162",
+      "parlimen_name": "Iskandar Puteri",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N49",
+      "name": "Kota Iskandar",
+      "parlimen_code": "P162",
+      "parlimen_name": "Iskandar Puteri",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N50",
+      "name": "Bukit Permai",
+      "parlimen_code": "P163",
+      "parlimen_name": "Kulai",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N51",
+      "name": "Bukit Batu",
+      "parlimen_code": "P163",
+      "parlimen_name": "Kulai",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N52",
+      "name": "Senai",
+      "parlimen_code": "P163",
+      "parlimen_name": "Kulai",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N53",
+      "name": "Benut",
+      "parlimen_code": "P164",
+      "parlimen_name": "Pontian",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N54",
+      "name": "Pulai Sebatang",
+      "parlimen_code": "P164",
+      "parlimen_name": "Pontian",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N55",
+      "name": "Pekan Nanas",
+      "parlimen_code": "P165",
+      "parlimen_name": "Tanjung Piai",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    },
+    {
+      "code": "N56",
+      "name": "Kukup",
+      "parlimen_code": "P165",
+      "parlimen_name": "Tanjung Piai",
+      "negeri": "Johor",
+      "negeri_slug": "johor"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Dewan Undangan Negeri (DUN) Johor - Muat turun percuma",
+    "description": "Senarai 56 kerusi Dewan Undangan Negeri (DUN) bagi negeri Johor berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 56 State Legislative Assembly seats for Johor; a verbatim per-state subset of the national ms-dun list. Mengandungi 56 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Dewan Undangan Negeri (DUN) Johor | ListBase",
+    "seo_description": "Muat turun Senarai Dewan Undangan Negeri (DUN) Johor — 56 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 56 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

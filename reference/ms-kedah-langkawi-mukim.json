@@ -1,0 +1,184 @@
+{
+  "id": "ms-kedah-langkawi-mukim",
+  "name": "Mukim di Daerah Langkawi, Kedah",
+  "title": "Mukim di Daerah Langkawi, Kedah",
+  "description": "Senarai lengkap 9 mukim di daerah Langkawi, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 9 mukim (traditional sub-district units) in Langkawi District, Kedah, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "020402",
+      "name": "Ayer Hangat",
+      "name_uppercase": "AYER HANGAT",
+      "district_id": "204",
+      "district": "Langkawi",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 118,
+      "state_slug": "kedah",
+      "district_slug": "langkawi"
+    },
+    {
+      "id": "020401",
+      "name": "Bohor",
+      "name_uppercase": "BOHOR",
+      "district_id": "204",
+      "district": "Langkawi",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 119,
+      "state_slug": "kedah",
+      "district_slug": "langkawi"
+    },
+    {
+      "id": "020403",
+      "name": "Kedawang",
+      "name_uppercase": "KEDAWANG",
+      "district_id": "204",
+      "district": "Langkawi",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 120,
+      "state_slug": "kedah",
+      "district_slug": "langkawi"
+    },
+    {
+      "id": "020404",
+      "name": "Kuah",
+      "name_uppercase": "KUAH",
+      "district_id": "204",
+      "district": "Langkawi",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 121,
+      "state_slug": "kedah",
+      "district_slug": "langkawi"
+    },
+    {
+      "id": "020405",
+      "name": "Padang Masirat",
+      "name_uppercase": "PADANG MASIRAT",
+      "district_id": "204",
+      "district": "Langkawi",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 122,
+      "state_slug": "kedah",
+      "district_slug": "langkawi"
+    },
+    {
+      "id": "020406",
+      "name": "Ulu Melaka",
+      "name_uppercase": "ULU MELAKA",
+      "district_id": "204",
+      "district": "Langkawi",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 123,
+      "state_slug": "kedah",
+      "district_slug": "langkawi"
+    },
+    {
+      "id": "020440",
+      "name": "Bandar Kuah",
+      "name_uppercase": "BANDAR KUAH",
+      "district_id": "204",
+      "district": "Langkawi",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 124,
+      "state_slug": "kedah",
+      "district_slug": "langkawi"
+    },
+    {
+      "id": "020442",
+      "name": "Bandar Padang Lalang",
+      "name_uppercase": "BANDAR PADANG LALANG",
+      "district_id": "204",
+      "district": "Langkawi",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 125,
+      "state_slug": "kedah",
+      "district_slug": "langkawi"
+    },
+    {
+      "id": "020472",
+      "name": "Pekan Telok Datai",
+      "name_uppercase": "PEKAN TELOK DATAI",
+      "district_id": "204",
+      "district": "Langkawi",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 126,
+      "state_slug": "kedah",
+      "district_slug": "langkawi"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Langkawi, Kedah - Muat turun percuma",
+    "description": "Senarai lengkap 9 mukim di daerah Langkawi, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 9 mukim (traditional sub-district units) in Langkawi District, Kedah, Malaysia. Mengandungi 9 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Langkawi, Kedah | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Langkawi, Kedah — 9 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 9 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "id": "ms-tapak-arkeologi",
+  "name": "Tapak Arkeologi di Malaysia",
+  "title": "Tapak Arkeologi di Malaysia",
+  "description": "Archaeological sites in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q20465481",
+      "name_ms": "Bukit Bunuh",
+      "name_en": "Bukit Bunuh",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.075,
+      "longitude": 100.975,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20465481"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q2927805",
+      "name_ms": "Bukit Jawa",
+      "name_en": "Bukit Jawa",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.1289,
+      "longitude": 100.9928,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2927805"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q66133227",
+      "name_ms": "",
+      "name_en": "Bukit Kepala Gajah",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.1262,
+      "longitude": 100.9667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66133227"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q127438399",
+      "name_ms": "Candi Bukit Batu Pahat",
+      "name_en": "Candi Bukit Batu Pahat",
+      "admin_area_ms": "Kedah",
+      "admin_area_en": "Kedah",
+      "latitude": 5.7392,
+      "longitude": 100.4137,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127438399"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q127441817",
+      "name_ms": "Candi Pengkalan Bujang",
+      "name_en": "Candi Pengkalan Bujang",
+      "admin_area_ms": "Kedah",
+      "admin_area_en": "Kedah",
+      "latitude": 5.6844,
+      "longitude": 100.4242,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127441817"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q31186441",
+      "name_ms": "Gua Harimau",
+      "name_en": "Bukit Gua Harimau",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.1494,
+      "longitude": 100.9807,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31186441"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q1552550",
+      "name_ms": "Gua Tambun",
+      "name_en": "Gua Tambun",
+      "admin_area_ms": "Perak",
+      "admin_area_en": "Perak",
+      "latitude": 4.603056,
+      "longitude": 101.13,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1552550"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q127432630",
+      "name_ms": "Gua Teluk Kelawar",
+      "name_en": "Gua Teluk Kelawar",
+      "admin_area_ms": "Perak",
+      "admin_area_en": "Perak",
+      "latitude": 5.12149,
+      "longitude": 100.97751,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127432630"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q7366457",
+      "name_ms": "Kota Tampan",
+      "name_en": "Kota Tampan",
+      "admin_area_ms": "Perak",
+      "admin_area_en": "Perak",
+      "latitude": 5.0488,
+      "longitude": 100.9538,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7366457"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q3181128",
+      "name_ms": "Lembah Bujang",
+      "name_en": "Bujang Valley",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.7373,
+      "longitude": 100.4143,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3181128"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q3370009",
+      "name_ms": "Lembah Lenggong",
+      "name_en": "Archaeological Heritage of the Lenggong Valley",
+      "admin_area_ms": "Perak",
+      "admin_area_en": "Perak",
+      "latitude": 5.06791,
+      "longitude": 100.972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3370009"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q65052122",
+      "name_ms": "Petroglif Lumuyu",
+      "name_en": "Lumuyu Petroglyphs",
+      "admin_area_ms": "Daerah Tenom",
+      "admin_area_en": "Tenom District",
+      "latitude": 4.7,
+      "longitude": 115.88333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65052122"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q104844957",
+      "name_ms": "Sungai Batu",
+      "name_en": "Sungai Batu Archaeological Site",
+      "admin_area_ms": "Kedah",
+      "admin_area_en": "Kedah",
+      "latitude": 5.6953,
+      "longitude": 100.4541,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104844957"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q127443493",
+      "name_ms": "Tapak Bukit Choras",
+      "name_en": "Bukit Choras",
+      "admin_area_ms": "Kedah",
+      "admin_area_en": "Kedah",
+      "latitude": 5.9655,
+      "longitude": 100.4199,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127443493"
+    }
+  ],
+  "meta": {
+    "title": "Tapak Arkeologi di Malaysia - Muat turun percuma",
+    "description": "Archaeological sites in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location). Mengandungi 14 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Tapak Arkeologi di Malaysia | ListBase",
+    "seo_description": "Muat turun Tapak Arkeologi di Malaysia — 14 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 14 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

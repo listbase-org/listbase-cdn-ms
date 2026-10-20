@@ -1,0 +1,528 @@
+{
+  "id": "ms-perak-dun",
+  "name": "Senarai Dewan Undangan Negeri (DUN) Perak",
+  "title": "Senarai Dewan Undangan Negeri (DUN) Perak",
+  "description": "Senarai 59 kerusi Dewan Undangan Negeri (DUN) bagi negeri Perak berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 59 State Legislative Assembly seats for Perak; a verbatim per-state subset of the national ms-dun list.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_code",
+      "label": "Parlimen Code",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_name",
+      "label": "Parlimen Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "N01",
+      "name": "Pengkalan Hulu",
+      "parlimen_code": "P054",
+      "parlimen_name": "Gerik",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N02",
+      "name": "Temengor",
+      "parlimen_code": "P054",
+      "parlimen_name": "Gerik",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N03",
+      "name": "Kenering",
+      "parlimen_code": "P055",
+      "parlimen_name": "Lenggong",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N04",
+      "name": "Kota Tampan",
+      "parlimen_code": "P055",
+      "parlimen_name": "Lenggong",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N05",
+      "name": "Selama",
+      "parlimen_code": "P056",
+      "parlimen_name": "Larut",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N06",
+      "name": "Kubu Gajah",
+      "parlimen_code": "P056",
+      "parlimen_name": "Larut",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N07",
+      "name": "Batu Kurau",
+      "parlimen_code": "P056",
+      "parlimen_name": "Larut",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N08",
+      "name": "Titi Serong",
+      "parlimen_code": "P057",
+      "parlimen_name": "Parit Buntar",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N09",
+      "name": "Kuala Kurau",
+      "parlimen_code": "P057",
+      "parlimen_name": "Parit Buntar",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N10",
+      "name": "Alor Pongsu",
+      "parlimen_code": "P058",
+      "parlimen_name": "Bagan Serai",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N11",
+      "name": "Gunong Semanggol",
+      "parlimen_code": "P058",
+      "parlimen_name": "Bagan Serai",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N12",
+      "name": "Selinsing",
+      "parlimen_code": "P058",
+      "parlimen_name": "Bagan Serai",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N13",
+      "name": "Kuala Sepetang",
+      "parlimen_code": "P059",
+      "parlimen_name": "Bukit Gantang",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N14",
+      "name": "Changkat Jering",
+      "parlimen_code": "P059",
+      "parlimen_name": "Bukit Gantang",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N15",
+      "name": "Trong",
+      "parlimen_code": "P059",
+      "parlimen_name": "Bukit Gantang",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N16",
+      "name": "Kamunting",
+      "parlimen_code": "P060",
+      "parlimen_name": "Taiping",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N17",
+      "name": "Pokok Assam",
+      "parlimen_code": "P060",
+      "parlimen_name": "Taiping",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N18",
+      "name": "Aulong",
+      "parlimen_code": "P060",
+      "parlimen_name": "Taiping",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N19",
+      "name": "Chenderoh",
+      "parlimen_code": "P061",
+      "parlimen_name": "Padang Rengas",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N20",
+      "name": "Lubok Merbau",
+      "parlimen_code": "P061",
+      "parlimen_name": "Padang Rengas",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N21",
+      "name": "Lintang",
+      "parlimen_code": "P062",
+      "parlimen_name": "Sungai Siput",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N22",
+      "name": "Jalong",
+      "parlimen_code": "P062",
+      "parlimen_name": "Sungai Siput",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N23",
+      "name": "Manjoi",
+      "parlimen_code": "P063",
+      "parlimen_name": "Tambun",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N24",
+      "name": "Hulu Kinta",
+      "parlimen_code": "P063",
+      "parlimen_name": "Tambun",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N25",
+      "name": "Canning",
+      "parlimen_code": "P064",
+      "parlimen_name": "Ipoh Timor",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N26",
+      "name": "Tebing Tinggi",
+      "parlimen_code": "P064",
+      "parlimen_name": "Ipoh Timor",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N27",
+      "name": "Pasir Pinji",
+      "parlimen_code": "P064",
+      "parlimen_name": "Ipoh Timor",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N28",
+      "name": "Bercham",
+      "parlimen_code": "P065",
+      "parlimen_name": "Ipoh Barat",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N29",
+      "name": "Kepayang",
+      "parlimen_code": "P065",
+      "parlimen_name": "Ipoh Barat",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N30",
+      "name": "Buntong",
+      "parlimen_code": "P065",
+      "parlimen_name": "Ipoh Barat",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N31",
+      "name": "Jelapang",
+      "parlimen_code": "P066",
+      "parlimen_name": "Batu Gajah",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N32",
+      "name": "Menglembu",
+      "parlimen_code": "P066",
+      "parlimen_name": "Batu Gajah",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N33",
+      "name": "Tronoh",
+      "parlimen_code": "P066",
+      "parlimen_name": "Batu Gajah",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N34",
+      "name": "Bukit Chandan",
+      "parlimen_code": "P067",
+      "parlimen_name": "Kuala Kangsar",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N35",
+      "name": "Manong",
+      "parlimen_code": "P067",
+      "parlimen_name": "Kuala Kangsar",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N36",
+      "name": "Pengkalan Baharu",
+      "parlimen_code": "P068",
+      "parlimen_name": "Beruas",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N37",
+      "name": "Pantai Remis",
+      "parlimen_code": "P068",
+      "parlimen_name": "Beruas",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N38",
+      "name": "Astaka",
+      "parlimen_code": "P068",
+      "parlimen_name": "Beruas",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N39",
+      "name": "Belanja",
+      "parlimen_code": "P069",
+      "parlimen_name": "Parit",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N40",
+      "name": "Bota",
+      "parlimen_code": "P069",
+      "parlimen_name": "Parit",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N41",
+      "name": "Malim Nawar",
+      "parlimen_code": "P070",
+      "parlimen_name": "Kampar",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N42",
+      "name": "Keranji",
+      "parlimen_code": "P070",
+      "parlimen_name": "Kampar",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N43",
+      "name": "Tualang Sekah",
+      "parlimen_code": "P070",
+      "parlimen_name": "Kampar",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N44",
+      "name": "Sungai Rapat",
+      "parlimen_code": "P071",
+      "parlimen_name": "Gopeng",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N45",
+      "name": "Simpang Pulai",
+      "parlimen_code": "P071",
+      "parlimen_name": "Gopeng",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N46",
+      "name": "Teja",
+      "parlimen_code": "P071",
+      "parlimen_name": "Gopeng",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N47",
+      "name": "Chenderiang",
+      "parlimen_code": "P072",
+      "parlimen_name": "Tapah",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N48",
+      "name": "Ayer Kuning",
+      "parlimen_code": "P072",
+      "parlimen_name": "Tapah",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N49",
+      "name": "Sungai Manik",
+      "parlimen_code": "P073",
+      "parlimen_name": "Pasir Salak",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N50",
+      "name": "Kampong Gajah",
+      "parlimen_code": "P073",
+      "parlimen_name": "Pasir Salak",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N51",
+      "name": "Pasir Panjang",
+      "parlimen_code": "P074",
+      "parlimen_name": "Lumut",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N52",
+      "name": "Pangkor",
+      "parlimen_code": "P074",
+      "parlimen_name": "Lumut",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N53",
+      "name": "Rungkup",
+      "parlimen_code": "P075",
+      "parlimen_name": "Bagan Datuk",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N54",
+      "name": "Hutan Melintang",
+      "parlimen_code": "P075",
+      "parlimen_name": "Bagan Datuk",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N55",
+      "name": "Pasir Bedamar",
+      "parlimen_code": "P076",
+      "parlimen_name": "Teluk Intan",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N56",
+      "name": "Changkat Jong",
+      "parlimen_code": "P076",
+      "parlimen_name": "Teluk Intan",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N57",
+      "name": "Sungkai",
+      "parlimen_code": "P077",
+      "parlimen_name": "Tanjong Malim",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N58",
+      "name": "Slim",
+      "parlimen_code": "P077",
+      "parlimen_name": "Tanjong Malim",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    },
+    {
+      "code": "N59",
+      "name": "Behrang",
+      "parlimen_code": "P077",
+      "parlimen_name": "Tanjong Malim",
+      "negeri": "Perak",
+      "negeri_slug": "perak"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Dewan Undangan Negeri (DUN) Perak - Muat turun percuma",
+    "description": "Senarai 59 kerusi Dewan Undangan Negeri (DUN) bagi negeri Perak berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 59 State Legislative Assembly seats for Perak; a verbatim per-state subset of the national ms-dun list. Mengandungi 59 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Dewan Undangan Negeri (DUN) Perak | ListBase",
+    "seo_description": "Muat turun Senarai Dewan Undangan Negeri (DUN) Perak — 59 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 59 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

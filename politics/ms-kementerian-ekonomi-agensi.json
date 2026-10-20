@@ -1,0 +1,192 @@
+{
+  "id": "ms-kementerian-ekonomi-agensi",
+  "name": "Senarai Agensi Kementerian Ekonomi",
+  "title": "Senarai Agensi Kementerian Ekonomi",
+  "description": "Senarai 3 agensi kerajaan di bawah Kementerian Ekonomi (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 3/3 koordinat, 3/3 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "JABATAN PERANGKAAN MALAYSIA",
+      "parent_body": "Kementerian Ekonomi",
+      "parent_body_slug": "kementerian-ekonomi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "JABATAN PERANGKAAN MALAYSIA",
+      "address": "Jabatan Perangkaan Malaysia Blok C6, Kompleks C, Pusat Pentadbiran Kerajaan Persekutuan, 62514 Putrajaya",
+      "phone": "603-8885 7000",
+      "fax": "603-8888 9248",
+      "email": "jpbkkp@dosm.gov.my",
+      "contact_person": "Pegawai Perhubungan Awam",
+      "website": "https://www.dosm.gov.my",
+      "latitude": "2.936249",
+      "longitude": "101.699167",
+      "facebook": "https://www.facebook.com/StatsMalaysia/",
+      "twitter": "https://twitter.com/StatsMalaysia",
+      "instagram": "https://www.instagram.com/statsmalaysia/",
+      "youtube": "https://www.youtube.com/channel/UC0CMa71i-wBYmz-HIZ8bOzQ",
+      "unique_code": "PAP-01-21-00",
+      "active": true,
+      "agency_id": 141
+    },
+    {
+      "name": "Kementerian Ekonomi",
+      "parent_body": "Kementerian Ekonomi",
+      "parent_body_slug": "kementerian-ekonomi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Kementerian Ekonomi",
+      "address": "Menara Prisma, No. 26, Persiaran Perdana, Presint 3 , Pusat Pentadbiran Kerajaan Persekutuan, 62675 Putrajaya",
+      "phone": "603-8000 8000",
+      "fax": "",
+      "email": "ukk@ekonomi.gov.my",
+      "contact_person": "Unit Komunikasi Korporat",
+      "website": "https://www.ekonomi.gov.my",
+      "latitude": "2.9164924",
+      "longitude": "101.6813383",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "M-2023-EKONOMI-AGENSI",
+      "active": true,
+      "agency_id": 42124
+    },
+    {
+      "name": "Unit Peneraju Agenda Bumiputera (TERAJU)",
+      "parent_body": "Kementerian Ekonomi",
+      "parent_body_slug": "kementerian-ekonomi",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Meneraju, memacu dan menyelaras penyertaan Bumiputera dalam ekonomi negara",
+      "address": "Unit Peneraju Agenda Bumiputera Tingkat 13, Blok A, Suasana PjH Jalan Tun Abdul Razak Presint 2 62100 Putrajaya",
+      "phone": "603 8090 3000",
+      "fax": "603 8090 3100",
+      "email": "corpcomms@teraju.gov.my",
+      "contact_person": "Komunikasi Korporat",
+      "website": "https://www.teraju.gov.my",
+      "latitude": "2.9264264",
+      "longitude": "101.6842037",
+      "facebook": "https://www.facebook.com/terajuofficialpage/",
+      "twitter": "https://twitter.com/terajuofficial",
+      "instagram": "https://www.instagram.com/terajuofficial/",
+      "youtube": "https://www.youtube.com/terajuofficial",
+      "unique_code": "PUB-14634-00",
+      "active": true,
+      "agency_id": 41712
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi Kementerian Ekonomi - Muat turun percuma",
+    "description": "Senarai 3 agensi kerajaan di bawah Kementerian Ekonomi (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 3/3 koordinat, 3/3 laman web. Mengandungi 3 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi Kementerian Ekonomi | ListBase",
+    "seo_description": "Muat turun Senarai Agensi Kementerian Ekonomi — 3 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 3 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

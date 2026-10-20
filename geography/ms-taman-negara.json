@@ -1,0 +1,406 @@
+{
+  "id": "ms-taman-negara",
+  "name": "Taman negara di Malaysia",
+  "title": "Taman negara di Malaysia",
+  "description": "Taman negara di Malaysia — 25 entri taman negara (national park) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=Q46169 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Taman Negara Tunku Abdul Rahman, Santuari Hidupan Liar Kinabatangan, Hutan Belum, Miri-Sibuti Coral Reef National Park, Taman Negara Banjaran Crocker, Taman Negara Tanjung Piai. Liputan label Bahasa Melayu: 16/25. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, country_ms, country_qid, latitude, longitude, wikidata_url.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "country_ms",
+      "label": "Country Ms",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q1097024",
+      "wikidata_id": "Q1097024",
+      "name_ms": "Taman Negara Tunku Abdul Rahman",
+      "name_en": "Tunku Abdul Rahman National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.96667,
+      "longitude": 116,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1097024"
+    },
+    {
+      "id": "Q133831730",
+      "wikidata_id": "Q133831730",
+      "name_ms": "Santuari Hidupan Liar Kinabatangan",
+      "name_en": "Kinabatangan Wildlife Sanctuary",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.626139,
+      "longitude": 118.572611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133831730"
+    },
+    {
+      "id": "Q14206230",
+      "wikidata_id": "Q14206230",
+      "name_ms": "Hutan Belum",
+      "name_en": "Belum Temenggor Forest Reserve",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.67,
+      "longitude": 101.38,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14206230"
+    },
+    {
+      "id": "Q17053782",
+      "wikidata_id": "Q17053782",
+      "name_ms": "",
+      "name_en": "Miri-Sibuti Coral Reef National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.31667,
+      "longitude": 113.85,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17053782"
+    },
+    {
+      "id": "Q1974550",
+      "wikidata_id": "Q1974550",
+      "name_ms": "Taman Negara Banjaran Crocker",
+      "name_en": "Crocker Range National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.583333333,
+      "longitude": 116.083333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1974550"
+    },
+    {
+      "id": "Q20452389",
+      "wikidata_id": "Q20452389",
+      "name_ms": "Taman Negara Tanjung Piai",
+      "name_en": "Tanjung Piai National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.2683,
+      "longitude": 103.5101,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20452389"
+    },
+    {
+      "id": "Q2780219",
+      "wikidata_id": "Q2780219",
+      "name_ms": "Taman Laut Pulau Penyu",
+      "name_en": "Turtle Islands National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 6.14944,
+      "longitude": 118.054,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2780219"
+    },
+    {
+      "id": "Q3663554",
+      "wikidata_id": "Q3663554",
+      "name_ms": "Taman Negara Endau-Rompin",
+      "name_en": "Endau-Rompin National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.43892,
+      "longitude": 103.273,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3663554"
+    },
+    {
+      "id": "Q370159",
+      "wikidata_id": "Q370159",
+      "name_ms": "Taman Negara Bako",
+      "name_en": "Bako National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.716667,
+      "longitude": 110.466667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q370159"
+    },
+    {
+      "id": "Q4868577",
+      "wikidata_id": "Q4868577",
+      "name_ms": "",
+      "name_en": "Batang Ai National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.13333333,
+      "longitude": 111.88333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4868577"
+    },
+    {
+      "id": "Q61535",
+      "wikidata_id": "Q61535",
+      "name_ms": "Taman Negara Mulu",
+      "name_en": "Gunung Mulu National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.0425,
+      "longitude": 114.8125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61535"
+    },
+    {
+      "id": "Q6441143",
+      "wikidata_id": "Q6441143",
+      "name_ms": "",
+      "name_en": "Kubah National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.597611111,
+      "longitude": 110.194416666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6441143"
+    },
+    {
+      "id": "Q6441519",
+      "wikidata_id": "Q6441519",
+      "name_ms": "Taman Negara Tanah Lembap Kuching",
+      "name_en": "Kuching Wetlands National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.68333333,
+      "longitude": 110.25,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6441519"
+    },
+    {
+      "id": "Q6481482",
+      "wikidata_id": "Q6481482",
+      "name_ms": "Taman Negara Bukit Lambir",
+      "name_en": "Lambir Hills National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.213,
+      "longitude": 114.03,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6481482"
+    },
+    {
+      "id": "Q65071172",
+      "wikidata_id": "Q65071172",
+      "name_ms": "",
+      "name_en": "Gunung Gading National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.690549,
+      "longitude": 109.84583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65071172"
+    },
+    {
+      "id": "Q6663421",
+      "wikidata_id": "Q6663421",
+      "name_ms": "Taman Negara Loagan Bunut",
+      "name_en": "Loagan Bunut National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 3.77,
+      "longitude": 114.22,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6663421"
+    },
+    {
+      "id": "Q6744949",
+      "wikidata_id": "Q6744949",
+      "name_ms": "",
+      "name_en": "Maludam National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.549,
+      "longitude": 111.092,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6744949"
+    },
+    {
+      "id": "Q7162231",
+      "wikidata_id": "Q7162231",
+      "name_ms": "Taman Negara Pulau Pinang",
+      "name_en": "Penang National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.4607,
+      "longitude": 100.2039,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7162231"
+    },
+    {
+      "id": "Q7259254",
+      "wikidata_id": "Q7259254",
+      "name_ms": "",
+      "name_en": "Pulau Tiga National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.716666666,
+      "longitude": 115.65,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7259254"
+    },
+    {
+      "id": "Q7259564",
+      "wikidata_id": "Q7259564",
+      "name_ms": "",
+      "name_en": "Pulong Tau National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 3.593,
+      "longitude": 115.33,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7259564"
+    },
+    {
+      "id": "Q7446357",
+      "wikidata_id": "Q7446357",
+      "name_ms": "Taman Negara Gunung Ledang",
+      "name_en": "Gunung Ledang National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.3417,
+      "longitude": 102.6179,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7446357"
+    },
+    {
+      "id": "Q7446382",
+      "wikidata_id": "Q7446382",
+      "name_ms": "Taman Negara Similajau",
+      "name_en": "Similajau National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 3.424,
+      "longitude": 113.233,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7446382"
+    },
+    {
+      "id": "Q7683409",
+      "wikidata_id": "Q7683409",
+      "name_ms": "",
+      "name_en": "Tanjung Datu National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.058083333,
+      "longitude": 109.641444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7683409"
+    },
+    {
+      "id": "Q7689242",
+      "wikidata_id": "Q7689242",
+      "name_ms": "",
+      "name_en": "Tawau Hills National Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.4,
+      "longitude": 117.9,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7689242"
+    },
+    {
+      "id": "Q834893",
+      "wikidata_id": "Q834893",
+      "name_ms": "Taman Kinabalu",
+      "name_en": "Kinabalu Park",
+      "type_ms": "taman negara",
+      "type_en": "national park",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 6.15,
+      "longitude": 116.65,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q834893"
+    }
+  ],
+  "meta": {
+    "title": "Taman negara di Malaysia - Muat turun percuma",
+    "description": "Taman negara di Malaysia — 25 entri taman negara (national park) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=Q46169 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Taman Negara Tunku Abdul Rahman, Santuari Hidupan Liar Kinabatangan, Hutan Belum, Miri-Sibuti Coral Reef National Park, Taman Negara Banjaran Crocker, Taman Negara Tanjung Piai. Liputan label Bahasa Melayu: 16/25. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, country_ms, country_qid, latitude, longitude, wikidata_url. Mengandungi 25 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Taman negara di Malaysia | ListBase",
+    "seo_description": "Muat turun Taman negara di Malaysia — 25 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 25 rekod / 11 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

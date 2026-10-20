@@ -1,0 +1,86 @@
+{
+  "id": "ms-johor-bahru-johor-kod-swift",
+  "name": "Kod SWIFT/BIC — Johor Bahru, Johor",
+  "title": "Kod SWIFT/BIC — Johor Bahru, Johor",
+  "description": "Senarai institusi kewangan di Johor Bahru, Johor (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Johor Bahru, Johor, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 117,
+      "bank": "CITIBANK BERHAD",
+      "city": "JOHOR BAHRU, JOHOR",
+      "branch": "(JOHOR BAHRU BRANCH)",
+      "swift_code": "CITIMYKLJOD"
+    },
+    {
+      "id": 209,
+      "bank": "MALAYAN BANKING BERHAD (MAYBANK)",
+      "city": "JOHOR BAHRU, JOHOR",
+      "branch": "",
+      "swift_code": "MBBEMYKLJOB"
+    },
+    {
+      "id": 287,
+      "bank": "PELABURAN JOHOR BERHAD",
+      "city": "JOHOR BAHRU, JOHOR",
+      "branch": "",
+      "swift_code": "PJBJMY21"
+    },
+    {
+      "id": 302,
+      "bank": "PRIMEINVESTCORP",
+      "city": "JOHOR BAHRU, JOHOR",
+      "branch": "",
+      "swift_code": "PRNVMY21"
+    },
+    {
+      "id": 371,
+      "bank": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "city": "JOHOR BAHRU, JOHOR",
+      "branch": "",
+      "swift_code": "UOVBMYK102J"
+    }
+  ],
+  "meta": {
+    "title": "Kod SWIFT/BIC — Johor Bahru, Johor - Muat turun percuma",
+    "description": "Senarai institusi kewangan di Johor Bahru, Johor (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Johor Bahru, Johor, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source. Mengandungi 5 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kod SWIFT/BIC — Johor Bahru, Johor | ListBase",
+    "seo_description": "Muat turun Kod SWIFT/BIC — Johor Bahru, Johor — 5 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 5 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

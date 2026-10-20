@@ -1,0 +1,352 @@
+{
+  "id": "ms-negeri-sembilan-kuala-pilah-mukim",
+  "name": "Mukim di Daerah Kuala Pilah, Negeri Sembilan",
+  "title": "Mukim di Daerah Kuala Pilah, Negeri Sembilan",
+  "description": "Senarai lengkap 23 mukim di daerah Kuala Pilah, negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 23 mukim (traditional sub-district units) in Kuala Pilah District, Negeri Sembilan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "050201",
+      "name": "Ampang Tinggi",
+      "name_uppercase": "AMPANG TINGGI",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1326,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050202",
+      "name": "Ulu Jempol",
+      "name_uppercase": "ULU JEMPOL",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1327,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050203",
+      "name": "Ulu Muar",
+      "name_uppercase": "ULU MUAR",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1328,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050204",
+      "name": "Johol",
+      "name_uppercase": "JOHOL",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1329,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050205",
+      "name": "Juasseh",
+      "name_uppercase": "JUASSEH",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1330,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050206",
+      "name": "Kepis",
+      "name_uppercase": "KEPIS",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1331,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050207",
+      "name": "Langkap",
+      "name_uppercase": "LANGKAP",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1332,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050208",
+      "name": "Parit Tinggi",
+      "name_uppercase": "PARIT TINGGI",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1333,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050209",
+      "name": "Pilah",
+      "name_uppercase": "PILAH",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1334,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050210",
+      "name": "Sri Menanti",
+      "name_uppercase": "SRI MENANTI",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1335,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050211",
+      "name": "Terachi",
+      "name_uppercase": "TERACHI",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1336,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050240",
+      "name": "Bandar Kuala Pilah",
+      "name_uppercase": "BANDAR KUALA PILAH",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1337,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050270",
+      "name": "Pekan Dangi",
+      "name_uppercase": "PEKAN DANGI",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1338,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050271",
+      "name": "Pekan Gunung Pasir",
+      "name_uppercase": "PEKAN GUNUNG PASIR",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1339,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050272",
+      "name": "Pekan Johol",
+      "name_uppercase": "PEKAN JOHOL",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1340,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050273",
+      "name": "Pekan Parit Tinggi",
+      "name_uppercase": "PEKAN PARIT TINGGI",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1341,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050274",
+      "name": "Pekan Senaling",
+      "name_uppercase": "PEKAN SENALING",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1342,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050275",
+      "name": "Pekan Tanjong Ipoh",
+      "name_uppercase": "PEKAN TANJONG IPOH",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1343,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050276",
+      "name": "Pekan Juasseh",
+      "name_uppercase": "PEKAN JUASSEH",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1344,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050277",
+      "name": "Pekan Bukit Gelugor",
+      "name_uppercase": "PEKAN BUKIT GELUGOR",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1345,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050278",
+      "name": "Pekan Melang",
+      "name_uppercase": "PEKAN MELANG",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1346,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050279",
+      "name": "Pekan Ar Mawang",
+      "name_uppercase": "PEKAN AR MAWANG",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1347,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    },
+    {
+      "id": "050280",
+      "name": "Pekan Dangi Baru",
+      "name_uppercase": "PEKAN DANGI BARU",
+      "district_id": "502",
+      "district": "Kuala Pilah",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1348,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "kuala-pilah"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Kuala Pilah, Negeri Sembilan - Muat turun percuma",
+    "description": "Senarai lengkap 23 mukim di daerah Kuala Pilah, negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 23 mukim (traditional sub-district units) in Kuala Pilah District, Negeri Sembilan, Malaysia. Mengandungi 23 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Kuala Pilah, Negeri Sembilan | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Kuala Pilah, Negeri Sembilan — 23 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 23 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

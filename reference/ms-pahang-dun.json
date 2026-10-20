@@ -1,0 +1,392 @@
+{
+  "id": "ms-pahang-dun",
+  "name": "Senarai Dewan Undangan Negeri (DUN) Pahang",
+  "title": "Senarai Dewan Undangan Negeri (DUN) Pahang",
+  "description": "Senarai 42 kerusi Dewan Undangan Negeri (DUN) bagi negeri Pahang berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 42 State Legislative Assembly seats for Pahang; a verbatim per-state subset of the national ms-dun list.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_code",
+      "label": "Parlimen Code",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_name",
+      "label": "Parlimen Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "N01",
+      "name": "Tanah Rata",
+      "parlimen_code": "P078",
+      "parlimen_name": "Cameron Highlands",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N02",
+      "name": "Jelai",
+      "parlimen_code": "P078",
+      "parlimen_name": "Cameron Highlands",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N03",
+      "name": "Padang Tengku",
+      "parlimen_code": "P079",
+      "parlimen_name": "Lipis",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N04",
+      "name": "Cheka",
+      "parlimen_code": "P079",
+      "parlimen_name": "Lipis",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N05",
+      "name": "Benta",
+      "parlimen_code": "P079",
+      "parlimen_name": "Lipis",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N06",
+      "name": "Batu Talam",
+      "parlimen_code": "P080",
+      "parlimen_name": "Raub",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N07",
+      "name": "Tras",
+      "parlimen_code": "P080",
+      "parlimen_name": "Raub",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N08",
+      "name": "Dong",
+      "parlimen_code": "P080",
+      "parlimen_name": "Raub",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N09",
+      "name": "Tahan",
+      "parlimen_code": "P081",
+      "parlimen_name": "Jerantut",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N10",
+      "name": "Damak",
+      "parlimen_code": "P081",
+      "parlimen_name": "Jerantut",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N11",
+      "name": "Pulau Tawar",
+      "parlimen_code": "P081",
+      "parlimen_name": "Jerantut",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N12",
+      "name": "Beserah",
+      "parlimen_code": "P082",
+      "parlimen_name": "Indera Mahkota",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N13",
+      "name": "Semambu",
+      "parlimen_code": "P082",
+      "parlimen_name": "Indera Mahkota",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N14",
+      "name": "Teruntum",
+      "parlimen_code": "P083",
+      "parlimen_name": "Kuantan",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N15",
+      "name": "Tanjung Lumpur",
+      "parlimen_code": "P083",
+      "parlimen_name": "Kuantan",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N16",
+      "name": "Inderapura",
+      "parlimen_code": "P083",
+      "parlimen_name": "Kuantan",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N17",
+      "name": "Sungai Lembing",
+      "parlimen_code": "P084",
+      "parlimen_name": "Paya Besar",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N18",
+      "name": "Lepar",
+      "parlimen_code": "P084",
+      "parlimen_name": "Paya Besar",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N19",
+      "name": "Panching",
+      "parlimen_code": "P084",
+      "parlimen_name": "Paya Besar",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N20",
+      "name": "Pulau Manis",
+      "parlimen_code": "P085",
+      "parlimen_name": "Pekan",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N21",
+      "name": "Peramu Jaya",
+      "parlimen_code": "P085",
+      "parlimen_name": "Pekan",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N22",
+      "name": "Bebar",
+      "parlimen_code": "P085",
+      "parlimen_name": "Pekan",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N23",
+      "name": "Chini",
+      "parlimen_code": "P085",
+      "parlimen_name": "Pekan",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N24",
+      "name": "Luit",
+      "parlimen_code": "P086",
+      "parlimen_name": "Maran",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N25",
+      "name": "Kuala Sentul",
+      "parlimen_code": "P086",
+      "parlimen_name": "Maran",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N26",
+      "name": "Chenor",
+      "parlimen_code": "P086",
+      "parlimen_name": "Maran",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N27",
+      "name": "Jenderak",
+      "parlimen_code": "P087",
+      "parlimen_name": "Kuala Krau",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N28",
+      "name": "Kerdau",
+      "parlimen_code": "P087",
+      "parlimen_name": "Kuala Krau",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N29",
+      "name": "Jengka",
+      "parlimen_code": "P087",
+      "parlimen_name": "Kuala Krau",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N30",
+      "name": "Mentakab",
+      "parlimen_code": "P088",
+      "parlimen_name": "Temerloh",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N31",
+      "name": "Lanchang",
+      "parlimen_code": "P088",
+      "parlimen_name": "Temerloh",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N32",
+      "name": "Kuala Semantan",
+      "parlimen_code": "P088",
+      "parlimen_name": "Temerloh",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N33",
+      "name": "Bilut",
+      "parlimen_code": "P089",
+      "parlimen_name": "Bentong",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N34",
+      "name": "Ketari",
+      "parlimen_code": "P089",
+      "parlimen_name": "Bentong",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N35",
+      "name": "Sabai",
+      "parlimen_code": "P089",
+      "parlimen_name": "Bentong",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N36",
+      "name": "Pelangai",
+      "parlimen_code": "P089",
+      "parlimen_name": "Bentong",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N37",
+      "name": "Guai",
+      "parlimen_code": "P090",
+      "parlimen_name": "Bera",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N38",
+      "name": "Triang",
+      "parlimen_code": "P090",
+      "parlimen_name": "Bera",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N39",
+      "name": "Kemayan",
+      "parlimen_code": "P090",
+      "parlimen_name": "Bera",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N40",
+      "name": "Bukit Ibam",
+      "parlimen_code": "P091",
+      "parlimen_name": "Rompin",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N41",
+      "name": "Muadzam Shah",
+      "parlimen_code": "P091",
+      "parlimen_name": "Rompin",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    },
+    {
+      "code": "N42",
+      "name": "Tioman",
+      "parlimen_code": "P091",
+      "parlimen_name": "Rompin",
+      "negeri": "Pahang",
+      "negeri_slug": "pahang"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Dewan Undangan Negeri (DUN) Pahang - Muat turun percuma",
+    "description": "Senarai 42 kerusi Dewan Undangan Negeri (DUN) bagi negeri Pahang berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 42 State Legislative Assembly seats for Pahang; a verbatim per-state subset of the national ms-dun list. Mengandungi 42 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Dewan Undangan Negeri (DUN) Pahang | ListBase",
+    "seo_description": "Muat turun Senarai Dewan Undangan Negeri (DUN) Pahang — 42 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 42 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

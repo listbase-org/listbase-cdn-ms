@@ -1,0 +1,268 @@
+{
+  "id": "ms-kelantan-kuala-krai-mukim",
+  "name": "Mukim di Daerah Kuala Krai, Kelantan",
+  "title": "Mukim di Daerah Kuala Krai, Kelantan",
+  "description": "Senarai lengkap 16 mukim di daerah Kuala Krai, negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 16 mukim (traditional sub-district units) in Kuala Krai District, Kelantan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "031001",
+      "name": "Batu Mengkebang",
+      "name_uppercase": "BATU MENGKEBANG",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 540,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031002",
+      "name": "Enggong",
+      "name_uppercase": "ENGGONG",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 541,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031003",
+      "name": "Gajah",
+      "name_uppercase": "GAJAH",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 542,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031004",
+      "name": "Kandek",
+      "name_uppercase": "KANDEK",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 543,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031005",
+      "name": "Kenor",
+      "name_uppercase": "KENOR",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 544,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031006",
+      "name": "Kuala Geris",
+      "name_uppercase": "KUALA GERIS",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 545,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031007",
+      "name": "Kuala Krai",
+      "name_uppercase": "KUALA KRAI",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 546,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031008",
+      "name": "Kuala Nal",
+      "name_uppercase": "KUALA NAL",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 547,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031009",
+      "name": "Kuala Pahi",
+      "name_uppercase": "KUALA PAHI",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 548,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031010",
+      "name": "Kuala Pergau",
+      "name_uppercase": "KUALA PERGAU",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 549,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031011",
+      "name": "Kuala Stong",
+      "name_uppercase": "KUALA STONG",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 550,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031012",
+      "name": "Mambong",
+      "name_uppercase": "MAMBONG",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 551,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031013",
+      "name": "Manek Urai",
+      "name_uppercase": "MANEK URAI",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 552,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031014",
+      "name": "Manjor",
+      "name_uppercase": "MANJOR",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 553,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031015",
+      "name": "Telekong",
+      "name_uppercase": "TELEKONG",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 554,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    },
+    {
+      "id": "031040",
+      "name": "Bandar Kuala Krai",
+      "name_uppercase": "BANDAR KUALA KRAI",
+      "district_id": "310",
+      "district": "Kuala Krai",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 555,
+      "state_slug": "kelantan",
+      "district_slug": "kuala-krai"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Kuala Krai, Kelantan - Muat turun percuma",
+    "description": "Senarai lengkap 16 mukim di daerah Kuala Krai, negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 16 mukim (traditional sub-district units) in Kuala Krai District, Kelantan, Malaysia. Mengandungi 16 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Kuala Krai, Kelantan | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Kuala Krai, Kelantan — 16 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 16 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,1042 @@
+{
+  "id": "ms-melaka-mukim",
+  "name": "Mukim di Melaka",
+  "title": "Mukim di Melaka",
+  "description": "Senarai lengkap 109 mukim di negeri Melaka, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 109 mukim (traditional sub-district units) in Melaka, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 109,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "040101",
+      "name": "Alai",
+      "name_uppercase": "ALAI",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040102",
+      "name": "Ayer Molek",
+      "name_uppercase": "AYER MOLEK",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040103",
+      "name": "Bachang",
+      "name_uppercase": "BACHANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040104",
+      "name": "Balai Panjang",
+      "name_uppercase": "BALAI PANJANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040105",
+      "name": "Batu Berendam",
+      "name_uppercase": "BATU BERENDAM",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040106",
+      "name": "Bertam",
+      "name_uppercase": "BERTAM",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040107",
+      "name": "Bukit Baru",
+      "name_uppercase": "BUKIT BARU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040108",
+      "name": "Bukit Katil",
+      "name_uppercase": "BUKIT KATIL",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040109",
+      "name": "Bukit Lintang",
+      "name_uppercase": "BUKIT LINTANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040110",
+      "name": "Bukit Piatu",
+      "name_uppercase": "BUKIT PIATU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040111",
+      "name": "Bukit Rambai",
+      "name_uppercase": "BUKIT RAMBAI",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040112",
+      "name": "Cheng",
+      "name_uppercase": "CHENG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040113",
+      "name": "Duyong",
+      "name_uppercase": "DUYONG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040114",
+      "name": "Ujong Pasir",
+      "name_uppercase": "UJONG PASIR",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040115",
+      "name": "Kandang",
+      "name_uppercase": "KANDANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040116",
+      "name": "Klebang Besar",
+      "name_uppercase": "KLEBANG BESAR",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040117",
+      "name": "Klebang Kechil",
+      "name_uppercase": "KLEBANG KECHIL",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040118",
+      "name": "Krubong",
+      "name_uppercase": "KRUBONG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040119",
+      "name": "Padang Semabok",
+      "name_uppercase": "PADANG SEMABOK",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040120",
+      "name": "Padang Temu",
+      "name_uppercase": "PADANG TEMU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040120",
+      "name": "Paya Rumput",
+      "name_uppercase": "PAYA RUMPUT",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040121",
+      "name": "Pringgit",
+      "name_uppercase": "PRINGGIT",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040122",
+      "name": "Pernu",
+      "name_uppercase": "PERNU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040123",
+      "name": "Semabok",
+      "name_uppercase": "SEMABOK",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040124",
+      "name": "Sungai Udang",
+      "name_uppercase": "SUNGAI UDANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040125",
+      "name": "Tangga Batu",
+      "name_uppercase": "TANGGA BATU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040126",
+      "name": "Tanjong Keling",
+      "name_uppercase": "TANJONG KELING",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040127",
+      "name": "Tanjong Minyak",
+      "name_uppercase": "TANJONG MINYAK",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040128",
+      "name": "Telok Mas",
+      "name_uppercase": "TELOK MAS",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040140",
+      "name": "Bandar Bukit Baru",
+      "name_uppercase": "BANDAR BUKIT BARU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040141",
+      "name": "Bandar Melaka",
+      "name_uppercase": "BANDAR MELAKA",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040170",
+      "name": "Pekan Ayer Molek",
+      "name_uppercase": "PEKAN AYER MOLEK",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040171",
+      "name": "Pekan Batu Berendam",
+      "name_uppercase": "PEKAN BATU BERENDAM",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040172",
+      "name": "Pekan Bukit Rambai",
+      "name_uppercase": "PEKAN BUKIT RAMBAI",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040173",
+      "name": "Pekan Kandang",
+      "name_uppercase": "PEKAN KANDANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040174",
+      "name": "Pekan Klebang",
+      "name_uppercase": "PEKAN KLEBANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040175",
+      "name": "Pekan Paya Rumput",
+      "name_uppercase": "PEKAN PAYA RUMPUT",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040176",
+      "name": "Pekan Sungai Udang",
+      "name_uppercase": "PEKAN SUNGAI UDANG",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040177",
+      "name": "Pekan Tangga Batu",
+      "name_uppercase": "PEKAN TANGGA BATU",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040178",
+      "name": "Pekan Tanjong Kling",
+      "name_uppercase": "PEKAN TANJONG KLING",
+      "district_id": "401",
+      "district": "Melaka Tengah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040201",
+      "name": "Ayer Panas",
+      "name_uppercase": "AYER PANAS",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040202",
+      "name": "Batang Malaka",
+      "name_uppercase": "BATANG MALAKA",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040203",
+      "name": "Bukit Senggeh",
+      "name_uppercase": "BUKIT SENGGEH",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040204",
+      "name": "Chabau",
+      "name_uppercase": "CHABAU",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040205",
+      "name": "Chin Chin",
+      "name_uppercase": "CHIN CHIN",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040206",
+      "name": "Chohong",
+      "name_uppercase": "CHOHONG",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040207",
+      "name": "Jasin",
+      "name_uppercase": "JASIN",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040208",
+      "name": "Jus",
+      "name_uppercase": "JUS",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040209",
+      "name": "Kesang",
+      "name_uppercase": "KESANG",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040210",
+      "name": "Merlimau",
+      "name_uppercase": "MERLIMAU",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040211",
+      "name": "Nyalas",
+      "name_uppercase": "NYALAS",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040212",
+      "name": "Rim",
+      "name_uppercase": "RIM",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040213",
+      "name": "Sebatu",
+      "name_uppercase": "SEBATU",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040214",
+      "name": "Selandar",
+      "name_uppercase": "SELANDAR",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040215",
+      "name": "Sempang",
+      "name_uppercase": "SEMPANG",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040216",
+      "name": "Semujok",
+      "name_uppercase": "SEMUJOK",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040217",
+      "name": "Serkam",
+      "name_uppercase": "SERKAM",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040218",
+      "name": "Sungei Rambai",
+      "name_uppercase": "SUNGEI RAMBAI",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040219",
+      "name": "Tedong",
+      "name_uppercase": "TEDONG",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040220",
+      "name": "Umbai",
+      "name_uppercase": "UMBAI",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040240",
+      "name": "Bandar Jasin",
+      "name_uppercase": "BANDAR JASIN",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040241",
+      "name": "Bandar Merlimau",
+      "name_uppercase": "BANDAR MERLIMAU",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040270",
+      "name": "Pekan Asahan",
+      "name_uppercase": "PEKAN ASAHAN",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040271",
+      "name": "Pekan Batang Malaka",
+      "name_uppercase": "PEKAN BATANG MALAKA",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040272",
+      "name": "Pekan Bemban",
+      "name_uppercase": "PEKAN BEMBAN",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040273",
+      "name": "Pekan Chin Chin",
+      "name_uppercase": "PEKAN CHIN CHIN",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040274",
+      "name": "Pekan Kesang Pajak",
+      "name_uppercase": "PEKAN KESANG PAJAK",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040275",
+      "name": "Pekan Nyalas",
+      "name_uppercase": "PEKAN NYALAS",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040276",
+      "name": "Pekan Selandar",
+      "name_uppercase": "PEKAN SELANDAR",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040277",
+      "name": "Pekan Sempang Bekoh",
+      "name_uppercase": "PEKAN SEMPANG BEKOH",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040278",
+      "name": "Pekan Sungai Rambai",
+      "name_uppercase": "PEKAN SUNGAI RAMBAI",
+      "district_id": "402",
+      "district": "Jasin",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040301",
+      "name": "Ayer Pa'Abas",
+      "name_uppercase": "AYER PA'ABAS",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040302",
+      "name": "Belimbing",
+      "name_uppercase": "BELIMBING",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040303",
+      "name": "Beringin",
+      "name_uppercase": "BERINGIN",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040304",
+      "name": "Brisu",
+      "name_uppercase": "BRISU",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040305",
+      "name": "Durian Tunggal",
+      "name_uppercase": "DURIAN TUNGGAL",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040306",
+      "name": "Gadek",
+      "name_uppercase": "GADEK",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040307",
+      "name": "Kelemak",
+      "name_uppercase": "KELEMAK",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040308",
+      "name": "Kemuning",
+      "name_uppercase": "KEMUNING",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040309",
+      "name": "Kuala Linggi",
+      "name_uppercase": "KUALA LINGGI",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040310",
+      "name": "Kuala Sungei Baru",
+      "name_uppercase": "KUALA SUNGEI BARU",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040311",
+      "name": "Lendu",
+      "name_uppercase": "LENDU",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040312",
+      "name": "Machap",
+      "name_uppercase": "MACHAP",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040313",
+      "name": "Masjid Tanah",
+      "name_uppercase": "MASJID TANAH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040314",
+      "name": "Melaka Pindah",
+      "name_uppercase": "MELAKA PINDAH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040315",
+      "name": "Melekek",
+      "name_uppercase": "MELEKEK",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040316",
+      "name": "Padang Sebang",
+      "name_uppercase": "PADANG SEBANG",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040317",
+      "name": "Parit Melana",
+      "name_uppercase": "PARIT MELANA",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040318",
+      "name": "Pegoh",
+      "name_uppercase": "PEGOH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040319",
+      "name": "Pulau Sebang",
+      "name_uppercase": "PULAU SEBANG",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040320",
+      "name": "Ramuan China Besar",
+      "name_uppercase": "RAMUAN CHINA BESAR",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040321",
+      "name": "Ramuan China Kechil",
+      "name_uppercase": "RAMUAN CHINA KECHIL",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040322",
+      "name": "Rembia",
+      "name_uppercase": "REMBIA",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040323",
+      "name": "Sungei Baru Hilir",
+      "name_uppercase": "SUNGEI BARU HILIR",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040324",
+      "name": "Sungei Baru Tengah",
+      "name_uppercase": "SUNGEI BARU TENGAH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040325",
+      "name": "Sungei Baru Ulu",
+      "name_uppercase": "SUNGEI BARU ULU",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040326",
+      "name": "Sungei Buloh",
+      "name_uppercase": "SUNGEI BULOH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040327",
+      "name": "Sungei Petai",
+      "name_uppercase": "SUNGEI PETAI",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040328",
+      "name": "Sungei Siput",
+      "name_uppercase": "SUNGEI SIPUT",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040329",
+      "name": "Taboh Naning",
+      "name_uppercase": "TABOH NANING",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040330",
+      "name": "Tanjong Rimau",
+      "name_uppercase": "TANJONG RIMAU",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040331",
+      "name": "Tebong",
+      "name_uppercase": "TEBONG",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040340",
+      "name": "Bandar Alor Gajah",
+      "name_uppercase": "BANDAR ALOR GAJAH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040341",
+      "name": "Bandar Masjid Tanah",
+      "name_uppercase": "BANDAR MASJID TANAH",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040342",
+      "name": "Bandar Pulau Sebang",
+      "name_uppercase": "BANDAR PULAU SEBANG",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040370",
+      "name": "Pekan Durian Tunggal",
+      "name_uppercase": "PEKAN DURIAN TUNGGAL",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040371",
+      "name": "Pekan Kuala Sungai Baru",
+      "name_uppercase": "PEKAN KUALA SUNGAI BARU",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040372",
+      "name": "Pekan Lubok China",
+      "name_uppercase": "PEKAN LUBOK CHINA",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    },
+    {
+      "id": "040373",
+      "name": "Pekan Rembia",
+      "name_uppercase": "PEKAN REMBIA",
+      "district_id": "403",
+      "district": "Alor Gajah",
+      "state_id": "4",
+      "state": "Melaka"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Melaka - Muat turun percuma",
+    "description": "Senarai lengkap 109 mukim di negeri Melaka, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 109 mukim (traditional sub-district units) in Melaka, Malaysia. Mengandungi 109 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Melaka | ListBase",
+    "seo_description": "Muat turun Mukim di Melaka — 109 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 109 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

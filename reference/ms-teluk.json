@@ -1,0 +1,170 @@
+{
+  "id": "ms-teluk",
+  "name": "Teluk di Malaysia",
+  "title": "Teluk di Malaysia",
+  "description": "Bays in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q49380639",
+      "name_ms": "",
+      "name_en": "Jason Bay",
+      "admin_area_ms": "Johor",
+      "admin_area_en": "Johor",
+      "latitude": 1.883333,
+      "longitude": 104.133333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49380639"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q1544438",
+      "name_ms": "",
+      "name_en": "Sepangar Bay",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 6.083333,
+      "longitude": 116.116667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1544438"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q3182027",
+      "name_ms": "Teluk Brunei",
+      "name_en": "Brunei Bay",
+      "admin_area_ms": "Sabah",
+      "admin_area_en": "Sabah",
+      "latitude": 5.083333,
+      "longitude": 115.3,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3182027"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q1138208",
+      "name_ms": "Teluk Cowie",
+      "name_en": "Cowie Bay",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.283333,
+      "longitude": 117.8,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1138208"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q1166827",
+      "name_ms": "teluk darvel",
+      "name_en": "Darvel Bay",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.8,
+      "longitude": 118.65,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1166827"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q2402437",
+      "name_ms": "Teluk Kimanis",
+      "name_en": "Kimanis Bay",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.65,
+      "longitude": 115.75,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2402437"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q1439183",
+      "name_ms": "Teluk Marudu",
+      "name_en": "Marudu Bay",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 6.966667,
+      "longitude": 116.933333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1439183"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q2402440",
+      "name_ms": "Teluk Schomburgk",
+      "name_en": "Teluk Schomburgk",
+      "admin_area_ms": "Sabah",
+      "admin_area_en": "Sabah",
+      "latitude": 6.591667,
+      "longitude": 117.445556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2402440"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q131217",
+      "name_ms": "Teluk Thailand",
+      "name_en": "Gulf of Thailand",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 9.5,
+      "longitude": 102,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131217"
+    }
+  ],
+  "meta": {
+    "title": "Teluk di Malaysia - Muat turun percuma",
+    "description": "Bays in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location). Mengandungi 9 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Teluk di Malaysia | ListBase",
+    "seo_description": "Muat turun Teluk di Malaysia — 9 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 9 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

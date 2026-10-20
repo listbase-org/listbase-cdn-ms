@@ -1,0 +1,205 @@
+{
+  "id": "ms-selangor-parlimen",
+  "name": "Senarai Parlimen Selangor",
+  "title": "Senarai Parlimen Selangor",
+  "description": "Senarai kerusi Parlimen di Selangor berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P092",
+      "name": "Sabak Bernam",
+      "negeri": "Selangor",
+      "dun_count": 2,
+      "dun": "N01: Sungai Air Tawar, N02: Sabak"
+    },
+    {
+      "code": "P093",
+      "name": "Sungai Besar",
+      "negeri": "Selangor",
+      "dun_count": 2,
+      "dun": "N03: Sungai Panjang, N04: Sekinchan"
+    },
+    {
+      "code": "P094",
+      "name": "Hulu Selangor",
+      "negeri": "Selangor",
+      "dun_count": 3,
+      "dun": "N05: Hulu Bernam, N06: Kuala Kubu Baharu, N07: Batang Kali"
+    },
+    {
+      "code": "P095",
+      "name": "Tanjong Karang",
+      "negeri": "Selangor",
+      "dun_count": 2,
+      "dun": "N08: Sungai Burong, N09: Permatang"
+    },
+    {
+      "code": "P096",
+      "name": "Kuala Selangor",
+      "negeri": "Selangor",
+      "dun_count": 3,
+      "dun": "N10: Bukit Melawati, N11: Ijok, N12: Jeram"
+    },
+    {
+      "code": "P097",
+      "name": "Selayang",
+      "negeri": "Selangor",
+      "dun_count": 3,
+      "dun": "N13: Kuang, N14: Rawang, N15: Taman Templer"
+    },
+    {
+      "code": "P098",
+      "name": "Gombak",
+      "negeri": "Selangor",
+      "dun_count": 3,
+      "dun": "N16: Sungai Tua, N17: Gombak Setia, N18: Hulu Kelang"
+    },
+    {
+      "code": "P099",
+      "name": "Ampang",
+      "negeri": "Selangor",
+      "dun_count": 2,
+      "dun": "N19: Bukit Antarabangsa, N20: Lembah Jaya"
+    },
+    {
+      "code": "P100",
+      "name": "Pandan",
+      "negeri": "Selangor",
+      "dun_count": 2,
+      "dun": "N21: Pandan Indah, N22: Teratai"
+    },
+    {
+      "code": "P101",
+      "name": "Hulu Langat",
+      "negeri": "Selangor",
+      "dun_count": 2,
+      "dun": "N23: Dusun Tua, N24: Semenyih"
+    },
+    {
+      "code": "P102",
+      "name": "Bangi",
+      "negeri": "Selangor",
+      "dun_count": 3,
+      "dun": "N25: Kajang, N26: Sungai Ramal, N27: Balakong"
+    },
+    {
+      "code": "P103",
+      "name": "Puchong",
+      "negeri": "Selangor",
+      "dun_count": 2,
+      "dun": "N28: Seri Kembangan, N29: Seri Serdang"
+    },
+    {
+      "code": "P104",
+      "name": "Subang",
+      "negeri": "Selangor",
+      "dun_count": 2,
+      "dun": "N30: Kinrara, N31: Subang Jaya"
+    },
+    {
+      "code": "P105",
+      "name": "Petaling Jaya",
+      "negeri": "Selangor",
+      "dun_count": 3,
+      "dun": "N32: Seri Setia, N33: Taman Medan, N34: Bukit Gasing"
+    },
+    {
+      "code": "P106",
+      "name": "Damansara",
+      "negeri": "Selangor",
+      "dun_count": 3,
+      "dun": "N35: Kampung Tunku, N36: Bandar Utama, N37: Bukit Lanjan"
+    },
+    {
+      "code": "P107",
+      "name": "Sungai Buloh",
+      "negeri": "Selangor",
+      "dun_count": 2,
+      "dun": "N38: Paya Jaras, N39: Kota Damansara"
+    },
+    {
+      "code": "P108",
+      "name": "Shah Alam",
+      "negeri": "Selangor",
+      "dun_count": 2,
+      "dun": "N40: Kota Anggerik, N41: Batu Tiga"
+    },
+    {
+      "code": "P109",
+      "name": "Kapar",
+      "negeri": "Selangor",
+      "dun_count": 3,
+      "dun": "N42: Meru, N43: Sementa, N44: Selat Klang"
+    },
+    {
+      "code": "P110",
+      "name": "Klang",
+      "negeri": "Selangor",
+      "dun_count": 3,
+      "dun": "N45: Bandar Baru Klang, N46: Pelabuhan Klang, N47: Pandamaran"
+    },
+    {
+      "code": "P111",
+      "name": "Kota Raja",
+      "negeri": "Selangor",
+      "dun_count": 3,
+      "dun": "N48: Sentosa, N49: Sungai Kandis, N50: Kota Kemuning"
+    },
+    {
+      "code": "P112",
+      "name": "Kuala Langat",
+      "negeri": "Selangor",
+      "dun_count": 3,
+      "dun": "N51: Sijangkang, N52: Banting, N53: Morib"
+    },
+    {
+      "code": "P113",
+      "name": "Sepang",
+      "negeri": "Selangor",
+      "dun_count": 3,
+      "dun": "N54: Tanjong Sepat, N55: Dengkil, N56: Sungai Pelek"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen Selangor - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di Selangor berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested. Mengandungi 22 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen Selangor | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen Selangor — 22 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 22 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

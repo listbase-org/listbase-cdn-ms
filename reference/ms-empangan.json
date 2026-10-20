@@ -1,0 +1,341 @@
+{
+  "id": "ms-empangan",
+  "name": "Empangan di Malaysia",
+  "title": "Empangan di Malaysia",
+  "description": "Empangan di Malaysia — 20 entri empangan (dam) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=Q12323 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Empangan Linggiu, Empangan Machap, Empangan Ayer Itam, Teluk Bahang Dam, Empangan Kenyir, Empangan Bengoh. Liputan label Bahasa Melayu: 16/20. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, country_ms, country_qid, latitude, longitude, wikidata_url.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "country_ms",
+      "label": "Country Ms",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q12686072",
+      "wikidata_id": "Q12686072",
+      "name_ms": "Empangan Linggiu",
+      "name_en": "Linggiu Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.906666666,
+      "longitude": 103.689527777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12686072"
+    },
+    {
+      "id": "Q12686073",
+      "wikidata_id": "Q12686073",
+      "name_ms": "Empangan Machap",
+      "name_en": "Machap Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.888111111,
+      "longitude": 103.271305555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12686073"
+    },
+    {
+      "id": "Q130702404",
+      "wikidata_id": "Q130702404",
+      "name_ms": "Empangan Ayer Itam",
+      "name_en": "Ayer Itam Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.3958,
+      "longitude": 100.26224,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130702404"
+    },
+    {
+      "id": "Q131542457",
+      "wikidata_id": "Q131542457",
+      "name_ms": "",
+      "name_en": "Teluk Bahang Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.444858,
+      "longitude": 100.214269,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131542457"
+    },
+    {
+      "id": "Q17056517",
+      "wikidata_id": "Q17056517",
+      "name_ms": "Empangan Kenyir",
+      "name_en": "Sultan Mahmud Power Station",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.023680555,
+      "longitude": 102.909969444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17056517"
+    },
+    {
+      "id": "Q20463324",
+      "wikidata_id": "Q20463324",
+      "name_ms": "Empangan Bengoh",
+      "name_en": "Bengoh Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.242,
+      "longitude": 110.2416,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20463324"
+    },
+    {
+      "id": "Q32838617",
+      "wikidata_id": "Q32838617",
+      "name_ms": "",
+      "name_en": "Empang Kenung",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.026666666,
+      "longitude": 101.796388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32838617"
+    },
+    {
+      "id": "Q3445771",
+      "wikidata_id": "Q3445771",
+      "name_ms": "Empangan Pergau",
+      "name_en": "Pergau Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.625,
+      "longitude": 101.703055555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3445771"
+    },
+    {
+      "id": "Q35707680",
+      "wikidata_id": "Q35707680",
+      "name_ms": "",
+      "name_en": "Lata",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.788333333,
+      "longitude": 101.909444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35707680"
+    },
+    {
+      "id": "Q4873306",
+      "wikidata_id": "Q4873306",
+      "name_ms": "Empangan Batu",
+      "name_en": "Batu Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 3.27758,
+      "longitude": 101.688,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4873306"
+    },
+    {
+      "id": "Q4891873",
+      "wikidata_id": "Q4891873",
+      "name_ms": "Empangan Beris",
+      "name_en": "Beris Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.9684,
+      "longitude": 100.741,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4891873"
+    },
+    {
+      "id": "Q5091159",
+      "wikidata_id": "Q5091159",
+      "name_ms": "Empangan Chenderoh",
+      "name_en": "Chenderoh Power Station",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.961,
+      "longitude": 100.978,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5091159"
+    },
+    {
+      "id": "Q6419677",
+      "wikidata_id": "Q6419677",
+      "name_ms": "Empangan Klang Gates",
+      "name_en": "Klang Gates Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 3.233333333,
+      "longitude": 101.75,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6419677"
+    },
+    {
+      "id": "Q6817015",
+      "wikidata_id": "Q6817015",
+      "name_ms": "Empangan Mengkuang",
+      "name_en": "Mengkuang Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.38472222,
+      "longitude": 100.50611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6817015"
+    },
+    {
+      "id": "Q6939817",
+      "wikidata_id": "Q6939817",
+      "name_ms": "Empangan hidro elektrik Murum",
+      "name_en": "Murum Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.646666666,
+      "longitude": 114.365833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6939817"
+    },
+    {
+      "id": "Q7331837",
+      "wikidata_id": "Q7331837",
+      "name_ms": "Empangan Semberong",
+      "name_en": "Semberong Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.977416666,
+      "longitude": 103.178972222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7331837"
+    },
+    {
+      "id": "Q7331841",
+      "wikidata_id": "Q7331841",
+      "name_ms": "Empangan Temenggor",
+      "name_en": "Temenggor Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.406666666,
+      "longitude": 101.301111111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7331841"
+    },
+    {
+      "id": "Q7449235",
+      "wikidata_id": "Q7449235",
+      "name_ms": "Empangan Semenyih",
+      "name_en": "Semenyih Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 3.07907,
+      "longitude": 101.886,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7449235"
+    },
+    {
+      "id": "Q7700550",
+      "wikidata_id": "Q7700550",
+      "name_ms": "Empangan Tenom Pangi",
+      "name_en": "Tenom Pangi Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.1154,
+      "longitude": 115.9121,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7700550"
+    },
+    {
+      "id": "Q84761195",
+      "wikidata_id": "Q84761195",
+      "name_ms": "",
+      "name_en": "Baleh Dam",
+      "type_ms": "empangan",
+      "type_en": "dam",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.8024905,
+      "longitude": 113.7706374,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q84761195"
+    }
+  ],
+  "meta": {
+    "title": "Empangan di Malaysia - Muat turun percuma",
+    "description": "Empangan di Malaysia — 20 entri empangan (dam) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=Q12323 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Empangan Linggiu, Empangan Machap, Empangan Ayer Itam, Teluk Bahang Dam, Empangan Kenyir, Empangan Bengoh. Liputan label Bahasa Melayu: 16/20. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, country_ms, country_qid, latitude, longitude, wikidata_url. Mengandungi 20 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Empangan di Malaysia | ListBase",
+    "seo_description": "Muat turun Empangan di Malaysia — 20 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 20 rekod / 11 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

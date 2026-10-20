@@ -1,0 +1,241 @@
+{
+  "id": "ms-ktmb-laluan-padang-rengas-bukit-mertajam-stesen",
+  "name": "Stesen KTMB pada laluan Padang Rengas - Bukit Mertajam",
+  "title": "Stesen KTMB pada laluan Padang Rengas - Bukit Mertajam",
+  "description": "10 stesen KTMB pada laluan Padang Rengas - Bukit Mertajam (KTM Komuter Utara service). Pecahan daripada ms-ktmb-stesen mengikut keahlian laluan yang dinyatakan dalam sumber.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nama_stesen",
+      "label": "Nama Stesen",
+      "type": "string"
+    },
+    {
+      "key": "kod_stesen",
+      "label": "Kod Stesen",
+      "type": "number"
+    },
+    {
+      "key": "jenis_kod",
+      "label": "Jenis Kod",
+      "type": "string"
+    },
+    {
+      "key": "jenis_stesen",
+      "label": "Jenis Stesen",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "aktif",
+      "label": "Aktif",
+      "type": "boolean"
+    },
+    {
+      "key": "bil_perkhidmatan",
+      "label": "Bil Perkhidmatan",
+      "type": "number"
+    },
+    {
+      "key": "bil_laluan",
+      "label": "Bil Laluan",
+      "type": "number"
+    },
+    {
+      "key": "perkhidmatan",
+      "label": "Perkhidmatan",
+      "type": "string"
+    },
+    {
+      "key": "laluan",
+      "label": "Laluan",
+      "type": "string"
+    },
+    {
+      "key": "ktmb_id",
+      "label": "Ktmb Id",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 7,
+      "nama_stesen": "Bagan Serai",
+      "kod_stesen": 2600,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 5.028435,
+      "longitude": 100.527143,
+      "aktif": true,
+      "bil_perkhidmatan": 2,
+      "bil_laluan": 2,
+      "perkhidmatan": "Komuter Utara, Electric Train Sevice (ETS)",
+      "laluan": "Padang Rengas - Bukit Mertajam, Padang Besar - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446a9"
+    },
+    {
+      "id": 27,
+      "nama_stesen": "Bukit Mertajam",
+      "kod_stesen": 600,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 5.366601,
+      "longitude": 100.447863,
+      "aktif": true,
+      "bil_perkhidmatan": 2,
+      "bil_laluan": 3,
+      "perkhidmatan": "Komuter Utara, Electric Train Sevice (ETS)",
+      "laluan": "Padang Rengas - Bukit Mertajam, Butterworth - Padang Besar, Padang Besar - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446a5"
+    },
+    {
+      "id": 29,
+      "nama_stesen": "Bukit Tengah",
+      "kod_stesen": 400,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 5.364788,
+      "longitude": 100.421795,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 2,
+      "perkhidmatan": "Komuter Utara",
+      "laluan": "Padang Rengas - Bukit Mertajam, Butterworth - Padang Besar",
+      "ktmb_id": "5d11bb28402888c73fc446a4"
+    },
+    {
+      "id": 31,
+      "nama_stesen": "Butterworth",
+      "kod_stesen": 100,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 5.39336,
+      "longitude": 100.366605,
+      "aktif": true,
+      "bil_perkhidmatan": 2,
+      "bil_laluan": 3,
+      "perkhidmatan": "Komuter Utara, Electric Train Sevice (ETS)",
+      "laluan": "Padang Rengas - Bukit Mertajam, Butterworth - Padang Besar, Padang Besar - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446a1"
+    },
+    {
+      "id": 56,
+      "nama_stesen": "Kamunting",
+      "kod_stesen": 4500,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 4.8959,
+      "longitude": 100.719114,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 1,
+      "perkhidmatan": "Komuter Utara",
+      "laluan": "Padang Rengas - Bukit Mertajam",
+      "ktmb_id": "5d11bb28402888c73fc446ac"
+    },
+    {
+      "id": 85,
+      "nama_stesen": "Nibong Tebal",
+      "kod_stesen": 1700,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 5.169506,
+      "longitude": 100.479706,
+      "aktif": true,
+      "bil_perkhidmatan": 2,
+      "bil_laluan": 2,
+      "perkhidmatan": "Komuter Utara, Electric Train Sevice (ETS)",
+      "laluan": "Padang Rengas - Bukit Mertajam, Padang Besar - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446a7"
+    },
+    {
+      "id": 89,
+      "nama_stesen": "Padang Rengas",
+      "kod_stesen": 5700,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 4.777977,
+      "longitude": 100.857446,
+      "aktif": true,
+      "bil_perkhidmatan": 2,
+      "bil_laluan": 2,
+      "perkhidmatan": "Komuter Utara, Electric Train Sevice (ETS)",
+      "laluan": "Padang Rengas - Bukit Mertajam, Padang Besar - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446ae"
+    },
+    {
+      "id": 95,
+      "nama_stesen": "Parit Buntar",
+      "kod_stesen": 1900,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 5.1305,
+      "longitude": 100.486313,
+      "aktif": true,
+      "bil_perkhidmatan": 2,
+      "bil_laluan": 2,
+      "perkhidmatan": "Komuter Utara, Electric Train Sevice (ETS)",
+      "laluan": "Padang Rengas - Bukit Mertajam, Padang Besar - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446a8"
+    },
+    {
+      "id": 117,
+      "nama_stesen": "Simpang Ampat",
+      "kod_stesen": 1000,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 5.285718,
+      "longitude": 100.480836,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 1,
+      "perkhidmatan": "Komuter Utara",
+      "laluan": "Padang Rengas - Bukit Mertajam",
+      "ktmb_id": "5d11bb28402888c73fc446a6"
+    },
+    {
+      "id": 134,
+      "nama_stesen": "Taiping",
+      "kod_stesen": 4700,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 4.853238,
+      "longitude": 100.732405,
+      "aktif": true,
+      "bil_perkhidmatan": 2,
+      "bil_laluan": 2,
+      "perkhidmatan": "Komuter Utara, Electric Train Sevice (ETS)",
+      "laluan": "Padang Rengas - Bukit Mertajam, Padang Besar - Gemas",
+      "ktmb_id": "5d11bb28402888c73fc446ab"
+    }
+  ],
+  "meta": {
+    "title": "Stesen KTMB pada laluan Padang Rengas - Bukit Mertajam - Muat turun percuma",
+    "description": "10 stesen KTMB pada laluan Padang Rengas - Bukit Mertajam (KTM Komuter Utara service). Pecahan daripada ms-ktmb-stesen mengikut keahlian laluan yang dinyatakan dalam sumber. Mengandungi 10 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen KTMB pada laluan Padang Rengas - Bukit Mertajam | ListBase",
+    "seo_description": "Muat turun Stesen KTMB pada laluan Padang Rengas - Bukit Mertajam — 10 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 10 rekod / 13 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ms-wp-putrajaya-daerah",
+  "name": "Daerah di Wp Putrajaya",
+  "title": "Daerah di Wp Putrajaya",
+  "description": "Senarai lengkap 1 daerah (district) di negeri Wp Putrajaya, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 1 administrative districts in Wp Putrajaya, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "1601",
+      "name": "W. P. Putrajaya",
+      "name_uppercase": "W. P. PUTRAJAYA",
+      "code": "WPP",
+      "state_id": "16",
+      "state": "Wp Putrajaya"
+    }
+  ],
+  "meta": {
+    "title": "Daerah di Wp Putrajaya - Muat turun percuma",
+    "description": "Senarai lengkap 1 daerah (district) di negeri Wp Putrajaya, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 1 administrative districts in Wp Putrajaya, Malaysia. Mengandungi 1 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Daerah di Wp Putrajaya | ListBase",
+    "seo_description": "Muat turun Daerah di Wp Putrajaya — 1 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 1 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "id": "ms-tanjung",
+  "name": "Tanjung di Malaysia",
+  "title": "Tanjung di Malaysia",
+  "description": "Tanjung di Malaysia — 12 entri cape (Tanjung) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=wd:Q185113 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Cape Unsang, Tanjung Datu, Tanjung Gelang, Tanjung Gertak Sanggul, Tanjung Penunjuk. Liputan label Bahasa Melayu: 5/12. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, admin_area_ms, admin_area_en, latitude, longitude, wikidata_url.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q104832945",
+      "name_ms": "",
+      "name_en": "Cape Unsang",
+      "type_ms": "Tanjung",
+      "type_en": "Cape",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.336859485,
+      "longitude": 119.248184388,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104832945"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q7446846",
+      "name_ms": "Tanjung Datu",
+      "name_en": "Cape Datu, Borneo",
+      "type_ms": "Tanjung",
+      "type_en": "Cape",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 2.080833333,
+      "longitude": 109.644722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7446846"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q102394705",
+      "name_ms": "",
+      "name_en": "Tanjung Gelang",
+      "type_ms": "Tanjung",
+      "type_en": "Cape",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 3.963333333,
+      "longitude": 103.44,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q102394705"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q102395482",
+      "name_ms": "",
+      "name_en": "Tanjung Gertak Sanggul",
+      "type_ms": "Tanjung",
+      "type_en": "Cape",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.268888888,
+      "longitude": 100.184722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q102395482"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q102552441",
+      "name_ms": "",
+      "name_en": "Tanjung Penunjuk",
+      "type_ms": "Tanjung",
+      "type_en": "Cape",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.333333333,
+      "longitude": 103.5,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q102552441"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q12723419",
+      "name_ms": "",
+      "name_en": "Tanjung Penyusop",
+      "type_ms": "Tanjung",
+      "type_en": "Cape",
+      "admin_area_ms": "Johor",
+      "admin_area_en": "Johor",
+      "latitude": 1.37,
+      "longitude": 104.283055555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12723419"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q123271",
+      "name_ms": "Tanjung Piai",
+      "name_en": "Cape Piai",
+      "type_ms": "Tanjung",
+      "type_en": "Cape",
+      "admin_area_ms": "Pontian",
+      "admin_area_en": "Pontian District",
+      "latitude": 1.266111111,
+      "longitude": 103.510833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123271"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q102397111",
+      "name_ms": "",
+      "name_en": "Tanjung Ramunia",
+      "type_ms": "Tanjung",
+      "type_en": "Cape",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 1.360277777,
+      "longitude": 104.262222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q102397111"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q7446891",
+      "name_ms": "Tanjung Rhu",
+      "name_en": "Tanjung Rhu",
+      "type_ms": "Tanjung",
+      "type_en": "Cape",
+      "admin_area_ms": "Langkawi",
+      "admin_area_en": "Langkawi",
+      "latitude": 6.45747,
+      "longitude": 99.82444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7446891"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q102397194",
+      "name_ms": "",
+      "name_en": "Tanjung Sedili Besar",
+      "type_ms": "Tanjung",
+      "type_en": "Cape",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 1.919444444,
+      "longitude": 104.128888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q102397194"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q2392815",
+      "name_ms": "Tanjung Simpang Mengayau",
+      "name_en": "Tanjung Simpang Mengayau",
+      "type_ms": "Tanjung",
+      "type_en": "Cape",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 7.037222222,
+      "longitude": 116.742222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2392815"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q7683445",
+      "name_ms": "Tanjung Tuan",
+      "name_en": "Tanjung Tuan",
+      "type_ms": "Tanjung",
+      "type_en": "Cape",
+      "admin_area_ms": "Alor Gajah",
+      "admin_area_en": "Alor Gajah",
+      "latitude": 2.4095,
+      "longitude": 101.8538,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7683445"
+    }
+  ],
+  "meta": {
+    "title": "Tanjung di Malaysia - Muat turun percuma",
+    "description": "Tanjung di Malaysia — 12 entri cape (Tanjung) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=wd:Q185113 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Cape Unsang, Tanjung Datu, Tanjung Gelang, Tanjung Gertak Sanggul, Tanjung Penunjuk. Liputan label Bahasa Melayu: 5/12. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, admin_area_ms, admin_area_en, latitude, longitude, wikidata_url. Mengandungi 12 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Tanjung di Malaysia | ListBase",
+    "seo_description": "Muat turun Tanjung di Malaysia — 12 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 12 rekod / 11 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

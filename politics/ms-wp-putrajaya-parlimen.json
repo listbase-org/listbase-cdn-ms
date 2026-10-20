@@ -1,0 +1,58 @@
+{
+  "id": "ms-wp-putrajaya-parlimen",
+  "name": "Senarai Parlimen W.P. Putrajaya",
+  "title": "Senarai Parlimen W.P. Putrajaya",
+  "description": "Senarai kerusi Parlimen di W.P. Putrajaya berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Wilayah Persekutuan tidak mempunyai DUN sendiri.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P125",
+      "name": "Putrajaya",
+      "negeri": "W.P. Putrajaya",
+      "dun_count": 0,
+      "dun": ""
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen W.P. Putrajaya - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di W.P. Putrajaya berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Wilayah Persekutuan tidak mempunyai DUN sendiri. Mengandungi 1 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen W.P. Putrajaya | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen W.P. Putrajaya — 1 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 1 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

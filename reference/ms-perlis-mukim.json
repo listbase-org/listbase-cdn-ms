@@ -1,0 +1,295 @@
+{
+  "id": "ms-perlis-mukim",
+  "name": "Mukim di Perlis",
+  "title": "Mukim di Perlis",
+  "description": "Senarai lengkap 26 mukim di negeri Perlis, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 26 mukim (traditional sub-district units) in Perlis, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "090001",
+      "name": "Abi",
+      "name_uppercase": "ABI",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090002",
+      "name": "Arau",
+      "name_uppercase": "ARAU",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090003",
+      "name": "Berseri",
+      "name_uppercase": "BERSERI",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090004",
+      "name": "Chuping",
+      "name_uppercase": "CHUPING",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090005",
+      "name": "Utan Aji",
+      "name_uppercase": "UTAN AJI",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090006",
+      "name": "Jejawi",
+      "name_uppercase": "JEJAWI",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090007",
+      "name": "Kayang",
+      "name_uppercase": "KAYANG",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090008",
+      "name": "Kechor",
+      "name_uppercase": "KECHOR",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090009",
+      "name": "Kuala Perlis",
+      "name_uppercase": "KUALA PERLIS",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090010",
+      "name": "Kurong Anai",
+      "name_uppercase": "KURONG ANAI",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090011",
+      "name": "Kurong Batang",
+      "name_uppercase": "KURONG BATANG",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090012",
+      "name": "Ngulang",
+      "name_uppercase": "NGULANG",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090013",
+      "name": "Oran",
+      "name_uppercase": "ORAN",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090014",
+      "name": "Padang Pauh",
+      "name_uppercase": "PADANG PAUH",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090015",
+      "name": "Padang Siding",
+      "name_uppercase": "PADANG SIDING",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090016",
+      "name": "Paya",
+      "name_uppercase": "PAYA",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090017",
+      "name": "Sanglang",
+      "name_uppercase": "SANGLANG",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090018",
+      "name": "Sena",
+      "name_uppercase": "SENA",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090019",
+      "name": "Seriab",
+      "name_uppercase": "SERIAB",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090020",
+      "name": "Sungai Adam",
+      "name_uppercase": "SUNGAI ADAM",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090021",
+      "name": "Titi Tinggi",
+      "name_uppercase": "TITI TINGGI",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090022",
+      "name": "Wang Bintong",
+      "name_uppercase": "WANG BINTONG",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090040",
+      "name": "Bandar Arau",
+      "name_uppercase": "BANDAR ARAU",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090041",
+      "name": "Bandar Kangar",
+      "name_uppercase": "BANDAR KANGAR",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090070",
+      "name": "Pekan Kuala Perlis",
+      "name_uppercase": "PEKAN KUALA PERLIS",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    },
+    {
+      "id": "090071",
+      "name": "Pekan Kaki Bukit",
+      "name_uppercase": "PEKAN KAKI BUKIT",
+      "district_id": "900",
+      "district": "Perlis",
+      "state_id": "9",
+      "state": "Perlis"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Perlis - Muat turun percuma",
+    "description": "Senarai lengkap 26 mukim di negeri Perlis, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 26 mukim (traditional sub-district units) in Perlis, Malaysia. Mengandungi 26 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Perlis | ListBase",
+    "seo_description": "Muat turun Mukim di Perlis — 26 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 26 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

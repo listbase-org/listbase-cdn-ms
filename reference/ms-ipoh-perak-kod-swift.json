@@ -1,0 +1,93 @@
+{
+  "id": "ms-ipoh-perak-kod-swift",
+  "name": "Kod SWIFT/BIC — Ipoh, Perak",
+  "title": "Kod SWIFT/BIC — Ipoh, Perak",
+  "description": "Senarai institusi kewangan di Ipoh, Perak (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Ipoh, Perak, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 204,
+      "bank": "M AND A SECURITIES SDN. BHD.",
+      "city": "IPOH, PERAK",
+      "branch": "",
+      "swift_code": "PTBBMYK1"
+    },
+    {
+      "id": 208,
+      "bank": "MALAYAN BANKING BERHAD (MAYBANK)",
+      "city": "IPOH, PERAK",
+      "branch": "",
+      "swift_code": "MBBEMYKLIPH"
+    },
+    {
+      "id": 297,
+      "bank": "PHILEO ALLIED SECURITIES SDN BHD",
+      "city": "IPOH, PERAK",
+      "branch": "",
+      "swift_code": "PPSSMYK1"
+    },
+    {
+      "id": 333,
+      "bank": "SBB SECURITIES SDN. BHD",
+      "city": "IPOH, PERAK",
+      "branch": "",
+      "swift_code": "SSSHMYK1"
+    },
+    {
+      "id": 370,
+      "bank": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "city": "IPOH, PERAK",
+      "branch": "",
+      "swift_code": "UOVBMYK102H"
+    },
+    {
+      "id": 412,
+      "bank": "Y.K. FUNG SECURITIES SDN BHD",
+      "city": "IPOH, PERAK",
+      "branch": "",
+      "swift_code": "FSSBMYK1"
+    }
+  ],
+  "meta": {
+    "title": "Kod SWIFT/BIC — Ipoh, Perak - Muat turun percuma",
+    "description": "Senarai institusi kewangan di Ipoh, Perak (Malaysia) yang mempunyai kod SWIFT/BIC, berserta nama cawangan. Financial institutions in Ipoh, Perak, Malaysia carrying a SWIFT/BIC code, with branch name. City string is verbatim from source. Mengandungi 6 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kod SWIFT/BIC — Ipoh, Perak | ListBase",
+    "seo_description": "Muat turun Kod SWIFT/BIC — Ipoh, Perak — 6 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 6 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,925 @@
+{
+  "id": "ms-terengganu-mukim",
+  "name": "Mukim di Terengganu",
+  "title": "Mukim di Terengganu",
+  "description": "Senarai lengkap 96 mukim di negeri Terengganu, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 96 mukim (traditional sub-district units) in Terengganu, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 96,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "110101",
+      "name": "Bukit Kenak",
+      "name_uppercase": "BUKIT KENAK",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110102",
+      "name": "Bukit Puteri",
+      "name_uppercase": "BUKIT PUTERI",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110105",
+      "name": "Hulu Besut",
+      "name_uppercase": "HULU BESUT",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110107",
+      "name": "Jabi",
+      "name_uppercase": "JABI",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110108",
+      "name": "Kampong Raja",
+      "name_uppercase": "KAMPONG RAJA",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110109",
+      "name": "Keluang",
+      "name_uppercase": "KELUANG",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110110",
+      "name": "Kerandang",
+      "name_uppercase": "KERANDANG",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110111",
+      "name": "Kuala Besut",
+      "name_uppercase": "KUALA BESUT",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110112",
+      "name": "Kubang Bemban",
+      "name_uppercase": "KUBANG BEMBAN",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110113",
+      "name": "Lubuk Kawah",
+      "name_uppercase": "LUBUK KAWAH",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110115",
+      "name": "Pasir Akar",
+      "name_uppercase": "PASIR AKAR",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110116",
+      "name": "Pelagat",
+      "name_uppercase": "PELAGAT",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110117",
+      "name": "Pengkalan Nangka",
+      "name_uppercase": "PENGKALAN NANGKA",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110118",
+      "name": "Pulau Perhentian",
+      "name_uppercase": "PULAU PERHENTIAN",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110120",
+      "name": "Tembila",
+      "name_uppercase": "TEMBILA",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110121",
+      "name": "Tenang",
+      "name_uppercase": "TENANG",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110170",
+      "name": "Pekan Jertih",
+      "name_uppercase": "PEKAN JERTIH",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110171",
+      "name": "Pekan Kampung Raja",
+      "name_uppercase": "PEKAN KAMPUNG RAJA",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110172",
+      "name": "Pekan Kuala Besut",
+      "name_uppercase": "PEKAN KUALA BESUT",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110201",
+      "name": "Besul",
+      "name_uppercase": "BESUL",
+      "district_id": "1102",
+      "district": "Dungun",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110202",
+      "name": "Kuala Abang",
+      "name_uppercase": "KUALA ABANG",
+      "district_id": "1102",
+      "district": "Dungun",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110203",
+      "name": "Hulu Paka",
+      "name_uppercase": "HULU PAKA",
+      "district_id": "1102",
+      "district": "Dungun",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110204",
+      "name": "Jengai",
+      "name_uppercase": "JENGAI",
+      "district_id": "1102",
+      "district": "Dungun",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110205",
+      "name": "Jerangau",
+      "name_uppercase": "JERANGAU",
+      "district_id": "1102",
+      "district": "Dungun",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110206",
+      "name": "Kuala Dungun",
+      "name_uppercase": "KUALA DUNGUN",
+      "district_id": "1102",
+      "district": "Dungun",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110207",
+      "name": "Kuala Paka",
+      "name_uppercase": "KUALA PAKA",
+      "district_id": "1102",
+      "district": "Dungun",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110208",
+      "name": "Kumpal",
+      "name_uppercase": "KUMPAL",
+      "district_id": "1102",
+      "district": "Dungun",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110209",
+      "name": "Pasir Raja",
+      "name_uppercase": "PASIR RAJA",
+      "district_id": "1102",
+      "district": "Dungun",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110210",
+      "name": "Rasau",
+      "name_uppercase": "RASAU",
+      "district_id": "1102",
+      "district": "Dungun",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110211",
+      "name": "Sura",
+      "name_uppercase": "SURA",
+      "district_id": "1102",
+      "district": "Dungun",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110240",
+      "name": "Bandar Dungun",
+      "name_uppercase": "BANDAR DUNGUN",
+      "district_id": "1102",
+      "district": "Dungun",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110270",
+      "name": "Pekan Kuala Paka",
+      "name_uppercase": "PEKAN KUALA PAKA",
+      "district_id": "1102",
+      "district": "Dungun",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110301",
+      "name": "Bandi",
+      "name_uppercase": "BANDI",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110302",
+      "name": "Banggul",
+      "name_uppercase": "BANGGUL",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110303",
+      "name": "Binjai",
+      "name_uppercase": "BINJAI",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110304",
+      "name": "Cukai",
+      "name_uppercase": "CUKAI",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110305",
+      "name": "Hulu Cukai",
+      "name_uppercase": "HULU CUKAI",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110306",
+      "name": "Hulu Jabur",
+      "name_uppercase": "HULU JABUR",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110307",
+      "name": "Kemasik",
+      "name_uppercase": "KEMASIK",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110308",
+      "name": "Kerteh",
+      "name_uppercase": "KERTEH",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110309",
+      "name": "Kijal",
+      "name_uppercase": "KIJAL",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110310",
+      "name": "Pasir Semut",
+      "name_uppercase": "PASIR SEMUT",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110311",
+      "name": "Tebak",
+      "name_uppercase": "TEBAK",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110312",
+      "name": "Teluk Kalung",
+      "name_uppercase": "TELUK KALUNG",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110340",
+      "name": "Bandar Cukai",
+      "name_uppercase": "BANDAR CUKAI",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110370",
+      "name": "Pekan Air Jernih",
+      "name_uppercase": "PEKAN AIR JERNIH",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110371",
+      "name": "Pekan Air Putih",
+      "name_uppercase": "PEKAN AIR PUTIH",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110372",
+      "name": "Pekan Kemasik",
+      "name_uppercase": "PEKAN KEMASIK",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110373",
+      "name": "Pekan Kijal",
+      "name_uppercase": "PEKAN KIJAL",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110402",
+      "name": "Atas Tol",
+      "name_uppercase": "ATAS TOL",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110403",
+      "name": "Batu Buruk",
+      "name_uppercase": "BATU BURUK",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110404",
+      "name": "Batu Rakit",
+      "name_uppercase": "BATU RAKIT",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110405",
+      "name": "Belara",
+      "name_uppercase": "BELARA",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110406",
+      "name": "Bukit Besar",
+      "name_uppercase": "BUKIT BESAR",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110408",
+      "name": "Cabang Tiga",
+      "name_uppercase": "CABANG TIGA",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110409",
+      "name": "Ceneriang",
+      "name_uppercase": "CENERIANG",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110410",
+      "name": "Gelugur Kedai",
+      "name_uppercase": "GELUGUR KEDAI",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110410",
+      "name": "Kuala Ibai",
+      "name_uppercase": "KUALA IBAI",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110411",
+      "name": "Gelugur Raja",
+      "name_uppercase": "GELUGUR RAJA",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110411",
+      "name": "Kuala Nerus",
+      "name_uppercase": "KUALA NERUS",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110412",
+      "name": "Kubang Parit",
+      "name_uppercase": "KUBANG PARIT",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110413",
+      "name": "Kepung",
+      "name_uppercase": "KEPUNG",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110414",
+      "name": "Losong",
+      "name_uppercase": "LOSONG",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110415",
+      "name": "Manir",
+      "name_uppercase": "MANIR",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110416",
+      "name": "Paluh",
+      "name_uppercase": "PALUH",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110417",
+      "name": "Pengadang Buluh",
+      "name_uppercase": "PENGADANG BULUH",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110418",
+      "name": "Pulau-Pulau",
+      "name_uppercase": "PULAU-PULAU",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110419",
+      "name": "Pulau Redang",
+      "name_uppercase": "PULAU REDANG",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110420",
+      "name": "Rengas",
+      "name_uppercase": "RENGAS",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110421",
+      "name": "Serada",
+      "name_uppercase": "SERADA",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110426",
+      "name": "Tok Jamal",
+      "name_uppercase": "TOK JAMAL",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110440",
+      "name": "Bandar Kuala Terengganu",
+      "name_uppercase": "BANDAR KUALA TERENGGANU",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110471",
+      "name": "Pekan Cabang Tiga",
+      "name_uppercase": "PEKAN CABANG TIGA",
+      "district_id": "1104",
+      "district": "Kuala Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110501",
+      "name": "Hulu Berang",
+      "name_uppercase": "HULU BERANG",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110502",
+      "name": "Hulu Telemung",
+      "name_uppercase": "HULU TELEMUNG",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110503",
+      "name": "Hulu Terengganu",
+      "name_uppercase": "HULU TERENGGANU",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110504",
+      "name": "Jenagur",
+      "name_uppercase": "JENAGUR",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110505",
+      "name": "Kuala Berang",
+      "name_uppercase": "KUALA BERANG",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110506",
+      "name": "Kuala Telemung",
+      "name_uppercase": "KUALA TELEMUNG",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110507",
+      "name": "Penghulu Diman",
+      "name_uppercase": "PENGHULU DIMAN",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110508",
+      "name": "Tanggul",
+      "name_uppercase": "TANGGUL",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110509",
+      "name": "Tersat",
+      "name_uppercase": "TERSAT",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110570",
+      "name": "Pekan Kuala Berang",
+      "name_uppercase": "PEKAN KUALA BERANG",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110601",
+      "name": "Jerung",
+      "name_uppercase": "JERUNG",
+      "district_id": "1106",
+      "district": "Marang",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110602",
+      "name": "Mercang",
+      "name_uppercase": "MERCANG",
+      "district_id": "1106",
+      "district": "Marang",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110603",
+      "name": "Pulau Kerengga",
+      "name_uppercase": "PULAU KERENGGA",
+      "district_id": "1106",
+      "district": "Marang",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110604",
+      "name": "Rusila",
+      "name_uppercase": "RUSILA",
+      "district_id": "1106",
+      "district": "Marang",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110605",
+      "name": "Alur Limbat",
+      "name_uppercase": "ALUR LIMBAT",
+      "district_id": "1106",
+      "district": "Marang",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110606",
+      "name": "Bukit Payung",
+      "name_uppercase": "BUKIT PAYUNG",
+      "district_id": "1106",
+      "district": "Marang",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110670",
+      "name": "Pekan Marang",
+      "name_uppercase": "PEKAN MARANG",
+      "district_id": "1106",
+      "district": "Marang",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110671",
+      "name": "Pekan Bukit Payung",
+      "name_uppercase": "PEKAN bukit payung",
+      "district_id": "1106",
+      "district": "Marang",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110701",
+      "name": "Caluk",
+      "name_uppercase": "CALUK",
+      "district_id": "1107",
+      "district": "Setiu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110702",
+      "name": "Guntung",
+      "name_uppercase": "GUNTUNG",
+      "district_id": "1107",
+      "district": "Setiu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110703",
+      "name": "Hulu Nerus",
+      "name_uppercase": "HULU NERUS",
+      "district_id": "1107",
+      "district": "Setiu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110704",
+      "name": "Merang",
+      "name_uppercase": "MERANG",
+      "district_id": "1107",
+      "district": "Setiu",
+      "state_id": "11",
+      "state": "Terengganu"
+    },
+    {
+      "id": "110707",
+      "name": "Tasik",
+      "name_uppercase": "TASIK",
+      "district_id": "1107",
+      "district": "Setiu",
+      "state_id": "11",
+      "state": "Terengganu"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Terengganu - Muat turun percuma",
+    "description": "Senarai lengkap 96 mukim di negeri Terengganu, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 96 mukim (traditional sub-district units) in Terengganu, Malaysia. Mengandungi 96 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Terengganu | ListBase",
+    "seo_description": "Muat turun Mukim di Terengganu — 96 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 96 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

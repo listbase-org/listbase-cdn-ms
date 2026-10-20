@@ -1,0 +1,220 @@
+{
+  "id": "ms-selangor-klang-mukim",
+  "name": "Mukim di Daerah Klang, Selangor",
+  "title": "Mukim di Daerah Klang, Selangor",
+  "description": "Senarai lengkap 12 mukim di daerah Klang, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 12 mukim (traditional sub-district units) in Klang District, Selangor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "100101",
+      "name": "Kapar",
+      "name_uppercase": "KAPAR",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1077,
+      "state_slug": "selangor",
+      "district_slug": "klang"
+    },
+    {
+      "id": "100102",
+      "name": "Klang",
+      "name_uppercase": "KLANG",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1078,
+      "state_slug": "selangor",
+      "district_slug": "klang"
+    },
+    {
+      "id": "100140",
+      "name": "Bandar Klang",
+      "name_uppercase": "BANDAR KLANG",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1079,
+      "state_slug": "selangor",
+      "district_slug": "klang"
+    },
+    {
+      "id": "100141",
+      "name": "Bandar Port Swettenham",
+      "name_uppercase": "BANDAR PORT SWETTENHAM",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1080,
+      "state_slug": "selangor",
+      "district_slug": "klang"
+    },
+    {
+      "id": "100142",
+      "name": "Bandar Sultan Sulaiman",
+      "name_uppercase": "BANDAR SULTAN SULAIMAN",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1081,
+      "state_slug": "selangor",
+      "district_slug": "klang"
+    },
+    {
+      "id": "100143",
+      "name": "Bandar Shah Alam",
+      "name_uppercase": "BANDAR SHAH ALAM",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1082,
+      "state_slug": "selangor",
+      "district_slug": "klang"
+    },
+    {
+      "id": "100170",
+      "name": "Pekan Bukit Kemuning",
+      "name_uppercase": "PEKAN BUKIT KEMUNING",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1083,
+      "state_slug": "selangor",
+      "district_slug": "klang"
+    },
+    {
+      "id": "100171",
+      "name": "Pekan Kapar",
+      "name_uppercase": "PEKAN KAPAR",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1084,
+      "state_slug": "selangor",
+      "district_slug": "klang"
+    },
+    {
+      "id": "100172",
+      "name": "Pekan Meru",
+      "name_uppercase": "PEKAN MERU",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1085,
+      "state_slug": "selangor",
+      "district_slug": "klang"
+    },
+    {
+      "id": "100173",
+      "name": "Pekan Telok Menegun",
+      "name_uppercase": "PEKAN TELOK MENEGUN",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1086,
+      "state_slug": "selangor",
+      "district_slug": "klang"
+    },
+    {
+      "id": "100174",
+      "name": "Pekan Batu Empat",
+      "name_uppercase": "PEKAN BATU EMPAT",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1087,
+      "state_slug": "selangor",
+      "district_slug": "klang"
+    },
+    {
+      "id": "100175",
+      "name": "Pekan Pandamaran",
+      "name_uppercase": "PEKAN PANDAMARAN",
+      "district_id": "1001",
+      "district": "Klang",
+      "state_id": "10",
+      "state": "Selangor",
+      "parent_index": 1088,
+      "state_slug": "selangor",
+      "district_slug": "klang"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Klang, Selangor - Muat turun percuma",
+    "description": "Senarai lengkap 12 mukim di daerah Klang, negeri Selangor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 12 mukim (traditional sub-district units) in Klang District, Selangor, Malaysia. Mengandungi 12 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Klang, Selangor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Klang, Selangor — 12 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 12 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

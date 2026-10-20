@@ -1,0 +1,304 @@
+{
+  "id": "ms-johor-batu-pahat-mukim",
+  "name": "Mukim di Daerah Batu Pahat, Johor",
+  "title": "Mukim di Daerah Batu Pahat, Johor",
+  "description": "Senarai lengkap 19 mukim di daerah Batu Pahat, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 19 mukim (traditional sub-district units) in Batu Pahat District, Johor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "010101",
+      "name": "Bagan",
+      "name_uppercase": "BAGAN",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1581,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010102",
+      "name": "Chaah Bahru",
+      "name_uppercase": "CHAAH BAHRU",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1582,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010103",
+      "name": "Kampong Bahru",
+      "name_uppercase": "KAMPONG BAHRU",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1583,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010104",
+      "name": "Linau",
+      "name_uppercase": "LINAU",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1584,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010105",
+      "name": "Lubok",
+      "name_uppercase": "LUBOK",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1585,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010106",
+      "name": "Minyak Beku",
+      "name_uppercase": "MINYAK BEKU",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1586,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010107",
+      "name": "Peserai",
+      "name_uppercase": "PESERAI",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1587,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010108",
+      "name": "Simpang Kanan",
+      "name_uppercase": "SIMPANG KANAN",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1588,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010109",
+      "name": "Simpang Kiri",
+      "name_uppercase": "SIMPANG KIRI",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1589,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010110",
+      "name": "Sri Gading",
+      "name_uppercase": "SRI GADING",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1590,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010111",
+      "name": "Sri Medan",
+      "name_uppercase": "SRI MEDAN",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1591,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010112",
+      "name": "Sungai Kluang",
+      "name_uppercase": "SUNGAI KLUANG",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1592,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010113",
+      "name": "Sungai Punggor",
+      "name_uppercase": "SUNGAI PUNGGOR",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1593,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010114",
+      "name": "Tanjong Sembrong",
+      "name_uppercase": "TANJONG SEMBRONG",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1594,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010140",
+      "name": "Bandar Ayer Htam",
+      "name_uppercase": "BANDAR AYER HTAM",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1595,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010141",
+      "name": "Bandar Bandar Penggaram",
+      "name_uppercase": "BANDAR BANDAR PENGGARAM",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1596,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010142",
+      "name": "Bandar Rengit",
+      "name_uppercase": "BANDAR RENGIT",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1597,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010143",
+      "name": "Bandar Senggarang",
+      "name_uppercase": "BANDAR SENGGARANG",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1598,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    },
+    {
+      "id": "010144",
+      "name": "Bandar Yong Peng",
+      "name_uppercase": "BANDAR YONG PENG",
+      "district_id": "101",
+      "district": "Batu Pahat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1599,
+      "state_slug": "johor",
+      "district_slug": "batu-pahat"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Batu Pahat, Johor - Muat turun percuma",
+    "description": "Senarai lengkap 19 mukim di daerah Batu Pahat, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 19 mukim (traditional sub-district units) in Batu Pahat District, Johor, Malaysia. Mengandungi 19 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Batu Pahat, Johor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Batu Pahat, Johor — 19 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 19 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

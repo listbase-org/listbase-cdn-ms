@@ -1,0 +1,352 @@
+{
+  "id": "ms-johor-stesen-keretapi",
+  "name": "Stesen Keretapi di Johor",
+  "title": "Stesen Keretapi di Johor",
+  "description": "Senarai stesen keretapi di Johor, Malaysia — 16 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "country_ms",
+      "label": "Country Ms",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    },
+    {
+      "key": "stesen_minyak_terdekat_km",
+      "label": "Stesen Minyak Terdekat Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q108907013",
+      "name_ms": "",
+      "name_en": "Mengkibol railway halt",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.9757,
+      "longitude": 103.3343,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108907013",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 3.8495
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q15694616",
+      "name_ms": "Stesen kereta api Layang-Layang",
+      "name_en": "Layang-Layang railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.814093,
+      "longitude": 103.475049,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15694616",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 1.251
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q15694739",
+      "name_ms": "",
+      "name_en": "Batu Anam",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.5813199,
+      "longitude": 102.7022381,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15694739",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 1.1167
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q4881658",
+      "name_ms": "Stesen keretapi Bekok",
+      "name_en": "Bekok railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.295278,
+      "longitude": 103.13,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4881658",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 11.2431
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q5069729",
+      "name_ms": "",
+      "name_en": "Chamek railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.142694444,
+      "longitude": 103.23875,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5069729",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 7.1999
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q5533803",
+      "name_ms": "",
+      "name_en": "Genuang railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.488333,
+      "longitude": 102.884167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5533803",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 2.5391
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q6132274",
+      "name_ms": "JB Sentral",
+      "name_en": "Johor Bahru Sentral station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.4625,
+      "longitude": 103.764722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6132274",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 0.3238
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q6387037",
+      "name_ms": "Stesen keretapi Kempas Baru",
+      "name_en": "Kempas Baru railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.535833,
+      "longitude": 103.721389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6387037",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 1.2858
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q6421443",
+      "name_ms": "Stesen keretapi Kluang",
+      "name_en": "Kluang railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.033611,
+      "longitude": 103.3175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6421443",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 0.8583
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q6442744",
+      "name_ms": "Stesen kereta api Kulai",
+      "name_en": "Kulai railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.6644,
+      "longitude": 103.5981,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6442744",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 0.7668
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q6467116",
+      "name_ms": "Stesen Keretapi Labis",
+      "name_en": "Labis Railway Station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.38328,
+      "longitude": 103.02016,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6467116",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 0.8258
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q6817003",
+      "name_ms": "",
+      "name_en": "Mengkibol railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.97573,
+      "longitude": 103.334332,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6817003",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 3.8447
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q7128559",
+      "name_ms": "Stesen keretapi Paloh",
+      "name_en": "Paloh railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.186944,
+      "longitude": 103.194167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7128559",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 0.2383
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q7313201",
+      "name_ms": "Stesen kereta api Rengam",
+      "name_en": "Renggam railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 1.884877,
+      "longitude": 103.403325,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7313201",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 0.5055
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q7446203",
+      "name_ms": "Stesen keretapi Segamat",
+      "name_en": "Segamat railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.506944,
+      "longitude": 102.813611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7446203",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 0.1666
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q7699477",
+      "name_ms": "",
+      "name_en": "Tenang railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 2.465,
+      "longitude": 102.956944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7699477",
+      "negeri": "Johor",
+      "negeri_slug": "johor",
+      "stesen_minyak_terdekat_km": 0.2204
+    }
+  ],
+  "meta": {
+    "title": "Stesen Keretapi di Johor - Muat turun percuma",
+    "description": "Senarai stesen keretapi di Johor, Malaysia — 16 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit. Mengandungi 16 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen Keretapi di Johor | ListBase",
+    "seo_description": "Muat turun Stesen Keretapi di Johor — 16 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 16 rekod / 14 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "ms-selangor-daerah",
+  "name": "Daerah di Selangor",
+  "title": "Daerah di Selangor",
+  "description": "Senarai lengkap 9 daerah (district) di negeri Selangor, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 9 administrative districts in Selangor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "1001",
+      "name": "Klang",
+      "name_uppercase": "KLANG",
+      "code": "KLG",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "1002",
+      "name": "Kuala Langat",
+      "name_uppercase": "KUALA LANGAT",
+      "code": "KLN",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "1004",
+      "name": "Kuala Selangor",
+      "name_uppercase": "KUALA SELANGOR",
+      "code": "KSE",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "1005",
+      "name": "Sabak Bernam",
+      "name_uppercase": "SABAK BERNAM",
+      "code": "SBE",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "1006",
+      "name": "Ulu Langat",
+      "name_uppercase": "ULU LANGAT",
+      "code": "ULA",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "1007",
+      "name": "Ulu Selangor",
+      "name_uppercase": "ULU SELANGOR",
+      "code": "USE",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "1008",
+      "name": "Petaling",
+      "name_uppercase": "PETALING",
+      "code": "PET",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "1009",
+      "name": "Gombak",
+      "name_uppercase": "GOMBAK",
+      "code": "GOM",
+      "state_id": "10",
+      "state": "Selangor"
+    },
+    {
+      "id": "1010",
+      "name": "Sepang",
+      "name_uppercase": "SEPANG",
+      "code": "SEP",
+      "state_id": "10",
+      "state": "Selangor"
+    }
+  ],
+  "meta": {
+    "title": "Daerah di Selangor - Muat turun percuma",
+    "description": "Senarai lengkap 9 daerah (district) di negeri Selangor, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 9 administrative districts in Selangor, Malaysia. Mengandungi 9 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Daerah di Selangor | ListBase",
+    "seo_description": "Muat turun Daerah di Selangor — 9 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 9 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

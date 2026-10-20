@@ -1,0 +1,292 @@
+{
+  "id": "ms-sarawak-bintulu-mukim",
+  "name": "Mukim di Daerah Bintulu, Sarawak",
+  "title": "Mukim di Daerah Bintulu, Sarawak",
+  "description": "Senarai lengkap 18 mukim di daerah Bintulu, negeri Sarawak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 18 mukim (traditional sub-district units) in Bintulu District, Sarawak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "130931",
+      "name": "Bintulu",
+      "name_uppercase": "BINTULU",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1971,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130932",
+      "name": "Kemena",
+      "name_uppercase": "KEMENA",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1972,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130933",
+      "name": "Sebauh",
+      "name_uppercase": "SEBAUH",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1973,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130934",
+      "name": "Bandar Lanang",
+      "name_uppercase": "BANDAR LANANG",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1974,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130935",
+      "name": "Bandar Pandan",
+      "name_uppercase": "BANDAR PANDAN",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1975,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130936",
+      "name": "Bandar Tubau",
+      "name_uppercase": "BANDAR TUBAU",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1976,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130938",
+      "name": "Selezu",
+      "name_uppercase": "SELEZU",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1977,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130939",
+      "name": "Batu Kapal",
+      "name_uppercase": "BATU KAPAL",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1978,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130940",
+      "name": "Rasan",
+      "name_uppercase": "RASAN",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1979,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130941",
+      "name": "Pandan",
+      "name_uppercase": "PANDAN",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1980,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130942",
+      "name": "Bandar Kuala Tatau",
+      "name_uppercase": "BANDAR KUALA TATAU",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1981,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130943",
+      "name": "Bandar Tatau",
+      "name_uppercase": "BANDAR TATAU",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1982,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130945",
+      "name": "Buan Lan",
+      "name_uppercase": "BUAN LAN",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1983,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130946",
+      "name": "Sangan",
+      "name_uppercase": "SANGAN",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1984,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130947",
+      "name": "Anap",
+      "name_uppercase": "ANAP",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1985,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130948",
+      "name": "Kakus",
+      "name_uppercase": "KAKUS",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1986,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130954",
+      "name": "Jelalong",
+      "name_uppercase": "JELALONG",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1987,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    },
+    {
+      "id": "130955",
+      "name": "Binia",
+      "name_uppercase": "BINIA",
+      "district_id": "1309",
+      "district": "Bintulu",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1988,
+      "state_slug": "sarawak",
+      "district_slug": "bintulu"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Bintulu, Sarawak - Muat turun percuma",
+    "description": "Senarai lengkap 18 mukim di daerah Bintulu, negeri Sarawak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 18 mukim (traditional sub-district units) in Bintulu District, Sarawak, Malaysia. Mengandungi 18 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Bintulu, Sarawak | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Bintulu, Sarawak — 18 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 18 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

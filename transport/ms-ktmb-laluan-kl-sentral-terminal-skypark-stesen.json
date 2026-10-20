@@ -1,0 +1,136 @@
+{
+  "id": "ms-ktmb-laluan-kl-sentral-terminal-skypark-stesen",
+  "name": "Stesen KTMB pada laluan KL Sentral - Terminal Skypark",
+  "title": "Stesen KTMB pada laluan KL Sentral - Terminal Skypark",
+  "description": "3 stesen KTMB pada laluan KL Sentral - Terminal Skypark (Skypark Link service). Pecahan daripada ms-ktmb-stesen mengikut keahlian laluan yang dinyatakan dalam sumber.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nama_stesen",
+      "label": "Nama Stesen",
+      "type": "string"
+    },
+    {
+      "key": "kod_stesen",
+      "label": "Kod Stesen",
+      "type": "number"
+    },
+    {
+      "key": "jenis_kod",
+      "label": "Jenis Kod",
+      "type": "string"
+    },
+    {
+      "key": "jenis_stesen",
+      "label": "Jenis Stesen",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "aktif",
+      "label": "Aktif",
+      "type": "boolean"
+    },
+    {
+      "key": "bil_perkhidmatan",
+      "label": "Bil Perkhidmatan",
+      "type": "number"
+    },
+    {
+      "key": "bil_laluan",
+      "label": "Bil Laluan",
+      "type": "number"
+    },
+    {
+      "key": "perkhidmatan",
+      "label": "Perkhidmatan",
+      "type": "string"
+    },
+    {
+      "key": "laluan",
+      "label": "Laluan",
+      "type": "string"
+    },
+    {
+      "key": "ktmb_id",
+      "label": "Ktmb Id",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 44,
+      "nama_stesen": "KL Sentral",
+      "kod_stesen": 19100,
+      "jenis_kod": "",
+      "jenis_stesen": "",
+      "latitude": 3.134018,
+      "longitude": 101.686417,
+      "aktif": true,
+      "bil_perkhidmatan": 3,
+      "bil_laluan": 4,
+      "perkhidmatan": "Skypark Link, Electric Train Sevice (ETS), KTM Komuter",
+      "laluan": "Batu Caves - Pulau Sebang, Tanjung Malim - Pelabuhan Klang, KL Sentral - Terminal Skypark, Padang Besar - Gemas",
+      "ktmb_id": "5ced59d88b1bbc06bf46f07b"
+    },
+    {
+      "id": 122,
+      "nama_stesen": "Subang Jaya",
+      "kod_stesen": 53700,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 3.084813,
+      "longitude": 101.586611,
+      "aktif": true,
+      "bil_perkhidmatan": 2,
+      "bil_laluan": 2,
+      "perkhidmatan": "KTM Komuter, Skypark Link",
+      "laluan": "Tanjung Malim - Pelabuhan Klang, KL Sentral - Terminal Skypark",
+      "ktmb_id": "5d11bb28402888c73fc44727"
+    },
+    {
+      "id": 144,
+      "nama_stesen": "Terminal Skypark",
+      "kod_stesen": 57700,
+      "jenis_kod": "S",
+      "jenis_stesen": "Stesen (Station)",
+      "latitude": 3.135051,
+      "longitude": 101.554908,
+      "aktif": true,
+      "bil_perkhidmatan": 1,
+      "bil_laluan": 1,
+      "perkhidmatan": "Skypark Link",
+      "laluan": "KL Sentral - Terminal Skypark",
+      "ktmb_id": "5d11bb28402888c73fc44739"
+    }
+  ],
+  "meta": {
+    "title": "Stesen KTMB pada laluan KL Sentral - Terminal Skypark - Muat turun percuma",
+    "description": "3 stesen KTMB pada laluan KL Sentral - Terminal Skypark (Skypark Link service). Pecahan daripada ms-ktmb-stesen mengikut keahlian laluan yang dinyatakan dalam sumber. Mengandungi 3 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen KTMB pada laluan KL Sentral - Terminal Skypark | ListBase",
+    "seo_description": "Muat turun Stesen KTMB pada laluan KL Sentral - Terminal Skypark — 3 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 3 rekod / 13 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

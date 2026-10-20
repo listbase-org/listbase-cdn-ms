@@ -1,0 +1,256 @@
+{
+  "id": "ms-sabah-daerah",
+  "name": "Daerah di Sabah",
+  "title": "Daerah di Sabah",
+  "description": "Senarai lengkap 25 daerah (district) di negeri Sabah, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 25 administrative districts in Sabah, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "1201",
+      "name": "Kota Kinabalu",
+      "name_uppercase": "KOTA KINABALU",
+      "code": "KKI",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1202",
+      "name": "Papar",
+      "name_uppercase": "PAPAR",
+      "code": "PAP",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1203",
+      "name": "Kota Belud",
+      "name_uppercase": "KOTA BELUD",
+      "code": "KBE",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1204",
+      "name": "Tuaran",
+      "name_uppercase": "TUARAN",
+      "code": "TUA",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1205",
+      "name": "Kudat",
+      "name_uppercase": "KUDAT",
+      "code": "KUD",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1206",
+      "name": "Ranau",
+      "name_uppercase": "RANAU",
+      "code": "RAN",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1207",
+      "name": "Sandakan",
+      "name_uppercase": "SANDAKAN",
+      "code": "SAN",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1208",
+      "name": "Labuk & Sugut",
+      "name_uppercase": "LABUK & SUGUT",
+      "code": "LDS",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1209",
+      "name": "Kinabatangan",
+      "name_uppercase": "KINABATANGAN",
+      "code": "KIN",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1210",
+      "name": "Tawau",
+      "name_uppercase": "TAWAU",
+      "code": "TAW",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1211",
+      "name": "Lahad Datu",
+      "name_uppercase": "LAHAD DATU",
+      "code": "LDA",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1212",
+      "name": "Semporna",
+      "name_uppercase": "SEMPORNA",
+      "code": "SEM",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1213",
+      "name": "Keningau",
+      "name_uppercase": "KENINGAU",
+      "code": "KEN",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1214",
+      "name": "Tambunan",
+      "name_uppercase": "TAMBUNAN",
+      "code": "TAM",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1215",
+      "name": "Pensiangan",
+      "name_uppercase": "PENSIANGAN",
+      "code": "PEN",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1216",
+      "name": "Tenom",
+      "name_uppercase": "TENOM",
+      "code": "TEN",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1217",
+      "name": "Beaufort",
+      "name_uppercase": "BEAUFORT",
+      "code": "BEA",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1218",
+      "name": "Kuala Penyu",
+      "name_uppercase": "KUALA PENYU",
+      "code": "KPE",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1219",
+      "name": "Sipitang",
+      "name_uppercase": "SIPITANG",
+      "code": "SIP",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1221",
+      "name": "Penampang",
+      "name_uppercase": "PENAMPANG",
+      "code": "PEN",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1222",
+      "name": "Kota Marudu",
+      "name_uppercase": "KOTA MARUDU",
+      "code": "KMA",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1223",
+      "name": "Pitas",
+      "name_uppercase": "PITAS",
+      "code": "PTS",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1224",
+      "name": "Kunak",
+      "name_uppercase": "KUNAK",
+      "code": "KUN",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1225",
+      "name": "Tongod",
+      "name_uppercase": "TONGOD",
+      "code": "TON",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "1226",
+      "name": "Putatan",
+      "name_uppercase": "PUTATAN",
+      "code": "PUT",
+      "state_id": "12",
+      "state": "Sabah"
+    }
+  ],
+  "meta": {
+    "title": "Daerah di Sabah - Muat turun percuma",
+    "description": "Senarai lengkap 25 daerah (district) di negeri Sabah, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 25 administrative districts in Sabah, Malaysia. Mengandungi 25 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Daerah di Sabah | ListBase",
+    "seo_description": "Muat turun Daerah di Sabah — 25 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 25 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

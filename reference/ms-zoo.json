@@ -1,0 +1,211 @@
+{
+  "id": "ms-zoo",
+  "name": "Zoo di Malaysia",
+  "title": "Zoo di Malaysia",
+  "description": "Zoo di Malaysia — 10 entri zoo (Zoo) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=wd:Q43501 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Entopia, Firefly Valley Leisure Park, Ladang Burung Unta Desaru, Taman Burung Kuala Lumpur, Taman Hidupan Liar Lok Kawi. Liputan label Bahasa Melayu: 9/10. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, admin_area_ms, admin_area_en, latitude, longitude, wikidata_url.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q137938768",
+      "name_ms": "",
+      "name_en": "Entopia",
+      "type_ms": "Zoo",
+      "type_en": "Zoo",
+      "admin_area_ms": "Pulau Pinang",
+      "admin_area_en": "Penang",
+      "latitude": 5.447587,
+      "longitude": 100.21522,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137938768"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q95708949",
+      "name_ms": "Firefly Valley Leisure Park",
+      "name_en": "Firefly Valley Leisure Park",
+      "type_ms": "Zoo",
+      "type_en": "Zoo",
+      "admin_area_ms": "Daerah Kota Tinggi",
+      "admin_area_en": "Kota Tinggi District",
+      "latitude": 1.7031,
+      "longitude": 103.9135,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q95708949"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q95709237",
+      "name_ms": "Ladang Burung Unta Desaru",
+      "name_en": "Desaru Ostrich Farm",
+      "type_ms": "Zoo",
+      "type_en": "Zoo",
+      "admin_area_ms": "Pengerang",
+      "admin_area_en": "Pengerang",
+      "latitude": 1.368888888,
+      "longitude": 104.241472222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q95709237"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q2660049",
+      "name_ms": "Taman Burung Kuala Lumpur",
+      "name_en": "Kuala Lumpur Bird Park",
+      "type_ms": "Zoo",
+      "type_en": "Zoo",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.142433333,
+      "longitude": 101.688466666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2660049"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q7445905",
+      "name_ms": "Taman Hidupan Liar Lok Kawi",
+      "name_en": "Lok Kawi Wildlife Park",
+      "type_ms": "Zoo",
+      "type_en": "Zoo",
+      "admin_area_ms": "Daerah Putatan",
+      "admin_area_en": "Putatan District",
+      "latitude": 5.84747,
+      "longitude": 116.06867,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7445905"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q28043528",
+      "name_ms": "Taman dan Zoo Buaya Jong",
+      "name_en": "Jong's Crocodile Farm and Zoo",
+      "type_ms": "Zoo",
+      "type_en": "Zoo",
+      "admin_area_ms": "Siburan",
+      "admin_area_en": "Siburan",
+      "latitude": 1.41297222,
+      "longitude": 110.33569444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28043528"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q28219616",
+      "name_ms": "Zoo Johor",
+      "name_en": "Johor Zoo",
+      "type_ms": "Zoo",
+      "type_en": "Zoo",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.4575,
+      "longitude": 103.75225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28219616"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q4802284",
+      "name_ms": "Zoo Melaka dan Taman Burung",
+      "name_en": "Melaka Zoo and Bird Park",
+      "type_ms": "Zoo",
+      "type_en": "Zoo",
+      "admin_area_ms": "Daerah Melaka Tengah",
+      "admin_area_en": "Melaka Tengah District",
+      "latitude": 2.27777778,
+      "longitude": 102.30166667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4802284"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q1142942",
+      "name_ms": "Zoo Negara",
+      "name_en": "National Zoo of Malaysia",
+      "type_ms": "Zoo",
+      "type_en": "Zoo",
+      "admin_area_ms": "Gombak",
+      "admin_area_en": "Gombak",
+      "latitude": 3.20972222,
+      "longitude": 101.75777778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1142942"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q8074067",
+      "name_ms": "Zoo Taiping",
+      "name_en": "Taiping Zoo",
+      "type_ms": "Zoo",
+      "type_en": "Zoo",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.85389,
+      "longitude": 100.733,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q8074067"
+    }
+  ],
+  "meta": {
+    "title": "Zoo di Malaysia - Muat turun percuma",
+    "description": "Zoo di Malaysia — 10 entri zoo (Zoo) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=wd:Q43501 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Entopia, Firefly Valley Leisure Park, Ladang Burung Unta Desaru, Taman Burung Kuala Lumpur, Taman Hidupan Liar Lok Kawi. Liputan label Bahasa Melayu: 9/10. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, admin_area_ms, admin_area_en, latitude, longitude, wikidata_url. Mengandungi 10 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Zoo di Malaysia | ListBase",
+    "seo_description": "Muat turun Zoo di Malaysia — 10 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 10 rekod / 11 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

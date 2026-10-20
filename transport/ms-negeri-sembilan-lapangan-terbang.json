@@ -1,0 +1,156 @@
+{
+  "id": "ms-negeri-sembilan-lapangan-terbang",
+  "name": "Senarai Lapangan Terbang di Negeri Negeri Sembilan",
+  "title": "Senarai Lapangan Terbang di Negeri Negeri Sembilan",
+  "description": "Senarai 2 lapangan terbang dan kemudahan penerbangan di Negeri Negeri Sembilan, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_bm",
+      "label": "Name Bm",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_bm",
+      "label": "State Bm",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "runway_m",
+      "label": "Runway M",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "source_attribution",
+      "label": "Source Attribution",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    },
+    {
+      "key": "has_icao",
+      "label": "Has Icao",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 21,
+      "iata": "",
+      "icao": "WMAA",
+      "name_en": "Bahau Airport",
+      "name_bm": "Lapangan Terbang Bahau",
+      "name_slug": "bahau-airport",
+      "city": "Bahau",
+      "state": "Negeri Sembilan",
+      "state_bm": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "type": "Private",
+      "operator": "",
+      "runway_m": "",
+      "status": "Closed",
+      "coordinates": "",
+      "source_attribution": "PilotNav, Bigorre",
+      "has_iata": false,
+      "has_icao": true
+    },
+    {
+      "id": 22,
+      "iata": "",
+      "icao": "",
+      "name_en": "Sendayan Air Base",
+      "name_bm": "Pangkalan Udara Sendayan",
+      "name_slug": "sendayan-air-base",
+      "city": "Sendayan",
+      "state": "Negeri Sembilan",
+      "state_bm": "Negeri Sembilan",
+      "state_slug": "negeri-sembilan",
+      "type": "Military",
+      "operator": "RMAF",
+      "runway_m": "",
+      "status": "Active",
+      "coordinates": "",
+      "source_attribution": "RMAF, News",
+      "has_iata": false,
+      "has_icao": false
+    }
+  ],
+  "meta": {
+    "title": "Senarai Lapangan Terbang di Negeri Negeri Sembilan - Muat turun percuma",
+    "description": "Senarai 2 lapangan terbang dan kemudahan penerbangan di Negeri Negeri Sembilan, Malaysia. Termasuk lapangan terbang antarabangsa, domestik, ketenteraan, STOL, dan heliport — dengan nama Bahasa Malaysia (Lapangan Terbang …), kod IATA/ICAO, jenis, dan status. Mengandungi 2 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Lapangan Terbang di Negeri Negeri Sembilan | ListBase",
+    "seo_description": "Muat turun Senarai Lapangan Terbang di Negeri Negeri Sembilan — 2 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 2 rekod / 18 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

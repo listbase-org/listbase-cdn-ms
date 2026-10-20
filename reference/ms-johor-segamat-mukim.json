@@ -1,0 +1,292 @@
+{
+  "id": "ms-johor-segamat-mukim",
+  "name": "Mukim di Daerah Segamat, Johor",
+  "title": "Mukim di Daerah Segamat, Johor",
+  "description": "Senarai lengkap 18 mukim di daerah Segamat, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 18 mukim (traditional sub-district units) in Segamat District, Johor, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "010801",
+      "name": "Bekok",
+      "name_uppercase": "BEKOK",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1678,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010802",
+      "name": "Buloh Kasap",
+      "name_uppercase": "BULOH KASAP",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1679,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010803",
+      "name": "Chaah",
+      "name_uppercase": "CHAAH",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1680,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010804",
+      "name": "Gemas",
+      "name_uppercase": "GEMAS",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1681,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010805",
+      "name": "Gemereh",
+      "name_uppercase": "GEMEREH",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1682,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010806",
+      "name": "Jabi",
+      "name_uppercase": "JABI",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1683,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010807",
+      "name": "Jementah",
+      "name_uppercase": "JEMENTAH",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1684,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010808",
+      "name": "Labis",
+      "name_uppercase": "LABIS",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1685,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010809",
+      "name": "Pogoh",
+      "name_uppercase": "POGOH",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1686,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010810",
+      "name": "Sermin",
+      "name_uppercase": "SERMIN",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1687,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010811",
+      "name": "Sungai Segamat",
+      "name_uppercase": "SUNGAI SEGAMAT",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1688,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010840",
+      "name": "Bandar Batu Anam",
+      "name_uppercase": "BANDAR BATU ANAM",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1689,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010841",
+      "name": "Bandar Bekok",
+      "name_uppercase": "BANDAR BEKOK",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1690,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010842",
+      "name": "Bandar Buloh Kasap",
+      "name_uppercase": "BANDAR BULOH KASAP",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1691,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010843",
+      "name": "Bandar Jementah",
+      "name_uppercase": "BANDAR JEMENTAH",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1692,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010844",
+      "name": "Badnar Labis",
+      "name_uppercase": "BADNAR LABIS",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1693,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010845",
+      "name": "Bandar Segamat",
+      "name_uppercase": "BANDAR SEGAMAT",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1694,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    },
+    {
+      "id": "010870",
+      "name": "Pekan Gemas Bahru",
+      "name_uppercase": "PEKAN GEMAS BAHRU",
+      "district_id": "108",
+      "district": "Segamat",
+      "state_id": "1",
+      "state": "Johor",
+      "parent_index": 1695,
+      "state_slug": "johor",
+      "district_slug": "segamat"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Segamat, Johor - Muat turun percuma",
+    "description": "Senarai lengkap 18 mukim di daerah Segamat, negeri Johor, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 18 mukim (traditional sub-district units) in Segamat District, Johor, Malaysia. Mengandungi 18 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Segamat, Johor | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Segamat, Johor — 18 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 18 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

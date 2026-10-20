@@ -1,0 +1,344 @@
+{
+  "id": "ms-negeri-sembilan-dun",
+  "name": "Senarai Dewan Undangan Negeri (DUN) Negeri Sembilan",
+  "title": "Senarai Dewan Undangan Negeri (DUN) Negeri Sembilan",
+  "description": "Senarai 36 kerusi Dewan Undangan Negeri (DUN) bagi negeri Negeri Sembilan berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 36 State Legislative Assembly seats for Negeri Sembilan; a verbatim per-state subset of the national ms-dun list.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_code",
+      "label": "Parlimen Code",
+      "type": "string"
+    },
+    {
+      "key": "parlimen_name",
+      "label": "Parlimen Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "N01",
+      "name": "Chennah",
+      "parlimen_code": "P126",
+      "parlimen_name": "Jelebu",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N02",
+      "name": "Pertang",
+      "parlimen_code": "P126",
+      "parlimen_name": "Jelebu",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N03",
+      "name": "Sungai Lui",
+      "parlimen_code": "P126",
+      "parlimen_name": "Jelebu",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N04",
+      "name": "Klawang",
+      "parlimen_code": "P126",
+      "parlimen_name": "Jelebu",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N05",
+      "name": "Serting",
+      "parlimen_code": "P127",
+      "parlimen_name": "Jempol",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N06",
+      "name": "Palong",
+      "parlimen_code": "P127",
+      "parlimen_name": "Jempol",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N07",
+      "name": "Jeram Padang",
+      "parlimen_code": "P127",
+      "parlimen_name": "Jempol",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N08",
+      "name": "Bahau",
+      "parlimen_code": "P127",
+      "parlimen_name": "Jempol",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N09",
+      "name": "Lenggeng",
+      "parlimen_code": "P128",
+      "parlimen_name": "Seremban",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N10",
+      "name": "Nilai",
+      "parlimen_code": "P128",
+      "parlimen_name": "Seremban",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N11",
+      "name": "Lobak",
+      "parlimen_code": "P128",
+      "parlimen_name": "Seremban",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N12",
+      "name": "Temiang",
+      "parlimen_code": "P128",
+      "parlimen_name": "Seremban",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N13",
+      "name": "Sikamat",
+      "parlimen_code": "P128",
+      "parlimen_name": "Seremban",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N14",
+      "name": "Ampangan",
+      "parlimen_code": "P128",
+      "parlimen_name": "Seremban",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N15",
+      "name": "Juasseh",
+      "parlimen_code": "P129",
+      "parlimen_name": "Kuala Pilah",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N16",
+      "name": "Seri Menanti",
+      "parlimen_code": "P129",
+      "parlimen_name": "Kuala Pilah",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N17",
+      "name": "Senaling",
+      "parlimen_code": "P129",
+      "parlimen_name": "Kuala Pilah",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N18",
+      "name": "Pilah",
+      "parlimen_code": "P129",
+      "parlimen_name": "Kuala Pilah",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N19",
+      "name": "Johol",
+      "parlimen_code": "P129",
+      "parlimen_name": "Kuala Pilah",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N20",
+      "name": "Labu",
+      "parlimen_code": "P130",
+      "parlimen_name": "Rasah",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N21",
+      "name": "Bukit Kepayang",
+      "parlimen_code": "P130",
+      "parlimen_name": "Rasah",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N22",
+      "name": "Rahang",
+      "parlimen_code": "P130",
+      "parlimen_name": "Rasah",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N23",
+      "name": "Mambau",
+      "parlimen_code": "P130",
+      "parlimen_name": "Rasah",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N24",
+      "name": "Seremban Jaya",
+      "parlimen_code": "P130",
+      "parlimen_name": "Rasah",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N25",
+      "name": "Paroi",
+      "parlimen_code": "P131",
+      "parlimen_name": "Rembau",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N26",
+      "name": "Chembong",
+      "parlimen_code": "P131",
+      "parlimen_name": "Rembau",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N27",
+      "name": "Rantau",
+      "parlimen_code": "P131",
+      "parlimen_name": "Rembau",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N28",
+      "name": "Kota",
+      "parlimen_code": "P131",
+      "parlimen_name": "Rembau",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N29",
+      "name": "Chuah",
+      "parlimen_code": "P132",
+      "parlimen_name": "Port Dickson",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N30",
+      "name": "Lukut",
+      "parlimen_code": "P132",
+      "parlimen_name": "Port Dickson",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N31",
+      "name": "Bagan Pinang",
+      "parlimen_code": "P132",
+      "parlimen_name": "Port Dickson",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N32",
+      "name": "Linggi",
+      "parlimen_code": "P132",
+      "parlimen_name": "Port Dickson",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N33",
+      "name": "Sri Tanjung",
+      "parlimen_code": "P132",
+      "parlimen_name": "Port Dickson",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N34",
+      "name": "Gemas",
+      "parlimen_code": "P133",
+      "parlimen_name": "Tampin",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N35",
+      "name": "Gemencheh",
+      "parlimen_code": "P133",
+      "parlimen_name": "Tampin",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    },
+    {
+      "code": "N36",
+      "name": "Repah",
+      "parlimen_code": "P133",
+      "parlimen_name": "Tampin",
+      "negeri": "Negeri Sembilan",
+      "negeri_slug": "negeri-sembilan"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Dewan Undangan Negeri (DUN) Negeri Sembilan - Muat turun percuma",
+    "description": "Senarai 36 kerusi Dewan Undangan Negeri (DUN) bagi negeri Negeri Sembilan berdasarkan sempadan PRU-15 (2022/2023). Subset per-negeri daripada senarai kebangsaan ms-dun; setiap rekod disalin verbatim. / 36 State Legislative Assembly seats for Negeri Sembilan; a verbatim per-state subset of the national ms-dun list. Mengandungi 36 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Dewan Undangan Negeri (DUN) Negeri Sembilan | ListBase",
+    "seo_description": "Muat turun Senarai Dewan Undangan Negeri (DUN) Negeri Sembilan — 36 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 36 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

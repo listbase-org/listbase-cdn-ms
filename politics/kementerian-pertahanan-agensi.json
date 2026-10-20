@@ -1,0 +1,258 @@
+{
+  "id": "kementerian-pertahanan-agensi",
+  "name": "Senarai Agensi Kementerian Pertahanan",
+  "title": "Senarai Agensi Kementerian Pertahanan",
+  "description": "Senarai 6 agensi kerajaan di bawah Kementerian Pertahanan (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 6/6 koordinat, 6/6 laman web.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_body",
+      "label": "Parent Body",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_slug",
+      "label": "Parent Body Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_body_type",
+      "label": "Parent Body Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "contact_person",
+      "label": "Contact Person",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "unique_code",
+      "label": "Unique Code",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "agency_id",
+      "label": "Agency Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "JABATAN HAL EHWAL VETERAN ATM",
+      "parent_body": "Kementerian Pertahanan",
+      "parent_body_slug": "kementerian-pertahanan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Jabatan Hal Ehwal Veteran ATM atau JHEV telah ditubuhkan pada 11 Oktober, 2000. Ia telah diletakkan di bawah pentadbiran Kementerian Pertahanan Malaysia. JHEV telah memulakan operasi secara rasminya pada 1 Januari, 2001 dengan berlokasi di Medan Tuanku, Jalan Tuanku Abdul Rahman, Kuala Lumpur. Objektif utama jabatan ini adalah untuk membantu para pesara Angkatan Tentera Malaysia dalam meningkatkan taraf sosioekonomi setelah menamatkan perkhidmatan dalam ATM",
+      "address": "301 Medan Tuanku Jalan Tuanku Abdul Rahman 50802 Kuala Lumpur Malaysia 50802 Kuala Lumpur",
+      "phone": "603-2050 8000",
+      "fax": "03-2691 7564",
+      "email": "aduanjhev@mod.gov.my",
+      "contact_person": "Pn. Fakhriah Binti Said",
+      "website": "http://www.jhev.gov.my/",
+      "latitude": "3.158667",
+      "longitude": "101.696985",
+      "facebook": "https://www.facebook.com/JHEVATM/",
+      "twitter": "https://twitter.com/MYJHEVATM",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/results?search_query=jabatan+hal+ehwal+veteran",
+      "unique_code": "PAP-22-02-00",
+      "active": true,
+      "agency_id": 40988
+    },
+    {
+      "name": "KEMENTERIAN PERTAHANAN",
+      "parent_body": "Kementerian Pertahanan",
+      "parent_body_slug": "kementerian-pertahanan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "KEMENTERIAN PERTAHANAN",
+      "address": "Kementerian Pertahanan, Wisma Pertahanan, Jalan Padang Tembak, 50634 KUALA LUMPUR.",
+      "phone": "603-2059 8400",
+      "fax": "03-2691 1757",
+      "email": "portal@mod.gov.my",
+      "contact_person": "En. Nizalene Deliza Bin Husaini",
+      "website": "http://www.mod.gov.my/",
+      "latitude": "3.174984",
+      "longitude": "101.724772",
+      "facebook": "https://www.facebook.com/KementerianPertahanan/",
+      "twitter": "https://twitter.com/MINDEFMalaysia",
+      "instagram": "",
+      "youtube": "",
+      "unique_code": "PAP-22-01-00",
+      "active": true,
+      "agency_id": 247
+    },
+    {
+      "name": "MARKAS ANGKATAN TENTERA MALAYSIA",
+      "parent_body": "Kementerian Pertahanan",
+      "parent_body_slug": "kementerian-pertahanan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Portal Rasmi Markas Angkatan Tentera Malaysia",
+      "address": "Wisma Pertahanan Jalan Padang Tembak, Wilayah Persekutuan Kuala Lumpur 50634 Malaysia",
+      "phone": "603-2059 8133",
+      "fax": "03-2059 8397",
+      "email": "bhea.j7@mod.gov.my",
+      "contact_person": "Lt. Syahir Bin Mohd Yusof",
+      "website": "http://www.mafhq.mil.my/index.php/my/",
+      "latitude": "3.175446",
+      "longitude": "101.724772",
+      "facebook": "https://www.facebook.com/pagemkatm",
+      "twitter": "https://twitter.com/MarkasATM",
+      "instagram": "https://www.instagram.com/mks.atm/",
+      "youtube": "https://www.youtube.com/user/MarkasATM",
+      "unique_code": "SEM-99-14-00",
+      "active": true,
+      "agency_id": 41643
+    },
+    {
+      "name": "Tentera Darat Malaysia",
+      "parent_body": "Kementerian Pertahanan",
+      "parent_body_slug": "kementerian-pertahanan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Tentera Darat Malaysia adalah sebuah organisasi yang unik dan tersendiri. Terdapat 16 Kor dan Rejimen yang mempunyai fungsi dan peranan masing-masing. Fungsi dan peranan mereka adalah berbeza berdasarkan tugas dan kepakaran.",
+      "address": "Tentera Darat Malaysia, Kementerian Pertahanan, Jalan Padang Tembak, 50634 Kuala Lumpur",
+      "phone": "603-2059 8400",
+      "fax": "0326941419",
+      "email": "akh.dit@mod.gov.my",
+      "contact_person": "PWI Ahmad Kamal Bin Husin",
+      "website": "http://army.mod.gov.my/",
+      "latitude": "3.175446",
+      "longitude": "101.724772",
+      "facebook": "https://www.facebook.com/TenteraDaratMY",
+      "twitter": "https://twitter.com/TenteraDarat",
+      "instagram": "https://www.instagram.com/tenteradarat/",
+      "youtube": "https://www.youtube.com/user/armywebmaster",
+      "unique_code": "SEM-99-15-00",
+      "active": true,
+      "agency_id": 41851
+    },
+    {
+      "name": "Tentera Laut DiRaja Malaysia",
+      "parent_body": "Kementerian Pertahanan",
+      "parent_body_slug": "kementerian-pertahanan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Portal Rasmi Tentera Laut Malaysia",
+      "address": "Markas Tentera Laut, Wisma Pertahanan, Jalan Padang Tembak, 50634 Kuala Lumpur",
+      "phone": "603-2059 8400",
+      "fax": "03-2691 5897",
+      "email": "webmaster@navy.mil.my",
+      "contact_person": "Lt Kdr Eini Suriani Louis",
+      "website": "http://www.navy.mil.my",
+      "latitude": "3.175446",
+      "longitude": "101.724772",
+      "facebook": "https://www.facebook.com/RoyalMalaysianNavy",
+      "twitter": "https://www.instagram.com/tldm_rasmi/",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/user/rmnwebmaster",
+      "unique_code": "SEM-99-16-00",
+      "active": true,
+      "agency_id": 41091
+    },
+    {
+      "name": "Tentera Udara DiRaja Malaysia",
+      "parent_body": "Kementerian Pertahanan",
+      "parent_body_slug": "kementerian-pertahanan",
+      "parent_body_type": "Kementerian / Jabatan Persekutuan",
+      "description": "Portal Rasmi Tentera Udara Malaysia",
+      "address": "Markas Tentera Udara, Kementerian Pertahanan, Jalan Padang Tembak, 50634, Kuala Lumpur.",
+      "phone": "603-2071 4077",
+      "fax": "03-2692 5975",
+      "email": "webmaster@airforce.mil.my",
+      "contact_person": "Lt. Mohd Faiz",
+      "website": "http://www.airforce.mil.my/",
+      "latitude": "3.175446",
+      "longitude": "101.724772",
+      "facebook": "https://www.facebook.com/PortalTUDM/",
+      "twitter": "https://twitter.com/airforcenextgen",
+      "instagram": "https://www.instagram.com/tudm_rasmi/",
+      "youtube": "https://www.youtube.com/results?search_query=rmaf",
+      "unique_code": "SEM-99-17-00",
+      "active": true,
+      "agency_id": 39591
+    }
+  ],
+  "meta": {
+    "title": "Senarai Agensi Kementerian Pertahanan - Muat turun percuma",
+    "description": "Senarai 6 agensi kerajaan di bawah Kementerian Pertahanan (kementerian/jabatan persekutuan), daripada Direktori Kerajaan Malaysia. Medan termasuk nama agensi, alamat, telefon, faks, e-mel, laman web, koordinat dan media sosial. Liputan: 6/6 koordinat, 6/6 laman web. Mengandungi 6 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Agensi Kementerian Pertahanan | ListBase",
+    "seo_description": "Muat turun Senarai Agensi Kementerian Pertahanan — 6 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 6 rekod / 20 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

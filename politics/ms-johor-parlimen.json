@@ -1,0 +1,233 @@
+{
+  "id": "ms-johor-parlimen",
+  "name": "Senarai Parlimen Johor",
+  "title": "Senarai Parlimen Johor",
+  "description": "Senarai kerusi Parlimen di Johor berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P140",
+      "name": "Segamat",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N01: Buloh Kasap, N02: Jementah"
+    },
+    {
+      "code": "P141",
+      "name": "Sekijang",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N03: Pemanis, N04: Kemelah"
+    },
+    {
+      "code": "P142",
+      "name": "Labis",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N05: Tenang, N06: Bekok"
+    },
+    {
+      "code": "P143",
+      "name": "Pagoh",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N07: Bukit Kepong, N08: Bukit Pasir"
+    },
+    {
+      "code": "P144",
+      "name": "Ledang",
+      "negeri": "Johor",
+      "dun_count": 3,
+      "dun": "N09: Gambir, N10: Tangkak, N11: Serom"
+    },
+    {
+      "code": "P145",
+      "name": "Bakri",
+      "negeri": "Johor",
+      "dun_count": 3,
+      "dun": "N12: Bentayan, N13: Simpang Jeram, N14: Bukit Naning"
+    },
+    {
+      "code": "P146",
+      "name": "Muar",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N15: Maharani, N16: Sungai Balang"
+    },
+    {
+      "code": "P147",
+      "name": "Parit Sulong",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N17: Semerah, N18: Sri Medan"
+    },
+    {
+      "code": "P148",
+      "name": "Ayer Hitam",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N19: Yong Peng, N20: Semarang"
+    },
+    {
+      "code": "P149",
+      "name": "Sri Gading",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N21: Parit Yaani, N22: Parit Raja"
+    },
+    {
+      "code": "P150",
+      "name": "Batu Pahat",
+      "negeri": "Johor",
+      "dun_count": 3,
+      "dun": "N23: Penggaram, N24: Senggarang, N25: Rengit"
+    },
+    {
+      "code": "P151",
+      "name": "Simpang Renggam",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N26: Machap, N27: Layang-Layang"
+    },
+    {
+      "code": "P152",
+      "name": "Kluang",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N28: Mengkibol, N29: Mahkota"
+    },
+    {
+      "code": "P153",
+      "name": "Sembrong",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N30: Paloh, N31: Kahang"
+    },
+    {
+      "code": "P154",
+      "name": "Mersing",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N32: Endau, N33: Tenggaroh"
+    },
+    {
+      "code": "P155",
+      "name": "Tenggara",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N34: Panti, N35: Pasir Raja"
+    },
+    {
+      "code": "P156",
+      "name": "Kota Tinggi",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N36: Sedili, N37: Johor Lama"
+    },
+    {
+      "code": "P157",
+      "name": "Pengerang",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N38: Penawar, N39: Tanjung Surat"
+    },
+    {
+      "code": "P158",
+      "name": "Tebrau",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N40: Tiram, N41: Puteri Wangsa"
+    },
+    {
+      "code": "P159",
+      "name": "Pasir Gudang",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N42: Johor Jaya, N43: Permas"
+    },
+    {
+      "code": "P160",
+      "name": "Johor Bahru",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N44: Larkin, N45: Stulang"
+    },
+    {
+      "code": "P161",
+      "name": "Pulai",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N46: Perling, N47: Kempas"
+    },
+    {
+      "code": "P162",
+      "name": "Iskandar Puteri",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N48: Skudai, N49: Kota Iskandar"
+    },
+    {
+      "code": "P163",
+      "name": "Kulai",
+      "negeri": "Johor",
+      "dun_count": 3,
+      "dun": "N50: Bukit Permai, N51: Bukit Batu, N52: Senai"
+    },
+    {
+      "code": "P164",
+      "name": "Pontian",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N53: Benut, N54: Pulai Sebatang"
+    },
+    {
+      "code": "P165",
+      "name": "Tanjung Piai",
+      "negeri": "Johor",
+      "dun_count": 2,
+      "dun": "N55: Pekan Nanas, N56: Kukup"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen Johor - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di Johor berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested. Mengandungi 26 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen Johor | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen Johor — 26 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 26 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

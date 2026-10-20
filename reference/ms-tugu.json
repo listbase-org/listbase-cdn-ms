@@ -1,0 +1,258 @@
+{
+  "id": "ms-tugu",
+  "name": "Tugu Peringatan di Malaysia",
+  "title": "Tugu Peringatan di Malaysia",
+  "description": "Monuments in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q811041",
+      "name_ms": "Batu Sumpah Keningau",
+      "name_en": "Keningau Oath Stone",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.342914,
+      "longitude": 116.161636,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q811041"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q1067824",
+      "name_ms": "",
+      "name_en": "Chartered Company Monument",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.840537,
+      "longitude": 118.116304,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1067824"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q1075516",
+      "name_ms": "",
+      "name_en": "Cho Huan Lai Memorial",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.350725,
+      "longitude": 116.167861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1075516"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q14906542",
+      "name_ms": "",
+      "name_en": "De Fontaine Memorial",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.772764,
+      "longitude": 116.017773,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14906542"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q27557342",
+      "name_ms": "",
+      "name_en": "Francis Light Memorial",
+      "admin_area_ms": "George Town",
+      "admin_area_en": "George Town",
+      "latitude": 5.420028,
+      "longitude": 100.339306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27557342"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1806715",
+      "name_ms": "",
+      "name_en": "Last POW Camp Memorial",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.907792,
+      "longitude": 116.647918,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1806715"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q15893855",
+      "name_ms": "",
+      "name_en": "Malacca Warrior Monument",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 2.195639,
+      "longitude": 102.255444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15893855"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q6858902",
+      "name_ms": "Monumen Alaf Baru",
+      "name_en": "Millennium Monument",
+      "admin_area_ms": "Putrajaya",
+      "admin_area_en": "Putrajaya",
+      "latitude": 2.92341,
+      "longitude": 101.68258,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6858902"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q7262410",
+      "name_ms": "",
+      "name_en": "Putrajaya Landmark",
+      "admin_area_ms": "Putrajaya",
+      "admin_area_en": "Putrajaya",
+      "latitude": 2.94085,
+      "longitude": 101.697522,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7262410"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q2121994",
+      "name_ms": "",
+      "name_en": "Quailey's Hill Memorial",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.945479,
+      "longitude": 116.780971,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2121994"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q2332610",
+      "name_ms": "",
+      "name_en": "Starcevich memorial monument",
+      "admin_area_ms": "Daerah Beaufort",
+      "admin_area_en": "Beaufort",
+      "latitude": 5.343165,
+      "longitude": 115.746814,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2332610"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q2459331",
+      "name_ms": "",
+      "name_en": "Tawau Japanese War Memorial",
+      "admin_area_ms": "Tawau",
+      "admin_area_en": "Tawau",
+      "latitude": 4.266902,
+      "longitude": 117.877971,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2459331"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q724745",
+      "name_ms": "Tugu Negara",
+      "name_en": "National Monument",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.148861,
+      "longitude": 101.683833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q724745"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q2754389",
+      "name_ms": "Tugu Peringatan Double Six",
+      "name_en": "Double Six Monument",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.962217,
+      "longitude": 116.061811,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2754389"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q125891430",
+      "name_ms": "Tugu Peringatan Malaysia",
+      "name_en": "Malaysia Monument",
+      "admin_area_ms": "",
+      "admin_area_en": "Kota Kinabalu",
+      "latitude": 5.982222,
+      "longitude": 116.075586,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125891430"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q101923028",
+      "name_ms": "",
+      "name_en": "VOA Monument",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.455278,
+      "longitude": 103.760056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101923028"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q1801159",
+      "name_ms": "",
+      "name_en": "William Pryer Monument",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.840526,
+      "longitude": 118.116438,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1801159"
+    }
+  ],
+  "meta": {
+    "title": "Tugu Peringatan di Malaysia - Muat turun percuma",
+    "description": "Monuments in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location). Mengandungi 17 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Tugu Peringatan di Malaysia | ListBase",
+    "seo_description": "Muat turun Tugu Peringatan di Malaysia — 17 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 17 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "ms-panggung-wayang",
+  "name": "Panggung Wayang di Malaysia",
+  "title": "Panggung Wayang di Malaysia",
+  "description": "Cinemas in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q60292614",
+      "name_ms": "",
+      "name_en": "Capitol Theatre",
+      "admin_area_ms": "George Town",
+      "admin_area_en": "George Town",
+      "latitude": 5.41622,
+      "longitude": 100.32989,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60292614"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q35149268",
+      "name_ms": "",
+      "name_en": "Cathay Theatre",
+      "admin_area_ms": "Ipoh",
+      "admin_area_en": "Ipoh",
+      "latitude": 4.598027,
+      "longitude": 101.083531,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35149268"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q35149552",
+      "name_ms": "",
+      "name_en": "Federal Theatre",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.167572,
+      "longitude": 101.696724,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35149552"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q35149417",
+      "name_ms": "",
+      "name_en": "Lido Theatre",
+      "admin_area_ms": "Ipoh",
+      "admin_area_en": "Ipoh",
+      "latitude": 4.599398,
+      "longitude": 101.084195,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35149417"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q35149584",
+      "name_ms": "",
+      "name_en": "Majestic Cinema",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.13847,
+      "longitude": 101.709838,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35149584"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q35149434",
+      "name_ms": "",
+      "name_en": "Majestic Theater",
+      "admin_area_ms": "Ipoh",
+      "admin_area_en": "Ipoh",
+      "latitude": 4.587752,
+      "longitude": 101.088104,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35149434"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q136706370",
+      "name_ms": "Panggung Kupang",
+      "name_en": "",
+      "admin_area_ms": "Baling",
+      "admin_area_en": "Baling",
+      "latitude": 5.635241,
+      "longitude": 100.844014,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136706370"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q136706492",
+      "name_ms": "Panggung Manikam",
+      "name_en": "",
+      "admin_area_ms": "Baling",
+      "admin_area_en": "Baling",
+      "latitude": 5.677317,
+      "longitude": 100.916418,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136706492"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q35149738",
+      "name_ms": "",
+      "name_en": "Rex Cinema",
+      "admin_area_ms": "Kuching",
+      "admin_area_en": "Kuching",
+      "latitude": 1.557666,
+      "longitude": 110.346231,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35149738"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q35149636",
+      "name_ms": "",
+      "name_en": "Rex Theatre",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.14426,
+      "longitude": 101.6971,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35149636"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q5145769",
+      "name_ms": "Teater Coliseum",
+      "name_en": "Coliseum Theatre",
+      "admin_area_ms": "Kuala Lumpur",
+      "admin_area_en": "Kuala Lumpur",
+      "latitude": 3.1535,
+      "longitude": 101.696338,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5145769"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q35149677",
+      "name_ms": "",
+      "name_en": "Veenai Odeon",
+      "admin_area_ms": "George Town",
+      "admin_area_en": "George Town",
+      "latitude": 5.420224,
+      "longitude": 100.332492,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35149677"
+    }
+  ],
+  "meta": {
+    "title": "Panggung Wayang di Malaysia - Muat turun percuma",
+    "description": "Cinemas in Malaysia with geographic coordinates, sourced from Wikidata (direct P31 instance-of, P17 Malaysia/Q833, P625 coordinate location). Mengandungi 12 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Panggung Wayang di Malaysia | ListBase",
+    "seo_description": "Muat turun Panggung Wayang di Malaysia — 12 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 12 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

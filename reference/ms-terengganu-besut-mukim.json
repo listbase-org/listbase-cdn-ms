@@ -1,0 +1,304 @@
+{
+  "id": "ms-terengganu-besut-mukim",
+  "name": "Mukim di Daerah Besut, Terengganu",
+  "title": "Mukim di Daerah Besut, Terengganu",
+  "description": "Senarai lengkap 19 mukim di daerah Besut, negeri Terengganu, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 19 mukim (traditional sub-district units) in Besut District, Terengganu, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "110101",
+      "name": "Bukit Kenak",
+      "name_uppercase": "BUKIT KENAK",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 570,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110102",
+      "name": "Bukit Puteri",
+      "name_uppercase": "BUKIT PUTERI",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 571,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110105",
+      "name": "Hulu Besut",
+      "name_uppercase": "HULU BESUT",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 572,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110107",
+      "name": "Jabi",
+      "name_uppercase": "JABI",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 573,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110108",
+      "name": "Kampong Raja",
+      "name_uppercase": "KAMPONG RAJA",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 574,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110109",
+      "name": "Keluang",
+      "name_uppercase": "KELUANG",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 575,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110110",
+      "name": "Kerandang",
+      "name_uppercase": "KERANDANG",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 576,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110111",
+      "name": "Kuala Besut",
+      "name_uppercase": "KUALA BESUT",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 577,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110112",
+      "name": "Kubang Bemban",
+      "name_uppercase": "KUBANG BEMBAN",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 578,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110113",
+      "name": "Lubuk Kawah",
+      "name_uppercase": "LUBUK KAWAH",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 579,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110115",
+      "name": "Pasir Akar",
+      "name_uppercase": "PASIR AKAR",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 580,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110116",
+      "name": "Pelagat",
+      "name_uppercase": "PELAGAT",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 581,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110117",
+      "name": "Pengkalan Nangka",
+      "name_uppercase": "PENGKALAN NANGKA",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 582,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110118",
+      "name": "Pulau Perhentian",
+      "name_uppercase": "PULAU PERHENTIAN",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 583,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110120",
+      "name": "Tembila",
+      "name_uppercase": "TEMBILA",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 584,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110121",
+      "name": "Tenang",
+      "name_uppercase": "TENANG",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 585,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110170",
+      "name": "Pekan Jertih",
+      "name_uppercase": "PEKAN JERTIH",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 586,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110171",
+      "name": "Pekan Kampung Raja",
+      "name_uppercase": "PEKAN KAMPUNG RAJA",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 587,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    },
+    {
+      "id": "110172",
+      "name": "Pekan Kuala Besut",
+      "name_uppercase": "PEKAN KUALA BESUT",
+      "district_id": "1101",
+      "district": "Besut",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 588,
+      "state_slug": "terengganu",
+      "district_slug": "besut"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Besut, Terengganu - Muat turun percuma",
+    "description": "Senarai lengkap 19 mukim di daerah Besut, negeri Terengganu, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 19 mukim (traditional sub-district units) in Besut District, Terengganu, Malaysia. Mengandungi 19 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Besut, Terengganu | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Besut, Terengganu — 19 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 19 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

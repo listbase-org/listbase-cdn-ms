@@ -1,0 +1,295 @@
+{
+  "id": "ms-sabah-mukim",
+  "name": "Mukim di Sabah",
+  "title": "Mukim di Sabah",
+  "description": "Senarai lengkap 26 mukim di negeri Sabah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 26 mukim (traditional sub-district units) in Sabah, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "120101",
+      "name": "Inanam",
+      "name_uppercase": "INANAM",
+      "district_id": "1201",
+      "district": "Kota Kinabalu",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120102",
+      "name": "Kepayan",
+      "name_uppercase": "KEPAYAN",
+      "district_id": "1201",
+      "district": "Kota Kinabalu",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120103",
+      "name": "Likas",
+      "name_uppercase": "LIKAS",
+      "district_id": "1201",
+      "district": "Kota Kinabalu",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120104",
+      "name": "Lok Kawi",
+      "name_uppercase": "LOK KAWI",
+      "district_id": "1201",
+      "district": "Kota Kinabalu",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120105",
+      "name": "Menggatal",
+      "name_uppercase": "MENGGATAL",
+      "district_id": "1201",
+      "district": "Kota Kinabalu",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120106",
+      "name": "Sepanggar",
+      "name_uppercase": "SEPANGGAR",
+      "district_id": "1201",
+      "district": "Kota Kinabalu",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120107",
+      "name": "Tanjung Aru",
+      "name_uppercase": "TANJUNG ARU",
+      "district_id": "1201",
+      "district": "Kota Kinabalu",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120108",
+      "name": "Telipok",
+      "name_uppercase": "TELIPOK",
+      "district_id": "1201",
+      "district": "Kota Kinabalu",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120401",
+      "name": "Berungis",
+      "name_uppercase": "BERUNGIS",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120402",
+      "name": "Indai",
+      "name_uppercase": "INDAI",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120403",
+      "name": "Lembah",
+      "name_uppercase": "LEMBAH",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120404",
+      "name": "Mengkabong",
+      "name_uppercase": "MENGKABONG",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120405",
+      "name": "Nabalu",
+      "name_uppercase": "NABALU",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120406",
+      "name": "Pantai",
+      "name_uppercase": "PANTAI",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120407",
+      "name": "Pekan",
+      "name_uppercase": "PEKAN",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120408",
+      "name": "Serusop",
+      "name_uppercase": "SERUSOP",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120409",
+      "name": "Tambalang",
+      "name_uppercase": "TAMBALANG",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120410",
+      "name": "Tengah",
+      "name_uppercase": "TENGAH",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120411",
+      "name": "Ulu",
+      "name_uppercase": "ULU",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120412",
+      "name": "Mangkaladoi",
+      "name_uppercase": "MANGKALADOI",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120413",
+      "name": "Tenghilan",
+      "name_uppercase": "TENGHILAN",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120414",
+      "name": "Topokon",
+      "name_uppercase": "TOPOKON",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120415",
+      "name": "Tuaran Bandar",
+      "name_uppercase": "TUARAN BANDAR",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "120416",
+      "name": "Tamparuli",
+      "name_uppercase": "TAMPARULI",
+      "district_id": "1204",
+      "district": "Tuaran",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "121701",
+      "name": "Membakut",
+      "name_uppercase": "MEMBAKUT",
+      "district_id": "1217",
+      "district": "Beaufort",
+      "state_id": "12",
+      "state": "Sabah"
+    },
+    {
+      "id": "122001",
+      "name": "Donggongon",
+      "name_uppercase": "DONGGONGON",
+      "district_id": "1220",
+      "district": "",
+      "state_id": "12",
+      "state": "Sabah"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Sabah - Muat turun percuma",
+    "description": "Senarai lengkap 26 mukim di negeri Sabah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 26 mukim (traditional sub-district units) in Sabah, Malaysia. Mengandungi 26 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Sabah | ListBase",
+    "seo_description": "Muat turun Mukim di Sabah — 26 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 26 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

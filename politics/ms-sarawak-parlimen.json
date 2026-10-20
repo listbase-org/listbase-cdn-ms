@@ -1,0 +1,268 @@
+{
+  "id": "ms-sarawak-parlimen",
+  "name": "Senarai Parlimen Sarawak",
+  "title": "Senarai Parlimen Sarawak",
+  "description": "Senarai kerusi Parlimen di Sarawak berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P192",
+      "name": "Mas Gading",
+      "negeri": "Sarawak",
+      "dun_count": 2,
+      "dun": "N01: Opar, N02: Tasik Biru"
+    },
+    {
+      "code": "P193",
+      "name": "Santubong",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N03: Tanjong Datu, N04: Pantai Damai, N05: Demak Laut"
+    },
+    {
+      "code": "P194",
+      "name": "Petra Jaya",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N06: Tupong, N07: Samariang, N08: Satok"
+    },
+    {
+      "code": "P195",
+      "name": "Bandar Kuching",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N09: Padungan, N10: Pending, N11: Batu Lintang"
+    },
+    {
+      "code": "P196",
+      "name": "Stampin",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N12: Kota Sentosa, N13: Batu Kitang, N14: Batu Kawah"
+    },
+    {
+      "code": "P197",
+      "name": "Kota Samarahan",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N15: Asajaya, N16: Muara Tuang, N17: Stakan"
+    },
+    {
+      "code": "P198",
+      "name": "Puncak Borneo",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N18: Serembu, N19: Mambong, N20: Tarat"
+    },
+    {
+      "code": "P199",
+      "name": "Serian",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N21: Tebedu, N22: Kedup, N23: Bukit Semuja"
+    },
+    {
+      "code": "P200",
+      "name": "Batang Sadong",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N24: Sadong Jaya, N25: Simunjan, N26: Gedong"
+    },
+    {
+      "code": "P201",
+      "name": "Batang Lupar",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N27: Sebuyau, N28: Lingga, N29: Beting Maro"
+    },
+    {
+      "code": "P202",
+      "name": "Sri Aman",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N30: Balai Ringin, N31: Bukit Begunan, N32: Simanggang"
+    },
+    {
+      "code": "P203",
+      "name": "Lubok Antu",
+      "negeri": "Sarawak",
+      "dun_count": 2,
+      "dun": "N33: Engkilili, N34: Batang Ai"
+    },
+    {
+      "code": "P204",
+      "name": "Betong",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N35: Saribas, N36: Layar, N37: Bukit Saban"
+    },
+    {
+      "code": "P205",
+      "name": "Saratok",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N38: Kalaka, N39: Krian, N40: Kabong"
+    },
+    {
+      "code": "P206",
+      "name": "Tanjong Manis",
+      "negeri": "Sarawak",
+      "dun_count": 2,
+      "dun": "N41: Kuala Rajang, N42: Semop"
+    },
+    {
+      "code": "P207",
+      "name": "Igan",
+      "negeri": "Sarawak",
+      "dun_count": 2,
+      "dun": "N43: Daro, N44: Jemoreng"
+    },
+    {
+      "code": "P208",
+      "name": "Sarikei",
+      "negeri": "Sarawak",
+      "dun_count": 2,
+      "dun": "N45: Repok, N46: Meradong"
+    },
+    {
+      "code": "P209",
+      "name": "Julau",
+      "negeri": "Sarawak",
+      "dun_count": 2,
+      "dun": "N47: Pakan, N48: Meluan"
+    },
+    {
+      "code": "P210",
+      "name": "Kanowit",
+      "negeri": "Sarawak",
+      "dun_count": 2,
+      "dun": "N49: Ngemah, N50: Machan"
+    },
+    {
+      "code": "P211",
+      "name": "Lanang",
+      "negeri": "Sarawak",
+      "dun_count": 2,
+      "dun": "N51: Bukit Assek, N52: Dudong"
+    },
+    {
+      "code": "P212",
+      "name": "Sibu",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N53: Bawang Assan, N54: Pelawan, N55: Nangka"
+    },
+    {
+      "code": "P213",
+      "name": "Mukah",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N56: Dalat, N57: Tellian, N58: Balingian"
+    },
+    {
+      "code": "P214",
+      "name": "Selangau",
+      "negeri": "Sarawak",
+      "dun_count": 2,
+      "dun": "N59: Tamin, N60: Kakus"
+    },
+    {
+      "code": "P215",
+      "name": "Kapit",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N61: Pelagus, N62: Katibas, N63: Bukit Goram"
+    },
+    {
+      "code": "P216",
+      "name": "Hulu Rajang",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N64: Baleh, N65: Belaga, N66: Murum"
+    },
+    {
+      "code": "P217",
+      "name": "Bintulu",
+      "negeri": "Sarawak",
+      "dun_count": 4,
+      "dun": "N67: Jepak, N68: Tanjong Batu, N69: Kemena, N70: Samalaju"
+    },
+    {
+      "code": "P218",
+      "name": "Sibuti",
+      "negeri": "Sarawak",
+      "dun_count": 2,
+      "dun": "N71: Bekenu, N72: Lambir"
+    },
+    {
+      "code": "P219",
+      "name": "Miri",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N73: Piasau, N74: Pujut, N75: Senadin"
+    },
+    {
+      "code": "P220",
+      "name": "Baram",
+      "negeri": "Sarawak",
+      "dun_count": 3,
+      "dun": "N76: Marudi, N77: Telang Usan, N78: Mulu"
+    },
+    {
+      "code": "P221",
+      "name": "Limbang",
+      "negeri": "Sarawak",
+      "dun_count": 2,
+      "dun": "N79: Bukit Kota, N80: Batu Danau"
+    },
+    {
+      "code": "P222",
+      "name": "Lawas",
+      "negeri": "Sarawak",
+      "dun_count": 2,
+      "dun": "N81: Ba'kelalan, N82: Bukit Sari"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen Sarawak - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di Sarawak berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested. Mengandungi 31 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen Sarawak | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen Sarawak — 31 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 31 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

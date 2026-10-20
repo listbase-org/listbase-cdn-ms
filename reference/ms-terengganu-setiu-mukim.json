@@ -1,0 +1,136 @@
+{
+  "id": "ms-terengganu-setiu-mukim",
+  "name": "Mukim di Daerah Setiu, Terengganu",
+  "title": "Mukim di Daerah Setiu, Terengganu",
+  "description": "Senarai lengkap 5 mukim di daerah Setiu, negeri Terengganu, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 5 mukim (traditional sub-district units) in Setiu District, Terengganu, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "110701",
+      "name": "Caluk",
+      "name_uppercase": "CALUK",
+      "district_id": "1107",
+      "district": "Setiu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 661,
+      "state_slug": "terengganu",
+      "district_slug": "setiu"
+    },
+    {
+      "id": "110702",
+      "name": "Guntung",
+      "name_uppercase": "GUNTUNG",
+      "district_id": "1107",
+      "district": "Setiu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 662,
+      "state_slug": "terengganu",
+      "district_slug": "setiu"
+    },
+    {
+      "id": "110703",
+      "name": "Hulu Nerus",
+      "name_uppercase": "HULU NERUS",
+      "district_id": "1107",
+      "district": "Setiu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 663,
+      "state_slug": "terengganu",
+      "district_slug": "setiu"
+    },
+    {
+      "id": "110704",
+      "name": "Merang",
+      "name_uppercase": "MERANG",
+      "district_id": "1107",
+      "district": "Setiu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 664,
+      "state_slug": "terengganu",
+      "district_slug": "setiu"
+    },
+    {
+      "id": "110707",
+      "name": "Tasik",
+      "name_uppercase": "TASIK",
+      "district_id": "1107",
+      "district": "Setiu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 665,
+      "state_slug": "terengganu",
+      "district_slug": "setiu"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Setiu, Terengganu - Muat turun percuma",
+    "description": "Senarai lengkap 5 mukim di daerah Setiu, negeri Terengganu, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 5 mukim (traditional sub-district units) in Setiu District, Terengganu, Malaysia. Mengandungi 5 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Setiu, Terengganu | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Setiu, Terengganu — 5 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 5 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

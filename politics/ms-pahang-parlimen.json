@@ -1,0 +1,149 @@
+{
+  "id": "ms-pahang-parlimen",
+  "name": "Senarai Parlimen Pahang",
+  "title": "Senarai Parlimen Pahang",
+  "description": "Senarai kerusi Parlimen di Pahang berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "dun_count",
+      "label": "Dun Count",
+      "type": "number"
+    },
+    {
+      "key": "dun",
+      "label": "Dun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "P078",
+      "name": "Cameron Highlands",
+      "negeri": "Pahang",
+      "dun_count": 2,
+      "dun": "N01: Tanah Rata, N02: Jelai"
+    },
+    {
+      "code": "P079",
+      "name": "Lipis",
+      "negeri": "Pahang",
+      "dun_count": 3,
+      "dun": "N03: Padang Tengku, N04: Cheka, N05: Benta"
+    },
+    {
+      "code": "P080",
+      "name": "Raub",
+      "negeri": "Pahang",
+      "dun_count": 3,
+      "dun": "N06: Batu Talam, N07: Tras, N08: Dong"
+    },
+    {
+      "code": "P081",
+      "name": "Jerantut",
+      "negeri": "Pahang",
+      "dun_count": 3,
+      "dun": "N09: Tahan, N10: Damak, N11: Pulau Tawar"
+    },
+    {
+      "code": "P082",
+      "name": "Indera Mahkota",
+      "negeri": "Pahang",
+      "dun_count": 2,
+      "dun": "N12: Beserah, N13: Semambu"
+    },
+    {
+      "code": "P083",
+      "name": "Kuantan",
+      "negeri": "Pahang",
+      "dun_count": 3,
+      "dun": "N14: Teruntum, N15: Tanjung Lumpur, N16: Inderapura"
+    },
+    {
+      "code": "P084",
+      "name": "Paya Besar",
+      "negeri": "Pahang",
+      "dun_count": 3,
+      "dun": "N17: Sungai Lembing, N18: Lepar, N19: Panching"
+    },
+    {
+      "code": "P085",
+      "name": "Pekan",
+      "negeri": "Pahang",
+      "dun_count": 4,
+      "dun": "N20: Pulau Manis, N21: Peramu Jaya, N22: Bebar, N23: Chini"
+    },
+    {
+      "code": "P086",
+      "name": "Maran",
+      "negeri": "Pahang",
+      "dun_count": 3,
+      "dun": "N24: Luit, N25: Kuala Sentul, N26: Chenor"
+    },
+    {
+      "code": "P087",
+      "name": "Kuala Krau",
+      "negeri": "Pahang",
+      "dun_count": 3,
+      "dun": "N27: Jenderak, N28: Kerdau, N29: Jengka"
+    },
+    {
+      "code": "P088",
+      "name": "Temerloh",
+      "negeri": "Pahang",
+      "dun_count": 3,
+      "dun": "N30: Mentakab, N31: Lanchang, N32: Kuala Semantan"
+    },
+    {
+      "code": "P089",
+      "name": "Bentong",
+      "negeri": "Pahang",
+      "dun_count": 4,
+      "dun": "N33: Bilut, N34: Ketari, N35: Sabai, N36: Pelangai"
+    },
+    {
+      "code": "P090",
+      "name": "Bera",
+      "negeri": "Pahang",
+      "dun_count": 3,
+      "dun": "N37: Guai, N38: Triang, N39: Kemayan"
+    },
+    {
+      "code": "P091",
+      "name": "Rompin",
+      "negeri": "Pahang",
+      "dun_count": 3,
+      "dun": "N40: Bukit Ibam, N41: Muadzam Shah, N42: Tioman"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parlimen Pahang - Muat turun percuma",
+    "description": "Senarai kerusi Parlimen di Pahang berdasarkan sempadan PRU-15 (2022), termasuk kod kawasan, nama parlimen, dan kerusi DUN bawah setiap parlimen. Senarai DUN bagi setiap parlimen disertakan secara nested. Mengandungi 14 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parlimen Pahang | ListBase",
+    "seo_description": "Muat turun Senarai Parlimen Pahang — 14 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 14 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

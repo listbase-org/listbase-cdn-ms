@@ -1,0 +1,214 @@
+{
+  "id": "ms-wp-kuala-lumpur-mukim",
+  "name": "Mukim di Wp Kuala Lumpur",
+  "title": "Mukim di Wp Kuala Lumpur",
+  "description": "Senarai lengkap 17 mukim di negeri Wp Kuala Lumpur, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 17 mukim (traditional sub-district units) in Wp Kuala Lumpur, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "140101",
+      "name": "Ampang",
+      "name_uppercase": "AMPANG",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140102",
+      "name": "Batu",
+      "name_uppercase": "BATU",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140103",
+      "name": "Cheras",
+      "name_uppercase": "CHERAS",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140104",
+      "name": "Ulu Kelang",
+      "name_uppercase": "ULU KELANG",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140105",
+      "name": "Kuala Lumpur",
+      "name_uppercase": "KUALA LUMPUR",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140106",
+      "name": "Petaling",
+      "name_uppercase": "PETALING",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140107",
+      "name": "Setapak",
+      "name_uppercase": "SETAPAK",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140144",
+      "name": "Bandar Kuala Lumpur",
+      "name_uppercase": "BANDAR KUALA LUMPUR",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140155",
+      "name": "Bandar Petaling Jaya",
+      "name_uppercase": "BANDAR PETALING JAYA",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140166",
+      "name": "Bandar Bandar Baharu Sungai Besi",
+      "name_uppercase": "BANDAR BANDAR BAHARU SUNGAI BESI",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140170",
+      "name": "Pekan Batu",
+      "name_uppercase": "PEKAN BATU",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140171",
+      "name": "Pekan Batu Caves",
+      "name_uppercase": "PEKAN BATU CAVES",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140172",
+      "name": "Pekan Kepong",
+      "name_uppercase": "PEKAN KEPONG",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140173",
+      "name": "Pekan Kuala Pauh",
+      "name_uppercase": "PEKAN KUALA PAUH",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140174",
+      "name": "Pekan Petaling",
+      "name_uppercase": "PEKAN PETALING",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140175",
+      "name": "Pekan Salak South",
+      "name_uppercase": "PEKAN SALAK SOUTH",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    },
+    {
+      "id": "140176",
+      "name": "Pekan Sungai Penchala",
+      "name_uppercase": "PEKAN SUNGAI PENCHALA",
+      "district_id": "1401",
+      "district": "",
+      "state_id": "14",
+      "state": "Wp Kuala Lumpur"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Wp Kuala Lumpur - Muat turun percuma",
+    "description": "Senarai lengkap 17 mukim di negeri Wp Kuala Lumpur, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, dan daerah induk. Complete list of 17 mukim (traditional sub-district units) in Wp Kuala Lumpur, Malaysia. Mengandungi 17 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Wp Kuala Lumpur | ListBase",
+    "seo_description": "Muat turun Mukim di Wp Kuala Lumpur — 17 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 17 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

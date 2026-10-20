@@ -1,0 +1,364 @@
+{
+  "id": "ms-sarawak-sri-aman-mukim",
+  "name": "Mukim di Daerah Sri Aman, Sarawak",
+  "title": "Mukim di Daerah Sri Aman, Sarawak",
+  "description": "Senarai lengkap 24 mukim di daerah Sri Aman, negeri Sarawak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 24 mukim (traditional sub-district units) in Sri Aman District, Sarawak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "130201",
+      "name": "Undup",
+      "name_uppercase": "UNDUP",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1809,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130202",
+      "name": "Klauh",
+      "name_uppercase": "KLAUH",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1810,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130203",
+      "name": "Bijat",
+      "name_uppercase": "BIJAT",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1811,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130204",
+      "name": "Skarang",
+      "name_uppercase": "SKARANG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1812,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130205",
+      "name": "Keranggas",
+      "name_uppercase": "KERANGGAS",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1813,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130206",
+      "name": "Marup",
+      "name_uppercase": "MARUP",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1814,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130207",
+      "name": "Lamanak",
+      "name_uppercase": "LAMANAK",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1815,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130208",
+      "name": "Bukit Besai",
+      "name_uppercase": "BUKIT BESAI",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1816,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130209",
+      "name": "Ai Engkari",
+      "name_uppercase": "AI ENGKARI",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1817,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130210",
+      "name": "Lesong",
+      "name_uppercase": "LESONG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1818,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130211",
+      "name": "Selanjang",
+      "name_uppercase": "SELANJANG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1819,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130212",
+      "name": "Silantek",
+      "name_uppercase": "SILANTEK",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1820,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130224",
+      "name": "Sirnanggang",
+      "name_uppercase": "SIRNANGGANG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1821,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130225",
+      "name": "Bandar Lingga",
+      "name_uppercase": "BANDAR LINGGA",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1822,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130227",
+      "name": "Bandar Lubok Antu",
+      "name_uppercase": "BANDAR LUBOK ANTU",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1823,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130228",
+      "name": "Bandar Engkilili",
+      "name_uppercase": "BANDAR ENGKILILI",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1824,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130236",
+      "name": "Bandar Batu Lintang",
+      "name_uppercase": "BANDAR BATU LINTANG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1825,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130244",
+      "name": "Bandar Banting",
+      "name_uppercase": "BANDAR BANTING",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1826,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130245",
+      "name": "Bandar Pantu",
+      "name_uppercase": "BANDAR PANTU",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1827,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130250",
+      "name": "Bandar Bakong",
+      "name_uppercase": "BANDAR BAKONG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1828,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130252",
+      "name": "Bandar Undup",
+      "name_uppercase": "BANDAR UNDUP",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1829,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130271",
+      "name": "Bandar Skrang",
+      "name_uppercase": "BANDAR SKRANG",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1830,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130272",
+      "name": "Bandar Melugu",
+      "name_uppercase": "BANDAR MELUGU",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1831,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    },
+    {
+      "id": "130273",
+      "name": "Bandar Sabu",
+      "name_uppercase": "BANDAR SABU",
+      "district_id": "1302",
+      "district": "Sri Aman",
+      "state_id": "13",
+      "state": "Sarawak",
+      "parent_index": 1832,
+      "state_slug": "sarawak",
+      "district_slug": "sri-aman"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Sri Aman, Sarawak - Muat turun percuma",
+    "description": "Senarai lengkap 24 mukim di daerah Sri Aman, negeri Sarawak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 24 mukim (traditional sub-district units) in Sri Aman District, Sarawak, Malaysia. Mengandungi 24 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Sri Aman, Sarawak | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Sri Aman, Sarawak — 24 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 24 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

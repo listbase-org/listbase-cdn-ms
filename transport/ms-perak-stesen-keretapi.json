@@ -1,0 +1,352 @@
+{
+  "id": "ms-perak-stesen-keretapi",
+  "name": "Stesen Keretapi di Perak",
+  "title": "Stesen Keretapi di Perak",
+  "description": "Senarai stesen keretapi di Perak, Malaysia — 16 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "country_ms",
+      "label": "Country Ms",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "negeri_slug",
+      "label": "Negeri Slug",
+      "type": "string"
+    },
+    {
+      "key": "stesen_minyak_terdekat_km",
+      "label": "Stesen Minyak Terdekat Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q1101067",
+      "name_ms": "Stesen keretapi Ipoh",
+      "name_en": "Ipoh railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.597222,
+      "longitude": 101.073333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1101067",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 0.4732
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q12709685",
+      "name_ms": "Stesen keretapi Taiping",
+      "name_en": "Taiping railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.851667,
+      "longitude": 100.731111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12709685",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 0.4593
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q15708869",
+      "name_ms": "",
+      "name_en": "Tasek railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.6528,
+      "longitude": 101.1202,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15708869",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 1.3242
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q20462251",
+      "name_ms": "Stesen keretapi Kamunting",
+      "name_en": "Kamunting railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.895783368,
+      "longitude": 100.719215765,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20462251",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 0.8609
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q4841436",
+      "name_ms": "Stesen keretapi Bagan Serai",
+      "name_en": "Bagan Serai railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.018889,
+      "longitude": 100.531944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4841436",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 0.0701
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q4873310",
+      "name_ms": "Stesen keretapi Batu Gajah",
+      "name_en": "Batu Gajah railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.471111,
+      "longitude": 101.043056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4873310",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 0.1478
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q4880986",
+      "name_ms": "Stesen keretapi Behrang",
+      "name_en": "Behrang railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 3.745459,
+      "longitude": 101.44954,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4880986",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 0.9516
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q6124711",
+      "name_ms": "Stesen keretapi Slim River",
+      "name_en": "Slim River railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 3.82694,
+      "longitude": 101.402,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6124711",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 0.4559
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q6124725",
+      "name_ms": "Stesen keretapi Tanjung Malim",
+      "name_en": "Tanjung Malim railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 3.68444,
+      "longitude": 101.518,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6124725",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 1.1284
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q6359157",
+      "name_ms": "Stesen keretapi Kampar",
+      "name_en": "Kampar railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.302778,
+      "longitude": 101.153611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6359157",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 0.7412
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q6440976",
+      "name_ms": "Stesen keretapi Kuala Kangsar",
+      "name_en": "Kuala Kangsar railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.776389,
+      "longitude": 100.931667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6440976",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 0.7072
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q7123235",
+      "name_ms": "Stesen keretapi Padang Rengas",
+      "name_en": "Padang Rengas railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.777904762,
+      "longitude": 100.857220691,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7123235",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 0.6885
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q7137503",
+      "name_ms": "Stesen keretapi Parit Buntar",
+      "name_en": "Parit Buntar railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 5.128611,
+      "longitude": 100.486667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7137503",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 0.3309
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q7640185",
+      "name_ms": "Stesen keretapi Sungai Siput",
+      "name_en": "Sungai Siput railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.818802777,
+      "longitude": 101.071294444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7640185",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 0.3516
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q7640220",
+      "name_ms": "Stesen keretapi Sungkai",
+      "name_en": "Sungkai railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.006075,
+      "longitude": 101.301541666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7640220",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 0.6616
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q7684408",
+      "name_ms": "Stesen keretapi Tapah Road",
+      "name_en": "Tapah Road railway station",
+      "type_ms": "stesen keretapi",
+      "type_en": "railway station",
+      "country_ms": "Malaysia",
+      "country_qid": "Q833",
+      "latitude": 4.172778,
+      "longitude": 101.189167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7684408",
+      "negeri": "Perak",
+      "negeri_slug": "perak",
+      "stesen_minyak_terdekat_km": 1.52
+    }
+  ],
+  "meta": {
+    "title": "Stesen Keretapi di Perak - Muat turun percuma",
+    "description": "Senarai stesen keretapi di Perak, Malaysia — 16 stesen dengan koordinat, nama Bahasa Melayu dan Inggeris, dan pautan Wikidata. Pecahan mengikut negeri daripada senarai kebangsaan ms-stesen-keretapi (332 stesen). Negeri DITERBITKAN (derived): setiap stesen diletakkan di negeri stesen minyak berkoordinat yang paling hampir (haversine WGS84, had 20 km) daripada set data ms-<negeri>-stesen-minyak yang telah dikurasi; jarak itu dibawa dalam medan stesen_minyak_terdekat_km supaya setiap penetapan boleh diaudit. Mengandungi 16 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen Keretapi di Perak | ListBase",
+    "seo_description": "Muat turun Stesen Keretapi di Perak — 16 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 16 rekod / 14 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

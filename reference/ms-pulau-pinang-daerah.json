@@ -1,0 +1,96 @@
+{
+  "id": "ms-pulau-pinang-daerah",
+  "name": "Daerah di Pulau Pinang",
+  "title": "Daerah di Pulau Pinang",
+  "description": "Senarai lengkap 5 daerah (district) di negeri Pulau Pinang, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 5 administrative districts in Pulau Pinang, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "701",
+      "name": "Seberang Perai Tengah",
+      "name_uppercase": "SEBERANG PERAI TENGAH",
+      "code": "SPT",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "702",
+      "name": "Seberang Perai Utara",
+      "name_uppercase": "SEBERANG PERAI UTARA",
+      "code": "SPU",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "703",
+      "name": "Seberang Perai Selatan",
+      "name_uppercase": "SEBERANG PERAI SELATAN",
+      "code": "SPS",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "704",
+      "name": "Timor Laut",
+      "name_uppercase": "TIMOR LAUT",
+      "code": "TLA",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    },
+    {
+      "id": "705",
+      "name": "Barat Daya",
+      "name_uppercase": "BARAT DAYA",
+      "code": "BDA",
+      "state_id": "7",
+      "state": "Pulau Pinang"
+    }
+  ],
+  "meta": {
+    "title": "Daerah di Pulau Pinang - Muat turun percuma",
+    "description": "Senarai lengkap 5 daerah (district) di negeri Pulau Pinang, Malaysia. Daerah ialah bahagian pentadbiran utama di bawah negeri. Setiap rekod mengandungi ID daerah, nama daerah, dan kod daerah. Complete list of 5 administrative districts in Pulau Pinang, Malaysia. Mengandungi 5 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Daerah di Pulau Pinang | ListBase",
+    "seo_description": "Muat turun Daerah di Pulau Pinang — 5 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 5 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "id": "ms-terengganu-hulu-terengganu-mukim",
+  "name": "Mukim di Daerah Hulu Terengganu, Terengganu",
+  "title": "Mukim di Daerah Hulu Terengganu, Terengganu",
+  "description": "Senarai lengkap 10 mukim di daerah Hulu Terengganu, negeri Terengganu, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 10 mukim (traditional sub-district units) in Hulu Terengganu District, Terengganu, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "110501",
+      "name": "Hulu Berang",
+      "name_uppercase": "HULU BERANG",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 643,
+      "state_slug": "terengganu",
+      "district_slug": "hulu-terengganu"
+    },
+    {
+      "id": "110502",
+      "name": "Hulu Telemung",
+      "name_uppercase": "HULU TELEMUNG",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 644,
+      "state_slug": "terengganu",
+      "district_slug": "hulu-terengganu"
+    },
+    {
+      "id": "110503",
+      "name": "Hulu Terengganu",
+      "name_uppercase": "HULU TERENGGANU",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 645,
+      "state_slug": "terengganu",
+      "district_slug": "hulu-terengganu"
+    },
+    {
+      "id": "110504",
+      "name": "Jenagur",
+      "name_uppercase": "JENAGUR",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 646,
+      "state_slug": "terengganu",
+      "district_slug": "hulu-terengganu"
+    },
+    {
+      "id": "110505",
+      "name": "Kuala Berang",
+      "name_uppercase": "KUALA BERANG",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 647,
+      "state_slug": "terengganu",
+      "district_slug": "hulu-terengganu"
+    },
+    {
+      "id": "110506",
+      "name": "Kuala Telemung",
+      "name_uppercase": "KUALA TELEMUNG",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 648,
+      "state_slug": "terengganu",
+      "district_slug": "hulu-terengganu"
+    },
+    {
+      "id": "110507",
+      "name": "Penghulu Diman",
+      "name_uppercase": "PENGHULU DIMAN",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 649,
+      "state_slug": "terengganu",
+      "district_slug": "hulu-terengganu"
+    },
+    {
+      "id": "110508",
+      "name": "Tanggul",
+      "name_uppercase": "TANGGUL",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 650,
+      "state_slug": "terengganu",
+      "district_slug": "hulu-terengganu"
+    },
+    {
+      "id": "110509",
+      "name": "Tersat",
+      "name_uppercase": "TERSAT",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 651,
+      "state_slug": "terengganu",
+      "district_slug": "hulu-terengganu"
+    },
+    {
+      "id": "110570",
+      "name": "Pekan Kuala Berang",
+      "name_uppercase": "PEKAN KUALA BERANG",
+      "district_id": "1105",
+      "district": "Hulu Terengganu",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 652,
+      "state_slug": "terengganu",
+      "district_slug": "hulu-terengganu"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Hulu Terengganu, Terengganu - Muat turun percuma",
+    "description": "Senarai lengkap 10 mukim di daerah Hulu Terengganu, negeri Terengganu, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 10 mukim (traditional sub-district units) in Hulu Terengganu District, Terengganu, Malaysia. Mengandungi 10 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Hulu Terengganu, Terengganu | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Hulu Terengganu, Terengganu — 10 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 10 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

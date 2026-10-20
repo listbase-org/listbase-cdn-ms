@@ -1,0 +1,328 @@
+{
+  "id": "ms-tasik",
+  "name": "Tasik di Malaysia",
+  "title": "Tasik di Malaysia",
+  "description": "Tasik di Malaysia — 19 entri lake (Tasik) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=wd:Q23397 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Ayer Keroh Lake, Jemaluang Emerald Lake, Lake Raban, Tasik Bera, Tasik Berlian. Liputan label Bahasa Melayu: 15/19. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, admin_area_ms, admin_area_en, latitude, longitude, wikidata_url.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ms",
+      "label": "Name Ms",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ms",
+      "label": "Type Ms",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ms",
+      "label": "Admin Area Ms",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q20311734",
+      "name_ms": "",
+      "name_en": "Ayer Keroh Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 2.27433,
+      "longitude": 102.302,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20311734"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q96781285",
+      "name_ms": "",
+      "name_en": "Jemaluang Emerald Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "Jemaluang",
+      "admin_area_en": "Jemaluang",
+      "latitude": 2.268611111,
+      "longitude": 103.849027777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96781285"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q109808702",
+      "name_ms": "",
+      "name_en": "Lake Raban",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "Hulu Perak",
+      "admin_area_en": "Hulu Perak",
+      "latitude": 4.996242,
+      "longitude": 100.951398,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109808702"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q4890961",
+      "name_ms": "Tasik Bera",
+      "name_en": "Bera Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 3.816666666,
+      "longitude": 102.416666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4890961"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q105352419",
+      "name_ms": "Tasik Berlian",
+      "name_en": "Berlian Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "Yong Peng",
+      "admin_area_en": "Yong Peng",
+      "latitude": 2.106638888,
+      "longitude": 103.078694444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105352419"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q107304508",
+      "name_ms": "Tasik Biru Kangkar Pulai",
+      "name_en": "Kangkar Pulai Blue Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "Kangkar Pulai",
+      "admin_area_en": "Kangkar Pulai",
+      "latitude": 1.574444444,
+      "longitude": 103.577277777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107304508"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q7687245",
+      "name_ms": "",
+      "name_en": "Tasik Biru Seri Kundang",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 3.2501292,
+      "longitude": 101.5235633,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7687245"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q7447412",
+      "name_ms": "Tasik Bukit Merah",
+      "name_en": "Bukit Merah Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "Perak",
+      "admin_area_en": "Perak",
+      "latitude": 5.026993,
+      "longitude": 100.6642055,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7447412"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q5091157",
+      "name_ms": "Tasik Chenderoh",
+      "name_en": "Chenderoh Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 4.966666666,
+      "longitude": 100.95,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5091157"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q3237429",
+      "name_ms": "Tasik Chini",
+      "name_en": "Chini Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 3.433333333,
+      "longitude": 102.916666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3237429"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q134417896",
+      "name_ms": "Tasik Durian Tunggal",
+      "name_en": "Durian Tunggal Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "Melaka",
+      "admin_area_en": "Malacca",
+      "latitude": 2.316667,
+      "longitude": 102.283333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134417896"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q99640579",
+      "name_ms": "Tasik Emerald",
+      "name_en": "Emerald Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "",
+      "admin_area_en": "Sunway Iskandar",
+      "latitude": 1.390388888,
+      "longitude": 103.636805555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99640579"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q96225326",
+      "name_ms": "Tasik Labong",
+      "name_en": "Labong Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "Daerah Mersing",
+      "admin_area_en": "Mersing District",
+      "latitude": 2.579944444,
+      "longitude": 103.684222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96225326"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q98927639",
+      "name_ms": "Tasik Mount Austin",
+      "name_en": "Mount Austin Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "",
+      "admin_area_en": "Mount Austin",
+      "latitude": 1.548194444,
+      "longitude": 103.785305555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98927639"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q7160087",
+      "name_ms": "Tasik Pedu",
+      "name_en": "Pedu Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 6.247108333,
+      "longitude": 100.81295,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7160087"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q7262412",
+      "name_ms": "Tasik Putrajaya",
+      "name_en": "Putrajaya Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 2.941941666,
+      "longitude": 101.689111111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7262412"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q105352541",
+      "name_ms": "Tasik Sembrong",
+      "name_en": "Sembrong Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "Daerah Batu Pahat",
+      "admin_area_en": "Batu Pahat District",
+      "latitude": 1.992666666,
+      "longitude": 103.17425,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105352541"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q97873611",
+      "name_ms": "Tasik Seri Austin",
+      "name_en": "Seri Austin Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "Johor Bahru",
+      "admin_area_en": "Johor Bahru",
+      "latitude": 1.584527777,
+      "longitude": 103.744194444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97873611"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q7346404",
+      "name_ms": "Tasik Temenggor",
+      "name_en": "Temenggor Lake",
+      "type_ms": "Tasik",
+      "type_en": "Lake",
+      "admin_area_ms": "",
+      "admin_area_en": "",
+      "latitude": 5.31,
+      "longitude": 101.2,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7346404"
+    }
+  ],
+  "meta": {
+    "title": "Tasik di Malaysia - Muat turun percuma",
+    "description": "Tasik di Malaysia — 19 entri lake (Tasik) di Malaysia (Q833) dari Wikidata, ditapis melalui P31=wd:Q23397 dan negara P17=Q833, setiap satu dengan koordinat (P625). Contoh: Ayer Keroh Lake, Jemaluang Emerald Lake, Lake Raban, Tasik Bera, Tasik Berlian. Liputan label Bahasa Melayu: 15/19. Medan: id, wikidata_id, name_ms, name_en, type_ms, type_en, admin_area_ms, admin_area_en, latitude, longitude, wikidata_url. Mengandungi 19 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Tasik di Malaysia | ListBase",
+    "seo_description": "Muat turun Tasik di Malaysia — 19 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 19 rekod / 11 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": "ms-perak-kuala-kangsar-mukim",
+  "name": "Mukim di Daerah Kuala Kangsar, Perak",
+  "title": "Mukim di Daerah Kuala Kangsar, Perak",
+  "description": "Senarai lengkap 19 mukim di daerah Kuala Kangsar, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 19 mukim (traditional sub-district units) in Kuala Kangsar District, Perak, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "080501",
+      "name": "Chengar Galah",
+      "name_uppercase": "CHENGAR GALAH",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 844,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080502",
+      "name": "Kampong Buaya",
+      "name_uppercase": "KAMPONG BUAYA",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 845,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080503",
+      "name": "Kota Lama Kanan",
+      "name_uppercase": "KOTA LAMA KANAN",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 846,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080504",
+      "name": "Kota Lama Kiri",
+      "name_uppercase": "KOTA LAMA KIRI",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 847,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080505",
+      "name": "Lubok Merbau",
+      "name_uppercase": "LUBOK MERBAU",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 848,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080506",
+      "name": "Pulau Kamiri",
+      "name_uppercase": "PULAU KAMIRI",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 849,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080507",
+      "name": "Saiong",
+      "name_uppercase": "SAIONG",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 850,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080508",
+      "name": "Senggang",
+      "name_uppercase": "SENGGANG",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 851,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080509",
+      "name": "Sungai Siput",
+      "name_uppercase": "SUNGAI SIPUT",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 852,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080540",
+      "name": "Bandar Kuala Kangsar",
+      "name_uppercase": "BANDAR KUALA KANGSAR",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 853,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080541",
+      "name": "Bandar Sungai Siput",
+      "name_uppercase": "BANDAR SUNGAI SIPUT",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 854,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080570",
+      "name": "Pekan Gunong Pondok",
+      "name_uppercase": "PEKAN GUNONG PONDOK",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 855,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080571",
+      "name": "Pekan Jerlun",
+      "name_uppercase": "PEKAN JERLUN",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 856,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080572",
+      "name": "Pekan Karai",
+      "name_uppercase": "PEKAN KARAI",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 857,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080573",
+      "name": "Pekan Kati",
+      "name_uppercase": "PEKAN KATI",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 858,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080574",
+      "name": "Pekan Lubok Merbau",
+      "name_uppercase": "PEKAN LUBOK MERBAU",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 859,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080575",
+      "name": "Pekan Manong",
+      "name_uppercase": "PEKAN MANONG",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 860,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080576",
+      "name": "Pekan Padang Rengas",
+      "name_uppercase": "PEKAN PADANG RENGAS",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 861,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    },
+    {
+      "id": "080577",
+      "name": "Pekan Salak",
+      "name_uppercase": "PEKAN SALAK",
+      "district_id": "805",
+      "district": "Kuala Kangsar",
+      "state_id": "8",
+      "state": "Perak",
+      "parent_index": 862,
+      "state_slug": "perak",
+      "district_slug": "kuala-kangsar"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Kuala Kangsar, Perak - Muat turun percuma",
+    "description": "Senarai lengkap 19 mukim di daerah Kuala Kangsar, negeri Perak, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 19 mukim (traditional sub-district units) in Kuala Kangsar District, Perak, Malaysia. Mengandungi 19 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Kuala Kangsar, Perak | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Kuala Kangsar, Perak — 19 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 19 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "id": "ms-terengganu-kemaman-mukim",
+  "name": "Mukim di Daerah Kemaman, Terengganu",
+  "title": "Mukim di Daerah Kemaman, Terengganu",
+  "description": "Senarai lengkap 17 mukim di daerah Kemaman, negeri Terengganu, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 17 mukim (traditional sub-district units) in Kemaman District, Terengganu, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "110301",
+      "name": "Bandi",
+      "name_uppercase": "BANDI",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 602,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110302",
+      "name": "Banggul",
+      "name_uppercase": "BANGGUL",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 603,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110303",
+      "name": "Binjai",
+      "name_uppercase": "BINJAI",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 604,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110304",
+      "name": "Cukai",
+      "name_uppercase": "CUKAI",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 605,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110305",
+      "name": "Hulu Cukai",
+      "name_uppercase": "HULU CUKAI",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 606,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110306",
+      "name": "Hulu Jabur",
+      "name_uppercase": "HULU JABUR",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 607,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110307",
+      "name": "Kemasik",
+      "name_uppercase": "KEMASIK",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 608,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110308",
+      "name": "Kerteh",
+      "name_uppercase": "KERTEH",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 609,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110309",
+      "name": "Kijal",
+      "name_uppercase": "KIJAL",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 610,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110310",
+      "name": "Pasir Semut",
+      "name_uppercase": "PASIR SEMUT",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 611,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110311",
+      "name": "Tebak",
+      "name_uppercase": "TEBAK",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 612,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110312",
+      "name": "Teluk Kalung",
+      "name_uppercase": "TELUK KALUNG",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 613,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110340",
+      "name": "Bandar Cukai",
+      "name_uppercase": "BANDAR CUKAI",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 614,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110370",
+      "name": "Pekan Air Jernih",
+      "name_uppercase": "PEKAN AIR JERNIH",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 615,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110371",
+      "name": "Pekan Air Putih",
+      "name_uppercase": "PEKAN AIR PUTIH",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 616,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110372",
+      "name": "Pekan Kemasik",
+      "name_uppercase": "PEKAN KEMASIK",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 617,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    },
+    {
+      "id": "110373",
+      "name": "Pekan Kijal",
+      "name_uppercase": "PEKAN KIJAL",
+      "district_id": "1103",
+      "district": "Kemaman",
+      "state_id": "11",
+      "state": "Terengganu",
+      "parent_index": 618,
+      "state_slug": "terengganu",
+      "district_slug": "kemaman"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Kemaman, Terengganu - Muat turun percuma",
+    "description": "Senarai lengkap 17 mukim di daerah Kemaman, negeri Terengganu, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 17 mukim (traditional sub-district units) in Kemaman District, Terengganu, Malaysia. Mengandungi 17 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Kemaman, Terengganu | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Kemaman, Terengganu — 17 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 17 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

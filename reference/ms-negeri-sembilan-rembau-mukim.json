@@ -1,0 +1,412 @@
+{
+  "id": "ms-negeri-sembilan-rembau-mukim",
+  "name": "Mukim di Daerah Rembau, Negeri Sembilan",
+  "title": "Mukim di Daerah Rembau, Negeri Sembilan",
+  "description": "Senarai lengkap 28 mukim di daerah Rembau, negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 28 mukim (traditional sub-district units) in Rembau District, Negeri Sembilan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "050401",
+      "name": "Batu Hampar",
+      "name_uppercase": "BATU HAMPAR",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1369,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050402",
+      "name": "Bongek",
+      "name_uppercase": "BONGEK",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1370,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050403",
+      "name": "Chembong",
+      "name_uppercase": "CHEMBONG",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1371,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050404",
+      "name": "Chengkau",
+      "name_uppercase": "CHENGKAU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1372,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050405",
+      "name": "Gadong",
+      "name_uppercase": "GADONG",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1373,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050406",
+      "name": "Kundor",
+      "name_uppercase": "KUNDOR",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1374,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050407",
+      "name": "Legong Ilir",
+      "name_uppercase": "LEGONG ILIR",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1375,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050408",
+      "name": "Legong Ulu",
+      "name_uppercase": "LEGONG ULU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1376,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050409",
+      "name": "Miku",
+      "name_uppercase": "MIKU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1377,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050410",
+      "name": "Nerasau",
+      "name_uppercase": "NERASAU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1378,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050411",
+      "name": "Pedas",
+      "name_uppercase": "PEDAS",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1379,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050412",
+      "name": "Pilin",
+      "name_uppercase": "PILIN",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1380,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050413",
+      "name": "Selemak",
+      "name_uppercase": "SELEMAK",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1381,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050414",
+      "name": "Semerbok",
+      "name_uppercase": "SEMERBOK",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1382,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050415",
+      "name": "Spri",
+      "name_uppercase": "SPRI",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1383,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050416",
+      "name": "Tanjong Keling",
+      "name_uppercase": "TANJONG KELING",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1384,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050417",
+      "name": "Titian Bintangor",
+      "name_uppercase": "TITIAN BINTANGOR",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1385,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050440",
+      "name": "Bandar Rembau",
+      "name_uppercase": "BANDAR REMBAU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1386,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050470",
+      "name": "Pekan Kampong Batu",
+      "name_uppercase": "PEKAN KAMPONG BATU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1387,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050471",
+      "name": "Pekan Kota",
+      "name_uppercase": "PEKAN KOTA",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1388,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050472",
+      "name": "Pekan Lubok China",
+      "name_uppercase": "PEKAN LUBOK CHINA",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1389,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050473",
+      "name": "Pekan Pedas",
+      "name_uppercase": "PEKAN PEDAS",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1390,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050474",
+      "name": "Pekan Chembong",
+      "name_uppercase": "PEKAN CHEMBONG",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1391,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050475",
+      "name": "Pekan Rembau",
+      "name_uppercase": "PEKAN REMBAU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1392,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050476",
+      "name": "Pekan Chengkau",
+      "name_uppercase": "PEKAN CHENGKAU",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1393,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050477",
+      "name": "Pekan Seri Kota",
+      "name_uppercase": "PEKAN SERI KOTA",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1394,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050478",
+      "name": "Pekan Seri Kendong",
+      "name_uppercase": "PEKAN SERI KENDONG",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1395,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    },
+    {
+      "id": "050479",
+      "name": "Pekan Merbau Sembilan",
+      "name_uppercase": "PEKAN MERBAU SEMBILAN",
+      "district_id": "504",
+      "district": "Rembau",
+      "state_id": "5",
+      "state": "Negeri Sembilan",
+      "parent_index": 1396,
+      "state_slug": "negeri-sembilan",
+      "district_slug": "rembau"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Rembau, Negeri Sembilan - Muat turun percuma",
+    "description": "Senarai lengkap 28 mukim di daerah Rembau, negeri Negeri Sembilan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 28 mukim (traditional sub-district units) in Rembau District, Negeri Sembilan, Malaysia. Mengandungi 28 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Rembau, Negeri Sembilan | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Rembau, Negeri Sembilan — 28 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 28 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

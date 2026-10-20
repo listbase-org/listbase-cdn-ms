@@ -1,0 +1,104 @@
+{
+  "id": "ms-ktmb-perkhidmatan",
+  "name": "Perkhidmatan keretapi KTMB",
+  "title": "Perkhidmatan keretapi KTMB",
+  "description": "6 perkhidmatan keretapi yang dikendalikan oleh KTMB, dengan kod perkhidmatan KITS, keterangan aset/depoh dan bilangan stesen yang dilayan.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nama_perkhidmatan",
+      "label": "Nama Perkhidmatan",
+      "type": "string"
+    },
+    {
+      "key": "kod_perkhidmatan",
+      "label": "Kod Perkhidmatan",
+      "type": "string"
+    },
+    {
+      "key": "keterangan_aset",
+      "label": "Keterangan Aset",
+      "type": "string"
+    },
+    {
+      "key": "bil_stesen",
+      "label": "Bil Stesen",
+      "type": "number"
+    },
+    {
+      "key": "ktmb_id",
+      "label": "Ktmb Id",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nama_perkhidmatan": "Electric Train Sevice (ETS)",
+      "kod_perkhidmatan": "ETS",
+      "keterangan_aset": "Electric Train Sevice (ETS) train at Batu Gajah Depot",
+      "bil_stesen": 37,
+      "ktmb_id": "5ccbe4df434bf7daf9a113cf"
+    },
+    {
+      "id": 2,
+      "nama_perkhidmatan": "KTM Intercity",
+      "kod_perkhidmatan": "INTERCITY",
+      "keterangan_aset": "Locomotive Class 24 and Class 25 train at Kempas Baru, Kuala Lipis or Gemas Depot",
+      "bil_stesen": 69,
+      "ktmb_id": "5ccbe4d2434bf7daf9a113cb"
+    },
+    {
+      "id": 3,
+      "nama_perkhidmatan": "KTM Komuter",
+      "kod_perkhidmatan": "KVDT",
+      "keterangan_aset": "Six Car Set (SCS) train at Seremban Depot",
+      "bil_stesen": 56,
+      "ktmb_id": "5ccbe45f434bf7daf9a113ad"
+    },
+    {
+      "id": 4,
+      "nama_perkhidmatan": "Komuter Express",
+      "kod_perkhidmatan": "EXPRESS",
+      "keterangan_aset": "Six Car Set (SCS) train at Seremban Depot",
+      "bil_stesen": 1,
+      "ktmb_id": "5d15d5aa25166b2de1712e50"
+    },
+    {
+      "id": 5,
+      "nama_perkhidmatan": "Komuter Utara",
+      "kod_perkhidmatan": "UTARA",
+      "keterangan_aset": "Electric Multiple Unit (EMU) train at Bukit Tengah Depot",
+      "bil_stesen": 20,
+      "ktmb_id": "5ccbe4b0434bf7daf9a113c5"
+    },
+    {
+      "id": 6,
+      "nama_perkhidmatan": "Skypark Link",
+      "kod_perkhidmatan": "SKYPARK",
+      "keterangan_aset": "Electric Multiple unit (EMU) train at Sentul Depot",
+      "bil_stesen": 3,
+      "ktmb_id": "5ccbe4c6434bf7daf9a113c9"
+    }
+  ],
+  "meta": {
+    "title": "Perkhidmatan keretapi KTMB - Muat turun percuma",
+    "description": "6 perkhidmatan keretapi yang dikendalikan oleh KTMB, dengan kod perkhidmatan KITS, keterangan aset/depoh dan bilangan stesen yang dilayan. Mengandungi 6 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Perkhidmatan keretapi KTMB | ListBase",
+    "seo_description": "Muat turun Perkhidmatan keretapi KTMB — 6 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 6 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

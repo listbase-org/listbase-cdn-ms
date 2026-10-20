@@ -1,0 +1,1516 @@
+{
+  "id": "ms-universiti",
+  "name": "Malaysia — Universities (universiti)",
+  "title": "Malaysia — Universities (universiti)",
+  "description": "List of accredited universities and higher-education institutions in Malaysia. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Malaysia\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 145,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Advance Tertiary College",
+      "slug": "atc2u",
+      "domain": "atc2u.com",
+      "domains": "atc2u.com",
+      "web_page": "http://www.atc2u.com/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Aimst University",
+      "slug": "aimst",
+      "domain": "aimst.edu.my",
+      "domains": "aimst.edu.my",
+      "web_page": "http://www.aimst.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Al Madinah International University",
+      "slug": "mediu",
+      "domain": "mediu.edu.my",
+      "domains": "mediu.edu.my",
+      "web_page": "http://www.mediu.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Al-Bukhari International University",
+      "slug": "aiu",
+      "domain": "aiu.edu.my",
+      "domains": "aiu.edu.my",
+      "web_page": "http://www.aiu.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Allianze College of Medical Sciences (ACMS)",
+      "slug": "acms",
+      "domain": "acms.edu.my",
+      "domains": "acms.edu.my",
+      "web_page": "http://www.acms.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Asia E University",
+      "slug": "aeu",
+      "domain": "aeu.edu.my",
+      "domains": "aeu.edu.my",
+      "web_page": "http://www.aeu.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Asia Pacific Institute of Information Technology (APIIT)",
+      "slug": "apiit",
+      "domain": "apiit.edu.my",
+      "domains": "apiit.edu.my",
+      "web_page": "http://www.apiit.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": "Kuala Lumpur"
+    },
+    {
+      "name": "Asia Pacific University of Technology & Innovation (APU)",
+      "slug": "apu",
+      "domain": "apu.edu.my",
+      "domains": "apu.edu.my",
+      "web_page": "http://www.apu.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": "Kuala Lumpur"
+    },
+    {
+      "name": "Baitulmal Management Institute (IPB)",
+      "slug": "ipb",
+      "domain": "ipb.edu.my",
+      "domains": "ipb.edu.my",
+      "web_page": "http://www.ipb.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Binary University College of Managemant & Entrepreneurship",
+      "slug": "binary",
+      "domain": "binary.edu.my",
+      "domains": "binary.edu.my",
+      "web_page": "http://www.binary.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Brickfields Asia College",
+      "slug": "bac",
+      "domain": "bac.edu.my",
+      "domains": "bac.edu.my",
+      "web_page": "http://www.bac.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "British Malaysian Institute",
+      "slug": "bmi",
+      "domain": "bmi.edu.my",
+      "domains": "bmi.edu.my",
+      "web_page": "http://www.bmi.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "City University College of Science and Technology",
+      "slug": "city",
+      "domain": "city.edu.my",
+      "domains": "city.edu.my",
+      "web_page": "http://www.city.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Curtin University of Technology, Sarawak Campus",
+      "slug": "curtin",
+      "domain": "curtin.edu.my",
+      "domains": "curtin.edu.my",
+      "web_page": "http://www.curtin.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Cyberjaya University College of Medical Science",
+      "slug": "cybermed",
+      "domain": "cybermed.edu.my",
+      "domains": "cybermed.edu.my",
+      "web_page": "http://www.cybermed.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Darul Hikmah Islamic College",
+      "slug": "hikmah",
+      "domain": "hikmah.edu.my",
+      "domains": "hikmah.edu.my",
+      "web_page": "http://www.hikmah.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Darul Naim College of Technology",
+      "slug": "ktd",
+      "domain": "ktd.edu.my",
+      "domains": "ktd.edu.my",
+      "web_page": "http://www.ktd.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Darul Quran Islamic College University",
+      "slug": "kudqi",
+      "domain": "kudqi.net.my",
+      "domains": "kudqi.net.my",
+      "web_page": "http://kudqi.net.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Darul Takzim Institute of Technology",
+      "slug": "instedt",
+      "domain": "instedt.edu.my",
+      "domains": "instedt.edu.my",
+      "web_page": "http://www.instedt.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Darul Ulum Islamic College",
+      "slug": "kidu-darululum",
+      "domain": "kidu-darululum.blogspot.com",
+      "domains": "kidu-darululum.blogspot.com",
+      "web_page": "http://kidu-darululum.blogspot.com/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "FTMS Global Academy",
+      "slug": "ftmsglobal",
+      "domain": "ftmsglobal.com",
+      "domains": "ftmsglobal.com",
+      "web_page": "http://www.ftmsglobal.com/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Help University College",
+      "slug": "help",
+      "domain": "help.edu.my",
+      "domains": "help.edu.my",
+      "web_page": "http://www.help.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Iact College",
+      "slug": "iact",
+      "domain": "iact.edu.my",
+      "domains": "iact.edu.my",
+      "web_page": "http://www.iact.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institut Prima Bestari - Pine Academy",
+      "slug": "pine",
+      "domain": "pine.edu.my",
+      "domains": "pine.edu.my",
+      "web_page": "http://www.pine.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Batu Lintang",
+      "slug": "ipbl",
+      "domain": "ipbl.edu.my",
+      "domains": "ipbl.edu.my",
+      "web_page": "http://www.ipbl.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Darul Aman",
+      "slug": "ipda",
+      "domain": "ipda.edu.my",
+      "domains": "ipda.edu.my",
+      "web_page": "http://www.ipda.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Dato' Razali Ismail",
+      "slug": "ipgmkdri",
+      "domain": "ipgmkdri.edu.my",
+      "domains": "ipgmkdri.edu.my",
+      "web_page": "http://www.ipgmkdri.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Ilmu Khas",
+      "slug": "ipik",
+      "domain": "ipik.edu.my",
+      "domains": "ipik.edu.my",
+      "web_page": "http://www.ipik.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Ipoh",
+      "slug": "ipip",
+      "domain": "ipip.edu.my",
+      "domains": "ipip.edu.my",
+      "web_page": "http://www.ipip.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Islamic Education",
+      "slug": "ipislam",
+      "domain": "ipislam.edu.my",
+      "domains": "ipislam.edu.my",
+      "web_page": "http://www.ipislam.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Keningau",
+      "slug": "ipks",
+      "domain": "ipks.edu.my",
+      "domains": "ipks.edu.my",
+      "web_page": "http://www.ipks.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Kent",
+      "slug": "ipkent",
+      "domain": "ipkent.edu.my",
+      "domains": "ipkent.edu.my",
+      "web_page": "http://www.ipkent.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Kota Bharu",
+      "slug": "ipgkkb",
+      "domain": "ipgkkb.edu.my",
+      "domains": "ipgkkb.edu.my",
+      "web_page": "http://www.ipgkkb.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Malay Language",
+      "slug": "ipbmm",
+      "domain": "ipbmm.edu.my",
+      "domains": "ipbmm.edu.my",
+      "web_page": "http://www.ipbmm.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Melaka",
+      "slug": "ippm",
+      "domain": "ippm.edu.my",
+      "domains": "ippm.edu.my",
+      "web_page": "http://www.ippm.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Penang",
+      "slug": "i4p",
+      "domain": "i4p.edu.my",
+      "domains": "i4p.edu.my",
+      "web_page": "http://www.i4p.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Perlis",
+      "slug": "ipgperlis",
+      "domain": "ipgperlis.edu.my",
+      "domains": "ipgperlis.edu.my",
+      "web_page": "http://www.ipgperlis.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Raja Melewar",
+      "slug": "iprm",
+      "domain": "iprm.edu.my",
+      "domains": "iprm.edu.my",
+      "web_page": "http://www.iprm.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Rajang",
+      "slug": "ipgkrajang",
+      "domain": "ipgkrajang.edu.my",
+      "domains": "ipgkrajang.edu.my",
+      "web_page": "http://www.ipgkrajang.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Sarawak",
+      "slug": "ipsmiri",
+      "domain": "ipsmiri.edu.my",
+      "domains": "ipsmiri.edu.my",
+      "web_page": "http://www.ipsmiri.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Sultan Abdul Halim",
+      "slug": "ipsah",
+      "domain": "ipsah.edu.my",
+      "domains": "ipsah.edu.my",
+      "web_page": "http://www.ipsah.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Sultan Mizan",
+      "slug": "ipgmksm",
+      "domain": "ipgmksm.edu.my",
+      "domains": "ipgmksm.edu.my",
+      "web_page": "http://www.ipgmksm.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Tawau",
+      "slug": "ipgmtawau",
+      "domain": "ipgmtawau.edu.my",
+      "domains": "ipgmtawau.edu.my",
+      "web_page": "http://www.ipgmtawau.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Technical Education",
+      "slug": "ipteknik",
+      "domain": "ipteknik.edu.my",
+      "domains": "ipteknik.edu.my",
+      "web_page": "http://www.ipteknik.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Temenggong Ibrahim",
+      "slug": "ipgkti",
+      "domain": "ipgkti.edu.my",
+      "domains": "ipgkti.edu.my",
+      "web_page": "http://www.ipgkti.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Tengku Ampuan Afzan",
+      "slug": "iptaa",
+      "domain": "iptaa.edu.my",
+      "domains": "iptaa.edu.my",
+      "web_page": "http://www.iptaa.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Tuanku Bainun",
+      "slug": "iptb",
+      "domain": "iptb.edu.my",
+      "domains": "iptb.edu.my",
+      "web_page": "http://www.iptb.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Teachers Education, Tun Hussein Onn",
+      "slug": "iptho",
+      "domain": "iptho.edu.my",
+      "domains": "iptho.edu.my",
+      "web_page": "http://www.iptho.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "International Islamic College",
+      "slug": "iic",
+      "domain": "iic.edu.my",
+      "domains": "iic.edu.my",
+      "web_page": "http://www.iic.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "International Islamic College of Penang",
+      "slug": "kitab",
+      "domain": "kitab.edu.my",
+      "domains": "kitab.edu.my",
+      "web_page": "http://www.kitab.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "International Islamic University",
+      "slug": "iiu",
+      "domain": "iiu.edu.my",
+      "domains": "iiu.edu.my",
+      "web_page": "http://www.iiu.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "International Medical University",
+      "slug": "imu",
+      "domain": "imu.edu.my",
+      "domains": "imu.edu.my",
+      "web_page": "http://www.imu.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "International University College of Nursing (IUCN)",
+      "slug": "iucn",
+      "domain": "iucn.edu.my",
+      "domains": "iucn.edu.my",
+      "web_page": "http://www.iucn.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "International University College of Technology Twintech (IUCTT)",
+      "slug": "iuctt",
+      "domain": "iuctt.edu.my",
+      "domains": "iuctt.edu.my",
+      "web_page": "http://www.iuctt.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Islamic College for Sciences and Technologies",
+      "slug": "kist",
+      "domain": "kist.edu.my",
+      "domains": "kist.edu.my",
+      "web_page": "http://www.kist.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Johore Bharu Primeir Polytechnic",
+      "slug": "polijb",
+      "domain": "polijb.edu.my",
+      "domains": "polijb.edu.my",
+      "web_page": "http://www.polijb.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "KBU International College",
+      "slug": "kbu",
+      "domain": "kbu.edu.my",
+      "domains": "kbu.edu.my",
+      "web_page": "http://www.kbu.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "KDU College Sdn Bhd",
+      "slug": "kdu",
+      "domain": "kdu.edu.my",
+      "domains": "kdu.edu.my",
+      "web_page": "http://www.kdu.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Kolej Universiti Insaniah",
+      "slug": "kuin",
+      "domain": "kuin.edu.my",
+      "domains": "kuin.edu.my",
+      "web_page": "http://www.kuin.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Kota Bharu Polytechnic",
+      "slug": "pkb",
+      "domain": "pkb.edu.my",
+      "domains": "pkb.edu.my",
+      "web_page": "http://www.pkb.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Kota Kinabalu Polytechnic",
+      "slug": "pkksabah",
+      "domain": "pkksabah.edu.my",
+      "domains": "pkksabah.edu.my",
+      "web_page": "http://www.pkksabah.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Kuala Lumpur Infrastructure University College",
+      "slug": "kliuc",
+      "domain": "kliuc.edu.my",
+      "domains": "kliuc.edu.my",
+      "web_page": "http://www.kliuc.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Kuala Lumpur Metropolitan University",
+      "slug": "klmu",
+      "domain": "klmu.edu.my",
+      "domains": "klmu.edu.my",
+      "web_page": "http://www.klmu.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Kuala Terengganu City Polytechnic",
+      "slug": "pkkt",
+      "domain": "pkkt.edu.my",
+      "domains": "pkkt.edu.my",
+      "web_page": "http://www.pkkt.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Kuching Polytechnic",
+      "slug": "poliku",
+      "domain": "poliku.edu.my",
+      "domains": "poliku.edu.my",
+      "web_page": "http://www.poliku.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Limkokwing University College of Creative Technology",
+      "slug": "limkokwing",
+      "domain": "limkokwing.edu.my",
+      "domains": "limkokwing.edu.my",
+      "web_page": "http://www.limkokwing.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Linton University College",
+      "slug": "linton",
+      "domain": "linton.edu.my",
+      "domains": "linton.edu.my",
+      "web_page": "http://www.linton.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Mahsa University College for Health and Medical Science",
+      "slug": "mahsa",
+      "domain": "mahsa.edu.my",
+      "domains": "mahsa.edu.my",
+      "web_page": "http://www.mahsa.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Malaysia University of Science and Technology (MUST)",
+      "slug": "must",
+      "domain": "must.edu.my",
+      "domains": "must.edu.my",
+      "web_page": "http://www.must.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Management and Science University",
+      "slug": "msu",
+      "domain": "msu.edu.my",
+      "domains": "msu.edu.my",
+      "web_page": "http://www.msu.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Mara Poly-Tech College",
+      "slug": "kptm",
+      "domain": "kptm.edu.my",
+      "domains": "kptm.edu.my",
+      "web_page": "http://www.kptm.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Melaka City Polytechnic",
+      "slug": "polimelaka",
+      "domain": "polimelaka.edu.my",
+      "domains": "polimelaka.edu.my",
+      "web_page": "http://www.polimelaka.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Melaka Islamic University College",
+      "slug": "kuim",
+      "domain": "kuim.edu.my",
+      "domains": "kuim.edu.my",
+      "web_page": "http://www.kuim.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Merlimau Polytechnic",
+      "slug": "pmm",
+      "domain": "pmm.edu.my",
+      "domains": "pmm.edu.my",
+      "web_page": "http://www.pmm.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Monash University, Malaysia Campus",
+      "slug": "monash",
+      "domain": "monash.edu.my",
+      "domains": "monash.edu.my",
+      "web_page": "http://www.monash.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Muadzam Shah Polytechnic",
+      "slug": "polimuadzam",
+      "domain": "polimuadzam.edu.my",
+      "domains": "polimuadzam.edu.my",
+      "web_page": "http://www.polimuadzam.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Multimedia University",
+      "slug": "mmu",
+      "domain": "mmu.edu.my",
+      "domains": "mmu.edu.my",
+      "web_page": "http://www.mmu.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Murni Nursing College",
+      "slug": "murni",
+      "domain": "murni.edu.my",
+      "domains": "murni.edu.my",
+      "web_page": "http://www.murni.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Newcastle University, Medicine Malaysia",
+      "slug": "numed",
+      "domain": "numed.ncl.ac.uk",
+      "domains": "numed.ncl.ac.uk",
+      "web_page": "http://numed.ncl.ac.uk/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Nilai University College",
+      "slug": "nilai",
+      "domain": "nilai.edu.my",
+      "domains": "nilai.edu.my",
+      "web_page": "http://www.nilai.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Olympia College",
+      "slug": "olympia",
+      "domain": "olympia.edu.my",
+      "domains": "olympia.edu.my",
+      "web_page": "http://www.olympia.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Open University Malaysia",
+      "slug": "oum",
+      "domain": "oum.edu.my",
+      "domains": "oum.edu.my",
+      "web_page": "http://www.oum.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Penang International Dental College",
+      "slug": "pidc",
+      "domain": "pidc.edu.my",
+      "domains": "pidc.edu.my",
+      "web_page": "http://www.pidc.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Perak Islamic College",
+      "slug": "kiperak",
+      "domain": "kiperak.edu.my",
+      "domains": "kiperak.edu.my",
+      "web_page": "http://www.kiperak.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Perdana University",
+      "slug": "perdanauniversity",
+      "domain": "perdanauniversity.edu.my",
+      "domains": "perdanauniversity.edu.my",
+      "web_page": "http://www.perdanauniversity.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Perlis Islamic Higher Learning Institute",
+      "slug": "iptips",
+      "domain": "iptips.edu.my",
+      "domains": "iptips.edu.my",
+      "web_page": "http://www.iptips.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Petronas Technology University",
+      "slug": "utp",
+      "domain": "utp.edu.my",
+      "domains": "utp.edu.my",
+      "web_page": "http://www.utp.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Port Dickson Polytechnic",
+      "slug": "polipd",
+      "domain": "polipd.edu.my",
+      "domains": "polipd.edu.my",
+      "web_page": "http://www.polipd.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Primier International University Perak",
+      "slug": "piup",
+      "domain": "piup.edu.my",
+      "domains": "piup.edu.my",
+      "web_page": "http://www.piup.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "PTPL College",
+      "slug": "ptpl",
+      "domain": "ptpl.edu.my",
+      "domains": "ptpl.edu.my",
+      "web_page": "http://www.ptpl.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Raffles University",
+      "slug": "raffles-university",
+      "domain": "raffles-university.edu.my",
+      "domains": "raffles-university.edu.my",
+      "web_page": "http://www.raffles-university.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Saito College",
+      "slug": "saito",
+      "domain": "saito.edu.my",
+      "domains": "saito.edu.my",
+      "web_page": "http://www.saito.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Seberang Perai Polytechnic",
+      "slug": "psp",
+      "domain": "psp.edu.my",
+      "domains": "psp.edu.my",
+      "web_page": "http://www.psp.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Segi University College",
+      "slug": "segi",
+      "domain": "segi.edu.my",
+      "domains": "segi.edu.my",
+      "web_page": "http://www.segi.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Selangor Islamic University College",
+      "slug": "kuis",
+      "domain": "kuis.edu.my",
+      "domains": "kuis.edu.my",
+      "web_page": "http://www.kuis.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Shahputra College",
+      "slug": "kolejshahputra",
+      "domain": "kolejshahputra.edu.my",
+      "domains": "kolejshahputra.edu.my",
+      "web_page": "http://www.kolejshahputra.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Sultan Abdul Halim Muadzam Shah Polytechnic",
+      "slug": "polimas",
+      "domain": "polimas.edu.my",
+      "domains": "polimas.edu.my",
+      "web_page": "http://www.polimas.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Sultan Ahmad Shah Islamic College",
+      "slug": "kipsas",
+      "domain": "kipsas.edu.my",
+      "domains": "kipsas.edu.my",
+      "web_page": "http://www.kipsas.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Sultan Azlan Shah Polytechnic",
+      "slug": "psas",
+      "domain": "psas.edu.my",
+      "domains": "psas.edu.my",
+      "web_page": "http://www.psas.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Sultan Haji Ahmad Shah Polytechnic",
+      "slug": "polisas",
+      "domain": "polisas.edu.my",
+      "domains": "polisas.edu.my",
+      "web_page": "http://www.polisas.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Sultan Idris Shah Polytechnic",
+      "slug": "psis",
+      "domain": "psis.edu.my",
+      "domains": "psis.edu.my",
+      "web_page": "http://www.psis.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Sultan Ismail Petra International Islamic College",
+      "slug": "kias",
+      "domain": "kias.edu.my",
+      "domains": "kias.edu.my",
+      "web_page": "http://www.kias.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Sultan Mizan Zainal Abidin Polytechnic",
+      "slug": "psmza",
+      "domain": "psmza.edu.my",
+      "domains": "psmza.edu.my",
+      "web_page": "http://www.psmza.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Sultan Salahuddin Abdul Aziz Shah Polytechnic",
+      "slug": "psa",
+      "domain": "psa.edu.my",
+      "domains": "psa.edu.my",
+      "web_page": "http://www.psa.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Sultanah Bahiyah Polytechnic",
+      "slug": "ptsb",
+      "domain": "ptsb.edu.my",
+      "domains": "ptsb.edu.my",
+      "web_page": "http://www.ptsb.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Sunway University College",
+      "slug": "sunway",
+      "domain": "sunway.edu.my",
+      "domains": "sunway.edu.my",
+      "web_page": "http://www.sunway.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Swinburne University of Technology, Sarawak Campus",
+      "slug": "swinburne",
+      "domain": "swinburne.edu.my",
+      "domains": "swinburne.edu.my",
+      "web_page": "http://www.swinburne.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Taj International College",
+      "slug": "taj",
+      "domain": "taj.edu.my",
+      "domains": "taj.edu.my",
+      "web_page": "http://www.taj.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Taylor's University College",
+      "slug": "taylors",
+      "domain": "taylors.edu.my",
+      "domains": "taylors.edu.my",
+      "web_page": "http://www.taylors.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "TPM College",
+      "slug": "tpmcollege",
+      "domain": "tpmcollege.edu.my",
+      "domains": "tpmcollege.edu.my",
+      "web_page": "http://www.tpmcollege.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Tunku Abdul Rahman Chinese College",
+      "slug": "tarc",
+      "domain": "tarc.edu.my",
+      "domains": "tarc.edu.my",
+      "web_page": "http://www.tarc.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Tunku Syed Sirajuddin Polytechnic",
+      "slug": "ptss",
+      "domain": "ptss.edu.my",
+      "domains": "ptss.edu.my",
+      "web_page": "http://www.ptss.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "UCSI University",
+      "slug": "ucsi",
+      "domain": "ucsi.edu.my",
+      "domains": "ucsi.edu.my",
+      "web_page": "http://www.ucsi.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Ungku Omar Premier Polytechnic",
+      "slug": "puo",
+      "domain": "puo.edu.my",
+      "domains": "puo.edu.my",
+      "web_page": "http://www.puo.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Darul Iman",
+      "slug": "udm",
+      "domain": "udm.edu.my",
+      "domains": "udm.edu.my",
+      "web_page": "http://www.udm.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Industri Selangor",
+      "slug": "unisel",
+      "domain": "unisel.edu.my",
+      "domains": "unisel.edu.my",
+      "web_page": "http://www.unisel.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Kebangsaan Malaysia",
+      "slug": "ukm",
+      "domain": "ukm.my",
+      "domains": "ukm.my",
+      "web_page": "http://www.ukm.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Kuala Lumpur",
+      "slug": "unikl",
+      "domain": "unikl.edu.my",
+      "domains": "unikl.edu.my",
+      "web_page": "http://www.unikl.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Kuala Lumpur Malaysian Institute of Information Technology (MIIT)",
+      "slug": "miit",
+      "domain": "miit.unikl.edu.my",
+      "domains": "miit.unikl.edu.my",
+      "web_page": "http://miit.unikl.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Malaya",
+      "slug": "um",
+      "domain": "um.edu.my",
+      "domains": "um.edu.my",
+      "web_page": "http://www.um.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Malaysia Kelantan",
+      "slug": "umk",
+      "domain": "umk.edu.my",
+      "domains": "umk.edu.my",
+      "web_page": "http://www.umk.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Malaysia Perlis",
+      "slug": "unimap",
+      "domain": "unimap.edu.my",
+      "domains": "unimap.edu.my",
+      "web_page": "http://www.unimap.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Malaysia Sabah",
+      "slug": "ums",
+      "domain": "ums.edu.my",
+      "domains": "ums.edu.my",
+      "web_page": "http://www.ums.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Malaysia Sarawak",
+      "slug": "unimas",
+      "domain": "unimas.my",
+      "domains": "unimas.my",
+      "web_page": "http://www.unimas.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Malaysia Terengganu",
+      "slug": "umt",
+      "domain": "umt.edu.my",
+      "domains": "umt.edu.my",
+      "web_page": "http://www.umt.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Pendidikan Sultan Idris",
+      "slug": "upsi",
+      "domain": "upsi.edu.my",
+      "domains": "upsi.edu.my",
+      "web_page": "http://www.upsi.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Putra Malaysia",
+      "slug": "upm",
+      "domain": "upm.edu.my",
+      "domains": "upm.edu.my",
+      "web_page": "http://www.upm.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Sains Malaysia",
+      "slug": "usm",
+      "domain": "usm.my",
+      "domains": "usm.my",
+      "web_page": "http://www.usm.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Sultan Zainal Abidin",
+      "slug": "unisza",
+      "domain": "unisza.edu.my",
+      "domains": "unisza.edu.my",
+      "web_page": "http://www.unisza.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Teknikal Malaysia Melaka",
+      "slug": "utem",
+      "domain": "utem.edu.my",
+      "domains": "utem.edu.my",
+      "web_page": "http://www.utem.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Teknologi Malaysia",
+      "slug": "utm",
+      "domain": "utm.my",
+      "domains": "utm.my",
+      "web_page": "http://www.utm.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Teknologi Mara",
+      "slug": "uitm",
+      "domain": "uitm.edu.my",
+      "domains": "uitm.edu.my",
+      "web_page": "http://www.uitm.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Tenaga Nasional",
+      "slug": "uniten",
+      "domain": "uniten.edu.my",
+      "domains": "uniten.edu.my",
+      "web_page": "http://www.uniten.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Tun Abdul Razak",
+      "slug": "unitar",
+      "domain": "unitar.edu.my",
+      "domains": "unitar.edu.my",
+      "web_page": "http://www.unitar.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Tun Hussein Onn Malaysia",
+      "slug": "uthm",
+      "domain": "uthm.edu.my",
+      "domains": "uthm.edu.my",
+      "web_page": "http://www.uthm.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Tunku Abdul Rahman",
+      "slug": "utar",
+      "domain": "utar.edu.my",
+      "domains": "utar.edu.my",
+      "web_page": "http://www.utar.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Universiti Utara Malaysia",
+      "slug": "uum",
+      "domain": "uum.edu.my",
+      "domains": "uum.edu.my",
+      "web_page": "http://www.uum.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "University College of Technology & Innovation (UCTI)",
+      "slug": "ucti",
+      "domain": "ucti.edu.my",
+      "domains": "ucti.edu.my",
+      "web_page": "http://www.ucti.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "University Malaysia Pahang",
+      "slug": "ump",
+      "domain": "ump.edu.my",
+      "domains": "ump.edu.my",
+      "web_page": "http://www.ump.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "University of Management and Technology",
+      "slug": "umtech",
+      "domain": "umtech.edu.my",
+      "domains": "umtech.edu.my",
+      "web_page": "http://www.umtech.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "University of Nottingham, Malaysia Campus",
+      "slug": "nottingham",
+      "domain": "nottingham.edu.my",
+      "domains": "nottingham.edu.my",
+      "web_page": "http://www.nottingham.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "University Tun Abdul Razak",
+      "slug": "unirazak",
+      "domain": "unirazak.edu.my",
+      "domains": "unirazak.edu.my",
+      "web_page": "http://www.unirazak.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "Wawasan Open University",
+      "slug": "wou",
+      "domain": "wou.edu.my",
+      "domains": "wou.edu.my",
+      "web_page": "http://www.wou.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "West Minster International College",
+      "slug": "westminster",
+      "domain": "westminster.edu.my",
+      "domains": "westminster.edu.my",
+      "web_page": "http://www.westminster.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    },
+    {
+      "name": "YPC-iTWEB College",
+      "slug": "kolejypc",
+      "domain": "kolejypc.edu.my",
+      "domains": "kolejypc.edu.my",
+      "web_page": "http://www.kolejypc.edu.my/",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Malaysia — Universities (universiti) - Muat turun percuma",
+    "description": "List of accredited universities and higher-education institutions in Malaysia. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Malaysia\"). Mengandungi 145 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Malaysia — Universities (universiti) | ListBase",
+    "seo_description": "Muat turun Malaysia — Universities (universiti) — 145 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 145 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

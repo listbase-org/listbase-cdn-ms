@@ -1,0 +1,136 @@
+{
+  "id": "ms-ktmb-laluan",
+  "name": "Laluan keretapi KTMB",
+  "title": "Laluan keretapi KTMB",
+  "description": "10 laluan keretapi KTMB (contoh: Tanjung Malim – Pelabuhan Klang, Padang Besar – Gemas, JB Sentral – Tumpat), dengan perkhidmatan yang mengendalikannya dan bilangan stesen pada setiap laluan.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nama_laluan",
+      "label": "Nama Laluan",
+      "type": "string"
+    },
+    {
+      "key": "keterangan_laluan",
+      "label": "Keterangan Laluan",
+      "type": "string"
+    },
+    {
+      "key": "perkhidmatan",
+      "label": "Perkhidmatan",
+      "type": "string"
+    },
+    {
+      "key": "bil_stesen",
+      "label": "Bil Stesen",
+      "type": "number"
+    },
+    {
+      "key": "ktmb_id",
+      "label": "Ktmb Id",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nama_laluan": "Batu Caves - Pulau Sebang",
+      "keterangan_laluan": "KTM Komuter service",
+      "perkhidmatan": "KTM Komuter",
+      "bil_stesen": 26,
+      "ktmb_id": "5d1a41506a9e6864a00262a2"
+    },
+    {
+      "id": 2,
+      "nama_laluan": "Butterworth - Padang Besar",
+      "keterangan_laluan": "KTM Komuter Utara service",
+      "perkhidmatan": "KTM Komuter Utara",
+      "bil_stesen": 13,
+      "ktmb_id": "5d1a41f26a9e6864a00262d2"
+    },
+    {
+      "id": 3,
+      "nama_laluan": "JB Sental - Woodlands",
+      "keterangan_laluan": "KTM Intercity service",
+      "perkhidmatan": "KTM Intercity",
+      "bil_stesen": 1,
+      "ktmb_id": "5d1b868025166b4c3c8b67a7"
+    },
+    {
+      "id": 4,
+      "nama_laluan": "JB Sentral - Gemas",
+      "keterangan_laluan": "KTM Intercity service",
+      "perkhidmatan": "KTM Intercity",
+      "bil_stesen": 11,
+      "ktmb_id": "605209dc4af50a2bc359198e"
+    },
+    {
+      "id": 5,
+      "nama_laluan": "JB Sentral - Tumpat",
+      "keterangan_laluan": "KTM Intercity service",
+      "perkhidmatan": "KTM Intercity",
+      "bil_stesen": 33,
+      "ktmb_id": "5d1b869f25166b4c3c8b67a8"
+    },
+    {
+      "id": 6,
+      "nama_laluan": "KL Sentral - Terminal Skypark",
+      "keterangan_laluan": "Skypark Link service",
+      "perkhidmatan": "Skypark Link",
+      "bil_stesen": 3,
+      "ktmb_id": "5d1b85d825166b4c3c8b67a5"
+    },
+    {
+      "id": 7,
+      "nama_laluan": "Padang Besar - Gemas",
+      "keterangan_laluan": "Electric Train Sevice (ETS) service",
+      "perkhidmatan": "Electric Train Sevice (ETS)",
+      "bil_stesen": 37,
+      "ktmb_id": "5d1b86b925166b4c3c8b67a9"
+    },
+    {
+      "id": 8,
+      "nama_laluan": "Padang Rengas - Bukit Mertajam",
+      "keterangan_laluan": "KTM Komuter Utara service",
+      "perkhidmatan": "KTM Komuter Utara",
+      "bil_stesen": 10,
+      "ktmb_id": "5d1a41e16a9e6864a00262c6"
+    },
+    {
+      "id": 9,
+      "nama_laluan": "Tanjung Malim - Pelabuhan Klang",
+      "keterangan_laluan": "KTM Komuter service",
+      "perkhidmatan": "KTM Komuter",
+      "bil_stesen": 34,
+      "ktmb_id": "5d1a41936a9e6864a00262b6"
+    },
+    {
+      "id": 10,
+      "nama_laluan": "Tumpat - Gemas",
+      "keterangan_laluan": "KTM Intercity service",
+      "perkhidmatan": "KTM Intercity",
+      "bil_stesen": 53,
+      "ktmb_id": "60520b144af50a2bc359198f"
+    }
+  ],
+  "meta": {
+    "title": "Laluan keretapi KTMB - Muat turun percuma",
+    "description": "10 laluan keretapi KTMB (contoh: Tanjung Malim – Pelabuhan Klang, Padang Besar – Gemas, JB Sentral – Tumpat), dengan perkhidmatan yang mengendalikannya dan bilangan stesen pada setiap laluan. Mengandungi 10 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Laluan keretapi KTMB | ListBase",
+    "seo_description": "Muat turun Laluan keretapi KTMB — 10 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 10 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

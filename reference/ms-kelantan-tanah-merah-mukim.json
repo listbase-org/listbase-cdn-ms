@@ -1,0 +1,256 @@
+{
+  "id": "ms-kelantan-tanah-merah-mukim",
+  "name": "Mukim di Daerah Tanah Merah, Kelantan",
+  "title": "Mukim di Daerah Tanah Merah, Kelantan",
+  "description": "Senarai lengkap 15 mukim di daerah Tanah Merah, negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 15 mukim (traditional sub-district units) in Tanah Merah District, Kelantan, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "030601",
+      "name": "Batang Merbau",
+      "name_uppercase": "BATANG MERBAU",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 485,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030603",
+      "name": "Bendang Nyior",
+      "name_uppercase": "BENDANG NYIOR",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 486,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030604",
+      "name": "Bukit Durian",
+      "name_uppercase": "BUKIT DURIAN",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 487,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030605",
+      "name": "Ulu Kusial",
+      "name_uppercase": "ULU KUSIAL",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 488,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030606",
+      "name": "Jedok",
+      "name_uppercase": "JEDOK",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 489,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030609",
+      "name": "Kuala Paku",
+      "name_uppercase": "KUALA PAKU",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 490,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030610",
+      "name": "Lawang",
+      "name_uppercase": "LAWANG",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 491,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030611",
+      "name": "Maka",
+      "name_uppercase": "MAKA",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 492,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030612",
+      "name": "Nibong",
+      "name_uppercase": "NIBONG",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 493,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030613",
+      "name": "Pasir Ganda",
+      "name_uppercase": "PASIR GANDA",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 494,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030614",
+      "name": "Rambai",
+      "name_uppercase": "RAMBAI",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 495,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030615",
+      "name": "Sokor",
+      "name_uppercase": "SOKOR",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 496,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030616",
+      "name": "Tanah Merah",
+      "name_uppercase": "TANAH MERAH",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 497,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030617",
+      "name": "Tebing Tinggi",
+      "name_uppercase": "TEBING TINGGI",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 498,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    },
+    {
+      "id": "030640",
+      "name": "Bandar Tanah Merah",
+      "name_uppercase": "BANDAR TANAH MERAH",
+      "district_id": "306",
+      "district": "Tanah Merah",
+      "state_id": "3",
+      "state": "Kelantan",
+      "parent_index": 499,
+      "state_slug": "kelantan",
+      "district_slug": "tanah-merah"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Tanah Merah, Kelantan - Muat turun percuma",
+    "description": "Senarai lengkap 15 mukim di daerah Tanah Merah, negeri Kelantan, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 15 mukim (traditional sub-district units) in Tanah Merah District, Kelantan, Malaysia. Mengandungi 15 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Tanah Merah, Kelantan | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Tanah Merah, Kelantan — 15 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 15 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

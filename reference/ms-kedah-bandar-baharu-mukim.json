@@ -1,0 +1,232 @@
+{
+  "id": "ms-kedah-bandar-baharu-mukim",
+  "name": "Mukim di Daerah Bandar Baharu, Kedah",
+  "title": "Mukim di Daerah Bandar Baharu, Kedah",
+  "description": "Senarai lengkap 13 mukim di daerah Bandar Baharu, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 13 mukim (traditional sub-district units) in Bandar Baharu District, Kedah, Malaysia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_uppercase",
+      "label": "Name Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state_id",
+      "label": "State Id",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "021001",
+      "name": "Bagan Samak",
+      "name_uppercase": "BAGAN SAMAK",
+      "district_id": "210",
+      "district": "Bandar Baharu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 214,
+      "state_slug": "kedah",
+      "district_slug": "bandar-baharu"
+    },
+    {
+      "id": "021002",
+      "name": "Kuala Selama",
+      "name_uppercase": "KUALA SELAMA",
+      "district_id": "210",
+      "district": "Bandar Baharu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 215,
+      "state_slug": "kedah",
+      "district_slug": "bandar-baharu"
+    },
+    {
+      "id": "021003",
+      "name": "Permatang Pasir",
+      "name_uppercase": "PERMATANG PASIR",
+      "district_id": "210",
+      "district": "Bandar Baharu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 216,
+      "state_slug": "kedah",
+      "district_slug": "bandar-baharu"
+    },
+    {
+      "id": "021004",
+      "name": "Relau",
+      "name_uppercase": "RELAU",
+      "district_id": "210",
+      "district": "Bandar Baharu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 217,
+      "state_slug": "kedah",
+      "district_slug": "bandar-baharu"
+    },
+    {
+      "id": "021005",
+      "name": "Serdang",
+      "name_uppercase": "SERDANG",
+      "district_id": "210",
+      "district": "Bandar Baharu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 218,
+      "state_slug": "kedah",
+      "district_slug": "bandar-baharu"
+    },
+    {
+      "id": "021006",
+      "name": "Sungai Batu",
+      "name_uppercase": "SUNGAI BATU",
+      "district_id": "210",
+      "district": "Bandar Baharu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 219,
+      "state_slug": "kedah",
+      "district_slug": "bandar-baharu"
+    },
+    {
+      "id": "021007",
+      "name": "Sungai Kechil",
+      "name_uppercase": "SUNGAI KECHIL",
+      "district_id": "210",
+      "district": "Bandar Baharu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 220,
+      "state_slug": "kedah",
+      "district_slug": "bandar-baharu"
+    },
+    {
+      "id": "021040",
+      "name": "Bandar Bandar Baharu",
+      "name_uppercase": "BANDAR BANDAR BAHARU",
+      "district_id": "210",
+      "district": "Bandar Baharu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 221,
+      "state_slug": "kedah",
+      "district_slug": "bandar-baharu"
+    },
+    {
+      "id": "021041",
+      "name": "Bandar Serdang",
+      "name_uppercase": "BANDAR SERDANG",
+      "district_id": "210",
+      "district": "Bandar Baharu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 222,
+      "state_slug": "kedah",
+      "district_slug": "bandar-baharu"
+    },
+    {
+      "id": "021070",
+      "name": "Pekan Lubuk Buntar",
+      "name_uppercase": "PEKAN LUBUK BUNTAR",
+      "district_id": "210",
+      "district": "Bandar Baharu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 223,
+      "state_slug": "kedah",
+      "district_slug": "bandar-baharu"
+    },
+    {
+      "id": "021071",
+      "name": "Pekan Selama",
+      "name_uppercase": "PEKAN SELAMA",
+      "district_id": "210",
+      "district": "Bandar Baharu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 224,
+      "state_slug": "kedah",
+      "district_slug": "bandar-baharu"
+    },
+    {
+      "id": "021072",
+      "name": "Pekan Sungai Kecil Ilir",
+      "name_uppercase": "PEKAN SUNGAI KECIL ILIR",
+      "district_id": "210",
+      "district": "Bandar Baharu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 225,
+      "state_slug": "kedah",
+      "district_slug": "bandar-baharu"
+    },
+    {
+      "id": "021073",
+      "name": "Pekan Relau",
+      "name_uppercase": "PEKAN RELAU",
+      "district_id": "210",
+      "district": "Bandar Baharu",
+      "state_id": "2",
+      "state": "Kedah",
+      "parent_index": 226,
+      "state_slug": "kedah",
+      "district_slug": "bandar-baharu"
+    }
+  ],
+  "meta": {
+    "title": "Mukim di Daerah Bandar Baharu, Kedah - Muat turun percuma",
+    "description": "Senarai lengkap 13 mukim di daerah Bandar Baharu, negeri Kedah, Malaysia. Mukim ialah unit pentadbiran tradisional di bawah peringkat daerah, masih digunakan dalam hak milik tanah, surat-menyurat rasmi dan sempadan kerajaan tempatan. Setiap rekod mengandungi ID mukim 6-digit, nama mukim, ID daerah dan negeri induk. Complete list of 13 mukim (traditional sub-district units) in Bandar Baharu District, Kedah, Malaysia. Mengandungi 13 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Mukim di Daerah Bandar Baharu, Kedah | ListBase",
+    "seo_description": "Muat turun Mukim di Daerah Bandar Baharu, Kedah — 13 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 13 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}
