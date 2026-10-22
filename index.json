@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:11.865Z",
-  "total_datasets": 572,
-  "total_records": 507967,
+  "generated": "2026-10-22T04:32:12.498Z",
+  "total_datasets": 573,
+  "total_records": 507982,
   "categories": [
     {
       "id": "culture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -15591,6 +15591,31 @@
         "xlsx": {
           "name": "ms-pemain-bola-sepak-lahir-luar-negara_MS.xlsx",
           "size": 8856
+        }
+      }
+    },
+    {
+      "id": "ms-pembawa-bendera-olimpik",
+      "name": "Pembawa Bendera Malaysia di Sukan Olimpik",
+      "category": "sports",
+      "record_count": 15,
+      "columns": [
+        "tahun_acara",
+        "musim",
+        "pembawa_bendera",
+        "sukan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_pembawa_bendera_buat_Malaysia_di_Sukan_Olimpik",
+      "updated": "2026-10",
+      "size": 3874,
+      "files": {
+        "csv": {
+          "name": "ms-pembawa-bendera-olimpik_MS.csv",
+          "size": 747
+        },
+        "xlsx": {
+          "name": "ms-pembawa-bendera-olimpik_MS.xlsx",
+          "size": 7354
         }
       }
     },
