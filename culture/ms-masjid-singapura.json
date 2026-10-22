@@ -1,0 +1,466 @@
+{
+  "id": "ms-masjid-singapura",
+  "name": "Senarai Masjid di Singapura",
+  "title": "Senarai Masjid di Singapura",
+  "description": "Senarai Masjid di Singapura — 70 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "culture",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_masjid_di_Singapura",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_masjid_di_Singapura",
+  "updated": "2026-10",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "stesen_mrt_lrt_terdekat",
+      "label": "Stesen Mrt Lrt Terdekat",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "butir_butir",
+      "label": "Butir Butir",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Masjid Abdul Aleem Ṣiddique",
+      "stesen_mrt_lrt_terdekat": "Marine Terrace",
+      "tahun": "1957",
+      "butir_butir": "Lorong K Telok Kurau"
+    },
+    {
+      "nama": "Masjid Abdul Gafoor (Ā Dū Kǎ Fū Huí Jiào Táng)",
+      "stesen_mrt_lrt_terdekat": "Rochor",
+      "tahun": "1859",
+      "butir_butir": "Dunlop Street"
+    },
+    {
+      "nama": "Masjid Abdul Ḥamid Kampong Pasiran",
+      "stesen_mrt_lrt_terdekat": "Novena",
+      "tahun": "1932",
+      "butir_butir": "Gentle Road"
+    },
+    {
+      "nama": "Masjid Aḥmad",
+      "stesen_mrt_lrt_terdekat": "Haw Par Villa",
+      "tahun": "1934",
+      "butir_butir": "Lorong Sarhad"
+    },
+    {
+      "nama": "Masjid Aḥmad Ibrahim",
+      "stesen_mrt_lrt_terdekat": "Springleaf",
+      "tahun": "1958",
+      "butir_butir": "Jalan Ulu Seletar"
+    },
+    {
+      "nama": "Masjid Al-Abdul Razak",
+      "stesen_mrt_lrt_terdekat": "Eunos",
+      "tahun": "1965",
+      "butir_butir": "Jalan Ismail"
+    },
+    {
+      "nama": "Masjid Al-Abrar (Ā Ěr Ā Bù Lā Huí Jiào Táng)",
+      "stesen_mrt_lrt_terdekat": "Telok Ayer",
+      "tahun": "1827",
+      "butir_butir": "Telok Ayer Street"
+    },
+    {
+      "nama": "Masjid Al-Amin",
+      "stesen_mrt_lrt_terdekat": "Harbourfront",
+      "tahun": "1991",
+      "butir_butir": "Telok Blangah Way"
+    },
+    {
+      "nama": "Masjid Al-Anṣar",
+      "stesen_mrt_lrt_terdekat": "Bedok",
+      "tahun": "1981",
+      "butir_butir": "Bedok North Avenue 1"
+    },
+    {
+      "nama": "Masjid Al-Falaḥ",
+      "stesen_mrt_lrt_terdekat": "Orchard",
+      "tahun": "1987",
+      "butir_butir": "Bideford Road"
+    },
+    {
+      "nama": "Masjid Al-firdaus",
+      "stesen_mrt_lrt_terdekat": "South View",
+      "tahun": "1962",
+      "butir_butir": "Jalan Ibadat"
+    },
+    {
+      "nama": "Masjid Al-Huda",
+      "stesen_mrt_lrt_terdekat": "Sixth Avenue",
+      "tahun": "1966",
+      "butir_butir": "Jalan Ḥaji Alias"
+    },
+    {
+      "nama": "Masjid Al-Iman",
+      "stesen_mrt_lrt_terdekat": "Bangkit",
+      "tahun": "2003",
+      "butir_butir": "Bukit Panjang Ring Road"
+    },
+    {
+      "nama": "Masjid Al-Islaḥ",
+      "stesen_mrt_lrt_terdekat": "Punggol",
+      "tahun": "2015",
+      "butir_butir": "Punggol Field"
+    },
+    {
+      "nama": "Masjid Al-istighfar",
+      "stesen_mrt_lrt_terdekat": "Pasir Ris",
+      "tahun": "2000",
+      "butir_butir": "Pasir Ris Walk"
+    },
+    {
+      "nama": "Masjid Al-Istiqamah",
+      "stesen_mrt_lrt_terdekat": "Kovan",
+      "tahun": "1999",
+      "butir_butir": "Serangoon North Avenue 2"
+    },
+    {
+      "nama": "Masjid Alkaff Kampung Melayu",
+      "stesen_mrt_lrt_terdekat": "Bedok North",
+      "tahun": "1994",
+      "butir_butir": "Bedok Reservoir Road"
+    },
+    {
+      "nama": "Masjid Alkaff Upper Serangoon",
+      "stesen_mrt_lrt_terdekat": "Potong Pasir",
+      "tahun": "1920",
+      "butir_butir": "Pheng Geck Avenue"
+    },
+    {
+      "nama": "Masjid Al-Khair",
+      "stesen_mrt_lrt_terdekat": "Keat Hong",
+      "tahun": "1997",
+      "butir_butir": "Teck Whye Crescent"
+    },
+    {
+      "nama": "Masjid Al-Mawaddah",
+      "stesen_mrt_lrt_terdekat": "Buangkok",
+      "tahun": "2009",
+      "butir_butir": "Compassvale Bow"
+    },
+    {
+      "nama": "Masjid Al-mukminin",
+      "stesen_mrt_lrt_terdekat": "Jurong East",
+      "tahun": "1987",
+      "butir_butir": "Jurong East Street 21"
+    },
+    {
+      "nama": "Masjid Al-Muttaqin",
+      "stesen_mrt_lrt_terdekat": "Ang Mo Kio",
+      "tahun": "1980",
+      "butir_butir": "Ang Mo Kio Avenue 6"
+    },
+    {
+      "nama": "Masjid Al-Taqua",
+      "stesen_mrt_lrt_terdekat": "Sungei Bedok",
+      "tahun": "1883",
+      "butir_butir": "Jalan Bilal"
+    },
+    {
+      "nama": "Masjid Angullia",
+      "stesen_mrt_lrt_terdekat": "Farrer Park",
+      "tahun": "1890",
+      "butir_butir": "Serangoon Road"
+    },
+    {
+      "nama": "Masjid An-Nahḍhah",
+      "stesen_mrt_lrt_terdekat": "Bishan",
+      "tahun": "2006",
+      "butir_butir": "Bishan Street 14"
+    },
+    {
+      "nama": "Masjid An-nur",
+      "stesen_mrt_lrt_terdekat": "Marsiling",
+      "tahun": "1980",
+      "butir_butir": "Admiralty Road"
+    },
+    {
+      "nama": "Masjid Ar-Raudhah",
+      "stesen_mrt_lrt_terdekat": "Bukit Batok",
+      "tahun": "1993",
+      "butir_butir": "Bukit Batok East Avenue 2"
+    },
+    {
+      "nama": "Masjid Assyafaah",
+      "stesen_mrt_lrt_terdekat": "Sembawang",
+      "tahun": "2004",
+      "butir_butir": "Admiralty Lane"
+    },
+    {
+      "nama": "Masjid Assyakirin",
+      "stesen_mrt_lrt_terdekat": "Lakeside",
+      "tahun": "1978",
+      "butir_butir": "Yung An Road"
+    },
+    {
+      "nama": "Masjid Ba'alwie",
+      "stesen_mrt_lrt_terdekat": "Stevens",
+      "tahun": "1952",
+      "butir_butir": "Lewis Road"
+    },
+    {
+      "nama": "Masjid Bencoolen",
+      "stesen_mrt_lrt_terdekat": "Bencoolen",
+      "tahun": "1845",
+      "butir_butir": "Bencoolen Street"
+    },
+    {
+      "nama": "Masjid Burhani",
+      "stesen_mrt_lrt_terdekat": "City Hall",
+      "tahun": "1829",
+      "butir_butir": "Hill Street"
+    },
+    {
+      "nama": "Masjid Darul Aman",
+      "stesen_mrt_lrt_terdekat": "Eunos",
+      "tahun": "1986",
+      "butir_butir": "Jalan Eunos"
+    },
+    {
+      "nama": "Masjid Darul Ghufran",
+      "stesen_mrt_lrt_terdekat": "Tampines",
+      "tahun": "1990",
+      "butir_butir": "Tampines Avenue 5"
+    },
+    {
+      "nama": "Masjid Darul Makmur",
+      "stesen_mrt_lrt_terdekat": "Yishun",
+      "tahun": "1989",
+      "butir_butir": "Yishun Avenue 2"
+    },
+    {
+      "nama": "Masjid Darussalam",
+      "stesen_mrt_lrt_terdekat": "Clementi",
+      "tahun": "1989",
+      "butir_butir": "Commonwealth Avenue West"
+    },
+    {
+      "nama": "Masjid En-Naeem",
+      "stesen_mrt_lrt_terdekat": "Kovan",
+      "tahun": "1983",
+      "butir_butir": "Tampines Road"
+    },
+    {
+      "nama": "Masjid Ḥaji Moḥd Ṣalleḥ",
+      "stesen_mrt_lrt_terdekat": "Kallang",
+      "tahun": "1896",
+      "butir_butir": "Geylang Road"
+    },
+    {
+      "nama": "Masjid Ḥaji Muḥammad Ṣalleḥ",
+      "stesen_mrt_lrt_terdekat": "Prince Edward Road",
+      "tahun": "2017",
+      "butir_butir": "Palmer Road"
+    },
+    {
+      "nama": "Masjid Ḥaji Yusoff",
+      "stesen_mrt_lrt_terdekat": "Kovan",
+      "tahun": "1921",
+      "butir_butir": "Hillside Drive"
+    },
+    {
+      "nama": "Masjid Ḥajjah Faṭimah (Hā Jiǎ Fǎ Dì Mǎ Huí Jiào Táng)",
+      "stesen_mrt_lrt_terdekat": "Nicoll Highway",
+      "tahun": "1846",
+      "butir_butir": "Beach Road"
+    },
+    {
+      "nama": "Masjid Hajjah Rahimabi Kebun Limau",
+      "stesen_mrt_lrt_terdekat": "Boon Keng",
+      "tahun": "1960",
+      "butir_butir": "Kim Keat Road"
+    },
+    {
+      "nama": "Masjid Hang Jebat",
+      "stesen_mrt_lrt_terdekat": "Queenstown",
+      "tahun": "1952",
+      "butir_butir": "Jalan Hang Jebat"
+    },
+    {
+      "nama": "Masjid Hasanah",
+      "stesen_mrt_lrt_terdekat": "Jurong East",
+      "tahun": "1971",
+      "butir_butir": "Teban Gardens Road"
+    },
+    {
+      "nama": "Masjid Hussein Sulaiman",
+      "stesen_mrt_lrt_terdekat": "Kent Ridge",
+      "tahun": "1902",
+      "butir_butir": "Pasir Panjang Road"
+    },
+    {
+      "nama": "Masjid Jamae (Chulia) (Zhān Měi Huí Jiào Táng)",
+      "stesen_mrt_lrt_terdekat": "Chinatown",
+      "tahun": "1826",
+      "butir_butir": "South Bridge Road"
+    },
+    {
+      "nama": "Masjid Jamek Queenstown",
+      "stesen_mrt_lrt_terdekat": "Redhill",
+      "tahun": "1965",
+      "butir_butir": "Margaret Drive"
+    },
+    {
+      "nama": "Masjid Jamiyah Ar-rabitah",
+      "stesen_mrt_lrt_terdekat": "Redhill",
+      "tahun": "1962",
+      "butir_butir": "Tiong Bahru Road"
+    },
+    {
+      "nama": "Masjid Kampong Delta",
+      "stesen_mrt_lrt_terdekat": "Tiong Bahru",
+      "tahun": "1960",
+      "butir_butir": "Delta Avenue"
+    },
+    {
+      "nama": "Masjid Kampong Siglap",
+      "stesen_mrt_lrt_terdekat": "Siglap",
+      "tahun": "1992",
+      "butir_butir": "Marine Parade Road"
+    },
+    {
+      "nama": "Masjid Kassim",
+      "stesen_mrt_lrt_terdekat": "Kembangan",
+      "tahun": "1924",
+      "butir_butir": "Changi Road"
+    },
+    {
+      "nama": "Masjid Khadijah",
+      "stesen_mrt_lrt_terdekat": "Aljunied",
+      "tahun": "1920",
+      "butir_butir": "Geylang Road"
+    },
+    {
+      "nama": "Masjid Khalid",
+      "stesen_mrt_lrt_terdekat": "Paya Lebar",
+      "tahun": "1917",
+      "butir_butir": "Joo Chiat Road"
+    },
+    {
+      "nama": "Masjid Maarof",
+      "stesen_mrt_lrt_terdekat": "Boon Lay",
+      "tahun": "2016",
+      "butir_butir": "Jurong West Street 26"
+    },
+    {
+      "nama": "Masjid Malabar",
+      "stesen_mrt_lrt_terdekat": "Lavender",
+      "tahun": "1918",
+      "butir_butir": "Victoria Street"
+    },
+    {
+      "nama": "Masjid Moulana Md Ali",
+      "stesen_mrt_lrt_terdekat": "Raffles Place",
+      "tahun": "1994",
+      "butir_butir": "Raffles Place"
+    },
+    {
+      "nama": "Masjid Muhajirin",
+      "stesen_mrt_lrt_terdekat": "Braddell",
+      "tahun": "1977",
+      "butir_butir": "Braddell Road"
+    },
+    {
+      "nama": "Masjid Mujahidin",
+      "stesen_mrt_lrt_terdekat": "Commonwealth",
+      "tahun": "1977",
+      "butir_butir": "Stirling Road"
+    },
+    {
+      "nama": "Masjid Mydin",
+      "stesen_mrt_lrt_terdekat": "Kembangan",
+      "tahun": "1935",
+      "butir_butir": "Jalan Lapang"
+    },
+    {
+      "nama": "Masjid Omar Kampong Melaka (Ào Mǎ Gān Bǎng Mǎ Liù Jiǎ Huí Jiào Táng)",
+      "stesen_mrt_lrt_terdekat": "Clarke Quay",
+      "tahun": "1820",
+      "butir_butir": "Keng Cheow Street"
+    },
+    {
+      "nama": "Masjid Omar Salmah",
+      "stesen_mrt_lrt_terdekat": "Bukit Brown",
+      "tahun": "1973",
+      "butir_butir": "Jalan Mashor"
+    },
+    {
+      "nama": "Masjid Petempatan Melayu Sembawang",
+      "stesen_mrt_lrt_terdekat": "Canberra",
+      "tahun": "1970",
+      "butir_butir": "Jalan Mempurong"
+    },
+    {
+      "nama": "Masjid Pulau Bukom",
+      "stesen_mrt_lrt_terdekat": "Pasir Panjang",
+      "tahun": "1960",
+      "butir_butir": "Pulau Bukom Kechil"
+    },
+    {
+      "nama": "Masjid Pusara Aman",
+      "stesen_mrt_lrt_terdekat": "Pioneer",
+      "tahun": "1972",
+      "butir_butir": "Lim Chu Kang Road"
+    },
+    {
+      "nama": "Masjid Sallim Maṭṭar",
+      "stesen_mrt_lrt_terdekat": "Maṭṭar",
+      "tahun": "1824",
+      "butir_butir": "Maṭṭar Road"
+    },
+    {
+      "nama": "Masjid Sulṭan (Sū Dān Huí Jiào Táng)",
+      "stesen_mrt_lrt_terdekat": "Bugis",
+      "tahun": "1824",
+      "butir_butir": "Muscaṭ Street"
+    },
+    {
+      "nama": "Masjid Tasek Utara",
+      "stesen_mrt_lrt_terdekat": "Farrer Park",
+      "tahun": "1907",
+      "butir_butir": "Bristol Road"
+    },
+    {
+      "nama": "Masjid Tentera Di Raja",
+      "stesen_mrt_lrt_terdekat": "Dover",
+      "tahun": "1961",
+      "butir_butir": "Clementi Road"
+    },
+    {
+      "nama": "Masjid Wak Tanjong",
+      "stesen_mrt_lrt_terdekat": "Paya Lebar",
+      "tahun": "1935",
+      "butir_butir": "Paya Lebar Road"
+    },
+    {
+      "nama": "Masjid Yusof Isḥak",
+      "stesen_mrt_lrt_terdekat": "Woodlands South",
+      "tahun": "2017",
+      "butir_butir": "Woodlands Drive 17"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Masjid di Singapura - Muat turun percuma",
+    "description": "Senarai Masjid di Singapura — 70 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 70 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Masjid di Singapura | ListBase",
+    "seo_description": "Muat turun Senarai Masjid di Singapura — 70 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 70 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_masjid_di_Singapura"
+    ]
+  }
+}

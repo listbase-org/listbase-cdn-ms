@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:03.204Z",
-  "total_datasets": 559,
-  "total_records": 506468,
+  "generated": "2026-10-22T04:32:03.669Z",
+  "total_datasets": 560,
+  "total_records": 506538,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 45
+      "dataset_count": 46
     },
     {
       "id": "education",
@@ -769,6 +769,31 @@
         "xlsx": {
           "name": "ms-masjid-malaysia_MS.xlsx",
           "size": 861487
+        }
+      }
+    },
+    {
+      "id": "ms-masjid-singapura",
+      "name": "Senarai Masjid di Singapura",
+      "category": "culture",
+      "record_count": 70,
+      "columns": [
+        "nama",
+        "stesen_mrt_lrt_terdekat",
+        "tahun",
+        "butir_butir"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_masjid_di_Singapura",
+      "updated": "2026-10",
+      "size": 12952,
+      "files": {
+        "csv": {
+          "name": "ms-masjid-singapura_MS.csv",
+          "size": 4453
+        },
+        "xlsx": {
+          "name": "ms-masjid-singapura_MS.xlsx",
+          "size": 10082
         }
       }
     },
