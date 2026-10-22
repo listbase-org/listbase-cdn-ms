@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:04.411Z",
-  "total_datasets": 561,
-  "total_records": 506557,
+  "generated": "2026-10-22T04:32:04.882Z",
+  "total_datasets": 562,
+  "total_records": 506707,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "reference",
-      "dataset_count": 250
+      "dataset_count": 251
     },
     {
       "id": "science",
@@ -10132,6 +10132,29 @@
         "xlsx": {
           "name": "ms-melaka-waktu-solat_MS.xlsx",
           "size": 145154
+        }
+      }
+    },
+    {
+      "id": "ms-misi-diplomatik-di-malaysia",
+      "name": "Senarai Misi Diplomatik Asing di Malaysia",
+      "category": "reference",
+      "record_count": 150,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_misi_diplomatik_di_Malaysia",
+      "updated": "2026-10",
+      "size": 17847,
+      "files": {
+        "csv": {
+          "name": "ms-misi-diplomatik-di-malaysia_MS.csv",
+          "size": 9406
+        },
+        "xlsx": {
+          "name": "ms-misi-diplomatik-di-malaysia_MS.xlsx",
+          "size": 9567
         }
       }
     },
