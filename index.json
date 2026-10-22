@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:44.359Z",
-  "total_datasets": 624,
-  "total_records": 518203,
+  "generated": "2026-10-22T04:32:44.894Z",
+  "total_datasets": 625,
+  "total_records": 518271,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 106
+      "dataset_count": 107
     },
     {
       "id": "reference",
@@ -8763,6 +8763,31 @@
         "xlsx": {
           "name": "ms-terengganu-parlimen_MS.xlsx",
           "size": 7258
+        }
+      }
+    },
+    {
+      "id": "ms-timbalan-menteri-wanita",
+      "name": "Senarai Timbalan Menteri Wanita Malaysia",
+      "category": "politics",
+      "record_count": 68,
+      "columns": [
+        "timbalan_menteri",
+        "jawatan",
+        "tahun_dilantik",
+        "pentadbiran"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_menteri_kabinet_wanita_Malaysia",
+      "updated": "2026-10",
+      "size": 15167,
+      "files": {
+        "csv": {
+          "name": "ms-timbalan-menteri-wanita_MS.csv",
+          "size": 6386
+        },
+        "xlsx": {
+          "name": "ms-timbalan-menteri-wanita_MS.xlsx",
+          "size": 9124
         }
       }
     },
