@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:42.673Z",
-  "total_datasets": 621,
-  "total_records": 518032,
+  "generated": "2026-10-22T04:32:43.247Z",
+  "total_datasets": 622,
+  "total_records": 518040,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -1898,6 +1898,33 @@
         "xlsx": {
           "name": "ms-syarikat-malaysia_MS.xlsx",
           "size": 8839
+        }
+      }
+    },
+    {
+      "id": "ms-syarikat-singapura",
+      "name": "Senarai Syarikat Terbesar Singapura",
+      "category": "economy",
+      "record_count": 8,
+      "columns": [
+        "bahagian",
+        "kedudukan",
+        "nama",
+        "hasil_2016_usd_bilion",
+        "aset_2016_usd_bilion",
+        "catatan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_syarikat_Singapura",
+      "updated": "2026-10",
+      "size": 4428,
+      "files": {
+        "csv": {
+          "name": "ms-syarikat-singapura_MS.csv",
+          "size": 1470
+        },
+        "xlsx": {
+          "name": "ms-syarikat-singapura_MS.xlsx",
+          "size": 7513
         }
       }
     },
