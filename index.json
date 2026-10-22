@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:58.902Z",
-  "total_datasets": 550,
-  "total_records": 505611,
+  "generated": "2026-10-22T04:31:59.366Z",
+  "total_datasets": 551,
+  "total_records": 505664,
   "categories": [
     {
       "id": "culture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -3390,6 +3390,32 @@
         "xlsx": {
           "name": "ms-lagu-nombor-satu-2019_MS.xlsx",
           "size": 8572
+        }
+      }
+    },
+    {
+      "id": "ms-lagu-nombor-satu-2020",
+      "name": "Lagu Nombor Satu di Malaysia (2020)",
+      "category": "music",
+      "record_count": 53,
+      "columns": [
+        "tarikh",
+        "lagu_antarabangsa_dan_domestik_lagu",
+        "lagu_antarabangsa_dan_domestik_artis",
+        "lagu_domestik_lagu",
+        "lagu_domestik_artis"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_lagu_nombor_satu_di_Malaysia_%282020%29",
+      "updated": "2026-10",
+      "size": 16322,
+      "files": {
+        "csv": {
+          "name": "ms-lagu-nombor-satu-2020_MS.csv",
+          "size": 4901
+        },
+        "xlsx": {
+          "name": "ms-lagu-nombor-satu-2020_MS.xlsx",
+          "size": 8604
         }
       }
     },
