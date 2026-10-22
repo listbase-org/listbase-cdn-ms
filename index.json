@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:22.329Z",
-  "total_datasets": 588,
-  "total_records": 509801,
+  "generated": "2026-10-22T04:32:22.822Z",
+  "total_datasets": 589,
+  "total_records": 509809,
   "categories": [
     {
       "id": "culture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "health",
@@ -2720,6 +2720,34 @@
         "xlsx": {
           "name": "ms-rumah-api-brunei_MS.xlsx",
           "size": 7595
+        }
+      }
+    },
+    {
+      "id": "ms-rumah-api-singapura",
+      "name": "Senarai Rumah Api di Singapura",
+      "category": "geography",
+      "record_count": 8,
+      "columns": [
+        "nama",
+        "lokasi_koordinat",
+        "tahun_dibina",
+        "ketinggian_menara",
+        "ketinggian_fokus",
+        "julat_nml",
+        "laksamana_number"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_rumah_api_di_Singapura",
+      "updated": "2026-10",
+      "size": 4753,
+      "files": {
+        "csv": {
+          "name": "ms-rumah-api-singapura_MS.csv",
+          "size": 1469
+        },
+        "xlsx": {
+          "name": "ms-rumah-api-singapura_MS.xlsx",
+          "size": 7631
         }
       }
     },
