@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:17.831Z",
-  "total_datasets": 583,
-  "total_records": 509021,
+  "generated": "2026-10-22T04:32:18.385Z",
+  "total_datasets": 584,
+  "total_records": 509594,
   "categories": [
     {
       "id": "culture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "reference",
-      "dataset_count": 252
+      "dataset_count": 253
     },
     {
       "id": "science",
@@ -12662,6 +12662,30 @@
         "xlsx": {
           "name": "ms-poskod_MS.xlsx",
           "size": 96554
+        }
+      }
+    },
+    {
+      "id": "ms-poskod-brunei",
+      "name": "Senarai Poskod di Brunei",
+      "category": "reference",
+      "record_count": 573,
+      "columns": [
+        "bahagian",
+        "poskod",
+        "kawasan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_poskod_di_Brunei",
+      "updated": "2026-10",
+      "size": 66669,
+      "files": {
+        "csv": {
+          "name": "ms-poskod-brunei_MS.csv",
+          "size": 27398
+        },
+        "xlsx": {
+          "name": "ms-poskod-brunei_MS.xlsx",
+          "size": 20603
         }
       }
     },
