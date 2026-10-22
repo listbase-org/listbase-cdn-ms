@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:01.763Z",
-  "total_datasets": 556,
-  "total_records": 506033,
+  "generated": "2026-10-22T04:32:02.243Z",
+  "total_datasets": 557,
+  "total_records": 506133,
   "categories": [
     {
       "id": "culture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 61
+      "dataset_count": 62
     }
   ],
   "datasets": [
@@ -17230,6 +17230,32 @@
         "xlsx": {
           "name": "ms-lapangan-terbang-antarabangsa_MS.xlsx",
           "size": 7925
+        }
+      }
+    },
+    {
+      "id": "ms-lebuh-raya",
+      "name": "Senarai Lebuh Raya di Malaysia",
+      "category": "transport",
+      "record_count": 100,
+      "columns": [
+        "penanda_lebuhraya",
+        "nama",
+        "panjang_km",
+        "menghubungkan",
+        "pemaju"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_lebuh_raya_di_Malaysia",
+      "updated": "2026-10",
+      "size": 27717,
+      "files": {
+        "csv": {
+          "name": "ms-lebuh-raya_MS.csv",
+          "size": 14340
+        },
+        "xlsx": {
+          "name": "ms-lebuh-raya_MS.xlsx",
+          "size": 12763
         }
       }
     },

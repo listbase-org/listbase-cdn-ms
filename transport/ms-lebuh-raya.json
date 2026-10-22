@@ -1,0 +1,751 @@
+{
+  "id": "ms-lebuh-raya",
+  "name": "Senarai Lebuh Raya di Malaysia",
+  "title": "Senarai Lebuh Raya di Malaysia",
+  "description": "Senarai Lebuh Raya di Malaysia — 100 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "transport",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_lebuh_raya_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_lebuh_raya_di_Malaysia",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "penanda_lebuhraya",
+      "label": "Penanda Lebuhraya",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "panjang_km",
+      "label": "Panjang Km",
+      "type": "number"
+    },
+    {
+      "key": "menghubungkan",
+      "label": "Menghubungkan",
+      "type": "string"
+    },
+    {
+      "key": "pemaju",
+      "label": "Pemaju",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "penanda_lebuhraya": "LP 1 AH2 AH142",
+      "nama": "Jalan Tun Abdul Razak Lebuhraya Skudai Jalan Cheras Lebuhraya Cheras–Kajang Jalan Lingkaran Dalam Kuala Lumpur Lebuhraya Kuala Lumpur-Rawang Pintasan Rawang Jalan Tanjung Malim–Slim River Jalan Butterworth–Juru Lingkaran Luar Butterworth Lebuhraya Sultan Abdul Halim Lebuhraya Darul Aman Lebuhraya Utara–Selatan Jajaran Utara",
+      "panjang_km": "",
+      "menghubungkan": "Utara–Selatan Semenanjung Malaysia Bukit Kayu Hitam–Johor Bahru",
+      "pemaju": "Projek Lebuhraya Usahasama Berhad Tambak Johor Lebuhraya Utara-Selatan Jajaran Utara Dewan Bandaraya Kuala Lumpur (DBKL) Lebuhraya Kuala Lumpur–Rawang Jalan Cheras Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 1 AH150",
+      "nama": "Lebuhraya Pan Borneo LP 1-15 Jalan Kuching–Serian LP 1-82 Jalan Kuala Baram-Sungai Tujuh Pintasan Tuaran",
+      "panjang_km": "1047.18",
+      "menghubungkan": "Borneo Malaysia Sematan–Kuching–Sibu–Miri–Bandar Seri Begawan (Brunei)–Limbang–Kota Kinabalu–Sandakan–Tawau–Serudong",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR) Dewan Bandaraya Kuching Utara (DBKU) Jalan Kuching–Serian (Satok–Wisma Saberkas) Majlis Bandaraya Kuching Selatan (MBKS) Jalan Kuching–Serian (Batu Kawa–Sempadan bahagian Kuching) Lebuhraya Borneo Utara Sdn Bhd (LBU)"
+    },
+    {
+      "penanda_lebuhraya": "LP 2",
+      "nama": "Persiaran Raja Muda Musa Jalan Jambatan Kota Lebuhraya Persekutuan Jalan Klang Lama Jalan Syed Putra Jalan Genting Klang Jalan Pahang LP 68 Jalan Gombak Lebuhraya Duta–Ulu Klang AH141 Lebuhraya Kuala Lumpur–Karak AH141 Pintasan Mentakab–Temerloh Jalan Gambang–Kuantan",
+      "panjang_km": "",
+      "menghubungkan": "Barat–Timur Pelabuhan Klang–Pelabuhan Kuantan",
+      "pemaju": "Projek Lebuhraya Usahasama Berhad Lebuhraya Persekutuan (FHR2) Persimpangan Taman Berkeley, Klang-Persimpangan Lapangan Terbang Subang Dewan Bandaraya Kuala Lumpur (DBKL) Jalan Syed Putra Jalan Klang Lama Jalan Genting Klang Jalan Pahang Jalan Gombak Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 3 AH18",
+      "nama": "Lebuhraya Tebrau Pintasan Kota Tinggi Pintasan Kuantan",
+      "panjang_km": "",
+      "menghubungkan": "Pantai Timur Rantau Panjang–Johor Bahru",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)Majlis Bandaraya Johor Bahru (MBJB) Lebuhraya Tebrau"
+    },
+    {
+      "penanda_lebuhraya": "LP 4 AH140",
+      "nama": "Lebuhraya Butterworth–Kulim (Jalan Heng Choon Thian, Jalan Jelawat) Lebuhraya Timur–Barat",
+      "panjang_km": "",
+      "menghubungkan": "Barat–Timur Butterworth–Pasir Puteh",
+      "pemaju": "Lingkaran Luar Butterworth (Penang) Sdn Bhd Lebuhraya Butterworth–Kulim Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 5",
+      "nama": "Jalan Skudai–Pontian LP 19 Lebuh Alor Gajah-Melaka Tengah-Jasin Pintasan Port Dickson Jalan Klang–Banting LP 2 Jalan Jambatan Kota LP 5 Lebuhraya Pesisiran Pantai Barat Lebuhraya Pesisiran Pantai Barat (termasuk laluan tidak bertol; Tanjung Karang-Sabak Bernam dan Teluk Intan-Lekir) Jalan Ipoh-Lumut",
+      "panjang_km": "",
+      "menghubungkan": "Pantai Barat Ipoh–Skudai",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR) (termasuk laluan tidak bertol Lebuhraya Pesisiran Pantai Barat) West Coast Expressway Sdn Bhd (WCE); seliaan laluan bertol sahaja"
+    },
+    {
+      "penanda_lebuhraya": "LP 6",
+      "nama": "Lebuhraya Gelugor",
+      "panjang_km": "",
+      "menghubungkan": "Keliling Pulau Pinang Lebuhraya Gelugor George Town–Bayan Lepas",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 7",
+      "nama": "Jalan Alor star-Kangar-Padang Besar",
+      "panjang_km": "",
+      "menghubungkan": "Alor star-Padang Besar",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 8",
+      "nama": "Lebuhraya Kuala Lumpur–Kota Bharu (Lebuhraya Gua Musang)",
+      "panjang_km": "",
+      "menghubungkan": "Kota Bharu–Bentong",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 11",
+      "nama": "Lebuhraya Bera",
+      "panjang_km": "",
+      "menghubungkan": "Serting–Bandar Tun Abdul Razak",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 12 AH142",
+      "nama": "Lebuhraya Tun Razak (Lebuhraya Segamat–Kuantan)",
+      "panjang_km": "133.0",
+      "menghubungkan": "Gambang–Segamat",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 14",
+      "nama": "Lebuhraya Jerangau-Jabor",
+      "panjang_km": "133.0",
+      "menghubungkan": "Kuala Terengganu–Kuantan",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 15",
+      "nama": "Jalan Lapangan Terbang Sultan Abdul Aziz Shah Laluan Subang–Kelana Jaya",
+      "panjang_km": "",
+      "menghubungkan": "Sungai Buloh–Subang Jaya",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 16",
+      "nama": "Jalan Lapangan Terbang Senai",
+      "panjang_km": "4.0",
+      "menghubungkan": "Senai–Lapangan Terbang Antarabangsa Senai",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 17",
+      "nama": "Lebuhraya Pasir Gudang",
+      "panjang_km": "50.0",
+      "menghubungkan": "Tampoi–Pasir Gudang",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 19",
+      "nama": "Lebuh Alor Gajah-Melaka Tengah-Jasin",
+      "panjang_km": "",
+      "menghubungkan": "Bulatan Taboh Naning–Bandar Melaka–Muar",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 20 AH141",
+      "nama": "Pintasan Selat Klang Utara",
+      "panjang_km": "15.1",
+      "menghubungkan": "Pelabuhan Klang–Sungai Rasau",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR) Grand Sepadu Sdn Bhd"
+    },
+    {
+      "penanda_lebuhraya": "LP 21",
+      "nama": "Jalan Serian–Tebedu",
+      "panjang_km": "",
+      "menghubungkan": "Serian–Tebedu",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 22",
+      "nama": "Jalan Tamparuli-Ranau",
+      "panjang_km": "",
+      "menghubungkan": "Tamparuli–Ranau",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 23",
+      "nama": "Jalan Segamat–Tangkak–Muar",
+      "panjang_km": "",
+      "menghubungkan": "Segamat–Tangkak–Muar",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 26",
+      "nama": "Lebuhraya KLIA",
+      "panjang_km": "12.0",
+      "menghubungkan": "Persimpangan KLIA–Lapangan Terbang Antarabangsa Kuala Lumpur (KLIA)",
+      "pemaju": "Projek Lebuhraya Usahasama Berhad Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 27",
+      "nama": "Jalan Lingkaran Luar KLIA",
+      "panjang_km": "20.0",
+      "menghubungkan": "Keliling Lapangan Terbang Antarabangsa Kuala Lumpur Masjid KLIA–Kompleks Bunga Raya KLIA",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 28",
+      "nama": "Jalan Lingkaran Tengah 2 Kuala Lumpur (MRR2)",
+      "panjang_km": "35.0",
+      "menghubungkan": "Jalan lingkaran tengah mengelilingi Kuala Lumpur Bandar Sri Damansara–Sri Petaling",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 29",
+      "nama": "Lebuhraya Putrajaya-Cyberjaya",
+      "panjang_km": "9.8",
+      "menghubungkan": "Serdang–KLIA",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 30",
+      "nama": "Jalan Lingkaran Putrajaya",
+      "panjang_km": "",
+      "menghubungkan": "Persiaran Timur–Persiaran Selatan",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 32",
+      "nama": "Jalan Nilai-KLIA (Jalan Nilai-Labohan Dagang)",
+      "panjang_km": "",
+      "menghubungkan": "Banting–Nilai",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 33",
+      "nama": "Lebuh Sungai Udang–Paya Rumput–Ayer Keroh",
+      "panjang_km": "23.1",
+      "menghubungkan": "Sungai Udang–Ayer Keroh",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 34",
+      "nama": "Lingkaran Tengah Utama",
+      "panjang_km": "325.0",
+      "menghubungkan": "Kuala Krai–Kuala Pilah",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 35",
+      "nama": "Lebuhraya Pantai Timur Johor Bahru (Jalan Permas Jaya-Pasir Gudang)",
+      "panjang_km": "13.4",
+      "menghubungkan": "Bakar Batu–Pasir Gudang",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 37",
+      "nama": "Pintasan Rawang",
+      "panjang_km": "9.0",
+      "menghubungkan": "Kuala Lumpur–Serendah",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 52",
+      "nama": "Lebuhraya Pesisir Pantai Iskandar",
+      "panjang_km": "23.0",
+      "menghubungkan": "Bulatan Ledang, Nusajaya–Teluk Danga",
+      "pemaju": "Pihak Berkuasa Pembangunan Wilayah Iskandar (IRDA) Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 54",
+      "nama": "Jalan Sungai Buloh",
+      "panjang_km": "",
+      "menghubungkan": "Assam Jawa–Ijok–Desa Coalfields–Paya Jaras–Bukit Rahman Putra–Sungai Buloh–Sri Damansara",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 60",
+      "nama": "Pintasan Dinding Pintasan Sitiawan",
+      "panjang_km": "",
+      "menghubungkan": "Pintasan Dinding Damar Laut–Sitiawan Pintasan Sitiawan Sitiawan–Kampung Koh",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 65",
+      "nama": "Jalan Tengku Mizan",
+      "panjang_km": "",
+      "menghubungkan": "Bulatan–Bukit Besar",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 76",
+      "nama": "Pintasan Lenggong",
+      "panjang_km": "",
+      "menghubungkan": "Lenggong (Utara)–Lenggong (Selatan)",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 78",
+      "nama": "Jalan Kuala Kedah",
+      "panjang_km": "",
+      "menghubungkan": "Alor Star–Kuala Kedah",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 92",
+      "nama": "Jalan Pengerang",
+      "panjang_km": "",
+      "menghubungkan": "Kota Tinggi–Pengerang",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 100",
+      "nama": "Pintasan Lumut",
+      "panjang_km": "",
+      "menghubungkan": "Ayer Tawar–Lumut",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 101 AH141",
+      "nama": "Pintasan Gebeng",
+      "panjang_km": "",
+      "menghubungkan": "Jabur-LPT–Gebeng",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 102",
+      "nama": "Jalan Ringlet–Sungai Koyan (Jalan Cameron Highlands-Sungai Koyan)",
+      "panjang_km": "",
+      "menghubungkan": "Ringlet–Sungai Koyan",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 103",
+      "nama": "Jalan Pelabuhan Utara",
+      "panjang_km": "",
+      "menghubungkan": "Pelabuhan Utara-Pelabuhan Klang",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 106",
+      "nama": "Jalan Ajil-Kuala Berang",
+      "panjang_km": "",
+      "menghubungkan": "Ajil–Kuala Berang",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 112",
+      "nama": "Jalan Lingkaran Langkawi",
+      "panjang_km": "",
+      "menghubungkan": "Keliling Pulau Langkawi",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 122",
+      "nama": "Jalan Ketengah",
+      "panjang_km": "",
+      "menghubungkan": "Bandar Al-Muktafi Billah Shah–Paka",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 132",
+      "nama": "Jalan Bukit Besi",
+      "panjang_km": "",
+      "menghubungkan": "Bukit Besi–Dungun",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 143",
+      "nama": "Lebuh Ayer Keroh",
+      "panjang_km": "",
+      "menghubungkan": "Persimpangan Ayer Keroh–Melaka",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 145 LP 146",
+      "nama": "Pintasan Kemaman",
+      "panjang_km": "",
+      "menghubungkan": "Kijal–Kampung Sungai Chukai",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 166",
+      "nama": "Lebuhraya Langkawi",
+      "panjang_km": "",
+      "menghubungkan": "Taman Langkawi–Kuah",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 175",
+      "nama": "Jalan Hutan Kampung",
+      "panjang_km": "",
+      "menghubungkan": "Kepala Batas–Kampung Hilir",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 177",
+      "nama": "Jalan Pelabuhan Tanjung Pelepas",
+      "panjang_km": "",
+      "menghubungkan": "Lebuhraya Laluan Kedua-Pelabuhan Tanjung Pelepas",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 180",
+      "nama": "Jalan Pelabuhan Utara-Barat",
+      "panjang_km": "",
+      "menghubungkan": "Lebuhraya Pelabuhan Utara–Teluk Gedong",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 181",
+      "nama": "Lebuhraya Pulau Indah",
+      "panjang_km": "",
+      "menghubungkan": "Pandamaran–Pelabuhan Barat, Pulau Indah",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 182",
+      "nama": "Jalan KLIA 1",
+      "panjang_km": "",
+      "menghubungkan": "Nilai–KLIA Highway–Lebuhraya KLIA",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 183",
+      "nama": "Jalan Tanjung Lumpur (Jalan Abu Bakar)",
+      "panjang_km": "",
+      "menghubungkan": "Kuantan–Jalan Pekan",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 185",
+      "nama": "Lebuhraya Timur–Barat Kedua",
+      "panjang_km": "313.6",
+      "menghubungkan": "Simpang Pulai–Kuala Jeneris",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 186",
+      "nama": "Pintasan Kangar",
+      "panjang_km": "",
+      "menghubungkan": "Kampung Behor Temak–Jalan Padang Besar",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 188",
+      "nama": "Jalan Lingkaran Dalam Johor Bahru",
+      "panjang_km": "",
+      "menghubungkan": "Laluan separa lingkaran dalam Johor Bahru Dataran Bandaraya–Stulang",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR) Majlis Bandaraya Johor Bahru (MBJB)"
+    },
+    {
+      "penanda_lebuhraya": "LP 192",
+      "nama": "Jalan Syed Abdullah Aziz (Lebuh Pantai Melaka)",
+      "panjang_km": "3.1",
+      "menghubungkan": "Bandar Hilir–Taman Kota Laksamana",
+      "pemaju": "Majlis Bandaraya Melaka Bersejarah (MBMB) Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 193",
+      "nama": "Jalan Behrang–Tanjung Malim",
+      "panjang_km": "",
+      "menghubungkan": "Behrang–Tanjung Malim",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 194",
+      "nama": "Lebuhraya Changlun–Kuala Perlis",
+      "panjang_km": "",
+      "menghubungkan": "Changlun–Kuala Perlis",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 195",
+      "nama": "Lebuhraya Seremban–Bukit Nenas",
+      "panjang_km": "",
+      "menghubungkan": "Seremban 2–Bukit Nenas",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 208",
+      "nama": "Jalan Tendong–Mulong",
+      "panjang_km": "",
+      "menghubungkan": "Tendong–Mulong",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 217",
+      "nama": "Lebuhraya Bukit Jalil (Lebuhraya Puchong–Sungai Besi)",
+      "panjang_km": "",
+      "menghubungkan": "Puchong–Sungai Besi",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 219",
+      "nama": "Jalan Sua Betong–Sunggala",
+      "panjang_km": "",
+      "menghubungkan": "Sua Betong–Sunggala",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 222 AH142",
+      "nama": "Lebuh Persiaran Tun Khalil Yaakob",
+      "panjang_km": "7.0",
+      "menghubungkan": "Persimpangan Gambang–Pekan Gambang",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 224",
+      "nama": "Pintasan Muar",
+      "panjang_km": "13.0",
+      "menghubungkan": "Parit Bunga–Parit Sakai",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 225",
+      "nama": "Jalan Lencongan Timur",
+      "panjang_km": "",
+      "menghubungkan": "Jalan Badlishah–Jalan Kampung Baru",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 228",
+      "nama": "Jalan Bukit Tagar",
+      "panjang_km": "7.0",
+      "menghubungkan": "Jalan Sungai Tengi–Persimpangan Bukit Tagar",
+      "pemaju": "Projek Lebuhraya Usahasama Berhad Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 231",
+      "nama": "Jalan Sungai Lembing",
+      "panjang_km": "",
+      "menghubungkan": "Kuantan–Sungai Lembing",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 239 LP 240",
+      "nama": "Laluan Ekspres Tempatan Ipoh Utara–Ipoh Selatan",
+      "panjang_km": "7.3",
+      "menghubungkan": "Ipoh Utara (Jelapang)–Ipoh Selatan",
+      "pemaju": "Projek Lebuhraya Usahasama Berhad Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 241",
+      "nama": "Jalan Sungai Ujong",
+      "panjang_km": "",
+      "menghubungkan": "Seremban–Seremban 2",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 242",
+      "nama": "Persiaran Senawang 1",
+      "panjang_km": "",
+      "menghubungkan": "Persimpangan LEKAS-Paroi–Senawang",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 255",
+      "nama": "Lebuhraya Sultanah Bahiyah",
+      "panjang_km": "",
+      "menghubungkan": "Persimpangan Alor Setar Utara-Persimpangan Alor Setar Selatan",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 257",
+      "nama": "Jalan Lencongan Barat",
+      "panjang_km": "",
+      "menghubungkan": "Persimpangan Sungai Petani Utara–Persimpangan Sungai Petani Selatan",
+      "pemaju": "Projek Lebuhraya Usahasama Berhad Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 258",
+      "nama": "Lebuhraya Bandar Proton",
+      "panjang_km": "",
+      "menghubungkan": "Tanjung Malim–Bandar Proton",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 321",
+      "nama": "Pintasan Bidor",
+      "panjang_km": "5.4",
+      "menghubungkan": "Pasir Pekan–Jeram Mengkuang",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 344",
+      "nama": "Jalan Kuarters KLIA",
+      "panjang_km": "",
+      "menghubungkan": "Litar Antarabangsa Sepang-Kuarters KLIA",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 399",
+      "nama": "Lebuhraya PLUS-Kulai",
+      "panjang_km": "",
+      "menghubungkan": "Persimpangan Kulai–Kulai",
+      "pemaju": "Projek Lebuhraya Usahasama Berhad Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 801",
+      "nama": "Pintasan Kuching",
+      "panjang_km": "",
+      "menghubungkan": "Penrissen–Pending",
+      "pemaju": "Majlis Bandaraya Kuching Selatan (MBKS) Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "Fail:MYS Jkr-ft900A.svg LP 900AFail:MYS Jkr-ft900B.svg LP 900BFail:MYS Jkr-ft900C.svg LP 900C",
+      "nama": "Jalan Lapangan Terbang Kuching",
+      "panjang_km": "",
+      "menghubungkan": "Bulatan Datu Bandar Mustapha–Bulatan Batu Enam",
+      "pemaju": "Majlis Bandaraya Kuching Selatan (MBKS) Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 3053",
+      "nama": "Jalan Kulim Hi-Tech(Lebuhraya Perdana)",
+      "panjang_km": "",
+      "menghubungkan": "Simpang Kulim Hi-Tech–Kelang Lama",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 3112",
+      "nama": "Jalan Perusahaan Perai",
+      "panjang_km": "",
+      "menghubungkan": "Perai–Juru",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 3113",
+      "nama": "Lebuhraya Tun Dr Lim Chong Eu",
+      "panjang_km": "",
+      "menghubungkan": "Jelutong–Batu Maung",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 3213",
+      "nama": "Persiaran Kerjaya, Glenmarie",
+      "panjang_km": "",
+      "menghubungkan": "Jalan Subang-Batu Tiga–Lebuhraya Lapangan Terbang Subang",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 3214",
+      "nama": "Jalan Subang–Batu Tiga Jalan Shah Alam–Puchong",
+      "panjang_km": "",
+      "menghubungkan": "Jalan Subang–Batu TigaSubang–Bulatan Megawati, Shah Alam Shah Alam–Puchong HighwayShah Alam–Puchong",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 3215",
+      "nama": "Jalan Seri Kembangan",
+      "panjang_km": "",
+      "menghubungkan": "Persimpangan Serdang–Seri Kembangan",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "LP 3374",
+      "nama": "Jalan Tampoi",
+      "panjang_km": "",
+      "menghubungkan": "Tampoi–Kampung Melayu Majidee",
+      "pemaju": "Majlis Bandaraya Johor Bahru (MBJB) Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "",
+      "nama": "Pintasan Kajang",
+      "panjang_km": "",
+      "menghubungkan": "Saujana Impian–Kajang Selatan",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "",
+      "nama": "Persiaran Setia Alam",
+      "panjang_km": "",
+      "menghubungkan": "Persimpangan Setia Alam–Meru",
+      "pemaju": "Projek Lebuhraya Usahasama Berhad Jabatan Kerja Raya Malaysia (JKR) SP Setia Sdn Bhd"
+    },
+    {
+      "penanda_lebuhraya": "",
+      "nama": "Lebuhraya Genting Sempah–Genting Highlands",
+      "panjang_km": "",
+      "menghubungkan": "Genting Sempah–Genting Highlands",
+      "pemaju": "ANIH Berhad Jabatan Kerja Raya Malaysia (JKR) Genting Berhad"
+    },
+    {
+      "penanda_lebuhraya": "",
+      "nama": "Jalan Bukit Payung–Telemung",
+      "panjang_km": "",
+      "menghubungkan": "Bukit Payung–Telemung–Kuala Jeneris",
+      "pemaju": "ANIH Berhad Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "",
+      "nama": "Pintasan Kerteh–Paka",
+      "panjang_km": "",
+      "menghubungkan": "Kerteh–Paka",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "",
+      "nama": "Persiaran PKFZ",
+      "panjang_km": "",
+      "menghubungkan": "Persimpangan Pelabuhan Barat–Zon Bebas Pelabuhan Klang (PKFZ)",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "",
+      "nama": "Persiaran Pulau Lumut",
+      "panjang_km": "",
+      "menghubungkan": "Persimpangan Persiaran Pulau Lumut–Zon Bebas Pelabuhan Klang (PKFZ)",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "",
+      "nama": "Pintasan Teluk Kemang",
+      "panjang_km": "",
+      "menghubungkan": "Sunggala–Pasir Panjang",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "",
+      "nama": "Lebuhraya Kota Bharu–Kuala Krai",
+      "panjang_km": "73.0",
+      "menghubungkan": "Kota Bharu–Kuala Krai",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "",
+      "nama": "Lebuhraya Pedalaman Timur Kedah (Lebuhraya TEKIH)",
+      "panjang_km": "",
+      "menghubungkan": "Durian Burung–Kupang",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "",
+      "nama": "Jalan Tun Dr Awang",
+      "panjang_km": "",
+      "menghubungkan": "Bukit Jambul–Lapangan Terbang Antarabangsa Pulau Pinang",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "",
+      "nama": "Lebuhraya Kuching–Kota Samarahan",
+      "panjang_km": "10.5",
+      "menghubungkan": "Kuching–Kota Samarahan",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    },
+    {
+      "penanda_lebuhraya": "",
+      "nama": "Jalan Matang",
+      "panjang_km": "",
+      "menghubungkan": "Kampung Stinggang–Petra Jaya, Kuching",
+      "pemaju": "Jabatan Kerja Raya Malaysia (JKR)"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Lebuh Raya di Malaysia - Muat turun percuma",
+    "description": "Senarai Lebuh Raya di Malaysia — 100 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 100 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Lebuh Raya di Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Lebuh Raya di Malaysia — 100 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 100 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_lebuh_raya_di_Malaysia"
+    ]
+  }
+}
