@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:52.104Z",
-  "total_datasets": 540,
-  "total_records": 502663,
+  "generated": "2026-10-22T04:31:52.613Z",
+  "total_datasets": 541,
+  "total_records": 503488,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -3211,6 +3211,29 @@
         "xlsx": {
           "name": "ms-kata-pinjaman-arab_MS.xlsx",
           "size": 17664
+        }
+      }
+    },
+    {
+      "id": "ms-kata-serapan-sanskrit",
+      "name": "Senarai Kata Serapan Bahasa Sanskrit dalam Bahasa Melayu",
+      "category": "language",
+      "record_count": 825,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kata_serapan_dari_bahasa_Sanskrit_dalam_bahasa_Melayu",
+      "updated": "2026-10",
+      "size": 69904,
+      "files": {
+        "csv": {
+          "name": "ms-kata-serapan-sanskrit_MS.csv",
+          "size": 30237
+        },
+        "xlsx": {
+          "name": "ms-kata-serapan-sanskrit_MS.xlsx",
+          "size": 25786
         }
       }
     },
