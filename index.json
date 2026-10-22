@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:35.537Z",
-  "total_datasets": 513,
-  "total_records": 498234,
+  "generated": "2026-10-22T04:31:36.175Z",
+  "total_datasets": 514,
+  "total_records": 498276,
   "categories": [
     {
       "id": "culture",
@@ -35,6 +35,10 @@
     {
       "id": "health",
       "dataset_count": 17
+    },
+    {
+      "id": "history",
+      "dataset_count": 1
     },
     {
       "id": "language",
@@ -2749,6 +2753,34 @@
         "xlsx": {
           "name": "ms-wp-putrajaya-fasiliti-kesihatan_MS.xlsx",
           "size": 7847
+        }
+      }
+    },
+    {
+      "id": "ms-bencana-malaysia",
+      "name": "Senarai Bencana di Malaysia mengikut Angka Kematian",
+      "category": "history",
+      "record_count": 42,
+      "columns": [
+        "bahagian",
+        "angka_kematian",
+        "tarikh",
+        "bencana",
+        "lokasi",
+        "jenis",
+        "nota"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_bencana_di_Malaysia_mengikut_angka_kematian",
+      "updated": "2026-10",
+      "size": 13696,
+      "files": {
+        "csv": {
+          "name": "ms-bencana-malaysia_MS.csv",
+          "size": 5835
+        },
+        "xlsx": {
+          "name": "ms-bencana-malaysia_MS.xlsx",
+          "size": 9934
         }
       }
     },

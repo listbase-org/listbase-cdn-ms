@@ -1,0 +1,439 @@
+{
+  "id": "ms-bencana-malaysia",
+  "name": "Senarai Bencana di Malaysia mengikut Angka Kematian",
+  "title": "Senarai Bencana di Malaysia mengikut Angka Kematian",
+  "description": "Senarai Bencana di Malaysia mengikut Angka Kematian — 42 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "history",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_bencana_di_Malaysia_mengikut_angka_kematian",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_bencana_di_Malaysia_mengikut_angka_kematian",
+  "updated": "2026-10",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "bahagian",
+      "label": "Bahagian",
+      "type": "string"
+    },
+    {
+      "key": "angka_kematian",
+      "label": "Angka Kematian",
+      "type": "string"
+    },
+    {
+      "key": "tarikh",
+      "label": "Tarikh",
+      "type": "string"
+    },
+    {
+      "key": "bencana",
+      "label": "Bencana",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "jenis",
+      "label": "Jenis",
+      "type": "string"
+    },
+    {
+      "key": "nota",
+      "label": "Nota",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bahagian": "Lebih 10,000 kematian",
+      "angka_kematian": "37,000+",
+      "tarikh": "Mac 2020–",
+      "bencana": "Pandemik COVID-19",
+      "lokasi": "Seluruh negara",
+      "jenis": "Pandemik",
+      "nota": "Masih berlaku"
+    },
+    {
+      "bahagian": "Lebih 100 kematian",
+      "angka_kematian": "298",
+      "tarikh": "17 Julai 2014",
+      "bencana": "Penerbangan 17 Penerbangan Malaysia",
+      "lokasi": "Berdekatan Hrabove, Donetsk, Ukraine",
+      "jenis": "Serangan udara",
+      "nota": "Bencana buatan manusia paling maut setakat kini"
+    },
+    {
+      "bahagian": "Lebih 100 kematian",
+      "angka_kematian": "239",
+      "tarikh": "8 Mac 2014",
+      "bencana": "Penerbangan 370 Penerbangan Malaysia",
+      "lokasi": "Selatan Lautan Hindi (disyaki)",
+      "jenis": "Kemalangan udara",
+      "nota": "Pesawat masih belum ditemui"
+    },
+    {
+      "bahagian": "Lebih 100 kematian",
+      "angka_kematian": "238",
+      "tarikh": "24–27 Disember 1997",
+      "bencana": "Ribut Tropika Greg",
+      "lokasi": "Sabah",
+      "jenis": "Ribut tropika",
+      "nota": "Bencana alam paling maut setakat kini"
+    },
+    {
+      "bahagian": "Lebih 100 kematian",
+      "angka_kematian": "196+",
+      "tarikh": "Mei 1969",
+      "bencana": "Rusuhan 13 Mei",
+      "lokasi": "Kuala Lumpur",
+      "jenis": "Rusuhan",
+      "nota": "Angka rasmi; dipertikai"
+    },
+    {
+      "bahagian": "Lebih 100 kematian",
+      "angka_kematian": "105",
+      "tarikh": "1998–1999",
+      "bencana": "Wabak virus Nipah",
+      "lokasi": "Semenanjung Malaysia",
+      "jenis": "Wabak",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "100",
+      "tarikh": "4 Disember 1977",
+      "bencana": "Penerbangan 653 Malaysia Airlines",
+      "lokasi": "Tanjung Kupang, Johor",
+      "jenis": "Rampasan pesawat",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "78+",
+      "tarikh": "2009",
+      "bencana": "Pandemik selesema babi 2009",
+      "lokasi": "Seluruh negara",
+      "jenis": "Pandemik",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "67",
+      "tarikh": "26 Disember 2004",
+      "bencana": "Gempa bumi dan tsunami Lautan Hindi 2004",
+      "lokasi": "Pantai barat Semenanjung Malaysia",
+      "jenis": "Tsunami",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "54",
+      "tarikh": "2021–2022",
+      "bencana": "Banjir Malaysia 2021–2022 / Lekukan Tropika 29W",
+      "lokasi": "Semenanjung Malaysia; terutamanya Lembah Klang",
+      "jenis": "Banjir Lekukan tropika",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "48",
+      "tarikh": "11 Disember 1993",
+      "bencana": "Tragedi Highland Towers",
+      "lokasi": "Taman Hillview, Hulu Kelang, Selangor",
+      "jenis": "Keruntuhan struktur Tanah runtuh",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "45",
+      "tarikh": "September 2018",
+      "bencana": "Kes keracunan minuman keras 2018",
+      "lokasi": "Lembah Klang serta Perak dan Negeri Sembilan",
+      "jenis": "Keracunan metanol",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "44",
+      "tarikh": "29 Ogos 1996",
+      "bencana": "Banjir lumpur Pos Dipang",
+      "lokasi": "Pos Dipang, Kampar, Perak",
+      "jenis": "Banjir",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "44",
+      "tarikh": "2017–",
+      "bencana": "Wabak penyakit anjing gila Sarawak",
+      "lokasi": "Sarawak",
+      "jenis": "Wabak",
+      "nota": "Masih berlaku"
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "42+",
+      "tarikh": "18 Oktober 1973",
+      "bencana": "Tanah runtuh Gunung Cheroh",
+      "lokasi": "Gunung Cheroh, Ipoh, Perak",
+      "jenis": "Tanah runtuh",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "37",
+      "tarikh": "21 Ogos 2013",
+      "bencana": "Kemalangan bas Genting Highlands",
+      "lokasi": "Lebuh raya Genting Sempah–Genting Highlands, Pahang",
+      "jenis": "Kemalangan jalan raya",
+      "nota": "Kemalangan jalan raya paling maut setakat kini"
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "36",
+      "tarikh": "Julai dan September 1964",
+      "bencana": "Rusuhan kaum Singapura",
+      "lokasi": "Singapura Malaysia",
+      "jenis": "Rusuhan",
+      "nota": "Julai: 23 kematian September: 13 kematian"
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "34",
+      "tarikh": "15 September 1995",
+      "bencana": "Penerbangan 2133 Malaysia Airlines",
+      "lokasi": "Lapangan Terbang Tawau, Sabah",
+      "jenis": "Kemalangan udara",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "34",
+      "tarikh": "27 September 1977",
+      "bencana": "Penerbangan 715 Penerbangan Jepun",
+      "lokasi": "Lapangan Terbang Sultan Abdul Aziz Shah, Subang, Selangor",
+      "jenis": "Kemalangan udara",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "32",
+      "tarikh": "Januari 1971",
+      "bencana": "Banjir Kuala Lumpur 1971",
+      "lokasi": "Kuala Lumpur",
+      "jenis": "Banjir",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "32",
+      "tarikh": "31 Julai 1988",
+      "bencana": "Keruntuhan jambatan terminal feri Sultan Abdul Halim",
+      "lokasi": "Butterworth, Pulau Pinang",
+      "jenis": "Keruntuhan struktur",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "31",
+      "tarikh": "16 Disember 2022",
+      "bencana": "Tanah runtuh Batang Kali 2022",
+      "lokasi": "Father's Organic Farm, Batang Kali, Selangor",
+      "jenis": "Tanah runtuh",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "28–31",
+      "tarikh": "1997",
+      "bencana": "Wabak penyakit tangan, kaki dan mulut Sarawak",
+      "lokasi": "Sarawak",
+      "jenis": "Wabak",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "27",
+      "tarikh": "22 September 1989",
+      "bencana": "Kebakaran Madrasah Taufiqiah Al-Khairiah",
+      "lokasi": "Guar Chempedak, Kedah",
+      "jenis": "Kebakaran",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "27",
+      "tarikh": "20 Disember 2010",
+      "bencana": "Kemalangan bas Cameron Highlands",
+      "lokasi": "Lebuhraya Timur–Barat Kedua, Tanah Tinggi Cameron, Pahang",
+      "jenis": "Kemalangan jalan raya",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "26",
+      "tarikh": "7 Mei 1991",
+      "bencana": "Letupan kilang mercun Bright Sparklers",
+      "lokasi": "Sungai Buloh, Selangor",
+      "jenis": "Letupan industri",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "23",
+      "tarikh": "14 September 2017",
+      "bencana": "Kebakaran Darul Quran Ittifaqiyah",
+      "lokasi": "Kampung Datuk Keramat, Kuala Lumpur",
+      "jenis": "Kebakaran sengaja",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "21",
+      "tarikh": "2014–2015",
+      "bencana": "Banjir Malaysia 2014–2015",
+      "lokasi": "Semenanjung Malaysia",
+      "jenis": "Banjir",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "21",
+      "tarikh": "30 Jun 1995",
+      "bencana": "Tanah runtuh Genting Sempah 1995",
+      "lokasi": "Genting Sempah, Pahang",
+      "jenis": "Tanah runtuh",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "20",
+      "tarikh": "13 Ogos 2007",
+      "bencana": "Kemalangan bas Bukit Gantang",
+      "lokasi": "Lebuhraya Utara-Selatan; Bukit Berapit, Bukit Gantang, Changkat Jering, Perak",
+      "jenis": "Kemalangan jalan raya",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "18",
+      "tarikh": "5 Jun 2015",
+      "bencana": "Gempa bumi Sabah 2015",
+      "lokasi": "Berdekatan Ranau, Sabah",
+      "jenis": "Gempa bumi",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "16",
+      "tarikh": "21 Mei 2011",
+      "bencana": "Tanah runtuh Hulu Langat 2011",
+      "lokasi": "Kampung Gahal, Hulu Langat, Selangor",
+      "jenis": "Tanah runtuh",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "16",
+      "tarikh": "30 Januari 1993",
+      "bencana": "Kemalangan SC-7 Skyvan Pan Malaysia Air Transport",
+      "lokasi": "Gunung Leuser, Aceh Besar, Sumatera Utara, Indonesia",
+      "jenis": "Kemalangan udara",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "15",
+      "tarikh": "28 Februari 1990",
+      "bencana": "Kemalangan trak FRU 1990",
+      "lokasi": "Lebuhraya Kuala Lumpur–Karak",
+      "jenis": "Kemalangan jalan raya",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "15",
+      "tarikh": "9 Jun 2025",
+      "bencana": "Kemalangan bas Gerik",
+      "lokasi": "Jalan Raya Timur Barat (JRTB), RPS Banun, Gerik, Perak",
+      "jenis": "Kemalangan jalan raya",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "14",
+      "tarikh": "23 November 2003",
+      "bencana": "Kemalangan bas Merapoh",
+      "lokasi": "Laluan Persekutuan Malaysia 8",
+      "jenis": "Kemalangan jalan raya",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "14",
+      "tarikh": "24 Disember 2016",
+      "bencana": "Kemalangan bas Muar",
+      "lokasi": "Lebuhraya Utara-Selatan; Muar, Johor",
+      "jenis": "Kemalangan jalan raya",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "14",
+      "tarikh": "Mei 2019",
+      "bencana": "Wabak demam campak Kuala Koh",
+      "lokasi": "Kampung Kuala Koh, Gua Musang, Kelantan",
+      "jenis": "Wabak",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "13",
+      "tarikh": "20 Disember 2015",
+      "bencana": "Kemalangan bas Doi Saket",
+      "lokasi": "Berdekatan Chiang Mai, Thailand",
+      "jenis": "Kemalangan jalan raya",
+      "nota": "Melibatkan 12 pelancong Malaysia serta jurupandu tempatan"
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "12",
+      "tarikh": "10 Oktober 2010",
+      "bencana": "Kemalangan lebuh raya Simpang Ampat",
+      "lokasi": "Lebuhraya Utara-Selatan; Simpang Ampat, Melaka",
+      "jenis": "Kemalangan jalan raya",
+      "nota": ""
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "10",
+      "tarikh": "17 Ogos 2023",
+      "bencana": "Kemalangan pesawat Elmina",
+      "lokasi": "Lebuhraya Guthrie; Elmina, Petaling, Selangor",
+      "jenis": "Kemalangan udara",
+      "nota": "Melibatkan lapan orang dalam kapal serta dua di darat"
+    },
+    {
+      "bahagian": "Lebih 10 kematian",
+      "angka_kematian": "10",
+      "tarikh": "23 April 2024",
+      "bencana": "Kemalangan helikopter Lumut",
+      "lokasi": "Lumut, Perak",
+      "jenis": "Kemalangan udara",
+      "nota": ""
+    }
+  ],
+  "meta": {
+    "title": "Senarai Bencana di Malaysia mengikut Angka Kematian - Muat turun percuma",
+    "description": "Senarai Bencana di Malaysia mengikut Angka Kematian — 42 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 42 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Bencana di Malaysia mengikut Angka Kematian | ListBase",
+    "seo_description": "Muat turun Senarai Bencana di Malaysia mengikut Angka Kematian — 42 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 42 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_bencana_di_Malaysia_mengikut_angka_kematian"
+    ]
+  }
+}
