@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:30.682Z",
-  "total_datasets": 603,
-  "total_records": 516547,
+  "generated": "2026-10-22T04:32:31.232Z",
+  "total_datasets": 604,
+  "total_records": 516639,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "entertainment",
@@ -2184,6 +2184,35 @@
         "xlsx": {
           "name": "ms-sjkc-johor_MS.xlsx",
           "size": 24250
+        }
+      }
+    },
+    {
+      "id": "ms-sjkc-kedah",
+      "name": "Senarai SJK(C) di Kedah",
+      "category": "education",
+      "record_count": 92,
+      "columns": [
+        "bahagian",
+        "kod_sekolah",
+        "lokasi",
+        "nama_sekolah_dalam_bahasa_melayu",
+        "nama_sekolah_dalam_bahasa_cina",
+        "poskod",
+        "kawasan",
+        "koordinat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Kedah",
+      "updated": "2026-10",
+      "size": 36203,
+      "files": {
+        "csv": {
+          "name": "ms-sjkc-kedah_MS.csv",
+          "size": 15039
+        },
+        "xlsx": {
+          "name": "ms-sjkc-kedah_MS.xlsx",
+          "size": 13872
         }
       }
     },
