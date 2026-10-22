@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:16.848Z",
-  "total_datasets": 581,
-  "total_records": 508957,
+  "generated": "2026-10-22T04:32:17.336Z",
+  "total_datasets": 582,
+  "total_records": 509006,
   "categories": [
     {
       "id": "culture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "health",
@@ -2601,6 +2601,32 @@
         "xlsx": {
           "name": "ms-pantai_MS.xlsx",
           "size": 17243
+        }
+      }
+    },
+    {
+      "id": "ms-perumahan-awam-brunei",
+      "name": "Senarai Kawasan Perumahan Awam di Brunei",
+      "category": "geography",
+      "record_count": 49,
+      "columns": [
+        "nama",
+        "jenis",
+        "kampung_pembahagian_negara_jika_lain",
+        "mukim",
+        "daerah"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kawasan_perumahan_awam_di_Brunei",
+      "updated": "2026-10",
+      "size": 13280,
+      "files": {
+        "csv": {
+          "name": "ms-perumahan-awam-brunei_MS.csv",
+          "size": 5465
+        },
+        "xlsx": {
+          "name": "ms-perumahan-awam-brunei_MS.xlsx",
+          "size": 8477
         }
       }
     },
