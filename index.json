@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:53.575Z",
-  "total_datasets": 543,
-  "total_records": 504077,
+  "generated": "2026-10-22T04:31:55.966Z",
+  "total_datasets": 544,
+  "total_records": 504096,
   "categories": [
     {
       "id": "culture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 102
+      "dataset_count": 103
     },
     {
       "id": "reference",
@@ -5182,6 +5182,32 @@
         "xlsx": {
           "name": "ms-kementerian-belia-dan-sukan-agensi_MS.xlsx",
           "size": 10553
+        }
+      }
+    },
+    {
+      "id": "ms-kementerian-brunei",
+      "name": "Senarai Kementerian Kerajaan Brunei",
+      "category": "politics",
+      "record_count": 19,
+      "columns": [
+        "nama",
+        "singkatan",
+        "ketua",
+        "penyandang",
+        "laman_sesawang"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kementerian_kerajaan_Brunei",
+      "updated": "2026-10",
+      "size": 5975,
+      "files": {
+        "csv": {
+          "name": "ms-kementerian-brunei_MS.csv",
+          "size": 2184
+        },
+        "xlsx": {
+          "name": "ms-kementerian-brunei_MS.xlsx",
+          "size": 7697
         }
       }
     },
