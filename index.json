@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:01.291Z",
-  "total_datasets": 555,
-  "total_records": 505952,
+  "generated": "2026-10-22T04:32:01.763Z",
+  "total_datasets": 556,
+  "total_records": 506033,
   "categories": [
     {
       "id": "culture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 60
+      "dataset_count": 61
     }
   ],
   "datasets": [
@@ -17078,6 +17078,30 @@
         "xlsx": {
           "name": "ms-ktmb-stesen_MS.xlsx",
           "size": 19300
+        }
+      }
+    },
+    {
+      "id": "ms-laluan-bas-johor-bahru",
+      "name": "Senarai Laluan Bas di Johor Bahru",
+      "category": "transport",
+      "record_count": 81,
+      "columns": [
+        "bahagian",
+        "laluan",
+        "destinasi"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_laluan_bas_di_Johor_Bahru",
+      "updated": "2026-10",
+      "size": 17886,
+      "files": {
+        "csv": {
+          "name": "ms-laluan-bas-johor-bahru_MS.csv",
+          "size": 10830
+        },
+        "xlsx": {
+          "name": "ms-laluan-bas-johor-bahru_MS.xlsx",
+          "size": 10613
         }
       }
     },
