@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:24.953Z",
-  "total_datasets": 593,
-  "total_records": 510978,
+  "generated": "2026-10-22T04:32:25.635Z",
+  "total_datasets": 594,
+  "total_records": 512967,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -1957,6 +1957,33 @@
         "xlsx": {
           "name": "ms-sekolah-menengah-brunei_MS.xlsx",
           "size": 8767
+        }
+      }
+    },
+    {
+      "id": "ms-sekolah-menengah-malaysia",
+      "name": "Senarai Sekolah Menengah di Malaysia",
+      "category": "education",
+      "record_count": 1989,
+      "columns": [
+        "bahagian",
+        "kod_sekolah",
+        "nama_sekolah",
+        "poskod",
+        "bandar",
+        "koordinat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_sekolah_menengah_di_Malaysi",
+      "updated": "2026-10",
+      "size": 513469,
+      "files": {
+        "csv": {
+          "name": "ms-sekolah-menengah-malaysia_MS.csv",
+          "size": 253073
+        },
+        "xlsx": {
+          "name": "ms-sekolah-menengah-malaysia_MS.xlsx",
+          "size": 117052
         }
       }
     },
