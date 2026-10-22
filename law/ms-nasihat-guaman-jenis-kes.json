@@ -1,0 +1,6480 @@
+{
+  "id": "ms-nasihat-guaman-jenis-kes",
+  "name": "Sesi Nasihat Undang-undang Jabatan Bantuan Guaman mengikut Jenis Kes",
+  "title": "Sesi Nasihat Undang-undang Jabatan Bantuan Guaman mengikut Jenis Kes",
+  "description": "Bilangan tahunan sesi nasihat undang-undang yang diberikan oleh Jabatan Bantuan Guaman (JBG) Malaysia mengikut cabang undang-undang (Jenayah, Sivil, Syariah), subkategori dan jenis kes khusus, serta bilangan cawangan yang mengendalikannya.",
+  "category": "law",
+  "source": "https://data.gov.my/data-catalogue/legal_advisory_case_type",
+  "source_url": "https://data.gov.my/data-catalogue/legal_advisory_case_type",
+  "updated": "2026-10",
+  "record_count": 803,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "subkategori",
+      "label": "Subkategori",
+      "type": "string"
+    },
+    {
+      "key": "jenis_kes",
+      "label": "Jenis Kes",
+      "type": "string"
+    },
+    {
+      "key": "bilangan_sesi_nasihat",
+      "label": "Bilangan Sesi Nasihat",
+      "type": "number"
+    },
+    {
+      "key": "bilangan_cawangan",
+      "label": "Bilangan Cawangan",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Penguatkuasaan Perintah Muta'ah",
+      "bilangan_sesi_nasihat": 216,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Mitigasi Pengakuan Salah",
+      "bilangan_sesi_nasihat": 135,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Jenayah Kanak-Kanak",
+      "bilangan_sesi_nasihat": 29,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kesalahan-Kesalahan Kecil",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Rayuan Jenayah",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Penguatkuasaan Perintah Muta'ah",
+      "bilangan_sesi_nasihat": 363,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan 1997",
+      "bilangan_sesi_nasihat": 200,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Jenayah)",
+      "bilangan_sesi_nasihat": 107,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya 1952",
+      "bilangan_sesi_nasihat": 76,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Komunikasi dan Multimedia 1998",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Tatacara Jenayah",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya (Perlucuthakan Harta) 1988",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Pencegahan Pengubahan Wang Haram dan Pencegahan Pembiayaan Keganasan 2001",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Antipemerdagangan Orang 2007",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya (Langkah-Langkah Pencegahan Khas) 1985",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Penagih Dadah (Rawatan dan Pemulihan) 1983",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Suruhanjaya Pencegahan Rasuah Malaysia 2009",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Keselamatan Dalam Negeri 1960",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Penguatkuasaan Perintah Muta'ah",
+      "bilangan_sesi_nasihat": 4545,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Cerai",
+      "bilangan_sesi_nasihat": 4131,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Jagaan",
+      "bilangan_sesi_nasihat": 65,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Nafkah",
+      "bilangan_sesi_nasihat": 50,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Nafkah",
+      "bilangan_sesi_nasihat": 29,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Mengubah Perintah Nafkah",
+      "bilangan_sesi_nasihat": 23,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Aset Perkahwinan",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah - Jagaan",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah - Jagaan",
+      "bilangan_sesi_nasihat": 8,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Aset Perkahwinan",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Penguatkuasaan Perintah Muta'ah",
+      "bilangan_sesi_nasihat": 1106,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Sivil)",
+      "bilangan_sesi_nasihat": 594,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Tanah",
+      "bilangan_sesi_nasihat": 241,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kontrak 1950",
+      "bilangan_sesi_nasihat": 175,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Buruh",
+      "bilangan_sesi_nasihat": 93,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kebankrapan 1967",
+      "bilangan_sesi_nasihat": 58,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Pampasan Pekerja",
+      "bilangan_sesi_nasihat": 46,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Fitnah 1957",
+      "bilangan_sesi_nasihat": 38,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Tort",
+      "bilangan_sesi_nasihat": 32,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Perbankan dan Pemindahhakan",
+      "bilangan_sesi_nasihat": 30,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Tatatertib",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Penguatkuasaan Perintah Muta'ah",
+      "bilangan_sesi_nasihat": 983,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Surat Mentadbir Harta Pusaka",
+      "bilangan_sesi_nasihat": 329,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Harta Pusaka Kecil",
+      "bilangan_sesi_nasihat": 153,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kemalangan",
+      "bilangan_sesi_nasihat": 136,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pengangkatan",
+      "bilangan_sesi_nasihat": 105,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Akta Sewa Beli",
+      "bilangan_sesi_nasihat": 95,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pemberi Pinjaman Wang",
+      "bilangan_sesi_nasihat": 72,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Tuntutan Pengguna",
+      "bilangan_sesi_nasihat": 71,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Sewaan",
+      "bilangan_sesi_nasihat": 69,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Anggapan Kematian",
+      "bilangan_sesi_nasihat": 62,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Rayuan Sivil",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Perintah Muta'ah",
+      "bilangan_sesi_nasihat": 6713,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Perceraian",
+      "bilangan_sesi_nasihat": 3584,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Hadhanah",
+      "bilangan_sesi_nasihat": 1156,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Nafkah",
+      "bilangan_sesi_nasihat": 1050,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Harta Sepencarian",
+      "bilangan_sesi_nasihat": 588,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Muta'ah",
+      "bilangan_sesi_nasihat": 292,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mengubah Perintah Nafkah Anak/Isteri/Lain-Lain",
+      "bilangan_sesi_nasihat": 147,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Penguatkuasaan Perintah Nafkah",
+      "bilangan_sesi_nasihat": 103,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan Hibah",
+      "bilangan_sesi_nasihat": 63,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mengubah Perintah Hak Jagaan Anak/Hak Lawatan",
+      "bilangan_sesi_nasihat": 53,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Jagaan/Hak Lawatan",
+      "bilangan_sesi_nasihat": 26,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Harta Sepencarian",
+      "bilangan_sesi_nasihat": 21,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Wasiat",
+      "bilangan_sesi_nasihat": 16,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Gantirugi Perkahwinan/Hutang Perkahwinan",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Gantirugi Pertunangan",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Rayuan Syariah Keluarga/Mal",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Penguatkuasaan Perintah Muta'ah",
+      "bilangan_sesi_nasihat": 152,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Mal)",
+      "bilangan_sesi_nasihat": 72,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Sijil Faraid/Akuan Pusaka",
+      "bilangan_sesi_nasihat": 41,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Sabitan Nusyuz",
+      "bilangan_sesi_nasihat": 17,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Pengesahan/Perintah Nikah",
+      "bilangan_sesi_nasihat": 13,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan/Tuntutan Kebenaran Poligami",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Jenayah Syariah",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Faraq Nikah",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2019,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Perceraian",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Mitigasi Pengakuan Salah",
+      "bilangan_sesi_nasihat": 364,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kesalahan-Kesalahan Kecil",
+      "bilangan_sesi_nasihat": 23,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Prosiding di bawah Akta Kanak-Kanak 2001",
+      "bilangan_sesi_nasihat": 21,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kesalahan Seksual Terhadap Kanak-Kanak",
+      "bilangan_sesi_nasihat": 17,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Jenayah)",
+      "bilangan_sesi_nasihat": 16,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Rayuan Jenayah",
+      "bilangan_sesi_nasihat": 15,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Tuntutan Nafkah Anak",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Tuntutan Tunggakan Nafkah Anak/Isteri/Lain-Lain",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan 1997",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan 1997",
+      "bilangan_sesi_nasihat": 279,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya 1952",
+      "bilangan_sesi_nasihat": 205,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Jenayah)",
+      "bilangan_sesi_nasihat": 140,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Pengangkutan Jalan 1987",
+      "bilangan_sesi_nasihat": 47,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Tatacara Jenayah",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Imigresen 1959/63",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Jenayah Komputer 1997",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Komunikasi dan Multimedia 1998",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Antipemerdagangan Orang 2007",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Bahan-Bahan Kakisan dan Letupan dan Senjata Berbahaya 1958",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Senjata 1960",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya (Perlucuthakan Harta) 1988",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Senjata Api (Penalti Lebih Berat) 1971",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kastam 1967",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Penagih Dadah (Rawatan dan Pemulihan) 1983",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Fasakh",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya (Langkah-Langkah Pencegahan Khas) 1985",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Hasutan 1948",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kesalahan Keselamatan (Langkah-Langkah Khas) 2012",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Cerai",
+      "bilangan_sesi_nasihat": 6809,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Jagaan",
+      "bilangan_sesi_nasihat": 89,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Nafkah",
+      "bilangan_sesi_nasihat": 65,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Nafkah",
+      "bilangan_sesi_nasihat": 42,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah - Jagaan",
+      "bilangan_sesi_nasihat": 20,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Mengubah Perintah Nafkah",
+      "bilangan_sesi_nasihat": 14,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Aset Perkahwinan",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah - Jagaan",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Tuntutan Nafkah Anak",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Aset Perkahwinan",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Sivil)",
+      "bilangan_sesi_nasihat": 806,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Tanah",
+      "bilangan_sesi_nasihat": 299,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kontrak 1950",
+      "bilangan_sesi_nasihat": 230,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Buruh",
+      "bilangan_sesi_nasihat": 150,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Pampasan Pekerja",
+      "bilangan_sesi_nasihat": 93,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Perumahan",
+      "bilangan_sesi_nasihat": 84,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Fitnah 1957",
+      "bilangan_sesi_nasihat": 72,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kebankrapan 1967",
+      "bilangan_sesi_nasihat": 63,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Tort",
+      "bilangan_sesi_nasihat": 36,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Tatatertib",
+      "bilangan_sesi_nasihat": 18,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Perbankan dan Pemindahhakan",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Surat Tadbir Pusaka/Probet",
+      "bilangan_sesi_nasihat": 512,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Harta Pusaka Kecil",
+      "bilangan_sesi_nasihat": 227,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kemalangan",
+      "bilangan_sesi_nasihat": 184,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pengangkatan",
+      "bilangan_sesi_nasihat": 130,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Sewaan",
+      "bilangan_sesi_nasihat": 111,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pemberi Pinjaman Wang",
+      "bilangan_sesi_nasihat": 103,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Akta Sewa Beli",
+      "bilangan_sesi_nasihat": 70,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Tuntutan Pengguna",
+      "bilangan_sesi_nasihat": 65,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Anggapan Kematian",
+      "bilangan_sesi_nasihat": 61,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Rayuan Sivil",
+      "bilangan_sesi_nasihat": 15,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Fasakh",
+      "bilangan_sesi_nasihat": 3258,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Hadhanah",
+      "bilangan_sesi_nasihat": 1596,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pengesahan Cerai Taklik",
+      "bilangan_sesi_nasihat": 1260,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Anak",
+      "bilangan_sesi_nasihat": 1088,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Harta Sepencarian",
+      "bilangan_sesi_nasihat": 937,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Cerai S47",
+      "bilangan_sesi_nasihat": 801,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Muta'ah",
+      "bilangan_sesi_nasihat": 433,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Eddah",
+      "bilangan_sesi_nasihat": 323,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pengesahan Lafaz Cerai",
+      "bilangan_sesi_nasihat": 272,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mengubah Perintah Nafkah Anak/Isteri/Lain-Lain",
+      "bilangan_sesi_nasihat": 198,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Isteri",
+      "bilangan_sesi_nasihat": 173,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mengubah Perintah Hak Jagaan Anak/Hak Lawatan",
+      "bilangan_sesi_nasihat": 113,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Tunggakan Nafkah Anak/Isteri/Lain-Lain",
+      "bilangan_sesi_nasihat": 98,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Lain-Lain (Mal)",
+      "bilangan_sesi_nasihat": 91,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan Hibah",
+      "bilangan_sesi_nasihat": 84,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Penguatkuasaan Perintah Nafkah",
+      "bilangan_sesi_nasihat": 75,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Harta Sepencarian",
+      "bilangan_sesi_nasihat": 46,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Khuluk/Tebus Talaq",
+      "bilangan_sesi_nasihat": 42,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Gantirugi Perkahwinan/Hutang Perkahwinan",
+      "bilangan_sesi_nasihat": 38,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Rayuan Syariah Keluarga/Mal",
+      "bilangan_sesi_nasihat": 23,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Wasiat",
+      "bilangan_sesi_nasihat": 19,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Gantirugi Pertunangan",
+      "bilangan_sesi_nasihat": 13,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Perintah Muta'ah",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Li'an",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Semakan Syariah Keluarga/Mal",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan/Tuntutan Kebenaran Poligami",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Sijil Faraid/Akuan Pusaka",
+      "bilangan_sesi_nasihat": 70,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Sabitan Nusyuz",
+      "bilangan_sesi_nasihat": 58,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Mal)",
+      "bilangan_sesi_nasihat": 57,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Pengesahan Cerai Taklik",
+      "bilangan_sesi_nasihat": 52,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Pengesahan/Perintah Nikah",
+      "bilangan_sesi_nasihat": 25,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Cerai S47",
+      "bilangan_sesi_nasihat": 24,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Hadhanah",
+      "bilangan_sesi_nasihat": 22,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan/Tuntutan Kebenaran Poligami",
+      "bilangan_sesi_nasihat": 19,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Harta Sepencarian",
+      "bilangan_sesi_nasihat": 17,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Nafkah Anak",
+      "bilangan_sesi_nasihat": 17,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Jenayah Syariah",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Nafkah Eddah",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Pengesahan Lafaz Cerai",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Faraq Nikah",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Fasakh",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Nafkah Isteri",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Mengubah Perintah Hak Jagaan Anak/Hak Lawatan",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Pengesahan Hibah",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Penguatkuasaan Perintah Nafkah",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Mengubah Perintah Nafkah Anak/Isteri/Lain-Lain",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Rayuan (Jenayah Syariah)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Muta'ah",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2020,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Wasiat",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Mitigasi Pengakuan Salah",
+      "bilangan_sesi_nasihat": 257,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kesalahan Seksual Terhadap Kanak-Kanak",
+      "bilangan_sesi_nasihat": 41,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Rayuan Jenayah",
+      "bilangan_sesi_nasihat": 16,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Prosiding di bawah Akta Kanak-Kanak 2001",
+      "bilangan_sesi_nasihat": 14,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kesalahan-Kesalahan Kecil",
+      "bilangan_sesi_nasihat": 8,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan 1997",
+      "bilangan_sesi_nasihat": 271,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Jenayah)",
+      "bilangan_sesi_nasihat": 156,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya 1952",
+      "bilangan_sesi_nasihat": 148,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Pengangkutan Jalan 1987",
+      "bilangan_sesi_nasihat": 40,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Komunikasi dan Multimedia 1998",
+      "bilangan_sesi_nasihat": 12,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Pencegahan Pengubahan Wang Haram dan Pencegahan Pembiayaan Keganasan 2001",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Tatacara Jenayah",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Antipemerdagangan Orang 2007",
+      "bilangan_sesi_nasihat": 8,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998",
+      "bilangan_sesi_nasihat": 8,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kastam 1967",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Imigresen 1959/63",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Senjata 1960",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya (Perlucuthakan Harta) 1988",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Suruhanjaya Pencegahan Rasuah Malaysia 2009",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Bahan Letupan 1957",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Jenayah Komputer 1997",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kesalahan Keselamatan (Langkah-Langkah Khas) 2012",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Cerai",
+      "bilangan_sesi_nasihat": 6412,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Jagaan",
+      "bilangan_sesi_nasihat": 230,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Nafkah",
+      "bilangan_sesi_nasihat": 82,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Nafkah",
+      "bilangan_sesi_nasihat": 73,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Aset Perkahwinan",
+      "bilangan_sesi_nasihat": 25,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Mengubah Perintah Nafkah",
+      "bilangan_sesi_nasihat": 17,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah - Jagaan",
+      "bilangan_sesi_nasihat": 17,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah - Jagaan",
+      "bilangan_sesi_nasihat": 12,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Aset Perkahwinan",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Sivil)",
+      "bilangan_sesi_nasihat": 773,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Tanah",
+      "bilangan_sesi_nasihat": 277,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kontrak 1950",
+      "bilangan_sesi_nasihat": 168,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Buruh",
+      "bilangan_sesi_nasihat": 164,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Perumahan",
+      "bilangan_sesi_nasihat": 105,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Pampasan Pekerja",
+      "bilangan_sesi_nasihat": 104,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Fitnah 1957",
+      "bilangan_sesi_nasihat": 94,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kebankrapan 1967",
+      "bilangan_sesi_nasihat": 54,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Tort",
+      "bilangan_sesi_nasihat": 43,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Perbankan dan Pemindahhakan",
+      "bilangan_sesi_nasihat": 24,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Tatatertib",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Surat Tadbir Pusaka/Probet",
+      "bilangan_sesi_nasihat": 642,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Harta Pusaka Kecil",
+      "bilangan_sesi_nasihat": 203,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kemalangan",
+      "bilangan_sesi_nasihat": 148,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pengangkatan",
+      "bilangan_sesi_nasihat": 119,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Sewaan",
+      "bilangan_sesi_nasihat": 119,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pemberi Pinjaman Wang",
+      "bilangan_sesi_nasihat": 106,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Tuntutan Pengguna",
+      "bilangan_sesi_nasihat": 92,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Akta Sewa Beli",
+      "bilangan_sesi_nasihat": 64,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Anggapan Kematian",
+      "bilangan_sesi_nasihat": 59,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Rayuan Sivil",
+      "bilangan_sesi_nasihat": 14,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Fasakh",
+      "bilangan_sesi_nasihat": 2796,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Hadhanah",
+      "bilangan_sesi_nasihat": 1661,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pengesahan Cerai Taklik",
+      "bilangan_sesi_nasihat": 1279,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Anak",
+      "bilangan_sesi_nasihat": 1206,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Cerai S47",
+      "bilangan_sesi_nasihat": 989,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Harta Sepencarian",
+      "bilangan_sesi_nasihat": 774,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Muta'ah",
+      "bilangan_sesi_nasihat": 502,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Eddah",
+      "bilangan_sesi_nasihat": 386,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pengesahan Lafaz Cerai",
+      "bilangan_sesi_nasihat": 372,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Tunggakan Nafkah Anak/Isteri/Lain-Lain",
+      "bilangan_sesi_nasihat": 211,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mengubah Perintah Nafkah Anak/Isteri/Lain-Lain",
+      "bilangan_sesi_nasihat": 148,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Isteri",
+      "bilangan_sesi_nasihat": 146,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mengubah Perintah Hak Jagaan Anak/Hak Lawatan",
+      "bilangan_sesi_nasihat": 138,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Lain-Lain (Mal)",
+      "bilangan_sesi_nasihat": 125,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan Hibah",
+      "bilangan_sesi_nasihat": 97,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Harta Sepencarian",
+      "bilangan_sesi_nasihat": 66,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Penguatkuasaan Perintah Nafkah",
+      "bilangan_sesi_nasihat": 62,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Gantirugi Perkahwinan/Hutang Perkahwinan",
+      "bilangan_sesi_nasihat": 55,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Jagaan/Hak Lawatan",
+      "bilangan_sesi_nasihat": 32,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Rayuan Syariah Keluarga/Mal",
+      "bilangan_sesi_nasihat": 25,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Khuluk/Tebus Talaq",
+      "bilangan_sesi_nasihat": 15,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Perintah Muta'ah",
+      "bilangan_sesi_nasihat": 13,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Wasiat",
+      "bilangan_sesi_nasihat": 13,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Gantirugi Pertunangan",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Semakan Syariah Keluarga/Mal",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Li'an",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Sijil Faraid/Akuan Pusaka",
+      "bilangan_sesi_nasihat": 102,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Sabitan Nusyuz",
+      "bilangan_sesi_nasihat": 77,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Mal)",
+      "bilangan_sesi_nasihat": 74,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Pengesahan/Perintah Nikah",
+      "bilangan_sesi_nasihat": 38,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan/Tuntutan Kebenaran Poligami",
+      "bilangan_sesi_nasihat": 22,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Jenayah Syariah",
+      "bilangan_sesi_nasihat": 16,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2021,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Faraq Nikah",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Mitigasi Pengakuan Salah",
+      "bilangan_sesi_nasihat": 479,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan 1997",
+      "bilangan_sesi_nasihat": 143,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Jenayah Kanak-Kanak",
+      "bilangan_sesi_nasihat": 36,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kesalahan-Kesalahan Kecil",
+      "bilangan_sesi_nasihat": 12,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Jenayah)",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya 1952",
+      "bilangan_sesi_nasihat": 2035,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Jenayah)",
+      "bilangan_sesi_nasihat": 187,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan (Lain-Lain)",
+      "bilangan_sesi_nasihat": 68,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Merogol (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 42,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Mencederakan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 38,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Antipemerdagangan Orang 2007",
+      "bilangan_sesi_nasihat": 21,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Menipu (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 20,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Rayuan Jenayah",
+      "bilangan_sesi_nasihat": 18,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Rompakan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 17,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Amang/Assault (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 12,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Mencuri (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Tidak Dinyatakan",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Bahan-Bahan Kakisan dan Letupan dan Senjata Berbahaya 1958",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya (Perlucuthakan Harta) 1988",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kekerasan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Ugutan Jenayah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Pencegahan Pengubahan Wang Haram dan Pencegahan Pembiayaan Keganasan 2001",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Tatacara Jenayah",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Sumbang Mahram (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Senjata 1960",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Membunuh (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Pecah Amanah Jenayah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Peras Ugut (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Hasutan 1948",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Komunikasi dan Multimedia 1998",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Senjata Api (Penalti Lebih Berat) 1971",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Suruhanjaya Pencegahan Rasuah Malaysia 2009",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Bahan Letupan 1957",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Penagih Dadah (Rawatan dan Pemulihan) 1983",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Penculikan 1961",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kes Pengecualian Menteri",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Menerima Harta Curi (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Pecah Rumah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Jenayah",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Tidak Dinyatakan",
+      "bilangan_sesi_nasihat": 580,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Cerai",
+      "bilangan_sesi_nasihat": 6556,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Jagaan",
+      "bilangan_sesi_nasihat": 306,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Tuntutan Nafkah Anak",
+      "bilangan_sesi_nasihat": 129,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Tuntutan Nafkah Isteri",
+      "bilangan_sesi_nasihat": 48,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Nafkah Anak",
+      "bilangan_sesi_nasihat": 36,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah - Jagaan",
+      "bilangan_sesi_nasihat": 32,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah - Jagaan",
+      "bilangan_sesi_nasihat": 19,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Nafkah Anak dan Isteri",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Tuntutan Nafkah Anak dan Isteri",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah Nafkah Anak",
+      "bilangan_sesi_nasihat": 8,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Nafkah Isteri",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah Nafkah Anak dan Isteri",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah Nafkah Isteri",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Sivil)",
+      "bilangan_sesi_nasihat": 1050,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kontrak 1950",
+      "bilangan_sesi_nasihat": 211,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Tanah",
+      "bilangan_sesi_nasihat": 173,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kerja 1955",
+      "bilangan_sesi_nasihat": 108,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Tort",
+      "bilangan_sesi_nasihat": 88,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Fitnah 1957",
+      "bilangan_sesi_nasihat": 83,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kebankrapan 1967",
+      "bilangan_sesi_nasihat": 78,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Perhubungan Perusahaan 1967",
+      "bilangan_sesi_nasihat": 27,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Kuatkuasa Award Tribunal/Tuntutan Pembeli Rumah",
+      "bilangan_sesi_nasihat": 24,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Rayuan Sivil",
+      "bilangan_sesi_nasihat": 24,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Tatatertib",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Keselamatan Sosial Pekerja 1969",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Perkhidmatan Kewangan 2013",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan (Lain-Lain)",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Jenayah)",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya 1952",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan 1997",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Seksyen 105 Akta Insolvensi 2017",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kesatuan Sekerja 1959",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Deklarasi Perkahwinan (Seksyen 33 Akta Membaharui Undang-Undang (Perkahwinan & Perceraian) 1976)",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Semakan Sivil",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Amang/Assault (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Kuatkuasa Perintah - Pemecahan Kontrak",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Mencederakan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Antipemerdagangan Orang 2007",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Seksyen 58 Akta Kesihatan Mental 2001",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya (Langkah-Langkah Pencegahan Khas) 1985",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Jenayah Kanak-Kanak",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Mencuri (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Menipu (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Rayuan Jenayah",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Rompakan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Sah Taraf Anak (Akta Kesahtarafan 1961)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Ugutan Jenayah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Surat Mentadbir Harta Pusaka",
+      "bilangan_sesi_nasihat": 610,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Harta Pusaka Kecil",
+      "bilangan_sesi_nasihat": 264,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Perihal Tanah",
+      "bilangan_sesi_nasihat": 207,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kemalangan",
+      "bilangan_sesi_nasihat": 204,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pengangkatan",
+      "bilangan_sesi_nasihat": 134,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Sewaan",
+      "bilangan_sesi_nasihat": 124,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Anggapan Kematian",
+      "bilangan_sesi_nasihat": 82,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pemecahan Kontrak",
+      "bilangan_sesi_nasihat": 69,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Tuntutan Pengguna",
+      "bilangan_sesi_nasihat": 58,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pampasan Pekerja",
+      "bilangan_sesi_nasihat": 56,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Akta Sewa Beli",
+      "bilangan_sesi_nasihat": 54,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Probet",
+      "bilangan_sesi_nasihat": 47,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pemberi Pinjaman Wang",
+      "bilangan_sesi_nasihat": 41,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Jual Beli",
+      "bilangan_sesi_nasihat": 31,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Perbankan",
+      "bilangan_sesi_nasihat": 27,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah Harta Sepencarian",
+      "bilangan_sesi_nasihat": 24,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Perihal Wasiat",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Undang-Undang Syarikat",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Tuntutan Pengguna",
+      "bilangan_sesi_nasihat": 8,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Surat Mentadbir Pusaka",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Harta Pusaka Kecil",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Pampasan Pekerja",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Pinjaman Wang",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Mitigasi Pengakuan Salah",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Sewa Menyewa",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Undang-Undang Perkongsian",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Akta Pendaftaran Pengangkatan 1952 (Akta 253)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Harta Intelek",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Tidak Dinyatakan",
+      "bilangan_sesi_nasihat": 3403,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Sivil",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Akta Pendaftaran Pengangkatan 1952 (Akta 253)",
+      "bilangan_sesi_nasihat": 23,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Fasakh",
+      "bilangan_sesi_nasihat": 3460,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Hadhanah",
+      "bilangan_sesi_nasihat": 2264,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Anak",
+      "bilangan_sesi_nasihat": 1709,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Perceraian",
+      "bilangan_sesi_nasihat": 1334,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pengesahan Cerai Taklik",
+      "bilangan_sesi_nasihat": 1098,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Harta Sepencarian",
+      "bilangan_sesi_nasihat": 991,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Muta'ah",
+      "bilangan_sesi_nasihat": 746,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Eddah",
+      "bilangan_sesi_nasihat": 624,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pengesahan Lafaz Cerai",
+      "bilangan_sesi_nasihat": 356,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Tunggakan Nafkah Anak/Isteri/Lain-Lain",
+      "bilangan_sesi_nasihat": 266,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Lain-Lain (Mal)",
+      "bilangan_sesi_nasihat": 230,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mengubah Perintah Nafkah Anak/Isteri/Lain-Lain",
+      "bilangan_sesi_nasihat": 211,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Isteri",
+      "bilangan_sesi_nasihat": 149,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mengubah Perintah Hak Jagaan Anak/Hak Lawatan",
+      "bilangan_sesi_nasihat": 133,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Gantirugi Perkahwinan/Hutang Perkahwinan",
+      "bilangan_sesi_nasihat": 108,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan Hibah",
+      "bilangan_sesi_nasihat": 94,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Sabitan Nusyuz",
+      "bilangan_sesi_nasihat": 80,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Penguatkuasaan Perintah Nafkah",
+      "bilangan_sesi_nasihat": 62,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Harta Sepencarian",
+      "bilangan_sesi_nasihat": 59,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Isteri Kembali Taat",
+      "bilangan_sesi_nasihat": 41,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan/Perintah Nikah",
+      "bilangan_sesi_nasihat": 35,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Rayuan Syariah Keluarga/Mal",
+      "bilangan_sesi_nasihat": 30,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Jagaan/Hak Lawatan",
+      "bilangan_sesi_nasihat": 29,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pengesahan Sabitan Nasab/Ahli Waris",
+      "bilangan_sesi_nasihat": 20,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Perintah Muta'ah",
+      "bilangan_sesi_nasihat": 18,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan Wasiat",
+      "bilangan_sesi_nasihat": 16,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Wali Hakim/Am",
+      "bilangan_sesi_nasihat": 15,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan/Tuntutan Kebenaran Poligami",
+      "bilangan_sesi_nasihat": 15,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan Rujuk",
+      "bilangan_sesi_nasihat": 12,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Khuluk/Tebus Talaq",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Semakan Syariah Keluarga/Mal",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Perintah Daftar Nikah Poligami",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Gantirugi Pertunangan",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Membatalkan Perintah Nafkah Anak/Isteri",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Li'an",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Wali Enggan/Engkar",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Faraq Nikah",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Anak Tak Sah Taraf",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Penjaga Diri/Harta/Anak Yatim",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mas Kahwin",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Wasiat",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pemecatan Penjaga Kanak-Kanak",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Perintah Supaya Suami Tinggal Bersama Semula",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Sijil Faraid/Akuan Pusaka",
+      "bilangan_sesi_nasihat": 80,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Khalwat",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Mengingkari Perintah Mahkamah",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Rayuan (Jenayah Syariah)",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Pemujaan Salah",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Pelantikan Pentadbir Harta",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Semakan (Jenayah Syariah)",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2022,
+      "kategori": "Syariah",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Tidak Dinyatakan",
+      "bilangan_sesi_nasihat": 2943,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Mitigasi Pengakuan Salah",
+      "bilangan_sesi_nasihat": 838,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan 1997",
+      "bilangan_sesi_nasihat": 179,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Jenayah Kanak-Kanak",
+      "bilangan_sesi_nasihat": 63,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kesalahan-Kesalahan Kecil",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kemalangan",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya 1952",
+      "bilangan_sesi_nasihat": 2149,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Jenayah)",
+      "bilangan_sesi_nasihat": 236,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan (Lain-Lain)",
+      "bilangan_sesi_nasihat": 94,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Rayuan Jenayah",
+      "bilangan_sesi_nasihat": 77,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Merogol (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 57,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Mencederakan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 49,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Antipemerdagangan Orang 2007",
+      "bilangan_sesi_nasihat": 38,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Menipu (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 34,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Mencuri (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 28,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Amang/Assault (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 23,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kekerasan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya (Langkah-Langkah Pencegahan Khas) 1985",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Suruhanjaya Pencegahan Rasuah Malaysia 2009",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Membunuh (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 8,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Menerima Harta Curi (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Pecah Amanah Jenayah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Ugutan Jenayah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya (Perlucuthakan Harta) 1988",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Komunikasi dan Multimedia 1998",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Peras Ugut (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Rompakan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Hasutan 1948",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Tatacara Jenayah",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Bahan-Bahan Kakisan dan Letupan dan Senjata Berbahaya 1958",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Pencegahan Pengubahan Wang Haram dan Pencegahan Pembiayaan Keganasan 2001",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Senjata Api (Penalti Lebih Berat) 1971",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Sivil)",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Pecah Rumah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Bahan Letupan 1957",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Bantuan Bersama Dalam Perkara Jenayah 2002",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Jenayah Komputer 1997",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Penagih Dadah (Rawatan dan Pemulihan) 1983",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Penculikan 1961",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Senjata 1960",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Melarikan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Membunuh Anak (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Sumbang Mahram (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Jenayah",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Tidak Dinyatakan",
+      "bilangan_sesi_nasihat": 186,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Cerai",
+      "bilangan_sesi_nasihat": 7781,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Jagaan",
+      "bilangan_sesi_nasihat": 384,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Tuntutan Nafkah Anak",
+      "bilangan_sesi_nasihat": 101,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Nafkah Anak",
+      "bilangan_sesi_nasihat": 70,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah - Jagaan",
+      "bilangan_sesi_nasihat": 36,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah - Jagaan",
+      "bilangan_sesi_nasihat": 22,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Tuntutan Nafkah Anak dan Isteri",
+      "bilangan_sesi_nasihat": 22,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Nafkah Isteri",
+      "bilangan_sesi_nasihat": 19,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Nafkah Anak dan Isteri",
+      "bilangan_sesi_nasihat": 15,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Tuntutan Nafkah Isteri",
+      "bilangan_sesi_nasihat": 13,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah Nafkah Anak",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah Nafkah Anak dan Isteri",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah Nafkah Isteri",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Kemalangan",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Lain-Lain (Mal)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Tuntutan Perceraian",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Sivil)",
+      "bilangan_sesi_nasihat": 1634,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kontrak 1950",
+      "bilangan_sesi_nasihat": 482,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kerja 1955",
+      "bilangan_sesi_nasihat": 176,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Tanah",
+      "bilangan_sesi_nasihat": 176,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Fitnah 1957",
+      "bilangan_sesi_nasihat": 148,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Tort",
+      "bilangan_sesi_nasihat": 144,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kebankrapan 1967",
+      "bilangan_sesi_nasihat": 126,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Rayuan Sivil",
+      "bilangan_sesi_nasihat": 49,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Saman Penghutang Penghakiman",
+      "bilangan_sesi_nasihat": 31,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Pendaftaran Pengangkatan 1952 (Akta 253)",
+      "bilangan_sesi_nasihat": 30,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Perhubungan Perusahaan 1967",
+      "bilangan_sesi_nasihat": 29,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Tatatertib",
+      "bilangan_sesi_nasihat": 21,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Deklarasi Perkahwinan (Seksyen 33 Akta Membaharui Undang-Undang (Perkahwinan & Perceraian) 1976)",
+      "bilangan_sesi_nasihat": 20,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Kuatkuasa Award Tribunal/Tuntutan Pembeli Rumah",
+      "bilangan_sesi_nasihat": 20,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Keselamatan Sosial Pekerja 1969",
+      "bilangan_sesi_nasihat": 17,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Perkhidmatan Kewangan 2013",
+      "bilangan_sesi_nasihat": 17,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Jenayah)",
+      "bilangan_sesi_nasihat": 15,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Sijil Faraid/Akuan Pusaka",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kesatuan Sekerja 1959",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Semakan Sivil",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya 1952",
+      "bilangan_sesi_nasihat": 8,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Seksyen 105 Akta Insolvensi 2017",
+      "bilangan_sesi_nasihat": 8,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Kuatkuasa Perintah - Pemecahan Kontrak",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan (Lain-Lain)",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Seksyen 58 Akta Kesihatan Mental 2001",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Mencederakan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Menipu (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Merogol (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Komunikasi dan Multimedia 1998",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Pecah Amanah Jenayah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Sah Taraf Anak (Akta Kesahtarafan 1961)",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Ugutan Jenayah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya (Perlucuthakan Harta) 1988",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Jenayah Komputer 1997",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Perkhidmatan Kewangan Islam 2013",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Amang/Assault (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Mencuri (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Pelantikan Pentadbir Harta",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Peras Ugut (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Rayuan Jenayah",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Rompakan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Surat Mentadbir Harta Pusaka",
+      "bilangan_sesi_nasihat": 995,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Harta Pusaka Kecil",
+      "bilangan_sesi_nasihat": 372,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Perihal Tanah",
+      "bilangan_sesi_nasihat": 339,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kemalangan",
+      "bilangan_sesi_nasihat": 314,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Sewaan",
+      "bilangan_sesi_nasihat": 199,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pengangkatan",
+      "bilangan_sesi_nasihat": 152,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Anggapan Kematian",
+      "bilangan_sesi_nasihat": 148,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pemecahan Kontrak",
+      "bilangan_sesi_nasihat": 100,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Akta Sewa Beli",
+      "bilangan_sesi_nasihat": 87,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Tuntutan Pengguna",
+      "bilangan_sesi_nasihat": 81,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Probet",
+      "bilangan_sesi_nasihat": 76,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pampasan Pekerja",
+      "bilangan_sesi_nasihat": 61,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Jual Beli",
+      "bilangan_sesi_nasihat": 55,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pemberi Pinjaman Wang",
+      "bilangan_sesi_nasihat": 54,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Perbankan",
+      "bilangan_sesi_nasihat": 41,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Undang-Undang Syarikat",
+      "bilangan_sesi_nasihat": 22,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Tuntutan Pengguna",
+      "bilangan_sesi_nasihat": 17,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah Harta Sepencarian",
+      "bilangan_sesi_nasihat": 17,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Pampasan Pekerja",
+      "bilangan_sesi_nasihat": 13,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Perihal Wasiat",
+      "bilangan_sesi_nasihat": 13,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Pinjaman Wang",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Harta Intelek",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kanun Keseksaan 1997",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Sewa Menyewa",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Surat Mentadbir Pusaka",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Akta Sewa Beli",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Jenayah Kanak-Kanak",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kesalahan-Kesalahan Kecil",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Harta Pusaka Kecil",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah Kemalangan",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Mitigasi Pengakuan Salah",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Undang-Undang Perkongsian",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Akta Penanam Padi",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Sivil",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Tidak Dinyatakan",
+      "bilangan_sesi_nasihat": 833,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Fasakh",
+      "bilangan_sesi_nasihat": 3211,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Hadhanah",
+      "bilangan_sesi_nasihat": 2910,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Anak",
+      "bilangan_sesi_nasihat": 2505,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Perceraian",
+      "bilangan_sesi_nasihat": 1760,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Harta Sepencarian",
+      "bilangan_sesi_nasihat": 1415,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Muta'ah",
+      "bilangan_sesi_nasihat": 1235,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pengesahan Cerai Taklik",
+      "bilangan_sesi_nasihat": 1223,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Eddah",
+      "bilangan_sesi_nasihat": 900,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pengesahan Lafaz Cerai",
+      "bilangan_sesi_nasihat": 425,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Tunggakan Nafkah Anak/Isteri/Lain-Lain",
+      "bilangan_sesi_nasihat": 377,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mengubah Perintah Nafkah Anak/Isteri/Lain-Lain",
+      "bilangan_sesi_nasihat": 342,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mengubah Perintah Hak Jagaan Anak/Hak Lawatan",
+      "bilangan_sesi_nasihat": 248,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Isteri",
+      "bilangan_sesi_nasihat": 248,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Lain-Lain (Mal)",
+      "bilangan_sesi_nasihat": 218,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Sabitan Nusyuz",
+      "bilangan_sesi_nasihat": 197,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Gantirugi Perkahwinan/Hutang Perkahwinan",
+      "bilangan_sesi_nasihat": 192,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan Hibah",
+      "bilangan_sesi_nasihat": 127,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Harta Sepencarian",
+      "bilangan_sesi_nasihat": 96,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Jagaan/Hak Lawatan",
+      "bilangan_sesi_nasihat": 81,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Penguatkuasaan Perintah Nafkah",
+      "bilangan_sesi_nasihat": 70,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan/Perintah Nikah",
+      "bilangan_sesi_nasihat": 51,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Isteri Kembali Taat",
+      "bilangan_sesi_nasihat": 47,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Rayuan Syariah Keluarga/Mal",
+      "bilangan_sesi_nasihat": 36,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan/Tuntutan Kebenaran Poligami",
+      "bilangan_sesi_nasihat": 22,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Hak Penjagaan Anak Tak Sah Taraf",
+      "bilangan_sesi_nasihat": 22,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Perintah Muta'ah",
+      "bilangan_sesi_nasihat": 18,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan Wasiat",
+      "bilangan_sesi_nasihat": 17,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Gantirugi Pertunangan",
+      "bilangan_sesi_nasihat": 17,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan Rujuk",
+      "bilangan_sesi_nasihat": 16,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Wali Hakim/Am",
+      "bilangan_sesi_nasihat": 15,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pengesahan Sabitan Nasab/Ahli Waris",
+      "bilangan_sesi_nasihat": 15,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Khuluk/Tebus Talaq",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Semakan Syariah Keluarga/Mal",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Membatalkan Perintah Nafkah Anak/Isteri",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Anak Tak Sah Taraf",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Wali Enggan/Engkar",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Faraq Nikah",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Penjaga Diri/Harta/Anak Yatim",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Li'an",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Perintah Supaya Suami Tinggal Bersama Semula",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Wasiat",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Perintah Daftar Nikah Poligami",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mas Kahwin",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Ila'",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Sijil Faraid/Akuan Pusaka",
+      "bilangan_sesi_nasihat": 135,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Semakan (Jenayah Syariah)",
+      "bilangan_sesi_nasihat": 15,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Khalwat",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Pelantikan Pentadbir Harta",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Rayuan (Jenayah Syariah)",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Mengingkari Perintah Mahkamah",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Saman Penghutang Penghakiman",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Tuntutan Pengesahan Waqaf",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2023,
+      "kategori": "Syariah",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Tidak Dinyatakan",
+      "bilangan_sesi_nasihat": 1165,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Mitigasi Pengakuan Salah",
+      "bilangan_sesi_nasihat": 756,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan 1997",
+      "bilangan_sesi_nasihat": 169,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Jenayah Kanak-Kanak",
+      "bilangan_sesi_nasihat": 66,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kesalahan-Kesalahan Kecil",
+      "bilangan_sesi_nasihat": 8,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Bidang Kuasa",
+      "jenis_kes": "Kemalangan",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya 1952",
+      "bilangan_sesi_nasihat": 1609,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Jenayah)",
+      "bilangan_sesi_nasihat": 173,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan (Lain-Lain)",
+      "bilangan_sesi_nasihat": 68,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Merogol (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 47,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Mencederakan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 39,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Amang/Assault (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 29,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Rayuan Jenayah",
+      "bilangan_sesi_nasihat": 20,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Menipu (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 14,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Ugutan Jenayah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 14,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Mencuri (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 12,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Rompakan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Antipemerdagangan Orang 2007",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya (Perlucuthakan Harta) 1988",
+      "bilangan_sesi_nasihat": 8,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Tatacara Jenayah",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Bahan-Bahan Kakisan dan Letupan dan Senjata Berbahaya 1958",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya (Langkah-Langkah Pencegahan Khas) 1985",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Menerima Harta Curi (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Kekerasan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Pecah Amanah Jenayah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Hasutan 1948",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Pecah Rumah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Peras Ugut (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Penagih Dadah (Rawatan dan Pemulihan) 1983",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Membunuh (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Jenayah Komputer 1997",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Komunikasi dan Multimedia 1998",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Akta Suruhanjaya Pencegahan Rasuah Malaysia 2009",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Jenayah Kanak-Kanak",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Sivil)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Jenayah Luar Bidang Kuasa",
+      "jenis_kes": "Sumbang Mahram (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Jenayah",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Tidak Dinyatakan",
+      "bilangan_sesi_nasihat": 262,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Cerai",
+      "bilangan_sesi_nasihat": 5655,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Jagaan",
+      "bilangan_sesi_nasihat": 244,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Tuntutan Nafkah Anak",
+      "bilangan_sesi_nasihat": 61,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Nafkah Anak",
+      "bilangan_sesi_nasihat": 60,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Deklarasi Perkahwinan (Seksyen 33 Akta Membaharui Undang-Undang (Perkahwinan & Perceraian) 1976)",
+      "bilangan_sesi_nasihat": 33,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah - Jagaan",
+      "bilangan_sesi_nasihat": 30,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah Nafkah Anak",
+      "bilangan_sesi_nasihat": 21,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Tuntutan Nafkah Isteri",
+      "bilangan_sesi_nasihat": 19,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Nafkah Isteri",
+      "bilangan_sesi_nasihat": 13,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Tuntutan Nafkah Anak dan Isteri",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah - Jagaan",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Kuatkuasa Perintah Nafkah Anak dan Isteri",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah Nafkah Isteri",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Perubahan Perintah Nafkah Anak dan Isteri",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Tuntutan Perceraian",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Keluarga Sivil",
+      "jenis_kes": "Jual Beli",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Sivil)",
+      "bilangan_sesi_nasihat": 1235,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kontrak 1950",
+      "bilangan_sesi_nasihat": 313,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Tanah",
+      "bilangan_sesi_nasihat": 150,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kerja 1955",
+      "bilangan_sesi_nasihat": 135,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Undang-Undang Tort",
+      "bilangan_sesi_nasihat": 121,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Fitnah 1957",
+      "bilangan_sesi_nasihat": 106,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kebankrapan 1967",
+      "bilangan_sesi_nasihat": 86,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Kuatkuasa Award Tribunal/Tuntutan Pembeli Rumah",
+      "bilangan_sesi_nasihat": 32,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Rayuan Sivil",
+      "bilangan_sesi_nasihat": 32,
+      "bilangan_cawangan": 9
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Saman Penghutang Penghakiman",
+      "bilangan_sesi_nasihat": 28,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Tatatertib",
+      "bilangan_sesi_nasihat": 21,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Keselamatan Sosial Pekerja 1969",
+      "bilangan_sesi_nasihat": 13,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Pendaftaran Pengangkatan 1952 (Akta 253)",
+      "bilangan_sesi_nasihat": 12,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Jenayah)",
+      "bilangan_sesi_nasihat": 12,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Perhubungan Perusahaan 1967",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Semakan Sivil",
+      "bilangan_sesi_nasihat": 8,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Kuatkuasa Perintah - Pemecahan Kontrak",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Perkhidmatan Kewangan 2013",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Merogol (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Menipu (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Kesatuan Sekerja 1959",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Kanun Keseksaan (Lain-Lain)",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Dadah Berbahaya 1952",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Komunikasi dan Multimedia 1998",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Amang/Assault (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Mencederakan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Mencuri (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Sah Taraf Anak (Akta Kesahtarafan 1961)",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Akta Suruhanjaya Pencegahan Rasuah Malaysia 2009",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Pecah Amanah Jenayah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Peras Ugut (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Perintah Perletakhakkan",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Rompakan (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Seksyen 105 Akta Insolvensi 2017",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Luar Bidang Kuasa",
+      "jenis_kes": "Ugutan Jenayah (Kanun Keseksaan)",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Surat Mentadbir Harta Pusaka",
+      "bilangan_sesi_nasihat": 659,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Perihal Tanah",
+      "bilangan_sesi_nasihat": 326,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kemalangan",
+      "bilangan_sesi_nasihat": 254,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Harta Pusaka Kecil",
+      "bilangan_sesi_nasihat": 226,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Sewaan",
+      "bilangan_sesi_nasihat": 145,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pengangkatan",
+      "bilangan_sesi_nasihat": 117,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Anggapan Kematian",
+      "bilangan_sesi_nasihat": 116,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pemecahan Kontrak",
+      "bilangan_sesi_nasihat": 111,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Tuntutan Pengguna",
+      "bilangan_sesi_nasihat": 87,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Akta Sewa Beli",
+      "bilangan_sesi_nasihat": 70,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pampasan Pekerja",
+      "bilangan_sesi_nasihat": 59,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Probet",
+      "bilangan_sesi_nasihat": 57,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Pemberi Pinjaman Wang",
+      "bilangan_sesi_nasihat": 49,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Jual Beli",
+      "bilangan_sesi_nasihat": 44,
+      "bilangan_cawangan": 19
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Perbankan",
+      "bilangan_sesi_nasihat": 36,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Undang-Undang Syarikat",
+      "bilangan_sesi_nasihat": 21,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Tuntutan Pengguna",
+      "bilangan_sesi_nasihat": 18,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah Harta Sepencarian",
+      "bilangan_sesi_nasihat": 14,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Perihal Wasiat",
+      "bilangan_sesi_nasihat": 14,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Pampasan Pekerja",
+      "bilangan_sesi_nasihat": 12,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Sewa Menyewa",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Surat Mentadbir Pusaka",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Pinjaman Wang",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Undang-Undang Perkongsian",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kanun Keseksaan 1997",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kesalahan-Kesalahan Kecil",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Mitigasi Pengakuan Salah",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Harta Intelek",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Jenayah Kanak-Kanak",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Akta Sewa Beli",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Sivil Pelbagai",
+      "jenis_kes": "Kuatkuasa Perintah - Harta Pusaka Kecil",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Sivil",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Tidak Dinyatakan",
+      "bilangan_sesi_nasihat": 1624,
+      "bilangan_cawangan": 16
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Hadhanah",
+      "bilangan_sesi_nasihat": 2540,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Fasakh",
+      "bilangan_sesi_nasihat": 2536,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Anak",
+      "bilangan_sesi_nasihat": 2309,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Perceraian",
+      "bilangan_sesi_nasihat": 1433,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pengesahan Cerai Taklik",
+      "bilangan_sesi_nasihat": 1214,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Harta Sepencarian",
+      "bilangan_sesi_nasihat": 1171,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Muta'ah",
+      "bilangan_sesi_nasihat": 1095,
+      "bilangan_cawangan": 23
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Eddah",
+      "bilangan_sesi_nasihat": 690,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mengubah Perintah Nafkah Anak/Isteri/Lain-Lain",
+      "bilangan_sesi_nasihat": 297,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pengesahan Lafaz Cerai",
+      "bilangan_sesi_nasihat": 292,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Tunggakan Nafkah Anak/Isteri/Lain-Lain",
+      "bilangan_sesi_nasihat": 266,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mengubah Perintah Hak Jagaan Anak/Hak Lawatan",
+      "bilangan_sesi_nasihat": 219,
+      "bilangan_cawangan": 20
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Lain-Lain (Mal)",
+      "bilangan_sesi_nasihat": 191,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Isteri",
+      "bilangan_sesi_nasihat": 191,
+      "bilangan_cawangan": 22
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Gantirugi Perkahwinan/Hutang Perkahwinan",
+      "bilangan_sesi_nasihat": 137,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Sabitan Nusyuz",
+      "bilangan_sesi_nasihat": 112,
+      "bilangan_cawangan": 17
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan Hibah",
+      "bilangan_sesi_nasihat": 103,
+      "bilangan_cawangan": 18
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Penguatkuasaan Perintah Nafkah",
+      "bilangan_sesi_nasihat": 70,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Jagaan/Hak Lawatan",
+      "bilangan_sesi_nasihat": 66,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Harta Sepencarian",
+      "bilangan_sesi_nasihat": 53,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Hak Penjagaan Anak Tak Sah Taraf",
+      "bilangan_sesi_nasihat": 47,
+      "bilangan_cawangan": 13
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Isteri Kembali Taat",
+      "bilangan_sesi_nasihat": 44,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan/Perintah Nikah",
+      "bilangan_sesi_nasihat": 41,
+      "bilangan_cawangan": 14
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Rayuan Syariah Keluarga/Mal",
+      "bilangan_sesi_nasihat": 33,
+      "bilangan_cawangan": 12
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Pengesahan Sabitan Nasab/Ahli Waris",
+      "bilangan_sesi_nasihat": 24,
+      "bilangan_cawangan": 10
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan Rujuk",
+      "bilangan_sesi_nasihat": 22,
+      "bilangan_cawangan": 11
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Khuluk/Tebus Talaq",
+      "bilangan_sesi_nasihat": 16,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Perintah Muta'ah",
+      "bilangan_sesi_nasihat": 15,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Gantirugi Pertunangan",
+      "bilangan_sesi_nasihat": 14,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan/Tuntutan Kebenaran Poligami",
+      "bilangan_sesi_nasihat": 11,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Pengesahan Wasiat",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 8
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Perintah Daftar Nikah Poligami",
+      "bilangan_sesi_nasihat": 9,
+      "bilangan_cawangan": 6
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Semakan Syariah Keluarga/Mal",
+      "bilangan_sesi_nasihat": 6,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Wali Hakim/Am",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Mas Kahwin",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Wali Enggan/Engkar",
+      "bilangan_sesi_nasihat": 4,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Nafkah Ibu/Bapa",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Penjaga Diri/Harta/Anak Yatim",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Li'an",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Nafkah Anak Tak Sah Taraf",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Penguatkuasaan Wasiat",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Faraq Nikah",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tuntutan Perintah Supaya Suami Tinggal Bersama Semula",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Permohonan Menetapkan Masa",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Keluarga Syariah",
+      "jenis_kes": "Tidak Dinyatakan",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Permohonan Sijil Faraid/Akuan Pusaka",
+      "bilangan_sesi_nasihat": 122,
+      "bilangan_cawangan": 21
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Pelantikan Pentadbir Harta",
+      "bilangan_sesi_nasihat": 10,
+      "bilangan_cawangan": 7
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Mengingkari Perintah Mahkamah",
+      "bilangan_sesi_nasihat": 8,
+      "bilangan_cawangan": 5
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Khalwat",
+      "bilangan_sesi_nasihat": 7,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Semakan (Jenayah Syariah)",
+      "bilangan_sesi_nasihat": 5,
+      "bilangan_cawangan": 4
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Lain-Lain (Sivil)",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Syariah Luar Bidang Kuasa",
+      "jenis_kes": "Berjudi",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Tidak Dinyatakan",
+      "bilangan_sesi_nasihat": 827,
+      "bilangan_cawangan": 15
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Harta Pusaka Kecil",
+      "bilangan_sesi_nasihat": 3,
+      "bilangan_cawangan": 3
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Perihal Tanah",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 1
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Surat Mentadbir Harta Pusaka",
+      "bilangan_sesi_nasihat": 2,
+      "bilangan_cawangan": 2
+    },
+    {
+      "tahun": 2024,
+      "kategori": "Syariah",
+      "subkategori": "Tidak Dinyatakan",
+      "jenis_kes": "Sewaan",
+      "bilangan_sesi_nasihat": 1,
+      "bilangan_cawangan": 1
+    }
+  ],
+  "meta": {
+    "title": "Sesi Nasihat Undang-undang Jabatan Bantuan Guaman mengikut Jenis Kes - Muat turun percuma",
+    "description": "Bilangan tahunan sesi nasihat undang-undang yang diberikan oleh Jabatan Bantuan Guaman (JBG) Malaysia mengikut cabang undang-undang (Jenayah, Sivil, Syariah), subkategori dan jenis kes khusus, serta bilangan cawangan yang mengendalikannya. Mengandungi 803 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Sesi Nasihat Undang-undang Jabatan Bantuan Guaman mengikut Jenis Kes | ListBase",
+    "seo_description": "Muat turun Sesi Nasihat Undang-undang Jabatan Bantuan Guaman mengikut Jenis Kes — 803 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 803 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/legal_advisory_case_type"
+    ]
+  }
+}
