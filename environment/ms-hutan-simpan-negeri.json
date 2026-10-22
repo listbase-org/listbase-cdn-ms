@@ -1,0 +1,1911 @@
+{
+  "id": "ms-hutan-simpan-negeri",
+  "name": "Keluasan Hutan Simpan mengikut Negeri",
+  "title": "Keluasan Hutan Simpan mengikut Negeri",
+  "description": "Keluasan tahunan hutan simpan (hektar) setakat hujung tahun bagi setiap negeri dan Semenanjung Malaysia.",
+  "category": "environment",
+  "source": "https://data.gov.my/data-catalogue/forest_reserve_state",
+  "source_url": "https://data.gov.my/data-catalogue/forest_reserve_state",
+  "updated": "2026-10",
+  "record_count": 374,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "keluasan_hutan_simpan_hektar",
+      "label": "Keluasan Hutan Simpan (hektar)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Johor",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 356922
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 355772
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 375864
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 391499
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 391499
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 441251
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 438751
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 432678
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 432208
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 432208
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 432209
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 432184
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 414637
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 414628
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 332749
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 332749
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 334292
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 334292
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 334502
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 335003
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 335003
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 334491
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 344530
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 342613
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 342613
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 342613
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 342613
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 342613
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 342613
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 342613
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 342613
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 325463
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 341976
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 341976
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 341976
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 341976
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 341976
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 341976
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 341976
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 341976
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 341976
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 344175
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 343466
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 343466
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 629687
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 629367
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 629687
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 629687
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 629687
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 623849
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 623849
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 623849
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 623849
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 623849
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 623849
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 623849
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 623849
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 635437
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 613275
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 613275
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 629775
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 629881
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 629881
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 629881
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 629881
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 629881
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 5468
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 5185
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 5185
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 5159
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 5079
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 5080
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 5080
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 5079
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 4818
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 5151
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 5151
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 5093
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 5104
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 5137
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 5138
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 5199
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 5199
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 5199
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 5199
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 5199
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 5199
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 5187
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 165639
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 162075
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 160151
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 156275
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 154185
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 155909
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 157058
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 153837
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 153459
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 154578
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 154676
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 155825
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 155708
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 155650
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 155650
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 155549
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 155492
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 155143
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 155143
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 155087
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 155087
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 154934
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 1524132
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 1524132
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 1519501
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 1519501
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 1484099
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 1562496
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 1562902
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 1562902
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 1562902
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 1562902
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 1562902
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 1562900
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 1563993
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 1559913
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 1558898
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 1559385
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 1550687
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 1545610
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 1588298
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 1589092
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 1589146
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 1588596
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 884205
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 884205
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 884205
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 884205
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 884205
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 873936
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 991436
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 987511
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 986262
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 983136
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 1003616
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 999967
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 999488
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 999473
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 995216
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 988914
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 988591
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 987632
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 986848
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 986021
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 988704
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 988722
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 10718
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 10718
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 10718
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 10718
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 10718
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 10586
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 10808
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 10808
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 10799
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 10799
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 10799
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 10799
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 10799
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 10799
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 10615
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 10615
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 10628
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 10629
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 10629
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 10854
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 10870
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 11140
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 5139
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 5434
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 5434
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 5434
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 6098
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 6098
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 6098
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 6098
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 6098
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 6098
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 6060
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 6060
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 6060
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 6060
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 5101
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 5101
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 5101
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 5387
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 5387
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 6063
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 6063
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 6063
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 3563186
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 3543186
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 3523186
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 3503186
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 3604867
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 3604867
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 3604894
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 3606647
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 3606647
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 3609249
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 3614730
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 3615066
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 3551247
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 3540274
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 3540749
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 3540749
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 3541266
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 3574468
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 3574468
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 3574468
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 3575035
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 3575035
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 4836800
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 4806300
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 4779900
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 4778300
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 4692900
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 4681543
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 4583609
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 4337164
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 4368066
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 4352828
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 4320302
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 4317939
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 4274825
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 4209053
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 3964880
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 3964880
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 3964880
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 3939113
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 3947256
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 3960381
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 233781
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 233781
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 239782
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 235212
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 241568
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 241568
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 247793
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 250129
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 250129
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 250129
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 250129
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 250129
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 250129
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 250129
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 250129
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 250210
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 250208
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 250208
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 250208
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 250250
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 250778
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 250987
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 4696211
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 4683505
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 4711264
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 4726182
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 4695630
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 4807565
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 4930569
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 4919685
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 4912434
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 4893613
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 4936290
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 4933787
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 4916748
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 4924153
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 4811226
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 4803350
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 4812326
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 4806334
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 4848465
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 4852019
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 4854591
+    },
+    {
+      "negeri": "Semenanjung Malaysia",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 4853861
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 535929
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 530162
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 538063
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 545818
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 545818
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 544118
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 544118
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 544118
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 539234
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 539232
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 544855
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 544937
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 544937
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 544883
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 542411
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 540309
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 540309
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 540309
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 540309
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 540309
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 540309
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 540309
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 61
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 61
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 61
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 61
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 61
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 61
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 63
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 63
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 63
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 68
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 68
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 68
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 68
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 68
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 68
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 68
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 68
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 68
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 85
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 85
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 85
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 85
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 68
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 68
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2003,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2004,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2005,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2006,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2007,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2008,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2009,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2010,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2011,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2012,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2013,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2014,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2015,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2016,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2017,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2018,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2019,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2020,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2021,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2022,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2023,
+      "keluasan_hutan_simpan_hektar": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2024,
+      "keluasan_hutan_simpan_hektar": 0
+    }
+  ],
+  "meta": {
+    "title": "Keluasan Hutan Simpan mengikut Negeri - Muat turun percuma",
+    "description": "Keluasan tahunan hutan simpan (hektar) setakat hujung tahun bagi setiap negeri dan Semenanjung Malaysia. Mengandungi 374 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Keluasan Hutan Simpan mengikut Negeri | ListBase",
+    "seo_description": "Muat turun Keluasan Hutan Simpan mengikut Negeri — 374 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 374 rekod / 3 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/forest_reserve_state"
+    ]
+  }
+}

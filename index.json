@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:48.803Z",
-  "total_datasets": 632,
-  "total_records": 520343,
+  "generated": "2026-10-22T04:32:49.396Z",
+  "total_datasets": 633,
+  "total_records": 520717,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "finance",
@@ -3012,6 +3012,30 @@
         "xlsx": {
           "name": "ms-stesen-radio_MS.xlsx",
           "size": 8260
+        }
+      }
+    },
+    {
+      "id": "ms-hutan-simpan-negeri",
+      "name": "Keluasan Hutan Simpan mengikut Negeri",
+      "category": "environment",
+      "record_count": 374,
+      "columns": [
+        "negeri",
+        "tahun",
+        "keluasan_hutan_simpan_hektar"
+      ],
+      "source": "https://data.gov.my/data-catalogue/forest_reserve_state",
+      "updated": "2026-10",
+      "size": 41714,
+      "files": {
+        "csv": {
+          "name": "ms-hutan-simpan-negeri_MS.csv",
+          "size": 10337
+        },
+        "xlsx": {
+          "name": "ms-hutan-simpan-negeri_MS.xlsx",
+          "size": 12654
         }
       }
     },
