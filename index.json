@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:43.060Z",
-  "total_datasets": 527,
-  "total_records": 499361,
+  "generated": "2026-10-22T04:31:43.630Z",
+  "total_datasets": 528,
+  "total_records": 499459,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 43
+      "dataset_count": 44
     },
     {
       "id": "education",
@@ -138,6 +138,29 @@
         "xlsx": {
           "name": "ms-gereja-katolik_MS.xlsx",
           "size": 8098
+        }
+      }
+    },
+    {
+      "id": "ms-hikayat-melayu",
+      "name": "Senarai Hikayat Melayu",
+      "category": "culture",
+      "record_count": 98,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Hikayat_Melayu",
+      "updated": "2026-10",
+      "size": 10975,
+      "files": {
+        "csv": {
+          "name": "ms-hikayat-melayu_MS.csv",
+          "size": 5119
+        },
+        "xlsx": {
+          "name": "ms-hikayat-melayu_MS.xlsx",
+          "size": 9574
         }
       }
     },
