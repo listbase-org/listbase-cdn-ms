@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:11.305Z",
-  "total_datasets": 571,
-  "total_records": 507916,
+  "generated": "2026-10-22T04:32:11.865Z",
+  "total_datasets": 572,
+  "total_records": 507967,
   "categories": [
     {
       "id": "culture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tech",
@@ -15565,6 +15565,32 @@
         "xlsx": {
           "name": "ms-maskot-sukma_MS.xlsx",
           "size": 7517
+        }
+      }
+    },
+    {
+      "id": "ms-pemain-bola-sepak-lahir-luar-negara",
+      "name": "Pemain Bola Sepak Kebangsaan Malaysia yang Lahir di Luar Negara",
+      "category": "sports",
+      "record_count": 51,
+      "columns": [
+        "nama",
+        "negara_kelahiran",
+        "pemerolehan_kewarganegaraan",
+        "penampilan_sulung_untuk_malaysia",
+        "kategori"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_pemain_bola_sepak_antarabangsa_Malaysia_yang_lahir_di_luar_Malaysia",
+      "updated": "2026-10",
+      "size": 13134,
+      "files": {
+        "csv": {
+          "name": "ms-pemain-bola-sepak-lahir-luar-negara_MS.csv",
+          "size": 3184
+        },
+        "xlsx": {
+          "name": "ms-pemain-bola-sepak-lahir-luar-negara_MS.xlsx",
+          "size": 8856
         }
       }
     },
