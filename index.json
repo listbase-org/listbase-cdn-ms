@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:41.558Z",
-  "total_datasets": 524,
-  "total_records": 499293,
+  "generated": "2026-10-22T04:31:42.092Z",
+  "total_datasets": 525,
+  "total_records": 499316,
   "categories": [
     {
       "id": "culture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -2965,6 +2965,36 @@
         "xlsx": {
           "name": "ms-gabenor-singapura_MS.xlsx",
           "size": 8423
+        }
+      }
+    },
+    {
+      "id": "ms-gempa-bumi",
+      "name": "Senarai Gempa Bumi di Malaysia",
+      "category": "history",
+      "record_count": 23,
+      "columns": [
+        "negara_kawasan",
+        "tarikh_utc",
+        "lokasi",
+        "mag",
+        "mmi",
+        "kematian",
+        "kecederaan",
+        "ulasan",
+        "nota"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_gempa_bumi_di_Malaysia",
+      "updated": "2026-10",
+      "size": 14724,
+      "files": {
+        "csv": {
+          "name": "ms-gempa-bumi_MS.csv",
+          "size": 8740
+        },
+        "xlsx": {
+          "name": "ms-gempa-bumi_MS.xlsx",
+          "size": 9867
         }
       }
     },

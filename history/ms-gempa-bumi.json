@@ -1,0 +1,324 @@
+{
+  "id": "ms-gempa-bumi",
+  "name": "Senarai Gempa Bumi di Malaysia",
+  "title": "Senarai Gempa Bumi di Malaysia",
+  "description": "Senarai Gempa Bumi di Malaysia — 23 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "history",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_gempa_bumi_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_gempa_bumi_di_Malaysia",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "negara_kawasan",
+      "label": "Negara Kawasan",
+      "type": "string"
+    },
+    {
+      "key": "tarikh_utc",
+      "label": "Tarikh Utc",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "mag",
+      "label": "Mag",
+      "type": "number"
+    },
+    {
+      "key": "mmi",
+      "label": "Mmi",
+      "type": "string"
+    },
+    {
+      "key": "kematian",
+      "label": "Kematian",
+      "type": "string"
+    },
+    {
+      "key": "kecederaan",
+      "label": "Kecederaan",
+      "type": "string"
+    },
+    {
+      "key": "ulasan",
+      "label": "Ulasan",
+      "type": "string"
+    },
+    {
+      "key": "nota",
+      "label": "Nota",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "Gempa bumi Johor 1922 (1922-01-31)",
+      "lokasi": "Johor",
+      "mag": "5.4",
+      "mmi": "Tiada Data",
+      "kematian": "Tiada Data",
+      "kecederaan": "Tiada Data",
+      "ulasan": "MI Magnitud yang diperoleh daripada taburan keamatan gegaran. Kerosakan kecil.",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "Gempa bumi Johor 1922 (1922-02-07)",
+      "lokasi": "Johor",
+      "mag": "5.0",
+      "mmi": "Tiada Data",
+      "kematian": "Tiada Data",
+      "kecederaan": "Tiada Data",
+      "ulasan": "MI Magnitud yang diperoleh daripada taburan keamatan gegaran. Kerosakan kecil.",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "Gempa bumi Lahad Datu 1923 (1923-08-11)",
+      "lokasi": "Daerah Lahad Datu, Sabah",
+      "mag": "6.3",
+      "mmi": "Tiada Data",
+      "kematian": "Tiada Data",
+      "kecederaan": "Tiada Data",
+      "ulasan": "Tiada Data",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Indonesia",
+      "tarikh_utc": "Gempa bumi Aceh 1936 (1936-09-19)",
+      "lokasi": "Aceh",
+      "mag": "7.1",
+      "mmi": "Tiada Data",
+      "kematian": "Tiada Data",
+      "kecederaan": "Tiada Data",
+      "ulasan": "Mw. Jubin bumbung tertanggal di Teluk Intan. Beberapa bangunan retak di George Town, Kuala Lumpur, dan Sitiawan.",
+      "nota": "Gempa bumi yang berlaku di kawasan Indonesia, namun dekat dengan kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "Gempa bumi Kudat 1951 (1951-06-02)",
+      "lokasi": "Daerah Kudat, Sabah",
+      "mag": "6.1",
+      "mmi": "Tiada Data",
+      "kematian": "Tiada Data",
+      "kecederaan": "Tiada Data",
+      "ulasan": "Tiada Data",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "1976-07-26",
+      "lokasi": "Daerah Kudat, Sabah",
+      "mag": "6.2",
+      "mmi": "Tiada Data",
+      "kematian": "Tiada Data",
+      "kecederaan": "Tiada Data",
+      "ulasan": "Kerosakan kecil",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "Gempa bumi Ranau 1991 (1991-05-26)",
+      "lokasi": "Daerah Ranau, Sabah",
+      "mag": "5.4",
+      "mmi": "VII",
+      "kematian": "1",
+      "kecederaan": "Tiada Data",
+      "ulasan": "Kerosakan setempat",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Indonesia",
+      "tarikh_utc": "Gempa bumi Sumatera 2002 (2002-11-02)",
+      "lokasi": "Simeulue, Sumatera Utara",
+      "mag": "7.2",
+      "mmi": "V",
+      "kematian": "Tiada Data",
+      "kecederaan": "Tiada Data",
+      "ulasan": "Kerosakan kecil bangunan di Pulau Pinang dan Pelabuhan Klang. Sangat dirasai oleh orang ramai di bangunan tinggi, menyebabkan orang ramai panik. Tiga orang maut, 65 cedera dan 994 bangunan rosak di Simeulue, Indonesia.",
+      "nota": "Gempa bumi yang berlaku di kawasan Indonesia, namun dekat dengan kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Indonesia",
+      "tarikh_utc": "2004-12-26",
+      "lokasi": "Aceh",
+      "mag": "9.0",
+      "mmi": "Tiada Data",
+      "kematian": "68",
+      "kecederaan": "Tiada Data",
+      "ulasan": "Kematian yang dikaitkan dengan tsunami di Pulau Pinang, Langkawi (Kedah) dan tanah besar Kedah. Lihat juga: Dampak Gempa bumi Lautan Hindi 2004 kepada Malaysia",
+      "nota": "Gempa bumi di Lautan Lepas yang berlaku di kawasan Indonesia, namun dekat dengan kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Laut Lepas",
+      "tarikh_utc": "Gempa bumi Laut Sulawesi 2005 (2005-02-05)",
+      "lokasi": "Laut Sulawesi",
+      "mag": "7.1",
+      "mmi": "III",
+      "kematian": "2",
+      "kecederaan": "Tiada Data",
+      "ulasan": "Tiada kerosakan",
+      "nota": "Gempa bumi di Lautan Lepas, Namun dekat dengan kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "Gempa bumi Bukit Tinggi, Selangor-Pahang 2007-08 (2007-11-30–2008-05-25)",
+      "lokasi": "Bukit Tinggi, sempadan Selangor – Pahang",
+      "mag": "1.7–3.7",
+      "mmi": "Tiada Data",
+      "kematian": "Tiada Data",
+      "kecederaan": "Tiada Data",
+      "ulasan": "Sedikit terasa dan tiada kerosakan. Dua puluh tiga gempa bumi antara Mw 1.7 hingga 3.7. Gempa bumi gelincir di sepanjang bahagian Sesar Bukit Tinggi sepanjang 120 km (75 bt) yang aktif semula.",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Laut Lepas",
+      "tarikh_utc": "2012-04-11",
+      "lokasi": "Lautan Hindi",
+      "mag": "8.6",
+      "mmi": "Tiada Data",
+      "kematian": "Belum dikenal Pasti",
+      "kecederaan": "Belum dikenal Pasti",
+      "ulasan": "Gempa bumi bermagnitud 8.6 (Mw) tersebut berlaku pada 11 April, 08:38 UTC dengan kedalaman 33 kilometer, (lebih tepatnya ialah dengan kedalaman 22.9 KM), dengan masa dari 3 hingga 5 minit, Gegaran berlaku kira-kira 434 km (269 bt) barat daya Banda Aceh, Indonesia. Pada awalnya magnitud gempa dicatatkan sebanyak 8.9 (Mw). Phillip Charlesworth, ketua Pertubuhan Palang Merah dan Bulan Sabit Merah Antarabangsa di Jakarta berkata bahawa gempa bumi tersebut berkocak selama tiga minit. Gegaran turut dirasai di Padang. Di Malaysia, gegaran dirasai pada kira-kira jam 4:50 petang di hampir semua negeri di Semenanjung Malaysia. Orang ramai yang berada di dalam rumah-rumah dan juga premis-premis bergegas keluar setelah merasa gegaran.",
+      "nota": "Gempa bumi di Lautan Lepas, Namun dekat dengan kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "2015-06-05",
+      "lokasi": "Daerah Ranau, Sabah",
+      "mag": "6.0",
+      "mmi": "VI",
+      "kematian": "18",
+      "kecederaan": "11",
+      "ulasan": "Kerosakan teruk",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Indonesia",
+      "tarikh_utc": "2022-02-25",
+      "lokasi": "Sumatera Barat",
+      "mag": "6.2",
+      "mmi": "II",
+      "kematian": "0",
+      "kecederaan": "0",
+      "ulasan": "Di Port Dickson, hospital swasta dan bangunan kerajaan ada kerosakan kecil.",
+      "nota": "Gempa bumi yang berlaku di kawasan Indonesia, namun dekat dengan kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Indonesia",
+      "tarikh_utc": "Gempa bumi Sumatera 2022 (2022-10-06)",
+      "lokasi": "Sumatera Utara",
+      "mag": "4.6",
+      "mmi": "Tiada Data",
+      "kematian": "Tiada Data",
+      "kecederaan": "Tiada Data",
+      "ulasan": "Gempa yang berMagnitud 4.6, berjarak 165 KM barat daya dari Sabak Bernam.",
+      "nota": "Gempa bumi yang berlaku di kawasan Indonesia, namun dekat dengan kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "Gempa bumi Kunak 2022 (2022-10-12)",
+      "lokasi": "Kunak, Sabah",
+      "mag": "3.2",
+      "mmi": "I",
+      "kematian": "0",
+      "kecederaan": "0",
+      "ulasan": "Gempa yang berMagnitud 3.2 dengan masa beberapa saat, berjarak 13 KM barat daya dari Kunak, gegaran dirasai disekitar Kunak, tiada kerosakan yang dilaporan.",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "Gempa bumi Beluran 2023 (2023-04-20)",
+      "lokasi": "laut dekat Beluran, Sabah",
+      "mag": "3.5",
+      "mmi": "I",
+      "kematian": "0",
+      "kecederaan": "0",
+      "ulasan": "Gempa bumi ringan berukuran 3.5 pada skala Richter dikesan di laut Beluran, Sabah pada 9.07 pagi Khamis, Jabatan Meteorologi Malaysia (MET Malaysia), dalam satu kenyataan, berkata gempa bumi itu berlaku pada kedalaman 10 kilometer (km), pada koordinat 6.6 darjah utara dan 117.4 darjah timur, pusat Gempa tersebut berjarak sejauh 37 km tenggara dari Pitas, Sabah dan sejauh 365 km utara dari kawasan negara jiran iaitu Tarakan, Indonesia, walaupun gempa itu berlaku di dalam kawasan Malaysia, namun ia tidak memberi ancaman Tsunami ke negara Malaysia.",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "Gempa bumi Semporna 2023 (2023-06-07)",
+      "lokasi": "di kawasan Semporna, Sabah",
+      "mag": "2.6",
+      "mmi": "I",
+      "kematian": "0",
+      "kecederaan": "0",
+      "ulasan": "Gempa bumi ringan berukuran 2.6 pada skala Richter dikesan di Kawasan Semporna, Sabah pada 7.39 malam Rabu, Jabatan Meteorologi Malaysia (MET Malaysia), dalam satu kenyataan, berkata gempa bumi itu berlaku pada kedalaman 3 kilometer (km), pada koordinat 4.5 darjah Utara dan 118.7 darjah Timur, walaupun gempa itu berlaku di dalam kawasan Malaysia, namun ia tidak memberi ancaman Tsunami ke negara Malaysia.",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "Gempa bumi Ranau 2023 (2023-08-31)",
+      "lokasi": "di kawasan Ranau, Sabah",
+      "mag": "3.7",
+      "mmi": "I",
+      "kematian": "0",
+      "kecederaan": "0",
+      "ulasan": "gempa bumi lemah bermagnitud 3.7 berlaku di Ranau, Sabah pada 7.13 pagi, Khamis. Menurut kenyataan Jabatan Meteorologi Malaysia, pusat gempa bumi itu dengan kedalaman 5 kilometer (km) iaitu 13 km barat laut dari Ranau.",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "Gempa bumi Semporna 2024 (2024-06-02)",
+      "lokasi": "di kawasan Semporna, Sabah",
+      "mag": "3.3",
+      "mmi": "I",
+      "kematian": "0",
+      "kecederaan": "0",
+      "ulasan": "gempa bumi lemah berlaku di Semporna, Sabah, dengan ukuran 3.3 skala Richter sejauh 50 km dari Semporna, pada masa 2.49 Petang. Pusat gempa bumi tersebut berada di koordinat 4.4° Utara dan 118.9° Timur dengan kedalaman 10 km.",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Filipina",
+      "tarikh_utc": "Gempa bumi Mindanao 2024 (2024-07-11)",
+      "lokasi": "Mindanao",
+      "mag": "6.6",
+      "mmi": "III",
+      "kematian": "0",
+      "kecederaan": "0",
+      "ulasan": "Gempa bumi yang berlaku di Mindanao, dengan 154 kilometer tenggara dari Bandar Isabela, Filipina, pada 10.13 Pagi, lalu di Malaysia, dengan di Sabah terutamanya Kota Kinabalu dan Tawau, serta di Labuan dan di Sarawak terutamatnya Limbang dan sekitar, penduduk tempatan panik dengan kaki tidak stabil semasa berdiri dan bergegas ketempat yang selamat, berpunca dari bangunan yang bergegar selama beberapa saat, tetapi tiada korban jiwa ataupun kerosakan bangunan yang berlaku .",
+      "nota": "Gempa bumi yang berlaku di kawasan Filipina, namun dekat dengan kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Malaysia",
+      "tarikh_utc": "Gempa bumi Segamat 2025 (24-8-2025)",
+      "lokasi": "kawasan Segamat, Johor",
+      "mag": "4.1",
+      "mmi": "",
+      "kematian": "0",
+      "kecederaan": "0",
+      "ulasan": "",
+      "nota": "Gempa bumi yang berlaku di kawasan Malaysia."
+    },
+    {
+      "negara_kawasan": "Nota: Hanya peristiwa yang membawa kerosakan, kecederaan, atau maut patut dirakamkan, terkecuali mengenai Gempa Lemah boleh dirakamkan.",
+      "tarikh_utc": "Nota: Hanya peristiwa yang membawa kerosakan, kecederaan, atau maut patut dirakamkan, terkecuali mengenai Gempa Lemah boleh dirakamkan.",
+      "lokasi": "Nota: Hanya peristiwa yang membawa kerosakan, kecederaan, atau maut patut dirakamkan, terkecuali mengenai Gempa Lemah boleh dirakamkan.",
+      "mag": "Nota: Hanya peristiwa yang membawa kerosakan, kecederaan, atau maut patut dirakamkan, terkecuali mengenai Gempa Lemah boleh dirakamkan.",
+      "mmi": "Nota: Hanya peristiwa yang membawa kerosakan, kecederaan, atau maut patut dirakamkan, terkecuali mengenai Gempa Lemah boleh dirakamkan.",
+      "kematian": "Nota: Hanya peristiwa yang membawa kerosakan, kecederaan, atau maut patut dirakamkan, terkecuali mengenai Gempa Lemah boleh dirakamkan.",
+      "kecederaan": "Nota: Hanya peristiwa yang membawa kerosakan, kecederaan, atau maut patut dirakamkan, terkecuali mengenai Gempa Lemah boleh dirakamkan.",
+      "ulasan": "Nota: Hanya peristiwa yang membawa kerosakan, kecederaan, atau maut patut dirakamkan, terkecuali mengenai Gempa Lemah boleh dirakamkan.",
+      "nota": "Nota: Hanya peristiwa yang membawa kerosakan, kecederaan, atau maut patut dirakamkan, terkecuali mengenai Gempa Lemah boleh dirakamkan."
+    }
+  ],
+  "meta": {
+    "title": "Senarai Gempa Bumi di Malaysia - Muat turun percuma",
+    "description": "Senarai Gempa Bumi di Malaysia — 23 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 23 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Gempa Bumi di Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Gempa Bumi di Malaysia — 23 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 23 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_gempa_bumi_di_Malaysia"
+    ]
+  }
+}
