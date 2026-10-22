@@ -1,0 +1,106 @@
+{
+  "id": "ms-parti-politik-sarawak",
+  "name": "Senarai Parti Politik di Sarawak",
+  "title": "Senarai Parti Politik di Sarawak",
+  "description": "Senarai Parti Politik di Sarawak — 5 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "politics",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_parti_politik_di_Sarawak",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_parti_politik_di_Sarawak",
+  "updated": "2026-10",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "parti_politik",
+      "label": "Parti Politik",
+      "type": "string"
+    },
+    {
+      "key": "presiden",
+      "label": "Presiden",
+      "type": "string"
+    },
+    {
+      "key": "ideologi",
+      "label": "Ideologi",
+      "type": "string"
+    },
+    {
+      "key": "jumlah_keahlian_2026",
+      "label": "Jumlah Keahlian 2026",
+      "type": "number"
+    },
+    {
+      "key": "tahun_diasaskan",
+      "label": "Tahun Diasaskan",
+      "type": "number"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "nota",
+      "label": "Nota",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "parti_politik": "Parti Wawasan Negara Sarawak (WAWASAN Sarawak)",
+      "presiden": "Duke Janteng",
+      "ideologi": "Haluan kanan tengah",
+      "jumlah_keahlian_2026": "41950",
+      "tahun_diasaskan": "2026",
+      "singkatan": "WAWASAN",
+      "nota": ""
+    },
+    {
+      "parti_politik": "Parti Bumi Kenyalang (PBK)",
+      "presiden": "Voon Lee Shan",
+      "ideologi": "Berhaluan kanan",
+      "jumlah_keahlian_2026": "58900",
+      "tahun_diasaskan": "2013",
+      "singkatan": "PBK",
+      "nota": ""
+    },
+    {
+      "parti_politik": "Parti Wawasan Rakyat (PAWARA)",
+      "presiden": "Affendi Jeman",
+      "ideologi": "Berhaluan kanan",
+      "jumlah_keahlian_2026": "30540",
+      "tahun_diasaskan": "2018 (2026)",
+      "singkatan": "PAWARA",
+      "nota": "Dahulu dikenali sebagai Parti Sedar Rakyat (SEDAR) (2018 – 2026)"
+    },
+    {
+      "parti_politik": "Parti Islam Se-Malaysia Sarawak (PAS Sarawak)",
+      "presiden": "Mohammad Arifiriazul Paijo",
+      "ideologi": "Sayap kanan",
+      "jumlah_keahlian_2026": "4300",
+      "tahun_diasaskan": "1955 (1996)",
+      "singkatan": "PAS",
+      "nota": ""
+    },
+    {
+      "parti_politik": "Parti Pejuang Tanah Air Sarawak (PEJUANG Sarawak)",
+      "presiden": "–",
+      "ideologi": "Sayap kanan",
+      "jumlah_keahlian_2026": "3128",
+      "tahun_diasaskan": "2021",
+      "singkatan": "PEJUANG",
+      "nota": ""
+    }
+  ],
+  "meta": {
+    "title": "Senarai Parti Politik di Sarawak - Muat turun percuma",
+    "description": "Senarai Parti Politik di Sarawak — 5 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 5 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Parti Politik di Sarawak | ListBase",
+    "seo_description": "Muat turun Senarai Parti Politik di Sarawak — 5 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 5 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_parti_politik_di_Sarawak"
+    ]
+  }
+}

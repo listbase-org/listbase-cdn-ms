@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:07.344Z",
-  "total_datasets": 567,
-  "total_records": 506987,
+  "generated": "2026-10-22T04:32:07.840Z",
+  "total_datasets": 568,
+  "total_records": 506992,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 103
+      "dataset_count": 104
     },
     {
       "id": "reference",
@@ -7379,6 +7379,34 @@
         "xlsx": {
           "name": "ms-parlimen_MS.xlsx",
           "size": 14320
+        }
+      }
+    },
+    {
+      "id": "ms-parti-politik-sarawak",
+      "name": "Senarai Parti Politik di Sarawak",
+      "category": "politics",
+      "record_count": 5,
+      "columns": [
+        "parti_politik",
+        "presiden",
+        "ideologi",
+        "jumlah_keahlian_2026",
+        "tahun_diasaskan",
+        "singkatan",
+        "nota"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_parti_politik_di_Sarawak",
+      "updated": "2026-10",
+      "size": 3377,
+      "files": {
+        "csv": {
+          "name": "ms-parti-politik-sarawak_MS.csv",
+          "size": 687
+        },
+        "xlsx": {
+          "name": "ms-parti-politik-sarawak_MS.xlsx",
+          "size": 7264
         }
       }
     },
