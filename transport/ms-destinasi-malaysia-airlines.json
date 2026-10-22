@@ -1,0 +1,745 @@
+{
+  "id": "ms-destinasi-malaysia-airlines",
+  "name": "Senarai Destinasi Malaysia Airlines",
+  "title": "Senarai Destinasi Malaysia Airlines",
+  "description": "Senarai Destinasi Malaysia Airlines — 76 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "transport",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_destinasi_Malaysia_Airlines",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_destinasi_Malaysia_Airlines",
+  "updated": "2026-10",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "negara",
+      "label": "Negara",
+      "type": "string"
+    },
+    {
+      "key": "negeri_wilayah_persekutuan_wilayah_daera",
+      "label": "Negeri Wilayah Persekutuan Wilayah Daera",
+      "type": "string"
+    },
+    {
+      "key": "bandar",
+      "label": "Bandar",
+      "type": "string"
+    },
+    {
+      "key": "kod_iata",
+      "label": "Kod Iata",
+      "type": "string"
+    },
+    {
+      "key": "kod_icao",
+      "label": "Kod Icao",
+      "type": "string"
+    },
+    {
+      "key": "lapangan_terbang",
+      "label": "Lapangan Terbang",
+      "type": "string"
+    },
+    {
+      "key": "nota",
+      "label": "Nota",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "negara": "Arab Saudi",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Jeddah",
+      "bandar": "Jeddah",
+      "kod_iata": "JED",
+      "kod_icao": "OEJN",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Raja Abdulaziz",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Arab Saudi",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Al Madinah",
+      "bandar": "Madinah",
+      "kod_iata": "MED",
+      "kod_icao": "OEMA",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Putera Mohammad Bin Abdulaziz",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Australia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Australia Selatan",
+      "bandar": "Adelaide",
+      "kod_iata": "ADL",
+      "kod_icao": "YPAD",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Adelaide",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Australia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Queensland",
+      "bandar": "Brisbane",
+      "kod_iata": "BNE",
+      "kod_icao": "YBBN",
+      "lapangan_terbang": "Lapangan Terbang Brisbane",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Australia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Victoria",
+      "bandar": "Melbourne",
+      "kod_iata": "MEL",
+      "kod_icao": "YMML",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Melbourne",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Australia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Australia Barat",
+      "bandar": "Perth",
+      "kod_iata": "PER",
+      "kod_icao": "YPPH",
+      "lapangan_terbang": "Lapangan Terbang Perth",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Australia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "New South Wales",
+      "bandar": "Sydney",
+      "kod_iata": "SYD",
+      "kod_icao": "YSSY",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Kingsford Smith",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Bangladesh",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Bahagian Dhaka",
+      "bandar": "Dhaka",
+      "kod_iata": "DAC",
+      "kod_icao": "VGHS",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Shahjalal",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Brunei",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Daerah Brunei-Muara",
+      "bandar": "Bandar Seri Begawan",
+      "kod_iata": "BWN",
+      "kod_icao": "WBSB",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Brunei",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Filipina",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Metro Manila",
+      "bandar": "Manila",
+      "kod_iata": "MNL",
+      "kod_icao": "RPLL",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Ninoy Aquino",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "India",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Gujarat",
+      "bandar": "Ahmedabad",
+      "kod_iata": "AMD",
+      "kod_icao": "VAAH",
+      "lapangan_terbang": "Lapangan Terbang Ahmedabad",
+      "nota": "Penumpang (Dimulakan semula 1 Disember 2023)"
+    },
+    {
+      "negara": "India",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Punjab",
+      "bandar": "Amritsar",
+      "kod_iata": "ATQ",
+      "kod_icao": "VIAR",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Sri Guru Ram Dass Jee",
+      "nota": "Penumpang (Bermula 10 November 2023)"
+    },
+    {
+      "negara": "India",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Karnataka",
+      "bandar": "Bangalore",
+      "kod_iata": "BLR",
+      "kod_icao": "VOBL",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Kempegowda",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "India",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Tamil Nadu",
+      "bandar": "Chennai",
+      "kod_iata": "MAA",
+      "kod_icao": "VOMM",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Chennai",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "India",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Wilayah Ibu Negara Nasional",
+      "bandar": "Delhi",
+      "kod_iata": "DEL",
+      "kod_icao": "VIDP",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Indira Gandhi",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "India",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Telangana",
+      "bandar": "Hyderabad",
+      "kod_iata": "HYD",
+      "kod_icao": "VOHS",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Rajiv Gandhi",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "India",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Kerala",
+      "bandar": "Kochi",
+      "kod_iata": "COK",
+      "kod_icao": "VOCI",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Cochin",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "India",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Bengal Barat",
+      "bandar": "Kolkata",
+      "kod_iata": "CCU",
+      "kod_icao": "VECC",
+      "lapangan_terbang": "Lapangan Terbang Netaji Subhash Chandra Bose In",
+      "nota": "Penumpang (Bermula 2 Disember 2024)"
+    },
+    {
+      "negara": "India",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Maharashtra",
+      "bandar": "Mumbai",
+      "kod_iata": "BOM",
+      "kod_icao": "VABB",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Chhatrapati Shivaji",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "India",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Kerala",
+      "bandar": "Trivandrum",
+      "kod_iata": "TRV",
+      "kod_icao": "VOTV",
+      "lapangan_terbang": "Lapangan Terbang Thiruvananthapuram",
+      "nota": "Penumpang (Bermula 9 November 2023)"
+    },
+    {
+      "negara": "Indonesia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Kalimantan Timur",
+      "bandar": "Balikpapan",
+      "kod_iata": "BPN",
+      "kod_icao": "WALL",
+      "lapangan_terbang": "Lapangan Terbang Sultan Aji Muhamad Sulaiman",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Indonesia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Bali",
+      "bandar": "Denpasar",
+      "kod_iata": "DPS",
+      "kod_icao": "WADD",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Ngurah Rai",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Indonesia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Banten dan Jakarta",
+      "bandar": "Jakarta",
+      "kod_iata": "CGK",
+      "kod_icao": "WIII",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Soekarno-Hatta",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Indonesia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Jawa Barat",
+      "bandar": "Kertajati",
+      "kod_iata": "KJT",
+      "kod_icao": "WICA",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Kertajati",
+      "nota": "Penumpang (Bermula 30 Oktober 2023)"
+    },
+    {
+      "negara": "Indonesia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Jawa Tengah",
+      "bandar": "Kota Surakarta",
+      "kod_iata": "SOC",
+      "kod_icao": "WARQ",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Adisumarmo",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Indonesia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Sulawesi Selatan",
+      "bandar": "Makassar",
+      "kod_iata": "UPG",
+      "kod_icao": "WAAA",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Sultan Hasanuddin",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Indonesia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Sumatra Utara",
+      "bandar": "Medan",
+      "kod_iata": "KNO",
+      "kod_icao": "WIMM",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Kuala Namu",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Indonesia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Riau",
+      "bandar": "Pekanbaru",
+      "kod_iata": "PKU",
+      "kod_icao": "WIBB",
+      "lapangan_terbang": "Lapangan Terbang Sultan Syarif Kasim II",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Indonesia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Jawa Timur",
+      "bandar": "Surabaya",
+      "kod_iata": "SUB",
+      "kod_icao": "WARR",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Juanda",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Indonesia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Yogyakarta",
+      "bandar": "Kota Yogyakarta",
+      "kod_iata": "YIA",
+      "kod_icao": "WAHI",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Yogyakarta",
+      "nota": "Penumpang (Dimulakan semula 26 Mac 2023)"
+    },
+    {
+      "negara": "Jepun",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Wilayah Osaka",
+      "bandar": "Osaka",
+      "kod_iata": "KIX",
+      "kod_icao": "RJBB",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Kansai",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Jepun",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Hokkaidō",
+      "bandar": "Sapporo",
+      "kod_iata": "CTS",
+      "kod_icao": "RJCC",
+      "lapangan_terbang": "Lapangan Terbang New Chitose",
+      "nota": "Penumpang (Musiman)"
+    },
+    {
+      "negara": "Jepun",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Tokyo dan Wilayah Chiba",
+      "bandar": "Tokyo",
+      "kod_iata": "HND",
+      "kod_icao": "RJTT",
+      "lapangan_terbang": "Lapangan Terbang Haneda",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Jepun",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Tokyo dan Wilayah Chiba",
+      "bandar": "Tokyo",
+      "kod_iata": "NRT",
+      "kod_icao": "RJAA",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Narita",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Kemboja",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Phnom Penh",
+      "bandar": "Phnom Penh",
+      "kod_iata": "PNH",
+      "kod_icao": "VDPP",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Phnom Penh",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Korea Selatan",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Incheon dan Kawasan Ibu Negara Seoul",
+      "bandar": "Seoul",
+      "kod_iata": "ICN",
+      "kod_icao": "RKSI",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Incheon",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Kedah",
+      "bandar": "Alor Setar",
+      "kod_iata": "AOR",
+      "kod_icao": "WMKA",
+      "lapangan_terbang": "Lapangan Terbang Sultan Abdul Halim",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Sarawak",
+      "bandar": "Bandar Miri",
+      "kod_iata": "MYY",
+      "kod_icao": "WBGR",
+      "lapangan_terbang": "Lapangan Terbang Miri",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Labuan",
+      "bandar": "Bandar Victoria",
+      "kod_iata": "LBU",
+      "kod_icao": "WBKL",
+      "lapangan_terbang": "Lapangan Terbang Labuan",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Sarawak",
+      "bandar": "Bintulu",
+      "kod_iata": "BTU",
+      "kod_icao": "WBGB",
+      "lapangan_terbang": "Lapangan Terbang Bintulu",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Pulau Pinang",
+      "bandar": "George Town",
+      "kod_iata": "PEN",
+      "kod_icao": "WMKP",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Pulau Pinang",
+      "nota": "Penumpang (Bandar Tumpuan Malaysia Airlines)"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Johor",
+      "bandar": "Johor Bahru",
+      "kod_iata": "JHB",
+      "kod_icao": "WMKJ",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Senai",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Kelantan",
+      "bandar": "Kota Bharu",
+      "kod_iata": "KBR",
+      "kod_icao": "WMKC",
+      "lapangan_terbang": "Lapangan Terbang Sultan Ismail Petra",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Sabah",
+      "bandar": "Kota Kinabalu",
+      "kod_iata": "BKI",
+      "kod_icao": "WBKK",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Kota Kinabalu",
+      "nota": "Penumpang (Hab sekunder Malaysia Airlines)"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Kuala Lumpur dan Selangor",
+      "bandar": "Kuala Lumpur",
+      "kod_iata": "KUL",
+      "kod_icao": "WMKK",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Kuala Lumpur",
+      "nota": "Penumpang (Hab utama Malaysia Airlines)"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Terengganu",
+      "bandar": "Kuala Terengganu",
+      "kod_iata": "TGG",
+      "kod_icao": "WMKN",
+      "lapangan_terbang": "Lapangan Terbang Sultan Mahmud",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Pahang",
+      "bandar": "Kuantan",
+      "kod_iata": "KUA",
+      "kod_icao": "WMKD",
+      "lapangan_terbang": "Lapangan Terbang Sultan Haji Ahmad Shah",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Sarawak",
+      "bandar": "Kuching",
+      "kod_iata": "KCH",
+      "kod_icao": "WBGG",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Kuching",
+      "nota": "Penumpang (Hab sekunder Malaysia Airlines)"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Kedah",
+      "bandar": "Pekan Kuah",
+      "kod_iata": "LGK",
+      "kod_icao": "WMKL",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Langkawi",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Sabah",
+      "bandar": "Sandakan",
+      "kod_iata": "SDK",
+      "kod_icao": "WBKS",
+      "lapangan_terbang": "Lapangan Terbang Sandakan",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Sarawak",
+      "bandar": "Sibu",
+      "kod_iata": "SBW",
+      "kod_icao": "WBGS",
+      "lapangan_terbang": "Lapangan Terbang Sibu",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Malaysia",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Sabah",
+      "bandar": "Tawau",
+      "kod_iata": "TWU",
+      "kod_icao": "WBKW",
+      "lapangan_terbang": "Lapangan Terbang Tawau",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Maldives",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Malé",
+      "bandar": "Malé",
+      "kod_iata": "MLE",
+      "kod_icao": "VRMM",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Velana",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Myanmar",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Yangon",
+      "bandar": "Yangon",
+      "kod_iata": "RGN",
+      "kod_icao": "VYYY",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Yangon",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Negara Thai",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Kawasan Metropolitan Bangkok dan Samut Prakan",
+      "bandar": "Bangkok",
+      "kod_iata": "BKK",
+      "kod_icao": "VTBS",
+      "lapangan_terbang": "Lapangan Terbang Suvarnabhumi",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Negara Thai",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Chiang Mai (wilayah)",
+      "bandar": "Chiang Mai (bandar)",
+      "kod_iata": "CNX",
+      "kod_icao": "VTCC",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Chiang Mai",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Negara Thai",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Phuket",
+      "bandar": "Phuket",
+      "kod_iata": "HKT",
+      "kod_icao": "VTSP",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Phuket",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Nepal",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Kawasan Kathmandu",
+      "bandar": "Kathmandu",
+      "kod_iata": "KTM",
+      "kod_icao": "VNKT",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Tribhuvan",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "New Zealand",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Wilayah Auckland",
+      "bandar": "Auckland",
+      "kod_iata": "AKL",
+      "kod_icao": "NZAA",
+      "lapangan_terbang": "Lapangan Terbang Auckland",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Perancis",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Paris dan Roissy-en-France",
+      "bandar": "Paris",
+      "kod_iata": "CDG",
+      "kod_icao": "LFPG",
+      "lapangan_terbang": "Lapangan Terbang Charles de Gaulle Paris",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Qatar",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Doha",
+      "bandar": "Doha",
+      "kod_iata": "DOH",
+      "kod_icao": "OTHH",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Hamad",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Republik China",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Taiwan Selatan",
+      "bandar": "Kaohsiung",
+      "kod_iata": "KHH",
+      "kod_icao": "RCKH",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Kaohsiung",
+      "nota": "Penumpang (Musiman)"
+    },
+    {
+      "negara": "Republik China",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Taipei dan Taoyuan",
+      "bandar": "Taipei",
+      "kod_iata": "TPE",
+      "kod_icao": "RCTP",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Chiang Kai Shek",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Republik Rakyat China",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Beijing",
+      "bandar": "Beijing",
+      "kod_iata": "PKX",
+      "kod_icao": "ZBAD",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Beijing Daxing",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Republik Rakyat China",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Guangdong",
+      "bandar": "Guangzhou",
+      "kod_iata": "CAN",
+      "kod_icao": "ZGGG",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Guangzhou Baiyun",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Republik Rakyat China",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Hong Kong",
+      "bandar": "Hong Kong",
+      "kod_iata": "HKG",
+      "kod_icao": "VHHH",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Hong Kong",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Republik Rakyat China",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Shanghai",
+      "bandar": "Shanghai",
+      "kod_iata": "PVG",
+      "kod_icao": "ZSPD",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Pudong Shanghai",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Republik Rakyat China",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Xinjiang",
+      "bandar": "Urumqi",
+      "kod_iata": "URC",
+      "kod_icao": "ZWWW",
+      "lapangan_terbang": "Lapangan Terbang Diwopu",
+      "nota": "Penumpang (Musiman)"
+    },
+    {
+      "negara": "Republik Rakyat China",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Fujian",
+      "bandar": "Xiamen",
+      "kod_iata": "XMN",
+      "kod_icao": "ZSAM",
+      "lapangan_terbang": "Lapangan Terbang Gaoqi",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Singapura",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Changi",
+      "bandar": "Singapura",
+      "kod_iata": "SIN",
+      "kod_icao": "WSSS",
+      "lapangan_terbang": "Lapangan Terbang Changi Singapura",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Sri Lanka",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Wilayah Barat",
+      "bandar": "Colombo",
+      "kod_iata": "CMB",
+      "kod_icao": "VCBI",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Bandaranaike Colombo",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "United Kingdom",
+      "negeri_wilayah_persekutuan_wilayah_daera": "England",
+      "bandar": "London",
+      "kod_iata": "LHR",
+      "kod_icao": "EGLL",
+      "lapangan_terbang": "Lapangan Terbang Heathrow London",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Uzbekistan",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Tashkent",
+      "bandar": "Tashkent",
+      "kod_iata": "TAS",
+      "kod_icao": "UTTT",
+      "lapangan_terbang": "Lapangan Terbang Yuzhny",
+      "nota": "Penumpang (Laluan ini tidak jadi dimulakan)"
+    },
+    {
+      "negara": "Vietnam",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Bandar Raya Ho Chi Minh",
+      "bandar": "Bandar Raya Ho Chi Minh",
+      "kod_iata": "SGN",
+      "kod_icao": "VVTS",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Tan Son Nhat",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Vietnam",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Nam Trung Bo",
+      "bandar": "Da Nang",
+      "kod_iata": "DAD",
+      "kod_icao": "VVDN",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Da Nang",
+      "nota": "Penumpang"
+    },
+    {
+      "negara": "Vietnam",
+      "negeri_wilayah_persekutuan_wilayah_daera": "Hanoi",
+      "bandar": "Hanoi",
+      "kod_iata": "HAN",
+      "kod_icao": "VVNB",
+      "lapangan_terbang": "Lapangan Terbang Antarabangsa Noibai",
+      "nota": "Penumpang"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Destinasi Malaysia Airlines - Muat turun percuma",
+    "description": "Senarai Destinasi Malaysia Airlines — 76 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 76 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Destinasi Malaysia Airlines | ListBase",
+    "seo_description": "Muat turun Senarai Destinasi Malaysia Airlines — 76 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 76 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_destinasi_Malaysia_Airlines"
+    ]
+  }
+}

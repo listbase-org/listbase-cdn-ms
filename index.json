@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:37.286Z",
-  "total_datasets": 516,
-  "total_records": 498798,
+  "generated": "2026-10-22T04:31:37.808Z",
+  "total_datasets": 517,
+  "total_records": 498874,
   "categories": [
     {
       "id": "culture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 55
+      "dataset_count": 56
     }
   ],
   "datasets": [
@@ -15208,6 +15208,34 @@
         "xlsx": {
           "name": "ms-alat-bantu-navigasi-radio_MS.xlsx",
           "size": 15064
+        }
+      }
+    },
+    {
+      "id": "ms-destinasi-malaysia-airlines",
+      "name": "Senarai Destinasi Malaysia Airlines",
+      "category": "transport",
+      "record_count": 76,
+      "columns": [
+        "negara",
+        "negeri_wilayah_persekutuan_wilayah_daera",
+        "bandar",
+        "kod_iata",
+        "kod_icao",
+        "lapangan_terbang",
+        "nota"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_destinasi_Malaysia_Airlines",
+      "updated": "2026-10",
+      "size": 23648,
+      "files": {
+        "csv": {
+          "name": "ms-destinasi-malaysia-airlines_MS.csv",
+          "size": 8282
+        },
+        "xlsx": {
+          "name": "ms-destinasi-malaysia-airlines_MS.xlsx",
+          "size": 11453
         }
       }
     },
