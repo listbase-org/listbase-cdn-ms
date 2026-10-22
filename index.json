@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:25.635Z",
-  "total_datasets": 594,
-  "total_records": 512967,
+  "generated": "2026-10-22T04:32:26.135Z",
+  "total_datasets": 595,
+  "total_records": 513098,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -1984,6 +1984,29 @@
         "xlsx": {
           "name": "ms-sekolah-menengah-malaysia_MS.xlsx",
           "size": 117052
+        }
+      }
+    },
+    {
+      "id": "ms-sekolah-menengah-negeri-sembilan",
+      "name": "Senarai Sekolah Menengah di Negeri Sembilan",
+      "category": "education",
+      "record_count": 131,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_sekolah_menengah_di_Negeri_Sembilan",
+      "updated": "2026-10",
+      "size": 13336,
+      "files": {
+        "csv": {
+          "name": "ms-sekolah-menengah-negeri-sembilan_MS.csv",
+          "size": 5726
+        },
+        "xlsx": {
+          "name": "ms-sekolah-menengah-negeri-sembilan_MS.xlsx",
+          "size": 9298
         }
       }
     },
