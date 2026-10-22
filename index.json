@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:15.305Z",
-  "total_datasets": 578,
-  "total_records": 508607,
+  "generated": "2026-10-22T04:32:15.825Z",
+  "total_datasets": 579,
+  "total_records": 508832,
   "categories": [
     {
       "id": "culture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -15713,6 +15713,30 @@
         "xlsx": {
           "name": "ms-penjaring-terbanyak-perak-fa_MS.xlsx",
           "size": 7541
+        }
+      }
+    },
+    {
+      "id": "ms-perpindahan-bola-sepak-2025-26",
+      "name": "Perpindahan Pemain Bola Sepak Malaysia 2025–26",
+      "category": "sports",
+      "record_count": 225,
+      "columns": [
+        "bahagian",
+        "pos",
+        "pemain"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_perpindahan_pertama_bola_sepak_Malaysia_2025%E2%80%9326",
+      "updated": "2026-10",
+      "size": 28431,
+      "files": {
+        "csv": {
+          "name": "ms-perpindahan-bola-sepak-2025-26_MS.csv",
+          "size": 12733
+        },
+        "xlsx": {
+          "name": "ms-perpindahan-bola-sepak-2025-26_MS.xlsx",
+          "size": 13121
         }
       }
     },
