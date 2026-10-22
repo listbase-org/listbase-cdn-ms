@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:31.232Z",
-  "total_datasets": 604,
-  "total_records": 516639,
+  "generated": "2026-10-22T04:32:31.941Z",
+  "total_datasets": 605,
+  "total_records": 516705,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "entertainment",
@@ -2213,6 +2213,35 @@
         "xlsx": {
           "name": "ms-sjkc-kedah_MS.xlsx",
           "size": 13872
+        }
+      }
+    },
+    {
+      "id": "ms-sjkc-melaka",
+      "name": "Senarai SJK(C) di Melaka",
+      "category": "education",
+      "record_count": 66,
+      "columns": [
+        "bahagian",
+        "kod_sekolah",
+        "lokasi",
+        "nama_sekolah_dalam_bahasa_melayu",
+        "nama_sekolah_dalam_bahasa_cina",
+        "poskod",
+        "kawasan",
+        "koordinat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Melaka",
+      "updated": "2026-10",
+      "size": 26638,
+      "files": {
+        "csv": {
+          "name": "ms-sjkc-melaka_MS.csv",
+          "size": 10897
+        },
+        "xlsx": {
+          "name": "ms-sjkc-melaka_MS.xlsx",
+          "size": 12021
         }
       }
     },
