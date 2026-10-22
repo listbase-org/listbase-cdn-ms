@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:47.089Z",
-  "total_datasets": 629,
-  "total_records": 519011,
+  "generated": "2026-10-22T04:32:47.690Z",
+  "total_datasets": 630,
+  "total_records": 519827,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -1811,6 +1811,33 @@
         "xlsx": {
           "name": "ms-wp-putrajaya-surau_MS.xlsx",
           "size": 15240
+        }
+      }
+    },
+    {
+      "id": "ms-gaji-pekerja-negeri",
+      "name": "Gaji Bulanan Pekerja mengikut Negeri dan Jantina",
+      "category": "economy",
+      "record_count": 816,
+      "columns": [
+        "negeri",
+        "tahun",
+        "jantina",
+        "penerima_gaji_ribu",
+        "gaji_penengah_rm",
+        "gaji_purata_rm"
+      ],
+      "source": "https://open.dosm.gov.my/data-catalogue/wages_state",
+      "updated": "2026-10",
+      "size": 155435,
+      "files": {
+        "csv": {
+          "name": "ms-gaji-pekerja-negeri_MS.csv",
+          "size": 42595
+        },
+        "xlsx": {
+          "name": "ms-gaji-pekerja-negeri_MS.xlsx",
+          "size": 31110
         }
       }
     },

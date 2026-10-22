@@ -1,0 +1,6584 @@
+{
+  "id": "ms-gaji-pekerja-negeri",
+  "name": "Gaji Bulanan Pekerja mengikut Negeri dan Jantina",
+  "title": "Gaji Bulanan Pekerja mengikut Negeri dan Jantina",
+  "description": "Gaji bulanan penengah dan purata pekerja bergaji serta bilangan penerima gaji (ribu orang) mengikut negeri dan jantina di Malaysia, daripada Laporan Survei Gaji & Upah DOSM.",
+  "category": "economy",
+  "source": "https://open.dosm.gov.my/data-catalogue/wages_state",
+  "source_url": "https://open.dosm.gov.my/data-catalogue/wages_state",
+  "updated": "2026-10",
+  "record_count": 816,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "jantina",
+      "label": "Jantina",
+      "type": "string"
+    },
+    {
+      "key": "penerima_gaji_ribu",
+      "label": "Penerima Gaji ('000)",
+      "type": "number"
+    },
+    {
+      "key": "gaji_penengah_rm",
+      "label": "Gaji Penengah (RM)",
+      "type": "number"
+    },
+    {
+      "key": "gaji_purata_rm",
+      "label": "Gaji Purata (RM)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Johor",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 913.9,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1795
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 328.8,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1569
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 585,
+      "gaji_penengah_rm": 1550,
+      "gaji_purata_rm": 1921
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 973.9,
+      "gaji_penengah_rm": 1520,
+      "gaji_purata_rm": 1940
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 354.9,
+      "gaji_penengah_rm": 1280,
+      "gaji_purata_rm": 1649
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 619,
+      "gaji_penengah_rm": 1745,
+      "gaji_purata_rm": 2107
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 972,
+      "gaji_penengah_rm": 1695,
+      "gaji_purata_rm": 2035
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 356,
+      "gaji_penengah_rm": 1475,
+      "gaji_purata_rm": 1803
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 616.1,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2169
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1023.9,
+      "gaji_penengah_rm": 1700,
+      "gaji_purata_rm": 2114
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 380.9,
+      "gaji_penengah_rm": 1480,
+      "gaji_purata_rm": 1829
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 643,
+      "gaji_penengah_rm": 1885,
+      "gaji_purata_rm": 2284
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1054.2,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2466
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 385.9,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2158
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 668.3,
+      "gaji_penengah_rm": 2050,
+      "gaji_purata_rm": 2644
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1013.8,
+      "gaji_penengah_rm": 2200,
+      "gaji_purata_rm": 2549
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 375.6,
+      "gaji_penengah_rm": 1700,
+      "gaji_purata_rm": 2320
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 638.2,
+      "gaji_penengah_rm": 2300,
+      "gaji_purata_rm": 2684
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1039.1,
+      "gaji_penengah_rm": 2200,
+      "gaji_purata_rm": 2656
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 387.1,
+      "gaji_penengah_rm": 1685,
+      "gaji_purata_rm": 2324
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 652,
+      "gaji_penengah_rm": 2200,
+      "gaji_purata_rm": 2852
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1092,
+      "gaji_penengah_rm": 2250,
+      "gaji_purata_rm": 2932
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 414.7,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2564
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 677.3,
+      "gaji_penengah_rm": 2400,
+      "gaji_purata_rm": 3158
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1106,
+      "gaji_penengah_rm": 2418,
+      "gaji_purata_rm": 3228
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 421.6,
+      "gaji_penengah_rm": 2104,
+      "gaji_purata_rm": 2813
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 684.4,
+      "gaji_penengah_rm": 2556,
+      "gaji_purata_rm": 3483
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1133.6,
+      "gaji_penengah_rm": 2512,
+      "gaji_purata_rm": 3266
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 430.1,
+      "gaji_penengah_rm": 2254,
+      "gaji_purata_rm": 2873
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 703.5,
+      "gaji_penengah_rm": 2646,
+      "gaji_purata_rm": 3507
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1244.5,
+      "gaji_penengah_rm": 2076,
+      "gaji_purata_rm": 2827
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 440.6,
+      "gaji_penengah_rm": 1870,
+      "gaji_purata_rm": 2626
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 803.9,
+      "gaji_penengah_rm": 2199,
+      "gaji_purata_rm": 2937
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1266.2,
+      "gaji_penengah_rm": 2191,
+      "gaji_purata_rm": 2850
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 467.3,
+      "gaji_penengah_rm": 2003,
+      "gaji_purata_rm": 2715
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 798.9,
+      "gaji_penengah_rm": 2258,
+      "gaji_purata_rm": 2929
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1351.7,
+      "gaji_penengah_rm": 2216,
+      "gaji_purata_rm": 2992
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 494.3,
+      "gaji_penengah_rm": 1865,
+      "gaji_purata_rm": 2854
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 857.4,
+      "gaji_penengah_rm": 2216,
+      "gaji_purata_rm": 3073
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1367.2,
+      "gaji_penengah_rm": 2450,
+      "gaji_purata_rm": 3212
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 500,
+      "gaji_penengah_rm": 2276,
+      "gaji_purata_rm": 3010
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 867.2,
+      "gaji_penengah_rm": 2603,
+      "gaji_purata_rm": 3328
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1388,
+      "gaji_penengah_rm": 2582,
+      "gaji_purata_rm": 3414
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 506.4,
+      "gaji_penengah_rm": 2444,
+      "gaji_purata_rm": 3190
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 881.6,
+      "gaji_penengah_rm": 2850,
+      "gaji_purata_rm": 3543
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1412.3,
+      "gaji_penengah_rm": 2688,
+      "gaji_purata_rm": 3609
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 508.2,
+      "gaji_penengah_rm": 2560,
+      "gaji_purata_rm": 3287
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 904.1,
+      "gaji_penengah_rm": 2896,
+      "gaji_purata_rm": 3790
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 449.4,
+      "gaji_penengah_rm": 1060,
+      "gaji_purata_rm": 1501
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 170.2,
+      "gaji_penengah_rm": 950,
+      "gaji_purata_rm": 1429
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 279.2,
+      "gaji_penengah_rm": 1170,
+      "gaji_purata_rm": 1544
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 442.9,
+      "gaji_penengah_rm": 1190,
+      "gaji_purata_rm": 1555
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 167.8,
+      "gaji_penengah_rm": 900,
+      "gaji_purata_rm": 1464
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 275.1,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1611
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 434.4,
+      "gaji_penengah_rm": 1150,
+      "gaji_purata_rm": 1543
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 162.2,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1464
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 272.2,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1590
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 455.7,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1759
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 173.3,
+      "gaji_penengah_rm": 1100,
+      "gaji_purata_rm": 1732
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 282.5,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 1776
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 502.5,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 1972
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 199.5,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1963
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 303.1,
+      "gaji_penengah_rm": 1400,
+      "gaji_purata_rm": 1978
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 519.6,
+      "gaji_penengah_rm": 1400,
+      "gaji_purata_rm": 2024
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 213.1,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1990
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 306.5,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2047
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 502.7,
+      "gaji_penengah_rm": 1510,
+      "gaji_purata_rm": 2109
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 210.7,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 2111
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 292,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2108
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 506.2,
+      "gaji_penengah_rm": 1650,
+      "gaji_purata_rm": 2193
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 214.1,
+      "gaji_penengah_rm": 1550,
+      "gaji_purata_rm": 2254
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 292.1,
+      "gaji_penengah_rm": 1650,
+      "gaji_purata_rm": 2148
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 529.3,
+      "gaji_penengah_rm": 1703,
+      "gaji_purata_rm": 2294
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 222.2,
+      "gaji_penengah_rm": 1533,
+      "gaji_purata_rm": 2253
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 307.2,
+      "gaji_penengah_rm": 1760,
+      "gaji_purata_rm": 2323
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 550.6,
+      "gaji_penengah_rm": 1748,
+      "gaji_purata_rm": 2413
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 223.2,
+      "gaji_penengah_rm": 1670,
+      "gaji_purata_rm": 2450
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 327.5,
+      "gaji_penengah_rm": 1812,
+      "gaji_purata_rm": 2387
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 552.6,
+      "gaji_penengah_rm": 1509,
+      "gaji_purata_rm": 2289
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 210.3,
+      "gaji_penengah_rm": 1447,
+      "gaji_purata_rm": 2375
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 342.3,
+      "gaji_penengah_rm": 1509,
+      "gaji_purata_rm": 2236
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 565.4,
+      "gaji_penengah_rm": 1621,
+      "gaji_purata_rm": 2516
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 224.7,
+      "gaji_penengah_rm": 1619,
+      "gaji_purata_rm": 2495
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 340.8,
+      "gaji_penengah_rm": 1733,
+      "gaji_purata_rm": 2531
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 578.4,
+      "gaji_penengah_rm": 1797,
+      "gaji_purata_rm": 2627
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 216.2,
+      "gaji_penengah_rm": 1760,
+      "gaji_purata_rm": 2697
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 362.1,
+      "gaji_penengah_rm": 1863,
+      "gaji_purata_rm": 2585
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 567.7,
+      "gaji_penengah_rm": 1885,
+      "gaji_purata_rm": 2859
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 209.8,
+      "gaji_penengah_rm": 1916,
+      "gaji_purata_rm": 2948
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 357.8,
+      "gaji_penengah_rm": 1882,
+      "gaji_purata_rm": 2806
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 569.3,
+      "gaji_penengah_rm": 2051,
+      "gaji_purata_rm": 3053
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 210.9,
+      "gaji_penengah_rm": 2051,
+      "gaji_purata_rm": 3171
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 358.5,
+      "gaji_penengah_rm": 2051,
+      "gaji_purata_rm": 2983
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 573.5,
+      "gaji_penengah_rm": 2255,
+      "gaji_purata_rm": 3148
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 213.5,
+      "gaji_penengah_rm": 2151,
+      "gaji_purata_rm": 3314
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 360,
+      "gaji_penengah_rm": 2255,
+      "gaji_purata_rm": 3050
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 252.2,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1645
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 88,
+      "gaji_penengah_rm": 1210,
+      "gaji_purata_rm": 1825
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 164.2,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1548
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 288.2,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1622
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 100.5,
+      "gaji_penengah_rm": 1325,
+      "gaji_purata_rm": 1842
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 187.7,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1504
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 290.2,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1604
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 108.9,
+      "gaji_penengah_rm": 900,
+      "gaji_purata_rm": 1722
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 181.3,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1533
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 293.4,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1662
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 103.9,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1894
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 189.5,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1535
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 314.9,
+      "gaji_penengah_rm": 1040,
+      "gaji_purata_rm": 1853
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 121,
+      "gaji_penengah_rm": 1155,
+      "gaji_purata_rm": 2092
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 193.9,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1704
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 337.7,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 2069
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 117.9,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 2336
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 219.8,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1926
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 352.9,
+      "gaji_penengah_rm": 1345,
+      "gaji_purata_rm": 2248
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 137.1,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2517
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 215.8,
+      "gaji_penengah_rm": 1225,
+      "gaji_purata_rm": 2078
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 362.1,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2319
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 133.2,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2598
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 228.9,
+      "gaji_penengah_rm": 1400,
+      "gaji_purata_rm": 2156
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 367.5,
+      "gaji_penengah_rm": 1604,
+      "gaji_purata_rm": 2419
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 138.8,
+      "gaji_penengah_rm": 1605,
+      "gaji_purata_rm": 2660
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 228.6,
+      "gaji_penengah_rm": 1604,
+      "gaji_purata_rm": 2272
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 383.9,
+      "gaji_penengah_rm": 1639,
+      "gaji_purata_rm": 2571
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 141.8,
+      "gaji_penengah_rm": 1670,
+      "gaji_purata_rm": 2911
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 242.1,
+      "gaji_penengah_rm": 1601,
+      "gaji_purata_rm": 2371
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 373.2,
+      "gaji_penengah_rm": 1390,
+      "gaji_purata_rm": 2467
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 143.3,
+      "gaji_penengah_rm": 1345,
+      "gaji_purata_rm": 2642
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 229.9,
+      "gaji_penengah_rm": 1390,
+      "gaji_purata_rm": 2358
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 404.9,
+      "gaji_penengah_rm": 1568,
+      "gaji_purata_rm": 2522
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 147.9,
+      "gaji_penengah_rm": 1615,
+      "gaji_purata_rm": 2732
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 257,
+      "gaji_penengah_rm": 1536,
+      "gaji_purata_rm": 2401
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 394.5,
+      "gaji_penengah_rm": 1635,
+      "gaji_purata_rm": 2604
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 147,
+      "gaji_penengah_rm": 1699,
+      "gaji_purata_rm": 2922
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 247.6,
+      "gaji_penengah_rm": 1568,
+      "gaji_purata_rm": 2416
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 389.5,
+      "gaji_penengah_rm": 1750,
+      "gaji_purata_rm": 2882
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 150,
+      "gaji_penengah_rm": 1878,
+      "gaji_purata_rm": 3180
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 239.5,
+      "gaji_penengah_rm": 1731,
+      "gaji_purata_rm": 2695
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 393.8,
+      "gaji_penengah_rm": 1914,
+      "gaji_purata_rm": 3091
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 153.4,
+      "gaji_penengah_rm": 2018,
+      "gaji_purata_rm": 3380
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 240.4,
+      "gaji_penengah_rm": 1831,
+      "gaji_purata_rm": 2906
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 400.3,
+      "gaji_penengah_rm": 1860,
+      "gaji_purata_rm": 3214
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 157.3,
+      "gaji_penengah_rm": 2003,
+      "gaji_purata_rm": 3541
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 243,
+      "gaji_penengah_rm": 1837,
+      "gaji_purata_rm": 3002
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 7149.2,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1936
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 2716.6,
+      "gaji_penengah_rm": 1498,
+      "gaji_purata_rm": 1825
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 4432.6,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2003
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 7634,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1959
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 2953.9,
+      "gaji_penengah_rm": 1467,
+      "gaji_purata_rm": 1838
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 4680.1,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2035
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 7782.9,
+      "gaji_penengah_rm": 1566,
+      "gaji_purata_rm": 2052
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 3037.9,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1935
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 4745,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2126
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 7903.1,
+      "gaji_penengah_rm": 1700,
+      "gaji_purata_rm": 2186
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 3118.9,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2072
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 4784.2,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2259
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 8392.4,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2377
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 3321.8,
+      "gaji_penengah_rm": 1700,
+      "gaji_purata_rm": 2259
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 5070.7,
+      "gaji_penengah_rm": 1888,
+      "gaji_purata_rm": 2455
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 8348.6,
+      "gaji_penengah_rm": 1942,
+      "gaji_purata_rm": 2487
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 3299.2,
+      "gaji_penengah_rm": 1855,
+      "gaji_purata_rm": 2380
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 5049.4,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2558
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 8424.1,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2657
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 3389.7,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2532
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 5034.4,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2741
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 8677.1,
+      "gaji_penengah_rm": 2160,
+      "gaji_purata_rm": 2879
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 3525.9,
+      "gaji_penengah_rm": 2145,
+      "gaji_purata_rm": 2772
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 5151.2,
+      "gaji_penengah_rm": 2170,
+      "gaji_purata_rm": 2953
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 8761.2,
+      "gaji_penengah_rm": 2308,
+      "gaji_purata_rm": 3087
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 3551.4,
+      "gaji_penengah_rm": 2227,
+      "gaji_purata_rm": 2959
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 5209.8,
+      "gaji_penengah_rm": 2342,
+      "gaji_purata_rm": 3174
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 9195.2,
+      "gaji_penengah_rm": 2442,
+      "gaji_purata_rm": 3224
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 3759.3,
+      "gaji_penengah_rm": 2370,
+      "gaji_purata_rm": 3108
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 5435.9,
+      "gaji_penengah_rm": 2477,
+      "gaji_purata_rm": 3304
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 9456,
+      "gaji_penengah_rm": 2076,
+      "gaji_purata_rm": 2954
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 3869.2,
+      "gaji_penengah_rm": 2026,
+      "gaji_purata_rm": 2872
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 5586.8,
+      "gaji_penengah_rm": 2107,
+      "gaji_purata_rm": 3011
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 9769,
+      "gaji_penengah_rm": 2256,
+      "gaji_purata_rm": 3049
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 4000,
+      "gaji_penengah_rm": 2150,
+      "gaji_purata_rm": 2955
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 5769.1,
+      "gaji_penengah_rm": 2323,
+      "gaji_purata_rm": 3114
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 9996.4,
+      "gaji_penengah_rm": 2429,
+      "gaji_purata_rm": 3219
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 4103.6,
+      "gaji_penengah_rm": 2305,
+      "gaji_purata_rm": 3119
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 5892.9,
+      "gaji_penengah_rm": 2498,
+      "gaji_purata_rm": 3288
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 10105.4,
+      "gaji_penengah_rm": 2602,
+      "gaji_purata_rm": 3441
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 4156.4,
+      "gaji_penengah_rm": 2464,
+      "gaji_purata_rm": 3311
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 5949,
+      "gaji_penengah_rm": 2675,
+      "gaji_purata_rm": 3532
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 10238.4,
+      "gaji_penengah_rm": 2793,
+      "gaji_purata_rm": 3652
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 4210,
+      "gaji_penengah_rm": 2641,
+      "gaji_purata_rm": 3499
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 6028.4,
+      "gaji_penengah_rm": 2850,
+      "gaji_purata_rm": 3759
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 10381.6,
+      "gaji_penengah_rm": 2940,
+      "gaji_purata_rm": 3803
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 4297,
+      "gaji_penengah_rm": 2788,
+      "gaji_purata_rm": 3635
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 6084.6,
+      "gaji_penengah_rm": 3014,
+      "gaji_purata_rm": 3921
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 227.2,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 1717
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 93.3,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1638
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 133.8,
+      "gaji_penengah_rm": 1400,
+      "gaji_purata_rm": 1773
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 234.5,
+      "gaji_penengah_rm": 1350,
+      "gaji_purata_rm": 1765
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 97,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1596
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 137.5,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1883
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 238.1,
+      "gaji_penengah_rm": 1440,
+      "gaji_purata_rm": 1879
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 96.4,
+      "gaji_penengah_rm": 1330,
+      "gaji_purata_rm": 1774
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 141.7,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1950
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 244.9,
+      "gaji_penengah_rm": 1580,
+      "gaji_purata_rm": 2061
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 102.1,
+      "gaji_penengah_rm": 1420,
+      "gaji_purata_rm": 1971
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 142.7,
+      "gaji_penengah_rm": 1656,
+      "gaji_purata_rm": 2126
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 255,
+      "gaji_penengah_rm": 1660,
+      "gaji_purata_rm": 2123
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 109.1,
+      "gaji_penengah_rm": 1540,
+      "gaji_purata_rm": 2073
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 145.9,
+      "gaji_penengah_rm": 1700,
+      "gaji_purata_rm": 2161
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 187.3,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2174
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 75.1,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2106
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 112.1,
+      "gaji_penengah_rm": 1700,
+      "gaji_purata_rm": 2219
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 271.3,
+      "gaji_penengah_rm": 1760,
+      "gaji_purata_rm": 2297
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 115.6,
+      "gaji_penengah_rm": 1680,
+      "gaji_purata_rm": 2162
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 155.6,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2397
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 284.2,
+      "gaji_penengah_rm": 2145,
+      "gaji_purata_rm": 2565
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 121.5,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2519
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 162.7,
+      "gaji_penengah_rm": 2170,
+      "gaji_purata_rm": 2599
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 283.8,
+      "gaji_penengah_rm": 2332,
+      "gaji_purata_rm": 2853
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 122.6,
+      "gaji_penengah_rm": 2154,
+      "gaji_purata_rm": 2739
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 161.2,
+      "gaji_penengah_rm": 2382,
+      "gaji_purata_rm": 2939
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 299.5,
+      "gaji_penengah_rm": 2415,
+      "gaji_purata_rm": 2990
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 129.1,
+      "gaji_penengah_rm": 2158,
+      "gaji_purata_rm": 2853
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 170.4,
+      "gaji_penengah_rm": 2489,
+      "gaji_purata_rm": 3095
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 319.9,
+      "gaji_penengah_rm": 2130,
+      "gaji_purata_rm": 2925
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 134.5,
+      "gaji_penengah_rm": 2025,
+      "gaji_purata_rm": 2830
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 185.4,
+      "gaji_penengah_rm": 2190,
+      "gaji_purata_rm": 2994
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 337,
+      "gaji_penengah_rm": 2164,
+      "gaji_purata_rm": 2950
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 146.2,
+      "gaji_penengah_rm": 2110,
+      "gaji_purata_rm": 2920
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 190.8,
+      "gaji_penengah_rm": 2277,
+      "gaji_purata_rm": 2973
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 336.5,
+      "gaji_penengah_rm": 2280,
+      "gaji_purata_rm": 3093
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 137.7,
+      "gaji_penengah_rm": 2280,
+      "gaji_purata_rm": 3118
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 198.8,
+      "gaji_penengah_rm": 2314,
+      "gaji_purata_rm": 3075
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 346.9,
+      "gaji_penengah_rm": 2360,
+      "gaji_purata_rm": 3311
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 142.3,
+      "gaji_penengah_rm": 2465,
+      "gaji_purata_rm": 3338
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 204.7,
+      "gaji_penengah_rm": 2360,
+      "gaji_purata_rm": 3292
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 350.9,
+      "gaji_penengah_rm": 2528,
+      "gaji_purata_rm": 3469
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 143.9,
+      "gaji_penengah_rm": 2527,
+      "gaji_purata_rm": 3498
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 207,
+      "gaji_penengah_rm": 2606,
+      "gaji_purata_rm": 3448
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 351.9,
+      "gaji_penengah_rm": 2773,
+      "gaji_purata_rm": 3549
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 149.3,
+      "gaji_penengah_rm": 2675,
+      "gaji_purata_rm": 3557
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 202.6,
+      "gaji_penengah_rm": 2773,
+      "gaji_purata_rm": 3542
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 234.5,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1885
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 85.4,
+      "gaji_penengah_rm": 1350,
+      "gaji_purata_rm": 1797
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 149.1,
+      "gaji_penengah_rm": 1540,
+      "gaji_purata_rm": 1936
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 267.4,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1975
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 103.8,
+      "gaji_penengah_rm": 1350,
+      "gaji_purata_rm": 1826
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 163.6,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2070
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 267.7,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1922
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 110.2,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 1791
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 157.5,
+      "gaji_penengah_rm": 1620,
+      "gaji_purata_rm": 2014
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 268.2,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2246
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 108.2,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2091
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 160,
+      "gaji_penengah_rm": 1900,
+      "gaji_purata_rm": 2350
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 281.1,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2445
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 113.5,
+      "gaji_penengah_rm": 1527,
+      "gaji_purata_rm": 2222
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 167.6,
+      "gaji_penengah_rm": 1900,
+      "gaji_purata_rm": 2597
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 275.6,
+      "gaji_penengah_rm": 1950,
+      "gaji_purata_rm": 2464
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 107.4,
+      "gaji_penengah_rm": 1850,
+      "gaji_purata_rm": 2267
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 168.2,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2590
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 294.8,
+      "gaji_penengah_rm": 2060,
+      "gaji_purata_rm": 2628
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 123.7,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2369
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 171.1,
+      "gaji_penengah_rm": 2080,
+      "gaji_purata_rm": 2815
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 303.2,
+      "gaji_penengah_rm": 2170,
+      "gaji_purata_rm": 2874
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 121.3,
+      "gaji_penengah_rm": 2015,
+      "gaji_purata_rm": 2639
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 181.9,
+      "gaji_penengah_rm": 2250,
+      "gaji_purata_rm": 3031
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 309.1,
+      "gaji_penengah_rm": 2348,
+      "gaji_purata_rm": 3048
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 127.3,
+      "gaji_penengah_rm": 2137,
+      "gaji_purata_rm": 2846
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 181.9,
+      "gaji_penengah_rm": 2442,
+      "gaji_purata_rm": 3189
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 314.9,
+      "gaji_penengah_rm": 2433,
+      "gaji_purata_rm": 3218
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 126.2,
+      "gaji_penengah_rm": 2261,
+      "gaji_purata_rm": 3138
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 188.7,
+      "gaji_penengah_rm": 2513,
+      "gaji_purata_rm": 3272
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 344.1,
+      "gaji_penengah_rm": 2011,
+      "gaji_purata_rm": 2989
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 136.3,
+      "gaji_penengah_rm": 1883,
+      "gaji_purata_rm": 2876
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 207.8,
+      "gaji_penengah_rm": 2167,
+      "gaji_purata_rm": 3062
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 343.5,
+      "gaji_penengah_rm": 2321,
+      "gaji_purata_rm": 3060
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 138.5,
+      "gaji_penengah_rm": 2166,
+      "gaji_purata_rm": 3077
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 205,
+      "gaji_penengah_rm": 2323,
+      "gaji_purata_rm": 3049
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 342.5,
+      "gaji_penengah_rm": 2334,
+      "gaji_purata_rm": 3177
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 128,
+      "gaji_penengah_rm": 2218,
+      "gaji_purata_rm": 3135
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 214.5,
+      "gaji_penengah_rm": 2359,
+      "gaji_purata_rm": 3201
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 350.9,
+      "gaji_penengah_rm": 2361,
+      "gaji_purata_rm": 3375
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 132.2,
+      "gaji_penengah_rm": 2343,
+      "gaji_purata_rm": 3386
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 218.6,
+      "gaji_penengah_rm": 2402,
+      "gaji_purata_rm": 3368
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 356.6,
+      "gaji_penengah_rm": 2503,
+      "gaji_purata_rm": 3626
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 136.9,
+      "gaji_penengah_rm": 2475,
+      "gaji_purata_rm": 3538
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 219.7,
+      "gaji_penengah_rm": 2606,
+      "gaji_purata_rm": 3682
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 357.1,
+      "gaji_penengah_rm": 2710,
+      "gaji_purata_rm": 3730
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 140.4,
+      "gaji_penengah_rm": 2693,
+      "gaji_purata_rm": 3652
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 216.7,
+      "gaji_penengah_rm": 2725,
+      "gaji_purata_rm": 3781
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 315.2,
+      "gaji_penengah_rm": 1341,
+      "gaji_purata_rm": 1660
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 113.9,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1533
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 201.3,
+      "gaji_penengah_rm": 1418,
+      "gaji_purata_rm": 1732
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 347.8,
+      "gaji_penengah_rm": 1380,
+      "gaji_purata_rm": 1695
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 118.5,
+      "gaji_penengah_rm": 1269,
+      "gaji_purata_rm": 1627
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 229.3,
+      "gaji_penengah_rm": 1430,
+      "gaji_purata_rm": 1731
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 348.4,
+      "gaji_penengah_rm": 1327,
+      "gaji_purata_rm": 1718
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 125.7,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1669
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 222.6,
+      "gaji_penengah_rm": 1400,
+      "gaji_purata_rm": 1745
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 338.4,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1919
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 118.7,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1919
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 219.7,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1918
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 391.2,
+      "gaji_penengah_rm": 1585,
+      "gaji_purata_rm": 2062
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 146.2,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2009
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 245.1,
+      "gaji_penengah_rm": 1620,
+      "gaji_purata_rm": 2094
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 507.3,
+      "gaji_penengah_rm": 1620,
+      "gaji_purata_rm": 2122
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 193.8,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2047
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 313.5,
+      "gaji_penengah_rm": 1700,
+      "gaji_purata_rm": 2168
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 374.5,
+      "gaji_penengah_rm": 1650,
+      "gaji_purata_rm": 2185
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 144.6,
+      "gaji_penengah_rm": 1650,
+      "gaji_purata_rm": 2131
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 230,
+      "gaji_penengah_rm": 1682,
+      "gaji_purata_rm": 2219
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 386.1,
+      "gaji_penengah_rm": 1870,
+      "gaji_purata_rm": 2425
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 144.9,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2456
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 241.2,
+      "gaji_penengah_rm": 1865,
+      "gaji_purata_rm": 2406
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 393.1,
+      "gaji_penengah_rm": 2111,
+      "gaji_purata_rm": 2662
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 145.2,
+      "gaji_penengah_rm": 1967,
+      "gaji_purata_rm": 2712
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 247.9,
+      "gaji_penengah_rm": 2140,
+      "gaji_purata_rm": 2632
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 424.7,
+      "gaji_penengah_rm": 2225,
+      "gaji_purata_rm": 2754
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 160.2,
+      "gaji_penengah_rm": 1980,
+      "gaji_purata_rm": 2813
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 264.4,
+      "gaji_penengah_rm": 2260,
+      "gaji_purata_rm": 2718
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 446,
+      "gaji_penengah_rm": 1775,
+      "gaji_purata_rm": 2690
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 168.2,
+      "gaji_penengah_rm": 2011,
+      "gaji_purata_rm": 2825
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 277.8,
+      "gaji_penengah_rm": 1705,
+      "gaji_purata_rm": 2608
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 445.5,
+      "gaji_penengah_rm": 1897,
+      "gaji_purata_rm": 2727
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 171.4,
+      "gaji_penengah_rm": 1927,
+      "gaji_purata_rm": 2816
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 274.2,
+      "gaji_penengah_rm": 1868,
+      "gaji_purata_rm": 2672
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 444,
+      "gaji_penengah_rm": 2013,
+      "gaji_purata_rm": 2844
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 165.5,
+      "gaji_penengah_rm": 2087,
+      "gaji_purata_rm": 2970
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 278.5,
+      "gaji_penengah_rm": 2013,
+      "gaji_purata_rm": 2769
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 454.2,
+      "gaji_penengah_rm": 2276,
+      "gaji_purata_rm": 3124
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 171.5,
+      "gaji_penengah_rm": 2439,
+      "gaji_purata_rm": 3236
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 282.8,
+      "gaji_penengah_rm": 2045,
+      "gaji_purata_rm": 3057
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 465.6,
+      "gaji_penengah_rm": 2491,
+      "gaji_purata_rm": 3337
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 177.9,
+      "gaji_penengah_rm": 2641,
+      "gaji_purata_rm": 3375
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 287.7,
+      "gaji_penengah_rm": 2213,
+      "gaji_purata_rm": 3314
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 471.8,
+      "gaji_penengah_rm": 2578,
+      "gaji_purata_rm": 3434
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 183.2,
+      "gaji_penengah_rm": 2627,
+      "gaji_purata_rm": 3443
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 288.6,
+      "gaji_penengah_rm": 2526,
+      "gaji_purata_rm": 3429
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 545.7,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1622
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 191,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1511
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 354.7,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 1681
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 594.9,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1607
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 224.3,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1518
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 370.6,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 1660
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 584.7,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 1712
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 222.3,
+      "gaji_penengah_rm": 1100,
+      "gaji_purata_rm": 1627
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 362.5,
+      "gaji_penengah_rm": 1415,
+      "gaji_purata_rm": 1765
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 589.7,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 1732
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 223,
+      "gaji_penengah_rm": 1100,
+      "gaji_purata_rm": 1677
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 366.7,
+      "gaji_penengah_rm": 1400,
+      "gaji_purata_rm": 1766
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 644.8,
+      "gaji_penengah_rm": 1441,
+      "gaji_purata_rm": 1859
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 251.8,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1756
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 393,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1926
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 653.5,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2030
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 250.9,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1947
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 402.6,
+      "gaji_penengah_rm": 1560,
+      "gaji_purata_rm": 2082
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 647.9,
+      "gaji_penengah_rm": 1650,
+      "gaji_purata_rm": 2206
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 256.5,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2122
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 391.4,
+      "gaji_penengah_rm": 1703,
+      "gaji_purata_rm": 2260
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 659.2,
+      "gaji_penengah_rm": 1700,
+      "gaji_purata_rm": 2281
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 267.9,
+      "gaji_penengah_rm": 1650,
+      "gaji_purata_rm": 2240
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 391.4,
+      "gaji_penengah_rm": 1760,
+      "gaji_purata_rm": 2310
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 676.2,
+      "gaji_penengah_rm": 1775,
+      "gaji_purata_rm": 2387
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 273.7,
+      "gaji_penengah_rm": 1640,
+      "gaji_purata_rm": 2280
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 402.5,
+      "gaji_penengah_rm": 1935,
+      "gaji_purata_rm": 2461
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 699.9,
+      "gaji_penengah_rm": 1858,
+      "gaji_purata_rm": 2571
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 283.6,
+      "gaji_penengah_rm": 1650,
+      "gaji_purata_rm": 2452
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 416.3,
+      "gaji_penengah_rm": 2013,
+      "gaji_purata_rm": 2653
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 700.6,
+      "gaji_penengah_rm": 1666,
+      "gaji_purata_rm": 2468
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 277.8,
+      "gaji_penengah_rm": 1545,
+      "gaji_purata_rm": 2471
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 422.8,
+      "gaji_penengah_rm": 1713,
+      "gaji_purata_rm": 2466
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 714,
+      "gaji_penengah_rm": 1898,
+      "gaji_purata_rm": 2619
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 297.9,
+      "gaji_penengah_rm": 1645,
+      "gaji_purata_rm": 2616
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 416,
+      "gaji_penengah_rm": 1947,
+      "gaji_purata_rm": 2622
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 731.4,
+      "gaji_penengah_rm": 1901,
+      "gaji_purata_rm": 2742
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 307.1,
+      "gaji_penengah_rm": 1677,
+      "gaji_purata_rm": 2692
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 424.3,
+      "gaji_penengah_rm": 1953,
+      "gaji_purata_rm": 2778
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 729.7,
+      "gaji_penengah_rm": 2045,
+      "gaji_purata_rm": 2973
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 311.1,
+      "gaji_penengah_rm": 1916,
+      "gaji_purata_rm": 2945
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 418.6,
+      "gaji_penengah_rm": 2045,
+      "gaji_purata_rm": 2993
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 735.7,
+      "gaji_penengah_rm": 2050,
+      "gaji_purata_rm": 3172
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 312,
+      "gaji_penengah_rm": 1947,
+      "gaji_purata_rm": 3153
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 423.8,
+      "gaji_penengah_rm": 2200,
+      "gaji_purata_rm": 3186
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 742.2,
+      "gaji_penengah_rm": 2173,
+      "gaji_purata_rm": 3233
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 313.6,
+      "gaji_penengah_rm": 2053,
+      "gaji_purata_rm": 3273
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 428.6,
+      "gaji_penengah_rm": 2301,
+      "gaji_purata_rm": 3203
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 46.4,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1709
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 17.7,
+      "gaji_penengah_rm": 1125,
+      "gaji_purata_rm": 1688
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 28.7,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1722
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 47.7,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1682
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 19.1,
+      "gaji_penengah_rm": 1240,
+      "gaji_purata_rm": 1710
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 28.6,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1663
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 49.7,
+      "gaji_penengah_rm": 1050,
+      "gaji_purata_rm": 1609
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 19.8,
+      "gaji_penengah_rm": 900,
+      "gaji_purata_rm": 1620
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 29.9,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1602
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 50.2,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1710
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 20.4,
+      "gaji_penengah_rm": 900,
+      "gaji_purata_rm": 1701
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 29.7,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1717
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 56.3,
+      "gaji_penengah_rm": 1350,
+      "gaji_purata_rm": 2084
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 22.4,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 2099
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 33.9,
+      "gaji_penengah_rm": 1445,
+      "gaji_purata_rm": 2074
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 56.2,
+      "gaji_penengah_rm": 1495,
+      "gaji_purata_rm": 2248
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 23,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2397
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 33.2,
+      "gaji_penengah_rm": 1410,
+      "gaji_purata_rm": 2144
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 62.2,
+      "gaji_penengah_rm": 1630,
+      "gaji_purata_rm": 2271
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 25,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2225
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 37.2,
+      "gaji_penengah_rm": 1630,
+      "gaji_purata_rm": 2302
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 61.5,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2465
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 23.7,
+      "gaji_penengah_rm": 2145,
+      "gaji_purata_rm": 2589
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 37.8,
+      "gaji_penengah_rm": 1650,
+      "gaji_purata_rm": 2388
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 61.8,
+      "gaji_penengah_rm": 1989,
+      "gaji_purata_rm": 2628
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 23.2,
+      "gaji_penengah_rm": 1959,
+      "gaji_purata_rm": 2805
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 38.6,
+      "gaji_penengah_rm": 2011,
+      "gaji_purata_rm": 2522
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 69.4,
+      "gaji_penengah_rm": 2010,
+      "gaji_purata_rm": 2723
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 28,
+      "gaji_penengah_rm": 1900,
+      "gaji_purata_rm": 2847
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 41.3,
+      "gaji_penengah_rm": 2070,
+      "gaji_purata_rm": 2640
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 74.6,
+      "gaji_penengah_rm": 1541,
+      "gaji_purata_rm": 2605
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 30.6,
+      "gaji_penengah_rm": 1395,
+      "gaji_purata_rm": 2720
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 44.1,
+      "gaji_penengah_rm": 1541,
+      "gaji_purata_rm": 2525
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 78,
+      "gaji_penengah_rm": 1713,
+      "gaji_purata_rm": 2676
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 32.4,
+      "gaji_penengah_rm": 1926,
+      "gaji_purata_rm": 2703
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 45.6,
+      "gaji_penengah_rm": 1698,
+      "gaji_purata_rm": 2657
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 76.7,
+      "gaji_penengah_rm": 1781,
+      "gaji_purata_rm": 2746
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 32.4,
+      "gaji_penengah_rm": 1908,
+      "gaji_purata_rm": 2845
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 44.4,
+      "gaji_penengah_rm": 1781,
+      "gaji_purata_rm": 2674
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 76.9,
+      "gaji_penengah_rm": 1820,
+      "gaji_purata_rm": 2968
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 33,
+      "gaji_penengah_rm": 1978,
+      "gaji_purata_rm": 3069
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 43.8,
+      "gaji_penengah_rm": 1818,
+      "gaji_purata_rm": 2891
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 80,
+      "gaji_penengah_rm": 2038,
+      "gaji_purata_rm": 3257
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 33.7,
+      "gaji_penengah_rm": 2038,
+      "gaji_purata_rm": 3375
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 46.3,
+      "gaji_penengah_rm": 1970,
+      "gaji_purata_rm": 3170
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 80.6,
+      "gaji_penengah_rm": 2013,
+      "gaji_purata_rm": 3401
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 34.7,
+      "gaji_penengah_rm": 1991,
+      "gaji_purata_rm": 3434
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 45.9,
+      "gaji_penengah_rm": 2067,
+      "gaji_purata_rm": 3377
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 501.4,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1944
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 207.8,
+      "gaji_penengah_rm": 1466,
+      "gaji_purata_rm": 1791
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 293.6,
+      "gaji_penengah_rm": 1530,
+      "gaji_purata_rm": 2052
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 527.9,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2016
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 215.8,
+      "gaji_penengah_rm": 1368,
+      "gaji_purata_rm": 1867
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 312.1,
+      "gaji_penengah_rm": 1560,
+      "gaji_purata_rm": 2119
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 525.8,
+      "gaji_penengah_rm": 1515,
+      "gaji_purata_rm": 2021
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 222.5,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1893
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 303.3,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2115
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 529.1,
+      "gaji_penengah_rm": 1631,
+      "gaji_purata_rm": 2106
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 219.7,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1927
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 309.4,
+      "gaji_penengah_rm": 1775,
+      "gaji_purata_rm": 2234
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 553,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2339
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 233.1,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2154
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 320,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2474
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 556.2,
+      "gaji_penengah_rm": 1900,
+      "gaji_purata_rm": 2414
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 231.6,
+      "gaji_penengah_rm": 1700,
+      "gaji_purata_rm": 2217
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 324.7,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2555
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 555.8,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2603
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 234.7,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2424
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 321.1,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2734
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 565.6,
+      "gaji_penengah_rm": 2160,
+      "gaji_purata_rm": 2672
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 239.6,
+      "gaji_penengah_rm": 2160,
+      "gaji_purata_rm": 2512
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 325.9,
+      "gaji_penengah_rm": 2170,
+      "gaji_purata_rm": 2791
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 566.2,
+      "gaji_penengah_rm": 2215,
+      "gaji_purata_rm": 2811
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 244.3,
+      "gaji_penengah_rm": 2082,
+      "gaji_purata_rm": 2549
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 321.9,
+      "gaji_penengah_rm": 2241,
+      "gaji_purata_rm": 3010
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 586.7,
+      "gaji_penengah_rm": 2346,
+      "gaji_purata_rm": 3022
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 249.5,
+      "gaji_penengah_rm": 2206,
+      "gaji_purata_rm": 2800
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 337.2,
+      "gaji_penengah_rm": 2481,
+      "gaji_purata_rm": 3186
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 614,
+      "gaji_penengah_rm": 2115,
+      "gaji_purata_rm": 2881
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 262.6,
+      "gaji_penengah_rm": 1965,
+      "gaji_purata_rm": 2677
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 351.4,
+      "gaji_penengah_rm": 2244,
+      "gaji_purata_rm": 3034
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 604.7,
+      "gaji_penengah_rm": 2414,
+      "gaji_purata_rm": 3089
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 259.6,
+      "gaji_penengah_rm": 2265,
+      "gaji_purata_rm": 2990
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 345.1,
+      "gaji_penengah_rm": 2414,
+      "gaji_purata_rm": 3164
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 641.6,
+      "gaji_penengah_rm": 2477,
+      "gaji_purata_rm": 3315
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 280.3,
+      "gaji_penengah_rm": 2297,
+      "gaji_purata_rm": 3176
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 361.3,
+      "gaji_penengah_rm": 2558,
+      "gaji_purata_rm": 3423
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 635.8,
+      "gaji_penengah_rm": 2715,
+      "gaji_purata_rm": 3557
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 281.4,
+      "gaji_penengah_rm": 2715,
+      "gaji_purata_rm": 3402
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 354.4,
+      "gaji_penengah_rm": 2836,
+      "gaji_purata_rm": 3680
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 642.2,
+      "gaji_penengah_rm": 2934,
+      "gaji_purata_rm": 3787
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 282.3,
+      "gaji_penengah_rm": 2894,
+      "gaji_purata_rm": 3594
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 360,
+      "gaji_penengah_rm": 3125,
+      "gaji_purata_rm": 3938
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 648.8,
+      "gaji_penengah_rm": 3107,
+      "gaji_purata_rm": 3912
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 291.1,
+      "gaji_penengah_rm": 2923,
+      "gaji_purata_rm": 3675
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 357.7,
+      "gaji_penengah_rm": 3334,
+      "gaji_purata_rm": 4104
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 504,
+      "gaji_penengah_rm": 1188,
+      "gaji_purata_rm": 1578
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 184.9,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1535
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 319.1,
+      "gaji_penengah_rm": 1150,
+      "gaji_purata_rm": 1603
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 561.1,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1623
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 218.8,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1629
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 342.3,
+      "gaji_penengah_rm": 1115,
+      "gaji_purata_rm": 1619
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 582.8,
+      "gaji_penengah_rm": 1100,
+      "gaji_purata_rm": 1634
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 228.4,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1630
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 354.3,
+      "gaji_penengah_rm": 1100,
+      "gaji_purata_rm": 1637
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 608.8,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 1877
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 250.5,
+      "gaji_penengah_rm": 1400,
+      "gaji_purata_rm": 1911
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 358.3,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 1853
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 645.5,
+      "gaji_penengah_rm": 1400,
+      "gaji_purata_rm": 1998
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 259.4,
+      "gaji_penengah_rm": 1450,
+      "gaji_purata_rm": 2029
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 386,
+      "gaji_penengah_rm": 1379,
+      "gaji_purata_rm": 1977
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 646.5,
+      "gaji_penengah_rm": 1480,
+      "gaji_purata_rm": 2046
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 265.2,
+      "gaji_penengah_rm": 1400,
+      "gaji_purata_rm": 2075
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 381.3,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2026
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 661.7,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2224
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 264.7,
+      "gaji_penengah_rm": 1542,
+      "gaji_purata_rm": 2194
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 397.1,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2243
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 654.2,
+      "gaji_penengah_rm": 1763,
+      "gaji_purata_rm": 2507
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 262.3,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2503
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 391.9,
+      "gaji_penengah_rm": 1750,
+      "gaji_purata_rm": 2509
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 665.2,
+      "gaji_penengah_rm": 1951,
+      "gaji_purata_rm": 2745
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 264.8,
+      "gaji_penengah_rm": 1964,
+      "gaji_purata_rm": 2807
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 400.5,
+      "gaji_penengah_rm": 1947,
+      "gaji_purata_rm": 2703
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 688.4,
+      "gaji_penengah_rm": 1980,
+      "gaji_purata_rm": 2836
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 268.5,
+      "gaji_penengah_rm": 2060,
+      "gaji_purata_rm": 2845
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 419.9,
+      "gaji_penengah_rm": 1980,
+      "gaji_purata_rm": 2830
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 647.5,
+      "gaji_penengah_rm": 1705,
+      "gaji_purata_rm": 2648
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 258.1,
+      "gaji_penengah_rm": 1793,
+      "gaji_purata_rm": 2716
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 389.4,
+      "gaji_penengah_rm": 1670,
+      "gaji_purata_rm": 2604
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 696.7,
+      "gaji_penengah_rm": 1899,
+      "gaji_purata_rm": 2784
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 273.5,
+      "gaji_penengah_rm": 1931,
+      "gaji_purata_rm": 2782
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 423.2,
+      "gaji_penengah_rm": 1878,
+      "gaji_purata_rm": 2785
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 721.4,
+      "gaji_penengah_rm": 2011,
+      "gaji_purata_rm": 2871
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 274.1,
+      "gaji_penengah_rm": 2115,
+      "gaji_purata_rm": 2902
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 447.3,
+      "gaji_penengah_rm": 2011,
+      "gaji_purata_rm": 2851
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 726.4,
+      "gaji_penengah_rm": 2059,
+      "gaji_purata_rm": 3127
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 277.1,
+      "gaji_penengah_rm": 2276,
+      "gaji_purata_rm": 3118
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 449.3,
+      "gaji_penengah_rm": 1916,
+      "gaji_purata_rm": 3133
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 730,
+      "gaji_penengah_rm": 2236,
+      "gaji_purata_rm": 3389
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 279.8,
+      "gaji_penengah_rm": 2476,
+      "gaji_purata_rm": 3285
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 450.2,
+      "gaji_penengah_rm": 2094,
+      "gaji_purata_rm": 3455
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 736.7,
+      "gaji_penengah_rm": 2482,
+      "gaji_purata_rm": 3421
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 289.9,
+      "gaji_penengah_rm": 2562,
+      "gaji_purata_rm": 3333
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 446.8,
+      "gaji_penengah_rm": 2482,
+      "gaji_purata_rm": 3478
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 579,
+      "gaji_penengah_rm": 1100,
+      "gaji_purata_rm": 1706
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 185.7,
+      "gaji_penengah_rm": 1100,
+      "gaji_purata_rm": 1593
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 393.4,
+      "gaji_penengah_rm": 1100,
+      "gaji_purata_rm": 1759
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 605.7,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1753
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 198.1,
+      "gaji_penengah_rm": 1141,
+      "gaji_purata_rm": 1654
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 407.6,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1800
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 635.8,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1735
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 209.9,
+      "gaji_penengah_rm": 1100,
+      "gaji_purata_rm": 1652
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 425.9,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1776
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 632.2,
+      "gaji_penengah_rm": 1400,
+      "gaji_purata_rm": 1929
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 213.6,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 1817
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 418.6,
+      "gaji_penengah_rm": 1475,
+      "gaji_purata_rm": 1986
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 696.9,
+      "gaji_penengah_rm": 1400,
+      "gaji_purata_rm": 2069
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 236.8,
+      "gaji_penengah_rm": 1250,
+      "gaji_purata_rm": 1959
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 460.1,
+      "gaji_penengah_rm": 1472,
+      "gaji_purata_rm": 2126
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 697,
+      "gaji_penengah_rm": 1450,
+      "gaji_purata_rm": 2077
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 248.2,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2094
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 448.8,
+      "gaji_penengah_rm": 1440,
+      "gaji_purata_rm": 2068
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 706.1,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2255
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 247.4,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2179
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 458.7,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2295
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 728.8,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2513
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 254.4,
+      "gaji_penengah_rm": 2145,
+      "gaji_purata_rm": 2529
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 474.4,
+      "gaji_penengah_rm": 1750,
+      "gaji_purata_rm": 2504
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 743,
+      "gaji_penengah_rm": 2033,
+      "gaji_purata_rm": 2757
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 265.8,
+      "gaji_penengah_rm": 1952,
+      "gaji_purata_rm": 2767
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 477.2,
+      "gaji_penengah_rm": 2063,
+      "gaji_purata_rm": 2751
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 775.7,
+      "gaji_penengah_rm": 2070,
+      "gaji_purata_rm": 2819
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 277.4,
+      "gaji_penengah_rm": 2070,
+      "gaji_purata_rm": 2805
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 498.3,
+      "gaji_penengah_rm": 2081,
+      "gaji_purata_rm": 2827
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 691.8,
+      "gaji_penengah_rm": 1595,
+      "gaji_purata_rm": 2515
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 257.2,
+      "gaji_penengah_rm": 1595,
+      "gaji_purata_rm": 2528
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 434.6,
+      "gaji_penengah_rm": 1669,
+      "gaji_purata_rm": 2508
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 733.9,
+      "gaji_penengah_rm": 2036,
+      "gaji_purata_rm": 2786
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 277.9,
+      "gaji_penengah_rm": 2295,
+      "gaji_purata_rm": 2940
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 456,
+      "gaji_penengah_rm": 1927,
+      "gaji_purata_rm": 2691
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 741.3,
+      "gaji_penengah_rm": 2069,
+      "gaji_purata_rm": 2937
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 276.3,
+      "gaji_penengah_rm": 2397,
+      "gaji_purata_rm": 3101
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 464.9,
+      "gaji_penengah_rm": 2069,
+      "gaji_purata_rm": 2840
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 758.6,
+      "gaji_penengah_rm": 2276,
+      "gaji_purata_rm": 3158
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 282.6,
+      "gaji_penengah_rm": 2551,
+      "gaji_purata_rm": 3237
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 476,
+      "gaji_penengah_rm": 1974,
+      "gaji_purata_rm": 3110
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 771.7,
+      "gaji_penengah_rm": 2490,
+      "gaji_purata_rm": 3424
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 283.2,
+      "gaji_penengah_rm": 2750,
+      "gaji_purata_rm": 3460
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 488.4,
+      "gaji_penengah_rm": 2140,
+      "gaji_purata_rm": 3402
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 784.8,
+      "gaji_penengah_rm": 2707,
+      "gaji_purata_rm": 3645
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 298.4,
+      "gaji_penengah_rm": 2747,
+      "gaji_purata_rm": 3538
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 486.4,
+      "gaji_penengah_rm": 2688,
+      "gaji_purata_rm": 3711
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1733.3,
+      "gaji_penengah_rm": 1894,
+      "gaji_purata_rm": 2429
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 702.2,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2269
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1031.1,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2538
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1845.8,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2314
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 760.3,
+      "gaji_penengah_rm": 1650,
+      "gaji_purata_rm": 2096
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1085.5,
+      "gaji_penengah_rm": 1990,
+      "gaji_purata_rm": 2466
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1948.9,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2501
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 809.1,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2279
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1139.7,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2659
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1952.9,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2666
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 819.7,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2447
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1133.3,
+      "gaji_penengah_rm": 2200,
+      "gaji_purata_rm": 2825
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 2058.9,
+      "gaji_penengah_rm": 2200,
+      "gaji_purata_rm": 2820
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 851.6,
+      "gaji_penengah_rm": 2050,
+      "gaji_purata_rm": 2602
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1207.3,
+      "gaji_penengah_rm": 2400,
+      "gaji_purata_rm": 2975
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 1982.3,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 3073
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 820,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 2843
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1162.3,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 3236
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 2043,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 3239
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 871.3,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 3016
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1171.7,
+      "gaji_penengah_rm": 2600,
+      "gaji_purata_rm": 3404
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 2147.8,
+      "gaji_penengah_rm": 2580,
+      "gaji_purata_rm": 3454
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 934.6,
+      "gaji_penengah_rm": 2515,
+      "gaji_purata_rm": 3198
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1213.3,
+      "gaji_penengah_rm": 2745,
+      "gaji_purata_rm": 3651
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 2153.5,
+      "gaji_penengah_rm": 2695,
+      "gaji_purata_rm": 3668
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 923.9,
+      "gaji_penengah_rm": 2549,
+      "gaji_purata_rm": 3419
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1229.6,
+      "gaji_penengah_rm": 2888,
+      "gaji_purata_rm": 3855
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 2333.6,
+      "gaji_penengah_rm": 2956,
+      "gaji_purata_rm": 3892
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 1050.6,
+      "gaji_penengah_rm": 2788,
+      "gaji_purata_rm": 3621
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1283,
+      "gaji_penengah_rm": 3169,
+      "gaji_purata_rm": 4114
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 2461.7,
+      "gaji_penengah_rm": 2713,
+      "gaji_purata_rm": 3476
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 1138.2,
+      "gaji_penengah_rm": 2540,
+      "gaji_purata_rm": 3220
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1323.5,
+      "gaji_penengah_rm": 2874,
+      "gaji_purata_rm": 3696
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 2526.6,
+      "gaji_penengah_rm": 2778,
+      "gaji_purata_rm": 3475
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 1108.3,
+      "gaji_penengah_rm": 2303,
+      "gaji_purata_rm": 3151
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1418.4,
+      "gaji_penengah_rm": 2979,
+      "gaji_purata_rm": 3728
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 2560.7,
+      "gaji_penengah_rm": 3109,
+      "gaji_purata_rm": 3719
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 1172.4,
+      "gaji_penengah_rm": 2647,
+      "gaji_purata_rm": 3313
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1388.2,
+      "gaji_penengah_rm": 3400,
+      "gaji_purata_rm": 4063
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 2596.2,
+      "gaji_penengah_rm": 3235,
+      "gaji_purata_rm": 3885
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 1181,
+      "gaji_penengah_rm": 2465,
+      "gaji_purata_rm": 3426
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1415.2,
+      "gaji_penengah_rm": 3667,
+      "gaji_purata_rm": 4267
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 2610.5,
+      "gaji_penengah_rm": 3350,
+      "gaji_purata_rm": 4052
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 1191.1,
+      "gaji_penengah_rm": 2641,
+      "gaji_purata_rm": 3576
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1419.4,
+      "gaji_penengah_rm": 3751,
+      "gaji_purata_rm": 4452
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 2653.7,
+      "gaji_penengah_rm": 3547,
+      "gaji_purata_rm": 4258
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 1194.1,
+      "gaji_penengah_rm": 3024,
+      "gaji_purata_rm": 3727
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 1459.6,
+      "gaji_penengah_rm": 3873,
+      "gaji_purata_rm": 4692
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 225.4,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1737
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 76.2,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1674
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 149.1,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1770
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 248.7,
+      "gaji_penengah_rm": 1158,
+      "gaji_purata_rm": 1645
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 85.6,
+      "gaji_penengah_rm": 1174,
+      "gaji_purata_rm": 1608
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 163,
+      "gaji_penengah_rm": 1150,
+      "gaji_purata_rm": 1665
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 248.1,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1761
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 85.5,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1735
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 162.6,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1775
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 243.8,
+      "gaji_penengah_rm": 1150,
+      "gaji_purata_rm": 1819
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 83.4,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1804
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 160.4,
+      "gaji_penengah_rm": 1200,
+      "gaji_purata_rm": 1826
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 260.9,
+      "gaji_penengah_rm": 1250,
+      "gaji_purata_rm": 1932
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 89.5,
+      "gaji_penengah_rm": 1000,
+      "gaji_purata_rm": 1904
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 171.4,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 1947
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 267.1,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2107
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 93.8,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 2112
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 173.3,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2105
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 272.4,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2341
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 93.2,
+      "gaji_penengah_rm": 1300,
+      "gaji_purata_rm": 2309
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 179.2,
+      "gaji_penengah_rm": 1600,
+      "gaji_purata_rm": 2358
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 285,
+      "gaji_penengah_rm": 1700,
+      "gaji_purata_rm": 2522
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 104.8,
+      "gaji_penengah_rm": 2145,
+      "gaji_purata_rm": 2524
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 180.2,
+      "gaji_penengah_rm": 1680,
+      "gaji_purata_rm": 2521
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 285,
+      "gaji_penengah_rm": 1874,
+      "gaji_purata_rm": 2695
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 101.6,
+      "gaji_penengah_rm": 1903,
+      "gaji_purata_rm": 2678
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 183.4,
+      "gaji_penengah_rm": 1860,
+      "gaji_purata_rm": 2705
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 306.7,
+      "gaji_penengah_rm": 1911,
+      "gaji_purata_rm": 2766
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 112.7,
+      "gaji_penengah_rm": 1853,
+      "gaji_purata_rm": 2721
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 194,
+      "gaji_penengah_rm": 1911,
+      "gaji_purata_rm": 2793
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 302.3,
+      "gaji_penengah_rm": 1537,
+      "gaji_purata_rm": 2441
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 103.1,
+      "gaji_penengah_rm": 1343,
+      "gaji_purata_rm": 2435
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 199.2,
+      "gaji_penengah_rm": 1635,
+      "gaji_purata_rm": 2443
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 307.6,
+      "gaji_penengah_rm": 1549,
+      "gaji_purata_rm": 2544
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 109.5,
+      "gaji_penengah_rm": 1549,
+      "gaji_purata_rm": 2499
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 198,
+      "gaji_penengah_rm": 1669,
+      "gaji_purata_rm": 2568
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 307,
+      "gaji_penengah_rm": 1703,
+      "gaji_purata_rm": 2615
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 102.2,
+      "gaji_penengah_rm": 1595,
+      "gaji_purata_rm": 2603
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 204.8,
+      "gaji_penengah_rm": 1760,
+      "gaji_purata_rm": 2620
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 312,
+      "gaji_penengah_rm": 1845,
+      "gaji_purata_rm": 2898
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 104.5,
+      "gaji_penengah_rm": 1807,
+      "gaji_purata_rm": 2980
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 207.5,
+      "gaji_penengah_rm": 1849,
+      "gaji_purata_rm": 2857
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 320.3,
+      "gaji_penengah_rm": 2021,
+      "gaji_purata_rm": 3107
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 107.2,
+      "gaji_penengah_rm": 1946,
+      "gaji_purata_rm": 3248
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 213.1,
+      "gaji_penengah_rm": 2025,
+      "gaji_purata_rm": 3036
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 326.5,
+      "gaji_penengah_rm": 2195,
+      "gaji_purata_rm": 3208
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 112.1,
+      "gaji_penengah_rm": 2124,
+      "gaji_purata_rm": 3472
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 214.4,
+      "gaji_penengah_rm": 2195,
+      "gaji_purata_rm": 3069
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 558.2,
+      "gaji_penengah_rm": 1900,
+      "gaji_purata_rm": 2290
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 242.7,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2082
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 315.5,
+      "gaji_penengah_rm": 1965,
+      "gaji_purata_rm": 2451
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 580.5,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2513
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 259.8,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2359
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 321.6,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2637
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 589.9,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2729
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 250.3,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2514
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 339.6,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2887
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 606.7,
+      "gaji_penengah_rm": 2295,
+      "gaji_purata_rm": 2717
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 272.3,
+      "gaji_penengah_rm": 2050,
+      "gaji_purata_rm": 2510
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 334.4,
+      "gaji_penengah_rm": 2400,
+      "gaji_purata_rm": 2887
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 609.3,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 3111
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 270.6,
+      "gaji_penengah_rm": 2350,
+      "gaji_purata_rm": 2939
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 338.7,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 3249
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 583.5,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 3162
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 255.6,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 2899
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 327.9,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 3366
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 575.3,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 3482
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 248.2,
+      "gaji_penengah_rm": 2420,
+      "gaji_purata_rm": 3281
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 327,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 3635
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 579.8,
+      "gaji_penengah_rm": 2650,
+      "gaji_purata_rm": 3969
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 261,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 3774
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 318.8,
+      "gaji_penengah_rm": 2800,
+      "gaji_purata_rm": 4129
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 557.2,
+      "gaji_penengah_rm": 2946,
+      "gaji_purata_rm": 4336
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 246.3,
+      "gaji_penengah_rm": 2930,
+      "gaji_purata_rm": 4173
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 310.9,
+      "gaji_penengah_rm": 2963,
+      "gaji_purata_rm": 4465
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 564.8,
+      "gaji_penengah_rm": 3106,
+      "gaji_purata_rm": 4359
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 249.9,
+      "gaji_penengah_rm": 3179,
+      "gaji_purata_rm": 4145
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 314.9,
+      "gaji_penengah_rm": 3096,
+      "gaji_purata_rm": 4528
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 619.4,
+      "gaji_penengah_rm": 2995,
+      "gaji_purata_rm": 3849
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 278.5,
+      "gaji_penengah_rm": 2993,
+      "gaji_purata_rm": 3504
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 340.9,
+      "gaji_penengah_rm": 3085,
+      "gaji_purata_rm": 4131
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 678.7,
+      "gaji_penengah_rm": 2999,
+      "gaji_purata_rm": 3994
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 313.7,
+      "gaji_penengah_rm": 2805,
+      "gaji_purata_rm": 3613
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 365,
+      "gaji_penengah_rm": 3250,
+      "gaji_purata_rm": 4321
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 701.8,
+      "gaji_penengah_rm": 3301,
+      "gaji_purata_rm": 4276
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 338.5,
+      "gaji_penengah_rm": 2957,
+      "gaji_purata_rm": 3877
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 363.2,
+      "gaji_penengah_rm": 3636,
+      "gaji_purata_rm": 4649
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 725.9,
+      "gaji_penengah_rm": 3469,
+      "gaji_purata_rm": 4521
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 347.3,
+      "gaji_penengah_rm": 3077,
+      "gaji_purata_rm": 4126
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 378.6,
+      "gaji_penengah_rm": 4023,
+      "gaji_purata_rm": 4883
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 752.9,
+      "gaji_penengah_rm": 3687,
+      "gaji_purata_rm": 4782
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 356.9,
+      "gaji_penengah_rm": 3322,
+      "gaji_purata_rm": 4395
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 396,
+      "gaji_penengah_rm": 4298,
+      "gaji_purata_rm": 5132
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 769.7,
+      "gaji_penengah_rm": 3938,
+      "gaji_purata_rm": 4955
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 376.3,
+      "gaji_penengah_rm": 3440,
+      "gaji_purata_rm": 4704
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 393.4,
+      "gaji_penengah_rm": 4325,
+      "gaji_purata_rm": 5195
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 27.9,
+      "gaji_penengah_rm": 1675,
+      "gaji_purata_rm": 1993
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 9.9,
+      "gaji_penengah_rm": 1324,
+      "gaji_purata_rm": 1685
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 18,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2161
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 29.2,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1903
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 10.2,
+      "gaji_penengah_rm": 1459,
+      "gaji_purata_rm": 1833
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 19,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 1941
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 30,
+      "gaji_penengah_rm": 1519,
+      "gaji_purata_rm": 1931
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 10.9,
+      "gaji_penengah_rm": 1360,
+      "gaji_purata_rm": 1794
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 19.1,
+      "gaji_penengah_rm": 1685,
+      "gaji_purata_rm": 2008
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 29.7,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2254
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 10,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2071
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 19.6,
+      "gaji_penengah_rm": 1850,
+      "gaji_purata_rm": 2347
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 31.3,
+      "gaji_penengah_rm": 1700,
+      "gaji_purata_rm": 2317
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 10.8,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2165
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 20.5,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2397
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 30.6,
+      "gaji_penengah_rm": 1900,
+      "gaji_purata_rm": 2425
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 10.8,
+      "gaji_penengah_rm": 1500,
+      "gaji_purata_rm": 2185
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 19.8,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2556
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 30.6,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 2610
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 11.4,
+      "gaji_penengah_rm": 1762,
+      "gaji_purata_rm": 2332
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 19.2,
+      "gaji_penengah_rm": 2100,
+      "gaji_purata_rm": 2775
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 28.7,
+      "gaji_penengah_rm": 2170,
+      "gaji_purata_rm": 2849
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 9.6,
+      "gaji_penengah_rm": 1800,
+      "gaji_purata_rm": 2439
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 19.1,
+      "gaji_penengah_rm": 2250,
+      "gaji_purata_rm": 3054
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 31.1,
+      "gaji_penengah_rm": 2419,
+      "gaji_purata_rm": 3054
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 11.3,
+      "gaji_penengah_rm": 2024,
+      "gaji_purata_rm": 2858
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 19.8,
+      "gaji_penengah_rm": 2513,
+      "gaji_purata_rm": 3166
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 30.5,
+      "gaji_penengah_rm": 2712,
+      "gaji_purata_rm": 3323
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 10.7,
+      "gaji_penengah_rm": 2261,
+      "gaji_purata_rm": 3075
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 19.8,
+      "gaji_penengah_rm": 2841,
+      "gaji_purata_rm": 3457
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 29,
+      "gaji_penengah_rm": 2154,
+      "gaji_purata_rm": 2931
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 10.3,
+      "gaji_penengah_rm": 1785,
+      "gaji_purata_rm": 2552
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 18.7,
+      "gaji_penengah_rm": 2383,
+      "gaji_purata_rm": 3140
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 30.2,
+      "gaji_penengah_rm": 2573,
+      "gaji_purata_rm": 3281
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 10.6,
+      "gaji_penengah_rm": 2000,
+      "gaji_purata_rm": 3170
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 19.6,
+      "gaji_penengah_rm": 2775,
+      "gaji_purata_rm": 3341
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 31.3,
+      "gaji_penengah_rm": 2657,
+      "gaji_purata_rm": 3365
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 10.6,
+      "gaji_penengah_rm": 2305,
+      "gaji_purata_rm": 3192
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 20.7,
+      "gaji_penengah_rm": 2657,
+      "gaji_purata_rm": 3453
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 31.6,
+      "gaji_penengah_rm": 2735,
+      "gaji_purata_rm": 3636
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 10.9,
+      "gaji_penengah_rm": 2464,
+      "gaji_purata_rm": 3442
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 20.7,
+      "gaji_penengah_rm": 2852,
+      "gaji_purata_rm": 3738
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 32.3,
+      "gaji_penengah_rm": 2931,
+      "gaji_purata_rm": 3812
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 11.3,
+      "gaji_penengah_rm": 2549,
+      "gaji_purata_rm": 3547
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 21,
+      "gaji_penengah_rm": 3057,
+      "gaji_purata_rm": 3955
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 32.8,
+      "gaji_penengah_rm": 2688,
+      "gaji_purata_rm": 3887
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 11.7,
+      "gaji_penengah_rm": 2642,
+      "gaji_purata_rm": 3697
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 21.1,
+      "gaji_penengah_rm": 2688,
+      "gaji_purata_rm": 3992
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2010,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 35.6,
+      "gaji_penengah_rm": 2095,
+      "gaji_purata_rm": 2689
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2010,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 18.9,
+      "gaji_penengah_rm": 1989,
+      "gaji_purata_rm": 2393
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2010,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 16.7,
+      "gaji_penengah_rm": 2300,
+      "gaji_purata_rm": 3024
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2011,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 37.8,
+      "gaji_penengah_rm": 2320,
+      "gaji_purata_rm": 2837
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2011,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 20.3,
+      "gaji_penengah_rm": 2240,
+      "gaji_purata_rm": 2670
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2011,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 17.5,
+      "gaji_penengah_rm": 2440,
+      "gaji_purata_rm": 3031
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2012,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 36.4,
+      "gaji_penengah_rm": 2625,
+      "gaji_purata_rm": 3124
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2012,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 19.9,
+      "gaji_penengah_rm": 2514,
+      "gaji_purata_rm": 2862
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2012,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 16.5,
+      "gaji_penengah_rm": 2847,
+      "gaji_purata_rm": 3440
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2013,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 35.4,
+      "gaji_penengah_rm": 2500,
+      "gaji_purata_rm": 3183
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2013,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 19.1,
+      "gaji_penengah_rm": 2347,
+      "gaji_purata_rm": 2925
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2013,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 16.3,
+      "gaji_penengah_rm": 2735,
+      "gaji_purata_rm": 3484
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2014,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 36.5,
+      "gaji_penengah_rm": 2695,
+      "gaji_purata_rm": 3267
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2014,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 20.5,
+      "gaji_penengah_rm": 2775,
+      "gaji_purata_rm": 3358
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2014,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 16,
+      "gaji_penengah_rm": 2640,
+      "gaji_purata_rm": 3151
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2015,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 34.4,
+      "gaji_penengah_rm": 3000,
+      "gaji_purata_rm": 3743
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2015,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 17.1,
+      "gaji_penengah_rm": 3000,
+      "gaji_purata_rm": 3541
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2015,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 17.3,
+      "gaji_penengah_rm": 3015,
+      "gaji_purata_rm": 3944
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2016,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 33.7,
+      "gaji_penengah_rm": 3250,
+      "gaji_purata_rm": 3995
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2016,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 18.6,
+      "gaji_penengah_rm": 3250,
+      "gaji_purata_rm": 3762
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2016,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 15.1,
+      "gaji_penengah_rm": 3500,
+      "gaji_purata_rm": 4282
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2017,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 32.8,
+      "gaji_penengah_rm": 3500,
+      "gaji_purata_rm": 4220
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2017,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 18.4,
+      "gaji_penengah_rm": 3500,
+      "gaji_purata_rm": 3971
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2017,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 14.4,
+      "gaji_penengah_rm": 3535,
+      "gaji_purata_rm": 4538
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2018,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 33.2,
+      "gaji_penengah_rm": 3673,
+      "gaji_purata_rm": 4530
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2018,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 18.9,
+      "gaji_penengah_rm": 3563,
+      "gaji_purata_rm": 4120
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2018,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 14.2,
+      "gaji_penengah_rm": 3849,
+      "gaji_purata_rm": 5074
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2019,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 32.1,
+      "gaji_penengah_rm": 3749,
+      "gaji_purata_rm": 4695
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2019,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 17.6,
+      "gaji_penengah_rm": 3710,
+      "gaji_purata_rm": 4453
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2019,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 14.5,
+      "gaji_penengah_rm": 3985,
+      "gaji_purata_rm": 4991
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2020,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 34.8,
+      "gaji_penengah_rm": 3682,
+      "gaji_purata_rm": 4497
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2020,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 19.7,
+      "gaji_penengah_rm": 3682,
+      "gaji_purata_rm": 4384
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2020,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 15.1,
+      "gaji_penengah_rm": 3682,
+      "gaji_purata_rm": 4645
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2021,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 36.1,
+      "gaji_penengah_rm": 3858,
+      "gaji_purata_rm": 4602
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2021,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 20.6,
+      "gaji_penengah_rm": 3858,
+      "gaji_purata_rm": 4683
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2021,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 15.5,
+      "gaji_penengah_rm": 3806,
+      "gaji_purata_rm": 4494
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2022,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 35.8,
+      "gaji_penengah_rm": 3995,
+      "gaji_purata_rm": 4716
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2022,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 21,
+      "gaji_penengah_rm": 3995,
+      "gaji_purata_rm": 4592
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2022,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 14.8,
+      "gaji_penengah_rm": 3907,
+      "gaji_purata_rm": 4892
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2023,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 36,
+      "gaji_penengah_rm": 4443,
+      "gaji_purata_rm": 4858
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2023,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 21.7,
+      "gaji_penengah_rm": 4443,
+      "gaji_purata_rm": 4738
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2023,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 14.3,
+      "gaji_penengah_rm": 4095,
+      "gaji_purata_rm": 5041
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2024,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 38.5,
+      "gaji_penengah_rm": 4598,
+      "gaji_purata_rm": 5091
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2024,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 23,
+      "gaji_penengah_rm": 4709,
+      "gaji_purata_rm": 4956
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2024,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 15.5,
+      "gaji_penengah_rm": 4315,
+      "gaji_purata_rm": 5291
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2025,
+      "jantina": "Keseluruhan",
+      "penerima_gaji_ribu": 39,
+      "gaji_penengah_rm": 4828,
+      "gaji_purata_rm": 5417
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2025,
+      "jantina": "Perempuan",
+      "penerima_gaji_ribu": 23.4,
+      "gaji_penengah_rm": 4932,
+      "gaji_purata_rm": 5207
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2025,
+      "jantina": "Lelaki",
+      "penerima_gaji_ribu": 15.6,
+      "gaji_penengah_rm": 4826,
+      "gaji_purata_rm": 5733
+    }
+  ],
+  "meta": {
+    "title": "Gaji Bulanan Pekerja mengikut Negeri dan Jantina - Muat turun percuma",
+    "description": "Gaji bulanan penengah dan purata pekerja bergaji serta bilangan penerima gaji (ribu orang) mengikut negeri dan jantina di Malaysia, daripada Laporan Survei Gaji & Upah DOSM. Mengandungi 816 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Gaji Bulanan Pekerja mengikut Negeri dan Jantina | ListBase",
+    "seo_description": "Muat turun Gaji Bulanan Pekerja mengikut Negeri dan Jantina — 816 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 816 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://open.dosm.gov.my/data-catalogue/wages_state"
+    ]
+  }
+}
