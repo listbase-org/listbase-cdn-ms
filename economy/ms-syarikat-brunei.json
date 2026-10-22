@@ -1,0 +1,96 @@
+{
+  "id": "ms-syarikat-brunei",
+  "name": "Senarai Syarikat Brunei",
+  "title": "Senarai Syarikat Brunei",
+  "description": "Senarai Syarikat Brunei — 5 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "economy",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_syarikat_Brunei",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_syarikat_Brunei",
+  "updated": "2026-10",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "industri",
+      "label": "Industri",
+      "type": "string"
+    },
+    {
+      "key": "sektor",
+      "label": "Sektor",
+      "type": "string"
+    },
+    {
+      "key": "ibu_pejabat",
+      "label": "Ibu Pejabat",
+      "type": "string"
+    },
+    {
+      "key": "ditubuhkan",
+      "label": "Ditubuhkan",
+      "type": "number"
+    },
+    {
+      "key": "nota",
+      "label": "Nota",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Autoriti Monetari Brunei Darussalam",
+      "industri": "Kewangan",
+      "sektor": "Bank",
+      "ibu_pejabat": "Bandar Seri Begawan",
+      "ditubuhkan": "2011",
+      "nota": "Bank pusat"
+    },
+    {
+      "nama": "Brunei LNG",
+      "industri": "Minyak & gas",
+      "sektor": "Penjelajahan & penghasilan",
+      "ibu_pejabat": "Lumut",
+      "ditubuhkan": "1969",
+      "nota": "Loji petroleum"
+    },
+    {
+      "nama": "Hua Ho Department Store",
+      "industri": "Perkhidmatan",
+      "sektor": "Peruncitan",
+      "ibu_pejabat": "Bandar Seri Begawan",
+      "ditubuhkan": "1947",
+      "nota": "Pasar raya"
+    },
+    {
+      "nama": "Penerbangan DiRaja Brunei",
+      "industri": "Perkhidmatan",
+      "sektor": "Penerbangan",
+      "ibu_pejabat": "Bandar Seri Begawan",
+      "ditubuhkan": "1974",
+      "nota": "Syarikat penerbangan negara"
+    },
+    {
+      "nama": "Telekom Brunei",
+      "industri": "Telekomunikasi",
+      "sektor": "Telekomunkasi talian tetap",
+      "ibu_pejabat": "Bandar Seri Begawan",
+      "ditubuhkan": "2005",
+      "nota": "Telekom"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Syarikat Brunei - Muat turun percuma",
+    "description": "Senarai Syarikat Brunei — 5 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 5 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Syarikat Brunei | ListBase",
+    "seo_description": "Muat turun Senarai Syarikat Brunei — 5 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 5 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_syarikat_Brunei"
+    ]
+  }
+}

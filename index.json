@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:41.075Z",
-  "total_datasets": 618,
-  "total_records": 517922,
+  "generated": "2026-10-22T04:32:41.596Z",
+  "total_datasets": 619,
+  "total_records": 517927,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -1848,6 +1848,33 @@
         "xlsx": {
           "name": "ms-orang-terkaya_MS.xlsx",
           "size": 7019
+        }
+      }
+    },
+    {
+      "id": "ms-syarikat-brunei",
+      "name": "Senarai Syarikat Brunei",
+      "category": "economy",
+      "record_count": 5,
+      "columns": [
+        "nama",
+        "industri",
+        "sektor",
+        "ibu_pejabat",
+        "ditubuhkan",
+        "nota"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_syarikat_Brunei",
+      "updated": "2026-10",
+      "size": 2829,
+      "files": {
+        "csv": {
+          "name": "ms-syarikat-brunei_MS.csv",
+          "size": 564
+        },
+        "xlsx": {
+          "name": "ms-syarikat-brunei_MS.xlsx",
+          "size": 7128
         }
       }
     },
