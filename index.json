@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:28.425Z",
-  "total_datasets": 599,
-  "total_records": 515255,
+  "generated": "2026-10-22T04:32:29.020Z",
+  "total_datasets": 600,
+  "total_records": 515581,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "entertainment",
@@ -2107,6 +2107,31 @@
         "xlsx": {
           "name": "ms-sekolah-sabah_MS.xlsx",
           "size": 8526
+        }
+      }
+    },
+    {
+      "id": "ms-sekolah-swasta",
+      "name": "Senarai Sekolah Swasta di Malaysia",
+      "category": "education",
+      "record_count": 326,
+      "columns": [
+        "bahagian",
+        "kod_sekolah",
+        "nama_sekolah",
+        "perincian"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_sekolah_swasta_di_Malaysia",
+      "updated": "2026-10",
+      "size": 80999,
+      "files": {
+        "csv": {
+          "name": "ms-sekolah-swasta_MS.csv",
+          "size": 48061
+        },
+        "xlsx": {
+          "name": "ms-sekolah-swasta_MS.xlsx",
+          "size": 25030
         }
       }
     },
