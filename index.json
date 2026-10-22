@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:41.072Z",
-  "total_datasets": 523,
-  "total_records": 499254,
+  "generated": "2026-10-22T04:31:41.558Z",
+  "total_datasets": 524,
+  "total_records": 499293,
   "categories": [
     {
       "id": "culture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -2940,6 +2940,31 @@
         "xlsx": {
           "name": "ms-bencana-malaysia_MS.xlsx",
           "size": 9934
+        }
+      }
+    },
+    {
+      "id": "ms-gabenor-singapura",
+      "name": "Senarai Gabenor Singapura",
+      "category": "history",
+      "record_count": 39,
+      "columns": [
+        "bahagian",
+        "nama",
+        "dari",
+        "hingga"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Gabenor_Singapura",
+      "updated": "2026-10",
+      "size": 9496,
+      "files": {
+        "csv": {
+          "name": "ms-gabenor-singapura_MS.csv",
+          "size": 4925
+        },
+        "xlsx": {
+          "name": "ms-gabenor-singapura_MS.xlsx",
+          "size": 8423
         }
       }
     },
