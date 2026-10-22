@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:32.556Z",
-  "total_datasets": 507,
-  "total_records": 497775,
+  "generated": "2026-10-22T04:31:33.067Z",
+  "total_datasets": 508,
+  "total_records": 498007,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -1655,6 +1655,28 @@
         "xlsx": {
           "name": "ms-akhbar_MS.xlsx",
           "size": 8751
+        }
+      }
+    },
+    {
+      "id": "ms-anime-di-malaysia",
+      "name": "Senarai Anime yang Ditayangkan di Malaysia",
+      "category": "entertainment",
+      "record_count": 232,
+      "columns": [
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_anime_yang_ditayangkan_di_Malaysia",
+      "updated": "2026-10",
+      "size": 16521,
+      "files": {
+        "csv": {
+          "name": "ms-anime-di-malaysia_MS.csv",
+          "size": 8771
+        },
+        "xlsx": {
+          "name": "ms-anime-di-malaysia_MS.xlsx",
+          "size": 12156
         }
       }
     },
