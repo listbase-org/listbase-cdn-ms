@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:43.630Z",
-  "total_datasets": 528,
-  "total_records": 499459,
+  "generated": "2026-10-22T04:31:45.973Z",
+  "total_datasets": 529,
+  "total_records": 499618,
   "categories": [
     {
       "id": "culture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "health",
@@ -2180,6 +2180,30 @@
         "xlsx": {
           "name": "ms-gunung_MS.xlsx",
           "size": 110551
+        }
+      }
+    },
+    {
+      "id": "ms-ibu-daerah",
+      "name": "Senarai Ibu Daerah di Malaysia",
+      "category": "geography",
+      "record_count": 159,
+      "columns": [
+        "daerah",
+        "ibu_daerah",
+        "bandar_lain"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_ibu_kota_di_Malaysia",
+      "updated": "2026-10",
+      "size": 19052,
+      "files": {
+        "csv": {
+          "name": "ms-ibu-daerah_MS.csv",
+          "size": 6094
+        },
+        "xlsx": {
+          "name": "ms-ibu-daerah_MS.xlsx",
+          "size": 11260
         }
       }
     },

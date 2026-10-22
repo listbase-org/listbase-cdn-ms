@@ -1,0 +1,836 @@
+{
+  "id": "ms-ibu-daerah",
+  "name": "Senarai Ibu Daerah di Malaysia",
+  "title": "Senarai Ibu Daerah di Malaysia",
+  "description": "Senarai Ibu Daerah di Malaysia — 159 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "geography",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_ibu_kota_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_ibu_kota_di_Malaysia",
+  "updated": "2026-10",
+  "record_count": 159,
+  "columns": [
+    {
+      "key": "daerah",
+      "label": "Daerah",
+      "type": "string"
+    },
+    {
+      "key": "ibu_daerah",
+      "label": "Ibu Daerah",
+      "type": "string"
+    },
+    {
+      "key": "bandar_lain",
+      "label": "Bandar Lain",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "daerah": "Johor",
+      "ibu_daerah": "Johor",
+      "bandar_lain": "Johor"
+    },
+    {
+      "daerah": "Daerah Batu Pahat",
+      "ibu_daerah": "Batu Pahat",
+      "bandar_lain": "Yong Peng"
+    },
+    {
+      "daerah": "Daerah Johor Bahru",
+      "ibu_daerah": "Johor Bahru",
+      "bandar_lain": "Iskandar Puteri, Pasir Gudang"
+    },
+    {
+      "daerah": "Daerah Kluang",
+      "ibu_daerah": "Kluang",
+      "bandar_lain": "Simpang Renggam"
+    },
+    {
+      "daerah": "Daerah Kota Tinggi",
+      "ibu_daerah": "Kota Tinggi",
+      "bandar_lain": "Pengerang"
+    },
+    {
+      "daerah": "Daerah Kulai",
+      "ibu_daerah": "Kulai",
+      "bandar_lain": "Senai"
+    },
+    {
+      "daerah": "Daerah Mersing",
+      "ibu_daerah": "Mersing",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Daerah Muar",
+      "ibu_daerah": "Muar",
+      "bandar_lain": "Pagoh"
+    },
+    {
+      "daerah": "Daerah Tangkak",
+      "ibu_daerah": "Tangkak",
+      "bandar_lain": "Bukit Gambir, Tanjung Agas"
+    },
+    {
+      "daerah": "Daerah Pontian",
+      "ibu_daerah": "Pontian Kechil",
+      "bandar_lain": "Pontian Besar, Pekan Nenas"
+    },
+    {
+      "daerah": "Daerah Segamat",
+      "ibu_daerah": "Segamat",
+      "bandar_lain": "Labis"
+    },
+    {
+      "daerah": "Kedah",
+      "ibu_daerah": "Kedah",
+      "bandar_lain": "Kedah"
+    },
+    {
+      "daerah": "Daerah Baling",
+      "ibu_daerah": "Baling",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Daerah Bandar Baharu",
+      "ibu_daerah": "Serdang",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Daerah Kota Setar",
+      "ibu_daerah": "Alor Setar",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Daerah Kuala Muda",
+      "ibu_daerah": "Sungai Petani",
+      "bandar_lain": "Gurun"
+    },
+    {
+      "daerah": "Daerah Kubang Pasu",
+      "ibu_daerah": "Jitra",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Daerah Kulim",
+      "ibu_daerah": "Kulim",
+      "bandar_lain": "Padang Serai"
+    },
+    {
+      "daerah": "Daerah Pulau Langkawi",
+      "ibu_daerah": "Kuah",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Daerah Padang Terap",
+      "ibu_daerah": "Kuala Nerang",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Daerah Pendang",
+      "ibu_daerah": "Pendang",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Daerah Pokok Sena",
+      "ibu_daerah": "Pokok Sena",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Daerah Sik",
+      "ibu_daerah": "Sik",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Daerah Yan",
+      "ibu_daerah": "Yan",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Kelantan",
+      "ibu_daerah": "Kelantan",
+      "bandar_lain": "Kelantan"
+    },
+    {
+      "daerah": "Jajahan Bachok",
+      "ibu_daerah": "Bachok",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Jajahan Gua Musang",
+      "ibu_daerah": "Gua Musang",
+      "bandar_lain": "Jajahan Kecil Lojing"
+    },
+    {
+      "daerah": "Jajahan Jeli",
+      "ibu_daerah": "Jeli",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Jajahan Kota Bharu",
+      "ibu_daerah": "Kota Bharu",
+      "bandar_lain": "Ketereh, Pengkalan Chepa"
+    },
+    {
+      "daerah": "Jajahan Kuala Krai",
+      "ibu_daerah": "Kuala Krai",
+      "bandar_lain": "Dabong"
+    },
+    {
+      "daerah": "Jajahan Machang",
+      "ibu_daerah": "Machang",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Jajahan Pasir Mas",
+      "ibu_daerah": "Pasir Mas",
+      "bandar_lain": "Rantau Panjang"
+    },
+    {
+      "daerah": "Jajahan Pasir Puteh",
+      "ibu_daerah": "Pasir Puteh",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Jajahan Tanah Merah",
+      "ibu_daerah": "Tanah Merah",
+      "bandar_lain": "Bukit Bunga"
+    },
+    {
+      "daerah": "Jajahan Tumpat",
+      "ibu_daerah": "Tumpat",
+      "bandar_lain": "Wakaf Bahru"
+    },
+    {
+      "daerah": "Melaka",
+      "ibu_daerah": "Melaka",
+      "bandar_lain": "Melaka"
+    },
+    {
+      "daerah": "Daerah Alor Gajah",
+      "ibu_daerah": "Alor Gajah",
+      "bandar_lain": "Masjid Tanah, Pulau Sebang, Durian Tunggal"
+    },
+    {
+      "daerah": "Daerah Melaka Tengah",
+      "ibu_daerah": "Ayer Keroh",
+      "bandar_lain": "Bandaraya Melaka, Batu Berendam, Krubong"
+    },
+    {
+      "daerah": "Daerah Jasin",
+      "ibu_daerah": "Jasin",
+      "bandar_lain": "Asahan , Merlimau"
+    },
+    {
+      "daerah": "Negeri Sembilan",
+      "ibu_daerah": "Negeri Sembilan",
+      "bandar_lain": "Negeri Sembilan"
+    },
+    {
+      "daerah": "Daerah Jelebu",
+      "ibu_daerah": "Kuala Klawang",
+      "bandar_lain": "Simpang Pertang"
+    },
+    {
+      "daerah": "Daerah Jempol",
+      "ibu_daerah": "Bandar Seri Jempol",
+      "bandar_lain": "Bahau, Batu Kikir"
+    },
+    {
+      "daerah": "Daerah Kuala Pilah",
+      "ibu_daerah": "Kuala Pilah",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Daerah Port Dickson",
+      "ibu_daerah": "Port Dickson",
+      "bandar_lain": "Lukut"
+    },
+    {
+      "daerah": "Daerah Rembau",
+      "ibu_daerah": "Rembau",
+      "bandar_lain": "Pedas"
+    },
+    {
+      "daerah": "Daerah Seremban",
+      "ibu_daerah": "Seremban",
+      "bandar_lain": "Nilai, Bandar Sri Sendayan, Seremban 2, Senawang"
+    },
+    {
+      "daerah": "Daerah Tampin",
+      "ibu_daerah": "Tampin",
+      "bandar_lain": "Gemas, Gemencheh"
+    },
+    {
+      "daerah": "Pahang",
+      "ibu_daerah": "Pahang",
+      "bandar_lain": "Pahang"
+    },
+    {
+      "daerah": "Daerah Bera",
+      "ibu_daerah": "Bandar Bera",
+      "bandar_lain": "Kuala Teriang"
+    },
+    {
+      "daerah": "Daerah Bentong",
+      "ibu_daerah": "Bentong",
+      "bandar_lain": "Genting Highlands"
+    },
+    {
+      "daerah": "Daerah Cameron Highlands",
+      "ibu_daerah": "Tanah Rata",
+      "bandar_lain": "Brinchang"
+    },
+    {
+      "daerah": "Daerah Jerantut",
+      "ibu_daerah": "Jerantut",
+      "bandar_lain": "Dhammark, Jerantut Feri, Pulau Tawar"
+    },
+    {
+      "daerah": "Daerah Kuantan",
+      "ibu_daerah": "Kuantan",
+      "bandar_lain": "Indera Mahkota, Kota Sultan Ahmad Shah (KotaSAS), Gambang"
+    },
+    {
+      "daerah": "Daerah Lipis",
+      "ibu_daerah": "Kuala Lipis",
+      "bandar_lain": "Benta, Padang Tengku, Merapoh, Kuala Medang"
+    },
+    {
+      "daerah": "Daerah Maran",
+      "ibu_daerah": "Maran",
+      "bandar_lain": "Bandar Tun Razak, Jengka, Chenor"
+    },
+    {
+      "daerah": "Daerah Pekan",
+      "ibu_daerah": "Pekan",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Daerah Raub",
+      "ibu_daerah": "Raub",
+      "bandar_lain": "Bukit Fraser, Sungai Ruan, Lembah Klau, Tersang"
+    },
+    {
+      "daerah": "Daerah Rompin",
+      "ibu_daerah": "Kuala Rompin",
+      "bandar_lain": "Bandar Muadzam Shah, Tioman"
+    },
+    {
+      "daerah": "Daerah Temerloh",
+      "ibu_daerah": "Temerloh",
+      "bandar_lain": "Mentakab, Kuala Krau"
+    },
+    {
+      "daerah": "Pulau Pinang",
+      "ibu_daerah": "Pulau Pinang",
+      "bandar_lain": "Pulau Pinang"
+    },
+    {
+      "daerah": "Timur Laut (Pulau Pinang)",
+      "ibu_daerah": "George Town",
+      "bandar_lain": "Jelutong"
+    },
+    {
+      "daerah": "Barat Daya (Pulau Pinang)",
+      "ibu_daerah": "Bayan Lepas",
+      "bandar_lain": "Balik Pulau"
+    },
+    {
+      "daerah": "Seberang Perai Utara",
+      "ibu_daerah": "Butterworth",
+      "bandar_lain": "Kepala Batas"
+    },
+    {
+      "daerah": "Seberang Perai Tengah",
+      "ibu_daerah": "Bukit Mertajam",
+      "bandar_lain": "Perai"
+    },
+    {
+      "daerah": "Seberang Perai Selatan",
+      "ibu_daerah": "Sungai Jawi",
+      "bandar_lain": "Nibong Tebal ,Simpang Ampat, Batu Kawan"
+    },
+    {
+      "daerah": "Perak",
+      "ibu_daerah": "Perak",
+      "bandar_lain": "Perak"
+    },
+    {
+      "daerah": "Daerah Bagan Datuk",
+      "ibu_daerah": "Bagan Datuk",
+      "bandar_lain": "Hutan Melintang"
+    },
+    {
+      "daerah": "Daerah Batang Padang",
+      "ibu_daerah": "Tapah",
+      "bandar_lain": "Bidor"
+    },
+    {
+      "daerah": "Daerah Hilir Perak",
+      "ibu_daerah": "Teluk Intan",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Daerah Hulu Perak",
+      "ibu_daerah": "Gerik",
+      "bandar_lain": "Pengkalan Hulu, Lenggong"
+    },
+    {
+      "daerah": "Daerah Kampar",
+      "ibu_daerah": "Kampar",
+      "bandar_lain": "Gopeng"
+    },
+    {
+      "daerah": "Daerah Kerian",
+      "ibu_daerah": "Parit Buntar",
+      "bandar_lain": "Bagan Serai, Kuala Kurau"
+    },
+    {
+      "daerah": "Daerah Kinta",
+      "ibu_daerah": "Batu Gajah",
+      "bandar_lain": "Ipoh, Simpang Pulai"
+    },
+    {
+      "daerah": "Daerah Kuala Kangsar",
+      "ibu_daerah": "Kuala Kangsar",
+      "bandar_lain": "Sungai Siput"
+    },
+    {
+      "daerah": "Daerah Larut, Matang dan Selama",
+      "ibu_daerah": "Taiping",
+      "bandar_lain": "Selama"
+    },
+    {
+      "daerah": "Daerah Manjung",
+      "ibu_daerah": "Seri Manjung",
+      "bandar_lain": "Sitiawan, Lumut"
+    },
+    {
+      "daerah": "Daerah Muallim",
+      "ibu_daerah": "Tanjung Malim",
+      "bandar_lain": "Behrang, Slim River"
+    },
+    {
+      "daerah": "Daerah Perak Tengah",
+      "ibu_daerah": "Seri Iskandar",
+      "bandar_lain": "Pasir Salak"
+    },
+    {
+      "daerah": "Perlis",
+      "ibu_daerah": "Perlis",
+      "bandar_lain": "Perlis"
+    },
+    {
+      "daerah": "Perlis",
+      "ibu_daerah": "Kangar",
+      "bandar_lain": "Arau, Padang Besar"
+    },
+    {
+      "daerah": "Sabah",
+      "ibu_daerah": "Sabah",
+      "bandar_lain": "Sabah"
+    },
+    {
+      "daerah": "Beaufort",
+      "ibu_daerah": "Beaufort",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Beluran",
+      "ibu_daerah": "Beluran",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Keningau",
+      "ibu_daerah": "Keningau",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Kinabatangan",
+      "ibu_daerah": "Kota Kinabatangan",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Kota Belud",
+      "ibu_daerah": "Kota Belud",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Kota Kinabalu",
+      "ibu_daerah": "Kota Kinabalu",
+      "bandar_lain": "Inanam"
+    },
+    {
+      "daerah": "Kota Marudu",
+      "ibu_daerah": "Kota Marudu",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Kuala Penyu",
+      "ibu_daerah": "Kuala Penyu",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Kudat",
+      "ibu_daerah": "Kudat",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Kunak",
+      "ibu_daerah": "Kunak",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Lahad Datu",
+      "ibu_daerah": "Lahad Datu",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Nabawan",
+      "ibu_daerah": "Nabawan",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Papar",
+      "ibu_daerah": "Papar",
+      "bandar_lain": "Kinarut"
+    },
+    {
+      "daerah": "Penampang",
+      "ibu_daerah": "Donggongon",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Pitas",
+      "ibu_daerah": "Pitas",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Putatan",
+      "ibu_daerah": "Putatan",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Ranau",
+      "ibu_daerah": "Ranau",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Sandakan",
+      "ibu_daerah": "Sandakan",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Semporna",
+      "ibu_daerah": "Semporna",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Sipitang",
+      "ibu_daerah": "Sipitang",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Tambunan",
+      "ibu_daerah": "Tambunan",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Tawau",
+      "ibu_daerah": "Tawau",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Tenom",
+      "ibu_daerah": "Tenom",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Tongod",
+      "ibu_daerah": "Telupid",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Tuaran",
+      "ibu_daerah": "Tuaran",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Sarawak",
+      "ibu_daerah": "Sarawak",
+      "bandar_lain": "Sarawak"
+    },
+    {
+      "daerah": "Asajaya",
+      "ibu_daerah": "Asajaya",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Bau",
+      "ibu_daerah": "Bau",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Belaga",
+      "ibu_daerah": "Belaga",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Betong",
+      "ibu_daerah": "Betong",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Bintulu",
+      "ibu_daerah": "Bintulu",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Dalat",
+      "ibu_daerah": "Dalat",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Daro",
+      "ibu_daerah": "Daro",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Julau",
+      "ibu_daerah": "Julau",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Kanowit",
+      "ibu_daerah": "Kanowit",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Kapit",
+      "ibu_daerah": "Kapit",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Kuching",
+      "ibu_daerah": "Kuching",
+      "bandar_lain": "Petra Jaya"
+    },
+    {
+      "daerah": "Lawas",
+      "ibu_daerah": "Lawas",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Limbang",
+      "ibu_daerah": "Limbang",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Lubok Antu",
+      "ibu_daerah": "Lubok Antu",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Lundu",
+      "ibu_daerah": "Lundu",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Marudi",
+      "ibu_daerah": "Marudi",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Matu",
+      "ibu_daerah": "Matu",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Meradong",
+      "ibu_daerah": "Bintangor",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Miri",
+      "ibu_daerah": "Miri",
+      "bandar_lain": "Lutong"
+    },
+    {
+      "daerah": "Mukah",
+      "ibu_daerah": "Mukah",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Padawan",
+      "ibu_daerah": "Padawan",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Pakan",
+      "ibu_daerah": "Pakan",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Samarahan",
+      "ibu_daerah": "Kota Samarahan",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Saratok",
+      "ibu_daerah": "Saratok",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Sarikei",
+      "ibu_daerah": "Sarikei",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Selangau",
+      "ibu_daerah": "Selangau",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Serian",
+      "ibu_daerah": "Serian",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Sibu",
+      "ibu_daerah": "Sibu",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Simunjan",
+      "ibu_daerah": "Simunjan",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Song",
+      "ibu_daerah": "Song",
+      "bandar_lain": ""
+    },
+    {
+      "daerah": "Sri Aman",
+      "ibu_daerah": "Sri Aman",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Tatau",
+      "ibu_daerah": "Tatau",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Tebedu",
+      "ibu_daerah": "Tebedu",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Selangor",
+      "ibu_daerah": "Selangor",
+      "bandar_lain": "Selangor"
+    },
+    {
+      "daerah": "Daerah Gombak",
+      "ibu_daerah": "Rawang",
+      "bandar_lain": "Bandar Baru Selayang"
+    },
+    {
+      "daerah": "Daerah Hulu Langat",
+      "ibu_daerah": "Kajang",
+      "bandar_lain": "Bandar Baru Bangi, Ampang Jaya"
+    },
+    {
+      "daerah": "Daerah Hulu Selangor",
+      "ibu_daerah": "Kuala Kubu Bharu",
+      "bandar_lain": "Serendah, Batang Kali, Bukit Beruntung"
+    },
+    {
+      "daerah": "Daerah Klang",
+      "ibu_daerah": "Klang",
+      "bandar_lain": "Pelabuhan Klang, Kapar"
+    },
+    {
+      "daerah": "Daerah Kuala Langat",
+      "ibu_daerah": "Banting",
+      "bandar_lain": "Telok Panglima Garang"
+    },
+    {
+      "daerah": "Daerah Kuala Selangor",
+      "ibu_daerah": "Kuala Selangor",
+      "bandar_lain": "Tanjung Karang"
+    },
+    {
+      "daerah": "Daerah Petaling",
+      "ibu_daerah": "Subang Jaya",
+      "bandar_lain": "Petaling Jaya, Shah Alam"
+    },
+    {
+      "daerah": "Daerah Sabak Bernam",
+      "ibu_daerah": "Sabak",
+      "bandar_lain": "Sungai Besar, Sekinchan"
+    },
+    {
+      "daerah": "Daerah Sepang",
+      "ibu_daerah": "Cyberjaya",
+      "bandar_lain": "Salak Tinggi"
+    },
+    {
+      "daerah": "Terengganu",
+      "ibu_daerah": "Terengganu",
+      "bandar_lain": "Terengganu"
+    },
+    {
+      "daerah": "Daerah Besut",
+      "ibu_daerah": "Kuala Besut",
+      "bandar_lain": "Jertih"
+    },
+    {
+      "daerah": "Daerah Dungun",
+      "ibu_daerah": "Kuala Dungun",
+      "bandar_lain": "Bandar Al-Muktafi Billah Shah"
+    },
+    {
+      "daerah": "Daerah Hulu Terengganu",
+      "ibu_daerah": "Kuala Berang",
+      "bandar_lain": "Ajil"
+    },
+    {
+      "daerah": "Daerah Kemaman",
+      "ibu_daerah": "Chukai",
+      "bandar_lain": "Kerteh"
+    },
+    {
+      "daerah": "Daerah Kuala Nerus",
+      "ibu_daerah": "Kuala Nerus",
+      "bandar_lain": "Gong Badak"
+    },
+    {
+      "daerah": "Daerah Kuala Terengganu",
+      "ibu_daerah": "Kuala Terengganu",
+      "bandar_lain": "-"
+    },
+    {
+      "daerah": "Daerah Marang",
+      "ibu_daerah": "Marang",
+      "bandar_lain": "Wakaf Tapai"
+    },
+    {
+      "daerah": "Daerah Setiu",
+      "ibu_daerah": "Bandar Permaisuri",
+      "bandar_lain": "-"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Ibu Daerah di Malaysia - Muat turun percuma",
+    "description": "Senarai Ibu Daerah di Malaysia — 159 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 159 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Ibu Daerah di Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Ibu Daerah di Malaysia — 159 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 159 rekod / 3 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_ibu_kota_di_Malaysia"
+    ]
+  }
+}
