@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:13.070Z",
-  "total_datasets": 574,
-  "total_records": 508015,
+  "generated": "2026-10-22T04:32:13.603Z",
+  "total_datasets": 575,
+  "total_records": 508135,
   "categories": [
     {
       "id": "culture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "environment",
@@ -2140,6 +2140,28 @@
         "xlsx": {
           "name": "ms-pelakon-wanita_MS.xlsx",
           "size": 10634
+        }
+      }
+    },
+    {
+      "id": "ms-pengarah-filem",
+      "name": "Senarai Pengarah Filem Malaysia",
+      "category": "entertainment",
+      "record_count": 120,
+      "columns": [
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_pengarah_filem_Malaysia",
+      "updated": "2026-10",
+      "size": 6489,
+      "files": {
+        "csv": {
+          "name": "ms-pengarah-filem_MS.csv",
+          "size": 1876
+        },
+        "xlsx": {
+          "name": "ms-pengarah-filem_MS.xlsx",
+          "size": 8653
         }
       }
     },
