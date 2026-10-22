@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:27.343Z",
-  "total_datasets": 597,
-  "total_records": 514768,
+  "generated": "2026-10-22T04:32:27.912Z",
+  "total_datasets": 598,
+  "total_records": 515182,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "entertainment",
@@ -2061,6 +2061,29 @@
         "xlsx": {
           "name": "ms-sekolah-pulau-pinang_MS.xlsx",
           "size": 31278
+        }
+      }
+    },
+    {
+      "id": "ms-sekolah-rendah-negeri-sembilan",
+      "name": "Senarai Sekolah Rendah di Negeri Sembilan",
+      "category": "education",
+      "record_count": 414,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_sekolah_rendah_di_Negeri_Sembilan",
+      "updated": "2026-10",
+      "size": 39352,
+      "files": {
+        "csv": {
+          "name": "ms-sekolah-rendah-negeri-sembilan_MS.csv",
+          "size": 18746
+        },
+        "xlsx": {
+          "name": "ms-sekolah-rendah-negeri-sembilan_MS.xlsx",
+          "size": 14168
         }
       }
     },
