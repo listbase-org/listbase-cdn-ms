@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:51.619Z",
-  "total_datasets": 539,
-  "total_records": 502341,
+  "generated": "2026-10-22T04:31:52.104Z",
+  "total_datasets": 540,
+  "total_records": 502663,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -3164,6 +3164,30 @@
         "xlsx": {
           "name": "ms-bahasa_MS.xlsx",
           "size": 20843
+        }
+      }
+    },
+    {
+      "id": "ms-kata-pinjaman",
+      "name": "Senarai Kata Pinjaman Bahasa Melayu",
+      "category": "language",
+      "record_count": 322,
+      "columns": [
+        "perkataan",
+        "bahasa_asal",
+        "perkataan_asal"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kata_pinjaman_bahasa_Melayu",
+      "updated": "2026-10",
+      "size": 44248,
+      "files": {
+        "csv": {
+          "name": "ms-kata-pinjaman_MS.csv",
+          "size": 17235
+        },
+        "xlsx": {
+          "name": "ms-kata-pinjaman_MS.xlsx",
+          "size": 19361
         }
       }
     },
