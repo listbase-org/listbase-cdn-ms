@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:53.100Z",
-  "total_datasets": 542,
-  "total_records": 503977,
+  "generated": "2026-10-22T04:31:53.575Z",
+  "total_datasets": 543,
+  "total_records": 504077,
   "categories": [
     {
       "id": "culture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "reference",
-      "dataset_count": 249
+      "dataset_count": 250
     },
     {
       "id": "science",
@@ -8608,6 +8608,33 @@
         "xlsx": {
           "name": "ms-kedah-yan-mukim_MS.xlsx",
           "size": 7524
+        }
+      }
+    },
+    {
+      "id": "ms-kedutaan-asing-kuala-lumpur",
+      "name": "Senarai Kedutaan Asing di Kuala Lumpur",
+      "category": "reference",
+      "record_count": 100,
+      "columns": [
+        "bahagian",
+        "negara",
+        "perwakilan",
+        "ketua_perwakilan",
+        "kod_kenderaan",
+        "kawasan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kedutaan_asing_di_Kuala_Lumpur",
+      "updated": "2026-10",
+      "size": 30965,
+      "files": {
+        "csv": {
+          "name": "ms-kedutaan-asing-kuala-lumpur_MS.csv",
+          "size": 15312
+        },
+        "xlsx": {
+          "name": "ms-kedutaan-asing-kuala-lumpur_MS.xlsx",
+          "size": 13046
         }
       }
     },
