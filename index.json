@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:49.384Z",
-  "total_datasets": 535,
-  "total_records": 500430,
+  "generated": "2026-10-22T04:31:49.880Z",
+  "total_datasets": 536,
+  "total_records": 500545,
   "categories": [
     {
       "id": "culture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "health",
@@ -2232,6 +2232,30 @@
         "xlsx": {
           "name": "ms-ibu-daerah_MS.xlsx",
           "size": 11260
+        }
+      }
+    },
+    {
+      "id": "ms-kampung-brunei",
+      "name": "Senarai Kampung di Brunei",
+      "category": "geography",
+      "record_count": 115,
+      "columns": [
+        "nama",
+        "bahagian_pentadbiran_jika_lain",
+        "mukim"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kampung_di_Brunei",
+      "updated": "2026-10",
+      "size": 19591,
+      "files": {
+        "csv": {
+          "name": "ms-kampung-brunei_MS.csv",
+          "size": 8449
+        },
+        "xlsx": {
+          "name": "ms-kampung-brunei_MS.xlsx",
+          "size": 9455
         }
       }
     },
