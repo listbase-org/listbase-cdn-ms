@@ -1,0 +1,336 @@
+{
+  "id": "ms-festival-filem-malaysia",
+  "name": "Senarai Festival Filem Malaysia (FFM)",
+  "title": "Senarai Festival Filem Malaysia (FFM)",
+  "description": "Senarai Festival Filem Malaysia (FFM) — 35 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "entertainment",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_majlis_Festival_Filem_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_majlis_Festival_Filem_Malaysia",
+  "updated": "2026-10",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "edisi",
+      "label": "Edisi",
+      "type": "string"
+    },
+    {
+      "key": "tarikh",
+      "label": "Tarikh",
+      "type": "string"
+    },
+    {
+      "key": "filem_terbaik",
+      "label": "Filem Terbaik",
+      "type": "string"
+    },
+    {
+      "key": "pengacara",
+      "label": "Pengacara",
+      "type": "string"
+    },
+    {
+      "key": "tempat",
+      "label": "Tempat",
+      "type": "string"
+    },
+    {
+      "key": "tema",
+      "label": "Tema",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edisi": "Pertama",
+      "tarikh": "13 April 1980",
+      "filem_terbaik": "Tiada Esok Bagimu",
+      "pengacara": "—",
+      "tempat": "Nirwana Ballroom, Hotel Hilton, Kuala Lumpur",
+      "tema": "Malam Merak Kayangan"
+    },
+    {
+      "edisi": "ke-2",
+      "tarikh": "12 April 1981",
+      "filem_terbaik": "Dia Ibuku",
+      "pengacara": "—",
+      "tempat": "Nirwana Ballroom, Hotel Hilton, Kuala Lumpur",
+      "tema": "Malam Merak Kayangan"
+    },
+    {
+      "edisi": "ke-3",
+      "tarikh": "28 November 1982",
+      "filem_terbaik": "Bukit Kepong",
+      "pengacara": "—",
+      "tempat": "Auditorium Besar, Angkasapuri, Kuala Lumpur",
+      "tema": "Memasyarakatkan Filem"
+    },
+    {
+      "edisi": "ke-4",
+      "tarikh": "11 Disember 1983",
+      "filem_terbaik": "Ranjau Sepanjang Jalan",
+      "pengacara": "—",
+      "tempat": "Auditorium RISDA, Jalan Ampang, Kuala Lumpur",
+      "tema": "Filem Sebagai Agen Pembudaya"
+    },
+    {
+      "edisi": "ke-5",
+      "tarikh": "15 Disember 1984",
+      "filem_terbaik": "Matinya Seorang Patriot",
+      "pengacara": "—",
+      "tempat": "Auditorium Dewan Bandaraya Kuala Lumpur, Kuala Lumpur",
+      "tema": "Filem Sebagai Media Komunikasi"
+    },
+    {
+      "edisi": "ke-6",
+      "tarikh": "14 Disember 1986",
+      "filem_terbaik": "Tsu Feh Sofiah",
+      "pengacara": "Sudirman Arshad Sharifah Aini",
+      "tempat": "Pusat Dagangan Dunia Putra, Kuala Lumpur",
+      "tema": "Cintai Filem Malaysia"
+    },
+    {
+      "edisi": "ke-7",
+      "tarikh": "6 Disember 1987",
+      "filem_terbaik": "Rahsia",
+      "pengacara": "—",
+      "tempat": "Hotel Ramada Renaissance, Melaka",
+      "tema": "Cintai Filem Malaysia"
+    },
+    {
+      "edisi": "ke-8",
+      "tarikh": "9 September 1989",
+      "filem_terbaik": "Tiada",
+      "pengacara": "—",
+      "tempat": "Nirwana Ballroom, Hotel Hilton, Kuala Lumpur",
+      "tema": "Cintai Filem Malaysia"
+    },
+    {
+      "edisi": "ke-9",
+      "tarikh": "2 Jun 1991",
+      "filem_terbaik": "Hati Bukan Kristal",
+      "pengacara": "—",
+      "tempat": "Auditorium Majlis Perbandaran Shah Alam, Shah Alam",
+      "tema": "Cintai Filem Malaysia"
+    },
+    {
+      "edisi": "ke-10",
+      "tarikh": "17 November 1992",
+      "filem_terbaik": "Bintang Malam & Selubung",
+      "pengacara": "—",
+      "tempat": "Grand Ballroom, Hotel Shangri-La, Kuala Lumpur",
+      "tema": "Cintai Filem Malaysia"
+    },
+    {
+      "edisi": "ke-11",
+      "tarikh": "17 Jun 1994",
+      "filem_terbaik": "Perempuan, Isteri & .....?",
+      "pengacara": "—",
+      "tempat": "Stadium Tertutup Johor Bahru, Johor",
+      "tema": "Perfileman Ke Arah 2020"
+    },
+    {
+      "edisi": "ke-12",
+      "tarikh": "5 November 1995",
+      "filem_terbaik": "Sayang Salmah",
+      "pengacara": "—",
+      "tempat": "Grand Ballroom, Hotel Istana, Kuala Lumpur",
+      "tema": "Filem Citra Jati Diri"
+    },
+    {
+      "edisi": "ke-13",
+      "tarikh": "28 Disember 1997",
+      "filem_terbaik": "Layar Lara",
+      "pengacara": "Rosyam Nor Tiara Jacquelina",
+      "tempat": "Auditorium Besar RTM, Angkasapuri, Kuala Lumpur",
+      "tema": "Filem Merealisasikan Tamadun Bangsa"
+    },
+    {
+      "edisi": "ke-14",
+      "tarikh": "7 November 1999",
+      "filem_terbaik": "Jogho",
+      "pengacara": "—",
+      "tempat": "Hotel Syuen, Ipoh, Perak",
+      "tema": "Mengangkat Maruah Bangsa Melalui Filem"
+    },
+    {
+      "edisi": "ke-15",
+      "tarikh": "5 Ogos 2001",
+      "filem_terbaik": "Leftenan Adnan",
+      "pengacara": "Hani Mohsin Sharifah Haslinda",
+      "tempat": "Auditorium Majlis Bandaraya Shah Alam, Selangor",
+      "tema": ""
+    },
+    {
+      "edisi": "ke-16",
+      "tarikh": "19 April 2003",
+      "filem_terbaik": "KL Menjerit",
+      "pengacara": "—",
+      "tempat": "Royal Ballroom, Palace of the Golden Horses, Kuala Lumpur",
+      "tema": "Filem Malaysia Era Globalisasi"
+    },
+    {
+      "edisi": "ke-17",
+      "tarikh": "26 Jun 2004",
+      "filem_terbaik": "Paloh",
+      "pengacara": "—",
+      "tempat": "Dewan Merdeka, Pusat Dagangan Dunia Putra, Kuala Lumpur",
+      "tema": "Filem Malaysia Era Globalisasi"
+    },
+    {
+      "edisi": "ke-18",
+      "tarikh": "17 Julai 2005",
+      "filem_terbaik": "Sepet",
+      "pengacara": "Linda Onn Bob Lokman",
+      "tempat": "Dewan Merdeka, Pusat Dagangan Dunia Putra, Kuala Lumpur",
+      "tema": "Filem Malaysia Era Globalisasi"
+    },
+    {
+      "edisi": "ke-19",
+      "tarikh": "13 Ogos 2006",
+      "filem_terbaik": "Gubra",
+      "pengacara": "Linda Onn AC Mizal",
+      "tempat": "Dewan Merdeka, Pusat Dagangan Dunia Putra, Kuala Lumpur",
+      "tema": "Ke Arah Kecemerlangan dalam Penerbitan Filem"
+    },
+    {
+      "edisi": "ke-20",
+      "tarikh": "3 Ogos 2007",
+      "filem_terbaik": "Cinta",
+      "pengacara": "Fauziah Ahmad Daud AC Mizal",
+      "tempat": "Dewan Tuanku Syed Putra, USM, Pulau Pinang",
+      "tema": "Ke Arah Kecemerlangan Filem Malaysia"
+    },
+    {
+      "edisi": "ke-21",
+      "tarikh": "9 Ogos 2008",
+      "filem_terbaik": "Kala Malam Bulan Mengambang",
+      "pengacara": "Linda Onn Bob Lokman",
+      "tempat": "Pusat Konvensyen Antarabangsa Putrajaya",
+      "tema": "Ke Arah Kecemerlangan Filem Malaysia"
+    },
+    {
+      "edisi": "ke-22",
+      "tarikh": "8 Ogos 2009",
+      "filem_terbaik": "Papadom",
+      "pengacara": "Fahrin Ahmad Vanida Imran",
+      "tempat": "Dewan Canselor, Universiti Malaysia Sabah, Kota Kinabalu, Sabah",
+      "tema": "Filem Malaysia ke Persada Dunia"
+    },
+    {
+      "edisi": "ke-23",
+      "tarikh": "24 Oktober 2010",
+      "filem_terbaik": "Magika",
+      "pengacara": "Sharifah Shahirah Zizan Razak Hezry Hashim",
+      "tempat": "Pusat Konvensyen Shah Alam, Shah Alam, Selangor",
+      "tema": "Filem Malaysia ke Persada Dunia"
+    },
+    {
+      "edisi": "ke-24",
+      "tarikh": "20 November 2011",
+      "filem_terbaik": "Hikayat Merong Mahawangsa",
+      "pengacara": "Fauziah Ahmad Daud Johan",
+      "tempat": "Pusat Konvensyen Antarabangsa Putrajaya, Putrajaya",
+      "tema": "Gemilang Filem Malaysia"
+    },
+    {
+      "edisi": "ke-25",
+      "tarikh": "2 Mac 2013",
+      "filem_terbaik": "Bunohan",
+      "pengacara": "Erra Fazira Fahrin Ahmad",
+      "tempat": "Pusat Konvensyen Antarabangsa Putrajaya, Putrajaya",
+      "tema": "Merayakan Perak Mengilhamkan Emas"
+    },
+    {
+      "edisi": "ke-26",
+      "tarikh": "1 November 2014",
+      "filem_terbaik": "KIL",
+      "pengacara": "Fahrin Ahmad Nur Fazura",
+      "tempat": "Auditorium Tunku Puan Chik, Kompleks Penyiaran Tuanku Muhammad Sungai Gadut, Paroi, Seremban, Negeri Sembilan",
+      "tema": "Transformasi Sinema Malaysia"
+    },
+    {
+      "edisi": "ke-27",
+      "tarikh": "5 September 2015",
+      "filem_terbaik": "Lelaki Harapan Dunia",
+      "pengacara": "Nabil Ahmad Sherry Alhadad",
+      "tempat": "Dewan Plenari, Pusat Konvensyen Kuala Lumpur, Kuala Lumpur",
+      "tema": "Sehati Sejiwa"
+    },
+    {
+      "edisi": "ke-28",
+      "tarikh": "3 September 2016",
+      "filem_terbaik": "Jagat",
+      "pengacara": "Nabil Ahmad Sherry Alhadad",
+      "tempat": "Dewan Plenari, Pusat Konvensyen Kuala Lumpur, Kuala Lumpur",
+      "tema": "Transformasi Sinema Kita"
+    },
+    {
+      "edisi": "ke-29",
+      "tarikh": "23 September 2017",
+      "filem_terbaik": "Adiwiraku",
+      "pengacara": "Zizan Razak Nabila Huda Elizabeth Tan Thanuja Ananthan",
+      "tempat": "Pusat Dagangan Dunia Putra, Kuala Lumpur",
+      "tema": "Transformasi Citra Karya"
+    },
+    {
+      "edisi": "ke-30",
+      "tarikh": "30 Mac 2019",
+      "filem_terbaik": "One Two Jaga",
+      "pengacara": "Nabil Ahmad Adibah Noor",
+      "tempat": "Dewan Plenari, Pusat Konvensyen Antarabangsa Putrajaya, Putrajaya",
+      "tema": "Inspirasi Sinemaku"
+    },
+    {
+      "edisi": "ke-31",
+      "tarikh": "10 Disember 2021",
+      "filem_terbaik": "Roh",
+      "pengacara": "Awal Ashaari Sharifah Shahirah",
+      "tempat": "Dewan Plenari, Pusat Konvensyen Antarabangsa Putrajaya, Putrajaya",
+      "tema": "Inspirasi Sinemaku"
+    },
+    {
+      "edisi": "ke-32",
+      "tarikh": "2 Disember 2022",
+      "filem_terbaik": "Spilt Gravy on Rice",
+      "pengacara": "Awal Ashaari Sarimah Ibrahim",
+      "tempat": "Encore, Melaka",
+      "tema": "Filem Kita, Citra Kita"
+    },
+    {
+      "edisi": "ke-33",
+      "tarikh": "7 Disember 2024",
+      "filem_terbaik": "Imaginur",
+      "pengacara": "AC Mizal Scha Al-Yahya",
+      "tempat": "Auditorium Seri Angkasa, Kuala Lumpur",
+      "tema": "Evolusi Sinema Malaysia"
+    },
+    {
+      "edisi": "ke-34",
+      "tarikh": "1 November 2025",
+      "filem_terbaik": "Babah",
+      "pengacara": "Afdlin Shauki Sarimah Ibrahim",
+      "tempat": "Auditorium Seri Angkasa, Kuala Lumpur",
+      "tema": "Karya Kreatif, Sinema Dinamik"
+    },
+    {
+      "edisi": "ke-35",
+      "tarikh": "21 November 2026",
+      "filem_terbaik": "",
+      "pengacara": "Aznil Nawawi Raja Azura",
+      "tempat": "Panggung Sari, Istana Budaya, Kuala Lumpur",
+      "tema": "Spektrum Sinema"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Festival Filem Malaysia (FFM) - Muat turun percuma",
+    "description": "Senarai Festival Filem Malaysia (FFM) — 35 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 35 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Festival Filem Malaysia (FFM) | ListBase",
+    "seo_description": "Muat turun Senarai Festival Filem Malaysia (FFM) — 35 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 35 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_majlis_Festival_Filem_Malaysia"
+    ]
+  }
+}
