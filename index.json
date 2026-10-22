@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:35.049Z",
-  "total_datasets": 512,
-  "total_records": 498170,
+  "generated": "2026-10-22T04:31:35.537Z",
+  "total_datasets": 513,
+  "total_records": 498234,
   "categories": [
     {
       "id": "culture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -15055,6 +15055,32 @@
         "xlsx": {
           "name": "ms-bangunan-tertinggi-kuala-lumpur_MS.xlsx",
           "size": 7751
+        }
+      }
+    },
+    {
+      "id": "ms-bangunan-tertinggi-pulau-pinang",
+      "name": "Senarai Bangunan Tertinggi di Pulau Pinang",
+      "category": "tourism",
+      "record_count": 64,
+      "columns": [
+        "pangkat",
+        "nama",
+        "tinggi_m",
+        "tingkat",
+        "lokasi"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_bangunan_tertinggi_di_Pulau_Pinang",
+      "updated": "2026-10",
+      "size": 11635,
+      "files": {
+        "csv": {
+          "name": "ms-bangunan-tertinggi-pulau-pinang_MS.csv",
+          "size": 3507
+        },
+        "xlsx": {
+          "name": "ms-bangunan-tertinggi-pulau-pinang_MS.xlsx",
+          "size": 8927
         }
       }
     },
