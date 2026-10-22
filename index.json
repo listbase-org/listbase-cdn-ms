@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:30.092Z",
-  "total_datasets": 602,
-  "total_records": 516312,
+  "generated": "2026-10-22T04:32:30.682Z",
+  "total_datasets": 603,
+  "total_records": 516547,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "entertainment",
@@ -2155,6 +2155,35 @@
         "xlsx": {
           "name": "ms-sekolah-swasta_MS.xlsx",
           "size": 25030
+        }
+      }
+    },
+    {
+      "id": "ms-sjkc-johor",
+      "name": "Senarai SJK(C) di Johor",
+      "category": "education",
+      "record_count": 235,
+      "columns": [
+        "bahagian",
+        "kod_sekolah",
+        "lokasi",
+        "nama_sekolah_dalam_bahasa_melayu",
+        "nama_sekolah_dalam_bahasa_cina",
+        "poskod",
+        "kawasan",
+        "koordinat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Johor",
+      "updated": "2026-10",
+      "size": 89433,
+      "files": {
+        "csv": {
+          "name": "ms-sjkc-johor_MS.csv",
+          "size": 38376
+        },
+        "xlsx": {
+          "name": "ms-sjkc-johor_MS.xlsx",
+          "size": 24250
         }
       }
     },
