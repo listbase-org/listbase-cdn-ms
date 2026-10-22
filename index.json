@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:23.337Z",
-  "total_datasets": 590,
-  "total_records": 510149,
+  "generated": "2026-10-22T04:32:23.875Z",
+  "total_datasets": 591,
+  "total_records": 510334,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "entertainment",
@@ -1880,6 +1880,29 @@
         "xlsx": {
           "name": "ms-mrsm_MS.xlsx",
           "size": 10450
+        }
+      }
+    },
+    {
+      "id": "ms-sekolah-berasrama-penuh",
+      "name": "Senarai Sekolah Berasrama Penuh (SBP) di Malaysia",
+      "category": "education",
+      "record_count": 185,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_SBP_di_Malaysia",
+      "updated": "2026-10",
+      "size": 21042,
+      "files": {
+        "csv": {
+          "name": "ms-sekolah-berasrama-penuh_MS.csv",
+          "size": 10975
+        },
+        "xlsx": {
+          "name": "ms-sekolah-berasrama-penuh_MS.xlsx",
+          "size": 10804
         }
       }
     },
