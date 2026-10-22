@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:26.762Z",
-  "total_datasets": 596,
-  "total_records": 514181,
+  "generated": "2026-10-22T04:32:27.343Z",
+  "total_datasets": 597,
+  "total_records": 514768,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "entertainment",
@@ -2034,6 +2034,33 @@
         "xlsx": {
           "name": "ms-sekolah-perak_MS.xlsx",
           "size": 65516
+        }
+      }
+    },
+    {
+      "id": "ms-sekolah-pulau-pinang",
+      "name": "Senarai Sekolah di Pulau Pinang",
+      "category": "education",
+      "record_count": 587,
+      "columns": [
+        "nama",
+        "poskod",
+        "zon",
+        "kategori",
+        "x",
+        "y"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_sekolah_di_Pulau_Pinang",
+      "updated": "2026-10",
+      "size": 116415,
+      "files": {
+        "csv": {
+          "name": "ms-sekolah-pulau-pinang_MS.csv",
+          "size": 55389
+        },
+        "xlsx": {
+          "name": "ms-sekolah-pulau-pinang_MS.xlsx",
+          "size": 31278
         }
       }
     },
