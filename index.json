@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:05.376Z",
-  "total_datasets": 563,
-  "total_records": 506892,
+  "generated": "2026-10-22T04:32:05.867Z",
+  "total_datasets": 564,
+  "total_records": 506945,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "entertainment",
@@ -1743,6 +1743,33 @@
         "xlsx": {
           "name": "ms-jurnal-akademik_MS.xlsx",
           "size": 12421
+        }
+      }
+    },
+    {
+      "id": "ms-mrsm",
+      "name": "Senarai Maktab Rendah Sains MARA (MRSM)",
+      "category": "education",
+      "record_count": 53,
+      "columns": [
+        "bahagian",
+        "nama",
+        "program_ditawarkan",
+        "tahun_ditubuhkan",
+        "alamat",
+        "laman_web_rasmi"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_MRSM_di_Malaysia",
+      "updated": "2026-10",
+      "size": 16875,
+      "files": {
+        "csv": {
+          "name": "ms-mrsm_MS.csv",
+          "size": 7394
+        },
+        "xlsx": {
+          "name": "ms-mrsm_MS.xlsx",
+          "size": 10450
         }
       }
     },

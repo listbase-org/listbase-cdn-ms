@@ -1,0 +1,480 @@
+{
+  "id": "ms-mrsm",
+  "name": "Senarai Maktab Rendah Sains MARA (MRSM)",
+  "title": "Senarai Maktab Rendah Sains MARA (MRSM)",
+  "description": "Senarai Maktab Rendah Sains MARA (MRSM) — 53 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "education",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_MRSM_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_MRSM_di_Malaysia",
+  "updated": "2026-10",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "bahagian",
+      "label": "Bahagian",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "program_ditawarkan",
+      "label": "Program Ditawarkan",
+      "type": "string"
+    },
+    {
+      "key": "tahun_ditubuhkan",
+      "label": "Tahun Ditubuhkan",
+      "type": "number"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "laman_web_rasmi",
+      "label": "Laman Web Rasmi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bahagian": "Perlis",
+      "nama": "MRSM Beseri",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "1985",
+      "alamat": "Batu 8 1/2, Jalan Kaki Bukit 01000 Kangar Perlis",
+      "laman_web_rasmi": "http://beseri.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Perlis",
+      "nama": "MRSM Arau",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2019",
+      "alamat": "Pauh Putra 02600 Arau Perlis",
+      "laman_web_rasmi": "http://arau.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Kedah",
+      "nama": "MRSM PDRM Kulim",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "1991",
+      "alamat": "PKN Polis Hutan (PPH), KM 5, Jalan Junjung 09000 Kulim Kedah",
+      "laman_web_rasmi": "http://pdrmkulim.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Kedah",
+      "nama": "MRSM Langkawi",
+      "program_ditawarkan": "IGCSE",
+      "tahun_ditubuhkan": "1999",
+      "alamat": "Jalan Air Hangat 07000 Langkawi Kedah",
+      "laman_web_rasmi": "http://langkawi.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Kedah",
+      "nama": "MRSM Pendang",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2001",
+      "alamat": "Jalan Jenun 06750 Pendang Kedah",
+      "laman_web_rasmi": "http://pendang.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Kedah",
+      "nama": "MRSM Kubang Pasu",
+      "program_ditawarkan": "IGCSE",
+      "tahun_ditubuhkan": "2007",
+      "alamat": "Kampung Hutan Terabak, Kubang Pasu 06000 Jitra Kedah",
+      "laman_web_rasmi": "http://kpasu.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Kedah",
+      "nama": "MRSM Merbok",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2007",
+      "alamat": "Jalan Lembah Bujang 2, Kampung Pekan Sebalah 08400 Merbok Kedah",
+      "laman_web_rasmi": "http://merbok.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Kedah",
+      "nama": "MRSM Baling",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2010",
+      "alamat": "Lot 9892, Mukim Pulai 09100 Baling Kedah",
+      "laman_web_rasmi": "http://baling.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Pulau Pinang",
+      "nama": "MRSM Balik Pulau",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "1982",
+      "alamat": "Jalan Pondok Upeh 11000 Balik Pulau Pulau Pinang",
+      "laman_web_rasmi": "http://bpulau.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Pulau Pinang",
+      "nama": "MRSM Transkrian",
+      "program_ditawarkan": "Program Teknikal",
+      "tahun_ditubuhkan": "2002",
+      "alamat": "Mukim Transkrian 14300 Nibong Tebal Pulau Pinang",
+      "laman_web_rasmi": "http://transkrian.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Pulau Pinang",
+      "nama": "MRSM Tun Abdullah Ahmad Badawi (dahulu dikenali sebagai MRSM Kepala Batas)",
+      "program_ditawarkan": "Ulul Albab",
+      "tahun_ditubuhkan": "2007",
+      "alamat": "Lot 8784, Mukim 6, Jalan Bertam 13200 Kepala Batas Pulau Pinang",
+      "laman_web_rasmi": "http://kbatas.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Perak",
+      "nama": "MRSM Taiping",
+      "program_ditawarkan": "Program Bitara",
+      "tahun_ditubuhkan": "1982",
+      "alamat": "Jalan Bukit Larut 34000 Taiping Perak",
+      "laman_web_rasmi": "http://taiping.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Perak",
+      "nama": "MRSM Gerik",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "1993",
+      "alamat": "Bukit Nasah, Kenayat, Peti Surat 7 33300 Gerik Perak",
+      "laman_web_rasmi": "http://gerik.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Perak",
+      "nama": "MRSM Lenggong (dahulu dikenali sebagai MRSM Chenderoh)",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2001",
+      "alamat": "Changkat Berangan 33400 Lenggong Perak",
+      "laman_web_rasmi": "http://lenggong.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Perak",
+      "nama": "MRSM Pasir Salak",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2003",
+      "alamat": "KM 4, Jalan Tanjung Tualang 36800 Kampung Gajah Perak",
+      "laman_web_rasmi": "http://psalak.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Perak",
+      "nama": "MRSM FELDA (Trolak)",
+      "program_ditawarkan": "Ulul Albab",
+      "tahun_ditubuhkan": "2008",
+      "alamat": "Jalan Meranti 2, Feldajaya Utara 35600 Sungkai Perak",
+      "laman_web_rasmi": "http://felda.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Perak",
+      "nama": "MRSM Pengkalan Hulu",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2008",
+      "alamat": "Lot 2097, Lot 2103, KM 1, Jalan Baling 33100 Pengkalan Hulu Perak",
+      "laman_web_rasmi": "http://phulu.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Perak",
+      "nama": "MRSM Parit",
+      "program_ditawarkan": "IGCSE",
+      "tahun_ditubuhkan": "2012",
+      "alamat": "Lot 3836, Mukim Belanja 32800 Perak Tengah Perak",
+      "laman_web_rasmi": "http://parit.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Perak",
+      "nama": "MRSM Sultan Azlan Shah (dahulu dikenali sebagai MRSM Kuala Kangsar)",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2015",
+      "alamat": "KM13, Jalan Kuala Kangsar - Gerik, Liman Kati 33020 Kuala Kangsar Perak",
+      "laman_web_rasmi": "http://kkangsar.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Perak",
+      "nama": "MRSM Bagan Datuk",
+      "program_ditawarkan": "Ulul Albab",
+      "tahun_ditubuhkan": "2021",
+      "alamat": "Jalan Simpang Empat - Bagan Datuk 36100 Bagan Datuk Perak",
+      "laman_web_rasmi": "http://bdatuk.mrsm.edu.my/"
+    },
+    {
+      "bahagian": "Selangor",
+      "nama": "MRSM Kuala Kubu Bharu",
+      "program_ditawarkan": "IGCSE",
+      "tahun_ditubuhkan": "2002",
+      "alamat": "KM 8 Jalan Ampang Pecah 44000 Kuala Kubu Baru Selangor",
+      "laman_web_rasmi": "http://kkb.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Selangor",
+      "nama": "MRSM Sungai Besar",
+      "program_ditawarkan": "Ulul Albab",
+      "tahun_ditubuhkan": "2016",
+      "alamat": "Mukim Sungai Panjang 45300 Sabak Bernam Selangor",
+      "laman_web_rasmi": "http://sgbesar.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Negeri Sembilan",
+      "nama": "MRSM Kuala Klawang",
+      "program_ditawarkan": "IGCSE",
+      "tahun_ditubuhkan": "1987",
+      "alamat": "Jalan Titi, Kuala Klawang 71600 Jelebu Negeri Sembilan",
+      "laman_web_rasmi": "http://kklawang.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Negeri Sembilan",
+      "nama": "MRSM Serting",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "1993",
+      "alamat": "Bandar Baru Serting 72100 Serting Negeri Sembilan",
+      "laman_web_rasmi": "http://serting.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Negeri Sembilan",
+      "nama": "MRSM Gemencheh",
+      "program_ditawarkan": "Ulul Albab",
+      "tahun_ditubuhkan": "2007",
+      "alamat": "KM 37 Jalan Tampin Gemas, Kampung Sungai Dua 73200 Gemencheh Negeri Sembilan",
+      "laman_web_rasmi": "http://gemencheh.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Melaka",
+      "nama": "MRSM Tun Ghafar Baba (dahulu dikenali sebagai MRSM Jasin)",
+      "program_ditawarkan": "Program Bitara",
+      "tahun_ditubuhkan": "1981",
+      "alamat": "Jalan Simpang Kerayong 77000 Jasin Melaka",
+      "laman_web_rasmi": "http://tgb.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Melaka",
+      "nama": "MRSM Terendak",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "1983",
+      "alamat": "Kem Terendak 78300 Sungai Udang Melaka",
+      "laman_web_rasmi": "http://terendak.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Melaka",
+      "nama": "MRSM Alor Gajah",
+      "program_ditawarkan": "IGCSE",
+      "tahun_ditubuhkan": "2007",
+      "alamat": "Lot 1720, Mukim Ayer Pa'abas 78000 Alor Gajah Melaka",
+      "laman_web_rasmi": "http://agajah.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Johor",
+      "nama": "MRSM Muar",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "1980",
+      "alamat": "KM 10 Jalan Bakri 84200 Muar Johor",
+      "laman_web_rasmi": "http://muar.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Johor",
+      "nama": "MRSM Mersing",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2001",
+      "alamat": "Lot 2824, Km 6, Jalan Jamaluang 86800 Mersing Johor",
+      "laman_web_rasmi": "http://mersing.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Johor",
+      "nama": "MRSM Tun Dr Ismail (dahulu dikenali sebagai MRSM Pontian)",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2002",
+      "alamat": "Jalan Benut, Jelutong, Ayer Baloi 82100 Pontian Johor",
+      "laman_web_rasmi": "http://tdi.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Johor",
+      "nama": "MRSM Batu Pahat",
+      "program_ditawarkan": "Program Premier STEM-Excellence / Program Pro-Ace",
+      "tahun_ditubuhkan": "2002",
+      "alamat": "Jalan Simpang Lima Separap 83000 Batu Pahat Johor",
+      "laman_web_rasmi": "http://bpahat.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Johor",
+      "nama": "MRSM Johor Bahru",
+      "program_ditawarkan": "IGCSE",
+      "tahun_ditubuhkan": "2012",
+      "alamat": "PTD 198869, Persiaran Sinaran Ilmu, Bandar Seri Alam 81780 Masai Johor",
+      "laman_web_rasmi": "http://jbahru.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Pahang",
+      "nama": "MRSM Kuantan",
+      "program_ditawarkan": "IGCSE",
+      "tahun_ditubuhkan": "1974",
+      "alamat": "Jalan Tok Sira, Alor Akar 25250 Kuantan Pahang",
+      "laman_web_rasmi": "http://kuantan.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Pahang",
+      "nama": "MRSM Muadzam Shah",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "1995",
+      "alamat": "Persiaran Dara 26700 Bandar Muadzam Shah Pahang",
+      "laman_web_rasmi": "http://muadzam.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Pahang",
+      "nama": "MRSM Tun Ghazali Shafie (dahulu dikenali sebagai MRSM Lipis)",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2002",
+      "alamat": "KM 7 Jalan Kuala Lipis 27200 Kuala Lipis Pahang",
+      "laman_web_rasmi": "http://tgs.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Pahang",
+      "nama": "MRSM Bentong",
+      "program_ditawarkan": "Teknikal",
+      "tahun_ditubuhkan": "2009",
+      "alamat": "Lot 2650 dan 1945, KM 63 Lebuhraya Kuala Lumpur - Karak 28700 Bentong Pahang",
+      "laman_web_rasmi": "http://bentong.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Pahang",
+      "nama": "MRSM Tun Abdul Razak",
+      "program_ditawarkan": "IGCSE",
+      "tahun_ditubuhkan": "2010",
+      "alamat": "Pulau Serai, KM 9, Jalan Kuantan - Pekan 26600 Pekan Pahang",
+      "laman_web_rasmi": "http://tar.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Pahang",
+      "nama": "MRSM ATM Bera",
+      "program_ditawarkan": "Ulul Albab",
+      "tahun_ditubuhkan": "2021",
+      "alamat": "Kem Bera 28300 Triang Pahang",
+      "laman_web_rasmi": "http://bera.mrsm.edu.my/"
+    },
+    {
+      "bahagian": "Kelantan",
+      "nama": "MRSM Pengkalan Chepa (dahulu dikenali sebagai MRSM Kota Bharu)",
+      "program_ditawarkan": "Program Bitara",
+      "tahun_ditubuhkan": "1973",
+      "alamat": "Pengkalan Chepa 16100 Kota Bharu Kelantan",
+      "laman_web_rasmi": "http://pchepa.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Kelantan",
+      "nama": "MRSM Pasir Tumboh",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "1987",
+      "alamat": "Desa Darulnaim 16150 Pasir Tumboh Kelantan",
+      "laman_web_rasmi": "http://ptumboh.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Kelantan",
+      "nama": "MRSM Jeli",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2001",
+      "alamat": "Kg Gemang 17700 Ayer Lanas Kelantan",
+      "laman_web_rasmi": "http://jeli.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Kelantan",
+      "nama": "MRSM Kuala Krai",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2002",
+      "alamat": "KM 4, Lebuhraya Kuala Krai-Gua Musang 18000 Kuala Krai Kelantan",
+      "laman_web_rasmi": "http://kkrai.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Kelantan",
+      "nama": "MRSM Tumpat",
+      "program_ditawarkan": "IGCSE",
+      "tahun_ditubuhkan": "2010",
+      "alamat": "Jalan Pengkalan Kubor, Pengkalan Kubor 16200 Tumpat Kelantan",
+      "laman_web_rasmi": "http://tumpat.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Sarawak",
+      "nama": "MRSM Kuching",
+      "program_ditawarkan": "IGCSE",
+      "tahun_ditubuhkan": "1993",
+      "alamat": "Jalan Sultan Tengah, Petra Jaya 93050 Kuching Sarawak",
+      "laman_web_rasmi": "http://kuching.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Sarawak",
+      "nama": "MRSM Betong",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2009",
+      "alamat": "Jalan Betong 95700 Betong Sarawak",
+      "laman_web_rasmi": "http://betong.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Sarawak",
+      "nama": "MRSM Mukah",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2010",
+      "alamat": "Jalan Bestari 96400 Mukah Sarawak",
+      "laman_web_rasmi": "http://mukah.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Sarawak",
+      "nama": "MRSM Bintulu",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2024",
+      "alamat": "KM18, Jalan Sibu Bintulu 96700 Bintulu Sarawak",
+      "laman_web_rasmi": "http://mukah.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Sabah",
+      "nama": "MRSM Tan Sri Musa Aman (juga dikenali sebagai MRSM Kota Kinabalu)",
+      "program_ditawarkan": "Program IGCSE",
+      "tahun_ditubuhkan": "2002",
+      "alamat": "Peti Surat 50167, Putatan 88722 Kota Kinabalu Sabah",
+      "laman_web_rasmi": "http://kkinabalu.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Sabah",
+      "nama": "MRSM Tun Mustapha",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2008",
+      "alamat": "Peti Surat 61275 91022 Tawau Sabah",
+      "laman_web_rasmi": "http://tmustapha.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Sabah",
+      "nama": "MRSM Tun Mohammad Fuad Stephens (dahulu dikenali sebagai MRSM Sandakan)",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2013",
+      "alamat": "Education Hub, Jalan Sungai Batang 90000 Sandakan Sabah",
+      "laman_web_rasmi": "http://tmfs.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Sabah",
+      "nama": "MRSM Semporna",
+      "program_ditawarkan": "Ulul Albab",
+      "tahun_ditubuhkan": "2017",
+      "alamat": "Kampung Bantayan, Jalan Tagasan 91308 Semporna Sabah",
+      "laman_web_rasmi": "http://semporna.mrsm.edu.my"
+    },
+    {
+      "bahagian": "Sabah",
+      "nama": "MRSM Ranau",
+      "program_ditawarkan": "Program Premier",
+      "tahun_ditubuhkan": "2024",
+      "alamat": "Ranau, Jln Kompleks Sukan Ranau, 89300 Ranau Sabah",
+      "laman_web_rasmi": "http://mrsmranau.edu.my"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Maktab Rendah Sains MARA (MRSM) - Muat turun percuma",
+    "description": "Senarai Maktab Rendah Sains MARA (MRSM) — 53 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 53 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Maktab Rendah Sains MARA (MRSM) | ListBase",
+    "seo_description": "Muat turun Senarai Maktab Rendah Sains MARA (MRSM) — 53 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 53 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_MRSM_di_Malaysia"
+    ]
+  }
+}
