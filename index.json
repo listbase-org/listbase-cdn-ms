@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:34.621Z",
-  "total_datasets": 609,
-  "total_records": 517155,
+  "generated": "2026-10-22T04:32:35.159Z",
+  "total_datasets": 610,
+  "total_records": 517242,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 20
+      "dataset_count": 21
     },
     {
       "id": "entertainment",
@@ -2358,6 +2358,35 @@
         "xlsx": {
           "name": "ms-sjkc-pulau-pinang_MS.xlsx",
           "size": 13976
+        }
+      }
+    },
+    {
+      "id": "ms-sjkc-sabah",
+      "name": "Senarai SJK(C) di Sabah",
+      "category": "education",
+      "record_count": 87,
+      "columns": [
+        "bahagian",
+        "kod_sekolah",
+        "lokasi",
+        "nama_sekolah_dalam_bahasa_melayu",
+        "nama_sekolah_dalam_bahasa_cina",
+        "poskod",
+        "kawasan",
+        "koordinat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Sabah",
+      "updated": "2026-10",
+      "size": 34629,
+      "files": {
+        "csv": {
+          "name": "ms-sjkc-sabah_MS.csv",
+          "size": 14510
+        },
+        "xlsx": {
+          "name": "ms-sjkc-sabah_MS.xlsx",
+          "size": 13540
         }
       }
     },

@@ -1,0 +1,936 @@
+{
+  "id": "ms-sjkc-sabah",
+  "name": "Senarai SJK(C) di Sabah",
+  "title": "Senarai SJK(C) di Sabah",
+  "description": "Senarai SJK(C) di Sabah — 87 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "education",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Sabah",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Sabah",
+  "updated": "2026-10",
+  "record_count": 87,
+  "columns": [
+    {
+      "key": "bahagian",
+      "label": "Bahagian",
+      "type": "string"
+    },
+    {
+      "key": "kod_sekolah",
+      "label": "Kod Sekolah",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "nama_sekolah_dalam_bahasa_melayu",
+      "label": "Nama Sekolah Dalam Bahasa Melayu",
+      "type": "string"
+    },
+    {
+      "key": "nama_sekolah_dalam_bahasa_cina",
+      "label": "Nama Sekolah Dalam Bahasa Cina",
+      "type": "string"
+    },
+    {
+      "key": "poskod",
+      "label": "Poskod",
+      "type": "number"
+    },
+    {
+      "key": "kawasan",
+      "label": "Kawasan",
+      "type": "string"
+    },
+    {
+      "key": "koordinat",
+      "label": "Koordinat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bahagian": "Daerah Keningau",
+      "kod_sekolah": "XBC1012",
+      "lokasi": "Kampung Ansip",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Cheng Ming",
+      "nama_sekolah_dalam_bahasa_cina": "政民华小",
+      "poskod": "89007",
+      "kawasan": "Keningau",
+      "koordinat": "5°18′14″U 116°08′57″T﻿ / ﻿5.3038°U 116.1492°T"
+    },
+    {
+      "bahagian": "Daerah Keningau",
+      "kod_sekolah": "XCC1049",
+      "lokasi": "Batu 27, Jalan Tenom",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yuk Kong",
+      "nama_sekolah_dalam_bahasa_cina": "育光华小",
+      "poskod": "89007",
+      "kawasan": "Keningau",
+      "koordinat": "5°19′25″U 116°07′17″T﻿ / ﻿5.3236°U 116.1213°T"
+    },
+    {
+      "bahagian": "Daerah Keningau",
+      "kod_sekolah": "XCC1050",
+      "lokasi": "Keningau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yuk Yin",
+      "nama_sekolah_dalam_bahasa_cina": "育英华小",
+      "poskod": "89007",
+      "kawasan": "Keningau",
+      "koordinat": "5°20′19″U 116°09′57″T﻿ / ﻿5.3387°U 116.1658°T"
+    },
+    {
+      "bahagian": "Daerah Tambunan",
+      "kod_sekolah": "XCC1222",
+      "lokasi": "Tambunan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yuh Min",
+      "nama_sekolah_dalam_bahasa_cina": "育民华小",
+      "poskod": "89657",
+      "kawasan": "Tambunan",
+      "koordinat": "5°40′06″U 116°21′50″T﻿ / ﻿5.6682°U 116.3638°T"
+    },
+    {
+      "bahagian": "Daerah Tenom",
+      "kod_sekolah": "XCC1303",
+      "lokasi": "Kampung Entabuan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chi Vun Entabuan",
+      "nama_sekolah_dalam_bahasa_cina": "启文华小",
+      "poskod": "89908",
+      "kawasan": "Tenom",
+      "koordinat": "5°07′02″U 115°58′46″T﻿ / ﻿5.1173°U 115.9794°T"
+    },
+    {
+      "bahagian": "Daerah Tenom",
+      "kod_sekolah": "XCC1304",
+      "lokasi": "Batu 14, Jalan Kemabong",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yuk Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "育华华小",
+      "poskod": "89907",
+      "kawasan": "Tenom",
+      "koordinat": "4°57′51″U 115°55′12″T﻿ / ﻿4.9642°U 115.9200°T"
+    },
+    {
+      "bahagian": "Daerah Tenom",
+      "kod_sekolah": "XCC1305",
+      "lokasi": "Tenom",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "89907",
+      "kawasan": "Tenom",
+      "koordinat": "5°07′35″U 115°56′44″T﻿ / ﻿5.1265°U 115.9455°T"
+    },
+    {
+      "bahagian": "Daerah Tenom",
+      "kod_sekolah": "XCC1315",
+      "lokasi": "Kampung Mantailang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kong Min",
+      "nama_sekolah_dalam_bahasa_cina": "光民华小",
+      "poskod": "89907",
+      "kawasan": "Tenom",
+      "koordinat": "5°09′55″U 115°57′33″T﻿ / ﻿5.1653°U 115.9591°T"
+    },
+    {
+      "bahagian": "Daerah Tenom",
+      "kod_sekolah": "XCC1324",
+      "lokasi": "Kampung Paal",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Pada",
+      "nama_sekolah_dalam_bahasa_cina": "巴达华小",
+      "poskod": "89907",
+      "kawasan": "Tenom",
+      "koordinat": "5°00′57″U 115°56′26″T﻿ / ﻿5.0159°U 115.9406°T"
+    },
+    {
+      "bahagian": "Daerah Tenom",
+      "kod_sekolah": "XCC1327",
+      "lokasi": "Kampung Lagud",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Phui Ying",
+      "nama_sekolah_dalam_bahasa_cina": "培仁华小",
+      "poskod": "89907",
+      "kawasan": "Tenom",
+      "koordinat": "5°11′31″U 115°58′30″T﻿ / ﻿5.1920°U 115.9751°T"
+    },
+    {
+      "bahagian": "Daerah Tenom",
+      "kod_sekolah": "XCC1341",
+      "lokasi": "Kampung Melalap",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Vun Shin",
+      "nama_sekolah_dalam_bahasa_cina": "文新华小",
+      "poskod": "89908",
+      "kawasan": "Tenom",
+      "koordinat": "5°14′35″U 115°59′46″T﻿ / ﻿5.2430°U 115.9960°T"
+    },
+    {
+      "bahagian": "Daerah Tenom",
+      "kod_sekolah": "XCC1342",
+      "lokasi": "Batu 10, Kampung Paal",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yuk Nam",
+      "nama_sekolah_dalam_bahasa_cina": "育南华小",
+      "poskod": "89907",
+      "kawasan": "Tenom",
+      "koordinat": "5°00′23″U 115°55′18″T﻿ / ﻿5.0065°U 115.9217°T"
+    },
+    {
+      "bahagian": "Daerah Tenom",
+      "kod_sekolah": "XCC1343",
+      "lokasi": "Kampung Batu Lapan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yuk Syn",
+      "nama_sekolah_dalam_bahasa_cina": "育新华小",
+      "poskod": "89908",
+      "kawasan": "Tenom",
+      "koordinat": "5°01′33″U 115°55′57″T﻿ / ﻿5.0259°U 115.9326°T"
+    },
+    {
+      "bahagian": "Daerah Tenom",
+      "kod_sekolah": "XCC1346",
+      "lokasi": "Kampung Amboi",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Tsi Sin",
+      "nama_sekolah_dalam_bahasa_cina": "启新华小",
+      "poskod": "89908",
+      "kawasan": "Tenom",
+      "koordinat": "5°06′30″U 115°56′15″T﻿ / ﻿5.1082°U 115.9376°T"
+    },
+    {
+      "bahagian": "Daerah Beaufort",
+      "kod_sekolah": "XCC6008",
+      "lokasi": "Weston",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Che Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "启华华小",
+      "poskod": "89808.0",
+      "kawasan": "data-sort-value=\"\" style=\"background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center; \" class=\"table-na\" | —",
+      "koordinat": ""
+    },
+    {
+      "bahagian": "Daerah Beaufort",
+      "kod_sekolah": "Tidak diketahui",
+      "lokasi": "Bukau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hua Bukau (ditutup)",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "",
+      "kawasan": "data-sort-value=\"\" style=\"background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center; \" class=\"table-na\" | —",
+      "koordinat": ""
+    },
+    {
+      "bahagian": "Daerah Beaufort",
+      "kod_sekolah": "XCC6027",
+      "lokasi": "Beaufort",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kung Ming (1)",
+      "nama_sekolah_dalam_bahasa_cina": "公民华小",
+      "poskod": "89807.0",
+      "kawasan": "Beaufort",
+      "koordinat": "5°20′48″U 115°44′41″T﻿ / ﻿5.3467°U 115.7448°T"
+    },
+    {
+      "bahagian": "Daerah Beaufort",
+      "kod_sekolah": "XCC6030",
+      "lokasi": "Kampung Melabau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Lian Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "联华华小",
+      "poskod": "89808.0",
+      "kawasan": "Beaufort",
+      "koordinat": "5°21′18″U 115°44′06″T﻿ / ﻿5.3551°U 115.7349°T (baharu) 5°25′17″U 115°40′00″T﻿ / ﻿5.4214°U 115.6666°T (lama)"
+    },
+    {
+      "bahagian": "Daerah Beaufort",
+      "kod_sekolah": "XCC6101",
+      "lokasi": "Membakut",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Pei Yin",
+      "nama_sekolah_dalam_bahasa_cina": "培英华小",
+      "poskod": "89727.0",
+      "kawasan": "Membakut",
+      "koordinat": "5°27′54″U 115°47′43″T﻿ / ﻿5.4650°U 115.7954°T"
+    },
+    {
+      "bahagian": "Daerah Sipitang",
+      "kod_sekolah": "XCC6202",
+      "lokasi": "Sipitang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hwa Sipitang",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "89857",
+      "kawasan": "Sipitang",
+      "koordinat": "5°04′40″U 115°33′05″T﻿ / ﻿5.0777°U 115.5514°T"
+    },
+    {
+      "bahagian": "Daerah Sipitang",
+      "kod_sekolah": "XCC6203",
+      "lokasi": "Mesapol",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hwa Mesapol",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "89857",
+      "kawasan": "Sipitang",
+      "koordinat": "5°06′38″U 115°35′26″T﻿ / ﻿5.1106°U 115.5906°T"
+    },
+    {
+      "bahagian": "Daerah Sipitang",
+      "kod_sekolah": "XCC6218",
+      "lokasi": "Sindumin",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sin Boon Sindumin",
+      "nama_sekolah_dalam_bahasa_cina": "新文华小",
+      "poskod": "89857",
+      "kawasan": "Sipitang",
+      "koordinat": "4°57′51″U 115°30′33″T﻿ / ﻿4.9642°U 115.5091°T"
+    },
+    {
+      "bahagian": "Daerah Kuala Penyu",
+      "kod_sekolah": "XCC6303",
+      "lokasi": "Kuala Penyu",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "89747",
+      "kawasan": "Kuala Penyu",
+      "koordinat": "5°34′25″U 115°35′48″T﻿ / ﻿5.5735°U 115.5966°T"
+    },
+    {
+      "bahagian": "Daerah Kuala Penyu",
+      "kod_sekolah": "XCC6318",
+      "lokasi": "Menumbok",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Pui Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "培华华小",
+      "poskod": "89767",
+      "kawasan": "Menumbok",
+      "koordinat": "5°18′14″U 115°22′11″T﻿ / ﻿5.3038°U 115.3697°T"
+    },
+    {
+      "bahagian": "Daerah Sandakan",
+      "kod_sekolah": "XBC2004",
+      "lokasi": "Sandakan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Cheng Min",
+      "nama_sekolah_dalam_bahasa_cina": "政民华小",
+      "poskod": "90707.0",
+      "kawasan": "Sandakan",
+      "koordinat": "5°50′21″U 118°06′42″T﻿ / ﻿5.8393°U 118.1116°T"
+    },
+    {
+      "bahagian": "Daerah Sandakan",
+      "kod_sekolah": "XCC2006",
+      "lokasi": "Sandakan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chi Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "启华华小",
+      "poskod": "90701.0",
+      "kawasan": "Sandakan",
+      "koordinat": "5°51′32″U 118°06′42″T﻿ / ﻿5.8589°U 118.1116°T"
+    },
+    {
+      "bahagian": "Daerah Sandakan",
+      "kod_sekolah": "XCC2013",
+      "lokasi": "Sandakan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Lok Yuk",
+      "nama_sekolah_dalam_bahasa_cina": "乐育华小",
+      "poskod": "90703.0",
+      "kawasan": "Sandakan",
+      "koordinat": "5°50′03″U 118°04′19″T﻿ / ﻿5.8342°U 118.0720°T"
+    },
+    {
+      "bahagian": "Daerah Sandakan",
+      "kod_sekolah": "XCC2016",
+      "lokasi": "Batu 14, Jalan Labuk",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Ming Chung",
+      "nama_sekolah_dalam_bahasa_cina": "民众华小",
+      "poskod": "90009.0",
+      "kawasan": "Sandakan",
+      "koordinat": "5°53′23″U 117°57′00″T﻿ / ﻿5.8897°U 117.9499°T"
+    },
+    {
+      "bahagian": "Daerah Sandakan",
+      "kod_sekolah": "XCC2020",
+      "lokasi": "Batu 12, Jalan Labuk",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Pea Wha",
+      "nama_sekolah_dalam_bahasa_cina": "培华华小",
+      "poskod": "90700.0",
+      "kawasan": "Sandakan",
+      "koordinat": "5°53′16″U 117°58′39″T﻿ / ﻿5.8877°U 117.9775°T"
+    },
+    {
+      "bahagian": "Daerah Sandakan",
+      "kod_sekolah": "XCC2022",
+      "lokasi": "Sandakan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Pei Ying",
+      "nama_sekolah_dalam_bahasa_cina": "培英华小",
+      "poskod": "90701.0",
+      "kawasan": "Sandakan",
+      "koordinat": "5°49′50″U 118°05′00″T﻿ / ﻿5.8306°U 118.0832°T"
+    },
+    {
+      "bahagian": "Daerah Sandakan",
+      "kod_sekolah": "XCC2023",
+      "lokasi": "Sandakan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Pui Gin",
+      "nama_sekolah_dalam_bahasa_cina": "培正华小",
+      "poskod": "90705.0",
+      "kawasan": "Sandakan",
+      "koordinat": "5°53′33″U 118°03′36″T﻿ / ﻿5.8924°U 118.0599°T"
+    },
+    {
+      "bahagian": "Daerah Sandakan",
+      "kod_sekolah": "XCC2056",
+      "lokasi": "Sandakan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Syn Hua",
+      "nama_sekolah_dalam_bahasa_cina": "新华华小",
+      "poskod": "90704.0",
+      "kawasan": "Sandakan",
+      "koordinat": "5°53′00″U 118°01′50″T﻿ / ﻿5.8833°U 118.0306°T"
+    },
+    {
+      "bahagian": "Daerah Sandakan",
+      "kod_sekolah": "XCC2058",
+      "lokasi": "Taman Sibuga",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Tai Tong",
+      "nama_sekolah_dalam_bahasa_cina": "大同华小",
+      "poskod": "90704.0",
+      "kawasan": "Sandakan",
+      "koordinat": "5°50′46″U 118°02′29″T﻿ / ﻿5.8460°U 118.0413°T"
+    },
+    {
+      "bahagian": "Daerah Sandakan",
+      "kod_sekolah": "XCC2063",
+      "lokasi": "Sandakan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yuk Choi",
+      "nama_sekolah_dalam_bahasa_cina": "育才华小",
+      "poskod": "90702.0",
+      "kawasan": "Sandakan",
+      "koordinat": "5°50′50″U 118°04′18″T﻿ / ﻿5.8473°U 118.0716°T"
+    },
+    {
+      "bahagian": "Daerah Sandakan",
+      "kod_sekolah": "Tidak diketahui",
+      "lokasi": "Tidak diketahui",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yuk Mong (ditutup)",
+      "nama_sekolah_dalam_bahasa_cina": "育蒙华小",
+      "poskod": "",
+      "kawasan": "data-sort-value=\"\" style=\"background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center; \" class=\"table-na\" | —",
+      "koordinat": ""
+    },
+    {
+      "bahagian": "Daerah Tawau",
+      "kod_sekolah": "XCC3012",
+      "lokasi": "Tawau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "91007",
+      "kawasan": "Tawau",
+      "koordinat": "4°15′19″U 117°57′35″T﻿ / ﻿4.2553°U 117.9597°T"
+    },
+    {
+      "bahagian": "Daerah Tawau",
+      "kod_sekolah": "XCC3014",
+      "lokasi": "Tawau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Hing Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "兴华华小",
+      "poskod": "91007",
+      "kawasan": "Tawau",
+      "koordinat": "4°16′14″U 117°54′15″T﻿ / ﻿4.2705°U 117.9042°T"
+    },
+    {
+      "bahagian": "Daerah Tawau",
+      "kod_sekolah": "XCC3026",
+      "lokasi": "Tawau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kung Ming",
+      "nama_sekolah_dalam_bahasa_cina": "公民华小",
+      "poskod": "91007",
+      "kawasan": "Tawau",
+      "koordinat": "4°15′32″U 117°55′37″T﻿ / ﻿4.2589°U 117.9269°T"
+    },
+    {
+      "bahagian": "Daerah Tawau",
+      "kod_sekolah": "XCC3027",
+      "lokasi": "Tawau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kuok Ming",
+      "nama_sekolah_dalam_bahasa_cina": "国民华小",
+      "poskod": "91007",
+      "kawasan": "Tawau",
+      "koordinat": "4°17′41″U 117°52′47″T﻿ / ﻿4.2946°U 117.8797°T"
+    },
+    {
+      "bahagian": "Daerah Tawau",
+      "kod_sekolah": "XCC3034",
+      "lokasi": "Kampung Gudang Empat",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Phui Yuk",
+      "nama_sekolah_dalam_bahasa_cina": "培育华小",
+      "poskod": "91007",
+      "kawasan": "Tawau",
+      "koordinat": "4°21′09″U 117°52′56″T﻿ / ﻿4.3526°U 117.8823°T"
+    },
+    {
+      "bahagian": "Daerah Tawau",
+      "kod_sekolah": "XCC3041",
+      "lokasi": "Tawau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sin Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "新华华小",
+      "poskod": "91007",
+      "kawasan": "Tawau",
+      "koordinat": "4°14′47″U 117°53′04″T﻿ / ﻿4.2464°U 117.8844°T"
+    },
+    {
+      "bahagian": "Daerah Tawau",
+      "kod_sekolah": "XCC3057",
+      "lokasi": "Tawau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yuk Chin",
+      "nama_sekolah_dalam_bahasa_cina": "育进华小",
+      "poskod": "91007",
+      "kawasan": "Tawau",
+      "koordinat": "4°16′32″U 117°53′22″T﻿ / ﻿4.2756°U 117.8895°T"
+    },
+    {
+      "bahagian": "Daerah Lahad Datu",
+      "kod_sekolah": "XCC3104",
+      "lokasi": "Lahad Datu",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chee Vun",
+      "nama_sekolah_dalam_bahasa_cina": "启文华小",
+      "poskod": "91110",
+      "kawasan": "Lahad Datu",
+      "koordinat": "5°01′49″U 118°20′18″T﻿ / ﻿5.0302°U 118.3382°T"
+    },
+    {
+      "bahagian": "Daerah Lahad Datu",
+      "kod_sekolah": "XCC3109",
+      "lokasi": "Segama",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kiau Shing",
+      "nama_sekolah_dalam_bahasa_cina": "侨新华小",
+      "poskod": "91110",
+      "kawasan": "Lahad Datu",
+      "koordinat": "5°04′31″U 118°17′33″T﻿ / ﻿5.0753°U 118.2924°T"
+    },
+    {
+      "bahagian": "Daerah Lahad Datu",
+      "kod_sekolah": "XCC3124",
+      "lokasi": "Lahad Datu",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Siew Ching",
+      "nama_sekolah_dalam_bahasa_cina": "修正华小",
+      "poskod": "91110",
+      "kawasan": "Lahad Datu",
+      "koordinat": "5°01′39″U 118°19′50″T﻿ / ﻿5.0274°U 118.3305°T"
+    },
+    {
+      "bahagian": "Daerah Lahad Datu",
+      "kod_sekolah": "XCC3125",
+      "lokasi": "Jalan Tengah Nipah",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sin Wah",
+      "nama_sekolah_dalam_bahasa_cina": "新华华小",
+      "poskod": "91110",
+      "kawasan": "Lahad Datu",
+      "koordinat": "5°02′13″U 118°23′43″T﻿ / ﻿5.0370°U 118.3952°T"
+    },
+    {
+      "bahagian": "Daerah Lahad Datu",
+      "kod_sekolah": "XCC3134",
+      "lokasi": "Kampung Jawa",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yuk Choi",
+      "nama_sekolah_dalam_bahasa_cina": "育才华小",
+      "poskod": "91110",
+      "kawasan": "Lahad Datu",
+      "koordinat": "5°02′39″U 118°17′54″T﻿ / ﻿5.0441°U 118.2984°T"
+    },
+    {
+      "bahagian": "Daerah Kunak",
+      "kod_sekolah": "XCC3201",
+      "lokasi": "Kunak",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Pai Sheng",
+      "nama_sekolah_dalam_bahasa_cina": "培新华小",
+      "poskod": "91207",
+      "kawasan": "Kunak",
+      "koordinat": "4°40′59″U 118°14′44″T﻿ / ﻿4.6830°U 118.2455°T"
+    },
+    {
+      "bahagian": "Daerah Semporna",
+      "kod_sekolah": "XCC3311",
+      "lokasi": "Semporna",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Nyuk Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "育华华小",
+      "poskod": "91307",
+      "kawasan": "Semporna",
+      "koordinat": "4°28′22″U 118°36′18″T﻿ / ﻿4.4727°U 118.6050°T"
+    },
+    {
+      "bahagian": "Daerah Kota Kinabalu",
+      "kod_sekolah": "XBC4002",
+      "lokasi": "Jalan Penampang Lama",
+      "nama_sekolah_dalam_bahasa_melayu": "SK (C) Anglo-Chinese",
+      "nama_sekolah_dalam_bahasa_cina": "中英华小",
+      "poskod": "88300",
+      "kawasan": "Kota Kinabalu",
+      "koordinat": "5°56′33″U 116°05′32″T﻿ / ﻿5.9425°U 116.0922°T"
+    },
+    {
+      "bahagian": "Daerah Kota Kinabalu",
+      "kod_sekolah": "XCC4001",
+      "lokasi": "Likas",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hwa Likas",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "89400",
+      "kawasan": "Likas",
+      "koordinat": "5°59′15″U 116°06′14″T﻿ / ﻿5.9874°U 116.1038°T"
+    },
+    {
+      "bahagian": "Daerah Kota Kinabalu",
+      "kod_sekolah": "XCC4006",
+      "lokasi": "Kampung Air",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hwa Kg Air K Kinabalu",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "88802",
+      "kawasan": "Kota Kinabalu",
+      "koordinat": "5°58′26″U 116°04′22″T﻿ / ﻿5.9739°U 116.0728°T"
+    },
+    {
+      "bahagian": "Daerah Kota Kinabalu",
+      "kod_sekolah": "XCC4009",
+      "lokasi": "Menggatal",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Good Shepherd Menggatal",
+      "nama_sekolah_dalam_bahasa_cina": "善牧华小",
+      "poskod": "88826",
+      "kawasan": "Menggatal",
+      "koordinat": "6°01′23″U 116°09′14″T﻿ / ﻿6.0230°U 116.1540°T"
+    },
+    {
+      "bahagian": "Daerah Kota Kinabalu",
+      "kod_sekolah": "XCC4025",
+      "lokasi": "Likas",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Lok Yuk Likas",
+      "nama_sekolah_dalam_bahasa_cina": "乐育华小",
+      "poskod": "88856",
+      "kawasan": "Kota Kinabalu",
+      "koordinat": "5°59′12″U 116°06′00″T﻿ / ﻿5.9868°U 116.1001°T"
+    },
+    {
+      "bahagian": "Daerah Kota Kinabalu",
+      "kod_sekolah": "XCC4030",
+      "lokasi": "Menggatal",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Lok Yuk Menggatal",
+      "nama_sekolah_dalam_bahasa_cina": "乐育华小",
+      "poskod": "88804",
+      "kawasan": "Kota Kinabalu",
+      "koordinat": "6°01′18″U 116°09′13″T﻿ / ﻿6.0218°U 116.1537°T"
+    },
+    {
+      "bahagian": "Daerah Kota Kinabalu",
+      "kod_sekolah": "XCC4044",
+      "lokasi": "Jalan Austral Park",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Shan Tao",
+      "nama_sekolah_dalam_bahasa_cina": "善导华小",
+      "poskod": "88800",
+      "kawasan": "Kota Kinabalu",
+      "koordinat": "5°56′53″U 116°04′03″T﻿ / ﻿5.9481°U 116.0676°T"
+    },
+    {
+      "bahagian": "Daerah Kota Kinabalu",
+      "kod_sekolah": "XCC4052",
+      "lokasi": "Jalan Tuaran",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) St James Kota Kinabalu",
+      "nama_sekolah_dalam_bahasa_cina": "雅导华小",
+      "poskod": "88100",
+      "kawasan": "Kota Kinabalu",
+      "koordinat": "5°59′02″U 116°06′09″T﻿ / ﻿5.9839°U 116.1026°T"
+    },
+    {
+      "bahagian": "Daerah Kota Kinabalu",
+      "kod_sekolah": "XCC4054",
+      "lokasi": "Telipok",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) St Peter Telipok",
+      "nama_sekolah_dalam_bahasa_cina": "公民华小",
+      "poskod": "88450",
+      "kawasan": "Kota Kinabalu",
+      "koordinat": "6°05′19″U 116°11′42″T﻿ / ﻿6.0887°U 116.1949°T"
+    },
+    {
+      "bahagian": "Daerah Kota Kinabalu",
+      "kod_sekolah": "XCC4066",
+      "lokasi": "Inanam",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yick Nam",
+      "nama_sekolah_dalam_bahasa_cina": "益南华小",
+      "poskod": "89357",
+      "kawasan": "Inanam",
+      "koordinat": "5°59′26″U 116°08′19″T﻿ / ﻿5.9906°U 116.1385°T"
+    },
+    {
+      "bahagian": "Daerah Kota Kinabalu",
+      "kod_sekolah": "XCC6008",
+      "lokasi": "Kolombong",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Che Hwa Kolombong",
+      "nama_sekolah_dalam_bahasa_cina": "启华华小",
+      "poskod": "88450",
+      "kawasan": "Kota Kinabalu",
+      "koordinat": "5°59′13″U 116°06′55″T﻿ / ﻿5.9870°U 116.1154°T"
+    },
+    {
+      "bahagian": "Daerah Putatan",
+      "kod_sekolah": "XCC4104",
+      "lokasi": "Putatan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Hwa Shiong",
+      "nama_sekolah_dalam_bahasa_cina": "华商华小",
+      "poskod": "88813",
+      "kawasan": "Kota Kinabalu",
+      "koordinat": "5°53′47″U 116°02′58″T﻿ / ﻿5.8964°U 116.0494°T"
+    },
+    {
+      "bahagian": "Daerah Penampang",
+      "kod_sekolah": "XCC4124",
+      "lokasi": "Penampang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yue Min",
+      "nama_sekolah_dalam_bahasa_cina": "育民华小",
+      "poskod": "89507",
+      "kawasan": "Penampang",
+      "koordinat": "5°55′07″U 116°05′59″T﻿ / ﻿5.9186°U 116.0996°T"
+    },
+    {
+      "bahagian": "Daerah Papar",
+      "kod_sekolah": "XCC4202",
+      "lokasi": "Papar",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Anglo Chinese",
+      "nama_sekolah_dalam_bahasa_cina": "中西华小",
+      "poskod": "89600.0",
+      "kawasan": "Papar",
+      "koordinat": "5°43′56″U 115°56′01″T﻿ / ﻿5.7323°U 115.9335°T"
+    },
+    {
+      "bahagian": "Daerah Papar",
+      "kod_sekolah": "XCC4211",
+      "lokasi": "Papar",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Cheng Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "正华华小",
+      "poskod": "89607.0",
+      "kawasan": "Papar",
+      "koordinat": "5°44′08″U 115°56′00″T﻿ / ﻿5.7356°U 115.9333°T"
+    },
+    {
+      "bahagian": "Daerah Papar",
+      "kod_sekolah": "XCC4212",
+      "lokasi": "Kampung Ulu Kimanis",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Cheng Ming",
+      "nama_sekolah_dalam_bahasa_cina": "政民华小",
+      "poskod": "89608.0",
+      "kawasan": "Papar",
+      "koordinat": "5°34′04″U 115°57′27″T﻿ / ﻿5.5679°U 115.9574°T"
+    },
+    {
+      "bahagian": "Daerah Papar",
+      "kod_sekolah": "XCC4216",
+      "lokasi": "Kampung Rampazan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Hwa Yin Rampazan",
+      "nama_sekolah_dalam_bahasa_cina": "华仁华小",
+      "poskod": "89608.0",
+      "kawasan": "Papar",
+      "koordinat": "5°41′54″U 115°58′31″T﻿ / ﻿5.6983°U 115.9753°T"
+    },
+    {
+      "bahagian": "Daerah Papar",
+      "kod_sekolah": "Tidak diketahui",
+      "lokasi": "Kimanis",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kim Hwa (ditutup)",
+      "nama_sekolah_dalam_bahasa_cina": "金华华小",
+      "poskod": "",
+      "kawasan": "data-sort-value=\"\" style=\"background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center; \" class=\"table-na\" | —",
+      "koordinat": ""
+    },
+    {
+      "bahagian": "Daerah Papar",
+      "kod_sekolah": "XCC4225",
+      "lokasi": "Pekan Kinarut",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kin Kiau",
+      "nama_sekolah_dalam_bahasa_cina": "京侨华小",
+      "poskod": "89608.0",
+      "kawasan": "Papar",
+      "koordinat": "5°49′22″U 116°02′39″T﻿ / ﻿5.8228°U 116.0442°T"
+    },
+    {
+      "bahagian": "Daerah Papar",
+      "kod_sekolah": "XCC4248",
+      "lokasi": "Kampung Kelatuan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sen Ming",
+      "nama_sekolah_dalam_bahasa_cina": "新民华小",
+      "poskod": "89608.0",
+      "kawasan": "Papar",
+      "koordinat": "5°38′09″U 115°57′31″T﻿ / ﻿5.6359°U 115.9585°T"
+    },
+    {
+      "bahagian": "Daerah Papar",
+      "kod_sekolah": "XCC4251",
+      "lokasi": "Papar",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) St Joseph",
+      "nama_sekolah_dalam_bahasa_cina": "圣华华小",
+      "poskod": "89608.0",
+      "kawasan": "Papar",
+      "koordinat": "5°43′49″U 115°55′49″T﻿ / ﻿5.7304°U 115.9303°T"
+    },
+    {
+      "bahagian": "Daerah Papar",
+      "kod_sekolah": "XCC4258",
+      "lokasi": "Kampung Manggis",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Tung Shan",
+      "nama_sekolah_dalam_bahasa_cina": "东山华小",
+      "poskod": "89608.0",
+      "kawasan": "Papar",
+      "koordinat": "5°41′22″U 116°00′49″T﻿ / ﻿5.6894°U 116.0137°T"
+    },
+    {
+      "bahagian": "Daerah Papar",
+      "kod_sekolah": "XCC6102",
+      "lokasi": "Bongawan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Bong Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "望华华小",
+      "poskod": "89700.0",
+      "kawasan": "Bongawan",
+      "koordinat": "5°32′13″U 115°51′14″T﻿ / ﻿5.5370°U 115.8540°T"
+    },
+    {
+      "bahagian": "Daerah Tuaran",
+      "kod_sekolah": "XCC4309",
+      "lokasi": "Tuaran",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chen Sin",
+      "nama_sekolah_dalam_bahasa_cina": "振新华小",
+      "poskod": "89207",
+      "kawasan": "Tuaran",
+      "koordinat": "6°10′31″U 116°13′42″T﻿ / ﻿6.1753°U 116.2283°T"
+    },
+    {
+      "bahagian": "Daerah Tuaran",
+      "kod_sekolah": "XCC4323",
+      "lokasi": "Talibong",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kok Wah Talibong",
+      "nama_sekolah_dalam_bahasa_cina": "国华华小",
+      "poskod": "89207",
+      "kawasan": "Tuaran",
+      "koordinat": "6°06′51″U 116°13′52″T﻿ / ﻿6.1142°U 116.2310°T"
+    },
+    {
+      "bahagian": "Daerah Tuaran",
+      "kod_sekolah": "XCC4403",
+      "lokasi": "Tamparuli",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) St Phillip",
+      "nama_sekolah_dalam_bahasa_cina": "培理华小",
+      "poskod": "89257",
+      "kawasan": "Tamparuli",
+      "koordinat": "6°08′14″U 116°15′51″T﻿ / ﻿6.1373°U 116.2641°T"
+    },
+    {
+      "bahagian": "Daerah Tuaran",
+      "kod_sekolah": "XCC4404",
+      "lokasi": "Tamparuli",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hwa Tamparuli",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "89257",
+      "kawasan": "Tamparuli",
+      "koordinat": "6°08′13″U 116°16′09″T﻿ / ﻿6.1370°U 116.2692°T"
+    },
+    {
+      "bahagian": "Daerah Tuaran",
+      "kod_sekolah": "XCC4412",
+      "lokasi": "Pekan Tenglihan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hwa Tenghilan",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "89208",
+      "kawasan": "Tuaran",
+      "koordinat": "6°15′28″U 116°20′07″T﻿ / ﻿6.2577°U 116.3353°T"
+    },
+    {
+      "bahagian": "Daerah Kota Belud",
+      "kod_sekolah": "XCC5305",
+      "lokasi": "Kota Belud",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "89157",
+      "kawasan": "Kota Belud",
+      "koordinat": "6°21′24″U 116°25′38″T﻿ / ﻿6.3567°U 116.4272°T"
+    },
+    {
+      "bahagian": "Daerah Ranau",
+      "kod_sekolah": "XCC5429",
+      "lokasi": "Ranau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Pai Wen",
+      "nama_sekolah_dalam_bahasa_cina": "培文华小",
+      "poskod": "89307",
+      "kawasan": "Ranau",
+      "koordinat": "5°56′56″U 116°39′54″T﻿ / ﻿5.9490°U 116.6651°T"
+    },
+    {
+      "bahagian": "Daerah Kudat",
+      "kod_sekolah": "XCC5012",
+      "lokasi": "Kudat",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Hwa Lian",
+      "nama_sekolah_dalam_bahasa_cina": "华联华小",
+      "poskod": "89057",
+      "kawasan": "Kudat",
+      "koordinat": "6°53′29″U 116°50′49″T﻿ / ﻿6.8913°U 116.8469°T"
+    },
+    {
+      "bahagian": "Daerah Kudat",
+      "kod_sekolah": "XCC5031",
+      "lokasi": "Kampung Pinangsoo",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Lok Yuk Pinangsoo Kudat",
+      "nama_sekolah_dalam_bahasa_cina": "乐育华小",
+      "poskod": "89057",
+      "kawasan": "Kudat",
+      "koordinat": "6°55′49″U 116°49′03″T﻿ / ﻿6.9302°U 116.8174°T"
+    },
+    {
+      "bahagian": "Daerah Kudat",
+      "kod_sekolah": "XCC5034",
+      "lokasi": "Kudat",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Lok Yuk Batu 1 Kudat",
+      "nama_sekolah_dalam_bahasa_cina": "乐育华小",
+      "poskod": "89057",
+      "kawasan": "Kudat",
+      "koordinat": "6°53′26″U 116°50′48″T﻿ / ﻿6.8906°U 116.8466°T"
+    },
+    {
+      "bahagian": "Daerah Kudat",
+      "kod_sekolah": "XCC5042",
+      "lokasi": "Tamalang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Our Lady Immaculate Kudat",
+      "nama_sekolah_dalam_bahasa_cina": "圣母华小",
+      "poskod": "89057",
+      "kawasan": "Kudat",
+      "koordinat": "6°55′00″U 116°45′21″T﻿ / ﻿6.9168°U 116.7557°T"
+    },
+    {
+      "bahagian": "Daerah Kudat",
+      "kod_sekolah": "XCC5052",
+      "lokasi": "Kampung Tajau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sacred Heart Tajau Kudat",
+      "nama_sekolah_dalam_bahasa_cina": "圣心华小",
+      "poskod": "89057",
+      "kawasan": "Kudat",
+      "koordinat": "6°56′14″U 116°45′46″T﻿ / ﻿6.9373°U 116.7628°T"
+    },
+    {
+      "bahagian": "Daerah Kudat",
+      "kod_sekolah": "XCC5065",
+      "lokasi": "Kudat",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) St Peter",
+      "nama_sekolah_dalam_bahasa_cina": "培德华小",
+      "poskod": "89058",
+      "kawasan": "Kudat",
+      "koordinat": "6°53′45″U 116°51′15″T﻿ / ﻿6.8959°U 116.8541°T"
+    },
+    {
+      "bahagian": "Daerah Kudat",
+      "kod_sekolah": "XCC5080",
+      "lokasi": "Temalang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yuk Hwa Temalang",
+      "nama_sekolah_dalam_bahasa_cina": "育华华小",
+      "poskod": "89057",
+      "kawasan": "Kudat",
+      "koordinat": "6°54′09″U 116°46′56″T﻿ / ﻿6.9026°U 116.7822°T"
+    },
+    {
+      "bahagian": "Daerah Kota Marudu",
+      "kod_sekolah": "XCC5122",
+      "lokasi": "Kota Marudu",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Khoi Ming",
+      "nama_sekolah_dalam_bahasa_cina": "开明华小",
+      "poskod": "89107",
+      "kawasan": "Kota Marudu",
+      "koordinat": "6°31′10″U 116°45′17″T﻿ / ﻿6.5194°U 116.7548°T"
+    }
+  ],
+  "meta": {
+    "title": "Senarai SJK(C) di Sabah - Muat turun percuma",
+    "description": "Senarai SJK(C) di Sabah — 87 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 87 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai SJK(C) di Sabah | ListBase",
+    "seo_description": "Muat turun Senarai SJK(C) di Sabah — 87 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 87 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Sabah"
+    ]
+  }
+}
