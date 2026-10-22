@@ -1,0 +1,4360 @@
+{
+  "id": "ms-alamanak-astronomi",
+  "name": "Alamanak Astronomi Malaysia (2022–2026)",
+  "title": "Alamanak Astronomi Malaysia (2022–2026)",
+  "description": "Tarikh dan masa fenomena astronomi yang boleh dicerap dari Malaysia — fasa bulan, perigee dan apogee, hujan meteor, gerhana, ekuinoks, solstis serta kedudukan planet — dengan penerangan bagi setiap peristiwa.",
+  "category": "science",
+  "source": "https://data.gov.my/data-catalogue/alamanak_astronomi",
+  "source_url": "https://data.gov.my/data-catalogue/alamanak_astronomi",
+  "updated": "2026-10",
+  "record_count": 538,
+  "columns": [
+    {
+      "key": "tarikh",
+      "label": "Tarikh",
+      "type": "date"
+    },
+    {
+      "key": "masa",
+      "label": "Masa",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "fenomena",
+      "label": "Fenomena",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "penerangan",
+      "label": "Penerangan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tarikh": "2022-01-03",
+      "masa": "02:33",
+      "tahun": 2022,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 02:33"
+    },
+    {
+      "tarikh": "2022-01-04",
+      "masa": "06:20",
+      "tahun": 2022,
+      "fenomena": "Hujan Meteor Quadrantids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Quadrantids boleh dilihat mulai 26 Disember hingga 16 Januari setiap tahun. Kemuncak Hujan Meteor Quadrantids dijangka berlaku pada awal pagi 4 Januari 2022 dengan bilangan meteor sekitar 60 hingga 200 meteor per jam. Kenampakan hujan meteor tersebut adalah agak baik kerana tiada gangguan cahaya Bulan pada waktu semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2022-01-10",
+      "masa": "02:11",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 02:11"
+    },
+    {
+      "tarikh": "2022-01-18",
+      "masa": "07:48",
+      "tahun": 2022,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 07:48"
+    },
+    {
+      "tarikh": "2022-01-25",
+      "masa": "21:40",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada jam 21:40"
+    },
+    {
+      "tarikh": "2022-02-01",
+      "masa": "13:49",
+      "tahun": 2022,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 13:49"
+    },
+    {
+      "tarikh": "2022-02-08",
+      "masa": "21:51",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 21:51"
+    },
+    {
+      "tarikh": "2022-02-17",
+      "masa": "01:00",
+      "tahun": 2022,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 01:00"
+    },
+    {
+      "tarikh": "2022-02-17",
+      "masa": "07:58",
+      "tahun": 2022,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada Elongasi Paling Barat iaitu 26.3 darjah, Utarid boleh kelihatan di langit timur sebelum Matahari terbit."
+    },
+    {
+      "tarikh": "2022-02-24",
+      "masa": "06:34",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada jam 06:34"
+    },
+    {
+      "tarikh": "2022-03-03",
+      "masa": "01:34",
+      "tahun": 2022,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 01:34."
+    },
+    {
+      "tarikh": "2022-03-10",
+      "masa": "18:45",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 18:45"
+    },
+    {
+      "tarikh": "2022-03-18",
+      "masa": "15:17",
+      "tahun": 2022,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 15:17"
+    },
+    {
+      "tarikh": "2022-03-20",
+      "masa": "23:33",
+      "tahun": 2022,
+      "fenomena": "Ekuinoks Mac",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari berada di atas garisan Khatulistiwa dan akan terbit tepat di timur dan terbenam tepat di barat. Di Hemisfera Utara, ekuinoks pada bulan Mac dikenali sebagai ekuinoks musim bunga manakala di Hemisfera Selatan ia dikenali sebagai ekuinoks musim luruh."
+    },
+    {
+      "tarikh": "2022-03-21",
+      "masa": "07:00",
+      "tahun": 2022,
+      "fenomena": "Zuhrah pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Zuhrah pada Elongasi Paling Barat iaitu 46.6 darjah, Zuhrah boleh kelihatan di langit timur sebelum Matahari terbit. Planet Zuhrah akan terbit pada jam 04:21 manakala Matahari akan terbit pada jam 07:16"
+    },
+    {
+      "tarikh": "2022-03-25",
+      "masa": "13:37",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada jam 13:37"
+    },
+    {
+      "tarikh": "2022-04-01",
+      "masa": "14:24",
+      "tahun": 2022,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 14:24."
+    },
+    {
+      "tarikh": "2022-04-09",
+      "masa": "14:47",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 14:47"
+    },
+    {
+      "tarikh": "2022-04-17",
+      "masa": "02:55",
+      "tahun": 2022,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 02:55"
+    },
+    {
+      "tarikh": "2022-04-23",
+      "masa": "00:00",
+      "tahun": 2022,
+      "fenomena": "Kemuncak Hujan Meteor Lyrids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Lyrids boleh dilihat mulai 18 hingga 25 April. Kemuncak Hujan Meteor Lyrids pada awal pagi 23 April 2022 dengan purata 18 meteor per jam. Fasa Bulan Suku Akhir akan mengganggu kenampakan hujan meteor tersebut."
+    },
+    {
+      "tarikh": "2022-04-23",
+      "masa": "19:56",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada jam 19:56"
+    },
+    {
+      "tarikh": "2022-04-29",
+      "masa": "19:11",
+      "tahun": 2022,
+      "fenomena": "Utarid pada Elongasi Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada Elongasi Paling Timur iaitu 20.6 darjah, Utarid boleh kelihatan di langit barat selepas Matahari terbenam. Planet Utarid akan terbenam pada jam 20:38 manakala Matahari akan terbenam pada jam 19:17"
+    },
+    {
+      "tarikh": "2022-05-01",
+      "masa": "04:28",
+      "tahun": 2022,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 04:28."
+    },
+    {
+      "tarikh": "2022-05-01",
+      "masa": "04:41",
+      "tahun": 2022,
+      "fenomena": "Gerhana Matahari Separa",
+      "kategori": "Gerhana",
+      "penerangan": "Gerhana Matahari Separa berlaku mulai pada jam 02:45 dan berakhir pada jam 06:37 waktu Malaysia. Fenomena tersebut tidak dapat dilihat di Malaysia tetapi boleh dilihat di kebanyakan bahagian tenggara Lautan Pasifik dan bahagian selatan Amerika Selatan. Liputan sebanyak 53% dapat dilihat dari Argentina."
+    },
+    {
+      "tarikh": "2022-05-01",
+      "masa": "05:30",
+      "tahun": 2022,
+      "fenomena": "Konjungsi Zuhrah dan Musytari",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Zuhrah dan Musytari akan kelihatan berdekatan antara satu sama lain di langit dan hampir sejajar dari Bumi dengan jarak sudut 14 arka-minit pada ufuk timur."
+    },
+    {
+      "tarikh": "2022-05-07",
+      "masa": "03:00",
+      "tahun": 2022,
+      "fenomena": "Kemuncak Hujan Meteor Eta Aquarids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Eta Aquarids boleh dilihat mulai 19 April hingga 28 Mei. Kemuncak Hujan Meteor Eta Aquarids berlaku pada awal pagi 7 Mei 2022 dengan purata 50 meteor per jam. Hujan Meteor Eta Aquarids merujuk kepada titik kemunculan hujan meteor di langit iaitu di kawasan buruj Aquarius, tetapi kemunculannya masih boleh berlaku dari pelbagai arah. Kenampakan hujan meteor tersebut adalah bagus kerana tiada gangguan Bulan semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2022-05-09",
+      "masa": "08:21",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 08:21."
+    },
+    {
+      "tarikh": "2022-05-16",
+      "masa": "12:11",
+      "tahun": 2022,
+      "fenomena": "Gerhana Bulan Penuh",
+      "kategori": "Gerhana",
+      "penerangan": "Gerhana Bulan Penuh berlaku mulai jam 09:32 dan berakhir pada jam 14:50 waktu Malaysia. Fenomena tersebut tidak dapat dilihat di Malaysia kerana berlaku pada waktu siang. Gerhana tersebut boleh dilihat di Amerika Utara, Greenland, Lautan Atlantik dan sebahagian Eropah Barat dan Afrika."
+    },
+    {
+      "tarikh": "2022-05-16",
+      "masa": "12:14",
+      "tahun": 2022,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 12:14."
+    },
+    {
+      "tarikh": "2022-05-18",
+      "masa": "04:00",
+      "tahun": 2022,
+      "fenomena": "Konjungsi Marikh dan Neptun",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Marikh dan Neptun akan kelihatan berdekatan antara satu sama lain di langit dan hampir sejajar dari Bumi dengan jarak sudut 34 arka-minit pada ufuk timur."
+    },
+    {
+      "tarikh": "2022-05-23",
+      "masa": "02:43",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada jam 02:43."
+    },
+    {
+      "tarikh": "2022-05-27",
+      "masa": "10:20",
+      "tahun": 2022,
+      "fenomena": "Penghijaban Zuhrah oleh Bulan",
+      "kategori": "Penghijaban",
+      "penerangan": "Penghijaban Zuhrah oleh Bulan, iaitu Bulan kelihatan melintas di hadapan Zuhrah dan melindungi Zuhrah dari pandangan kita. Penghijaban bermula dengan kehilangan kenampakan Zuhrah di belakang Bulan sekitar 10:20 pagi dan ia akan kelihatan semula sekitar 12:10 tengah hari."
+    },
+    {
+      "tarikh": "2022-05-29",
+      "masa": "03:30",
+      "tahun": 2022,
+      "fenomena": "Konjungsi Marikh dan Musytari",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Marikh dan Musytari akan kelihatan berdekatan antara satu sama lain di langit dan hampir sejajar dari Bumi dengan jarak sudut 39 arka-minit pada ufuk timur."
+    },
+    {
+      "tarikh": "2022-05-30",
+      "masa": "02:43",
+      "tahun": 2022,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 19:30."
+    },
+    {
+      "tarikh": "2022-06-07",
+      "masa": "22:48",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 22:48"
+    },
+    {
+      "tarikh": "2022-06-14",
+      "masa": "19:51",
+      "tahun": 2022,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 19:51"
+    },
+    {
+      "tarikh": "2022-06-17",
+      "masa": "06:50",
+      "tahun": 2022,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid berada pada Elongasi Paling Barat iaitu 23.2 darjah, Utarid boleh kelihatan di langit timur sebelum Matahari terbit. Planet Utarid akan terbit pada jam 05:32 manakala Matahari akan terbit pada jam 07:04"
+    },
+    {
+      "tarikh": "2022-06-21",
+      "masa": "11:10",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada jam 11:10"
+    },
+    {
+      "tarikh": "2022-06-21",
+      "masa": "17:13",
+      "tahun": 2022,
+      "fenomena": "Solstis Jun",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari akan berada pada kedudukan paling jauh ke utara dari khatulistiwa iaitu di atas Garisan Sartan (23.5º Utara) pada jam 17:13. Ia menandakan bermulanya musim panas di Hemisfera Utara dan bermulanya musim sejuk di Hemisfera Selatan. Waktu siang menjadi lebih panjang dan waktu malam menjadi lebih pendek di Hemisfera Utara sementara waktu siang menjadi lebih pendek dan waktu malam menjadi lebih panjang di Hemisfera Selatan."
+    },
+    {
+      "tarikh": "2022-06-29",
+      "masa": "10:53",
+      "tahun": 2022,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 10:53"
+    },
+    {
+      "tarikh": "2022-07-04",
+      "masa": "15:10",
+      "tahun": 2022,
+      "fenomena": "Bumi pada Kedudukan Aphelion",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Bumi berada pada jarak yang paling jauh dengan Matahari, iaitu sejauh 152,098,455km. Kedudukan ini dikenali sebagai aphelion."
+    },
+    {
+      "tarikh": "2022-07-07",
+      "masa": "10:14",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 10:14."
+    },
+    {
+      "tarikh": "2022-07-13",
+      "masa": "17:09",
+      "tahun": 2022,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada jarak yang paling dekat dengan Bumi, iaitu sejauh 357,263km. Kedudukan ini dikenali sebagai perigee."
+    },
+    {
+      "tarikh": "2022-07-14",
+      "masa": "02:37",
+      "tahun": 2022,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 02:37. Bulan Penuh Perigee, iaitu bulan purnama yang berada paling dekat dekat dengan Bumi, kelihatan terbesar dan tercerah untuk tahun 2022 yang juga dikenali sebagai Supermoon."
+    },
+    {
+      "tarikh": "2022-07-20",
+      "masa": "22:18",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada jam 22:18."
+    },
+    {
+      "tarikh": "2022-07-29",
+      "masa": "00:00",
+      "tahun": 2022,
+      "fenomena": "Kemuncak Hujan Meteor Delta Aquariids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Delta Aquarids boleh dilihat mulai 12 Julai hingga 23 Ogos. Kemuncak Hujan Meteor Delta Aquarids dijangka berlaku pada awal pagi 29 Julai 2022 dengan purata 20 meteor per jam. Hujan Meteor Delta Aquarids merujuk kepada titik kemunculan hujan meteor di langit iaitu di kawasan buruj Aquarius, tetapi kemunculannya masih boleh berlaku dari pelbagai arah. Kenampakan hujan meteor tersebut adalah bagus kerana tiada gangguan bulan semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2022-07-29",
+      "masa": "01:54",
+      "tahun": 2022,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 01:54."
+    },
+    {
+      "tarikh": "2022-08-05",
+      "masa": "19:06",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 19:06."
+    },
+    {
+      "tarikh": "2022-08-12",
+      "masa": "09:35",
+      "tahun": 2022,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 09:35."
+    },
+    {
+      "tarikh": "2022-08-13",
+      "masa": "00:00",
+      "tahun": 2022,
+      "fenomena": "Kemuncak Hujan Meteor Perseids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Perseids boleh dilihat mulai 17Julai hingga 24 Ogos. Kemuncak Hujan Meteor Perseids dijangka berlaku pada awal pagi 13 Ogos 2022 dengan purata 60 meteor per jam. Hujan Meteor Perseids merujuk kepada titik kemunculan hujan meteor di langit iaitu di kawasan buruj Perseus, tetapi kemunculannya masih boleh berlaku dari pelbagai arah. Kenampakan hujan meteor tersebut adalah kurang bagus kerana terdapat gangguan bulan hampir purnama semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2022-08-15",
+      "masa": "01:02",
+      "tahun": 2022,
+      "fenomena": "Oposisi Zuhal",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Zuhal akan berada pada kedudukan oposisi, iaitu kedudukan bertentangan dengan Matahari merujuk kepada Bumi. Semasa oposisi, Zuhal akan disinari sepenuhnya oleh Matahari dan boleh dilihat dengan lebih terang berbanding ketika ia berada pada kedudukan lain. Planet Zuhal akan kelihatan di langit malam sepanjang Ogos hingga Disember."
+    },
+    {
+      "tarikh": "2022-08-19",
+      "masa": "12:36",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada jam 12:36."
+    },
+    {
+      "tarikh": "2022-08-27",
+      "masa": "16:17",
+      "tahun": 2022,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 16:17."
+    },
+    {
+      "tarikh": "2022-08-27",
+      "masa": "19:15",
+      "tahun": 2022,
+      "fenomena": "Utarid pada Elongasi Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid berada pada Elongasi Paling Timur iaitu 27.3 darjah, Utarid boleh kelihatan di langit barat selepas Matahari terbenam. Planet Utarid akan terbenam pada jam 20:53 manakala Matahari akan terbenam pada jam 19:20"
+    },
+    {
+      "tarikh": "2022-09-04",
+      "masa": "02:07",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 02:07"
+    },
+    {
+      "tarikh": "2022-09-10",
+      "masa": "17:59",
+      "tahun": 2022,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 17:59"
+    },
+    {
+      "tarikh": "2022-09-18",
+      "masa": "05:52",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada jam 05:52."
+    },
+    {
+      "tarikh": "2022-09-23",
+      "masa": "09:03",
+      "tahun": 2022,
+      "fenomena": "Ekuinoks September",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari berada di atas garisan Khatulistiwa dan akan terbit tepat di timur dan terbenam tepat di barat. Bermulanya perubahan musim panas di hemisfera utara kepada musim luruh dan perubahan musim sejuk di hemisfera selatan kepada musim bunga."
+    },
+    {
+      "tarikh": "2022-09-26",
+      "masa": "05:54",
+      "tahun": 2022,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 05:54"
+    },
+    {
+      "tarikh": "2022-09-27",
+      "masa": "03:17",
+      "tahun": 2022,
+      "fenomena": "Oposisi Musytari",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Musytari akan berada pada kedudukan oposisi, iaitu kedudukan bertentangan dengan Matahari merujuk kepada Bumi. Semasa oposisi, Musytari akan disinari sepenuhnya oleh cahaya Matahari dan boleh dilihat dengan lebih terang berbanding ketika ia berada pada kedudukan lain. Planet Musytari akan kelihatan di langit malam sepanjang Ogos hingga Disember."
+    },
+    {
+      "tarikh": "2022-10-03",
+      "masa": "08:14",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 08:14"
+    },
+    {
+      "tarikh": "2022-10-09",
+      "masa": "06:58",
+      "tahun": 2022,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid berada pada Elongasi Paling Barat iaitu 18 darjah dari Matahari, Utarid boleh kelihatan di langit timur sebelum Matahari terbit. Planet Utarid akan terbit pada jam 05:54 manakala Matahari akan terbit pada jam 06:58"
+    },
+    {
+      "tarikh": "2022-10-10",
+      "masa": "04:54",
+      "tahun": 2022,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 04:54"
+    },
+    {
+      "tarikh": "2022-10-18",
+      "masa": "01:15",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada jam 01:15"
+    },
+    {
+      "tarikh": "2022-10-22",
+      "masa": "00:00",
+      "tahun": 2022,
+      "fenomena": "Kemuncak Hujan Meteor Orionids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Orionids boleh dilihat mulai 2 Oktober hingga 7 November. Kemuncak Pancuran Meteor Orionids berlaku pada malam antara 21 dan 22 Oktober 2021 dengan purata 20 meteor per jam. Kenampakan hujan meteor tersebut adalah agak bagus kerana hanya sedikit gangguan bulan sabit tua semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2022-10-25",
+      "masa": "16:58",
+      "tahun": 2022,
+      "fenomena": "Gerhana Matahari Separa",
+      "kategori": "Gerhana",
+      "penerangan": "Gerhana Matahari Separa berlaku mulai jam 16:58 dan berakhir pada jam 21:02 waktu Malaysia. Fenomena tersebut tidak dapat dilihat di Malaysia tetapi boleh dilihat di sebahagian besar Eropah, bahagian utara Afrika, Timur Tengah dan Asia Barat. Liputan sebanyak 80% dapat dilihat dari bahagian tengah Rusia."
+    },
+    {
+      "tarikh": "2022-10-25",
+      "masa": "18:48",
+      "tahun": 2022,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 18:48"
+    },
+    {
+      "tarikh": "2022-11-01",
+      "masa": "14:37",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 14:37"
+    },
+    {
+      "tarikh": "2022-11-08",
+      "masa": "19:00",
+      "tahun": 2022,
+      "fenomena": "Gerhana Bulan Penuh",
+      "kategori": "Gerhana",
+      "penerangan": "Gerhana Bulan Penuh berlaku mulai jam 16:02 dan berakhir pada jam 21:56 waktu Malaysia dan dapat dilihat dari tenggara Eropah, Asia, Australia, Pasifik dan Amerika. Di Malaysia, fenomena tersebut tidak dapat kelihatan secara keseluruhan kerana fenomena ini mula berlaku semasa hari masih siang dan Bulan masih berada di bawah ufuk. Ia dapat dilihat apabila Bulan mulai terbit di ufuk timur, ketika fasa gerhana maksimum sehingga fasa gerhana penumbra berakhir pada jam 21:56."
+    },
+    {
+      "tarikh": "2022-11-08",
+      "masa": "19:02",
+      "tahun": 2022,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 19:02"
+    },
+    {
+      "tarikh": "2022-11-16",
+      "masa": "21:27",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada jam 21:27"
+    },
+    {
+      "tarikh": "2022-11-18",
+      "masa": "02:00",
+      "tahun": 2022,
+      "fenomena": "Kemuncak Hujan Meteor Leonids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Leonids boleh dilihat mulai 6 hingga 30 November. Kemuncak Hujan Meteor Leonids berlaku pada awal pagi 18 November 2022 dengan purata 10 meteor per jam dalam keadaan langit gelap. Kenampakan hujan meteor tersebut adalah kurang bagus kerana gangguan fasa bulan suku ketiga semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2022-11-24",
+      "masa": "06:57",
+      "tahun": 2022,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 06:57"
+    },
+    {
+      "tarikh": "2022-11-30",
+      "masa": "22:36",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 22:36"
+    },
+    {
+      "tarikh": "2022-12-08",
+      "masa": "12:09",
+      "tahun": 2022,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 12:09"
+    },
+    {
+      "tarikh": "2022-12-14",
+      "masa": "21:00",
+      "tahun": 2022,
+      "fenomena": "Kemuncak Hujan Meteor Geminids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Kemuncak Meteor Geminids berlaku pada 14 Disember 2022 jam 9 malam dengan ZHR=150. Prospek kurang bagus kerana cahaya Bulan akan mengganggu."
+    },
+    {
+      "tarikh": "2022-12-16",
+      "masa": "16:59",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada jam 16:59"
+    },
+    {
+      "tarikh": "2022-12-23",
+      "masa": "18:17",
+      "tahun": 2022,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 18:17"
+    },
+    {
+      "tarikh": "2022-12-30",
+      "masa": "09:22",
+      "tahun": 2022,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 09:22"
+    },
+    {
+      "tarikh": "2023-01-04",
+      "masa": "03:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Quadrantids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Quadrantids boleh dilihat mulai 26 Disember hingga 16 Januari setiap tahun. Kemuncak Hujan Meteor Quadrantids dijangka berlaku pada awal pagi 4 Januari 2023 dengan purata 80 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana terdapat gangguan bulan hampir purnama semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-01-04",
+      "masa": "03:36",
+      "tahun": 2023,
+      "fenomena": "Konjungsi Bulan dan Marikh",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Bulan dan Marikh akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut kelihatan Bulan dan Marikh dari Bumi adalah sejauh 0.5 darjah di langit barat."
+    },
+    {
+      "tarikh": "2023-01-05",
+      "masa": "00:17",
+      "tahun": 2023,
+      "fenomena": "Bumi pada Kedudukan Perihelion",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Bumi berada pada jarak yang paling dekat dengan Matahari, iaitu sejauh 147,098,925 km."
+    },
+    {
+      "tarikh": "2023-01-07",
+      "masa": "07:07",
+      "tahun": 2023,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 07:07."
+    },
+    {
+      "tarikh": "2023-01-08",
+      "masa": "17:19",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 406,458 km."
+    },
+    {
+      "tarikh": "2023-01-15",
+      "masa": "10:10",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 10:10"
+    },
+    {
+      "tarikh": "2023-01-22",
+      "masa": "04:53",
+      "tahun": 2023,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 04:53."
+    },
+    {
+      "tarikh": "2023-01-22",
+      "masa": "04:56",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 356,569 km."
+    },
+    {
+      "tarikh": "2023-01-22",
+      "masa": "19:30",
+      "tahun": 2023,
+      "fenomena": "Konjungsi Zuhrah dan Zuhal",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Konjungsi (Conjunction) merupakan fenomena nyata yang disebabkan oleh perspektif pemerhati dari Bumi iaitu dua objek cakerawala dilihat berdekatan jika dilihat dari Bumi, namun sebenarnya kedua-duanya adalah berjauhan dari satu sama lain di angkasa. Zuhrah dan Zuhal akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut kelihatan Zuhrah dan Zuhal dari Bumi adalah sejauh 0.6 darjah di langit barat."
+    },
+    {
+      "tarikh": "2023-01-28",
+      "masa": "23:18",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 23:18."
+    },
+    {
+      "tarikh": "2023-01-30",
+      "masa": "18:00",
+      "tahun": 2023,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid berada di posisi elongasi paling barat iaitu 25.0 darjah dari Matahari. Utarid boleh kelihatan di langit timur sebelum Matahari terbit."
+    },
+    {
+      "tarikh": "2023-02-02",
+      "masa": "01:55",
+      "tahun": 2023,
+      "fenomena": "Komet C/2022 E3 (ZTF)",
+      "kategori": "Komet",
+      "penerangan": "Komet C/2022 E3 (ZTF) sedang menuju ke arah Bumi dan ia akan berada pada kedudukan paling hampir dengan Bumi sekitar jarak 0.28 AU pada 2 Februari 2023."
+    },
+    {
+      "tarikh": "2023-02-04",
+      "masa": "16:54",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 406,476 km."
+    },
+    {
+      "tarikh": "2023-02-06",
+      "masa": "02:28",
+      "tahun": 2023,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 02:28."
+    },
+    {
+      "tarikh": "2023-02-14",
+      "masa": "00:00",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 00:00."
+    },
+    {
+      "tarikh": "2023-02-19",
+      "masa": "17:05",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 358,267 km."
+    },
+    {
+      "tarikh": "2023-02-20",
+      "masa": "15:05",
+      "tahun": 2023,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 15:05."
+    },
+    {
+      "tarikh": "2023-02-27",
+      "masa": "16:05",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 16:05."
+    },
+    {
+      "tarikh": "2023-03-02",
+      "masa": "18:40",
+      "tahun": 2023,
+      "fenomena": "Konjungsi Zuhrah dan Musytari",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Zuhrah dan Musytari akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut kelihatan Zuhrah dan Musytari dari Bumi adalah sejauh 0.5 darjah (32 arka minit) di langit barat."
+    },
+    {
+      "tarikh": "2023-03-04",
+      "masa": "02:00",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 405,889 km."
+    },
+    {
+      "tarikh": "2023-03-07",
+      "masa": "20:40",
+      "tahun": 2023,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 20:40."
+    },
+    {
+      "tarikh": "2023-03-15",
+      "masa": "10:08",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 10:08."
+    },
+    {
+      "tarikh": "2023-03-19",
+      "masa": "23:12",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 362,696 km."
+    },
+    {
+      "tarikh": "2023-03-21",
+      "masa": "05:25",
+      "tahun": 2023,
+      "fenomena": "Ekuinoks Mac",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari berada di atas garisan Khatulistiwa dan akan terbit tepat di timur dan terbenam tepat di barat. Di Hemisfera Utara, ekuinoks pada bulan Mac dikenali sebagai ekuinoks musim bunga manakala di Hemisfera Selatan ia dikenali sebagai ekuinoks musim luruh."
+    },
+    {
+      "tarikh": "2023-03-22",
+      "masa": "01:23",
+      "tahun": 2023,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 01:23."
+    },
+    {
+      "tarikh": "2023-03-24",
+      "masa": "19:50",
+      "tahun": 2023,
+      "fenomena": "Konjungsi Bulan dan Zuhrah",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Bulan dan Zuhrah akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut kelihatan Bulan dan Zuhrah dari Bumi adalah sejauh 0.03 darjah (2 arka minit) di langit barat."
+    },
+    {
+      "tarikh": "2023-03-29",
+      "masa": "10:32",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 10:32."
+    },
+    {
+      "tarikh": "2023-03-31",
+      "masa": "19:16",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 404,919 km."
+    },
+    {
+      "tarikh": "2023-04-06",
+      "masa": "12:34",
+      "tahun": 2023,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 12:34."
+    },
+    {
+      "tarikh": "2023-04-11",
+      "masa": "19:00",
+      "tahun": 2023,
+      "fenomena": "Utarid pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling timur iaitu pada 19.5 darjah, Utarid boleh kelihatan di langit barat selepas Matahari terbenam."
+    },
+    {
+      "tarikh": "2023-04-13",
+      "masa": "17:11",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 17:11."
+    },
+    {
+      "tarikh": "2023-04-16",
+      "masa": "10:23",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada 367,968 km."
+    },
+    {
+      "tarikh": "2023-04-20",
+      "masa": "11:05",
+      "tahun": 2023,
+      "fenomena": "Gerhana Bulan Separa",
+      "kategori": "Gerhana",
+      "penerangan": "Gerhana Matahari Hibrid berlaku di Australia, Timor-Leste dan Indonesia (Papua). Di Malaysia, kita hanya dapat menyaksikan Gerhana Matahari Separa yang berlaku mulai jam 11:05 dan berakhir pada 12:47 waktu Malaysia (Lokasi: Kuala Lumpur) dengan magnitud gerhana sebanyak 0.173 ketika fasa maksimum pada jam 11:55. *Waktu dan magnitud gerhana adalah berbeza mengikut lokasi."
+    },
+    {
+      "tarikh": "2023-04-20",
+      "masa": "12:12",
+      "tahun": 2023,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 12:12."
+    },
+    {
+      "tarikh": "2023-04-23",
+      "masa": "00:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Lyrids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Lyrids boleh dilihat mulai 16 hingga 25 April setiap tahun. Kemuncak Hujan Meteor Lyrids dijangka berlaku pada awal pagi 23 April 2023 dengan purata 18 meteor per jam. Kenampakan hujan meteor tersebut adalah bagus kerana tiada gangguan cahaya Bulan semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-04-28",
+      "masa": "05:19",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 05:19."
+    },
+    {
+      "tarikh": "2023-04-28",
+      "masa": "14:43",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 404,299 km."
+    },
+    {
+      "tarikh": "2023-05-06",
+      "masa": "00:00",
+      "tahun": 2023,
+      "fenomena": "Fasa-fasa Gerhana Bulan Penumbra",
+      "kategori": "Gerhana",
+      "penerangan": "Penumbral bermula: 23:14, Maksimum: 01:23, Penumbral berakhir: 03:31"
+    },
+    {
+      "tarikh": "2023-05-06",
+      "masa": "01:23",
+      "tahun": 2023,
+      "fenomena": "Gerhana Bulan Penumbra",
+      "kategori": "Gerhana",
+      "penerangan": "Gerhana Bulan Penumbra berlaku mulai jam 23.14 pada 5 Mei 2023 dan berakhir pada jam 03:31 waktu Malaysia pada 6 Mei 2023 dan dapat dilihat di Afrika, Asia (termasuk Malaysia) dan Australia."
+    },
+    {
+      "tarikh": "2023-05-06",
+      "masa": "01:34",
+      "tahun": 2023,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 01:34."
+    },
+    {
+      "tarikh": "2023-05-07",
+      "masa": "04:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Eta Aquarids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Eta Aquarids boleh dilihat mulai 19 April sehingga 28 Mei setiap tahun. Kemuncak Hujan Meteor Eta Aquarids dijangka berlaku pada awal pagi 7 Mei 2023, dengan purata 20 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana terdapat gangguan Bulan Purnama semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-05-11",
+      "masa": "13:05",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada 369,343 km."
+    },
+    {
+      "tarikh": "2023-05-12",
+      "masa": "22:28",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 22:28."
+    },
+    {
+      "tarikh": "2023-05-19",
+      "masa": "23:53",
+      "tahun": 2023,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 23:53."
+    },
+    {
+      "tarikh": "2023-05-26",
+      "masa": "09:39",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 404,509 km."
+    },
+    {
+      "tarikh": "2023-05-27",
+      "masa": "23:22",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 23:22"
+    },
+    {
+      "tarikh": "2023-05-29",
+      "masa": "06:00",
+      "tahun": 2023,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi Paling Barat iaitu 24.9 darjah, Utarid boleh kelihatan di langit timur sebelum Matahari terbit."
+    },
+    {
+      "tarikh": "2023-06-04",
+      "masa": "11:41",
+      "tahun": 2023,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 11:41."
+    },
+    {
+      "tarikh": "2023-06-04",
+      "masa": "19:00",
+      "tahun": 2023,
+      "fenomena": "Zuhrah pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Zuhrah pada elongasi paling timur iaitu pada 45.4 darjah, Zuhrah boleh kelihatan di langit barat selepas Matahari terbenam."
+    },
+    {
+      "tarikh": "2023-06-07",
+      "masa": "07:06",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 364,861 km."
+    },
+    {
+      "tarikh": "2023-06-11",
+      "masa": "03:31",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 03:31."
+    },
+    {
+      "tarikh": "2023-06-18",
+      "masa": "12:37",
+      "tahun": 2023,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 12:37."
+    },
+    {
+      "tarikh": "2023-06-21",
+      "masa": "22:57",
+      "tahun": 2023,
+      "fenomena": "Solstis Musim Panas",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari akan berada pada kedudukan paling jauh ke utara dari Garisan Khatulistiwa iaitu di atas Garisan Sartan (23.5º Utara) pada jam 22:58. Ia menandakan bermulanya musim panas di Hemisfera Utara dan musim sejuk di Hemisfera Selatan. Waktu siang menjadi lebih panjang dan waktu malam menjadi lebih pendek di Hemisfera Utara sementara waktu siang menjadi lebih pendek dan waktu malam menjadi lebih panjang di Hemisfera Selatan."
+    },
+    {
+      "tarikh": "2023-06-23",
+      "masa": "02:30",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 405,385 km."
+    },
+    {
+      "tarikh": "2023-06-26",
+      "masa": "15:49",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 15:49."
+    },
+    {
+      "tarikh": "2023-07-03",
+      "masa": "19:38",
+      "tahun": 2023,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 19:38."
+    },
+    {
+      "tarikh": "2023-07-05",
+      "masa": "06:24",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada 360,149 km."
+    },
+    {
+      "tarikh": "2023-07-07",
+      "masa": "04:06",
+      "tahun": 2023,
+      "fenomena": "Bumi pada Kedudukan Aphelion",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Bumi berada pada kedudukan paling jauh dengan Matahari, iaitu sejauh 152,093,251 km."
+    },
+    {
+      "tarikh": "2023-07-10",
+      "masa": "09:47",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 09:47."
+    },
+    {
+      "tarikh": "2023-07-18",
+      "masa": "02:31",
+      "tahun": 2023,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 02:31."
+    },
+    {
+      "tarikh": "2023-07-20",
+      "masa": "14:56",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 406,289 km."
+    },
+    {
+      "tarikh": "2023-07-26",
+      "masa": "06:06",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 06:06."
+    },
+    {
+      "tarikh": "2023-07-29",
+      "masa": "00:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Delta Aquariids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Delta Aquarids boleh dilihat mulai 12 Julai sehingga 23 Ogos setiap tahun. Kemuncak Hujan Meteor Delta Aquarids dijangka berlaku pada malam 29 Julai sehingga awal pagi 30 Julai dengan purata 20 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana terdapat gangguan bulan hampir purnama semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-07-30",
+      "masa": "00:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Delta Aquariids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Delta Aquarids boleh dilihat mulai 12 Julai sehingga 23 Ogos setiap tahun. Kemuncak Hujan Meteor Delta Aquarids dijangka berlaku pada malam 29 Julai sehingga awal pagi 30 Julai dengan purata 20 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana terdapat gangguan bulan hampir purnama semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-08-02",
+      "masa": "02:31",
+      "tahun": 2023,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 02:31. Supermoon pertama untuk tahun 2023 iaitu Bulan kelihatan lebih besar dan cerah berbanding Bulan Penuh yang lain."
+    },
+    {
+      "tarikh": "2023-08-02",
+      "masa": "13:52",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada 357,311 km."
+    },
+    {
+      "tarikh": "2023-08-08",
+      "masa": "18:28",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 18:28"
+    },
+    {
+      "tarikh": "2023-08-10",
+      "masa": "19:00",
+      "tahun": 2023,
+      "fenomena": "Utarid pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling timur iaitu 27.4 darjah. Utarid boleh kelihatan di langit barat selepas Matahari terbenam."
+    },
+    {
+      "tarikh": "2023-08-13",
+      "masa": "00:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Perseids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Perseids boleh dilihat mulai 17 Julai sehingga 24 Ogos setiap tahun. Kemuncak Hujan Meteor Perseids dijangka akan berlaku pada malam 13 Ogos 2023 hingga awal pagi 14 Ogos 2023 dengan purata 60 meteor per jam. Kenampakan hujan meteor tersebut adalah bagus kerana Bulan berada dalam fasa Sabit Tua (5.4%) semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-08-14",
+      "masa": "00:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Perseids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Perseids boleh dilihat mulai 17 Julai sehingga 24 Ogos setiap tahun. Kemuncak Hujan Meteor Perseids dijangka akan berlaku pada malam 13 Ogos 2023 hingga awal pagi 14 Ogos 2023 dengan purata 60 meteor per jam. Kenampakan hujan meteor tersebut adalah bagus kerana Bulan berada dalam fasa Sabit Tua (5.4%) semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-08-16",
+      "masa": "17:38",
+      "tahun": 2023,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 17:38."
+    },
+    {
+      "tarikh": "2023-08-16",
+      "masa": "19:54",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 406,634 km."
+    },
+    {
+      "tarikh": "2023-08-24",
+      "masa": "17:57",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 17:57."
+    },
+    {
+      "tarikh": "2023-08-27",
+      "masa": "20:00",
+      "tahun": 2023,
+      "fenomena": "Oposisi Zuhal",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Zuhal akan berada pada kedudukan oposisi, iaitu kedudukan bertentangan dengan Matahari merujuk kepada Bumi. Semasa oposisi, Zuhal akan disinari sepenuhnya oleh Matahari dan boleh dilihat dengan lebih terang berbanding ketika ia berada pada kedudukan lain. Ia juga akan kelihatan sepanjang malam di buruj Aquarius pada jarak sekitar 10 AU dari Matahari dan hampir 9AU dari Bumi. Diameter ketara Zuhal sebanyak 19 saat arka dengan magnitud ketara (kecerahan) dijangka sekitar 0.4."
+    },
+    {
+      "tarikh": "2023-08-30",
+      "masa": "23:52",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Hujan Meteor Delta Aquarids boleh dilihat mulai 12 Julai sehingga 23 Ogos setiap tahun. Kemuncak Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada 357,181 km."
+    },
+    {
+      "tarikh": "2023-08-31",
+      "masa": "09:38",
+      "tahun": 2023,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 09:38. Bulan Penuh Perigee, iaitu bulan purnama yang berada paling dekat dengan Bumi, kelihatan terbesar dan tercerah untuk tahun 2023 yang juga dikenali sebagai Supermoon."
+    },
+    {
+      "tarikh": "2023-09-07",
+      "masa": "06:21",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 06:21"
+    },
+    {
+      "tarikh": "2023-09-12",
+      "masa": "23:42",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada 406,291 km."
+    },
+    {
+      "tarikh": "2023-09-13",
+      "masa": "00:00",
+      "tahun": 2023,
+      "fenomena": "Komet C/2023 P1 (Nishimura)",
+      "kategori": "Komet",
+      "penerangan": "Komet C/2023 P1 (Nishimura) akan berada pada kedudukan yang paling hampir dengan Bumi pada jarak sekitar 0.85 AU pada 13 September 2023. Selepas 5 hari, iaitu 18 September 2023, Komet C/2023 P1 (Nishimura) akan berada pada kedudukan yang paling hampir dengan Matahari (perihelion) dengan jarak sekitar 0.23 AU."
+    },
+    {
+      "tarikh": "2023-09-15",
+      "masa": "09:39",
+      "tahun": 2023,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 09:39"
+    },
+    {
+      "tarikh": "2023-09-17",
+      "masa": "00:00",
+      "tahun": 2023,
+      "fenomena": "Komet C/2020 V2 (ZTF)",
+      "kategori": "Komet",
+      "penerangan": "Komet C/2020 V2 (ZTF) akan berada pada kedudukan paling hampir dengan Bumi sekitar jarak 1.85 AU pada 17 September 2023."
+    },
+    {
+      "tarikh": "2023-09-19",
+      "masa": "20:39",
+      "tahun": 2023,
+      "fenomena": "Oposisi Neptun",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Neptun akan berada pada kedudukan terdekat dengan Bumi dan seluruh permukaannya akan disinari sepenuhnya oleh Matahari dan boleh dilihat dengan lebih terang berbanding pada kedudukan lain dan akan kelihatan pada keseluruhan waktu malam. Disebabkan oleh jaraknya yang jauh dari Bumi, ia akan kelihatan seperti bintik biru terang di langit malam."
+    },
+    {
+      "tarikh": "2023-09-22",
+      "masa": "07:00",
+      "tahun": 2023,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling barat iaitu pada 17.9 darjah. Utarid boleh kelihatan di langit timur sebelum Matahari terbit."
+    },
+    {
+      "tarikh": "2023-09-23",
+      "masa": "03:31",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 03:31."
+    },
+    {
+      "tarikh": "2023-09-23",
+      "masa": "14:51",
+      "tahun": 2023,
+      "fenomena": "Ekuinoks September",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari berada di atas garisan Khatulistiwa dan akan terbit tepat di timur dan terbenam tepat di barat. Bermulanya perubahan musim panas di hemisfera utara kepada musim luruh dan perubahan musim sejuk di hemisfera selatan kepada musim bunga."
+    },
+    {
+      "tarikh": "2023-09-28",
+      "masa": "08:59",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 359,911 km."
+    },
+    {
+      "tarikh": "2023-09-29",
+      "masa": "17:57",
+      "tahun": 2023,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 17:57."
+    },
+    {
+      "tarikh": "2023-10-06",
+      "masa": "21:47",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 21:47."
+    },
+    {
+      "tarikh": "2023-10-09",
+      "masa": "20:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Draconids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Draconids boleh dilihat mulai 6 hingga 10 Oktober setiap tahun. Kemuncak Hujan Meteor Draconids dijangka berlaku pada malam 9 Oktober 2023 dengan purata 10 meteor per jam. Kenampakan hujan meteor tersebut adalah bagus kerana tiada gangguan cahaya Bulan semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-10-10",
+      "masa": "11:41",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada 405,426 km."
+    },
+    {
+      "tarikh": "2023-10-15",
+      "masa": "01:55",
+      "tahun": 2023,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 01:55."
+    },
+    {
+      "tarikh": "2023-10-21",
+      "masa": "00:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Orionids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Orionids boleh dilihat mulai 2 Oktober hingga 7 November setiap tahun. Kemuncak Hujan Meteor Orionids dijangka berlaku pada malam 21 Oktober 2023 hingga awal pagi 22 Oktober 2023 dengan purata 20 meteor per jam. Kenampakan hujan meteor tersebut adalah bagus kerana tiada gangguan cahaya Bulan semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-10-22",
+      "masa": "00:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Orionids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Orionids boleh dilihat mulai 2 Oktober hingga 7 November setiap tahun. Kemuncak Hujan Meteor Orionids dijangka berlaku pada malam 21 Oktober 2023 hingga awal pagi 22 Oktober 2023 dengan purata 20 meteor per jam. Kenampakan hujan meteor tersebut adalah bagus kerana tiada gangguan cahaya Bulan semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-10-22",
+      "masa": "11:29",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 11:29."
+    },
+    {
+      "tarikh": "2023-10-24",
+      "masa": "07:00",
+      "tahun": 2023,
+      "fenomena": "Zuhrah pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Zuhrah pada elongasi paling Barat iaitu pada 46.4 darjah, Zuhrah boleh kelihatan di langit timur sebelum Matahari terbit."
+    },
+    {
+      "tarikh": "2023-10-26",
+      "masa": "11:02",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 364,872 km."
+    },
+    {
+      "tarikh": "2023-10-29",
+      "masa": "04:14",
+      "tahun": 2023,
+      "fenomena": "Gerhana Bulan Separa",
+      "kategori": "Gerhana",
+      "penerangan": "Gerhana Bulan Separa bermula dengan fasa penumbra pada jam 02:01, diikuti dengan fasa separa apabila Bulan mula memasuki bayang umbra Bumi pada jam 03:34, kemuncak pada jam 04:14 dan fasa separa berakhir pada jam 04:52. Gerhana masih terus berlaku sehingga jam 06:26 apabila Bulan keluar sepenuhnya dari bayang penumbra Bumi. Gerhana Bulan Separa ini dapat dilihat dari sebahagian timur Amerika Syarikat, Eropah, Afrika, Asia (termasuk Malaysia) dan Australia. Fasa-fasa Gerhana Bulan Separa:  Penumbra bermula: 02:01:18.5  Separa bermula: 03:34:43.3  Maksimum: 04:14:07.8  Separa berakhir: 04:52:52.2  Penumbra berakhir: 06:26:34.9"
+    },
+    {
+      "tarikh": "2023-10-29",
+      "masa": "04:24",
+      "tahun": 2023,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 04:24."
+    },
+    {
+      "tarikh": "2023-11-03",
+      "masa": "13:12",
+      "tahun": 2023,
+      "fenomena": "Oposisi Musytari",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Musytari akan berada pada kedudukan oposisi, iaitu kedudukan bertentangan dengan Matahari merujuk kepada Bumi. Semasa oposisi, Musytari akan disinari sepenuhnya oleh Matahari dan boleh dilihat dengan lebih terang berbanding ketika ia berada pada kedudukan lain. Planet Musytari akan kelihatan di langit malam sepanjang Oktober 2023 hingga Mac 2024."
+    },
+    {
+      "tarikh": "2023-11-04",
+      "masa": "22:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Southern Taurids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Southern Taurids boleh dilihat mulai 28 September hingga 2 Disember setiap tahun. Kemuncak Hujan Meteor Southern Taurids dijangka berlaku pada malam 4 November 2023 hingga awal pagi 5 November 2023 dengan purata 5 ke 10 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana terdapat gangguan Bulan Suku Akhir semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-11-05",
+      "masa": "16:38",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 16:38."
+    },
+    {
+      "tarikh": "2023-11-05",
+      "masa": "22:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Southern Taurids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Southern Taurids boleh dilihat mulai 28 September hingga 2 Disember setiap tahun. Kemuncak Hujan Meteor Southern Taurids dijangka berlaku pada malam 4 November 2023 hingga awal pagi 5 November 2023 dengan purata 5 ke 10 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana terdapat gangguan Bulan Suku Akhir semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-11-07",
+      "masa": "05:51",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada 404,568 km."
+    },
+    {
+      "tarikh": "2023-11-13",
+      "masa": "17:29",
+      "tahun": 2023,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 17:29."
+    },
+    {
+      "tarikh": "2023-11-14",
+      "masa": "01:20",
+      "tahun": 2023,
+      "fenomena": "Oposisi Uranus",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Uranus akan berada pada kedudukan oposisi, iaitu kedudukan bertentangan dengan Matahari merujuk kepada Bumi. Semasa oposisi, Uranus akan disinari sepenuhnya oleh Matahari dan boleh dilihat dengan lebih terang berbanding ketika ia berada pada kedudukan lain. Planet Uranus akan kelihatan di langit malam sepanjang Oktober 2023 hingga Mac 2024."
+    },
+    {
+      "tarikh": "2023-11-18",
+      "masa": "00:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Leonids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Leonids boleh dilihat mulai 6 November hingga 30 November setiap tahun. Kemuncak Hujan Meteor Geminids dijangka berlaku pada malam 18 November hingga awal pagi 19 November dengan purata 10 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana hanya terdapat gangguan Bulan Suku Pertama semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-11-19",
+      "masa": "00:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Leonids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Leonids boleh dilihat mulai 6 November hingga 30 November setiap tahun. Kemuncak Hujan Meteor Geminids dijangka berlaku pada malam 18 November hingga awal pagi 19 November dengan purata 10 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana hanya terdapat gangguan Bulan Suku Pertama semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-11-20",
+      "masa": "18:51",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 18:51."
+    },
+    {
+      "tarikh": "2023-11-22",
+      "masa": "05:04",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 369,823 km."
+    },
+    {
+      "tarikh": "2023-11-27",
+      "masa": "17:16",
+      "tahun": 2023,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 17:16."
+    },
+    {
+      "tarikh": "2023-12-04",
+      "masa": "19:00",
+      "tahun": 2023,
+      "fenomena": "Utarid pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling timur iaitu pada 21.3 darjah. Utarid boleh kelihatan di langit barat selepas Matahari terbenam."
+    },
+    {
+      "tarikh": "2023-12-05",
+      "masa": "02:44",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada 404,347 km"
+    },
+    {
+      "tarikh": "2023-12-05",
+      "masa": "13:51",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 13:51."
+    },
+    {
+      "tarikh": "2023-12-13",
+      "masa": "07:33",
+      "tahun": 2023,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 07:33."
+    },
+    {
+      "tarikh": "2023-12-14",
+      "masa": "22:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Geminids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Geminids boleh dilihat mulai 19 November hingga 24 Disember setiap tahun. Kemuncak Hujan Meteor Geminids dijangka berlaku pada malam 14 Disember 2023 hingga awal pagi 15 Disember 2023 dengan purata 120 meteor per jam. Hujan Meteor Geminids merujuk kepada titik kemunculan hujan meteor di langit iaitu di kawasan buruj Gemini, tetapi kemunculannya masih boleh berlaku dari pelbagai arah. Kenampakan hujan meteor tersebut adalah bagus kerana tiada gangguan cahaya Bulan semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-12-17",
+      "masa": "02:54",
+      "tahun": 2023,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 367,899 km."
+    },
+    {
+      "tarikh": "2023-12-20",
+      "masa": "02:41",
+      "tahun": 2023,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 02:41."
+    },
+    {
+      "tarikh": "2023-12-22",
+      "masa": "11:28",
+      "tahun": 2023,
+      "fenomena": "Solstis Musim Sejuk",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari akan berada pada kedudukan paling jauh ke selatan dari Garisan Khatulistiwa iaitu di atas Garisan Jadi (23.5º Selatan) pada jam 11:28. Ia menandakan bermulanya musim panas di Hemisfera Selatan dan bermulanya musim sejuk di Hemisfera Utara. Waktu siang menjadi lebih panjang dan waktu malam menjadi lebih pendek di Hemisfera Selatan sementara waktu siang menjadi lebih pendek dan waktu malam menjadi lebih panjang di Hemisfera Utara."
+    },
+    {
+      "tarikh": "2023-12-23",
+      "masa": "20:00",
+      "tahun": 2023,
+      "fenomena": "Hujan Meteor Ursids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Ursids boleh dilihat mulai 17 hingga 26 Disember setiap tahun. Kemuncak Hujan Meteor Ursids dijangka berlaku pada awal pagi 23 Disember 2023 dengan purata 10 meteor per jam. Hujan Meteor Ursids merujuk kepada titik kemunculan hujan meteor di langit iaitu di kawasan buruj Ursa Minor, tetapi kemunculannya masih boleh berlaku dari pelbagai arah. Kenampakan hujan meteor tersebut adalah bagus kerana tiada gangguan cahaya Bulan semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2023-12-27",
+      "masa": "08:34",
+      "tahun": 2023,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 08:34."
+    },
+    {
+      "tarikh": "2024-01-01",
+      "masa": "23:28",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 404,909 km."
+    },
+    {
+      "tarikh": "2024-01-03",
+      "masa": "08:38",
+      "tahun": 2024,
+      "fenomena": "Bumi pada Kedudukan Perihelion",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Bumi berada pada jarak yang paling dekat dengan Matahari, iaitu sejauh 147,100,632 km."
+    },
+    {
+      "tarikh": "2024-01-04",
+      "masa": "11:30",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 11:30."
+    },
+    {
+      "tarikh": "2024-01-05",
+      "masa": "03:30",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Quadrantids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Fenomena Hujan Meteor Quadrantids mula aktif dan boleh dilihat pada 26 Disember 2023 hingga 16 Januari 2024. Kemuncak fenomena ini akan dapat disaksikan pada awal pagi 5 Januari 2024 dengan purata 100 meteor setiap jam. Kenampakan hujan meteor tersebut adalah kurang baik kerana terdapat gangguan Bulan suku akhir semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-01-11",
+      "masa": "19:57",
+      "tahun": 2024,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 19:57."
+    },
+    {
+      "tarikh": "2024-01-12",
+      "masa": "22:24",
+      "tahun": 2024,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid berada di posisi elongasi paling barat iaitu 23.5 darjah dari Matahari. Utarid boleh kelihatan di langit timur sebelum Matahari terbit."
+    },
+    {
+      "tarikh": "2024-01-13",
+      "masa": "18:34",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 362,267 km."
+    },
+    {
+      "tarikh": "2024-01-18",
+      "masa": "11:52",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 11:52."
+    },
+    {
+      "tarikh": "2024-01-20",
+      "masa": "21:25",
+      "tahun": 2024,
+      "fenomena": "Konjungsi Bulan dengan Pleiades",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Bulan dan Pleiades akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut tampak Bulan dan Pleiades dari Bumi adalah sejauh 0.9 darjah di langit."
+    },
+    {
+      "tarikh": "2024-01-26",
+      "masa": "01:54",
+      "tahun": 2024,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 01:54."
+    },
+    {
+      "tarikh": "2024-01-28",
+      "masa": "06:16",
+      "tahun": 2024,
+      "fenomena": "Konjungsi Utarid dengan Marikh",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid dan Marikh akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut tampak Utarid dan Marikh dari Bumi adalah sejauh 0.2 darjah di langit timur."
+    },
+    {
+      "tarikh": "2024-01-29",
+      "masa": "16:14",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 405,777 km."
+    },
+    {
+      "tarikh": "2024-02-03",
+      "masa": "07:18",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 07:18."
+    },
+    {
+      "tarikh": "2024-02-10",
+      "masa": "06:59",
+      "tahun": 2024,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 06:59."
+    },
+    {
+      "tarikh": "2024-02-11",
+      "masa": "02:52",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 358,088 km."
+    },
+    {
+      "tarikh": "2024-02-16",
+      "masa": "23:00",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada jam 23:00."
+    },
+    {
+      "tarikh": "2024-02-18",
+      "masa": "23:00",
+      "tahun": 2024,
+      "fenomena": "Konjungsi Bulan dengan Elnath",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Bulan dan bintang Elnath (Beta Tauri) akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut tampak Bulan dan Elnath dari Bumi adalah sejauh 0.3 darjah di langit barat."
+    },
+    {
+      "tarikh": "2024-02-22",
+      "masa": "06:00",
+      "tahun": 2024,
+      "fenomena": "Konjungsi Marikh dengan Zuhrah",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Marikh dan Zuhrah akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut tampak Marikh dan Zuhrah dari Bumi adalah sejauh 0.6 darjah di langit timur."
+    },
+    {
+      "tarikh": "2024-02-24",
+      "masa": "20:30",
+      "tahun": 2024,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 20:30."
+    },
+    {
+      "tarikh": "2024-02-25",
+      "masa": "22:59",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 406,312 km."
+    },
+    {
+      "tarikh": "2024-03-03",
+      "masa": "23:23",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 23:23."
+    },
+    {
+      "tarikh": "2024-03-10",
+      "masa": "15:04",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 356,895 km."
+    },
+    {
+      "tarikh": "2024-03-10",
+      "masa": "17:00",
+      "tahun": 2024,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 17:00."
+    },
+    {
+      "tarikh": "2024-03-17",
+      "masa": "12:10",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 12:10."
+    },
+    {
+      "tarikh": "2024-03-20",
+      "masa": "11:06",
+      "tahun": 2024,
+      "fenomena": "Ekuinoks Mac",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari berada di atas garisan Khatulistiwa dan akan terbit tepat di timur dan terbenam tepat di barat. Di Hemisfera Utara, ekuinoks pada bulan Mac dikenali sebagai ekuinoks musim bunga manakala di Hemisfera Selatan ia dikenali sebagai ekuinoks musim luruh."
+    },
+    {
+      "tarikh": "2024-03-22",
+      "masa": "06:30",
+      "tahun": 2024,
+      "fenomena": "Konjungsi Zuhrah dengan Zuhal",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Zuhrah dan Zuhal akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut tampak Zuhrah dan Zuhal dari Bumi adalah sejauh 0.2 darjah di langit timur."
+    },
+    {
+      "tarikh": "2024-03-23",
+      "masa": "23:45",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 406,294 km."
+    },
+    {
+      "tarikh": "2024-03-24",
+      "masa": "19:00",
+      "tahun": 2024,
+      "fenomena": "Utarid pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling timur iaitu pada 18.7 darjah, Utarid boleh kelihatan di langit barat selepas Matahari terbenam."
+    },
+    {
+      "tarikh": "2024-03-25",
+      "masa": "15:00",
+      "tahun": 2024,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 15.00."
+    },
+    {
+      "tarikh": "2024-04-02",
+      "masa": "11:14",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 11:14."
+    },
+    {
+      "tarikh": "2024-04-08",
+      "masa": "01:50",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada 358,850 km."
+    },
+    {
+      "tarikh": "2024-04-09",
+      "masa": "02:20",
+      "tahun": 2024,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 02:20."
+    },
+    {
+      "tarikh": "2024-04-11",
+      "masa": "05:30",
+      "tahun": 2024,
+      "fenomena": "Konjungsi Marikh dengan Zuhal",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Marikh dan Zuhal akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut tampak Marikh dan Zuhal dari Bumi adalah sejauh 0.45 darjah di langit timur."
+    },
+    {
+      "tarikh": "2024-04-11",
+      "masa": "20:00",
+      "tahun": 2024,
+      "fenomena": "Konjungsi Bulan dengan Pleiades",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Bulan dan Pleiades akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut tampak Bulan dan Pleiades dari Bumi adalah sejauh 0.4 darjah di langit barat."
+    },
+    {
+      "tarikh": "2024-04-16",
+      "masa": "03:13",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 03:13."
+    },
+    {
+      "tarikh": "2024-04-20",
+      "masa": "10:10",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 405,623 km."
+    },
+    {
+      "tarikh": "2024-04-22",
+      "masa": "23:00",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Lyrids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Lyrids boleh dilihat mulai 15 hingga 29 April setiap tahun. Kemuncak Hujan Meteor Lyrids dijangka berlaku pada lewat malam 22 April 2024 hingga awal pagi 23 April 2024 dengan purata 18 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana gangguan cahaya Bulan Hampir Purnama semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-04-24",
+      "masa": "07:48",
+      "tahun": 2024,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 07:48."
+    },
+    {
+      "tarikh": "2024-04-27",
+      "masa": "05:00",
+      "tahun": 2024,
+      "fenomena": "Penghijaban Antares oleh Bulan",
+      "kategori": "Penghijaban",
+      "penerangan": "Bulan kelihatan melintas di hadapan Antares dari pandangan Bumi. Antares akan kelihatan terselindung di sebalik Bulan buat sementara waktu sebelum muncul semula. Di Kuala Lumpur, penghijaban diramalkan bermula dengan kehilangan Antares di belakang Bulan sekitar jam 05:00 pagi di langit barat daya dan ia akan kelihatan semula sekitar 06:00 pagi."
+    },
+    {
+      "tarikh": "2024-05-01",
+      "masa": "19:27",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 19:27."
+    },
+    {
+      "tarikh": "2024-05-04",
+      "masa": "06:00",
+      "tahun": 2024,
+      "fenomena": "Konjungsi Bulan dengan Zuhal",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Bulan dan Zuhal akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut tampak Bulan dan Zuhal dari Bumi adalah sejauh 0.9 darjah di langit timur."
+    },
+    {
+      "tarikh": "2024-05-06",
+      "masa": "04:00",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Eta Aquarids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Eta Aquarids boleh dilihat mulai 15 April sehingga 27 Mei 2024. Kemuncak Hujan Meteor Eta Aquarids dijangka berlaku sebelum subuh pada 6 Mei 2024, dengan purata 50 meteor per jam. Kenampakan hujan meteor tersebut adalah baik kerana terdapat sedikit gangguan Bulan sabit tua semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-05-06",
+      "masa": "06:04",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada 363,163 km."
+    },
+    {
+      "tarikh": "2024-05-08",
+      "masa": "11:21",
+      "tahun": 2024,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 11:21."
+    },
+    {
+      "tarikh": "2024-05-10",
+      "masa": "05:20",
+      "tahun": 2024,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi Paling Barat iaitu 26.4 darjah, Utarid boleh kelihatan di langit timur sebelum Matahari terbit."
+    },
+    {
+      "tarikh": "2024-05-15",
+      "masa": "19:48",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 19:48."
+    },
+    {
+      "tarikh": "2024-05-18",
+      "masa": "02:58",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 404,640 km."
+    },
+    {
+      "tarikh": "2024-05-23",
+      "masa": "21:53",
+      "tahun": 2024,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 21:53."
+    },
+    {
+      "tarikh": "2024-05-31",
+      "masa": "01:12",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 01:12."
+    },
+    {
+      "tarikh": "2024-06-02",
+      "masa": "15:24",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 368,107 km."
+    },
+    {
+      "tarikh": "2024-06-06",
+      "masa": "20:39",
+      "tahun": 2024,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 20:39."
+    },
+    {
+      "tarikh": "2024-06-14",
+      "masa": "13:20",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 13:20."
+    },
+    {
+      "tarikh": "2024-06-14",
+      "masa": "21:37",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 404,077 km."
+    },
+    {
+      "tarikh": "2024-06-21",
+      "masa": "04:50",
+      "tahun": 2024,
+      "fenomena": "Solstis Musim Panas",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari akan berada pada kedudukan paling jauh ke utara dari Garisan Khatulistiwa iaitu di atas Garisan Sartan (23.5º Utara) pada jam 04:50. Ia menandakan bermulanya musim panas di Hemisfera Utara dan musim sejuk di Hemisfera Selatan. Waktu siang menjadi lebih panjang dan waktu malam menjadi lebih pendek di Hemisfera Utara sementara waktu siang menjadi lebih pendek dan waktu malam menjadi lebih panjang di Hemisfera Selatan."
+    },
+    {
+      "tarikh": "2024-06-22",
+      "masa": "09:10",
+      "tahun": 2024,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 09:10."
+    },
+    {
+      "tarikh": "2024-06-27",
+      "masa": "19:46",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 369,291 km."
+    },
+    {
+      "tarikh": "2024-06-29",
+      "masa": "05:55",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 05:55."
+    },
+    {
+      "tarikh": "2024-07-05",
+      "masa": "13:06",
+      "tahun": 2024,
+      "fenomena": "Bumi berada pada Kedudukan Aphelion",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Bumi berada pada kedudukan paling jauh dengan Matahari, iaitu sejauh 152,099,968 km."
+    },
+    {
+      "tarikh": "2024-07-06",
+      "masa": "06:59",
+      "tahun": 2024,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 06:59."
+    },
+    {
+      "tarikh": "2024-07-12",
+      "masa": "16:13",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 404,362 km."
+    },
+    {
+      "tarikh": "2024-07-14",
+      "masa": "06:50",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 06:50."
+    },
+    {
+      "tarikh": "2024-07-21",
+      "masa": "18:19",
+      "tahun": 2024,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 18:19."
+    },
+    {
+      "tarikh": "2024-07-22",
+      "masa": "14:34",
+      "tahun": 2024,
+      "fenomena": "Utarid pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling timur iaitu pada 26.9 darjah, Utarid boleh kelihatan di langit barat selepas Matahari terbenam."
+    },
+    {
+      "tarikh": "2024-07-24",
+      "masa": "13:41",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada 364,917 km."
+    },
+    {
+      "tarikh": "2024-07-25",
+      "masa": "04:00",
+      "tahun": 2024,
+      "fenomena": "Penghijaban Zuhal oleh Bulan",
+      "kategori": "Penghijaban",
+      "penerangan": "Fenomena apabila Bulan kelihatan melintas di hadapan planet Zuhal dari pandangan Bumi, iaitu planet Zuhal akan kelihatan terselindung di sebalik Bulan, dan kemudian akan muncul semula."
+    },
+    {
+      "tarikh": "2024-07-28",
+      "masa": "10:53",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 10:53."
+    },
+    {
+      "tarikh": "2024-07-30",
+      "masa": "03:00",
+      "tahun": 2024,
+      "fenomena": "Penghijaban sebahagian Pleiades oleh Bulan",
+      "kategori": "Penghijaban",
+      "penerangan": "Fenomena apabila Bulan kelihatan melintas di hadapan sebahagian Pleiades dari pandangan Bumi, iaitu sebahagian Pleiades akan kelihatan terselindung di sebalik Bulan, dan kemudian akan muncul semula."
+    },
+    {
+      "tarikh": "2024-07-30",
+      "masa": "23:00",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Delta Aquariids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Delta Aquariids boleh dilihat mulai 12 Julai sehingga 23 Ogos setiap tahun. Kemuncak Hujan Meteor Delta Aquariids dijangka berlaku pada malam 30 Julai sehingga awal pagi 31 Julai dengan purata 20 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana terdapat gangguan Bulan Sabit Tua semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-07-31",
+      "masa": "23:00",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Delta Aquariids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Delta Aquariids boleh dilihat mulai 12 Julai sehingga 23 Ogos setiap tahun. Kemuncak Hujan Meteor Delta Aquariids dijangka berlaku pada malam 30 Julai sehingga awal pagi 31 Julai dengan purata 20 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana terdapat gangguan Bulan Sabit Tua semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-08-04",
+      "masa": "19:14",
+      "tahun": 2024,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 19:14."
+    },
+    {
+      "tarikh": "2024-08-09",
+      "masa": "09:33",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 405,297 km."
+    },
+    {
+      "tarikh": "2024-08-12",
+      "masa": "00:00",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Perseids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Perseids boleh dilihat mulai 14 Julai sehingga 1 September setiap tahun. Kemuncak Hujan Meteor Perseids dijangka akan berlaku pada malam 12 Ogos hingga awal pagi 13 Ogos 2024 dengan purata 100 meteor per jam. Kenampakan hujan meteor tersebut adalah bagus kerana Bulan Suku Pertama terbenam pada tengah malam semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-08-12",
+      "masa": "23:20",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 23:20."
+    },
+    {
+      "tarikh": "2024-08-13",
+      "masa": "00:00",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Perseids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Perseids boleh dilihat mulai 14 Julai sehingga 1 September setiap tahun. Kemuncak Hujan Meteor Perseids dijangka akan berlaku pada malam 12 Ogos hingga awal pagi 13 Ogos 2024 dengan purata 100 meteor per jam. Kenampakan hujan meteor tersebut adalah bagus kerana Bulan Suku Pertama terbenam pada tengah malam semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-08-15",
+      "masa": "03:00",
+      "tahun": 2024,
+      "fenomena": "Konjungsi Musytari dengan Marikh",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Musytari dan Marikh akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut tampak Musytari dan Marikh dari Bumi adalah sejauh 0.3 darjah di langit timur."
+    },
+    {
+      "tarikh": "2024-08-20",
+      "masa": "02:26",
+      "tahun": 2024,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 02:26. Supermoon pertama untuk tahun 2024 iaitu Bulan kelihatan lebih besar dan cerah berbanding Bulan Penuh yang lain."
+    },
+    {
+      "tarikh": "2024-08-21",
+      "masa": "13:06",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada 360,198 km."
+    },
+    {
+      "tarikh": "2024-08-26",
+      "masa": "17:27",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 17:27."
+    },
+    {
+      "tarikh": "2024-09-03",
+      "masa": "09:57",
+      "tahun": 2024,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 09:57."
+    },
+    {
+      "tarikh": "2024-09-05",
+      "masa": "10:38",
+      "tahun": 2024,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi Paling Barat iaitu 18.1 darjah, Utarid boleh kelihatan di langit timur sebelum Matahari terbit."
+    },
+    {
+      "tarikh": "2024-09-05",
+      "masa": "22:56",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada 406,214 km."
+    },
+    {
+      "tarikh": "2024-09-08",
+      "masa": "20:00",
+      "tahun": 2024,
+      "fenomena": "Istiqbal Zuhal",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Zuhal akan berada pada kedudukan opposition atau dikenali sebagai istiqbal, iaitu kedudukan bertentangan dengan Matahari merujuk kepada Bumi. Semasa istiqbal, Zuhal akan disinari sepenuhnya oleh Matahari dan boleh dilihat dengan lebih terang berbanding ketika ia berada pada kedudukan lain. Ia juga akan kelihatan sepanjang malam di buruj Aquarius pada jarak sekitar 10 AU dari Matahari dan hampir 9AU dari Bumi. Diameter ketara Zuhal sebanyak 19.2 saat arka dengan magnitud ketara (kecerahan) dijangka sekitar 0.6."
+    },
+    {
+      "tarikh": "2024-09-11",
+      "masa": "14:07",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Pertama pada 14:07."
+    },
+    {
+      "tarikh": "2024-09-18",
+      "masa": "10:35",
+      "tahun": 2024,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 10:35. Supermoon kedua untuk tahun 2024 iaitu Bulan kelihatan lebih besar dan cerah berbanding Bulan Penuh yang lain."
+    },
+    {
+      "tarikh": "2024-09-18",
+      "masa": "21:23",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 357,286 km."
+    },
+    {
+      "tarikh": "2024-09-22",
+      "masa": "20:43",
+      "tahun": 2024,
+      "fenomena": "Ekuinoks September",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari berada di atas garisan Khatulistiwa dan akan terbit tepat di timur dan terbenam tepat di barat. Bermulanya perubahan musim panas ke musim luruh di hemisfera utara dan perubahan musim sejuk ke musim bunga di hemisfera selatan."
+    },
+    {
+      "tarikh": "2024-09-25",
+      "masa": "02:51",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Suku Akhir pada 02:51."
+    },
+    {
+      "tarikh": "2024-10-03",
+      "masa": "02:51",
+      "tahun": 2024,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 02:51."
+    },
+    {
+      "tarikh": "2024-10-03",
+      "masa": "03:41",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada 406,516 km."
+    },
+    {
+      "tarikh": "2024-10-11",
+      "masa": "02:57",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada 02:57."
+    },
+    {
+      "tarikh": "2024-10-17",
+      "masa": "08:47",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 357,172 km."
+    },
+    {
+      "tarikh": "2024-10-17",
+      "masa": "19:29",
+      "tahun": 2024,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 19:29."
+    },
+    {
+      "tarikh": "2024-10-21",
+      "masa": "23:45",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Orionids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Orionids boleh dilihat mulai 2 Oktober hingga 7 November setiap tahun. Kemuncak Hujan Meteor Orionids dijangka berlaku pada malam 21 Oktober 2024 hingga awal pagi 22 Oktober 2024 dengan purata 10-20 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana terdapat gangguan cahaya Bulan semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-10-22",
+      "masa": "23:45",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Orionids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Orionids boleh dilihat mulai 2 Oktober hingga 7 November setiap tahun. Kemuncak Hujan Meteor Orionids dijangka berlaku pada malam 21 Oktober 2024 hingga awal pagi 22 Oktober 2024 dengan purata 10-20 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana terdapat gangguan cahaya Bulan semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-10-24",
+      "masa": "16:04",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Akhir pada 16:04."
+    },
+    {
+      "tarikh": "2024-10-30",
+      "masa": "06:51",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dari Bumi iaitu pada 406,163 km."
+    },
+    {
+      "tarikh": "2024-11-01",
+      "masa": "20:49",
+      "tahun": 2024,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 20:49."
+    },
+    {
+      "tarikh": "2024-11-04",
+      "masa": "21:00",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Southern Taurids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Southern Taurids boleh dilihat mulai sekitar 23 September hingga 8 Disember setiap tahun. Kemuncak Hujan Meteor Southern Taurids dijangka berlaku pada malam 4 November 2024 hingga awal pagi 5 November 2024 dengan purata 5 meteor per jam. Kenampakan hujan meteor tersebut adalah bagus kerana tiada gangguan dari Bulan Sabit Baru semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-11-09",
+      "masa": "13:57",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada 13:57."
+    },
+    {
+      "tarikh": "2024-11-13",
+      "masa": "21:00",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Northern Taurids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Northern Taurids boleh dilihat mulai sekitar 13 Oktober hingga 2 Disember setiap tahun. Kemuncak Hujan Meteor Northern Taurids dijangka berlaku pada malam 11 November 2024 hingga awal pagi 12 November 2024 dengan purata 5 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana terdapat gangguan Bulan Hampir Purnama (79%) semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-11-14",
+      "masa": "19:14",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 360,109 km."
+    },
+    {
+      "tarikh": "2024-11-16",
+      "masa": "05:31",
+      "tahun": 2024,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 05:31."
+    },
+    {
+      "tarikh": "2024-11-16",
+      "masa": "18:00",
+      "tahun": 2024,
+      "fenomena": "Utarid pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling timur iaitu pada 22.5 darjah, Utarid boleh kelihatan di langit barat selepas Matahari terbenam."
+    },
+    {
+      "tarikh": "2024-11-17",
+      "masa": "21:00",
+      "tahun": 2024,
+      "fenomena": "Istiqbal Uranus",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Uranus akan berada pada kedudukan opposition atau dikenali sebagai istiqbal, iaitu kedudukan bertentangan dengan Matahari merujuk kepada Bumi. Semasa istiqbal, Uranus akan disinari sepenuhnya oleh Matahari dan boleh dilihat dengan lebih terang berbanding ketika ia berada pada kedudukan lain. Planet Uranus akan kelihatan di langit malam sepanjang Oktober 2024 hingga Mac 2024. Uranus sukar dilihat dengan jelas kerana kedudukannya yang jauh dari Bumi. Namun begitu, ia boleh dicerap menggunakan teleskop berkuasa tinggi."
+    },
+    {
+      "tarikh": "2024-11-17",
+      "masa": "23:00",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Leonids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Leonids boleh dilihat mulai sekitar 3 November hingga 2 Disember setiap tahun. Kemuncak Hujan Meteor Leonids dijangka berlaku pada malam 17 November hingga awal pagi 18 November 2024 dengan purata 15 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang bagus kerana terdapat gangguan Bulan Hampir Purnama (98.8%) semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-11-18",
+      "masa": "05:00",
+      "tahun": 2024,
+      "fenomena": "Penghijaban Bintang Elnath oleh Bulan",
+      "kategori": "Penghijaban",
+      "penerangan": "Fenomena apabila Bulan kelihatan melintas di hadapan bintang Elnath dari pandangan Bumi, iaitu bintang Elnath akan kelihatan terselindung di sebalik Bulan, dan kemudian akan muncul semula."
+    },
+    {
+      "tarikh": "2024-11-23",
+      "masa": "09:29",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Akhir pada 09:29."
+    },
+    {
+      "tarikh": "2024-11-26",
+      "masa": "19:55",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dari Bumi iaitu pada 405,314 km."
+    },
+    {
+      "tarikh": "2024-12-01",
+      "masa": "14:23",
+      "tahun": 2024,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 14:23."
+    },
+    {
+      "tarikh": "2024-12-08",
+      "masa": "04:19",
+      "tahun": 2024,
+      "fenomena": "Istiqbal Musytari",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Musytari akan berada pada kedudukan opposition atau dikenali sebagai istiqbal, iaitu kedudukan bertentangan dengan Matahari merujuk kepada Bumi. Semasa istiqbal, Musytari akan disinari sepenuhnya oleh Matahari dan boleh dilihat dengan lebih terang berbanding ketika ia berada pada kedudukan lain. Planet Musytari akan kelihatan di langit malam sepanjang November 2024 hingga Mac 2025."
+    },
+    {
+      "tarikh": "2024-12-08",
+      "masa": "20:00",
+      "tahun": 2024,
+      "fenomena": "Konjungsi Bulan dengan Zuhal",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Bulan dan Zuhal akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut tampak Bulan dan Zuhal dari Bumi adalah sejauh 0.4 darjah di langit barat."
+    },
+    {
+      "tarikh": "2024-12-08",
+      "masa": "23:28",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada 23:28."
+    },
+    {
+      "tarikh": "2024-12-12",
+      "masa": "21:20",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi iaitu pada jarak 365,358 km."
+    },
+    {
+      "tarikh": "2024-12-13",
+      "masa": "23:00",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Geminids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Geminids boleh dilihat mulai 19 November hingga 24 Disember setiap tahun. Kemuncak Hujan Meteor Geminids dijangka berlaku pada malam 13 Disember 2024 hingga awal pagi 14 Disember 2024 dengan purata 150 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang baik kerana ada gangguan Bulan hampir purnama semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-12-14",
+      "masa": "01:00",
+      "tahun": 2024,
+      "fenomena": "Penghijaban sebahagian Pleiades oleh Bulan",
+      "kategori": "Penghijaban",
+      "penerangan": "Fenomena apabila Bulan kelihatan melintas di hadapan sebahagian Pleiades dari pandangan Bumi, iaitu sebahagian Pleiades akan kelihatan terselindung di sebalik Bulan, dan kemudian akan muncul semula."
+    },
+    {
+      "tarikh": "2024-12-14",
+      "masa": "23:00",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Geminids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Geminids boleh dilihat mulai 19 November hingga 24 Disember setiap tahun. Kemuncak Hujan Meteor Geminids dijangka berlaku pada malam 13 Disember 2024 hingga awal pagi 14 Disember 2024 dengan purata 150 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang baik kerana ada gangguan Bulan hampir purnama semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-12-15",
+      "masa": "17:02",
+      "tahun": 2024,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada 17:02."
+    },
+    {
+      "tarikh": "2024-12-21",
+      "masa": "17:20",
+      "tahun": 2024,
+      "fenomena": "Solstis Musim Sejuk",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari akan berada pada kedudukan paling jauh ke selatan dari Garisan Khatulistiwa iaitu di atas Garisan Jadi (23.5º Selatan) pada jam 11:28. Ia menandakan bermulanya musim panas di Hemisfera Selatan dan bermulanya musim sejuk di Hemisfera Utara. Waktu siang menjadi lebih panjang dan waktu malam menjadi lebih pendek di Hemisfera Selatan sementara waktu siang menjadi lebih pendek dan waktu malam menjadi lebih panjang di Hemisfera Utara."
+    },
+    {
+      "tarikh": "2024-12-23",
+      "masa": "01:00",
+      "tahun": 2024,
+      "fenomena": "Hujan Meteor Ursids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Ursids boleh dilihat mulai 13 hingga 24 Disember setiap tahun. Kemuncak Hujan Meteor Ursids dijangka berlaku pada awal pagi 23 Disember 2024 dengan purata 10 meteor per jam. Kenampakan hujan meteor tersebut adalah kurang baik kerana ada gangguan cahaya Bulan sukuan akhir semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2024-12-23",
+      "masa": "06:19",
+      "tahun": 2024,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Akhir pada 06:19."
+    },
+    {
+      "tarikh": "2024-12-24",
+      "masa": "15:26",
+      "tahun": 2024,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada 404,484 km."
+    },
+    {
+      "tarikh": "2024-12-25",
+      "masa": "06:00",
+      "tahun": 2024,
+      "fenomena": "Konjungsi Bulan dengan Spica",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Bulan dan Spica akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut tampak Bulan dan Spica dari Bumi adalah sejauh 0.1 darjah di langit timur."
+    },
+    {
+      "tarikh": "2024-12-25",
+      "masa": "10:25",
+      "tahun": 2024,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi Paling Barat iaitu 22.0 darjah, Utarid boleh kelihatan di langit timur sebelum Matahari terbit."
+    },
+    {
+      "tarikh": "2024-12-31",
+      "masa": "06:28",
+      "tahun": 2024,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada 06:28."
+    },
+    {
+      "tarikh": "2025-01-04",
+      "masa": "01:00",
+      "tahun": 2025,
+      "fenomena": "Hujan Meteor Quadrantids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Fenomena Hujan Meteor Quadrantids mula aktif dan boleh dilihat pada 26 Disember 2024 hingga 16 Januari 2025. Kemuncak fenomena ini akan dapat disaksikan pada awal pagi 4 Januari 2025 dengan kemungkinan sehingga 80 meteor setiap jam. Kenampakan hujan meteor tersebut adalah bagus kerana tiada gangguan dari Bulan Sabit Baru semasa kemuncak berlaku."
+    },
+    {
+      "tarikh": "2025-01-04",
+      "masa": "21:28",
+      "tahun": 2025,
+      "fenomena": "Bumi pada Kedudukan Perihelion",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Bumi berada pada jarak yang paling dekat dengan Matahari, iaitu sejauh 147,103,686 km (0.9833AU)."
+    },
+    {
+      "tarikh": "2025-01-07",
+      "masa": "07:56",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada jam 7:56 am"
+    },
+    {
+      "tarikh": "2025-01-08",
+      "masa": "08:01",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 370,171 km."
+    },
+    {
+      "tarikh": "2025-01-10",
+      "masa": "12:58",
+      "tahun": 2025,
+      "fenomena": "Zuhrah pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Zuhrah pada elongasi paling timur iaitu pada 47.2 darjah, Zuhrah boleh kelihatan di langit barat selepas Matahari terbenam."
+    },
+    {
+      "tarikh": "2025-01-12",
+      "masa": "00:00",
+      "tahun": 2025,
+      "fenomena": "Penghijaban Elnath oleh Bulan",
+      "kategori": "Penghijaban",
+      "penerangan": "Fenomena apabila Bulan kelihatan melintas di hadapan Elnath dari pandangan Bumi, iaitu Elnath akan kelihatan terselindung di sebalik Bulan, dan kemudian akan muncul semula."
+    },
+    {
+      "tarikh": "2025-01-14",
+      "masa": "06:26",
+      "tahun": 2025,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 6:26 am"
+    },
+    {
+      "tarikh": "2025-01-16",
+      "masa": "09:17",
+      "tahun": 2025,
+      "fenomena": "Istiqbal Marikh",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Marikh akan berada pada kedudukan opposition atau dikenali sebagai istiqbal, iaitu kedudukan bertentangan dengan Matahari merujuk kepada Bumi. Semasa istiqbal, Marikh akan disinari sepenuhnya oleh Matahari dan boleh dilihat dengan lebih terang berbanding ketika ia berada pada kedudukan lain. Planet Marikh akan kelihatan di langit malam sepanjang Januari hingga Julai 2025."
+    },
+    {
+      "tarikh": "2025-01-21",
+      "masa": "12:54",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 404,298 km."
+    },
+    {
+      "tarikh": "2025-01-22",
+      "masa": "04:30",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Akhir pada jam 4:30 am."
+    },
+    {
+      "tarikh": "2025-01-25",
+      "masa": "06:00",
+      "tahun": 2025,
+      "fenomena": "Konjungsi Bulan dengan Antares",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Bulan dan Antares akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut Bulan dan Antares dari Bumi adalah sejauh 0.6 darjah di langit timur."
+    },
+    {
+      "tarikh": "2025-01-29",
+      "masa": "20:35",
+      "tahun": 2025,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 8:35 pm."
+    },
+    {
+      "tarikh": "2025-02-02",
+      "masa": "10:47",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 367,457 km."
+    },
+    {
+      "tarikh": "2025-02-05",
+      "masa": "16:02",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada jam 4:02 petang."
+    },
+    {
+      "tarikh": "2025-02-10",
+      "masa": "03:35",
+      "tahun": 2025,
+      "fenomena": "Konjungsi Bulan dengan Marikh",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Bulan dan Marikh akan kelihatan menghampiri antara satu sama lain di langit barat dengan jarak sudut Bulan dan Marikh dari Bumi adalah sekitar 0.8 darjah."
+    },
+    {
+      "tarikh": "2025-02-12",
+      "masa": "21:53",
+      "tahun": 2025,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 9:53 malam."
+    },
+    {
+      "tarikh": "2025-02-18",
+      "masa": "09:10",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 404,882 km."
+    },
+    {
+      "tarikh": "2025-02-21",
+      "masa": "01:32",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Akhir pada jam 1:32 pagi."
+    },
+    {
+      "tarikh": "2025-02-28",
+      "masa": "08:44",
+      "tahun": 2025,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 8:44 pagi."
+    },
+    {
+      "tarikh": "2025-03-02",
+      "masa": "05:21",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 361,964 km."
+    },
+    {
+      "tarikh": "2025-03-05",
+      "masa": "21:00",
+      "tahun": 2025,
+      "fenomena": "Konjungsi Bulan dengan Pleiades",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Bulan dan Pleiades akan kelihatan menghampiri antara satu sama lain di langit dengan jarak sudut Bulan dan Pleiades dari Bumi adalah sekitar 0.6 darjah di langit barat."
+    },
+    {
+      "tarikh": "2025-03-07",
+      "masa": "00:31",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada jam 12:31 pagi."
+    },
+    {
+      "tarikh": "2025-03-08",
+      "masa": "14:00",
+      "tahun": 2025,
+      "fenomena": "Utarid pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling timur iaitu pada 18.2 darjah. Utarid boleh kelihatan di langit barat selepas Matahari terbenam (waktu Maghrib)."
+    },
+    {
+      "tarikh": "2025-03-14",
+      "masa": "14:54",
+      "tahun": 2025,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 02:54 petang."
+    },
+    {
+      "tarikh": "2025-03-18",
+      "masa": "00:36",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 405,754 km."
+    },
+    {
+      "tarikh": "2025-03-20",
+      "masa": "17:02",
+      "tahun": 2025,
+      "fenomena": "Ekuinoks Mac",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari berada di atas garisan Khatulistiwa dan akan terbit tepat di timur dan terbenam tepat di barat. Di Hemisfera Utara, ekuinoks pada bulan Mac dikenali sebagai ekuinoks musim bunga manakala di Hemisfera Selatan ia dikenali sebagai ekuinoks musim luruh."
+    },
+    {
+      "tarikh": "2025-03-22",
+      "masa": "19:29",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Akhir pada jam 07:29 petang."
+    },
+    {
+      "tarikh": "2025-03-29",
+      "masa": "18:57",
+      "tahun": 2025,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 06:57 petang."
+    },
+    {
+      "tarikh": "2025-03-30",
+      "masa": "13:27",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 358,126 km."
+    },
+    {
+      "tarikh": "2025-04-05",
+      "masa": "10:14",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada jam 10:14 am."
+    },
+    {
+      "tarikh": "2025-04-13",
+      "masa": "08:22",
+      "tahun": 2025,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 08:22 am."
+    },
+    {
+      "tarikh": "2025-04-14",
+      "masa": "06:48",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 406,295 km."
+    },
+    {
+      "tarikh": "2025-04-21",
+      "masa": "09:35",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Akhir pada jam 09:35 am."
+    },
+    {
+      "tarikh": "2025-04-22",
+      "masa": "03:00",
+      "tahun": 2025,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi Paling Barat iaitu 27.4 darjah, Utarid boleh kelihatan di langit timur sebelum Matahari terbit."
+    },
+    {
+      "tarikh": "2025-04-22",
+      "masa": "23:30",
+      "tahun": 2025,
+      "fenomena": "Hujan Meteor Lyrids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Lyrids boleh dilihat mulai 14 hingga 30 April setiap tahun. Kemuncak Hujan Meteor Lyrids dijangka berlaku pada lewat malam 22 April hingga subuh 23 April 2025 dengan purata 18 meteor per jam. Kenampakan hujan meteor tersebut adalah sederhana semasa kemuncak berlaku kerana gangguan cahaya Bulan dalam fasa sukuan akhir akan terbit pada 03:03 pagi."
+    },
+    {
+      "tarikh": "2025-04-28",
+      "masa": "00:17",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 357,118 km."
+    },
+    {
+      "tarikh": "2025-04-28",
+      "masa": "03:31",
+      "tahun": 2025,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 03:31 am."
+    },
+    {
+      "tarikh": "2025-05-04",
+      "masa": "21:51",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada jam 9:51 pm."
+    },
+    {
+      "tarikh": "2025-05-06",
+      "masa": "00:00",
+      "tahun": 2025,
+      "fenomena": "Hujan Meteor Eta Aquarids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Eta Aquarids boleh dilihat mulai 19 April  28 Mei 2025. Kemuncak Hujan Meteor Eta Aquarids dijangka berlaku pada tengah malam 6 Mei 2025 sehingga subuh, dengan purata 50 meteor per jam. Kenampakan hujan meteor tersebut adalah baik selepas Bulan yang dalam fasa sukuan akhir terbenam pada jam 02:33 pagi."
+    },
+    {
+      "tarikh": "2025-05-11",
+      "masa": "08:47",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 406,244 km."
+    },
+    {
+      "tarikh": "2025-05-13",
+      "masa": "00:55",
+      "tahun": 2025,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 12:55 am."
+    },
+    {
+      "tarikh": "2025-05-20",
+      "masa": "19:58",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Akhir pada jam 07:58 pm."
+    },
+    {
+      "tarikh": "2025-05-26",
+      "masa": "09:27",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 359,024 km."
+    },
+    {
+      "tarikh": "2025-05-27",
+      "masa": "11:02",
+      "tahun": 2025,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 11:02 am."
+    },
+    {
+      "tarikh": "2025-06-01",
+      "masa": "10:00",
+      "tahun": 2025,
+      "fenomena": "Zuhrah pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Zuhrah pada elongasi paling barat iaitu pada 45.9 darjah. Zuhrah boleh kelihatan jelas di langit timur sebelum Matahari terbit (waktu Subuh)."
+    },
+    {
+      "tarikh": "2025-06-01",
+      "masa": "17:49",
+      "tahun": 2025,
+      "fenomena": "Konjungsi Bulan dengan Marikh",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Bulan dan planet Marikh akan kelihatan berdekatan di langit, dengan jarak sudut tampak antara keduanya kira-kira 1.4 darjah jika dilihat dari Bumi. Fenomena ini boleh dilihat dari waktu maghrib hingga tengah malam."
+    },
+    {
+      "tarikh": "2025-06-03",
+      "masa": "11:42",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada jam 11:42 am."
+    },
+    {
+      "tarikh": "2025-06-07",
+      "masa": "18:44",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 405,551 km."
+    },
+    {
+      "tarikh": "2025-06-11",
+      "masa": "15:44",
+      "tahun": 2025,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 03:44 pm."
+    },
+    {
+      "tarikh": "2025-06-19",
+      "masa": "03:20",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Akhir pada jam 03:20 am."
+    },
+    {
+      "tarikh": "2025-06-21",
+      "masa": "11:42",
+      "tahun": 2025,
+      "fenomena": "Solstis Jun",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Solstis Jun akan berlaku pada jam 10:42 pagi. Pada ketika ini, Matahari akan berada pada kedudukan paling utara di langit, tepat di atas Garisan Sartan (23.5º Utara), menandakan permulaan musim panas secara astronomi di hemisfera utara dan musim sejuk di hemisfera selatan."
+    },
+    {
+      "tarikh": "2025-06-23",
+      "masa": "12:44",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 363,176 km."
+    },
+    {
+      "tarikh": "2025-06-25",
+      "masa": "18:33",
+      "tahun": 2025,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 6:33 pm."
+    },
+    {
+      "tarikh": "2025-07-03",
+      "masa": "03:30",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada jam 3:30 am."
+    },
+    {
+      "tarikh": "2025-07-04",
+      "masa": "06:00",
+      "tahun": 2025,
+      "fenomena": "Bumi di Kedudukan Aphelion",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Bumi berada di kedudukan aphelion (paling jauh dari Matahari) pada jarak 1.01664 AU"
+    },
+    {
+      "tarikh": "2025-07-04",
+      "masa": "12:00",
+      "tahun": 2025,
+      "fenomena": "Utarid di Kedudukan Elongasi Maksimum",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Utarid berada pada sudut elongasi 25.9°T dari Matahari."
+    },
+    {
+      "tarikh": "2025-07-11",
+      "masa": "04:37",
+      "tahun": 2025,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 04:37 am."
+    },
+    {
+      "tarikh": "2025-07-15",
+      "masa": "17:28",
+      "tahun": 2025,
+      "fenomena": "Istiwa' A'zam",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Istiwa Adzam ialah satu fenomena astronomi di mana kedudukan matahari berada tepat di atas Kaabah di Mekah. Pada waktu tersebut, bayang-bayang objek yang tegak di permukaan bumi akan menunjukkan arah yang tepat ke Kaabah. Ini adalah salah satu daripada dua kesempatan dalam setahun untuk memeriksa arah kiblat dengan ketepatan maksimum tanpa memerlukan alat tambahan."
+    },
+    {
+      "tarikh": "2025-07-18",
+      "masa": "08:38",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Akhir pada jam 08:38 am."
+    },
+    {
+      "tarikh": "2025-07-25",
+      "masa": "03:11",
+      "tahun": 2025,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 3:11 am."
+    },
+    {
+      "tarikh": "2025-07-29",
+      "masa": "00:00",
+      "tahun": 2025,
+      "fenomena": "Hujan Meteor Southern Delta-Aquarids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Fenomena Hujan Meteor Southern Delta-Aquarids mula aktif dan boleh dilihat pada pertengahan Julai hingga pertengahan Ogos dengan kemuncak berlaku 29 Julai 2025 dengan kemungkinan sehingga 20 meteor sejam. Kenampakan hujan meteor lebih baik selepas tengah malam kerana Bulan telah pun terbenam."
+    },
+    {
+      "tarikh": "2025-08-01",
+      "masa": "20:41",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada jam 08:41 am."
+    },
+    {
+      "tarikh": "2025-08-02",
+      "masa": "04:38",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 405,163 km."
+    },
+    {
+      "tarikh": "2025-08-09",
+      "masa": "15:54",
+      "tahun": 2025,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 03:54 pm."
+    },
+    {
+      "tarikh": "2025-08-13",
+      "masa": "00:00",
+      "tahun": 2025,
+      "fenomena": "Hujan Meteor Perseids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Perseids boleh dilihat mulai 17 Julai sehingga 24 Ogos setiap tahun. Kemuncak Hujan Meteor Perseids dijangka akan berlaku pada malam 12 Ogos hingga awal pagi 13 Ogos 2024 dengan purata 100 meteor per jam. Kenampakan hujan meteor tersebut adalah sedikit terganggu dengan cahaya Bulan sukuan akhir."
+    },
+    {
+      "tarikh": "2025-08-15",
+      "masa": "02:02",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 369,286 km."
+    },
+    {
+      "tarikh": "2025-08-16",
+      "masa": "13:12",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Akhir pada jam 01:12 pm."
+    },
+    {
+      "tarikh": "2025-08-19",
+      "masa": "18:00",
+      "tahun": 2025,
+      "fenomena": "Utarid pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Utarid pada elongasi paling timur iaitu pada 18.6 darjah."
+    },
+    {
+      "tarikh": "2025-08-23",
+      "masa": "14:06",
+      "tahun": 2025,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 02:06 pm."
+    },
+    {
+      "tarikh": "2025-08-29",
+      "masa": "23:35",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 404,551 km."
+    },
+    {
+      "tarikh": "2025-08-31",
+      "masa": "14:25",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada jam 02:25 pm."
+    },
+    {
+      "tarikh": "2025-09-02",
+      "masa": "02:08",
+      "tahun": 2025,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 02:08 am."
+    },
+    {
+      "tarikh": "2025-09-08",
+      "masa": "02:11",
+      "tahun": 2025,
+      "fenomena": "Gerhana Bulan Penuh",
+      "kategori": "Gerhana",
+      "penerangan": "Fasa Gerhana Bulan penuh dapat disaksikan bermula jam 01:30 pagi dan berakhir pada jam 02:52 pagi. Gerhana Bulan Penuh maksimum berlaku pada jam 02:11 pagi."
+    },
+    {
+      "tarikh": "2025-09-10",
+      "masa": "20:11",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 364,780 km."
+    },
+    {
+      "tarikh": "2025-09-14",
+      "masa": "18:32",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Akhir pada jam 06:32 pm."
+    },
+    {
+      "tarikh": "2025-09-21",
+      "masa": "13:37",
+      "tahun": 2025,
+      "fenomena": "Istiqbal Zuhal",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Zuhal (Saturn) akan berada pada kedudukan oposisi / istiqbal, iaitu kedudukan bertentangan dengan Matahari berasaskan kedudukan Bumi. Pada ketika ini, Zuhal disinari sepenuhnya oleh cahaya Matahari dan kelihatan lebih terang berbanding ketika ia pada kedudukan lain."
+    },
+    {
+      "tarikh": "2025-09-22",
+      "masa": "03:54",
+      "tahun": 2025,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 03:54 am."
+    },
+    {
+      "tarikh": "2025-09-23",
+      "masa": "20:45",
+      "tahun": 2025,
+      "fenomena": "Istiqbal Neptun",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Istiqbal Neptun berlaku apabila planet Neptun berada bertentangan dengan Matahari, dengan Bumi berada di tengah-tengah. Neptun akan disinari sepenuhnya oleh Matahari, menjadikannya paling terang. Waktu ini juga Neptun boleh dilihat sepanjang malam, dari terbit di sebelah timur hingga terbenam di sebelah barat."
+    },
+    {
+      "tarikh": "2025-09-26",
+      "masa": "17:47",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 405,551 km."
+    },
+    {
+      "tarikh": "2025-09-30",
+      "masa": "07:53",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada jam 07:53 am."
+    },
+    {
+      "tarikh": "2025-11-05",
+      "masa": "21:00",
+      "tahun": 2025,
+      "fenomena": "Hujan Meteor Southern Taurids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Fenomena ini boleh disaksikan dari 23 September - 20 November 2025. Kemuncaknya dijangka pada malam 5 November hingga awal pagi 6 November, dengan sekitar 5 meteor sejam. Namun, cahaya Bulan Purnama dijangka sedikit menjejaskan kenampakan meteor."
+    },
+    {
+      "tarikh": "2025-11-05",
+      "masa": "21:19",
+      "tahun": 2025,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 9:19 pm."
+    },
+    {
+      "tarikh": "2025-11-06",
+      "masa": "06:30",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 356,832 km."
+    },
+    {
+      "tarikh": "2025-11-06",
+      "masa": "22:00",
+      "tahun": 2025,
+      "fenomena": "Penghijaban Gugusan Bintang Pleiades oleh Bulan",
+      "kategori": "Penghijaban",
+      "penerangan": "Bulan akan melintasi gugusan bintang Pleiades (Seven Sisters) di buruj Taurus. Beberapa bintang akan kelihatan hilang seketika di sebalik cahaya Bulan ketika fenomena ini berlaku, yang dijangka berlangsung selama kira-kira 2-3 jam."
+    },
+    {
+      "tarikh": "2025-11-12",
+      "masa": "13:28",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan sukuan akhir pada jam 1:28 pm."
+    },
+    {
+      "tarikh": "2025-11-12",
+      "masa": "20:00",
+      "tahun": 2025,
+      "fenomena": "Hujan Meteor Northern Taurids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Fenomena ini dapat disaksikan di langit Malaysia dari 13 Oktober - 2 Disember 2025. Kemuncaknya akan berlaku pada malam 12 November hingga awal pagi 13 November, dengan sekitar 5 meteor sejam. Namun, cahaya Bulan sukuan akhir dijangka sedikit menjejaskan kenampakan meteor."
+    },
+    {
+      "tarikh": "2025-11-18",
+      "masa": "02:00",
+      "tahun": 2025,
+      "fenomena": "Hujan Meteor Leonids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Fenomena ini boleh dilihat dari 6-30 November 2025, dengan kemuncak pada malam 17-18 November. Sekitar 10-15 meteor sejam dijangka kelihatan, namun cahaya Bulan sukuan akhir mungkin menjejaskan kenampakan. Fenomena ini berasal daripada debu komet Tempel-Tuttle dan kadangkala menghasilkan ribut meteor yang menakjubkan."
+    },
+    {
+      "tarikh": "2025-11-20",
+      "masa": "10:49",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 406,692 km."
+    },
+    {
+      "tarikh": "2025-11-20",
+      "masa": "14:47",
+      "tahun": 2025,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 02:47 pm."
+    },
+    {
+      "tarikh": "2025-11-21",
+      "masa": "21:00",
+      "tahun": 2025,
+      "fenomena": "Istiqbal Uranus",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Uranus akan berada pada kedudukan opposition (istiqbal), iaitu ketika Bumi berada di antara Uranus dan Matahari. Ia akan kelihatan paling terang untuk tahun ini, tetapi masih sukar dilihat dengan mata kasar. Binokular atau teleskop disyorkan untuk pemerhatian yang lebih jelas. Uranus boleh dilihat di langit malam dari Oktober 2025 hingga Mac 2026."
+    },
+    {
+      "tarikh": "2025-11-28",
+      "masa": "14:58",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada jam 2:58 pm."
+    },
+    {
+      "tarikh": "2025-12-04",
+      "masa": "19:07",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 356,961 km"
+    },
+    {
+      "tarikh": "2025-12-05",
+      "masa": "07:14",
+      "tahun": 2025,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 7:14 am"
+    },
+    {
+      "tarikh": "2025-12-08",
+      "masa": "05:00",
+      "tahun": 2025,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Utarid pada elongasi paling timur iaitu pada 20.7°W (Barat)"
+    },
+    {
+      "tarikh": "2025-12-12",
+      "masa": "04:51",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan sukuan akhir pada jam 4:51 am."
+    },
+    {
+      "tarikh": "2025-12-14",
+      "masa": "20:58",
+      "tahun": 2025,
+      "fenomena": "Hujan Meteor Geminids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Fenomena ini dapat disaksikan dari 417 Disember. Kemuncaknya akan berlaku pada malam 1314 Disember, dijangka menghasilkan sekitar 120150 meteor sejam. Waktu terbaik untuk pemerhatian ialah selepas 9:00 malam hingga awal pagi. Namun kehadiran bulan yang akan mula terbit sekitar jam 3:15AM (di semenanjung) akan mula mengurangkan tahap kenampakan meteor yang kecil dan halus."
+    },
+    {
+      "tarikh": "2025-12-17",
+      "masa": "14:11",
+      "tahun": 2025,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 406,322 km."
+    },
+    {
+      "tarikh": "2025-12-20",
+      "masa": "09:43",
+      "tahun": 2025,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 09:43 am."
+    },
+    {
+      "tarikh": "2025-12-21",
+      "masa": "23:03",
+      "tahun": 2025,
+      "fenomena": "Solstis Musim Sejuk",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari berada paling jauh ke selatan, tepat di atas Garisan Jadi pada 23.5° Selatan. Ini menandakan musim sejuk bermula di Hemisfera Utara (siang pendek, malam panjang) dan musim panas bermula di Hemisfera Selatan (siang panjang, malam pendek). Di Malaysia, kesannya sangat kecil kerana dekat dengan Khatulistiwa."
+    },
+    {
+      "tarikh": "2025-12-23",
+      "masa": "02:34",
+      "tahun": 2025,
+      "fenomena": "Hujan Meteor Ursids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Fenomena ini aktif dari 17 hingga 26 Disember dengan kemuncaknya pada malam 2223 Disember 2025 dan dijangka 510 meteor sejam. Waktu terbaik untuk pemerhatian ialah selepas tengah malam hingga awal pagi."
+    },
+    {
+      "tarikh": "2025-12-28",
+      "masa": "03:09",
+      "tahun": 2025,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada jam 3:09 am."
+    },
+    {
+      "tarikh": "2026-01-02",
+      "masa": "05:44",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 360,349 km"
+    },
+    {
+      "tarikh": "2026-01-03",
+      "masa": "18:02",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Penuh / Purnama"
+    },
+    {
+      "tarikh": "2026-01-04",
+      "masa": "00:00",
+      "tahun": 2026,
+      "fenomena": "Hujan Meteor Quadrantids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Quadrantids aktif dari 28 Disember 2025 hingga 12 Januari 2026, dengan kemuncak pada 34 Januari 2026 yang boleh mencapai sekitar 80 meteor sejam, tetapi cahaya Bulan Penuh dijangka mengurangkan kenampakan."
+    },
+    {
+      "tarikh": "2026-01-04",
+      "masa": "01:15",
+      "tahun": 2026,
+      "fenomena": "Bumi pada Perihelion",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Bumi berada pada kedudukan perihelion (jarak paling dekat dari Matahari) iaitu sejauh 147,099,894 km."
+    },
+    {
+      "tarikh": "2026-01-10",
+      "masa": "16:34",
+      "tahun": 2026,
+      "fenomena": "Istiqbal / Oposisi Musytari",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Berlaku apabila Bumi berada di antara planet Musytari dan Matahari, menjadikan Musytari paling hampir, dan kelihatan paling terang dan dapat dilihat sepanjang malam."
+    },
+    {
+      "tarikh": "2026-01-10",
+      "masa": "23:48",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Akhir / Ketiga"
+    },
+    {
+      "tarikh": "2026-01-14",
+      "masa": "04:47",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi, iaitu pada jarak 405,438 km."
+    },
+    {
+      "tarikh": "2026-01-19",
+      "masa": "03:51",
+      "tahun": 2026,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Baru"
+    },
+    {
+      "tarikh": "2026-01-26",
+      "masa": "12:47",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Awal"
+    },
+    {
+      "tarikh": "2026-01-30",
+      "masa": "05:45",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 365,871 km."
+    },
+    {
+      "tarikh": "2026-02-02",
+      "masa": "06:09",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Penuh / Purnama"
+    },
+    {
+      "tarikh": "2026-02-09",
+      "masa": "20:43",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Akhir / Ketiga"
+    },
+    {
+      "tarikh": "2026-02-11",
+      "masa": "00:51",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi, iaitu pada jarak 404,576 km."
+    },
+    {
+      "tarikh": "2026-02-17",
+      "masa": "20:01",
+      "tahun": 2026,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Baru"
+    },
+    {
+      "tarikh": "2026-02-20",
+      "masa": "02:00",
+      "tahun": 2026,
+      "fenomena": "Utarid pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling timur iaitu pada 18.1°T. Utarid boleh kelihatan di langit Barat selepas Matahari terbenam."
+    },
+    {
+      "tarikh": "2026-02-24",
+      "masa": "20:27",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Awal"
+    },
+    {
+      "tarikh": "2026-02-25",
+      "masa": "07:03",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 370,133 km."
+    },
+    {
+      "tarikh": "2026-03-03",
+      "masa": "19:33",
+      "tahun": 2026,
+      "fenomena": "Gerhana Bulan Penuh",
+      "kategori": "Gerhana",
+      "penerangan": "Fasa Gerhana Bulan Penuh berlaku pada 7:04 petang hingga 8:02 malam. Gerhana Bulan maksimum berlaku pada 7:33 petang ketika Bulan baru terbit pada ketinggian 2° di atas ufuk Timur."
+    },
+    {
+      "tarikh": "2026-03-03",
+      "masa": "19:37",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Penuh / Purnama"
+    },
+    {
+      "tarikh": "2026-03-10",
+      "masa": "21:43",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi, iaitu pada jarak 404,384 km."
+    },
+    {
+      "tarikh": "2026-03-11",
+      "masa": "17:38",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Akhir / Ketiga"
+    },
+    {
+      "tarikh": "2026-03-19",
+      "masa": "09:23",
+      "tahun": 2026,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Baru"
+    },
+    {
+      "tarikh": "2026-03-20",
+      "masa": "22:46",
+      "tahun": 2026,
+      "fenomena": "Ekuinoks Mac",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Ekuinoks Mac ialah waktu apabila Matahari berada tepat di atas garisan Khatulistiwa, menyebabkan siang dan malam hampir sama panjang di seluruh dunia. Ia menandakan bermulanya musim bunga di Hemisfera Utara dan musim luruh di Hemisfera Selatan."
+    },
+    {
+      "tarikh": "2026-03-22",
+      "masa": "19:43",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 366,859 km."
+    },
+    {
+      "tarikh": "2026-03-26",
+      "masa": "03:17",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Awal"
+    },
+    {
+      "tarikh": "2026-04-02",
+      "masa": "10:11",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Penuh / Purnama"
+    },
+    {
+      "tarikh": "2026-04-04",
+      "masa": "09:16",
+      "tahun": 2026,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling barat iaitu pada 27°49'B. Utarid boleh kelihatan di langit Timur sebelum Matahari terbit."
+    },
+    {
+      "tarikh": "2026-04-07",
+      "masa": "16:30",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi, iaitu pada jarak 404,970 km."
+    },
+    {
+      "tarikh": "2026-04-10",
+      "masa": "12:51",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Akhir / Ketiga"
+    },
+    {
+      "tarikh": "2026-04-17",
+      "masa": "19:51",
+      "tahun": 2026,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Baru"
+    },
+    {
+      "tarikh": "2026-04-19",
+      "masa": "14:54",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 361,633 km."
+    },
+    {
+      "tarikh": "2026-04-22",
+      "masa": "23:00",
+      "tahun": 2026,
+      "fenomena": "Hujan Meteor Lyrids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Lyrids aktif dari 14-30 April 2026, dengan kemuncaknya pada 2223 April 2026 yang boleh mencapai sekitar 18 meteor sejam. Kenampakkan sangat baik selepas Bulan fasa sukuan awal terbenam pada jam 12:08 am."
+    },
+    {
+      "tarikh": "2026-04-24",
+      "masa": "10:31",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Awal"
+    },
+    {
+      "tarikh": "2026-05-02",
+      "masa": "01:23",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Penuh / Purnama"
+    },
+    {
+      "tarikh": "2026-05-05",
+      "masa": "06:30",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi, iaitu pada jarak 405,839 km."
+    },
+    {
+      "tarikh": "2026-05-07",
+      "masa": "02:00",
+      "tahun": 2026,
+      "fenomena": "Hujan Meteor Eta Aquarids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Eta Aquarids aktif dari 19 April hingga 28 Mei 2026, dengan kemuncaknya pada 67 Mei 2026 yang boleh mencapai sekitar 50 meteor sejam. Cahaya Bulan dijangka mengurangkan kenampakan."
+    },
+    {
+      "tarikh": "2026-05-10",
+      "masa": "05:10",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Akhir / Ketiga"
+    },
+    {
+      "tarikh": "2026-05-17",
+      "masa": "04:01",
+      "tahun": 2026,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Baru"
+    },
+    {
+      "tarikh": "2026-05-17",
+      "masa": "21:47",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 358,077 km."
+    },
+    {
+      "tarikh": "2026-05-23",
+      "masa": "19:10",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Awal"
+    },
+    {
+      "tarikh": "2026-05-28",
+      "masa": "17:16",
+      "tahun": 2026,
+      "fenomena": "Istiwa' A'zam",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Fenomena ketika Matahari akan berada tegak di atas Kaabah. Penentuan arah kiblat."
+    },
+    {
+      "tarikh": "2026-05-31",
+      "masa": "16:45",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Penuh / Purnama"
+    },
+    {
+      "tarikh": "2026-06-01",
+      "masa": "12:33",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi, iaitu pada jarak 406,366 km."
+    },
+    {
+      "tarikh": "2026-06-08",
+      "masa": "18:00",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Akhir / Ketiga"
+    },
+    {
+      "tarikh": "2026-06-15",
+      "masa": "07:20",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 357,198 km."
+    },
+    {
+      "tarikh": "2026-06-15",
+      "masa": "10:54",
+      "tahun": 2026,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Baru"
+    },
+    {
+      "tarikh": "2026-06-16",
+      "masa": "04:00",
+      "tahun": 2026,
+      "fenomena": "Utarid pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling timur iaitu pada 24.5°T. Utarid boleh kelihatan di langit Barat selepas Matahari terbenam."
+    },
+    {
+      "tarikh": "2026-06-21",
+      "masa": "16:24",
+      "tahun": 2026,
+      "fenomena": "Solstis Jun",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari berada paling utara dari Bumi, tepat di atas Garisan Sartan pada 23.4° Utara menyebabkan terjadinya musim panas di Hemisfera Utara (siang panjang, malam pendek) dan musim sejuk di Hemisfera Selatan (siang pendek, malam panjang). Di Malaysia, perubahan ini tidak terlalu ketara, tetapi siang sedikit lebih lama dan Matahari kelihatan lebih tinggi di langit berbanding hari biasa."
+    },
+    {
+      "tarikh": "2026-06-22",
+      "masa": "05:55",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Awal"
+    },
+    {
+      "tarikh": "2026-06-28",
+      "masa": "15:09",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi, iaitu pada jarak 406,265 km."
+    },
+    {
+      "tarikh": "2026-06-30",
+      "masa": "07:56",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Penuh / Purnama"
+    },
+    {
+      "tarikh": "2026-07-07",
+      "masa": "01:30",
+      "tahun": 2026,
+      "fenomena": "Bumi pada Aphelion",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Bumi berada pada kedudukan aphelion (jarak paling jauh dari Matahari) iaitu sejauh 152,087,775 km."
+    },
+    {
+      "tarikh": "2026-07-08",
+      "masa": "03:29",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Akhir / Ketiga"
+    },
+    {
+      "tarikh": "2026-07-13",
+      "masa": "15:54",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 359,114 km."
+    },
+    {
+      "tarikh": "2026-07-14",
+      "masa": "17:43",
+      "tahun": 2026,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Baru"
+    },
+    {
+      "tarikh": "2026-07-16",
+      "masa": "17:28",
+      "tahun": 2026,
+      "fenomena": "Istiwa' A'zam",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Fenomena ketika Matahari akan berada tegak di atas Kaabah. Penentuan arah kiblat."
+    },
+    {
+      "tarikh": "2026-07-21",
+      "masa": "19:05",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Awal"
+    },
+    {
+      "tarikh": "2026-07-26",
+      "masa": "00:45",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi, iaitu pada jarak 405,548 km."
+    },
+    {
+      "tarikh": "2026-07-29",
+      "masa": "22:35",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Penuh / Purnama"
+    },
+    {
+      "tarikh": "2026-07-30",
+      "masa": "20:00",
+      "tahun": 2026,
+      "fenomena": "Hujan Meteor Southern Delta-Aquariids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Southern Delta-Aquariids aktif dan boleh dilihat pada 12 Julai hingga 23 Ogos 2026 dengan kemuncak berlaku pada malam 30-31 Julai 2026 dengan kemungkinan sehingga 25 meteor sejam. Kenampakan hujan meteor terganggu dengan cahaya Bulan Purnama."
+    },
+    {
+      "tarikh": "2026-08-02",
+      "masa": "16:00",
+      "tahun": 2026,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling timur iaitu pada 19.5°B. Utarid boleh kelihatan di langit Timur sebelum Matahari terbit."
+    },
+    {
+      "tarikh": "2026-08-06",
+      "masa": "10:21",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Akhir / Ketiga"
+    },
+    {
+      "tarikh": "2026-08-10",
+      "masa": "19:13",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 363,286 km."
+    },
+    {
+      "tarikh": "2026-08-13",
+      "masa": "00:00",
+      "tahun": 2026,
+      "fenomena": "Hujan Meteor Perseids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Perseids aktif pada 17 Julai hingga 24 Ogos 2026 dengan kemuncak berlaku pada tengah malam sehingga Subuh 13 Ogos 2026 yang boleh mencapai sekitar 100 meteor sejam. Kenampakan hujan meteor sangat baik kerana tiada gangguan cahaya Bulan."
+    },
+    {
+      "tarikh": "2026-08-13",
+      "masa": "01:36",
+      "tahun": 2026,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Baru"
+    },
+    {
+      "tarikh": "2026-08-15",
+      "masa": "14:00",
+      "tahun": 2026,
+      "fenomena": "Zuhrah pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Zuhrah pada elongasi paling timur iaitu pada 45.9°T. Zuhrah boleh kelihatan di langit barat selepas Matahari terbenam."
+    },
+    {
+      "tarikh": "2026-08-20",
+      "masa": "10:46",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Awal"
+    },
+    {
+      "tarikh": "2026-08-22",
+      "masa": "16:21",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi, iaitu pada jarak 404,642 km."
+    },
+    {
+      "tarikh": "2026-08-28",
+      "masa": "12:18",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Penuh / Purnama"
+    },
+    {
+      "tarikh": "2026-09-04",
+      "masa": "15:51",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Akhir / Ketiga"
+    },
+    {
+      "tarikh": "2026-09-07",
+      "masa": "04:42",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 368,259 km."
+    },
+    {
+      "tarikh": "2026-09-11",
+      "masa": "11:26",
+      "tahun": 2026,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Baru"
+    },
+    {
+      "tarikh": "2026-09-19",
+      "masa": "04:43",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Awal"
+    },
+    {
+      "tarikh": "2026-09-19",
+      "masa": "11:00",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi, iaitu pada jarak 404,221 km."
+    },
+    {
+      "tarikh": "2026-09-23",
+      "masa": "02:19",
+      "tahun": 2026,
+      "fenomena": "Ekuinoks September",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari berada di atas garisan Khatulistiwa dan akan terbit tepat di timur dan terbenam tepat di barat. Fenomena ini menandakan permulaan musim luruh di Hemisfera Utara dan musim bunga di Hemisfera Selatan. Ketika ini, siang dan malam hampir sama panjang di seluruh dunia."
+    },
+    {
+      "tarikh": "2026-09-26",
+      "masa": "09:28",
+      "tahun": 2026,
+      "fenomena": "Istiqbal / Oposisi Neptun",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Berlaku apabila Bumi berada di antara planet Neptun dan Matahari. Neptun akan disinari sepenuhnya oleh Matahari, menjadikannya paling terang. Waktu ini juga Neptun boleh dilihat sepanjang malam, paling sesuai untuk pencerapan tetapi ia terlalu malap dengan mata kasar dan memerlukan teleskop."
+    },
+    {
+      "tarikh": "2026-09-27",
+      "masa": "00:49",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Penuh / Purnama"
+    },
+    {
+      "tarikh": "2026-10-02",
+      "masa": "04:57",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 369,335 km."
+    },
+    {
+      "tarikh": "2026-10-03",
+      "masa": "21:25",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Akhir / Ketiga"
+    },
+    {
+      "tarikh": "2026-10-04",
+      "masa": "20:21",
+      "tahun": 2026,
+      "fenomena": "Istiqbal / Oposisi Zuhal",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Berlaku apabila Bumi berada di antara planet Zuhal dan Matahari, menjadikan Zuhal paling hampir, dan kelihatan paling terang dan dapat dilihat sepanjang malam."
+    },
+    {
+      "tarikh": "2026-10-07",
+      "masa": "11:47",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Penuh pada jam 11:47 am."
+    },
+    {
+      "tarikh": "2026-10-08",
+      "masa": "20:27",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 359,814 km."
+    },
+    {
+      "tarikh": "2026-10-10",
+      "masa": "23:50",
+      "tahun": 2026,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Baru"
+    },
+    {
+      "tarikh": "2026-10-12",
+      "masa": "13:50",
+      "tahun": 2026,
+      "fenomena": "Utarid pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling timur iaitu pada 25.2°T. Utarid boleh kelihatan di langit Barat selepas Matahari terbenam."
+    },
+    {
+      "tarikh": "2026-10-14",
+      "masa": "02:12",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Akhir pada jam 02:12 am."
+    },
+    {
+      "tarikh": "2026-10-17",
+      "masa": "06:55",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi, iaitu pada jarak 404,643 km."
+    },
+    {
+      "tarikh": "2026-10-19",
+      "masa": "00:12",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Awal"
+    },
+    {
+      "tarikh": "2026-10-21",
+      "masa": "00:00",
+      "tahun": 2026,
+      "fenomena": "Hujan Meteor Orionids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Orionids dapat disaksikan setiap tahun antara 2 Oktober hingga 7 November. Pada 2025, kemuncaknya berlaku pada malam 21 Oktober hingga 22 Oktober dengan sekitar 20 meteor sejam. Tahun ini, peluang melihatnya lebih baik kerana langit gelap tanpa gangguan cahaya Bulan, tertakluk kepada cuaca."
+    },
+    {
+      "tarikh": "2026-10-21",
+      "masa": "20:25",
+      "tahun": 2026,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Baru pada jam 08:25 pm."
+    },
+    {
+      "tarikh": "2026-10-21",
+      "masa": "23:00",
+      "tahun": 2026,
+      "fenomena": "Hujan Meteor Orionids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Hujan Meteor Orionids dapat disaksikan bermula 2 Oktober hingga 7 November. Kemuncaknya berlaku pada malam 21-22 Oktober 2026 dengan sekitar 20 meteor sejam. Kenampakan hujan meteor sangat baik selepas Bulan terbenam pada jam 3:31 pagi."
+    },
+    {
+      "tarikh": "2026-10-24",
+      "masa": "07:29",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi iaitu pada jarak 406,444 km."
+    },
+    {
+      "tarikh": "2026-10-26",
+      "masa": "12:11",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Penuh / Purnama"
+    },
+    {
+      "tarikh": "2026-10-29",
+      "masa": "02:08",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 364,408 km."
+    },
+    {
+      "tarikh": "2026-10-30",
+      "masa": "00:20",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan memasuki fasa Bulan Sukuan Pertama pada jam 12:20 am."
+    },
+    {
+      "tarikh": "2026-10-30",
+      "masa": "06:00",
+      "tahun": 2026,
+      "fenomena": "Utarid pada Elongasi Paling Timur",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Planet Utarid pada elongasi paling timur iaitu pada 23.9 darjah."
+    },
+    {
+      "tarikh": "2026-11-02",
+      "masa": "04:28",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Akhir / Ketiga"
+    },
+    {
+      "tarikh": "2026-11-09",
+      "masa": "15:02",
+      "tahun": 2026,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Baru"
+    },
+    {
+      "tarikh": "2026-11-14",
+      "masa": "01:49",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi, iaitu pada jarak 405,619 km."
+    },
+    {
+      "tarikh": "2026-11-17",
+      "masa": "19:47",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Awal"
+    },
+    {
+      "tarikh": "2026-11-18",
+      "masa": "00:00",
+      "tahun": 2026,
+      "fenomena": "Hujan Meteor Leonids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Fenomena ini boleh dilihat dari 6-30 November 2026. Kemuncaknya berlaku pada malam 17-18 November dengan sekitar 15 meteor sejam. Kenampakan hujan meteor sangat baik selepas Bulan terbenam pada jam 1:23 pagi. Fenomena ini berasal daripada debu komet Tempel-Tuttle dan kadangkala menghasilkan ribut meteor yang menakjubkan."
+    },
+    {
+      "tarikh": "2026-11-21",
+      "masa": "08:33",
+      "tahun": 2026,
+      "fenomena": "Utarid pada Elongasi Paling Barat",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Utarid pada elongasi paling timur iaitu pada 19.6°B. Utarid boleh kelihatan di langit Timur sebelum Matahari terbit."
+    },
+    {
+      "tarikh": "2026-11-24",
+      "masa": "22:53",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Penuh / Purnama"
+    },
+    {
+      "tarikh": "2026-11-26",
+      "masa": "05:02",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 359,348 km."
+    },
+    {
+      "tarikh": "2026-11-26",
+      "masa": "06:33",
+      "tahun": 2026,
+      "fenomena": "Istiqbal / Oposisi Uranus",
+      "kategori": "Planet dan Konjungsi",
+      "penerangan": "Berlaku apabila Bumi berada di antara Matahari dan planet Uranus, menjadikan ia paling hampir dan paling cerah sepanjang tahun serta boleh dilihat sepanjang malam. Namun, ia sukar dilihat dengan mata kasar dan hanya kelihatan sebagai titik kecil biru kehijauan walaupun menggunakan teleskop."
+    },
+    {
+      "tarikh": "2026-12-01",
+      "masa": "14:08",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Akhir / Ketiga"
+    },
+    {
+      "tarikh": "2026-12-09",
+      "masa": "08:51",
+      "tahun": 2026,
+      "fenomena": "Bulan Baru",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Baru"
+    },
+    {
+      "tarikh": "2026-12-11",
+      "masa": "14:45",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Apogee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling jauh dengan Bumi, iaitu pada jarak 406,420 km."
+    },
+    {
+      "tarikh": "2026-12-14",
+      "masa": "20:58",
+      "tahun": 2026,
+      "fenomena": "Hujan Meteor Geminids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Fenomena ini dapat disaksikan dari 420 Disember 2026. Kemuncaknya berlaku pada malam 1415 Disember 2026, menghasilkan sekitar 150 meteor sejam. Kenampakan hujan meteor sangat baik kerana tiada gangguan cahaya Bulan."
+    },
+    {
+      "tarikh": "2026-12-17",
+      "masa": "13:42",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Pertama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Awal"
+    },
+    {
+      "tarikh": "2026-12-21",
+      "masa": "23:03",
+      "tahun": 2026,
+      "fenomena": "Solstis Disember",
+      "kategori": "Bumi dan Matahari",
+      "penerangan": "Matahari berada paling jauh ke selatan, tepat di atas Garisan Jadi pada 23.5° Selatan. Ini menandakan musim sejuk bermula di Hemisfera Utara (siang pendek, malam panjang) dan musim panas bermula di Hemisfera Selatan (siang panjang, malam pendek). Di Malaysia, kesannya sangat kecil kerana dekat dengan Khatulistiwa."
+    },
+    {
+      "tarikh": "2026-12-22",
+      "masa": "21:00",
+      "tahun": 2026,
+      "fenomena": "Hujan Meteor Ursids",
+      "kategori": "Hujan Meteor",
+      "penerangan": "Fenomena ini aktif dari 17 hingga 26 Disember dengan kemuncaknya pada malam 2223 Disember 2025 dan sekitar 10 meteor sejam. Waktu terbaik untuk pemerhatian ialah selepas Bulan terbenam pada jam 9:07 malam."
+    },
+    {
+      "tarikh": "2026-12-24",
+      "masa": "09:28",
+      "tahun": 2026,
+      "fenomena": "Bulan Purnama",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Penuh Perigee bagi tahun 2026. Bulan akan kelihatan lebih besar dan lebih terang daripada biasa."
+    },
+    {
+      "tarikh": "2026-12-24",
+      "masa": "16:29",
+      "tahun": 2026,
+      "fenomena": "Bulan pada Perigee",
+      "kategori": "Kedudukan Bulan",
+      "penerangan": "Bulan berada pada kedudukan yang paling dekat dengan Bumi, iaitu pada jarak 356,652 km."
+    },
+    {
+      "tarikh": "2026-12-31",
+      "masa": "02:59",
+      "tahun": 2026,
+      "fenomena": "Bulan Sukuan Akhir",
+      "kategori": "Fasa Bulan",
+      "penerangan": "Bulan Sukuan Akhir / Ketiga"
+    }
+  ],
+  "meta": {
+    "title": "Alamanak Astronomi Malaysia (2022–2026) - Muat turun percuma",
+    "description": "Tarikh dan masa fenomena astronomi yang boleh dicerap dari Malaysia — fasa bulan, perigee dan apogee, hujan meteor, gerhana, ekuinoks, solstis serta kedudukan planet — dengan penerangan bagi setiap peristiwa. Mengandungi 538 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Alamanak Astronomi Malaysia (2022–2026) | ListBase",
+    "seo_description": "Muat turun Alamanak Astronomi Malaysia (2022–2026) — 538 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 538 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/alamanak_astronomi"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:45.953Z",
-  "total_datasets": 627,
-  "total_records": 518399,
+  "generated": "2026-10-22T04:32:46.548Z",
+  "total_datasets": 628,
+  "total_records": 518937,
   "categories": [
     {
       "id": "culture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -16488,6 +16488,33 @@
         "xlsx": {
           "name": "ms-zoo_MS.xlsx",
           "size": 7866
+        }
+      }
+    },
+    {
+      "id": "ms-alamanak-astronomi",
+      "name": "Alamanak Astronomi Malaysia (2022–2026)",
+      "category": "science",
+      "record_count": 538,
+      "columns": [
+        "tarikh",
+        "masa",
+        "tahun",
+        "fenomena",
+        "kategori",
+        "penerangan"
+      ],
+      "source": "https://data.gov.my/data-catalogue/alamanak_astronomi",
+      "updated": "2026-10",
+      "size": 168496,
+      "files": {
+        "csv": {
+          "name": "ms-alamanak-astronomi_MS.csv",
+          "size": 103665
+        },
+        "xlsx": {
+          "name": "ms-alamanak-astronomi_MS.xlsx",
+          "size": 35143
         }
       }
     },
