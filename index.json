@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:49.396Z",
-  "total_datasets": 633,
-  "total_records": 520717,
+  "generated": "2026-10-22T04:32:50.057Z",
+  "total_datasets": 634,
+  "total_records": 522159,
   "categories": [
     {
       "id": "culture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -17870,6 +17870,34 @@
         "xlsx": {
           "name": "ms-bangunan-tertinggi-pulau-pinang_MS.xlsx",
           "size": 8927
+        }
+      }
+    },
+    {
+      "id": "ms-ketibaan-pelawat-asing",
+      "name": "Ketibaan Pelawat Asing ke Malaysia mengikut Kewarganegaraan (2020–2026)",
+      "category": "tourism",
+      "record_count": 1442,
+      "columns": [
+        "negara",
+        "kod_iso3",
+        "tahun",
+        "tempoh",
+        "jumlah_ketibaan",
+        "lelaki",
+        "perempuan"
+      ],
+      "source": "https://data.gov.my/data-catalogue/arrivals",
+      "updated": "2026-10",
+      "size": 290457,
+      "files": {
+        "csv": {
+          "name": "ms-ketibaan-pelawat-asing_MS.csv",
+          "size": 92267
+        },
+        "xlsx": {
+          "name": "ms-ketibaan-pelawat-asing_MS.xlsx",
+          "size": 56994
         }
       }
     },
