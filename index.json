@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:17.336Z",
-  "total_datasets": 582,
-  "total_records": 509006,
+  "generated": "2026-10-22T04:32:17.831Z",
+  "total_datasets": 583,
+  "total_records": 509021,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -3455,6 +3455,31 @@
         "xlsx": {
           "name": "ms-gempa-bumi_MS.xlsx",
           "size": 9867
+        }
+      }
+    },
+    {
+      "id": "ms-pesuruhjaya-tinggi-british-tanah-melayu",
+      "name": "Senarai Pesuruhjaya Tinggi British di Tanah Melayu",
+      "category": "history",
+      "record_count": 15,
+      "columns": [
+        "bahagian",
+        "nama",
+        "dari",
+        "sehingga"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_pesuruhjaya_tinggi_United_Kingdom_di_Tanah_Melayu",
+      "updated": "2026-10",
+      "size": 5093,
+      "files": {
+        "csv": {
+          "name": "ms-pesuruhjaya-tinggi-british-tanah-melayu_MS.csv",
+          "size": 2069
+        },
+        "xlsx": {
+          "name": "ms-pesuruhjaya-tinggi-british-tanah-melayu_MS.xlsx",
+          "size": 7571
         }
       }
     },
