@@ -1,0 +1,100 @@
+{
+  "id": "ms-gunung-berapi",
+  "name": "Senarai Gunung Berapi di Malaysia",
+  "title": "Senarai Gunung Berapi di Malaysia",
+  "description": "Senarai Gunung Berapi di Malaysia — 7 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "science",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_gunung_berapi_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_gunung_berapi_di_Malaysia",
+  "updated": "2026-10",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "ketinggian_meter",
+      "label": "Ketinggian Meter",
+      "type": "number"
+    },
+    {
+      "key": "ketinggian_kaki",
+      "label": "Ketinggian Kaki",
+      "type": "number"
+    },
+    {
+      "key": "lokasi_koordinat",
+      "label": "Lokasi Koordinat",
+      "type": "string"
+    },
+    {
+      "key": "letusan_terakhir",
+      "label": "Letusan Terakhir",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Bombalai",
+      "ketinggian_meter": "531.0",
+      "ketinggian_kaki": "1742.0",
+      "lokasi_koordinat": "Sabah (4°23′41″U 117°52′35″T﻿ / ﻿4.39472°U 117.87639°T )",
+      "letusan_terakhir": "Holosen"
+    },
+    {
+      "nama": "Lucia",
+      "ketinggian_meter": "1201.0",
+      "ketinggian_kaki": "3940.0",
+      "lokasi_koordinat": "Sabah (4°28′12″U 117°56′21.84″T﻿ / ﻿4.47000°U 117.9394000°T )",
+      "letusan_terakhir": "Holosen"
+    },
+    {
+      "nama": "Magdalena",
+      "ketinggian_meter": "1310.0",
+      "ketinggian_kaki": "4298.0",
+      "lokasi_koordinat": "Sabah (4°29′26.88″U 117°57′47.88″T﻿ / ﻿4.4908000°U 117.9633000°T )",
+      "letusan_terakhir": "Holosen"
+    },
+    {
+      "nama": "Maria",
+      "ketinggian_meter": "1020.0",
+      "ketinggian_kaki": "3346.0",
+      "lokasi_koordinat": "Sabah (4°26′6″U 117°57′9″T﻿ / ﻿4.43500°U 117.95250°T )",
+      "letusan_terakhir": "Holosen"
+    },
+    {
+      "nama": "Pulau Si Amil",
+      "ketinggian_meter": "",
+      "ketinggian_kaki": "",
+      "lokasi_koordinat": "Sabah (4°18′50″U 118°52′18″T﻿ / ﻿4.31389°U 118.87167°T )",
+      "letusan_terakhir": ""
+    },
+    {
+      "nama": "Pulau Bodgaya",
+      "ketinggian_meter": "",
+      "ketinggian_kaki": "",
+      "lokasi_koordinat": "Sabah (4°37′35.1″U 118°45′28.2″T﻿ / ﻿4.626417°U 118.757833°T )",
+      "letusan_terakhir": ""
+    },
+    {
+      "nama": "Pulau Tiga",
+      "ketinggian_meter": "",
+      "ketinggian_kaki": "",
+      "lokasi_koordinat": "Sabah (5°43′19″U 115°38′59″T﻿ / ﻿5.72194°U 115.64972°T )",
+      "letusan_terakhir": "1897"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Gunung Berapi di Malaysia - Muat turun percuma",
+    "description": "Senarai Gunung Berapi di Malaysia — 7 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Gunung Berapi di Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Gunung Berapi di Malaysia — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_gunung_berapi_di_Malaysia"
+    ]
+  }
+}

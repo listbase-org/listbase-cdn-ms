@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:42.585Z",
-  "total_datasets": 526,
-  "total_records": 499354,
+  "generated": "2026-10-22T04:31:43.060Z",
+  "total_datasets": 527,
+  "total_records": 499361,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -14520,6 +14520,32 @@
         "xlsx": {
           "name": "ms-burung_MS.xlsx",
           "size": 20349
+        }
+      }
+    },
+    {
+      "id": "ms-gunung-berapi",
+      "name": "Senarai Gunung Berapi di Malaysia",
+      "category": "science",
+      "record_count": 7,
+      "columns": [
+        "nama",
+        "ketinggian_meter",
+        "ketinggian_kaki",
+        "lokasi_koordinat",
+        "letusan_terakhir"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_gunung_berapi_di_Malaysia",
+      "updated": "2026-10",
+      "size": 3505,
+      "files": {
+        "csv": {
+          "name": "ms-gunung-berapi_MS.csv",
+          "size": 854
+        },
+        "xlsx": {
+          "name": "ms-gunung-berapi_MS.xlsx",
+          "size": 7241
         }
       }
     },
