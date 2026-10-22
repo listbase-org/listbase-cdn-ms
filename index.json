@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:16.319Z",
-  "total_datasets": 580,
-  "total_records": 508850,
+  "generated": "2026-10-22T04:32:16.848Z",
+  "total_datasets": 581,
+  "total_records": 508957,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 46
+      "dataset_count": 47
     },
     {
       "id": "economy",
@@ -1134,6 +1134,29 @@
         "xlsx": {
           "name": "ms-perlis-surau_MS.xlsx",
           "size": 19912
+        }
+      }
+    },
+    {
+      "id": "ms-pertubuhan-islam",
+      "name": "Senarai Pertubuhan Islam di Malaysia",
+      "category": "culture",
+      "record_count": 107,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_pertubuhan_Islam_di_Malaysia",
+      "updated": "2026-10",
+      "size": 15269,
+      "files": {
+        "csv": {
+          "name": "ms-pertubuhan-islam_MS.csv",
+          "size": 8851
+        },
+        "xlsx": {
+          "name": "ms-pertubuhan-islam_MS.xlsx",
+          "size": 9866
         }
       }
     },
