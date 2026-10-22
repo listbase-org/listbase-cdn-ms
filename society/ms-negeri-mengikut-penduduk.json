@@ -1,0 +1,205 @@
+{
+  "id": "ms-negeri-mengikut-penduduk",
+  "name": "Senarai Negeri di Malaysia mengikut Penduduk",
+  "title": "Senarai Negeri di Malaysia mengikut Penduduk",
+  "description": "Senarai Negeri di Malaysia mengikut Penduduk — 16 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "society",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_negeri_di_Malaysia_mengikut_penduduk",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_negeri_di_Malaysia_mengikut_penduduk",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "tangga",
+      "label": "Tangga",
+      "type": "number"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "populasi_1980",
+      "label": "Populasi 1980",
+      "type": "number"
+    },
+    {
+      "key": "populasi_1991",
+      "label": "Populasi 1991",
+      "type": "number"
+    },
+    {
+      "key": "populasi_2000",
+      "label": "Populasi 2000",
+      "type": "number"
+    },
+    {
+      "key": "populasi_2010",
+      "label": "Populasi 2010",
+      "type": "number"
+    },
+    {
+      "key": "populasi_2020",
+      "label": "Populasi 2020",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tangga": "1",
+      "negeri": "Selangor",
+      "populasi_1980": "1426250",
+      "populasi_1991": "2289236",
+      "populasi_2000": "3947527",
+      "populasi_2010": "5462141",
+      "populasi_2020": "6994423"
+    },
+    {
+      "tangga": "2",
+      "negeri": "Johor",
+      "populasi_1980": "1580423",
+      "populasi_1991": "2074297",
+      "populasi_2000": "2565740",
+      "populasi_2010": "3348283",
+      "populasi_2020": "4009670"
+    },
+    {
+      "tangga": "3",
+      "negeri": "Sabah",
+      "populasi_1980": "929299",
+      "populasi_1991": "1736902",
+      "populasi_2000": "2449389",
+      "populasi_2010": "3206742",
+      "populasi_2020": "3418785"
+    },
+    {
+      "tangga": "4",
+      "negeri": "Perak",
+      "populasi_1980": "1743655",
+      "populasi_1991": "1880016",
+      "populasi_2000": "2030382",
+      "populasi_2010": "2352743",
+      "populasi_2020": "2496041"
+    },
+    {
+      "tangga": "5",
+      "negeri": "Sarawak",
+      "populasi_1980": "1235553",
+      "populasi_1991": "1648217",
+      "populasi_2000": "2012616",
+      "populasi_2010": "2471140",
+      "populasi_2020": "2453677"
+    },
+    {
+      "tangga": "6",
+      "negeri": "Kedah",
+      "populasi_1980": "1077815",
+      "populasi_1991": "1304800",
+      "populasi_2000": "1572107",
+      "populasi_2010": "1947651",
+      "populasi_2020": "2131427"
+    },
+    {
+      "tangga": "7",
+      "negeri": "Kuala Lumpur",
+      "populasi_1980": "919611",
+      "populasi_1991": "1145075",
+      "populasi_2000": "1297526",
+      "populasi_2010": "1674621",
+      "populasi_2020": "1982112"
+    },
+    {
+      "tangga": "8",
+      "negeri": "Kelantan",
+      "populasi_1980": "859270",
+      "populasi_1991": "1181680",
+      "populasi_2000": "1289199",
+      "populasi_2010": "1539601",
+      "populasi_2020": "1792501"
+    },
+    {
+      "tangga": "9",
+      "negeri": "Pulau Pinang",
+      "populasi_1980": "900772",
+      "populasi_1991": "1065075",
+      "populasi_2000": "1225501",
+      "populasi_2010": "1561383",
+      "populasi_2020": "1740405"
+    },
+    {
+      "tangga": "10",
+      "negeri": "Pahang",
+      "populasi_1980": "768801",
+      "populasi_1991": "1036724",
+      "populasi_2000": "1231176",
+      "populasi_2010": "1500817",
+      "populasi_2020": "1591295"
+    },
+    {
+      "tangga": "11",
+      "negeri": "Negeri Sembilan",
+      "populasi_1980": "551442",
+      "populasi_1991": "691151",
+      "populasi_2000": "830088",
+      "populasi_2010": "1021064",
+      "populasi_2020": "1199974"
+    },
+    {
+      "tangga": "12",
+      "negeri": "Terengganu",
+      "populasi_1980": "525255",
+      "populasi_1991": "770931",
+      "populasi_2000": "879691",
+      "populasi_2010": "1035977",
+      "populasi_2020": "1149440"
+    },
+    {
+      "tangga": "13",
+      "negeri": "Melaka",
+      "populasi_1980": "446769",
+      "populasi_1991": "504502",
+      "populasi_2000": "602867",
+      "populasi_2010": "821110",
+      "populasi_2020": "998428"
+    },
+    {
+      "tangga": "14",
+      "negeri": "Perlis",
+      "populasi_1980": "144782",
+      "populasi_1991": "184072",
+      "populasi_2000": "198335",
+      "populasi_2010": "231541",
+      "populasi_2020": "284885"
+    },
+    {
+      "tangga": "15",
+      "negeri": "Putrajaya",
+      "populasi_1980": "-",
+      "populasi_1991": "-",
+      "populasi_2000": "-",
+      "populasi_2010": "72413",
+      "populasi_2020": "109202"
+    },
+    {
+      "tangga": "16",
+      "negeri": "Labuan",
+      "populasi_1980": "-",
+      "populasi_1991": "-",
+      "populasi_2000": "-",
+      "populasi_2010": "86908",
+      "populasi_2020": "95120"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Negeri di Malaysia mengikut Penduduk - Muat turun percuma",
+    "description": "Senarai Negeri di Malaysia mengikut Penduduk — 16 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 16 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Negeri di Malaysia mengikut Penduduk | ListBase",
+    "seo_description": "Muat turun Senarai Negeri di Malaysia mengikut Penduduk — 16 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 16 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_negeri_di_Malaysia_mengikut_penduduk"
+    ]
+  }
+}

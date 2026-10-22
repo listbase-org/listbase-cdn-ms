@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:06.374Z",
-  "total_datasets": 565,
-  "total_records": 506961,
+  "generated": "2026-10-22T04:32:06.868Z",
+  "total_datasets": 566,
+  "total_records": 506977,
   "categories": [
     {
       "id": "culture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -15388,6 +15388,34 @@
         "xlsx": {
           "name": "ms-kaum-di-malaysia_MS.xlsx",
           "size": 15861
+        }
+      }
+    },
+    {
+      "id": "ms-negeri-mengikut-penduduk",
+      "name": "Senarai Negeri di Malaysia mengikut Penduduk",
+      "category": "society",
+      "record_count": 16,
+      "columns": [
+        "tangga",
+        "negeri",
+        "populasi_1980",
+        "populasi_1991",
+        "populasi_2000",
+        "populasi_2010",
+        "populasi_2020"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_negeri_di_Malaysia_mengikut_penduduk",
+      "updated": "2026-10",
+      "size": 5724,
+      "files": {
+        "csv": {
+          "name": "ms-negeri-mengikut-penduduk_MS.csv",
+          "size": 1080
+        },
+        "xlsx": {
+          "name": "ms-negeri-mengikut-penduduk_MS.xlsx",
+          "size": 7801
         }
       }
     },
