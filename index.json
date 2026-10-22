@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:02.243Z",
-  "total_datasets": 557,
-  "total_records": 506133,
+  "generated": "2026-10-22T04:32:02.726Z",
+  "total_datasets": 558,
+  "total_records": 506377,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "environment",
@@ -1926,6 +1926,29 @@
         "xlsx": {
           "name": "ms-filem-tamil-malaysia_MS.xlsx",
           "size": 13440
+        }
+      }
+    },
+    {
+      "id": "ms-majalah",
+      "name": "Senarai Majalah di Malaysia",
+      "category": "entertainment",
+      "record_count": 244,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_majalah_di_Malaysia",
+      "updated": "2026-10",
+      "size": 20435,
+      "files": {
+        "csv": {
+          "name": "ms-majalah_MS.csv",
+          "size": 7808
+        },
+        "xlsx": {
+          "name": "ms-majalah_MS.xlsx",
+          "size": 10808
         }
       }
     },
