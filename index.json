@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:04.882Z",
-  "total_datasets": 562,
-  "total_records": 506707,
+  "generated": "2026-10-22T04:32:05.376Z",
+  "total_datasets": 563,
+  "total_records": 506892,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "reference",
-      "dataset_count": 251
+      "dataset_count": 252
     },
     {
       "id": "science",
@@ -10155,6 +10155,29 @@
         "xlsx": {
           "name": "ms-misi-diplomatik-di-malaysia_MS.xlsx",
           "size": 9567
+        }
+      }
+    },
+    {
+      "id": "ms-misi-diplomatik-malaysia",
+      "name": "Senarai Misi Diplomatik Malaysia di Luar Negara",
+      "category": "reference",
+      "record_count": 185,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_misi_diplomatik_Malaysia",
+      "updated": "2026-10",
+      "size": 17754,
+      "files": {
+        "csv": {
+          "name": "ms-misi-diplomatik-malaysia_MS.csv",
+          "size": 7673
+        },
+        "xlsx": {
+          "name": "ms-misi-diplomatik-malaysia_MS.xlsx",
+          "size": 10286
         }
       }
     },
