@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:43.827Z",
-  "total_datasets": 623,
-  "total_records": 518097,
+  "generated": "2026-10-22T04:32:44.359Z",
+  "total_datasets": 624,
+  "total_records": 518203,
   "categories": [
     {
       "id": "culture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -17670,6 +17670,29 @@
         "xlsx": {
           "name": "ms-peranginan-bukit_MS.xlsx",
           "size": 7765
+        }
+      }
+    },
+    {
+      "id": "ms-tempat-pelancongan-melaka",
+      "name": "Senarai Tempat Pelancongan di Melaka",
+      "category": "tourism",
+      "record_count": 106,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_tempat_pelancongan_di_Melaka",
+      "updated": "2026-10",
+      "size": 10848,
+      "files": {
+        "csv": {
+          "name": "ms-tempat-pelancongan-melaka_MS.csv",
+          "size": 4467
+        },
+        "xlsx": {
+          "name": "ms-tempat-pelancongan-melaka_MS.xlsx",
+          "size": 9069
         }
       }
     },
