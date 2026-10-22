@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:35.159Z",
-  "total_datasets": 610,
-  "total_records": 517242,
+  "generated": "2026-10-22T04:32:35.708Z",
+  "total_datasets": 611,
+  "total_records": 517477,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 21
+      "dataset_count": 22
     },
     {
       "id": "entertainment",
@@ -2387,6 +2387,35 @@
         "xlsx": {
           "name": "ms-sjkc-sabah_MS.xlsx",
           "size": 13540
+        }
+      }
+    },
+    {
+      "id": "ms-sjkc-sarawak",
+      "name": "Senarai SJK(C) di Sarawak",
+      "category": "education",
+      "record_count": 235,
+      "columns": [
+        "bahagian",
+        "kod_sekolah",
+        "lokasi",
+        "nama_sekolah_dalam_bahasa_melayu",
+        "nama_sekolah_dalam_bahasa_cina",
+        "poskod",
+        "kawasan",
+        "koordinat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Sarawak",
+      "updated": "2026-10",
+      "size": 91793,
+      "files": {
+        "csv": {
+          "name": "ms-sjkc-sarawak_MS.csv",
+          "size": 40714
+        },
+        "xlsx": {
+          "name": "ms-sjkc-sarawak_MS.xlsx",
+          "size": 24327
         }
       }
     },
