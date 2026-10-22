@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:15.825Z",
-  "total_datasets": 579,
-  "total_records": 508832,
+  "generated": "2026-10-22T04:32:16.319Z",
+  "total_datasets": 580,
+  "total_records": 508850,
   "categories": [
     {
       "id": "culture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "time",
@@ -15801,6 +15801,33 @@
         "xlsx": {
           "name": "ms-perpustakaan_MS.xlsx",
           "size": 11457
+        }
+      }
+    },
+    {
+      "id": "ms-perpustakaan-brunei",
+      "name": "Senarai Perpustakaan di Brunei",
+      "category": "tech",
+      "record_count": 18,
+      "columns": [
+        "perpustakaan",
+        "pengendali",
+        "jenis",
+        "lokasi_kawasan",
+        "lokasi_daerah",
+        "laman_sesawang"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_perpustakaan_di_Brunei",
+      "updated": "2026-10",
+      "size": 6407,
+      "files": {
+        "csv": {
+          "name": "ms-perpustakaan-brunei_MS.csv",
+          "size": 2017
+        },
+        "xlsx": {
+          "name": "ms-perpustakaan-brunei_MS.xlsx",
+          "size": 7586
         }
       }
     },

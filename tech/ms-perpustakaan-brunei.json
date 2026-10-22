@@ -1,0 +1,200 @@
+{
+  "id": "ms-perpustakaan-brunei",
+  "name": "Senarai Perpustakaan di Brunei",
+  "title": "Senarai Perpustakaan di Brunei",
+  "description": "Senarai Perpustakaan di Brunei — 18 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "tech",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_perpustakaan_di_Brunei",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_perpustakaan_di_Brunei",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "perpustakaan",
+      "label": "Perpustakaan",
+      "type": "string"
+    },
+    {
+      "key": "pengendali",
+      "label": "Pengendali",
+      "type": "string"
+    },
+    {
+      "key": "jenis",
+      "label": "Jenis",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kawasan",
+      "label": "Lokasi Kawasan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_daerah",
+      "label": "Lokasi Daerah",
+      "type": "string"
+    },
+    {
+      "key": "laman_sesawang",
+      "label": "Laman Sesawang",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "perpustakaan": "Perpustakaan Bandar Seri Begawan",
+      "pengendali": "Dewan Bahasa dan Pustaka",
+      "jenis": "Awam",
+      "lokasi_kawasan": "Bandar Seri Begawan",
+      "lokasi_daerah": "Brunei-Muara",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Sengkurong",
+      "pengendali": "Dewan Bahasa dan Pustaka",
+      "jenis": "Awam",
+      "lokasi_kawasan": "Sengkurong",
+      "lokasi_daerah": "Brunei-Muara",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Lambak Kanan",
+      "pengendali": "Dewan Bahasa dan Pustaka",
+      "jenis": "Awam",
+      "lokasi_kawasan": "Lambak Kanan",
+      "lokasi_daerah": "Brunei-Muara",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Muara",
+      "pengendali": "Dewan Bahasa dan Pustaka",
+      "jenis": "Awam",
+      "lokasi_kawasan": "Muara",
+      "lokasi_daerah": "Brunei-Muara",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Tutong",
+      "pengendali": "Dewan Bahasa dan Pustaka",
+      "jenis": "Awam",
+      "lokasi_kawasan": "Tutong",
+      "lokasi_daerah": "Tutong",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Kuala Belait",
+      "pengendali": "Dewan Bahasa dan Pustaka",
+      "jenis": "Awam",
+      "lokasi_kawasan": "Kuala Belait",
+      "lokasi_daerah": "Belait",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Pandan",
+      "pengendali": "Dewan Bahasa dan Pustaka",
+      "jenis": "Awam",
+      "lokasi_kawasan": "Pandan",
+      "lokasi_daerah": "Belait",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Seria",
+      "pengendali": "Dewan Bahasa dan Pustaka",
+      "jenis": "Awam",
+      "lokasi_kawasan": "Seria",
+      "lokasi_daerah": "Belait",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Temburong",
+      "pengendali": "Dewan Bahasa dan Pustaka",
+      "jenis": "Awam",
+      "lokasi_kawasan": "Bangar",
+      "lokasi_daerah": "Temburong",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Pusat Da'wah Islamiah",
+      "pengendali": "Pusat Da'wah Islamiah",
+      "jenis": "Khusus",
+      "lokasi_kawasan": "Pulaie, Bandar Seri Begawan",
+      "lokasi_daerah": "Brunei-Muara",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Pejabat Peguam Negara",
+      "pengendali": "Pejabat Peguam Negara",
+      "jenis": "Khusus",
+      "lokasi_kawasan": "Bandar Seri Begawan",
+      "lokasi_daerah": "Brunei-Muara",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Jabatan Muzium-Muzium",
+      "pengendali": "Jabatan Muzium-Muzium",
+      "jenis": "Khusus",
+      "lokasi_kawasan": "Bandar Seri Begawan",
+      "lokasi_daerah": "Brunei-Muara",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Pusat Sejarah Brunei",
+      "pengendali": "Pusat Sejarah Brunei",
+      "jenis": "Khusus",
+      "lokasi_kawasan": "Bandar Seri Begawan",
+      "lokasi_daerah": "Brunei-Muara",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Kementerian Hal Ehwal Ugama",
+      "pengendali": "Kementerian Hal Ehwal Ugama",
+      "jenis": "Khusus",
+      "lokasi_kawasan": "Bandar Seri Begawan",
+      "lokasi_daerah": "Brunei-Muara",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Universiti Brunei Darussalam",
+      "pengendali": "Universiti Brunei Darussalam",
+      "jenis": "Universiti",
+      "lokasi_kawasan": "Tungku",
+      "lokasi_daerah": "Brunei-Muara",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Universiti Teknologi Brunei",
+      "pengendali": "Universiti Teknologi Brunei",
+      "jenis": "Universiti",
+      "lokasi_kawasan": "Tungku",
+      "lokasi_daerah": "Brunei-Muara",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Universiti Islam Sultan Sharif Ali",
+      "pengendali": "Universiti Islam Sultan Sharif Ali",
+      "jenis": "Universiti",
+      "lokasi_kawasan": "Bandar Seri Begawan",
+      "lokasi_daerah": "Brunei-Muara",
+      "laman_sesawang": "URL"
+    },
+    {
+      "perpustakaan": "Perpustakaan Kolej Universiti Perguruan Ugama Seri Begawan",
+      "pengendali": "Kolej Universiti Perguruan Ugama Seri Begawan",
+      "jenis": "Universiti",
+      "lokasi_kawasan": "Bandar Seri Begawan",
+      "lokasi_daerah": "Brunei-Muara",
+      "laman_sesawang": "URL"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Perpustakaan di Brunei - Muat turun percuma",
+    "description": "Senarai Perpustakaan di Brunei — 18 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 18 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Perpustakaan di Brunei | ListBase",
+    "seo_description": "Muat turun Senarai Perpustakaan di Brunei — 18 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 18 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_perpustakaan_di_Brunei"
+    ]
+  }
+}
