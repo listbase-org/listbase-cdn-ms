@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:21.341Z",
-  "total_datasets": 586,
-  "total_records": 509773,
+  "generated": "2026-10-22T04:32:21.835Z",
+  "total_datasets": 587,
+  "total_records": 509794,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -3532,6 +3532,31 @@
         "xlsx": {
           "name": "ms-raja-raja-melayu_MS.xlsx",
           "size": 7844
+        }
+      }
+    },
+    {
+      "id": "ms-residen-british-perak",
+      "name": "Senarai Residen British di Perak",
+      "category": "history",
+      "record_count": 21,
+      "columns": [
+        "residen_british",
+        "darjah_kebesaran",
+        "tarikh_menjabat",
+        "tarikh_letak_jawatan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Residen_British_di_Perak",
+      "updated": "2026-10",
+      "size": 5818,
+      "files": {
+        "csv": {
+          "name": "ms-residen-british-perak_MS.csv",
+          "size": 1609
+        },
+        "xlsx": {
+          "name": "ms-residen-british-perak_MS.xlsx",
+          "size": 7830
         }
       }
     },
