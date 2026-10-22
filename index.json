@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:23.875Z",
-  "total_datasets": 591,
-  "total_records": 510334,
+  "generated": "2026-10-22T04:32:24.451Z",
+  "total_datasets": 592,
+  "total_records": 510929,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -1903,6 +1903,33 @@
         "xlsx": {
           "name": "ms-sekolah-berasrama-penuh_MS.xlsx",
           "size": 10804
+        }
+      }
+    },
+    {
+      "id": "ms-sekolah-kelantan",
+      "name": "Senarai Sekolah di Kelantan",
+      "category": "education",
+      "record_count": 595,
+      "columns": [
+        "bahagian",
+        "kod_sekolah",
+        "nama_sekolah",
+        "poskod",
+        "kawasan",
+        "koordinat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_sekolah_di_Kelantan",
+      "updated": "2026-10",
+      "size": 160779,
+      "files": {
+        "csv": {
+          "name": "ms-sekolah-kelantan_MS.csv",
+          "size": 81109
+        },
+        "xlsx": {
+          "name": "ms-sekolah-kelantan_MS.xlsx",
+          "size": 37782
         }
       }
     },
