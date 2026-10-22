@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:38.293Z",
-  "total_datasets": 616,
-  "total_records": 517863,
+  "generated": "2026-10-22T04:32:38.792Z",
+  "total_datasets": 617,
+  "total_records": 517894,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -4280,6 +4280,31 @@
         "xlsx": {
           "name": "ms-residen-british-perak_MS.xlsx",
           "size": 7830
+        }
+      }
+    },
+    {
+      "id": "ms-sultan-brunei",
+      "name": "Senarai Sultan Brunei",
+      "category": "history",
+      "record_count": 31,
+      "columns": [
+        "nama",
+        "naik_takhta",
+        "turun_takhta",
+        "catatan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_sultan_Brunei",
+      "updated": "2026-10",
+      "size": 8044,
+      "files": {
+        "csv": {
+          "name": "ms-sultan-brunei_MS.csv",
+          "size": 3757
+        },
+        "xlsx": {
+          "name": "ms-sultan-brunei_MS.xlsx",
+          "size": 8765
         }
       }
     },
