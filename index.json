@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:51.055Z",
-  "total_datasets": 538,
-  "total_records": 501893,
+  "generated": "2026-10-22T04:31:51.619Z",
+  "total_datasets": 539,
+  "total_records": 502341,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -3164,6 +3164,29 @@
         "xlsx": {
           "name": "ms-bahasa_MS.xlsx",
           "size": 20843
+        }
+      }
+    },
+    {
+      "id": "ms-kata-pinjaman-arab",
+      "name": "Senarai Kata Pinjaman Bahasa Arab dalam Bahasa Melayu",
+      "category": "language",
+      "record_count": 448,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kata_pinjaman_dari_bahasa_Arab_dalam_bahasa_Melayu_dan_bahasa_Indonesia",
+      "updated": "2026-10",
+      "size": 39317,
+      "files": {
+        "csv": {
+          "name": "ms-kata-pinjaman-arab_MS.csv",
+          "size": 16962
+        },
+        "xlsx": {
+          "name": "ms-kata-pinjaman-arab_MS.xlsx",
+          "size": 17664
         }
       }
     },
