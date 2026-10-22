@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:13.603Z",
-  "total_datasets": 575,
-  "total_records": 508135,
+  "generated": "2026-10-22T04:32:14.279Z",
+  "total_datasets": 576,
+  "total_records": 508163,
   "categories": [
     {
       "id": "culture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -15663,6 +15663,30 @@
         "xlsx": {
           "name": "ms-pembawa-bendera-olimpik_MS.xlsx",
           "size": 7354
+        }
+      }
+    },
+    {
+      "id": "ms-penjaring-terbanyak-perak-fa",
+      "name": "Penjaring Terbanyak Perak FA mengikut Musim",
+      "category": "sports",
+      "record_count": 28,
+      "columns": [
+        "musim",
+        "pemain",
+        "jaringan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_rekod_dan_statistik_Perak_FA",
+      "updated": "2026-10",
+      "size": 4293,
+      "files": {
+        "csv": {
+          "name": "ms-penjaring-terbanyak-perak-fa_MS.csv",
+          "size": 875
+        },
+        "xlsx": {
+          "name": "ms-penjaring-terbanyak-perak-fa_MS.xlsx",
+          "size": 7541
         }
       }
     },
