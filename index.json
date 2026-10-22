@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:33.203Z",
-  "total_datasets": 607,
-  "total_records": 516872,
+  "generated": "2026-10-22T04:32:33.795Z",
+  "total_datasets": 608,
+  "total_records": 517063,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "entertainment",
@@ -2300,6 +2300,35 @@
         "xlsx": {
           "name": "ms-sjkc-pahang_MS.xlsx",
           "size": 13177
+        }
+      }
+    },
+    {
+      "id": "ms-sjkc-perak",
+      "name": "Senarai SJK(C) di Perak",
+      "category": "education",
+      "record_count": 191,
+      "columns": [
+        "bahagian",
+        "kod_sekolah",
+        "lokasi",
+        "nama_sekolah_dalam_bahasa_melayu",
+        "nama_sekolah_dalam_bahasa_cina",
+        "poskod",
+        "kawasan",
+        "koordinat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Perak",
+      "updated": "2026-10",
+      "size": 73731,
+      "files": {
+        "csv": {
+          "name": "ms-sjkc-perak_MS.csv",
+          "size": 31870
+        },
+        "xlsx": {
+          "name": "ms-sjkc-perak_MS.xlsx",
+          "size": 21347
         }
       }
     },
