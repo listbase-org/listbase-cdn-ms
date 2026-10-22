@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:42.149Z",
-  "total_datasets": 620,
-  "total_records": 518003,
+  "generated": "2026-10-22T04:32:42.673Z",
+  "total_datasets": 621,
+  "total_records": 518032,
   "categories": [
     {
       "id": "culture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 64
+      "dataset_count": 65
     }
   ],
   "datasets": [
@@ -19566,6 +19566,34 @@
         "xlsx": {
           "name": "ms-stesen-mrt-singapura_MS.xlsx",
           "size": 17862
+        }
+      }
+    },
+    {
+      "id": "ms-syarikat-penerbangan",
+      "name": "Senarai Syarikat Penerbangan di Malaysia",
+      "category": "transport",
+      "record_count": 29,
+      "columns": [
+        "pesawat",
+        "iata",
+        "icao",
+        "panggilan",
+        "dimulakan_operasi",
+        "ditamatkan_operasi",
+        "nota"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_syarikat_penerbangan_di_Malaysia",
+      "updated": "2026-10",
+      "size": 8550,
+      "files": {
+        "csv": {
+          "name": "ms-syarikat-penerbangan_MS.csv",
+          "size": 2210
+        },
+        "xlsx": {
+          "name": "ms-syarikat-penerbangan_MS.xlsx",
+          "size": 8409
         }
       }
     },
