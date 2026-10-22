@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:48.249Z",
-  "total_datasets": 631,
-  "total_records": 520156,
+  "generated": "2026-10-22T04:32:48.803Z",
+  "total_datasets": 632,
+  "total_records": 520343,
   "categories": [
     {
       "id": "culture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -3122,6 +3122,32 @@
         "xlsx": {
           "name": "ms-harga-barang-pricecatcher_MS.xlsx",
           "size": 23826
+        }
+      }
+    },
+    {
+      "id": "ms-harga-ikan-spesies",
+      "name": "Harga Ikan Laut Segar mengikut Spesies (2025)",
+      "category": "food",
+      "record_count": 187,
+      "columns": [
+        "spesies",
+        "tahun",
+        "harga_pantai_rm_sekg",
+        "harga_borong_rm_sekg",
+        "harga_runcit_rm_sekg"
+      ],
+      "source": "https://data.gov.my/data-catalogue/fish_prices",
+      "updated": "2026-10",
+      "size": 34338,
+      "files": {
+        "csv": {
+          "name": "ms-harga-ikan-spesies_MS.csv",
+          "size": 7998
+        },
+        "xlsx": {
+          "name": "ms-harga-ikan-spesies_MS.xlsx",
+          "size": 13174
         }
       }
     },

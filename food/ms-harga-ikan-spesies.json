@@ -1,0 +1,1360 @@
+{
+  "id": "ms-harga-ikan-spesies",
+  "name": "Harga Ikan Laut Segar mengikut Spesies (2025)",
+  "title": "Harga Ikan Laut Segar mengikut Spesies (2025)",
+  "description": "Purata harga tahunan 2025 ikan laut segar, krustasia dan moluska mengikut spesies di peringkat pantai (pendaratan), borong dan runcit dalam RM sekilogram, dikira daripada data bulanan Jabatan Perikanan Malaysia.",
+  "category": "food",
+  "source": "https://data.gov.my/data-catalogue/fish_prices",
+  "source_url": "https://data.gov.my/data-catalogue/fish_prices",
+  "updated": "2026-10",
+  "record_count": 187,
+  "columns": [
+    {
+      "key": "spesies",
+      "label": "Spesies",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "harga_pantai_rm_sekg",
+      "label": "Harga Pantai (RM/kg)",
+      "type": "number"
+    },
+    {
+      "key": "harga_borong_rm_sekg",
+      "label": "Harga Borong (RM/kg)",
+      "type": "number"
+    },
+    {
+      "key": "harga_runcit_rm_sekg",
+      "label": "Harga Runcit (RM/kg)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "spesies": "Aji Aji",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 10.47,
+      "harga_borong_rm_sekg": 12.6,
+      "harga_runcit_rm_sekg": 18.76
+    },
+    {
+      "spesies": "Alu Alu",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.12,
+      "harga_borong_rm_sekg": 7.65,
+      "harga_runcit_rm_sekg": 11.31
+    },
+    {
+      "spesies": "Aruan Tasik",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.75,
+      "harga_borong_rm_sekg": 7.45,
+      "harga_runcit_rm_sekg": 10.24
+    },
+    {
+      "spesies": "Baji Baji",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 2.67,
+      "harga_borong_rm_sekg": 3.86,
+      "harga_runcit_rm_sekg": 5.64
+    },
+    {
+      "spesies": "Barat Barat",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 9.29,
+      "harga_borong_rm_sekg": 11.5,
+      "harga_runcit_rm_sekg": 14.98
+    },
+    {
+      "spesies": "Bawal Bujang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 16.18,
+      "harga_borong_rm_sekg": 19.04,
+      "harga_runcit_rm_sekg": 28.07
+    },
+    {
+      "spesies": "Bawal Emas",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 19.57,
+      "harga_borong_rm_sekg": 23.55,
+      "harga_runcit_rm_sekg": 31.31
+    },
+    {
+      "spesies": "Bawal Hitam",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 17.57,
+      "harga_borong_rm_sekg": 20.23,
+      "harga_runcit_rm_sekg": 27.32
+    },
+    {
+      "spesies": "Bawal Putih",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 31.65,
+      "harga_borong_rm_sekg": 36.05,
+      "harga_runcit_rm_sekg": 43.63
+    },
+    {
+      "spesies": "Bawal Selatan",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 15.91,
+      "harga_borong_rm_sekg": 19.3,
+      "harga_runcit_rm_sekg": 23.8
+    },
+    {
+      "spesies": "Bawal Tambak",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 51.03,
+      "harga_borong_rm_sekg": 61.15,
+      "harga_runcit_rm_sekg": 75.62
+    },
+    {
+      "spesies": "Bayan",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.17,
+      "harga_borong_rm_sekg": 9.58,
+      "harga_runcit_rm_sekg": 12.92
+    },
+    {
+      "spesies": "Belanak",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.86,
+      "harga_borong_rm_sekg": 8.23,
+      "harga_runcit_rm_sekg": 11.04
+    },
+    {
+      "spesies": "Belangkas",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 7.81,
+      "harga_borong_rm_sekg": 9.77,
+      "harga_runcit_rm_sekg": 13.35
+    },
+    {
+      "spesies": "Beliak Mata",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 2.71,
+      "harga_borong_rm_sekg": 3.82,
+      "harga_runcit_rm_sekg": 5.83
+    },
+    {
+      "spesies": "Belitong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.71,
+      "harga_borong_rm_sekg": 5.71,
+      "harga_runcit_rm_sekg": 8.44
+    },
+    {
+      "spesies": "Belut",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.26,
+      "harga_borong_rm_sekg": 5.83,
+      "harga_runcit_rm_sekg": 9.88
+    },
+    {
+      "spesies": "Benih Kerang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 14.7,
+      "harga_borong_rm_sekg": 27.12,
+      "harga_runcit_rm_sekg": 58.68
+    },
+    {
+      "spesies": "Biji Nangka",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.28,
+      "harga_borong_rm_sekg": 4.27,
+      "harga_runcit_rm_sekg": 6.39
+    },
+    {
+      "spesies": "Biji Nangka Tanda Merah",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.34,
+      "harga_borong_rm_sekg": 4.47,
+      "harga_runcit_rm_sekg": 6.47
+    },
+    {
+      "spesies": "Bilis",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.91,
+      "harga_borong_rm_sekg": 10.62,
+      "harga_runcit_rm_sekg": 18.3
+    },
+    {
+      "spesies": "Bulan Bulan",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.13,
+      "harga_borong_rm_sekg": 5.45,
+      "harga_runcit_rm_sekg": 7.57
+    },
+    {
+      "spesies": "Bulu",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 7.22,
+      "harga_borong_rm_sekg": 8.2,
+      "harga_runcit_rm_sekg": 13.05
+    },
+    {
+      "spesies": "Bulu Ayam",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.44,
+      "harga_borong_rm_sekg": 5.13,
+      "harga_runcit_rm_sekg": 8.58
+    },
+    {
+      "spesies": "Buntal",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 2.96,
+      "harga_borong_rm_sekg": 3.27,
+      "harga_runcit_rm_sekg": 5.29
+    },
+    {
+      "spesies": "Buntal Kuning",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 1.5,
+      "harga_borong_rm_sekg": 2.4,
+      "harga_runcit_rm_sekg": 4.24
+    },
+    {
+      "spesies": "Cermin",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.54,
+      "harga_borong_rm_sekg": 10.01,
+      "harga_runcit_rm_sekg": 14.48
+    },
+    {
+      "spesies": "Chaping",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 13.39,
+      "harga_borong_rm_sekg": 15.89,
+      "harga_runcit_rm_sekg": 20.54
+    },
+    {
+      "spesies": "Cincaru",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.96,
+      "harga_borong_rm_sekg": 7.67,
+      "harga_runcit_rm_sekg": 10.81
+    },
+    {
+      "spesies": "Cumit Cumit",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 12.33,
+      "harga_borong_rm_sekg": 14.55,
+      "harga_runcit_rm_sekg": 19.08
+    },
+    {
+      "spesies": "Daun Baharu",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 7.44,
+      "harga_borong_rm_sekg": 8.98,
+      "harga_runcit_rm_sekg": 12.85
+    },
+    {
+      "spesies": "Debam",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 2.27,
+      "harga_borong_rm_sekg": 3.55,
+      "harga_runcit_rm_sekg": 5.42
+    },
+    {
+      "spesies": "Delah",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 7.76,
+      "harga_borong_rm_sekg": 9.78,
+      "harga_runcit_rm_sekg": 12.64
+    },
+    {
+      "spesies": "Demuduk",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 11.94,
+      "harga_borong_rm_sekg": 13.08,
+      "harga_runcit_rm_sekg": 18.11
+    },
+    {
+      "spesies": "Dengkis",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.42,
+      "harga_borong_rm_sekg": 6.75,
+      "harga_runcit_rm_sekg": 9.67
+    },
+    {
+      "spesies": "Duri",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.74,
+      "harga_borong_rm_sekg": 4.97,
+      "harga_runcit_rm_sekg": 8.12
+    },
+    {
+      "spesies": "Empirit",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.47,
+      "harga_borong_rm_sekg": 4.96,
+      "harga_runcit_rm_sekg": 7.7
+    },
+    {
+      "spesies": "Gelama",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.54,
+      "harga_borong_rm_sekg": 6.27,
+      "harga_runcit_rm_sekg": 9.86
+    },
+    {
+      "spesies": "Gerong Gerong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 9,
+      "harga_borong_rm_sekg": 12.13,
+      "harga_runcit_rm_sekg": 14.77
+    },
+    {
+      "spesies": "Geronggong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.72,
+      "harga_borong_rm_sekg": 6.62,
+      "harga_runcit_rm_sekg": 10.95
+    },
+    {
+      "spesies": "Gerut Large",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 16.06,
+      "harga_borong_rm_sekg": 18.62,
+      "harga_runcit_rm_sekg": 22.46
+    },
+    {
+      "spesies": "Gerut Medium",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 13.71,
+      "harga_borong_rm_sekg": 16.09,
+      "harga_runcit_rm_sekg": 19.97
+    },
+    {
+      "spesies": "Gerut Small",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.88,
+      "harga_borong_rm_sekg": 10.9,
+      "harga_runcit_rm_sekg": 14.39
+    },
+    {
+      "spesies": "Ikan Baja",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 0.83,
+      "harga_borong_rm_sekg": 1.19,
+      "harga_runcit_rm_sekg": 1.92
+    },
+    {
+      "spesies": "Ikan Campur",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 2.87,
+      "harga_borong_rm_sekg": 3.86,
+      "harga_runcit_rm_sekg": 5.84
+    },
+    {
+      "spesies": "Ikan Susu",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 9.69,
+      "harga_borong_rm_sekg": 14.32,
+      "harga_runcit_rm_sekg": 19.84
+    },
+    {
+      "spesies": "Ikan Tiram",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.48,
+      "harga_borong_rm_sekg": 6.78,
+      "harga_runcit_rm_sekg": 9.07
+    },
+    {
+      "spesies": "Impirang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.48,
+      "harga_borong_rm_sekg": 4.98,
+      "harga_runcit_rm_sekg": 8.12
+    },
+    {
+      "spesies": "Jahan",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.47,
+      "harga_borong_rm_sekg": 8.76,
+      "harga_runcit_rm_sekg": 12.99
+    },
+    {
+      "spesies": "Jamah",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.98,
+      "harga_borong_rm_sekg": 7.08,
+      "harga_runcit_rm_sekg": 12.52
+    },
+    {
+      "spesies": "Jebong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 7.96,
+      "harga_borong_rm_sekg": 9.53,
+      "harga_runcit_rm_sekg": 12.77
+    },
+    {
+      "spesies": "Jenahak Large",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 28.45,
+      "harga_borong_rm_sekg": 31.55,
+      "harga_runcit_rm_sekg": 37.68
+    },
+    {
+      "spesies": "Jenahak Medium",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 22.12,
+      "harga_borong_rm_sekg": 25.12,
+      "harga_runcit_rm_sekg": 30.96
+    },
+    {
+      "spesies": "Jenahak Small",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 15.78,
+      "harga_borong_rm_sekg": 18.84,
+      "harga_runcit_rm_sekg": 24.98
+    },
+    {
+      "spesies": "Jolong Jolong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.22,
+      "harga_borong_rm_sekg": 5.11,
+      "harga_runcit_rm_sekg": 8.19
+    },
+    {
+      "spesies": "Kaci",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 10.35,
+      "harga_borong_rm_sekg": 12.1,
+      "harga_runcit_rm_sekg": 16.9
+    },
+    {
+      "spesies": "Kapak",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.3,
+      "harga_borong_rm_sekg": 5.24,
+      "harga_runcit_rm_sekg": 9.84
+    },
+    {
+      "spesies": "Kapas Laut",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.15,
+      "harga_borong_rm_sekg": 6.02,
+      "harga_runcit_rm_sekg": 9.09
+    },
+    {
+      "spesies": "Kebasi",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.52,
+      "harga_borong_rm_sekg": 5.01,
+      "harga_runcit_rm_sekg": 6.89
+    },
+    {
+      "spesies": "Kedera",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.19,
+      "harga_borong_rm_sekg": 9.73,
+      "harga_runcit_rm_sekg": 13.22
+    },
+    {
+      "spesies": "Kembong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.83,
+      "harga_borong_rm_sekg": 10.61,
+      "harga_runcit_rm_sekg": 14.5
+    },
+    {
+      "spesies": "Kepah",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.54,
+      "harga_borong_rm_sekg": 4.43,
+      "harga_runcit_rm_sekg": 7.02
+    },
+    {
+      "spesies": "Kerang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.58,
+      "harga_borong_rm_sekg": 10.25,
+      "harga_runcit_rm_sekg": 13.57
+    },
+    {
+      "spesies": "Kerapu Large",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 27.44,
+      "harga_borong_rm_sekg": 30.19,
+      "harga_runcit_rm_sekg": 36.3
+    },
+    {
+      "spesies": "Kerapu Medium",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 19.53,
+      "harga_borong_rm_sekg": 22.1,
+      "harga_runcit_rm_sekg": 26.65
+    },
+    {
+      "spesies": "Kerapu Small",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 12.06,
+      "harga_borong_rm_sekg": 14.15,
+      "harga_runcit_rm_sekg": 18.27
+    },
+    {
+      "spesies": "Kerepoh",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 16.43,
+      "harga_borong_rm_sekg": 21.99,
+      "harga_runcit_rm_sekg": 26.13
+    },
+    {
+      "spesies": "Kerisi",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 7.24,
+      "harga_borong_rm_sekg": 9.19,
+      "harga_runcit_rm_sekg": 12.76
+    },
+    {
+      "spesies": "Kerisi Bali",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.65,
+      "harga_borong_rm_sekg": 10.25,
+      "harga_runcit_rm_sekg": 14.82
+    },
+    {
+      "spesies": "Kerong Kerong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.58,
+      "harga_borong_rm_sekg": 8.9,
+      "harga_runcit_rm_sekg": 13.49
+    },
+    {
+      "spesies": "Ketam Batu",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 14.13,
+      "harga_borong_rm_sekg": 16.25,
+      "harga_runcit_rm_sekg": 20.51
+    },
+    {
+      "spesies": "Ketam Laut",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 17.25,
+      "harga_borong_rm_sekg": 20.29,
+      "harga_runcit_rm_sekg": 25.58
+    },
+    {
+      "spesies": "Ketam Nipah",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 26.75,
+      "harga_borong_rm_sekg": 29.85,
+      "harga_runcit_rm_sekg": 38.64
+    },
+    {
+      "spesies": "Ketam Renjong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 28.24,
+      "harga_borong_rm_sekg": 31.6,
+      "harga_runcit_rm_sekg": 36.62
+    },
+    {
+      "spesies": "Ketang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.63,
+      "harga_borong_rm_sekg": 6.81,
+      "harga_runcit_rm_sekg": 10.1
+    },
+    {
+      "spesies": "Kikek",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.04,
+      "harga_borong_rm_sekg": 5.03,
+      "harga_runcit_rm_sekg": 7.8
+    },
+    {
+      "spesies": "Kilat",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.24,
+      "harga_borong_rm_sekg": 6.7,
+      "harga_runcit_rm_sekg": 11.9
+    },
+    {
+      "spesies": "Kunyit Kunyit",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.94,
+      "harga_borong_rm_sekg": 6.96,
+      "harga_runcit_rm_sekg": 9.84
+    },
+    {
+      "spesies": "Kupang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.01,
+      "harga_borong_rm_sekg": 6.34,
+      "harga_runcit_rm_sekg": 9.5
+    },
+    {
+      "spesies": "Kurau",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 28.85,
+      "harga_borong_rm_sekg": 31.4,
+      "harga_runcit_rm_sekg": 39.45
+    },
+    {
+      "spesies": "Lala",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 2.9,
+      "harga_borong_rm_sekg": 4.31,
+      "harga_runcit_rm_sekg": 6.93
+    },
+    {
+      "spesies": "Landok",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.23,
+      "harga_borong_rm_sekg": 9.89,
+      "harga_runcit_rm_sekg": 13.09
+    },
+    {
+      "spesies": "Layaran",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.43,
+      "harga_borong_rm_sekg": 7.02,
+      "harga_runcit_rm_sekg": 11.1
+    },
+    {
+      "spesies": "Lidah",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.97,
+      "harga_borong_rm_sekg": 10.76,
+      "harga_runcit_rm_sekg": 13.92
+    },
+    {
+      "spesies": "Loban",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 10.1,
+      "harga_borong_rm_sekg": 12.96,
+      "harga_runcit_rm_sekg": 15.19
+    },
+    {
+      "spesies": "Lolong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.48,
+      "harga_borong_rm_sekg": 7.61,
+      "harga_runcit_rm_sekg": 10.41
+    },
+    {
+      "spesies": "Lumi Lumi",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.58,
+      "harga_borong_rm_sekg": 5.27,
+      "harga_runcit_rm_sekg": 8.59
+    },
+    {
+      "spesies": "Lundu",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 2.18,
+      "harga_borong_rm_sekg": 3.46,
+      "harga_runcit_rm_sekg": 5.63
+    },
+    {
+      "spesies": "Malong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.99,
+      "harga_borong_rm_sekg": 7.39,
+      "harga_runcit_rm_sekg": 10.14
+    },
+    {
+      "spesies": "Mengkerong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.13,
+      "harga_borong_rm_sekg": 5.25,
+      "harga_runcit_rm_sekg": 7.2
+    },
+    {
+      "spesies": "Merah Large",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 24.79,
+      "harga_borong_rm_sekg": 27.26,
+      "harga_runcit_rm_sekg": 35.23
+    },
+    {
+      "spesies": "Merah Medium",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 17.61,
+      "harga_borong_rm_sekg": 19.63,
+      "harga_runcit_rm_sekg": 27.59
+    },
+    {
+      "spesies": "Merah Small",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 10.89,
+      "harga_borong_rm_sekg": 12.55,
+      "harga_runcit_rm_sekg": 17.73
+    },
+    {
+      "spesies": "Mersuji",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.57,
+      "harga_borong_rm_sekg": 6.85,
+      "harga_runcit_rm_sekg": 8.16
+    },
+    {
+      "spesies": "Panjang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 13.86,
+      "harga_borong_rm_sekg": 15.13,
+      "harga_runcit_rm_sekg": 23.88
+    },
+    {
+      "spesies": "Parang Parang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.24,
+      "harga_borong_rm_sekg": 10.39,
+      "harga_runcit_rm_sekg": 13.9
+    },
+    {
+      "spesies": "Pari",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.07,
+      "harga_borong_rm_sekg": 10.59,
+      "harga_runcit_rm_sekg": 14.41
+    },
+    {
+      "spesies": "Pasir Pasir",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.8,
+      "harga_borong_rm_sekg": 5.7,
+      "harga_runcit_rm_sekg": 9.16
+    },
+    {
+      "spesies": "Pedukang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 1.89,
+      "harga_borong_rm_sekg": 2.79,
+      "harga_runcit_rm_sekg": 4.28
+    },
+    {
+      "spesies": "Pelaling",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.21,
+      "harga_borong_rm_sekg": 11.06,
+      "harga_runcit_rm_sekg": 15.03
+    },
+    {
+      "spesies": "Pelanduk",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 11.47,
+      "harga_borong_rm_sekg": 13.16,
+      "harga_runcit_rm_sekg": 16.27
+    },
+    {
+      "spesies": "Pelata",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.89,
+      "harga_borong_rm_sekg": 7.95,
+      "harga_runcit_rm_sekg": 12.03
+    },
+    {
+      "spesies": "Pelayak",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 10.02,
+      "harga_borong_rm_sekg": 11.61,
+      "harga_runcit_rm_sekg": 15.67
+    },
+    {
+      "spesies": "Perencong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 14.52,
+      "harga_borong_rm_sekg": 14.57,
+      "harga_runcit_rm_sekg": 21.59
+    },
+    {
+      "spesies": "Pinang Pinang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 2.16,
+      "harga_borong_rm_sekg": 3.76,
+      "harga_runcit_rm_sekg": 6.32
+    },
+    {
+      "spesies": "Pisang Pisang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.8,
+      "harga_borong_rm_sekg": 5.68,
+      "harga_runcit_rm_sekg": 8.38
+    },
+    {
+      "spesies": "Puntung Damar",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 11.94,
+      "harga_borong_rm_sekg": 14.89,
+      "harga_runcit_rm_sekg": 17.63
+    },
+    {
+      "spesies": "Puput",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.64,
+      "harga_borong_rm_sekg": 6.6,
+      "harga_runcit_rm_sekg": 10.26
+    },
+    {
+      "spesies": "Puyu Laut",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 7.7,
+      "harga_borong_rm_sekg": 9.14,
+      "harga_runcit_rm_sekg": 12.14
+    },
+    {
+      "spesies": "Rambai",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 10.83,
+      "harga_borong_rm_sekg": 12.95,
+      "harga_runcit_rm_sekg": 16.89
+    },
+    {
+      "spesies": "Remong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.15,
+      "harga_borong_rm_sekg": 9.87,
+      "harga_runcit_rm_sekg": 12.74
+    },
+    {
+      "spesies": "Sebelah",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 9.99,
+      "harga_borong_rm_sekg": 11.99,
+      "harga_runcit_rm_sekg": 15.38
+    },
+    {
+      "spesies": "Selampai",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 7.61,
+      "harga_borong_rm_sekg": 8.76,
+      "harga_runcit_rm_sekg": 12.29
+    },
+    {
+      "spesies": "Selangat",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 2.9,
+      "harga_borong_rm_sekg": 4.28,
+      "harga_runcit_rm_sekg": 6.63
+    },
+    {
+      "spesies": "Selar",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 9.21,
+      "harga_borong_rm_sekg": 11.24,
+      "harga_runcit_rm_sekg": 14.35
+    },
+    {
+      "spesies": "Selar Kuning",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.62,
+      "harga_borong_rm_sekg": 7.47,
+      "harga_runcit_rm_sekg": 10.85
+    },
+    {
+      "spesies": "Selayang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.67,
+      "harga_borong_rm_sekg": 7.53,
+      "harga_runcit_rm_sekg": 10.69
+    },
+    {
+      "spesies": "Semilang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 15.27,
+      "harga_borong_rm_sekg": 17.88,
+      "harga_runcit_rm_sekg": 22.01
+    },
+    {
+      "spesies": "Semilang Karang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.62,
+      "harga_borong_rm_sekg": 6.76,
+      "harga_runcit_rm_sekg": 9.04
+    },
+    {
+      "spesies": "Senangin",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 18.11,
+      "harga_borong_rm_sekg": 20.53,
+      "harga_runcit_rm_sekg": 26.1
+    },
+    {
+      "spesies": "Senangin Buis",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 7.02,
+      "harga_borong_rm_sekg": 8.14,
+      "harga_runcit_rm_sekg": 11.6
+    },
+    {
+      "spesies": "Senolong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.17,
+      "harga_borong_rm_sekg": 7.11,
+      "harga_runcit_rm_sekg": 9.28
+    },
+    {
+      "spesies": "Shrumbu",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 9.05,
+      "harga_borong_rm_sekg": 9.79,
+      "harga_runcit_rm_sekg": 13.56
+    },
+    {
+      "spesies": "Siakap",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 15.78,
+      "harga_borong_rm_sekg": 18.07,
+      "harga_runcit_rm_sekg": 22.54
+    },
+    {
+      "spesies": "Siput Bayam",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.19,
+      "harga_borong_rm_sekg": 5.93,
+      "harga_runcit_rm_sekg": 8.84
+    },
+    {
+      "spesies": "Siput Belitung",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 8.82,
+      "harga_borong_rm_sekg": 11.16,
+      "harga_runcit_rm_sekg": 14.75
+    },
+    {
+      "spesies": "Siput Kekapis",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.01,
+      "harga_borong_rm_sekg": 4.16,
+      "harga_runcit_rm_sekg": 6.57
+    },
+    {
+      "spesies": "Siput Lain",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.93,
+      "harga_borong_rm_sekg": 6.46,
+      "harga_runcit_rm_sekg": 9.47
+    },
+    {
+      "spesies": "Siput Retak Seribu",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.1,
+      "harga_borong_rm_sekg": 4.51,
+      "harga_runcit_rm_sekg": 6.55
+    },
+    {
+      "spesies": "Sotong Biasa",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 17.64,
+      "harga_borong_rm_sekg": 20.39,
+      "harga_runcit_rm_sekg": 25.76
+    },
+    {
+      "spesies": "Sotong Daun",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 14.18,
+      "harga_borong_rm_sekg": 18.79,
+      "harga_runcit_rm_sekg": 23.06
+    },
+    {
+      "spesies": "Sotong Jarum",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 16.38,
+      "harga_borong_rm_sekg": 18.77,
+      "harga_runcit_rm_sekg": 23.37
+    },
+    {
+      "spesies": "Sotong Katak",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 10.23,
+      "harga_borong_rm_sekg": 12.75,
+      "harga_runcit_rm_sekg": 17.29
+    },
+    {
+      "spesies": "Sotong Kurita",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 10.47,
+      "harga_borong_rm_sekg": 13.32,
+      "harga_runcit_rm_sekg": 17.41
+    },
+    {
+      "spesies": "Sotong Mengabang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 10.31,
+      "harga_borong_rm_sekg": 12.28,
+      "harga_runcit_rm_sekg": 15.6
+    },
+    {
+      "spesies": "Sotong Torak",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 26.2,
+      "harga_borong_rm_sekg": 29.89,
+      "harga_runcit_rm_sekg": 34.23
+    },
+    {
+      "spesies": "Talang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.57,
+      "harga_borong_rm_sekg": 6.87,
+      "harga_runcit_rm_sekg": 11.75
+    },
+    {
+      "spesies": "Tamban Beluru",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.45,
+      "harga_borong_rm_sekg": 4.93,
+      "harga_runcit_rm_sekg": 7.68
+    },
+    {
+      "spesies": "Tamban Bulat",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 1.74,
+      "harga_borong_rm_sekg": 2.89,
+      "harga_runcit_rm_sekg": 4.38
+    },
+    {
+      "spesies": "Tamban Cincang Rebung",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 1.91,
+      "harga_borong_rm_sekg": 3.05,
+      "harga_runcit_rm_sekg": 4.92
+    },
+    {
+      "spesies": "Tamban Sisek",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 2.44,
+      "harga_borong_rm_sekg": 3.35,
+      "harga_runcit_rm_sekg": 5.04
+    },
+    {
+      "spesies": "Tanda",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 12.71,
+      "harga_borong_rm_sekg": 16.05,
+      "harga_runcit_rm_sekg": 21.04
+    },
+    {
+      "spesies": "Temenggong",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.26,
+      "harga_borong_rm_sekg": 4.24,
+      "harga_runcit_rm_sekg": 6.81
+    },
+    {
+      "spesies": "Tenggiri",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 19.91,
+      "harga_borong_rm_sekg": 22.18,
+      "harga_runcit_rm_sekg": 29.22
+    },
+    {
+      "spesies": "Tenggiri Batang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 19.28,
+      "harga_borong_rm_sekg": 23.66,
+      "harga_runcit_rm_sekg": 26.75
+    },
+    {
+      "spesies": "Tenggiri Papan",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 16.28,
+      "harga_borong_rm_sekg": 20.3,
+      "harga_runcit_rm_sekg": 24.04
+    },
+    {
+      "spesies": "Tenggiri Wahoo",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 22.3,
+      "harga_borong_rm_sekg": 26.29,
+      "harga_runcit_rm_sekg": 33.03
+    },
+    {
+      "spesies": "Terubuk",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 19.96,
+      "harga_borong_rm_sekg": 22.09,
+      "harga_runcit_rm_sekg": 32.01
+    },
+    {
+      "spesies": "Terubuk Macrura",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 13.21,
+      "harga_borong_rm_sekg": 14.16,
+      "harga_runcit_rm_sekg": 21.63
+    },
+    {
+      "spesies": "Timah",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.91,
+      "harga_borong_rm_sekg": 5.05,
+      "harga_runcit_rm_sekg": 7.83
+    },
+    {
+      "spesies": "Tiram",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 7.14,
+      "harga_borong_rm_sekg": 8.6,
+      "harga_runcit_rm_sekg": 11.03
+    },
+    {
+      "spesies": "Todak",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 2.69,
+      "harga_borong_rm_sekg": 3.99,
+      "harga_runcit_rm_sekg": 5.71
+    },
+    {
+      "spesies": "Tongkol Hitam",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 7.08,
+      "harga_borong_rm_sekg": 8.56,
+      "harga_runcit_rm_sekg": 12.62
+    },
+    {
+      "spesies": "Tongkol Jalur",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.63,
+      "harga_borong_rm_sekg": 6.14,
+      "harga_runcit_rm_sekg": 9.26
+    },
+    {
+      "spesies": "Tongkol Kurik",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.6,
+      "harga_borong_rm_sekg": 8.34,
+      "harga_runcit_rm_sekg": 11.69
+    },
+    {
+      "spesies": "Tongkol Peluru",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 5.39,
+      "harga_borong_rm_sekg": 8.08,
+      "harga_runcit_rm_sekg": 10.4
+    },
+    {
+      "spesies": "Tongkol Selasih",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.29,
+      "harga_borong_rm_sekg": 7.8,
+      "harga_runcit_rm_sekg": 11.39
+    },
+    {
+      "spesies": "Trepang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 18.23,
+      "harga_borong_rm_sekg": 18.6,
+      "harga_runcit_rm_sekg": 24.8
+    },
+    {
+      "spesies": "Ubur Ubur",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.1,
+      "harga_borong_rm_sekg": 7.79,
+      "harga_runcit_rm_sekg": 12.72
+    },
+    {
+      "spesies": "Ubur Ubur Merah",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.8,
+      "harga_borong_rm_sekg": 5.43,
+      "harga_runcit_rm_sekg": 11.21
+    },
+    {
+      "spesies": "Ubur Ubur Putih",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 0.63,
+      "harga_borong_rm_sekg": 0.91,
+      "harga_runcit_rm_sekg": 2.71
+    },
+    {
+      "spesies": "Udang Baring",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 2.31,
+      "harga_borong_rm_sekg": 3.81,
+      "harga_runcit_rm_sekg": 6.63
+    },
+    {
+      "spesies": "Udang Cendana",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 17.29,
+      "harga_borong_rm_sekg": 19.9,
+      "harga_runcit_rm_sekg": 23.65
+    },
+    {
+      "spesies": "Udang Duri",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 2.95,
+      "harga_borong_rm_sekg": 3.77,
+      "harga_runcit_rm_sekg": 5.95
+    },
+    {
+      "spesies": "Udang Ekor Biru",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 34.45,
+      "harga_borong_rm_sekg": 38.81,
+      "harga_runcit_rm_sekg": 43.79
+    },
+    {
+      "spesies": "Udang Galah",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 34.09,
+      "harga_borong_rm_sekg": 38.23,
+      "harga_runcit_rm_sekg": 46.55
+    },
+    {
+      "spesies": "Udang Harimau",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 45.74,
+      "harga_borong_rm_sekg": 50.08,
+      "harga_runcit_rm_sekg": 63.27
+    },
+    {
+      "spesies": "Udang Kaki Merah Large",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 26,
+      "harga_borong_rm_sekg": 29.56,
+      "harga_runcit_rm_sekg": 38.45
+    },
+    {
+      "spesies": "Udang Kaki Merah Medium",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 17.66,
+      "harga_borong_rm_sekg": 20.2,
+      "harga_runcit_rm_sekg": 25.34
+    },
+    {
+      "spesies": "Udang Kaki Merah Small",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 12.37,
+      "harga_borong_rm_sekg": 14.5,
+      "harga_runcit_rm_sekg": 19.16
+    },
+    {
+      "spesies": "Udang Karang",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 67.73,
+      "harga_borong_rm_sekg": 73.15,
+      "harga_runcit_rm_sekg": 93.22
+    },
+    {
+      "spesies": "Udang Kulit Keras",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 15.94,
+      "harga_borong_rm_sekg": 19.35,
+      "harga_runcit_rm_sekg": 23.05
+    },
+    {
+      "spesies": "Udang Kuning",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 12.44,
+      "harga_borong_rm_sekg": 14,
+      "harga_runcit_rm_sekg": 18.32
+    },
+    {
+      "spesies": "Udang Lipan",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 15.46,
+      "harga_borong_rm_sekg": 19.14,
+      "harga_runcit_rm_sekg": 24.98
+    },
+    {
+      "spesies": "Udang Lobok",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 16.1,
+      "harga_borong_rm_sekg": 17.82,
+      "harga_runcit_rm_sekg": 22.53
+    },
+    {
+      "spesies": "Udang Merah",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.09,
+      "harga_borong_rm_sekg": 7.64,
+      "harga_runcit_rm_sekg": 10.82
+    },
+    {
+      "spesies": "Udang Merah Ros",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 20.03,
+      "harga_borong_rm_sekg": 20.75,
+      "harga_runcit_rm_sekg": 24.74
+    },
+    {
+      "spesies": "Udang Minyak",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 11.26,
+      "harga_borong_rm_sekg": 13.84,
+      "harga_runcit_rm_sekg": 17.94
+    },
+    {
+      "spesies": "Udang Minyak Jalur",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 3.21,
+      "harga_borong_rm_sekg": 4.26,
+      "harga_runcit_rm_sekg": 5.95
+    },
+    {
+      "spesies": "Udang Pasir Large",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 17.3,
+      "harga_borong_rm_sekg": 18.76,
+      "harga_runcit_rm_sekg": 24.57
+    },
+    {
+      "spesies": "Udang Pasir Medium",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 6.21,
+      "harga_borong_rm_sekg": 8.87,
+      "harga_runcit_rm_sekg": 12.2
+    },
+    {
+      "spesies": "Udang Pasir Small",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 9.45,
+      "harga_borong_rm_sekg": 12.04,
+      "harga_runcit_rm_sekg": 16.02
+    },
+    {
+      "spesies": "Udang Putih Large",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 39.73,
+      "harga_borong_rm_sekg": 45.27,
+      "harga_runcit_rm_sekg": 53.91
+    },
+    {
+      "spesies": "Udang Putih Medium",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 26.03,
+      "harga_borong_rm_sekg": 29.99,
+      "harga_runcit_rm_sekg": 37.09
+    },
+    {
+      "spesies": "Udang Putih Small",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 13.35,
+      "harga_borong_rm_sekg": 16.21,
+      "harga_runcit_rm_sekg": 21.59
+    },
+    {
+      "spesies": "Udang Susu",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 7,
+      "harga_borong_rm_sekg": 9.32,
+      "harga_runcit_rm_sekg": 12.2
+    },
+    {
+      "spesies": "Yu",
+      "tahun": 2025,
+      "harga_pantai_rm_sekg": 4.65,
+      "harga_borong_rm_sekg": 6.07,
+      "harga_runcit_rm_sekg": 8.84
+    }
+  ],
+  "meta": {
+    "title": "Harga Ikan Laut Segar mengikut Spesies (2025) - Muat turun percuma",
+    "description": "Purata harga tahunan 2025 ikan laut segar, krustasia dan moluska mengikut spesies di peringkat pantai (pendaratan), borong dan runcit dalam RM sekilogram, dikira daripada data bulanan Jabatan Perikanan Malaysia. Mengandungi 187 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Harga Ikan Laut Segar mengikut Spesies (2025) | ListBase",
+    "seo_description": "Muat turun Harga Ikan Laut Segar mengikut Spesies (2025) — 187 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 187 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/fish_prices"
+    ]
+  }
+}
