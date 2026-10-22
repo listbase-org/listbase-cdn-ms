@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:45.436Z",
-  "total_datasets": 626,
-  "total_records": 518364,
+  "generated": "2026-10-22T04:32:45.953Z",
+  "total_datasets": 627,
+  "total_records": 518399,
   "categories": [
     {
       "id": "culture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "society",
@@ -16582,6 +16582,28 @@
         "xlsx": {
           "name": "ms-kupu-kupu_MS.xlsx",
           "size": 33051
+        }
+      }
+    },
+    {
+      "id": "ms-tumbuh-tumbuhan",
+      "name": "Senarai Tumbuh-Tumbuhan Malaysia",
+      "category": "science",
+      "record_count": 35,
+      "columns": [
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_tumbuh-tumbuhan_Malaysia",
+      "updated": "2026-10",
+      "size": 3508,
+      "files": {
+        "csv": {
+          "name": "ms-tumbuh-tumbuhan_MS.csv",
+          "size": 1191
+        },
+        "xlsx": {
+          "name": "ms-tumbuh-tumbuhan_MS.xlsx",
+          "size": 7346
         }
       }
     },
