@@ -1,0 +1,136 @@
+{
+  "id": "ms-peranginan-bukit",
+  "name": "Senarai Peranginan Bukit di Malaysia",
+  "title": "Senarai Peranginan Bukit di Malaysia",
+  "description": "Senarai Peranginan Bukit di Malaysia — 10 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "tourism",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_peranginan_bukit_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_peranginan_bukit_di_Malaysia",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "nama_peranginan_bukit",
+      "label": "Nama Peranginan Bukit",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun_ditubuhkan",
+      "label": "Tahun Ditubuhkan",
+      "type": "number"
+    },
+    {
+      "key": "saiz",
+      "label": "Saiz",
+      "type": "string"
+    },
+    {
+      "key": "ketinggian",
+      "label": "Ketinggian",
+      "type": "string"
+    },
+    {
+      "key": "koordinat",
+      "label": "Koordinat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama_peranginan_bukit": "Bukit Kutu‡ (Treacher Hill)",
+      "negeri": "Selangor",
+      "tahun_ditubuhkan": "1893",
+      "saiz": "Tidak diketahui",
+      "ketinggian": "1,053 m (3,455 ka)",
+      "koordinat": "3°32′34.4″U 101°43′12.6″T﻿ / ﻿3.542889°U 101.720167°T"
+    },
+    {
+      "nama_peranginan_bukit": "Bukit Larut†",
+      "negeri": "Perak",
+      "tahun_ditubuhkan": "1884",
+      "saiz": "690 he (1,705 ekar)",
+      "ketinggian": "1,250 m (4,101 ka)",
+      "koordinat": "4°51′44.28″U 100°47′34.8″T﻿ / ﻿4.8623000°U 100.793000°T"
+    },
+    {
+      "nama_peranginan_bukit": "Bukit Tinggi",
+      "negeri": "Pahang",
+      "tahun_ditubuhkan": "1994",
+      "saiz": "2,000 he (4,942 ekar)",
+      "ketinggian": "820 m (2,690 ka)",
+      "koordinat": "3°24′0.70″U 101°50′23.7″T﻿ / ﻿3.4001944°U 101.839917°T"
+    },
+    {
+      "nama_peranginan_bukit": "Cameron Highlands†",
+      "negeri": "Pahang",
+      "tahun_ditubuhkan": "1925",
+      "saiz": "71,220 he (175,988 ekar)",
+      "ketinggian": "1,830 m (6,004 ka)",
+      "koordinat": "4°29′11.6″U 101°22′46.8″T﻿ / ﻿4.486556°U 101.379667°T"
+    },
+    {
+      "nama_peranginan_bukit": "Bukit Fraser†",
+      "negeri": "Pahang",
+      "tahun_ditubuhkan": "1919",
+      "saiz": "2,829 he (6,991 ekar)",
+      "ketinggian": "1,456 m (4,777 ka)",
+      "koordinat": "3°42′50.4″U 101°44′6″T﻿ / ﻿3.714000°U 101.73500°T"
+    },
+    {
+      "nama_peranginan_bukit": "Genting Highlands",
+      "negeri": "Pahang",
+      "tahun_ditubuhkan": "1971",
+      "saiz": "3,965 he (9,798 ekar)",
+      "ketinggian": "1,828 m (5,997 ka)",
+      "koordinat": "3°25′15.1″U 101°47′35.4″T﻿ / ﻿3.420861°U 101.793167°T"
+    },
+    {
+      "nama_peranginan_bukit": "Gunung Angsi‡",
+      "negeri": "Negeri Sembilan",
+      "tahun_ditubuhkan": "awal 1900-an",
+      "saiz": "Tidak diketahui",
+      "ketinggian": "825 m (2,707 ka)",
+      "koordinat": "2°41′55.4″U 102°02′52.7″T﻿ / ﻿2.698722°U 102.047972°T"
+    },
+    {
+      "nama_peranginan_bukit": "Gunung Jerai",
+      "negeri": "Kedah",
+      "tahun_ditubuhkan": "1986",
+      "saiz": "8,560 he (21,152 ekar)",
+      "ketinggian": "1,217 m (3,993 ka)",
+      "koordinat": "5°47′16.9″U 100°26′03.2″T﻿ / ﻿5.788028°U 100.434222°T"
+    },
+    {
+      "nama_peranginan_bukit": "Gunung Kledang‡",
+      "negeri": "Perak",
+      "tahun_ditubuhkan": "1892",
+      "saiz": "Tidak diketahui",
+      "ketinggian": "808 m (2,651 ka)",
+      "koordinat": "4°35′38.3″U 101°00′53.3″T﻿ / ﻿4.593972°U 101.014806°T"
+    },
+    {
+      "nama_peranginan_bukit": "Bukit Bendera†",
+      "negeri": "Pulau Pinang",
+      "tahun_ditubuhkan": "1787",
+      "saiz": "468 he (1,156 ekar)",
+      "ketinggian": "833 m (2,733 ka)",
+      "koordinat": "5°25′26.3″U 100°16′08.3″T﻿ / ﻿5.423972°U 100.268972°T"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Peranginan Bukit di Malaysia - Muat turun percuma",
+    "description": "Senarai Peranginan Bukit di Malaysia — 10 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 10 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Peranginan Bukit di Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Peranginan Bukit di Malaysia — 10 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 10 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_peranginan_bukit_di_Malaysia"
+    ]
+  }
+}

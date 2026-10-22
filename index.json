@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:14.816Z",
-  "total_datasets": 577,
-  "total_records": 508597,
+  "generated": "2026-10-22T04:32:15.305Z",
+  "total_datasets": 578,
+  "total_records": 508607,
   "categories": [
     {
       "id": "culture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -16539,6 +16539,33 @@
         "xlsx": {
           "name": "ms-bangunan-tertinggi-pulau-pinang_MS.xlsx",
           "size": 8927
+        }
+      }
+    },
+    {
+      "id": "ms-peranginan-bukit",
+      "name": "Senarai Peranginan Bukit di Malaysia",
+      "category": "tourism",
+      "record_count": 10,
+      "columns": [
+        "nama_peranginan_bukit",
+        "negeri",
+        "tahun_ditubuhkan",
+        "saiz",
+        "ketinggian",
+        "koordinat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_peranginan_bukit_di_Malaysia",
+      "updated": "2026-10",
+      "size": 4868,
+      "files": {
+        "csv": {
+          "name": "ms-peranginan-bukit_MS.csv",
+          "size": 1608
+        },
+        "xlsx": {
+          "name": "ms-peranginan-bukit_MS.xlsx",
+          "size": 7765
         }
       }
     },
