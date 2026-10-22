@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:32.045Z",
-  "total_datasets": 506,
-  "total_records": 497655,
+  "generated": "2026-10-22T04:31:32.556Z",
+  "total_datasets": 507,
+  "total_records": 497775,
   "categories": [
     {
       "id": "culture",
@@ -51,6 +51,10 @@
     {
       "id": "reference",
       "dataset_count": 248
+    },
+    {
+      "id": "science",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -14147,6 +14151,28 @@
         "xlsx": {
           "name": "ms-zoo_MS.xlsx",
           "size": 7866
+        }
+      }
+    },
+    {
+      "id": "ms-amfibia",
+      "name": "Senarai Amfibia di Malaysia",
+      "category": "science",
+      "record_count": 120,
+      "columns": [
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_amfibia_di_Malaysia",
+      "updated": "2026-10",
+      "size": 9563,
+      "files": {
+        "csv": {
+          "name": "ms-amfibia_MS.csv",
+          "size": 5003
+        },
+        "xlsx": {
+          "name": "ms-amfibia_MS.xlsx",
+          "size": 9582
         }
       }
     },
