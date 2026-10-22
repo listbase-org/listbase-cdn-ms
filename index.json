@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:41.596Z",
-  "total_datasets": 619,
-  "total_records": 517927,
+  "generated": "2026-10-22T04:32:42.149Z",
+  "total_datasets": 620,
+  "total_records": 518003,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -1875,6 +1875,29 @@
         "xlsx": {
           "name": "ms-syarikat-brunei_MS.xlsx",
           "size": 7128
+        }
+      }
+    },
+    {
+      "id": "ms-syarikat-malaysia",
+      "name": "Senarai Syarikat Malaysia",
+      "category": "economy",
+      "record_count": 76,
+      "columns": [
+        "syarikat",
+        "industri"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_syarikat_Malaysia",
+      "updated": "2026-10",
+      "size": 8136,
+      "files": {
+        "csv": {
+          "name": "ms-syarikat-malaysia_MS.csv",
+          "size": 2951
+        },
+        "xlsx": {
+          "name": "ms-syarikat-malaysia_MS.xlsx",
+          "size": 8839
         }
       }
     },
