@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:47.512Z",
-  "total_datasets": 532,
-  "total_records": 499903,
+  "generated": "2026-10-22T04:31:48.101Z",
+  "total_datasets": 533,
+  "total_records": 500078,
   "categories": [
     {
       "id": "culture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 58
+      "dataset_count": 59
     }
   ],
   "datasets": [
@@ -15651,6 +15651,31 @@
         "xlsx": {
           "name": "ms-jalan-kuala-lumpur_MS.xlsx",
           "size": 15682
+        }
+      }
+    },
+    {
+      "id": "ms-jalan-negeri-sembilan",
+      "name": "Senarai Jalan Negeri di Negeri Sembilan",
+      "category": "transport",
+      "record_count": 175,
+      "columns": [
+        "jata_laluan",
+        "nama",
+        "nama_jalan_lebuhraya",
+        "daerah"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Jalan_Negeri_Sembilan",
+      "updated": "2026-10",
+      "size": 31103,
+      "files": {
+        "csv": {
+          "name": "ms-jalan-negeri-sembilan_MS.csv",
+          "size": 12458
+        },
+        "xlsx": {
+          "name": "ms-jalan-negeri-sembilan_MS.xlsx",
+          "size": 12857
         }
       }
     },
