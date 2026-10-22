@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:50.512Z",
-  "total_datasets": 537,
-  "total_records": 501794,
+  "generated": "2026-10-22T04:31:51.055Z",
+  "total_datasets": 538,
+  "total_records": 501893,
   "categories": [
     {
       "id": "culture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "reference",
-      "dataset_count": 248
+      "dataset_count": 249
     },
     {
       "id": "science",
@@ -7931,6 +7931,29 @@
         "xlsx": {
           "name": "ms-johor-waktu-solat_MS.xlsx",
           "size": 535320
+        }
+      }
+    },
+    {
+      "id": "ms-kapal-tldm",
+      "name": "Senarai Kapal Tentera Laut DiRaja Malaysia",
+      "category": "reference",
+      "record_count": 99,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kapal_Tentera_Laut_DiRaja_Malaysia",
+      "updated": "2026-10",
+      "size": 11244,
+      "files": {
+        "csv": {
+          "name": "ms-kapal-tldm_MS.csv",
+          "size": 5144
+        },
+        "xlsx": {
+          "name": "ms-kapal-tldm_MS.xlsx",
+          "size": 9100
         }
       }
     },
