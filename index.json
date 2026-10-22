@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:03.669Z",
-  "total_datasets": 560,
-  "total_records": 506538,
+  "generated": "2026-10-22T04:32:04.411Z",
+  "total_datasets": 561,
+  "total_records": 506557,
   "categories": [
     {
       "id": "culture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "tech",
@@ -15275,6 +15275,31 @@
         "xlsx": {
           "name": "ms-kaum-di-malaysia_MS.xlsx",
           "size": 15861
+        }
+      }
+    },
+    {
+      "id": "ms-maskot-sukma",
+      "name": "Senarai Maskot Sukan Malaysia (SUKMA)",
+      "category": "sports",
+      "record_count": 19,
+      "columns": [
+        "edisi",
+        "negeri_tuan_rumah",
+        "maskot",
+        "penerangan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_maskot_Sukan_Malaysia",
+      "updated": "2026-10",
+      "size": 4444,
+      "files": {
+        "csv": {
+          "name": "ms-maskot-sukma_MS.csv",
+          "size": 1023
+        },
+        "xlsx": {
+          "name": "ms-maskot-sukma_MS.xlsx",
+          "size": 7517
         }
       }
     },
