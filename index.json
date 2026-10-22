@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:31.941Z",
-  "total_datasets": 605,
-  "total_records": 516705,
+  "generated": "2026-10-22T04:32:32.584Z",
+  "total_datasets": 606,
+  "total_records": 516792,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "entertainment",
@@ -2242,6 +2242,35 @@
         "xlsx": {
           "name": "ms-sjkc-melaka_MS.xlsx",
           "size": 12021
+        }
+      }
+    },
+    {
+      "id": "ms-sjkc-negeri-sembilan",
+      "name": "Senarai SJK(C) di Negeri Sembilan",
+      "category": "education",
+      "record_count": 87,
+      "columns": [
+        "bahagian",
+        "kod_sekolah",
+        "lokasi",
+        "nama_sekolah_dalam_bahasa_melayu",
+        "nama_sekolah_dalam_bahasa_cina",
+        "poskod",
+        "kawasan",
+        "koordinat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Negeri_Sembilan",
+      "updated": "2026-10",
+      "size": 35193,
+      "files": {
+        "csv": {
+          "name": "ms-sjkc-negeri-sembilan_MS.csv",
+          "size": 14964
+        },
+        "xlsx": {
+          "name": "ms-sjkc-negeri-sembilan_MS.xlsx",
+          "size": 13611
         }
       }
     },
