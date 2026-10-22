@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:26.135Z",
-  "total_datasets": 595,
-  "total_records": 513098,
+  "generated": "2026-10-22T04:32:26.762Z",
+  "total_datasets": 596,
+  "total_records": 514181,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "entertainment",
@@ -2007,6 +2007,33 @@
         "xlsx": {
           "name": "ms-sekolah-menengah-negeri-sembilan_MS.xlsx",
           "size": 9298
+        }
+      }
+    },
+    {
+      "id": "ms-sekolah-perak",
+      "name": "Senarai Sekolah di Perak",
+      "category": "education",
+      "record_count": 1083,
+      "columns": [
+        "bahagian",
+        "kod_sekolah",
+        "nama_sekolah",
+        "poskod",
+        "kawasan",
+        "koordinat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_sekolah_di_Perak",
+      "updated": "2026-10",
+      "size": 298315,
+      "files": {
+        "csv": {
+          "name": "ms-sekolah-perak_MS.csv",
+          "size": 154744
+        },
+        "xlsx": {
+          "name": "ms-sekolah-perak_MS.xlsx",
+          "size": 65516
         }
       }
     },
