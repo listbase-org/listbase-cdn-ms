@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:06.868Z",
-  "total_datasets": 566,
-  "total_records": 506977,
+  "generated": "2026-10-22T04:32:07.344Z",
+  "total_datasets": 567,
+  "total_records": 506987,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -1755,6 +1755,30 @@
         "xlsx": {
           "name": "ms-negeri-kdnk_MS.xlsx",
           "size": 8798
+        }
+      }
+    },
+    {
+      "id": "ms-orang-terkaya",
+      "name": "Senarai Orang Terkaya di Malaysia",
+      "category": "economy",
+      "record_count": 10,
+      "columns": [
+        "susunan",
+        "nama",
+        "nilai_bersih_us_bilion"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_orang_terkaya_di_Malaysia",
+      "updated": "2026-10",
+      "size": 2595,
+      "files": {
+        "csv": {
+          "name": "ms-orang-terkaya_MS.csv",
+          "size": 268
+        },
+        "xlsx": {
+          "name": "ms-orang-terkaya_MS.xlsx",
+          "size": 7019
         }
       }
     },
