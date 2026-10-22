@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:37.239Z",
-  "total_datasets": 614,
-  "total_records": 517654,
+  "generated": "2026-10-22T04:32:37.784Z",
+  "total_datasets": 615,
+  "total_records": 517836,
   "categories": [
     {
       "id": "culture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 63
+      "dataset_count": 64
     }
   ],
   "datasets": [
@@ -19409,6 +19409,33 @@
         "xlsx": {
           "name": "ms-stesen-lrt-singapura_MS.xlsx",
           "size": 9219
+        }
+      }
+    },
+    {
+      "id": "ms-stesen-mrt-singapura",
+      "name": "Senarai Stesen MRT di Singapura",
+      "category": "transport",
+      "record_count": 182,
+      "columns": [
+        "kod_huruf_nombor_beroperasi",
+        "nama_stesen_inggeris_melayu",
+        "nama_stesen_cina",
+        "nama_stesen_tamil",
+        "tarikh_pembukaan",
+        "nama_sementara"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_stesen_MRT_di_Singapura",
+      "updated": "2026-10",
+      "size": 57375,
+      "files": {
+        "csv": {
+          "name": "ms-stesen-mrt-singapura_MS.csv",
+          "size": 20052
+        },
+        "xlsx": {
+          "name": "ms-stesen-mrt-singapura_MS.xlsx",
+          "size": 17862
         }
       }
     },
