@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:07.840Z",
-  "total_datasets": 568,
-  "total_records": 506992,
+  "generated": "2026-10-22T04:32:08.338Z",
+  "total_datasets": 569,
+  "total_records": 507041,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 104
+      "dataset_count": 105
     },
     {
       "id": "reference",
@@ -7379,6 +7379,32 @@
         "xlsx": {
           "name": "ms-parlimen_MS.xlsx",
           "size": 14320
+        }
+      }
+    },
+    {
+      "id": "ms-parti-politik",
+      "name": "Senarai Parti Politik Malaysia",
+      "category": "politics",
+      "record_count": 49,
+      "columns": [
+        "nama_bahasa_melayu",
+        "nama_bahasa_inggeris",
+        "singkatan",
+        "diasaskan",
+        "dibubarkan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_parti_politik_Malaysia",
+      "updated": "2026-10",
+      "size": 12132,
+      "files": {
+        "csv": {
+          "name": "ms-parti-politik_MS.csv",
+          "size": 3926
+        },
+        "xlsx": {
+          "name": "ms-parti-politik_MS.xlsx",
+          "size": 9189
         }
       }
     },
