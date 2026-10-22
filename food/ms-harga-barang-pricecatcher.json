@@ -1,0 +1,3356 @@
+{
+  "id": "ms-harga-barang-pricecatcher",
+  "name": "Harga Barangan Keperluan di Malaysia — PriceCatcher (September 2026)",
+  "title": "Harga Barangan Keperluan di Malaysia — PriceCatcher (September 2026)",
+  "description": "Harga penengah, terendah dan tertinggi bagi barangan segar, runcit dan keperluan harian yang dicerap oleh KPDN di premis seluruh Malaysia pada September 2026, bersama bilangan premis yang dicerap.",
+  "category": "food",
+  "source": "https://data.gov.my/data-catalogue/pricecatcher",
+  "source_url": "https://data.gov.my/data-catalogue/pricecatcher",
+  "updated": "2026-10",
+  "record_count": 329,
+  "columns": [
+    {
+      "key": "barang",
+      "label": "Barang",
+      "type": "string"
+    },
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "kumpulan",
+      "label": "Kumpulan",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "harga_penengah_rm",
+      "label": "Harga Penengah (RM)",
+      "type": "number"
+    },
+    {
+      "key": "harga_terendah_rm",
+      "label": "Harga Terendah (RM)",
+      "type": "number"
+    },
+    {
+      "key": "harga_tertinggi_rm",
+      "label": "Harga Tertinggi (RM)",
+      "type": "number"
+    },
+    {
+      "key": "bilangan_premis",
+      "label": "Bilangan Premis",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "barang": "BERAS CAP BAO-BAO GOLDEN SARAWAK (SUPER IMPORT)",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 27.9,
+      "harga_terendah_rm": 27.49,
+      "harga_tertinggi_rm": 29.5,
+      "bilangan_premis": 36
+    },
+    {
+      "barang": "BERAS CAP FAIZA EMAS (SST5%)",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 26,
+      "harga_terendah_rm": 25.95,
+      "harga_tertinggi_rm": 30.79,
+      "bilangan_premis": 57
+    },
+    {
+      "barang": "BERAS CAP JASMINE (SST5%)",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 26,
+      "harga_terendah_rm": 25.9,
+      "harga_tertinggi_rm": 26,
+      "bilangan_premis": 139
+    },
+    {
+      "barang": "BERAS CAP JASMINE SUPER 5 SPECIAL (IMPORT)",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 34.5,
+      "harga_terendah_rm": 27.5,
+      "harga_tertinggi_rm": 46.15,
+      "bilangan_premis": 777
+    },
+    {
+      "barang": "BERAS CAP JATI (SST5%)",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 26,
+      "harga_terendah_rm": 25.45,
+      "harga_tertinggi_rm": 29.9,
+      "bilangan_premis": 56
+    },
+    {
+      "barang": "BERAS CAP RAMBUTAN (SST5%)",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 26,
+      "harga_terendah_rm": 25.94,
+      "harga_tertinggi_rm": 34.99,
+      "bilangan_premis": 7
+    },
+    {
+      "barang": "BERAS PREMIUM CAP 3A BOY (SUPER IMPORT)",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 29.5,
+      "harga_terendah_rm": 28.4,
+      "harga_tertinggi_rm": 32,
+      "bilangan_premis": 156
+    },
+    {
+      "barang": "BERAS PREMIUM CAP UNCLE TAN (SUPER IMPORT)",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 30.99,
+      "harga_terendah_rm": 29.39,
+      "harga_tertinggi_rm": 32.5,
+      "bilangan_premis": 131
+    },
+    {
+      "barang": "BERAS PULUT THAILAND (BIASA) PELBAGAI JENAMA",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 7.19,
+      "harga_terendah_rm": 5.9,
+      "harga_tertinggi_rm": 9.8,
+      "bilangan_premis": 9
+    },
+    {
+      "barang": "BERAS PULUT THAILAND (SUSU) PELBAGAI JENAMA",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 9.1,
+      "harga_terendah_rm": 6.9,
+      "harga_tertinggi_rm": 9.99,
+      "bilangan_premis": 9
+    },
+    {
+      "barang": "BERAS PUTIH CAP FAIZA EMAS (IMPORT)",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 31.99,
+      "harga_terendah_rm": 26.9,
+      "harga_tertinggi_rm": 48,
+      "bilangan_premis": 912
+    },
+    {
+      "barang": "BERAS PUTIH IMPORT SABAH RICE VAGAS TOKOU",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 27.95,
+      "harga_terendah_rm": 27.49,
+      "harga_tertinggi_rm": 29.5,
+      "bilangan_premis": 41
+    },
+    {
+      "barang": "BERAS SUPER CAP JATI TWR  5% (IMPORT)",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 32.99,
+      "harga_terendah_rm": 28.8,
+      "harga_tertinggi_rm": 42.29,
+      "bilangan_premis": 274
+    },
+    {
+      "barang": "BERAS SUPER CAP RAMBUTAN 5% (IMPORT)",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 35.99,
+      "harga_terendah_rm": 31.99,
+      "harga_tertinggi_rm": 48.7,
+      "bilangan_premis": 450
+    },
+    {
+      "barang": "BERAS SUPER IMPORT CAP FAMILY",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 27.2,
+      "harga_terendah_rm": 26.8,
+      "harga_tertinggi_rm": 28,
+      "bilangan_premis": 2
+    },
+    {
+      "barang": "BERAS SUPER SAZARICE CAP ANGGUR (BERAS PUTIH IMPORT )",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 28.5,
+      "harga_terendah_rm": 26.49,
+      "harga_tertinggi_rm": 31,
+      "bilangan_premis": 162
+    },
+    {
+      "barang": "BERAS SUPER SAZARICE CAP RODA (BERAS PUTIH IMPORT)",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 28.3,
+      "harga_terendah_rm": 27.5,
+      "harga_tertinggi_rm": 30,
+      "bilangan_premis": 159
+    },
+    {
+      "barang": "BERAS TKC SABAH CAP TQR 5%",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 34,
+      "harga_terendah_rm": 28.5,
+      "harga_tertinggi_rm": 39,
+      "bilangan_premis": 53
+    },
+    {
+      "barang": "BERAS TKC SUPER HUMA CAP KELISA EMAS (SABAH)",
+      "unit": "10 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Beras",
+      "harga_penengah_rm": 33.5,
+      "harga_terendah_rm": 32.5,
+      "harga_tertinggi_rm": 35,
+      "bilangan_premis": 36
+    },
+    {
+      "barang": "BIHUN KERING (CAP LONGKOU)",
+      "unit": "400 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Bihun",
+      "harga_penengah_rm": 4.9,
+      "harga_terendah_rm": 4.9,
+      "harga_tertinggi_rm": 4.9,
+      "bilangan_premis": 1
+    },
+    {
+      "barang": "BIHUN KERING IMPORT (PELBAGAI JENAMA)",
+      "unit": "400 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Bihun",
+      "harga_penengah_rm": 3.7,
+      "harga_terendah_rm": 2.49,
+      "harga_tertinggi_rm": 5.9,
+      "bilangan_premis": 1328
+    },
+    {
+      "barang": "BIHUN KERING IMPORT (PELBAGAI JENAMA)",
+      "unit": "400 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Bihun",
+      "harga_penengah_rm": 4.1,
+      "harga_terendah_rm": 2.95,
+      "harga_tertinggi_rm": 6.4,
+      "bilangan_premis": 149
+    },
+    {
+      "barang": "BIHUN KERING TEMPATAN (PELBAGAI JENAMA)",
+      "unit": "400 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Bihun",
+      "harga_penengah_rm": 3,
+      "harga_terendah_rm": 1.5,
+      "harga_tertinggi_rm": 6.3,
+      "bilangan_premis": 1506
+    },
+    {
+      "barang": "ESEN STAR BRAND 'PELBAGAI PERISA'",
+      "unit": "25 ml",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Esen Dan Ragi",
+      "harga_penengah_rm": 2.9,
+      "harga_terendah_rm": 2.29,
+      "harga_tertinggi_rm": 3.9,
+      "bilangan_premis": 620
+    },
+    {
+      "barang": "SERBUK PENAIK ROYAL (TIN)",
+      "unit": "113g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Esen Dan Ragi",
+      "harga_penengah_rm": 6.6,
+      "harga_terendah_rm": 2.4,
+      "harga_tertinggi_rm": 7.59,
+      "bilangan_premis": 492
+    },
+    {
+      "barang": "GULA MERAH LEMBUT (PELBAGAI JENAMA)",
+      "unit": "+- 500g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Gula",
+      "harga_penengah_rm": 3.2,
+      "harga_terendah_rm": 2.35,
+      "harga_tertinggi_rm": 5.9,
+      "bilangan_premis": 479
+    },
+    {
+      "barang": "GULA PUTIH BERTAPIS HALUS (PELBAGAI JENAMA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Gula",
+      "harga_penengah_rm": 2.95,
+      "harga_terendah_rm": 2,
+      "harga_tertinggi_rm": 2.99,
+      "bilangan_premis": 673
+    },
+    {
+      "barang": "GULA PUTIH BERTAPIS KASAR (PELBAGAI JENAMA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Gula",
+      "harga_penengah_rm": 2.85,
+      "harga_terendah_rm": 0.28,
+      "harga_tertinggi_rm": 2.95,
+      "bilangan_premis": 1936
+    },
+    {
+      "barang": "SARDIN CAP ADABI (SOS TOMATO DENGAN CILI)",
+      "unit": "425 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Ikan Dalam Tin",
+      "harga_penengah_rm": 9.69,
+      "harga_terendah_rm": 0.93,
+      "harga_tertinggi_rm": 11.8,
+      "bilangan_premis": 927
+    },
+    {
+      "barang": "SARDIN CAP AYAM (SOS TOMATO)",
+      "unit": "425 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Ikan Dalam Tin",
+      "harga_penengah_rm": 10.8,
+      "harga_terendah_rm": 1,
+      "harga_tertinggi_rm": 15.9,
+      "bilangan_premis": 1263
+    },
+    {
+      "barang": "SARDIN CAP KING CUP (SOS TOMATO)",
+      "unit": "425 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Ikan Dalam Tin",
+      "harga_penengah_rm": 9.35,
+      "harga_terendah_rm": 6.99,
+      "harga_tertinggi_rm": 1010,
+      "bilangan_premis": 1071
+    },
+    {
+      "barang": "KICAP LEMAK MANIS CAP KIPAS UDANG",
+      "unit": "345ml",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Kicap Dan Sos",
+      "harga_penengah_rm": 6.8,
+      "harga_terendah_rm": 5.4,
+      "harga_tertinggi_rm": 11,
+      "bilangan_premis": 1728
+    },
+    {
+      "barang": "KICAP MANIS ADABI",
+      "unit": "340ml",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Kicap Dan Sos",
+      "harga_penengah_rm": 5.2,
+      "harga_terendah_rm": 0.7,
+      "harga_tertinggi_rm": 7.5,
+      "bilangan_premis": 1170
+    },
+    {
+      "barang": "SOS CILI LIFE",
+      "unit": "340 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Kicap Dan Sos",
+      "harga_penengah_rm": 4.5,
+      "harga_terendah_rm": 3.5,
+      "harga_tertinggi_rm": 6,
+      "bilangan_premis": 1358
+    },
+    {
+      "barang": "SOS CILI MAGGI",
+      "unit": "340 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Kicap Dan Sos",
+      "harga_penengah_rm": 4.3,
+      "harga_terendah_rm": 2.8,
+      "harga_tertinggi_rm": 6.5,
+      "bilangan_premis": 1803
+    },
+    {
+      "barang": "SOS TIRAM MAGGI",
+      "unit": "340 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Kicap Dan Sos",
+      "harga_penengah_rm": 5.9,
+      "harga_terendah_rm": 3.5,
+      "harga_tertinggi_rm": 8.5,
+      "bilangan_premis": 1707
+    },
+    {
+      "barang": "SOS TOMATO MAGGI",
+      "unit": "325 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Kicap Dan Sos",
+      "harga_penengah_rm": 4.2,
+      "harga_terendah_rm": 0.29,
+      "harga_tertinggi_rm": 6.5,
+      "bilangan_premis": 1631
+    },
+    {
+      "barang": "KRIMER MANIS BERVITAMIN CAP F&N",
+      "unit": "500 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Krimer Dan Susu Tepung",
+      "harga_penengah_rm": 4.2,
+      "harga_terendah_rm": 2.99,
+      "harga_tertinggi_rm": 5.9,
+      "bilangan_premis": 1385
+    },
+    {
+      "barang": "KRIMER MANIS CAP GOLD COIN",
+      "unit": "500 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Krimer Dan Susu Tepung",
+      "harga_penengah_rm": 3.45,
+      "harga_terendah_rm": 2.5,
+      "harga_tertinggi_rm": 4.35,
+      "bilangan_premis": 833
+    },
+    {
+      "barang": "KRIMER MANIS PEKAT CAP SAJI",
+      "unit": "500 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Krimer Dan Susu Tepung",
+      "harga_penengah_rm": 3.4,
+      "harga_terendah_rm": 1.6,
+      "harga_tertinggi_rm": 4.5,
+      "bilangan_premis": 1200
+    },
+    {
+      "barang": "SUSU TEPUNG SEGERA DUTCHLADY (BIASA)",
+      "unit": "600 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Krimer Dan Susu Tepung",
+      "harga_penengah_rm": 19.9,
+      "harga_terendah_rm": 3.19,
+      "harga_tertinggi_rm": 22.45,
+      "bilangan_premis": 443
+    },
+    {
+      "barang": "SUSU TEPUNG SEGERA EVERYDAY",
+      "unit": "500 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Krimer Dan Susu Tepung",
+      "harga_penengah_rm": 18.9,
+      "harga_terendah_rm": 7.9,
+      "harga_tertinggi_rm": 24.1,
+      "bilangan_premis": 1309
+    },
+    {
+      "barang": "MENTEGA ANCHOR (SALTED)",
+      "unit": "227g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Mentega",
+      "harga_penengah_rm": 15.5,
+      "harga_terendah_rm": 12.85,
+      "harga_tertinggi_rm": 18.5,
+      "bilangan_premis": 709
+    },
+    {
+      "barang": "MAGGI MI SEGERA PERISA KARI",
+      "unit": "5 X 79g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Mi Segera",
+      "harga_penengah_rm": 5.19,
+      "harga_terendah_rm": 2.85,
+      "harga_tertinggi_rm": 6.99,
+      "bilangan_premis": 1908
+    },
+    {
+      "barang": "MINYAK JAGUNG CAP DAISY",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 16.2,
+      "harga_terendah_rm": 9.09,
+      "harga_tertinggi_rm": 28.49,
+      "bilangan_premis": 683
+    },
+    {
+      "barang": "MINYAK JAGUNG CAP DAISY",
+      "unit": "3 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 42.26,
+      "harga_terendah_rm": 21.3,
+      "harga_tertinggi_rm": 49.2,
+      "bilangan_premis": 597
+    },
+    {
+      "barang": "MINYAK JAGUNG CAP DAISY",
+      "unit": "2 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 29.5,
+      "harga_terendah_rm": 24.49,
+      "harga_tertinggi_rm": 39.99,
+      "bilangan_premis": 581
+    },
+    {
+      "barang": "MINYAK JAGUNG CAP MAZOLA",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 18.9,
+      "harga_terendah_rm": 14.99,
+      "harga_tertinggi_rm": 21.99,
+      "bilangan_premis": 405
+    },
+    {
+      "barang": "MINYAK JAGUNG CAP MAZOLA",
+      "unit": "3 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 47.9,
+      "harga_terendah_rm": 38.88,
+      "harga_tertinggi_rm": 51.9,
+      "bilangan_premis": 248
+    },
+    {
+      "barang": "MINYAK JAGUNG CAP MAZOLA",
+      "unit": "2 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 29.6,
+      "harga_terendah_rm": 18.9,
+      "harga_tertinggi_rm": 32.2,
+      "bilangan_premis": 45
+    },
+    {
+      "barang": "MINYAK JAGUNG CAP VECORN",
+      "unit": "3 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 42.6,
+      "harga_terendah_rm": 24.67,
+      "harga_tertinggi_rm": 59.79,
+      "bilangan_premis": 223
+    },
+    {
+      "barang": "MINYAK JAGUNG CAP VECORN",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 15.2,
+      "harga_terendah_rm": 12.8,
+      "harga_tertinggi_rm": 22.2,
+      "bilangan_premis": 364
+    },
+    {
+      "barang": "MINYAK JAGUNG CAP VECORN",
+      "unit": "2 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 29.5,
+      "harga_terendah_rm": 18.85,
+      "harga_tertinggi_rm": 41.79,
+      "bilangan_premis": 242
+    },
+    {
+      "barang": "MINYAK MASAK PAKET (PELBAGAI JENAMA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 2.5,
+      "harga_terendah_rm": 2.45,
+      "harga_tertinggi_rm": 25,
+      "bilangan_premis": 941
+    },
+    {
+      "barang": "MINYAK MASAK SEBATIAN CAP KNIFE",
+      "unit": "5 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 35.49,
+      "harga_terendah_rm": 24.5,
+      "harga_tertinggi_rm": 44.5,
+      "bilangan_premis": 1165
+    },
+    {
+      "barang": "MINYAK MASAK SEBATIAN CAP KNIFE",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 8.5,
+      "harga_terendah_rm": 6.1,
+      "harga_tertinggi_rm": 15.39,
+      "bilangan_premis": 933
+    },
+    {
+      "barang": "MINYAK MASAK SEBATIAN CAP KNIFE",
+      "unit": "2 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 15.99,
+      "harga_terendah_rm": 12.9,
+      "harga_tertinggi_rm": 19.9,
+      "bilangan_premis": 1083
+    },
+    {
+      "barang": "MINYAK MASAK SEBATIAN CAP RED EAGLE",
+      "unit": "5 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 36.9,
+      "harga_terendah_rm": 24.5,
+      "harga_tertinggi_rm": 45.29,
+      "bilangan_premis": 969
+    },
+    {
+      "barang": "MINYAK MASAK SEBATIAN CAP RED EAGLE",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 8.6,
+      "harga_terendah_rm": 6.9,
+      "harga_tertinggi_rm": 16.9,
+      "bilangan_premis": 665
+    },
+    {
+      "barang": "MINYAK MASAK SEBATIAN CAP RED EAGLE",
+      "unit": "2 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 16.2,
+      "harga_terendah_rm": 7.19,
+      "harga_tertinggi_rm": 20.9,
+      "bilangan_premis": 944
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP ALIF",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 6.9,
+      "harga_terendah_rm": 6.9,
+      "harga_tertinggi_rm": 6.9,
+      "bilangan_premis": 8
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP ALIF",
+      "unit": "2 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 13.3,
+      "harga_terendah_rm": 12.99,
+      "harga_tertinggi_rm": 13.3,
+      "bilangan_premis": 6
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP ALIF",
+      "unit": "5 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 30.9,
+      "harga_terendah_rm": 0.01,
+      "harga_tertinggi_rm": 30.9,
+      "bilangan_premis": 12
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP BURUH",
+      "unit": "5 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 30.9,
+      "harga_terendah_rm": 13.3,
+      "harga_tertinggi_rm": 32.9,
+      "bilangan_premis": 1436
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP BURUH",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 6.9,
+      "harga_terendah_rm": 6.69,
+      "harga_tertinggi_rm": 6.99,
+      "bilangan_premis": 1016
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP BURUH",
+      "unit": "2 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 13.3,
+      "harga_terendah_rm": 1.3,
+      "harga_tertinggi_rm": 13.9,
+      "bilangan_premis": 1312
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP SAJI",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 6.9,
+      "harga_terendah_rm": 6.2,
+      "harga_tertinggi_rm": 7.2,
+      "bilangan_premis": 710
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP SAJI",
+      "unit": "2 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 13.3,
+      "harga_terendah_rm": 6.9,
+      "harga_tertinggi_rm": 30.79,
+      "bilangan_premis": 875
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP SAJI",
+      "unit": "5 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 30.9,
+      "harga_terendah_rm": 13.3,
+      "harga_tertinggi_rm": 430.9,
+      "bilangan_premis": 1150
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP SERI MURNI",
+      "unit": "5 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 30.9,
+      "harga_terendah_rm": 25.9,
+      "harga_tertinggi_rm": 32.5,
+      "bilangan_premis": 1333
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP SERI MURNI",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 6.9,
+      "harga_terendah_rm": 6.69,
+      "harga_tertinggi_rm": 60,
+      "bilangan_premis": 572
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP SERI MURNI",
+      "unit": "2 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 13.3,
+      "harga_terendah_rm": 9.9,
+      "harga_tertinggi_rm": 30.9,
+      "bilangan_premis": 1271
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP VESAWIT",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 6.9,
+      "harga_terendah_rm": 3.9,
+      "harga_tertinggi_rm": 7.5,
+      "bilangan_premis": 742
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP VESAWIT",
+      "unit": "5 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 30.9,
+      "harga_terendah_rm": 21.7,
+      "harga_tertinggi_rm": 31.5,
+      "bilangan_premis": 950
+    },
+    {
+      "barang": "MINYAK MASAK TULEN CAP VESAWIT",
+      "unit": "2 kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 13.3,
+      "harga_terendah_rm": 6.85,
+      "harga_tertinggi_rm": 30.9,
+      "bilangan_premis": 875
+    },
+    {
+      "barang": "MINYAK SAPI CAP QBB",
+      "unit": "400 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 35.4,
+      "harga_terendah_rm": 25.9,
+      "harga_tertinggi_rm": 335.75,
+      "bilangan_premis": 231
+    },
+    {
+      "barang": "MINYAK SAPI CAP WINDMILL GHEEBLEND",
+      "unit": "400 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Minyak Dan Lemak",
+      "harga_penengah_rm": 19.59,
+      "harga_terendah_rm": 13.59,
+      "harga_tertinggi_rm": 42.9,
+      "bilangan_premis": 588
+    },
+    {
+      "barang": "ASAM JAWA (BERBIJI) PELBAGAI JENAMA",
+      "unit": "200 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 1.4,
+      "harga_terendah_rm": 1.04,
+      "harga_tertinggi_rm": 4.2,
+      "bilangan_premis": 589
+    },
+    {
+      "barang": "ASAM JAWA (TIDAK BERBIJI) ADABI",
+      "unit": "200 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 4.99,
+      "harga_terendah_rm": 2.5,
+      "harga_tertinggi_rm": 6.5,
+      "bilangan_premis": 712
+    },
+    {
+      "barang": "GARAM HALUS BIASA (PELBAGAI JENAMA)",
+      "unit": "+-350g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 0.8,
+      "harga_terendah_rm": 0.5,
+      "harga_tertinggi_rm": 2.99,
+      "bilangan_premis": 584
+    },
+    {
+      "barang": "KIUB SUP TOM YAM (MAGGI)",
+      "unit": "6 X 10g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 3.3,
+      "harga_terendah_rm": 2.69,
+      "harga_tertinggi_rm": 35,
+      "bilangan_premis": 751
+    },
+    {
+      "barang": "PERENCAH NASI GORENG IKAN BILIS SERI AJI",
+      "unit": "26G",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 1.47,
+      "harga_terendah_rm": 0.99,
+      "harga_tertinggi_rm": 1.9,
+      "bilangan_premis": 559
+    },
+    {
+      "barang": "PERENCAH TOM YAM ADABI",
+      "unit": "40 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 2.4,
+      "harga_terendah_rm": 1.5,
+      "harga_tertinggi_rm": 240,
+      "bilangan_premis": 678
+    },
+    {
+      "barang": "SERBUK CILI BABAS",
+      "unit": "250 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 7.65,
+      "harga_terendah_rm": 4.1,
+      "harga_tertinggi_rm": 10,
+      "bilangan_premis": 1823
+    },
+    {
+      "barang": "SERBUK KARI AYAM DAN DAGING ADABI",
+      "unit": "250 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 6.5,
+      "harga_terendah_rm": 4.2,
+      "harga_tertinggi_rm": 11.5,
+      "bilangan_premis": 1780
+    },
+    {
+      "barang": "SERBUK KARI DAGING BABAS",
+      "unit": "250 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 6.3,
+      "harga_terendah_rm": 4.5,
+      "harga_tertinggi_rm": 8.9,
+      "bilangan_premis": 1950
+    },
+    {
+      "barang": "SERBUK KARI IKAN ADABI",
+      "unit": "250 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 6.7,
+      "harga_terendah_rm": 4.5,
+      "harga_tertinggi_rm": 75.5,
+      "bilangan_premis": 1623
+    },
+    {
+      "barang": "SERBUK KARI IKAN BABAS",
+      "unit": "250 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 6.3,
+      "harga_terendah_rm": 4.5,
+      "harga_tertinggi_rm": 8.3,
+      "bilangan_premis": 1944
+    },
+    {
+      "barang": "SERBUK KUNYIT CAMPURAN (SEBATIAN) ADABI",
+      "unit": "250 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 7.3,
+      "harga_terendah_rm": 4.29,
+      "harga_tertinggi_rm": 12,
+      "bilangan_premis": 1481
+    },
+    {
+      "barang": "SERBUK NASI GORENG CINA ADABI",
+      "unit": "17 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 1.39,
+      "harga_terendah_rm": 0.99,
+      "harga_tertinggi_rm": 3.4,
+      "bilangan_premis": 674
+    },
+    {
+      "barang": "SERBUK PERENCAH SUP ADABI",
+      "unit": "250 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Berbungkus)",
+      "harga_penengah_rm": 9.1,
+      "harga_terendah_rm": 6.2,
+      "harga_tertinggi_rm": 12.5,
+      "bilangan_premis": 1578
+    },
+    {
+      "barang": "BIJI SAWI",
+      "unit": "100 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Rempah Ratus (Tidak Berbungkus)",
+      "harga_penengah_rm": 1.1,
+      "harga_terendah_rm": 0.63,
+      "harga_tertinggi_rm": 6.9,
+      "bilangan_premis": 373
+    },
+    {
+      "barang": "SANTAN KELAPA JENAMA AYAM BRAND",
+      "unit": "1 liter",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Santan (Kotak)",
+      "harga_penengah_rm": 15.5,
+      "harga_terendah_rm": 4,
+      "harga_tertinggi_rm": 1650,
+      "bilangan_premis": 1615
+    },
+    {
+      "barang": "SANTAN KELAPA JENAMA HARMUNI",
+      "unit": "200 ml",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Santan (Kotak)",
+      "harga_penengah_rm": 3.95,
+      "harga_terendah_rm": 2.19,
+      "harga_tertinggi_rm": 4.7,
+      "bilangan_premis": 648
+    },
+    {
+      "barang": "SANTAN KELAPA JENAMA KARA",
+      "unit": "200 ml",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Santan (Kotak)",
+      "harga_penengah_rm": 3.9,
+      "harga_terendah_rm": 2.49,
+      "harga_tertinggi_rm": 5.5,
+      "bilangan_premis": 1915
+    },
+    {
+      "barang": "SANTAN KELAPA JENAMA M&S",
+      "unit": "500 ml",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Santan (Kotak)",
+      "harga_penengah_rm": 8.2,
+      "harga_terendah_rm": 3.99,
+      "harga_tertinggi_rm": 14.5,
+      "bilangan_premis": 798
+    },
+    {
+      "barang": "JEM STRAWBERI LADY'S CHOICE",
+      "unit": "400 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Sapuan (Spreads)",
+      "harga_penengah_rm": 9.35,
+      "harga_terendah_rm": 8.2,
+      "harga_tertinggi_rm": 11.4,
+      "bilangan_premis": 479
+    },
+    {
+      "barang": "LEPAAN BUTTERCUP",
+      "unit": "227g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Sapuan (Spreads)",
+      "harga_penengah_rm": 7.8,
+      "harga_terendah_rm": 4.99,
+      "harga_tertinggi_rm": 14.29,
+      "bilangan_premis": 1262
+    },
+    {
+      "barang": "MAINLAND CHESDALE CHEDDAR CHEESE SPREAD 12 CHEDDAR",
+      "unit": "250 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Sapuan (Spreads)",
+      "harga_penengah_rm": 12.6,
+      "harga_terendah_rm": 9.99,
+      "harga_tertinggi_rm": 15.5,
+      "bilangan_premis": 713
+    },
+    {
+      "barang": "MARJERIN DAISY",
+      "unit": "480 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Sapuan (Spreads)",
+      "harga_penengah_rm": 9.5,
+      "harga_terendah_rm": 5,
+      "harga_tertinggi_rm": 15,
+      "bilangan_premis": 1087
+    },
+    {
+      "barang": "MARJERIN PLANTA",
+      "unit": "480 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Sapuan (Spreads)",
+      "harga_penengah_rm": 11.5,
+      "harga_terendah_rm": 7.5,
+      "harga_tertinggi_rm": 15.7,
+      "bilangan_premis": 1094
+    },
+    {
+      "barang": "MAYONIS SEBENAR LADY'S CHOICE",
+      "unit": "220ml",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Sapuan (Spreads)",
+      "harga_penengah_rm": 8.3,
+      "harga_terendah_rm": 1.8,
+      "harga_tertinggi_rm": 11.4,
+      "bilangan_premis": 671
+    },
+    {
+      "barang": "MENTEGA KACANG HALUS LADY'S CHOICE",
+      "unit": "340 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Sapuan (Spreads)",
+      "harga_penengah_rm": 14.95,
+      "harga_terendah_rm": 11.99,
+      "harga_tertinggi_rm": 19.5,
+      "bilangan_premis": 588
+    },
+    {
+      "barang": "MENTEGA KACANG HALUS LADY'S CHOICE",
+      "unit": "500 g",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Sapuan (Spreads)",
+      "harga_penengah_rm": 18.5,
+      "harga_terendah_rm": 9.9,
+      "harga_tertinggi_rm": 23.5,
+      "bilangan_premis": 618
+    },
+    {
+      "barang": "TEPUNG GANDUM CAP KUDA HIJAU",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Tepung",
+      "harga_penengah_rm": 3,
+      "harga_terendah_rm": 2.69,
+      "harga_tertinggi_rm": 4.2,
+      "bilangan_premis": 9
+    },
+    {
+      "barang": "TEPUNG GANDUM NGP (BERBUNGKUS, CAP  FAIZA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Tepung",
+      "harga_penengah_rm": 3.59,
+      "harga_terendah_rm": 2.95,
+      "harga_tertinggi_rm": 4.5,
+      "bilangan_premis": 759
+    },
+    {
+      "barang": "TEPUNG GANDUM NGP (BERBUNGKUS, CAP MUHIBAH)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Tepung",
+      "harga_penengah_rm": 3.2,
+      "harga_terendah_rm": 2.49,
+      "harga_tertinggi_rm": 4.5,
+      "bilangan_premis": 121
+    },
+    {
+      "barang": "TEPUNG GANDUM NGP (BERBUNGKUS, CAP SAUH)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Tepung",
+      "harga_penengah_rm": 3.2,
+      "harga_terendah_rm": 1.99,
+      "harga_tertinggi_rm": 4.5,
+      "bilangan_premis": 1681
+    },
+    {
+      "barang": "TEPUNG NAIK SENDIRI CAP 'BLUE KEY'",
+      "unit": "1kg",
+      "kumpulan": "Barangan Berbungkus",
+      "kategori": "Tepung",
+      "harga_penengah_rm": 5.1,
+      "harga_terendah_rm": 3.5,
+      "harga_tertinggi_rm": 14.69,
+      "bilangan_premis": 642
+    },
+    {
+      "barang": "BAWANG BESAR IMPORT (CHINA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Bawang",
+      "harga_penengah_rm": 2.99,
+      "harga_terendah_rm": 1.49,
+      "harga_tertinggi_rm": 10,
+      "bilangan_premis": 369
+    },
+    {
+      "barang": "BAWANG BESAR IMPORT (INDIA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Bawang",
+      "harga_penengah_rm": 3.9,
+      "harga_terendah_rm": 0.3,
+      "harga_tertinggi_rm": 10,
+      "bilangan_premis": 1573
+    },
+    {
+      "barang": "BAWANG BESAR IMPORT (PAKISTAN)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Bawang",
+      "harga_penengah_rm": 3.2,
+      "harga_terendah_rm": 0.35,
+      "harga_tertinggi_rm": 7,
+      "bilangan_premis": 72
+    },
+    {
+      "barang": "BAWANG BESAR KUNING/HOLLAND",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Bawang",
+      "harga_penengah_rm": 3.99,
+      "harga_terendah_rm": 1.19,
+      "harga_tertinggi_rm": 48.9,
+      "bilangan_premis": 1882
+    },
+    {
+      "barang": "BAWANG KECIL MERAH BIASA IMPORT (INDIA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Bawang",
+      "harga_penengah_rm": 4,
+      "harga_terendah_rm": 0.09,
+      "harga_tertinggi_rm": 12,
+      "bilangan_premis": 1017
+    },
+    {
+      "barang": "BAWANG KECIL MERAH IMPORT (CHINA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Bawang",
+      "harga_penengah_rm": 5.9,
+      "harga_terendah_rm": 1.69,
+      "harga_tertinggi_rm": 8.5,
+      "bilangan_premis": 40
+    },
+    {
+      "barang": "BAWANG KECIL MERAH IMPORT (MYANMAR)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Bawang",
+      "harga_penengah_rm": 6,
+      "harga_terendah_rm": 0.39,
+      "harga_tertinggi_rm": 9,
+      "bilangan_premis": 11
+    },
+    {
+      "barang": "BAWANG KECIL MERAH IMPORT (THAILAND)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Bawang",
+      "harga_penengah_rm": 12.9,
+      "harga_terendah_rm": 0.9,
+      "harga_tertinggi_rm": 26,
+      "bilangan_premis": 393
+    },
+    {
+      "barang": "BAWANG KECIL MERAH ROSE IMPORT (INDIA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Bawang",
+      "harga_penengah_rm": 5.99,
+      "harga_terendah_rm": 0.3,
+      "harga_tertinggi_rm": 22,
+      "bilangan_premis": 1229
+    },
+    {
+      "barang": "BAWANG PUTIH IMPORT (CHINA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Bawang",
+      "harga_penengah_rm": 8.9,
+      "harga_terendah_rm": 0.48,
+      "harga_tertinggi_rm": 95,
+      "bilangan_premis": 1861
+    },
+    {
+      "barang": "CILI KERING KERINTING (BERTANGKAI/TIDAK BERTANGKAI)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Cili Kering",
+      "harga_penengah_rm": 20.9,
+      "harga_terendah_rm": 2.8,
+      "harga_tertinggi_rm": 45,
+      "bilangan_premis": 1314
+    },
+    {
+      "barang": "CILI KERING LEPER (BERTANGKAI/TIDAK BERTANGKAI)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Cili Kering",
+      "harga_penengah_rm": 22,
+      "harga_terendah_rm": 10.8,
+      "harga_tertinggi_rm": 48,
+      "bilangan_premis": 585
+    },
+    {
+      "barang": "SOTONG KERING (SAIZ SERDAHANA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Hasil Laut Kering",
+      "harga_penengah_rm": 98,
+      "harga_terendah_rm": 45,
+      "harga_tertinggi_rm": 278.6,
+      "bilangan_premis": 96
+    },
+    {
+      "barang": "UDANG KERING",
+      "unit": "100 g",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Hasil Laut Kering",
+      "harga_penengah_rm": 7.9,
+      "harga_terendah_rm": 3.89,
+      "harga_tertinggi_rm": 19.5,
+      "bilangan_premis": 477
+    },
+    {
+      "barang": "KACANG DAL (AUSTRALIA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Kacang",
+      "harga_penengah_rm": 4.99,
+      "harga_terendah_rm": 2.6,
+      "harga_tertinggi_rm": 20,
+      "bilangan_premis": 1228
+    },
+    {
+      "barang": "KACANG DAL BIASA (INDIA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Kacang",
+      "harga_penengah_rm": 13.9,
+      "harga_terendah_rm": 13.9,
+      "harga_tertinggi_rm": 13.9,
+      "bilangan_premis": 2
+    },
+    {
+      "barang": "KACANG DAL MALAVI (INDIA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Kacang",
+      "harga_penengah_rm": 15.9,
+      "harga_terendah_rm": 7.9,
+      "harga_tertinggi_rm": 19,
+      "bilangan_premis": 6
+    },
+    {
+      "barang": "KACANG SOYA (IMPORT)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Kacang",
+      "harga_penengah_rm": 6.9,
+      "harga_terendah_rm": 0.9,
+      "harga_tertinggi_rm": 20,
+      "bilangan_premis": 496
+    },
+    {
+      "barang": "KACANG TANAH (IMPORT)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Kacang",
+      "harga_penengah_rm": 9,
+      "harga_terendah_rm": 5,
+      "harga_tertinggi_rm": 25,
+      "bilangan_premis": 1564
+    },
+    {
+      "barang": "UBI KENTANG HOLLAND",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Ubi Kentang",
+      "harga_penengah_rm": 4,
+      "harga_terendah_rm": 1.89,
+      "harga_tertinggi_rm": 8,
+      "bilangan_premis": 183
+    },
+    {
+      "barang": "UBI KENTANG IMPORT (CHINA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Ubi Kentang",
+      "harga_penengah_rm": 2.99,
+      "harga_terendah_rm": 0.29,
+      "harga_tertinggi_rm": 7.98,
+      "bilangan_premis": 1661
+    },
+    {
+      "barang": "UBI KENTANG IMPORT (PAKISTAN)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Kering",
+      "kategori": "Ubi Kentang",
+      "harga_penengah_rm": 2.99,
+      "harga_terendah_rm": 0.99,
+      "harga_tertinggi_rm": 8.5,
+      "bilangan_premis": 194
+    },
+    {
+      "barang": "AYAM BERSIH - STANDARD",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Ayam",
+      "harga_penengah_rm": 9.29,
+      "harga_terendah_rm": 0.7,
+      "harga_tertinggi_rm": 91.9,
+      "bilangan_premis": 1192
+    },
+    {
+      "barang": "AYAM BERSIH - SUPER",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Ayam",
+      "harga_penengah_rm": 11.9,
+      "harga_terendah_rm": 1.99,
+      "harga_tertinggi_rm": 16,
+      "bilangan_premis": 347
+    },
+    {
+      "barang": "DADA AYAM (CHICKEN KEEL)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Ayam",
+      "harga_penengah_rm": 13.89,
+      "harga_terendah_rm": 9.59,
+      "harga_tertinggi_rm": 1359,
+      "bilangan_premis": 681
+    },
+    {
+      "barang": "KEPAK AYAM (CHICKEN WING)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Ayam",
+      "harga_penengah_rm": 15.5,
+      "harga_terendah_rm": 5.99,
+      "harga_tertinggi_rm": 23.5,
+      "bilangan_premis": 1144
+    },
+    {
+      "barang": "PAHA AYAM (CHICKEN DRUMSTICK)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Ayam",
+      "harga_penengah_rm": 15.9,
+      "harga_terendah_rm": 10.5,
+      "harga_tertinggi_rm": 23.99,
+      "bilangan_premis": 810
+    },
+    {
+      "barang": "THIGH AYAM",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Ayam",
+      "harga_penengah_rm": 11.99,
+      "harga_terendah_rm": 7.59,
+      "harga_tertinggi_rm": 22.5,
+      "bilangan_premis": 549
+    },
+    {
+      "barang": "WHOLE LEG AYAM",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Ayam",
+      "harga_penengah_rm": 15.5,
+      "harga_terendah_rm": 9.7,
+      "harga_tertinggi_rm": 23.9,
+      "bilangan_premis": 1074
+    },
+    {
+      "barang": "IKAN BAWAL HITAM (ANTARA 2 HINGGA 5 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 26.9,
+      "harga_terendah_rm": 7.29,
+      "harga_tertinggi_rm": 55,
+      "bilangan_premis": 844
+    },
+    {
+      "barang": "IKAN BAWAL PUTIH (ANTARA 2 HINGGA 5 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 46.9,
+      "harga_terendah_rm": 8,
+      "harga_tertinggi_rm": 110.9,
+      "bilangan_premis": 259
+    },
+    {
+      "barang": "IKAN CENCARU (ANTARA 4 HINGGA 6 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 10,
+      "harga_terendah_rm": 2.99,
+      "harga_tertinggi_rm": 25,
+      "bilangan_premis": 1129
+    },
+    {
+      "barang": "IKAN DEMUDUK/CUPAK/CERMIN (≤ 3 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 29.99,
+      "harga_terendah_rm": 3.9,
+      "harga_tertinggi_rm": 49.9,
+      "bilangan_premis": 490
+    },
+    {
+      "barang": "IKAN JENAHAK (KEPINGAN)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 45.99,
+      "harga_terendah_rm": 19.99,
+      "harga_tertinggi_rm": 89.9,
+      "bilangan_premis": 490
+    },
+    {
+      "barang": "IKAN KEMBUNG (ANTARA 8 HINGGA 12 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 16,
+      "harga_terendah_rm": 1.69,
+      "harga_tertinggi_rm": 34,
+      "bilangan_premis": 926
+    },
+    {
+      "barang": "IKAN KEMBUNG KECIL/PELALING (ANTARA 10 HINGGA 18 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 14.99,
+      "harga_terendah_rm": 0.8,
+      "harga_tertinggi_rm": 51.9,
+      "bilangan_premis": 819
+    },
+    {
+      "barang": "IKAN KERISI (ANTARA 5 HINGGA 10 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 15.9,
+      "harga_terendah_rm": 1.19,
+      "harga_tertinggi_rm": 46.9,
+      "bilangan_premis": 1108
+    },
+    {
+      "barang": "IKAN MABUNG (ANTARA 6 HINGGA 10 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 18.99,
+      "harga_terendah_rm": 4.99,
+      "harga_tertinggi_rm": 39.9,
+      "bilangan_premis": 671
+    },
+    {
+      "barang": "IKAN MERAH (KEPINGAN)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 52.99,
+      "harga_terendah_rm": 18,
+      "harga_tertinggi_rm": 99.9,
+      "bilangan_premis": 486
+    },
+    {
+      "barang": "IKAN SELAR KUNING (≥ 11 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 12.99,
+      "harga_terendah_rm": 1,
+      "harga_tertinggi_rm": 33,
+      "bilangan_premis": 696
+    },
+    {
+      "barang": "IKAN SELAR/PELATA (≤ 7 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 18,
+      "harga_terendah_rm": 4,
+      "harga_tertinggi_rm": 99.99,
+      "bilangan_premis": 1125
+    },
+    {
+      "barang": "IKAN SELAYANG/SARDIN (ANTARA 8-12 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 11.99,
+      "harga_terendah_rm": 2.9,
+      "harga_tertinggi_rm": 28,
+      "bilangan_premis": 1195
+    },
+    {
+      "barang": "IKAN SIAKAP (ANTARA 2 HINGGA 4 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 19.99,
+      "harga_terendah_rm": 6.3,
+      "harga_tertinggi_rm": 39,
+      "bilangan_premis": 696
+    },
+    {
+      "barang": "IKAN TENGGIRI BATANG (KEPINGAN)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 47.99,
+      "harga_terendah_rm": 15,
+      "harga_tertinggi_rm": 89.9,
+      "bilangan_premis": 521
+    },
+    {
+      "barang": "IKAN TONGKOL/AYA/KAYU HITAM/PUTIH (ANTARA 1 HINGGA 2 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 12.9,
+      "harga_terendah_rm": 1.99,
+      "harga_tertinggi_rm": 30,
+      "bilangan_premis": 1193
+    },
+    {
+      "barang": "KEPALA IKAN JENAHAK",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 22.99,
+      "harga_terendah_rm": 12.9,
+      "harga_tertinggi_rm": 45.9,
+      "bilangan_premis": 275
+    },
+    {
+      "barang": "KEPALA IKAN MERAH",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 25.9,
+      "harga_terendah_rm": 10.99,
+      "harga_tertinggi_rm": 45.9,
+      "bilangan_premis": 244
+    },
+    {
+      "barang": "KETAM RENJONG/BUNGA (≤ 4 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 36.9,
+      "harga_terendah_rm": 3.6,
+      "harga_tertinggi_rm": 70,
+      "bilangan_premis": 797
+    },
+    {
+      "barang": "SOTONG (ANTARA 11 HINGGA17 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 36.9,
+      "harga_terendah_rm": 3,
+      "harga_tertinggi_rm": 69.9,
+      "bilangan_premis": 1082
+    },
+    {
+      "barang": "UDANG HARIMAU (ANTARA 20 HINGGA 30 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 39.8,
+      "harga_terendah_rm": 19.99,
+      "harga_tertinggi_rm": 89,
+      "bilangan_premis": 326
+    },
+    {
+      "barang": "UDANG PUTIH BESAR (ANTARA 20 HINGGA 30 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 58.95,
+      "harga_terendah_rm": 23,
+      "harga_tertinggi_rm": 109.9,
+      "bilangan_premis": 50
+    },
+    {
+      "barang": "UDANG PUTIH BESAR (BERAT ANTARA 41 EKOR HINGGA 60 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 44,
+      "harga_terendah_rm": 25,
+      "harga_tertinggi_rm": 75.9,
+      "bilangan_premis": 54
+    },
+    {
+      "barang": "UDANG PUTIH KECIL (b\t% 61 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 18.99,
+      "harga_terendah_rm": 1.95,
+      "harga_tertinggi_rm": 38.8,
+      "bilangan_premis": 234
+    },
+    {
+      "barang": "UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Bahan Laut",
+      "harga_penengah_rm": 33.99,
+      "harga_terendah_rm": 9.99,
+      "harga_tertinggi_rm": 3900,
+      "bilangan_premis": 1160
+    },
+    {
+      "barang": "ANGGUR HIJAU BERBIJI",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 16.99,
+      "harga_terendah_rm": 9.9,
+      "harga_tertinggi_rm": 27.9,
+      "bilangan_premis": 9
+    },
+    {
+      "barang": "ANGGUR MERAH BERBIJI",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 10.9,
+      "harga_terendah_rm": 5.99,
+      "harga_tertinggi_rm": 30.5,
+      "bilangan_premis": 386
+    },
+    {
+      "barang": "BETIK BIASA",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 6.99,
+      "harga_terendah_rm": 2.49,
+      "harga_tertinggi_rm": 10.9,
+      "bilangan_premis": 290
+    },
+    {
+      "barang": "DRAGON FRUIT MERAH",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 7.9,
+      "harga_terendah_rm": 3.49,
+      "harga_tertinggi_rm": 24,
+      "bilangan_premis": 272
+    },
+    {
+      "barang": "JAMBU BATU BERBIJI",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 7.59,
+      "harga_terendah_rm": 3.99,
+      "harga_tertinggi_rm": 12.9,
+      "bilangan_premis": 207
+    },
+    {
+      "barang": "JAMBU BATU TANPA BIJI",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 10.99,
+      "harga_terendah_rm": 4.99,
+      "harga_tertinggi_rm": 18,
+      "bilangan_premis": 172
+    },
+    {
+      "barang": "LAI KUNING (SAIZ M)",
+      "unit": "1 biji",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 1.9,
+      "harga_terendah_rm": 0.78,
+      "harga_tertinggi_rm": 3.99,
+      "bilangan_premis": 120
+    },
+    {
+      "barang": "LIMAU KASTURI",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 6.5,
+      "harga_terendah_rm": 0.9,
+      "harga_tertinggi_rm": 20,
+      "bilangan_premis": 1521
+    },
+    {
+      "barang": "LIMAU NIPIS",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 6.99,
+      "harga_terendah_rm": 0.59,
+      "harga_tertinggi_rm": 18,
+      "bilangan_premis": 1445
+    },
+    {
+      "barang": "NENAS BIASA (JOSAPINE/MORRIS/SARAWAK)",
+      "unit": "1 biji",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 4.29,
+      "harga_terendah_rm": 1.99,
+      "harga_tertinggi_rm": 8.9,
+      "bilangan_premis": 254
+    },
+    {
+      "barang": "PISANG BERANGAN",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 7.59,
+      "harga_terendah_rm": 4.5,
+      "harga_tertinggi_rm": 10.2,
+      "bilangan_premis": 237
+    },
+    {
+      "barang": "PISANG EMAS",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 7.9,
+      "harga_terendah_rm": 4.49,
+      "harga_tertinggi_rm": 10,
+      "bilangan_premis": 116
+    },
+    {
+      "barang": "TEMBIKAI MERAH BERBIJI",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 4.49,
+      "harga_terendah_rm": 1.59,
+      "harga_tertinggi_rm": 8.1,
+      "bilangan_premis": 195
+    },
+    {
+      "barang": "TEMBIKAI MERAH TANPA BIJI",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 2.99,
+      "harga_terendah_rm": 1.39,
+      "harga_tertinggi_rm": 8.9,
+      "bilangan_premis": 307
+    },
+    {
+      "barang": "TEMBIKAI SUSU",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Buah-Buahan",
+      "harga_penengah_rm": 5.99,
+      "harga_terendah_rm": 1.8,
+      "harga_tertinggi_rm": 11.99,
+      "bilangan_premis": 293
+    },
+    {
+      "barang": "DAGING BABI (DAGING & LEMAK / LEAN & FAT)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 32,
+      "harga_terendah_rm": 18,
+      "harga_tertinggi_rm": 58.9,
+      "bilangan_premis": 56
+    },
+    {
+      "barang": "DAGING BABI (PERUT / BELLY)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 40,
+      "harga_terendah_rm": 20.98,
+      "harga_tertinggi_rm": 85,
+      "bilangan_premis": 90
+    },
+    {
+      "barang": "DAGING KAMBING BEBIRI IMPORT BERTULANG (MUTTON) (AUSTRALIA - KOTAK)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 33.99,
+      "harga_terendah_rm": 23.99,
+      "harga_tertinggi_rm": 48.9,
+      "bilangan_premis": 220
+    },
+    {
+      "barang": "DAGING KAMBING BEBIRI IMPORT BERTULANG (MUTTON) (NEW ZEALAND - KOTAK)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 35,
+      "harga_terendah_rm": 15.49,
+      "harga_tertinggi_rm": 42,
+      "bilangan_premis": 22
+    },
+    {
+      "barang": "DAGING KAMBING BEBIRI IMPORT TANPA TULANG (MUTTON) (TIDAK TERMASUK PAHA - AUSTRALIA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 48,
+      "harga_terendah_rm": 38.9,
+      "harga_tertinggi_rm": 65.8,
+      "bilangan_premis": 24
+    },
+    {
+      "barang": "DAGING KAMBING BEBIRI IMPORT TANPA TULANG (MUTTON) (TIDAK TERMASUK PAHA - NEW ZEALAND)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 48,
+      "harga_terendah_rm": 40,
+      "harga_tertinggi_rm": 60,
+      "bilangan_premis": 7
+    },
+    {
+      "barang": "DAGING KAMBING TEMPATAN BERTULANG",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 60,
+      "harga_terendah_rm": 40,
+      "harga_tertinggi_rm": 70,
+      "bilangan_premis": 18
+    },
+    {
+      "barang": "DAGING KERBAU IMPORT (INDIA) (BLOCK)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 23.99,
+      "harga_terendah_rm": 19.89,
+      "harga_tertinggi_rm": 33.9,
+      "bilangan_premis": 314
+    },
+    {
+      "barang": "DAGING KERBAU IMPORT (INDIA) * (BLADE)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 24.2,
+      "harga_terendah_rm": 19.99,
+      "harga_tertinggi_rm": 31.99,
+      "bilangan_premis": 212
+    },
+    {
+      "barang": "DAGING KERBAU IMPORT (INDIA) * (CHUCK)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 25.99,
+      "harga_terendah_rm": 21.9,
+      "harga_tertinggi_rm": 34.99,
+      "bilangan_premis": 145
+    },
+    {
+      "barang": "DAGING KERBAU IMPORT (INDIA) * (RUMP)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 23.69,
+      "harga_terendah_rm": 20.49,
+      "harga_tertinggi_rm": 29,
+      "bilangan_premis": 77
+    },
+    {
+      "barang": "DAGING KERBAU IMPORT (INDIA) * (SILVERSIDE)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 23.99,
+      "harga_terendah_rm": 20,
+      "harga_tertinggi_rm": 33.19,
+      "bilangan_premis": 154
+    },
+    {
+      "barang": "DAGING KERBAU IMPORT (INDIA) * (TOP SIDE)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 25.9,
+      "harga_terendah_rm": 2.2,
+      "harga_tertinggi_rm": 32.79,
+      "bilangan_premis": 309
+    },
+    {
+      "barang": "DAGING LEMBU IMPORT (BLADE)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 49.9,
+      "harga_terendah_rm": 22,
+      "harga_tertinggi_rm": 94.9,
+      "bilangan_premis": 20
+    },
+    {
+      "barang": "DAGING LEMBU IMPORT (BLOCK)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 32.99,
+      "harga_terendah_rm": 22,
+      "harga_tertinggi_rm": 84.9,
+      "bilangan_premis": 43
+    },
+    {
+      "barang": "DAGING LEMBU IMPORT (CHUCKTENDER)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 48,
+      "harga_terendah_rm": 22,
+      "harga_tertinggi_rm": 80.9,
+      "bilangan_premis": 15
+    },
+    {
+      "barang": "DAGING LEMBU IMPORT (KNUCKLE)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 48.9,
+      "harga_terendah_rm": 22.9,
+      "harga_tertinggi_rm": 81.9,
+      "bilangan_premis": 24
+    },
+    {
+      "barang": "DAGING LEMBU IMPORT (TOPSIDE)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 54.9,
+      "harga_terendah_rm": 23.5,
+      "harga_tertinggi_rm": 86.9,
+      "bilangan_premis": 18
+    },
+    {
+      "barang": "DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 36,
+      "harga_terendah_rm": 25,
+      "harga_tertinggi_rm": 58.8,
+      "bilangan_premis": 104
+    },
+    {
+      "barang": "DAGING LEMBU TEMPATAN (BAHAGIAN 2 DAGING PEJAL (KECUALI BATANG PINANG - TENDERLOIN)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 36,
+      "harga_terendah_rm": 25,
+      "harga_tertinggi_rm": 62.9,
+      "bilangan_premis": 99
+    },
+    {
+      "barang": "DAGING PAHA KAMBING BEBIRI IMPORT BERTULANG  (MUTTON) (AUSTRALIA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 38,
+      "harga_terendah_rm": 29.99,
+      "harga_tertinggi_rm": 53.29,
+      "bilangan_premis": 60
+    },
+    {
+      "barang": "DAGING PAHA KAMBING BEBIRI IMPORT BERTULANG (MUTTON) (NEW ZEALAND)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Daging",
+      "harga_penengah_rm": 40,
+      "harga_terendah_rm": 35,
+      "harga_tertinggi_rm": 42,
+      "bilangan_premis": 11
+    },
+    {
+      "barang": "IKAN KELI (ANTARA 2 HINGGA 5 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Ikan Darat",
+      "harga_penengah_rm": 9.99,
+      "harga_terendah_rm": 0.99,
+      "harga_tertinggi_rm": 31.59,
+      "bilangan_premis": 830
+    },
+    {
+      "barang": "IKAN TILAPIA MERAH (ANTARA 2 HINGGA 5 EKOR SEKILOGRAM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Ikan Darat",
+      "harga_penengah_rm": 16,
+      "harga_terendah_rm": 1.5,
+      "harga_tertinggi_rm": 39.99,
+      "bilangan_premis": 852
+    },
+    {
+      "barang": "KELAPA BIJI",
+      "unit": "1 biji",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Kelapa",
+      "harga_penengah_rm": 3.5,
+      "harga_terendah_rm": 2,
+      "harga_tertinggi_rm": 5,
+      "bilangan_premis": 349
+    },
+    {
+      "barang": "KELAPA PARUT (BIASA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Kelapa",
+      "harga_penengah_rm": 12,
+      "harga_terendah_rm": 3,
+      "harga_tertinggi_rm": 22,
+      "bilangan_premis": 226
+    },
+    {
+      "barang": "SANTAN KELAPA SEGAR (BIASA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Kelapa",
+      "harga_penengah_rm": 10,
+      "harga_terendah_rm": 4.5,
+      "harga_tertinggi_rm": 75,
+      "bilangan_premis": 350
+    },
+    {
+      "barang": "SANTAN KELAPA SEGAR (PEKAT)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Kelapa",
+      "harga_penengah_rm": 15,
+      "harga_terendah_rm": 6.8,
+      "harga_tertinggi_rm": 28,
+      "bilangan_premis": 178
+    },
+    {
+      "barang": "MEE KUNING BASAH (PELBAGAI JENAMA)",
+      "unit": "+-450g",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Mee/Kuetiau",
+      "harga_penengah_rm": 1.8,
+      "harga_terendah_rm": 0.75,
+      "harga_tertinggi_rm": 7.8,
+      "bilangan_premis": 1361
+    },
+    {
+      "barang": "BAWANG PERAI (LEEK) IMPORT",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 10.49,
+      "harga_terendah_rm": 7.99,
+      "harga_tertinggi_rm": 13,
+      "bilangan_premis": 6
+    },
+    {
+      "barang": "BAWANG PERAI (LEEK) TEMPATAN",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 15.99,
+      "harga_terendah_rm": 15.99,
+      "harga_tertinggi_rm": 15.99,
+      "bilangan_premis": 1
+    },
+    {
+      "barang": "BAYAM HIJAU",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 4.99,
+      "harga_terendah_rm": 0.5,
+      "harga_tertinggi_rm": 19.95,
+      "bilangan_premis": 1167
+    },
+    {
+      "barang": "BROKOLI",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 11.9,
+      "harga_terendah_rm": 2.39,
+      "harga_tertinggi_rm": 23,
+      "bilangan_premis": 928
+    },
+    {
+      "barang": "CILI AKAR HIJAU",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 12,
+      "harga_terendah_rm": 4.99,
+      "harga_tertinggi_rm": 61.99,
+      "bilangan_premis": 1376
+    },
+    {
+      "barang": "CILI AKAR MERAH",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 14.59,
+      "harga_terendah_rm": 2.99,
+      "harga_tertinggi_rm": 61.3,
+      "bilangan_premis": 1238
+    },
+    {
+      "barang": "CILI API/PADI HIJAU",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 26.99,
+      "harga_terendah_rm": 11.99,
+      "harga_tertinggi_rm": 57.1,
+      "bilangan_premis": 384
+    },
+    {
+      "barang": "CILI HIJAU",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 13.49,
+      "harga_terendah_rm": 2.79,
+      "harga_tertinggi_rm": 42.36,
+      "bilangan_premis": 1287
+    },
+    {
+      "barang": "CILI MERAH - KULAI",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 16.99,
+      "harga_terendah_rm": 5.9,
+      "harga_tertinggi_rm": 39,
+      "bilangan_premis": 717
+    },
+    {
+      "barang": "CILI MERAH - MINYAK",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 14,
+      "harga_terendah_rm": 0.02,
+      "harga_tertinggi_rm": 40,
+      "bilangan_premis": 1160
+    },
+    {
+      "barang": "HALIA BASAH (TUA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 7.99,
+      "harga_terendah_rm": 1.99,
+      "harga_tertinggi_rm": 70,
+      "bilangan_premis": 1853
+    },
+    {
+      "barang": "KACANG BENDI",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 8,
+      "harga_terendah_rm": 2.49,
+      "harga_tertinggi_rm": 29.99,
+      "bilangan_premis": 1563
+    },
+    {
+      "barang": "KACANG BUNCIS",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 9.99,
+      "harga_terendah_rm": 0.09,
+      "harga_tertinggi_rm": 31.5,
+      "bilangan_premis": 1442
+    },
+    {
+      "barang": "KACANG PANJANG",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 7.99,
+      "harga_terendah_rm": 0.78,
+      "harga_tertinggi_rm": 18.99,
+      "bilangan_premis": 1508
+    },
+    {
+      "barang": "KAILAN",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 7,
+      "harga_terendah_rm": 0.5,
+      "harga_tertinggi_rm": 27.6,
+      "bilangan_premis": 1027
+    },
+    {
+      "barang": "KANGKUNG",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 4.99,
+      "harga_terendah_rm": 0.49,
+      "harga_tertinggi_rm": 19.95,
+      "bilangan_premis": 1255
+    },
+    {
+      "barang": "KUBIS BULAT (TEMPATAN)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 4.4,
+      "harga_terendah_rm": 0.09,
+      "harga_tertinggi_rm": 10,
+      "bilangan_premis": 736
+    },
+    {
+      "barang": "KUBIS BULAT IMPORT (BEIJING)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 4.49,
+      "harga_terendah_rm": 0.8,
+      "harga_tertinggi_rm": 12,
+      "bilangan_premis": 1327
+    },
+    {
+      "barang": "KUBIS BULAT IMPORT (CHINA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 2.8,
+      "harga_terendah_rm": 0.29,
+      "harga_tertinggi_rm": 9.9,
+      "bilangan_premis": 1246
+    },
+    {
+      "barang": "KUBIS BULAT IMPORT (INDONESIA)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 4,
+      "harga_terendah_rm": 3,
+      "harga_tertinggi_rm": 5,
+      "bilangan_premis": 10
+    },
+    {
+      "barang": "KUBIS BUNGA (CAULIFLOWER)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 7.99,
+      "harga_terendah_rm": 0.9,
+      "harga_tertinggi_rm": 20,
+      "bilangan_premis": 1622
+    },
+    {
+      "barang": "KUBIS PANJANG (TEMPATAN)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 5.95,
+      "harga_terendah_rm": 2.9,
+      "harga_tertinggi_rm": 10,
+      "bilangan_premis": 3
+    },
+    {
+      "barang": "KUBIS PANJANG CHINA - BESAR",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 3.99,
+      "harga_terendah_rm": 2.89,
+      "harga_tertinggi_rm": 7,
+      "bilangan_premis": 15
+    },
+    {
+      "barang": "KUNYIT HIDUP",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 9.5,
+      "harga_terendah_rm": 1,
+      "harga_tertinggi_rm": 28.75,
+      "bilangan_premis": 1479
+    },
+    {
+      "barang": "LADA BENGGALA HIJAU (CAPSICUM)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 12,
+      "harga_terendah_rm": 2.49,
+      "harga_tertinggi_rm": 34.5,
+      "bilangan_premis": 1193
+    },
+    {
+      "barang": "LENGKUAS",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 9.99,
+      "harga_terendah_rm": 1.99,
+      "harga_tertinggi_rm": 22.9,
+      "bilangan_premis": 1479
+    },
+    {
+      "barang": "LOBAK MERAH",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 3.9,
+      "harga_terendah_rm": 0.01,
+      "harga_tertinggi_rm": 45,
+      "bilangan_premis": 1643
+    },
+    {
+      "barang": "LOBAK PUTIH (1KG)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 4.9,
+      "harga_terendah_rm": 0.03,
+      "harga_tertinggi_rm": 15,
+      "bilangan_premis": 1370
+    },
+    {
+      "barang": "SAWI HIJAU",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 5,
+      "harga_terendah_rm": 0.49,
+      "harga_tertinggi_rm": 79.99,
+      "bilangan_premis": 1451
+    },
+    {
+      "barang": "SAWI PENDEK/JEPUN/SIOW PAK CHOY (1KG)",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 6,
+      "harga_terendah_rm": 0.9,
+      "harga_tertinggi_rm": 23.45,
+      "bilangan_premis": 1398
+    },
+    {
+      "barang": "TERUNG BULAT",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 9,
+      "harga_terendah_rm": 2.99,
+      "harga_tertinggi_rm": 19.99,
+      "bilangan_premis": 867
+    },
+    {
+      "barang": "TIMUN",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 3.5,
+      "harga_terendah_rm": 0.8,
+      "harga_tertinggi_rm": 10.9,
+      "bilangan_premis": 1629
+    },
+    {
+      "barang": "TOMATO",
+      "unit": "1kg",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Sayur-Sayuran",
+      "harga_penengah_rm": 8,
+      "harga_terendah_rm": 0.8,
+      "harga_tertinggi_rm": 699,
+      "bilangan_premis": 1627
+    },
+    {
+      "barang": "TELUR AYAM GRED A",
+      "unit": "30 biji",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Telur",
+      "harga_penengah_rm": 15.49,
+      "harga_terendah_rm": 1.5,
+      "harga_tertinggi_rm": 21,
+      "bilangan_premis": 1187
+    },
+    {
+      "barang": "TELUR AYAM GRED A (BERAT 65.0 GM HINGGA 69.9 GM SEBIJI)",
+      "unit": "10 biji",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Telur",
+      "harga_penengah_rm": 5.5,
+      "harga_terendah_rm": 5.25,
+      "harga_tertinggi_rm": 5.5,
+      "bilangan_premis": 2
+    },
+    {
+      "barang": "TELUR AYAM GRED B",
+      "unit": "30 biji",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Telur",
+      "harga_penengah_rm": 15,
+      "harga_terendah_rm": 0.5,
+      "harga_tertinggi_rm": 21,
+      "bilangan_premis": 1388
+    },
+    {
+      "barang": "TELUR AYAM GRED B (BERAT 60.0 GM HINGGA 64.9 GM)",
+      "unit": "10 biji",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Telur",
+      "harga_penengah_rm": 5.1,
+      "harga_terendah_rm": 5,
+      "harga_tertinggi_rm": 5.4,
+      "bilangan_premis": 2
+    },
+    {
+      "barang": "TELUR AYAM GRED C",
+      "unit": "30 biji",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Telur",
+      "harga_penengah_rm": 14.5,
+      "harga_terendah_rm": 8,
+      "harga_tertinggi_rm": 1450,
+      "bilangan_premis": 1294
+    },
+    {
+      "barang": "TELUR AYAM GRED C (BERAT 55.0 GM HINGGA 59.9 GM SEBIJI)",
+      "unit": "10 biji",
+      "kumpulan": "Barangan Segar",
+      "kategori": "Telur",
+      "harga_penengah_rm": 5.1,
+      "harga_terendah_rm": 5,
+      "harga_tertinggi_rm": 5.2,
+      "bilangan_premis": 1
+    },
+    {
+      "barang": "INDOCAFE (ORIGINAL BLEND) (PAKET)",
+      "unit": "200 g",
+      "kumpulan": "Minuman",
+      "kategori": "Bahan-Bahan Minuman",
+      "harga_penengah_rm": 19.5,
+      "harga_terendah_rm": 14.9,
+      "harga_tertinggi_rm": 26.5,
+      "bilangan_premis": 1041
+    },
+    {
+      "barang": "KORDIAL F&N (PELBAGAI PERISA)",
+      "unit": "2 liter",
+      "kumpulan": "Minuman",
+      "kategori": "Bahan-Bahan Minuman",
+      "harga_penengah_rm": 12,
+      "harga_terendah_rm": 7.99,
+      "harga_tertinggi_rm": 15.9,
+      "bilangan_premis": 1085
+    },
+    {
+      "barang": "KORDIAL F&N SUN VALLEY (PELBAGAI PERISA)",
+      "unit": "2 liter",
+      "kumpulan": "Minuman",
+      "kategori": "Bahan-Bahan Minuman",
+      "harga_penengah_rm": 12.8,
+      "harga_terendah_rm": 8.2,
+      "harga_tertinggi_rm": 16,
+      "bilangan_premis": 258
+    },
+    {
+      "barang": "KORDIAL SUNQUICK (OREN)",
+      "unit": "700ml",
+      "kumpulan": "Minuman",
+      "kategori": "Bahan-Bahan Minuman",
+      "harga_penengah_rm": 13.9,
+      "harga_terendah_rm": 7.4,
+      "harga_tertinggi_rm": 18.7,
+      "bilangan_premis": 1579
+    },
+    {
+      "barang": "MILO (PAKET)",
+      "unit": "900 g",
+      "kumpulan": "Minuman",
+      "kategori": "Bahan-Bahan Minuman",
+      "harga_penengah_rm": 20.5,
+      "harga_terendah_rm": 13.9,
+      "harga_tertinggi_rm": 27.9,
+      "bilangan_premis": 1595
+    },
+    {
+      "barang": "NESCAFE 3 IN 1 ORIGINAL (AROMATIC & BALANCED)",
+      "unit": "25 x 18g",
+      "kumpulan": "Minuman",
+      "kategori": "Bahan-Bahan Minuman",
+      "harga_penengah_rm": 14.49,
+      "harga_terendah_rm": 10.99,
+      "harga_tertinggi_rm": 19.9,
+      "bilangan_premis": 811
+    },
+    {
+      "barang": "NESCAFE CLASSIC (PAKET)",
+      "unit": "200 g",
+      "kumpulan": "Minuman",
+      "kategori": "Bahan-Bahan Minuman",
+      "harga_penengah_rm": 23.99,
+      "harga_terendah_rm": 14.2,
+      "harga_tertinggi_rm": 33.5,
+      "bilangan_premis": 1198
+    },
+    {
+      "barang": "NESTLE COFFEE-MATE",
+      "unit": "450 g",
+      "kumpulan": "Minuman",
+      "kategori": "Bahan-Bahan Minuman",
+      "harga_penengah_rm": 9.9,
+      "harga_terendah_rm": 4.2,
+      "harga_tertinggi_rm": 11.9,
+      "bilangan_premis": 646
+    },
+    {
+      "barang": "QUAKER OATS INSTANT OATMEALS",
+      "unit": "1kg",
+      "kumpulan": "Minuman",
+      "kategori": "Bahan-Bahan Minuman",
+      "harga_penengah_rm": 10.69,
+      "harga_terendah_rm": 10.65,
+      "harga_tertinggi_rm": 15.8,
+      "bilangan_premis": 80
+    },
+    {
+      "barang": "TEH BOH (UNCANG)",
+      "unit": "100 beg",
+      "kumpulan": "Minuman",
+      "kategori": "Bahan-Bahan Minuman",
+      "harga_penengah_rm": 14.3,
+      "harga_terendah_rm": 10.9,
+      "harga_tertinggi_rm": 1430,
+      "bilangan_premis": 1006
+    },
+    {
+      "barang": "TEH LIPTON (UNCANG)",
+      "unit": "100 beg",
+      "kumpulan": "Minuman",
+      "kategori": "Bahan-Bahan Minuman",
+      "harga_penengah_rm": 16.5,
+      "harga_terendah_rm": 6.9,
+      "harga_tertinggi_rm": 22.4,
+      "bilangan_premis": 1007
+    },
+    {
+      "barang": "100 PLUS (ORIGINAL)",
+      "unit": "1.5 liter",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 3.75,
+      "harga_terendah_rm": 2.49,
+      "harga_tertinggi_rm": 30.9,
+      "bilangan_premis": 724
+    },
+    {
+      "barang": "COCA COLA (BOTOL)",
+      "unit": "1.5 liter",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 3.9,
+      "harga_terendah_rm": 0.99,
+      "harga_tertinggi_rm": 5,
+      "bilangan_premis": 590
+    },
+    {
+      "barang": "COCA COLA (TIN)",
+      "unit": "320 ml",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 1.98,
+      "harga_terendah_rm": 1,
+      "harga_tertinggi_rm": 19.99,
+      "bilangan_premis": 634
+    },
+    {
+      "barang": "DESA FRESH MILK (KOTAK)",
+      "unit": "1 liter",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 7.42,
+      "harga_terendah_rm": 7,
+      "harga_tertinggi_rm": 8.9,
+      "bilangan_premis": 24
+    },
+    {
+      "barang": "DRINHO SOYA (KOTAK)",
+      "unit": "250 ml",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 1.1,
+      "harga_terendah_rm": 0.9,
+      "harga_tertinggi_rm": 1.59,
+      "bilangan_premis": 29
+    },
+    {
+      "barang": "F&N OREN (BOTOL)",
+      "unit": "1.5 liter",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 3.49,
+      "harga_terendah_rm": 1.49,
+      "harga_tertinggi_rm": 4.5,
+      "bilangan_premis": 595
+    },
+    {
+      "barang": "F&N OREN (TIN)",
+      "unit": "325 ml",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 1.7,
+      "harga_terendah_rm": 1.3,
+      "harga_tertinggi_rm": 2.5,
+      "bilangan_premis": 510
+    },
+    {
+      "barang": "JUS OREN PEEL FRESH (MARIGOLD)",
+      "unit": "1 liter",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 6.8,
+      "harga_terendah_rm": 5.6,
+      "harga_tertinggi_rm": 8.9,
+      "bilangan_premis": 698
+    },
+    {
+      "barang": "LIVITA WITH HONEY (BOTOL)",
+      "unit": "150 ml",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 2.2,
+      "harga_terendah_rm": 1.75,
+      "harga_tertinggi_rm": 4.29,
+      "bilangan_premis": 212
+    },
+    {
+      "barang": "MIRINDA OREN (BOTOL)",
+      "unit": "1.5 liter",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 2.7,
+      "harga_terendah_rm": 1.49,
+      "harga_tertinggi_rm": 4.99,
+      "bilangan_premis": 642
+    },
+    {
+      "barang": "PEPSI COLA (TIN)",
+      "unit": "320 ml",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 1.8,
+      "harga_terendah_rm": 0.5,
+      "harga_tertinggi_rm": 2.99,
+      "bilangan_premis": 568
+    },
+    {
+      "barang": "RED BULL (BOTOL)",
+      "unit": "150 ml",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 2.5,
+      "harga_terendah_rm": 1.95,
+      "harga_tertinggi_rm": 4.1,
+      "bilangan_premis": 466
+    },
+    {
+      "barang": "SEVEN UP LEMON & LIME (TIN)",
+      "unit": "320ml",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 1.8,
+      "harga_terendah_rm": 0.89,
+      "harga_tertinggi_rm": 2.5,
+      "bilangan_premis": 556
+    },
+    {
+      "barang": "SUSU MARIGOLD HL",
+      "unit": "946ML",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 8.4,
+      "harga_terendah_rm": 5.5,
+      "harga_tertinggi_rm": 10.5,
+      "bilangan_premis": 832
+    },
+    {
+      "barang": "SUSU SEGAR DUTCH LADY",
+      "unit": "1 liter",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 8.49,
+      "harga_terendah_rm": 0.8,
+      "harga_tertinggi_rm": 10.3,
+      "bilangan_premis": 558
+    },
+    {
+      "barang": "SUSU SEGAR KURMA FARM FRESH",
+      "unit": "700 g",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 9.35,
+      "harga_terendah_rm": 6.99,
+      "harga_tertinggi_rm": 12.9,
+      "bilangan_premis": 444
+    },
+    {
+      "barang": "YEO'S LAICI (KOTAK)",
+      "unit": "250 ml",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 1.2,
+      "harga_terendah_rm": 0.1,
+      "harga_tertinggi_rm": 1.5,
+      "bilangan_premis": 40
+    },
+    {
+      "barang": "YEO'S SOYA (KOTAK)",
+      "unit": "250 ml",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 1.2,
+      "harga_terendah_rm": 0.95,
+      "harga_tertinggi_rm": 1.5,
+      "bilangan_premis": 50
+    },
+    {
+      "barang": "YOGURT LACTEL (FAT FREE) (STRAWBERRY)",
+      "unit": "130g",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 2.8,
+      "harga_terendah_rm": 2.25,
+      "harga_tertinggi_rm": 3.99,
+      "bilangan_premis": 587
+    },
+    {
+      "barang": "YOGURT MARIGOLD (LOW FAT) (STRAWBERRY)",
+      "unit": "130g",
+      "kumpulan": "Minuman",
+      "kategori": "Tersedia Minum",
+      "harga_penengah_rm": 2.9,
+      "harga_terendah_rm": 2.4,
+      "harga_tertinggi_rm": 6.5,
+      "bilangan_premis": 579
+    },
+    {
+      "barang": "BERUS GIGI COLGATE (TWISTER - SOFT)",
+      "unit": "1 batang",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 4.9,
+      "harga_terendah_rm": 2.5,
+      "harga_tertinggi_rm": 7.95,
+      "bilangan_premis": 475
+    },
+    {
+      "barang": "BERUS GIGI COLGATE (ZIG ZAG - SOFT)",
+      "unit": "1 batang",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 4.45,
+      "harga_terendah_rm": 2.5,
+      "harga_tertinggi_rm": 5.6,
+      "bilangan_premis": 514
+    },
+    {
+      "barang": "BERUS GIGI ORAL B (COMPLETE EASY CLEAN - SOFT)",
+      "unit": "1 batang",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 5.1,
+      "harga_terendah_rm": 2.5,
+      "harga_tertinggi_rm": 5.99,
+      "bilangan_premis": 213
+    },
+    {
+      "barang": "DEODORAN NIVEA (EXTRA BRIGHTENING)",
+      "unit": "150 ml",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 21.3,
+      "harga_terendah_rm": 6.99,
+      "harga_tertinggi_rm": 26.2,
+      "bilangan_premis": 460
+    },
+    {
+      "barang": "DEODORAN NIVEA MAN (BLACK & WHITE INVISIBLE - ORIGINAL)",
+      "unit": "150 ml",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 19.3,
+      "harga_terendah_rm": 10.99,
+      "harga_tertinggi_rm": 222.4,
+      "bilangan_premis": 421
+    },
+    {
+      "barang": "DEODORAN REXONA (POWDER DRY BRIGHTENING)",
+      "unit": "50 ml",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 10.9,
+      "harga_terendah_rm": 4.9,
+      "harga_tertinggi_rm": 16.19,
+      "bilangan_premis": 245
+    },
+    {
+      "barang": "DEODORAN REXONA MEN (SPORT DEFENSE)",
+      "unit": "50 ml",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 10.99,
+      "harga_terendah_rm": 4.9,
+      "harga_tertinggi_rm": 13.99,
+      "bilangan_premis": 452
+    },
+    {
+      "barang": "SABUN MANDIAN DETTOL (PELBAGAI JENIS)",
+      "unit": "950g",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 19.4,
+      "harga_terendah_rm": 11.99,
+      "harga_tertinggi_rm": 1750,
+      "bilangan_premis": 1178
+    },
+    {
+      "barang": "SABUN MANDIAN LIFEBUOY (PELBAGAI JENIS)",
+      "unit": "920 ML",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 19.5,
+      "harga_terendah_rm": 11.9,
+      "harga_tertinggi_rm": 25.8,
+      "bilangan_premis": 1335
+    },
+    {
+      "barang": "SYAMPU HEAD & SHOULDERS (SMOOTH & SILKY)",
+      "unit": "330 ml",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 15.9,
+      "harga_terendah_rm": 10.9,
+      "harga_tertinggi_rm": 22,
+      "bilangan_premis": 619
+    },
+    {
+      "barang": "SYAMPU REJOICE (PELBAGAI JENIS)",
+      "unit": "600 ml",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 17.9,
+      "harga_terendah_rm": 12.99,
+      "harga_tertinggi_rm": 28.3,
+      "bilangan_premis": 868
+    },
+    {
+      "barang": "SYAMPU SUNSILK (PELBAGAI JENIS)",
+      "unit": "625ml",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 18.49,
+      "harga_terendah_rm": 12.5,
+      "harga_tertinggi_rm": 27.9,
+      "bilangan_premis": 987
+    },
+    {
+      "barang": "UBAT GIGI COLGATE (PUDINA SEGAR)",
+      "unit": "250 g",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 14.3,
+      "harga_terendah_rm": 9.69,
+      "harga_tertinggi_rm": 16.9,
+      "bilangan_premis": 672
+    },
+    {
+      "barang": "UBAT GIGI DARLIE DOUBLE ACTION (PUDINA ASLI)",
+      "unit": "250 g",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 14.6,
+      "harga_terendah_rm": 9,
+      "harga_tertinggi_rm": 16.6,
+      "bilangan_premis": 681
+    },
+    {
+      "barang": "UBAT GIGI FRESH & WHITE (PUDINA SEGAR)",
+      "unit": "160 g",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Diri",
+      "harga_penengah_rm": 6.5,
+      "harga_terendah_rm": 5.3,
+      "harga_tertinggi_rm": 9.9,
+      "bilangan_premis": 497
+    },
+    {
+      "barang": "PELEMBUT PAKAIAN - DOWNY (PREMIUM PARFUM PASSION)",
+      "unit": "800ml",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Rumah",
+      "harga_penengah_rm": 13.2,
+      "harga_terendah_rm": 8.9,
+      "harga_tertinggi_rm": 17.5,
+      "bilangan_premis": 487
+    },
+    {
+      "barang": "PELUNTUR CLOROX (ORIGINAL)",
+      "unit": "1 liter",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Rumah",
+      "harga_penengah_rm": 5.1,
+      "harga_terendah_rm": 3.99,
+      "harga_tertinggi_rm": 6.9,
+      "bilangan_premis": 605
+    },
+    {
+      "barang": "PENCUCI PELBAGAI GUNA AJAX FABULOSO (LAVENDER)",
+      "unit": "2 liter",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Rumah",
+      "harga_penengah_rm": 14.9,
+      "harga_terendah_rm": 5.9,
+      "harga_tertinggi_rm": 18,
+      "bilangan_premis": 709
+    },
+    {
+      "barang": "PENCUCI PELBAGAI GUNA DETTOL (LAVENDER)",
+      "unit": "2.5 liter",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Rumah",
+      "harga_penengah_rm": 24.6,
+      "harga_terendah_rm": 5.5,
+      "harga_tertinggi_rm": 28.35,
+      "bilangan_premis": 147
+    },
+    {
+      "barang": "PENCUCI PELBAGAI GUNA MR MUSCLE (LAVENDER)",
+      "unit": "2 liter",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Rumah",
+      "harga_penengah_rm": 13.95,
+      "harga_terendah_rm": 9.9,
+      "harga_tertinggi_rm": 17.99,
+      "bilangan_premis": 623
+    },
+    {
+      "barang": "SABUN DAIA EXCELLENT WASHING POWER (PELBAGAI JENIS)",
+      "unit": "2.1kg",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Rumah",
+      "harga_penengah_rm": 14.8,
+      "harga_terendah_rm": 1.75,
+      "harga_tertinggi_rm": 23.5,
+      "bilangan_premis": 1270
+    },
+    {
+      "barang": "SABUN DETERGEN TOP (PELBAGAI JENIS)",
+      "unit": "3.6 KG",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Rumah",
+      "harga_penengah_rm": 21.9,
+      "harga_terendah_rm": 2.4,
+      "harga_tertinggi_rm": 36.5,
+      "bilangan_premis": 1316
+    },
+    {
+      "barang": "SABUN PENCUCI AXION PASTE (PELBAGAI JENIS)",
+      "unit": "325 g",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Rumah",
+      "harga_penengah_rm": 4,
+      "harga_terendah_rm": 3,
+      "harga_tertinggi_rm": 5.99,
+      "bilangan_premis": 1396
+    },
+    {
+      "barang": "SABUN PENCUCI KUAT HARIMAU (LEMON)",
+      "unit": "400 g",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Rumah",
+      "harga_penengah_rm": 2.69,
+      "harga_terendah_rm": 2.29,
+      "harga_tertinggi_rm": 5.39,
+      "bilangan_premis": 471
+    },
+    {
+      "barang": "SABUN PENCUCI SUNLIGHT (PELBAGAI JENIS)",
+      "unit": "800ml",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Rumah",
+      "harga_penengah_rm": 6.7,
+      "harga_terendah_rm": 4.5,
+      "harga_tertinggi_rm": 9.9,
+      "bilangan_premis": 1677
+    },
+    {
+      "barang": "SABUN SERBUK ATTACK (AROMA FRESH + COLOUR)",
+      "unit": "800 g",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Rumah",
+      "harga_penengah_rm": 10.9,
+      "harga_terendah_rm": 9,
+      "harga_tertinggi_rm": 12.9,
+      "bilangan_premis": 321
+    },
+    {
+      "barang": "SABUN SERBUK BREEZE (PELBAGAI JENIS)",
+      "unit": "2.1kg",
+      "kumpulan": "Produk Kebersihan",
+      "kategori": "Penjagaan Rumah",
+      "harga_penengah_rm": 15.5,
+      "harga_terendah_rm": 11.99,
+      "harga_tertinggi_rm": 22.9,
+      "bilangan_premis": 1037
+    },
+    {
+      "barang": "DRYPERS DRYPANTZ",
+      "unit": "M58, L48, XL42",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Lampin Pakai Buang",
+      "harga_penengah_rm": 29.99,
+      "harga_terendah_rm": 18.9,
+      "harga_tertinggi_rm": 49.55,
+      "bilangan_premis": 1257
+    },
+    {
+      "barang": "DRYPERS WEE WEE DRY",
+      "unit": "S80, M60, L58, XL50",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Lampin Pakai Buang",
+      "harga_penengah_rm": 30.99,
+      "harga_terendah_rm": 21.9,
+      "harga_tertinggi_rm": 61.9,
+      "bilangan_premis": 1206
+    },
+    {
+      "barang": "HUGGIES DRY PANTS",
+      "unit": "S66, M50, L40, XL32",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Lampin Pakai Buang",
+      "harga_penengah_rm": 28.9,
+      "harga_terendah_rm": 22.9,
+      "harga_tertinggi_rm": 49.8,
+      "bilangan_premis": 1221
+    },
+    {
+      "barang": "HUGGIES DRY TAPE",
+      "unit": "S80, M60, L54, XL42",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Lampin Pakai Buang",
+      "harga_penengah_rm": 29.9,
+      "harga_terendah_rm": 19.9,
+      "harga_tertinggi_rm": 48.6,
+      "bilangan_premis": 766
+    },
+    {
+      "barang": "PETPET GOLD+",
+      "unit": "M64, L54, XL42",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Lampin Pakai Buang",
+      "harga_penengah_rm": 29.99,
+      "harga_terendah_rm": 20.9,
+      "harga_tertinggi_rm": 39.9,
+      "bilangan_premis": 422
+    },
+    {
+      "barang": "PETPET PANTS GOLD+",
+      "unit": "M56, L46, XL38",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Lampin Pakai Buang",
+      "harga_penengah_rm": 28.9,
+      "harga_terendah_rm": 23.9,
+      "harga_tertinggi_rm": 35.5,
+      "bilangan_premis": 390
+    },
+    {
+      "barang": "HEINZ APPLE PUREE",
+      "unit": "110 g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Makanan Bayi",
+      "harga_penengah_rm": 7.7,
+      "harga_terendah_rm": 3.9,
+      "harga_tertinggi_rm": 8.69,
+      "bilangan_premis": 171
+    },
+    {
+      "barang": "HEINZ FARLEY RUSKS (PELBAGAI PERISA)",
+      "unit": "120 g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Makanan Bayi",
+      "harga_penengah_rm": 9,
+      "harga_terendah_rm": 5.47,
+      "harga_tertinggi_rm": 32.5,
+      "bilangan_premis": 245
+    },
+    {
+      "barang": "MILNA BISKUT RUSK (PELBAGAI PERISA)",
+      "unit": "130g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Makanan Bayi",
+      "harga_penengah_rm": 7.6,
+      "harga_terendah_rm": 5.79,
+      "harga_tertinggi_rm": 9.9,
+      "bilangan_premis": 698
+    },
+    {
+      "barang": "NESTLE CERELAC BERAS - TIN",
+      "unit": "500 g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Makanan Bayi",
+      "harga_penengah_rm": 17.4,
+      "harga_terendah_rm": 8.95,
+      "harga_tertinggi_rm": 19.99,
+      "bilangan_premis": 1228
+    },
+    {
+      "barang": "NESTLE CERELAC GANDUM DAN MADU - KOTAK",
+      "unit": "225g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Makanan Bayi",
+      "harga_penengah_rm": 9.9,
+      "harga_terendah_rm": 0.99,
+      "harga_tertinggi_rm": 15.6,
+      "bilangan_premis": 1273
+    },
+    {
+      "barang": "ANMUM ESSENTIAL LANGKAH 4 PERISA ASLI (TANPA GULA TAMBAHAN) - KOTAK",
+      "unit": "550 g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 37.5,
+      "harga_terendah_rm": 28.9,
+      "harga_tertinggi_rm": 69.9,
+      "bilangan_premis": 425
+    },
+    {
+      "barang": "DUMEX DUGRO 3 (1-3 TAHUN) (PELBAGAI PERISA)",
+      "unit": "850g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 25.9,
+      "harga_terendah_rm": 20.99,
+      "harga_tertinggi_rm": 2539,
+      "bilangan_premis": 1327
+    },
+    {
+      "barang": "DUMEX DUPRO 2 (RUMUSAN SUSULAN)",
+      "unit": "850g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 29.5,
+      "harga_terendah_rm": 14.5,
+      "harga_tertinggi_rm": 34.25,
+      "bilangan_premis": 1239
+    },
+    {
+      "barang": "DUTCH LADY 123 (PELBAGAI PERISA)",
+      "unit": "850g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 24.6,
+      "harga_terendah_rm": 17.39,
+      "harga_tertinggi_rm": 35.4,
+      "bilangan_premis": 1492
+    },
+    {
+      "barang": "DUTCH LADY 456 (PELBAGAI PERISA)",
+      "unit": "850g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 24.54,
+      "harga_terendah_rm": 2.9,
+      "harga_tertinggi_rm": 35.4,
+      "bilangan_premis": 1476
+    },
+    {
+      "barang": "ENFAGROW A+ MIND PRO LANGKAH 3 (PELBAGAI PERISA) (KOTAK)",
+      "unit": "500 g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 57.49,
+      "harga_terendah_rm": 38.99,
+      "harga_tertinggi_rm": 60.2,
+      "bilangan_premis": 668
+    },
+    {
+      "barang": "FERNLEAF 1-3 TAHUN (PELBAGAI PERISA)",
+      "unit": "850g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 23.9,
+      "harga_terendah_rm": 18.99,
+      "harga_tertinggi_rm": 28.5,
+      "bilangan_premis": 1248
+    },
+    {
+      "barang": "FERNLEAF 4-6 TAHUN (PELBAGAI PERISA)",
+      "unit": "850g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 23.9,
+      "harga_terendah_rm": 18.99,
+      "harga_tertinggi_rm": 28.5,
+      "bilangan_premis": 1237
+    },
+    {
+      "barang": "LACTOGEN 1 RUMUSAN BAYI (KOTAK)",
+      "unit": "650g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 28.5,
+      "harga_terendah_rm": 24.9,
+      "harga_tertinggi_rm": 39.9,
+      "bilangan_premis": 1302
+    },
+    {
+      "barang": "LACTOGEN 2 RUMUSAN SUSULAN (KOTAK)",
+      "unit": "650g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 28.5,
+      "harga_terendah_rm": 0.3,
+      "harga_tertinggi_rm": 32,
+      "bilangan_premis": 1320
+    },
+    {
+      "barang": "NAN LANGKAH 1 RUMUSAN BAYI (KOTAK)",
+      "unit": "600 g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 70.95,
+      "harga_terendah_rm": 68.99,
+      "harga_tertinggi_rm": 80.29,
+      "bilangan_premis": 311
+    },
+    {
+      "barang": "NAN LANGKAH 2 RUMUSAN SUSULAN (KOTAK)",
+      "unit": "600 g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 66.8,
+      "harga_terendah_rm": 65.9,
+      "harga_tertinggi_rm": 75.9,
+      "bilangan_premis": 275
+    },
+    {
+      "barang": "S-26 RUMUSAN BAYI LANGKAH 1 - (KOTAK)",
+      "unit": "600 g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 64.9,
+      "harga_terendah_rm": 6.5,
+      "harga_tertinggi_rm": 86.6,
+      "bilangan_premis": 805
+    },
+    {
+      "barang": "S-26 SMA RUMUSAN BAYI LANGKAH 1 - (KOTAK) (550g)",
+      "unit": "550 g",
+      "kumpulan": "Susu Dan Barangan Bayi",
+      "kategori": "Susu Bayi",
+      "harga_penengah_rm": 82.35,
+      "harga_terendah_rm": 54.9,
+      "harga_tertinggi_rm": 94.9,
+      "bilangan_premis": 775
+    }
+  ],
+  "meta": {
+    "title": "Harga Barangan Keperluan di Malaysia — PriceCatcher (September 2026) - Muat turun percuma",
+    "description": "Harga penengah, terendah dan tertinggi bagi barangan segar, runcit dan keperluan harian yang dicerap oleh KPDN di premis seluruh Malaysia pada September 2026, bersama bilangan premis yang dicerap. Mengandungi 329 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Harga Barangan Keperluan di Malaysia — PriceCatcher (September 2026) | ListBase",
+    "seo_description": "Muat turun Harga Barangan Keperluan di Malaysia — PriceCatcher (September 2026) — 329 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 329 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/pricecatcher"
+    ]
+  }
+}

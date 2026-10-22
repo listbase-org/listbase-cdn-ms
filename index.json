@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:47.690Z",
-  "total_datasets": 630,
-  "total_records": 519827,
+  "generated": "2026-10-22T04:32:48.249Z",
+  "total_datasets": 631,
+  "total_records": 520156,
   "categories": [
     {
       "id": "culture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "geography",
@@ -3093,6 +3093,35 @@
         "xlsx": {
           "name": "ms-dividen-kwsp_MS.xlsx",
           "size": 7885
+        }
+      }
+    },
+    {
+      "id": "ms-harga-barang-pricecatcher",
+      "name": "Harga Barangan Keperluan di Malaysia — PriceCatcher (September 2026)",
+      "category": "food",
+      "record_count": 329,
+      "columns": [
+        "barang",
+        "unit",
+        "kumpulan",
+        "kategori",
+        "harga_penengah_rm",
+        "harga_terendah_rm",
+        "harga_tertinggi_rm",
+        "bilangan_premis"
+      ],
+      "source": "https://data.gov.my/data-catalogue/pricecatcher",
+      "updated": "2026-10",
+      "size": 96402,
+      "files": {
+        "csv": {
+          "name": "ms-harga-barang-pricecatcher_MS.csv",
+          "size": 33360
+        },
+        "xlsx": {
+          "name": "ms-harga-barang-pricecatcher_MS.xlsx",
+          "size": 23826
         }
       }
     },
