@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:38.792Z",
-  "total_datasets": 617,
-  "total_records": 517894,
+  "generated": "2026-10-22T04:32:41.075Z",
+  "total_datasets": 618,
+  "total_records": 517922,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -4305,6 +4305,34 @@
         "xlsx": {
           "name": "ms-sultan-brunei_MS.xlsx",
           "size": 8765
+        }
+      }
+    },
+    {
+      "id": "ms-sultan-johor",
+      "name": "Senarai Sultan Johor",
+      "category": "history",
+      "record_count": 28,
+      "columns": [
+        "bahagian",
+        "nama",
+        "tempoh_pemerintahan",
+        "tarikh_keputeraan_dan_kemangkatan",
+        "pewarisan",
+        "pusat_pemerintahan",
+        "nota"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Sultan_Johor",
+      "updated": "2026-10",
+      "size": 32134,
+      "files": {
+        "csv": {
+          "name": "ms-sultan-johor_MS.csv",
+          "size": 25228
+        },
+        "xlsx": {
+          "name": "ms-sultan-johor_MS.xlsx",
+          "size": 12511
         }
       }
     },
