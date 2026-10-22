@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:39.983Z",
-  "total_datasets": 521,
-  "total_records": 499086,
+  "generated": "2026-10-22T04:31:40.560Z",
+  "total_datasets": 522,
+  "total_records": 499191,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -1793,6 +1793,32 @@
         "xlsx": {
           "name": "ms-filem-kutipan-terendah_MS.xlsx",
           "size": 10162
+        }
+      }
+    },
+    {
+      "id": "ms-filem-kutipan-tertinggi",
+      "name": "Filem Malaysia dengan Kutipan Tertinggi",
+      "category": "entertainment",
+      "record_count": 105,
+      "columns": [
+        "k",
+        "tajuk",
+        "pengarah",
+        "kutipan_rm",
+        "tahun"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_filem_Malaysia_berdasarkan_kutipan_tertinggi",
+      "updated": "2026-10",
+      "size": 18619,
+      "files": {
+        "csv": {
+          "name": "ms-filem-kutipan-tertinggi_MS.csv",
+          "size": 6737
+        },
+        "xlsx": {
+          "name": "ms-filem-kutipan-tertinggi_MS.xlsx",
+          "size": 11865
         }
       }
     },
