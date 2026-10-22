@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:36.234Z",
-  "total_datasets": 612,
-  "total_records": 517596,
+  "generated": "2026-10-22T04:32:36.723Z",
+  "total_datasets": 613,
+  "total_records": 517608,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 23
+      "dataset_count": 24
     },
     {
       "id": "entertainment",
@@ -2445,6 +2445,34 @@
         "xlsx": {
           "name": "ms-sjkc-selangor_MS.xlsx",
           "size": 16552
+        }
+      }
+    },
+    {
+      "id": "ms-sjkc-terengganu",
+      "name": "Senarai SJK(C) di Terengganu",
+      "category": "education",
+      "record_count": 12,
+      "columns": [
+        "kod_sekolah",
+        "lokasi",
+        "nama_sekolah_dalam_bahasa_melayu",
+        "nama_sekolah_dalam_bahasa_cina",
+        "poskod",
+        "kawasan",
+        "koordinat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Terengganu",
+      "updated": "2026-10",
+      "size": 5929,
+      "files": {
+        "csv": {
+          "name": "ms-sjkc-terengganu_MS.csv",
+          "size": 1735
+        },
+        "xlsx": {
+          "name": "ms-sjkc-terengganu_MS.xlsx",
+          "size": 7872
         }
       }
     },

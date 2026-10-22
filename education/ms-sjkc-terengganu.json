@@ -1,0 +1,169 @@
+{
+  "id": "ms-sjkc-terengganu",
+  "name": "Senarai SJK(C) di Terengganu",
+  "title": "Senarai SJK(C) di Terengganu",
+  "description": "Senarai SJK(C) di Terengganu — 12 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "education",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Terengganu",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Terengganu",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "kod_sekolah",
+      "label": "Kod Sekolah",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "nama_sekolah_dalam_bahasa_melayu",
+      "label": "Nama Sekolah Dalam Bahasa Melayu",
+      "type": "string"
+    },
+    {
+      "key": "nama_sekolah_dalam_bahasa_cina",
+      "label": "Nama Sekolah Dalam Bahasa Cina",
+      "type": "string"
+    },
+    {
+      "key": "poskod",
+      "label": "Poskod",
+      "type": "number"
+    },
+    {
+      "key": "kawasan",
+      "label": "Kawasan",
+      "type": "string"
+    },
+    {
+      "key": "koordinat",
+      "label": "Koordinat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kod_sekolah": "TBC0063",
+      "lokasi": "Jerteh",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "22000.0",
+      "kawasan": "Jerteh",
+      "koordinat": "5°44′15″U 102°29′53″T﻿ / ﻿5.7376°U 102.4981°T"
+    },
+    {
+      "kod_sekolah": "TBC1032",
+      "lokasi": "Dungun",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kwang Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "光华华小",
+      "poskod": "23000.0",
+      "kawasan": "Dungun",
+      "koordinat": "4°46′35″U 103°25′28″T﻿ / ﻿4.7763°U 103.4244°T"
+    },
+    {
+      "kod_sekolah": "TBC1033",
+      "lokasi": "Batu 5",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sin Chone",
+      "nama_sekolah_dalam_bahasa_cina": "龙运新村华小",
+      "poskod": "23000.0",
+      "kawasan": "Dungun",
+      "koordinat": "4°42′52″U 103°24′57″T﻿ / ﻿4.7144°U 103.4159°T"
+    },
+    {
+      "kod_sekolah": "TBC1034",
+      "lokasi": "Paka",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chee Mong",
+      "nama_sekolah_dalam_bahasa_cina": "启蒙华小",
+      "poskod": "23100.0",
+      "kawasan": "Paka",
+      "koordinat": "4°38′00″U 103°26′12″T﻿ / ﻿4.6333°U 103.4367°T"
+    },
+    {
+      "kod_sekolah": "TBC2026",
+      "lokasi": "Kemasik",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Lok Khoon",
+      "nama_sekolah_dalam_bahasa_cina": "乐群华小",
+      "poskod": "24210.0",
+      "kawasan": "Kemasik",
+      "koordinat": "4°24′30″U 103°23′49″T﻿ / ﻿4.4083°U 103.3970°T"
+    },
+    {
+      "kod_sekolah": "TBC2027",
+      "lokasi": "Chukai",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chukai",
+      "nama_sekolah_dalam_bahasa_cina": "朱盖华小",
+      "poskod": "24000.0",
+      "kawasan": "Chukai",
+      "koordinat": "4°13′37″U 103°25′37″T﻿ / ﻿4.2270°U 103.4269°T"
+    },
+    {
+      "kod_sekolah": "TBC2028",
+      "lokasi": "Kuala Kemaman",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kuala Kemaman",
+      "nama_sekolah_dalam_bahasa_cina": "甘马挽港口华小",
+      "poskod": "24000.0",
+      "kawasan": "Kemaman",
+      "koordinat": "4°13′56″U 103°26′28″T﻿ / ﻿4.2322°U 103.4410°T"
+    },
+    {
+      "kod_sekolah": "TBC2029",
+      "lokasi": "Jabor",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Jabor",
+      "nama_sekolah_dalam_bahasa_cina": "雅姆华小",
+      "poskod": "26150.0",
+      "kawasan": "Kuantan",
+      "koordinat": "3°55′55″U 103°18′18″T﻿ / ﻿3.9319°U 103.3050°T"
+    },
+    {
+      "kod_sekolah": "TBC3094",
+      "lokasi": "Kuala Terengganu",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hwa Wei Sin",
+      "nama_sekolah_dalam_bahasa_cina": "中华维新华小",
+      "poskod": "21100.0",
+      "kawasan": "Kuala Terengganu",
+      "koordinat": "5°18′45″U 103°08′14″T﻿ / ﻿5.3124°U 103.1371°T"
+    },
+    {
+      "kod_sekolah": "Tidak diketahui",
+      "lokasi": "Kampung Pulai",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Pulai Baru (ditutup)",
+      "nama_sekolah_dalam_bahasa_cina": "蒲来新村华小",
+      "poskod": "",
+      "kawasan": "",
+      "koordinat": ""
+    },
+    {
+      "kod_sekolah": "Tidak diketahui",
+      "lokasi": "Marang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Min Sin (ditutup)",
+      "nama_sekolah_dalam_bahasa_cina": "明新华小",
+      "poskod": "",
+      "kawasan": "",
+      "koordinat": ""
+    },
+    {
+      "kod_sekolah": "TBC4014",
+      "lokasi": "Wakaf Tapai",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chong Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "21040.0",
+      "kawasan": "Kuala Terengganu",
+      "koordinat": "5°07′56″U 103°05′12″T﻿ / ﻿5.1321°U 103.0867°T"
+    }
+  ],
+  "meta": {
+    "title": "Senarai SJK(C) di Terengganu - Muat turun percuma",
+    "description": "Senarai SJK(C) di Terengganu — 12 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 12 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai SJK(C) di Terengganu | ListBase",
+    "seo_description": "Muat turun Senarai SJK(C) di Terengganu — 12 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 12 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Terengganu"
+    ]
+  }
+}
