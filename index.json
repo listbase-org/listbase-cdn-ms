@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:51.745Z",
-  "total_datasets": 637,
-  "total_records": 523450,
+  "generated": "2026-10-22T04:32:52.291Z",
+  "total_datasets": 638,
+  "total_records": 523603,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 24
+      "dataset_count": 25
     },
     {
       "id": "entertainment",
@@ -2082,6 +2082,35 @@
         "xlsx": {
           "name": "ms-sekolah-berasrama-penuh_MS.xlsx",
           "size": 10804
+        }
+      }
+    },
+    {
+      "id": "ms-sekolah-institusi-daerah",
+      "name": "Bilangan Sekolah dan Institusi Pendidikan Awam mengikut Daerah (2025)",
+      "category": "education",
+      "record_count": 153,
+      "columns": [
+        "negeri",
+        "daerah",
+        "sekolah_rendah_kerajaan",
+        "sekolah_menengah_kerajaan",
+        "ipta",
+        "institut_pendidikan_guru",
+        "politeknik",
+        "kolej_komuniti"
+      ],
+      "source": "https://data.gov.my/data-catalogue/schools_district",
+      "updated": "2026-10",
+      "size": 40056,
+      "files": {
+        "csv": {
+          "name": "ms-sekolah-institusi-daerah_MS.csv",
+          "size": 7330
+        },
+        "xlsx": {
+          "name": "ms-sekolah-institusi-daerah_MS.xlsx",
+          "size": 12566
         }
       }
     },

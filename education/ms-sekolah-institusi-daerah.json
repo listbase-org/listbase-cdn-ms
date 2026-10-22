@@ -1,0 +1,1596 @@
+{
+  "id": "ms-sekolah-institusi-daerah",
+  "name": "Bilangan Sekolah dan Institusi Pendidikan Awam mengikut Daerah (2025)",
+  "title": "Bilangan Sekolah dan Institusi Pendidikan Awam mengikut Daerah (2025)",
+  "description": "Bilangan sekolah rendah dan menengah kerajaan, IPTA, Institut Pendidikan Guru, politeknik dan kolej komuniti bagi setiap daerah di Malaysia pada tahun 2025.",
+  "category": "education",
+  "source": "https://data.gov.my/data-catalogue/schools_district",
+  "source_url": "https://data.gov.my/data-catalogue/schools_district",
+  "updated": "2026-10",
+  "record_count": 153,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "daerah",
+      "label": "Daerah",
+      "type": "string"
+    },
+    {
+      "key": "sekolah_rendah_kerajaan",
+      "label": "Sekolah Rendah Kerajaan",
+      "type": "number"
+    },
+    {
+      "key": "sekolah_menengah_kerajaan",
+      "label": "Sekolah Menengah Kerajaan",
+      "type": "number"
+    },
+    {
+      "key": "ipta",
+      "label": "IPTA",
+      "type": "number"
+    },
+    {
+      "key": "institut_pendidikan_guru",
+      "label": "Institut Pendidikan Guru",
+      "type": "number"
+    },
+    {
+      "key": "politeknik",
+      "label": "Politeknik",
+      "type": "number"
+    },
+    {
+      "key": "kolej_komuniti",
+      "label": "Kolej Komuniti",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Johor",
+      "daerah": "Batu Pahat",
+      "sekolah_rendah_kerajaan": 144,
+      "sekolah_menengah_kerajaan": 31,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Johor Bahru",
+      "sekolah_rendah_kerajaan": 184,
+      "sekolah_menengah_kerajaan": 87,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kluang",
+      "sekolah_rendah_kerajaan": 88,
+      "sekolah_menengah_kerajaan": 29,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kota Tinggi",
+      "sekolah_rendah_kerajaan": 83,
+      "sekolah_menengah_kerajaan": 27,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kulai",
+      "sekolah_rendah_kerajaan": 37,
+      "sekolah_menengah_kerajaan": 14,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Mersing",
+      "sekolah_rendah_kerajaan": 38,
+      "sekolah_menengah_kerajaan": 10,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Muar",
+      "sekolah_rendah_kerajaan": 103,
+      "sekolah_menengah_kerajaan": 28,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Pontian",
+      "sekolah_rendah_kerajaan": 82,
+      "sekolah_menengah_kerajaan": 18,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Segamat",
+      "sekolah_rendah_kerajaan": 85,
+      "sekolah_menengah_kerajaan": 26,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Tangkak",
+      "sekolah_rendah_kerajaan": 65,
+      "sekolah_menengah_kerajaan": 16,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Baling",
+      "sekolah_rendah_kerajaan": 61,
+      "sekolah_menengah_kerajaan": 16,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Bandar Baharu",
+      "sekolah_rendah_kerajaan": 23,
+      "sekolah_menengah_kerajaan": 6,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kota Setar",
+      "sekolah_rendah_kerajaan": 88,
+      "sekolah_menengah_kerajaan": 37,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kuala Muda",
+      "sekolah_rendah_kerajaan": 107,
+      "sekolah_menengah_kerajaan": 37,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kubang Pasu",
+      "sekolah_rendah_kerajaan": 58,
+      "sekolah_menengah_kerajaan": 25,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kulim",
+      "sekolah_rendah_kerajaan": 64,
+      "sekolah_menengah_kerajaan": 26,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Langkawi",
+      "sekolah_rendah_kerajaan": 21,
+      "sekolah_menengah_kerajaan": 8,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Padang Terap",
+      "sekolah_rendah_kerajaan": 21,
+      "sekolah_menengah_kerajaan": 9,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Pendang",
+      "sekolah_rendah_kerajaan": 38,
+      "sekolah_menengah_kerajaan": 14,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Pokok Sena",
+      "sekolah_rendah_kerajaan": 16,
+      "sekolah_menengah_kerajaan": 5,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Sik",
+      "sekolah_rendah_kerajaan": 23,
+      "sekolah_menengah_kerajaan": 10,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Yan",
+      "sekolah_rendah_kerajaan": 28,
+      "sekolah_menengah_kerajaan": 11,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Bachok",
+      "sekolah_rendah_kerajaan": 34,
+      "sekolah_menengah_kerajaan": 19,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Gua Musang",
+      "sekolah_rendah_kerajaan": 34,
+      "sekolah_menengah_kerajaan": 10,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Jeli",
+      "sekolah_rendah_kerajaan": 15,
+      "sekolah_menengah_kerajaan": 6,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kecil Lojing",
+      "sekolah_rendah_kerajaan": 5,
+      "sekolah_menengah_kerajaan": 0,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kota Bharu",
+      "sekolah_rendah_kerajaan": 96,
+      "sekolah_menengah_kerajaan": 48,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kuala Krai",
+      "sekolah_rendah_kerajaan": 41,
+      "sekolah_menengah_kerajaan": 13,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Machang",
+      "sekolah_rendah_kerajaan": 29,
+      "sekolah_menengah_kerajaan": 10,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Pasir Mas",
+      "sekolah_rendah_kerajaan": 56,
+      "sekolah_menengah_kerajaan": 25,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Pasir Puteh",
+      "sekolah_rendah_kerajaan": 39,
+      "sekolah_menengah_kerajaan": 17,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Tanah Merah",
+      "sekolah_rendah_kerajaan": 34,
+      "sekolah_menengah_kerajaan": 16,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Tumpat",
+      "sekolah_rendah_kerajaan": 35,
+      "sekolah_menengah_kerajaan": 13,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Alor Gajah",
+      "sekolah_rendah_kerajaan": 77,
+      "sekolah_menengah_kerajaan": 21,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Jasin",
+      "sekolah_rendah_kerajaan": 67,
+      "sekolah_menengah_kerajaan": 18,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Melaka Tengah",
+      "sekolah_rendah_kerajaan": 94,
+      "sekolah_menengah_kerajaan": 41,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Jelebu",
+      "sekolah_rendah_kerajaan": 24,
+      "sekolah_menengah_kerajaan": 8,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Jempol",
+      "sekolah_rendah_kerajaan": 50,
+      "sekolah_menengah_kerajaan": 17,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Kuala Pilah",
+      "sekolah_rendah_kerajaan": 47,
+      "sekolah_menengah_kerajaan": 16,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Port Dickson",
+      "sekolah_rendah_kerajaan": 50,
+      "sekolah_menengah_kerajaan": 13,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Rembau",
+      "sekolah_rendah_kerajaan": 30,
+      "sekolah_menengah_kerajaan": 11,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Seremban",
+      "sekolah_rendah_kerajaan": 113,
+      "sekolah_menengah_kerajaan": 49,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Tampin",
+      "sekolah_rendah_kerajaan": 39,
+      "sekolah_menengah_kerajaan": 12,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Bentong",
+      "sekolah_rendah_kerajaan": 38,
+      "sekolah_menengah_kerajaan": 18,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Bera",
+      "sekolah_rendah_kerajaan": 41,
+      "sekolah_menengah_kerajaan": 10,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Cameron Highlands",
+      "sekolah_rendah_kerajaan": 25,
+      "sekolah_menengah_kerajaan": 3,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Jerantut",
+      "sekolah_rendah_kerajaan": 47,
+      "sekolah_menengah_kerajaan": 15,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Kuala Lipis",
+      "sekolah_rendah_kerajaan": 53,
+      "sekolah_menengah_kerajaan": 16,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Kuantan",
+      "sekolah_rendah_kerajaan": 87,
+      "sekolah_menengah_kerajaan": 48,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Lipis",
+      "sekolah_rendah_kerajaan": 0,
+      "sekolah_menengah_kerajaan": 0,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Maran",
+      "sekolah_rendah_kerajaan": 52,
+      "sekolah_menengah_kerajaan": 19,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Pekan",
+      "sekolah_rendah_kerajaan": 47,
+      "sekolah_menengah_kerajaan": 16,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Raub",
+      "sekolah_rendah_kerajaan": 43,
+      "sekolah_menengah_kerajaan": 12,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Rompin",
+      "sekolah_rendah_kerajaan": 42,
+      "sekolah_menengah_kerajaan": 20,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Temerloh",
+      "sekolah_rendah_kerajaan": 66,
+      "sekolah_menengah_kerajaan": 22,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Bagan Datuk",
+      "sekolah_rendah_kerajaan": 58,
+      "sekolah_menengah_kerajaan": 10,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Batang Padang",
+      "sekolah_rendah_kerajaan": 66,
+      "sekolah_menengah_kerajaan": 16,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Hilir Perak",
+      "sekolah_rendah_kerajaan": 55,
+      "sekolah_menengah_kerajaan": 15,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Hulu Perak",
+      "sekolah_rendah_kerajaan": 56,
+      "sekolah_menengah_kerajaan": 14,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kampar",
+      "sekolah_rendah_kerajaan": 37,
+      "sekolah_menengah_kerajaan": 9,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kerian",
+      "sekolah_rendah_kerajaan": 69,
+      "sekolah_menengah_kerajaan": 22,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kinta",
+      "sekolah_rendah_kerajaan": 140,
+      "sekolah_menengah_kerajaan": 60,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kuala Kangsar",
+      "sekolah_rendah_kerajaan": 90,
+      "sekolah_menengah_kerajaan": 24,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Larut Matang & Selama",
+      "sekolah_rendah_kerajaan": 111,
+      "sekolah_menengah_kerajaan": 36,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Larut dan Matang",
+      "sekolah_rendah_kerajaan": 0,
+      "sekolah_menengah_kerajaan": 0,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Manjung (Dinding)",
+      "sekolah_rendah_kerajaan": 81,
+      "sekolah_menengah_kerajaan": 21,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Muallim",
+      "sekolah_rendah_kerajaan": 31,
+      "sekolah_menengah_kerajaan": 9,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Perak Tengah",
+      "sekolah_rendah_kerajaan": 58,
+      "sekolah_menengah_kerajaan": 17,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Perlis",
+      "daerah": "Perlis",
+      "sekolah_rendah_kerajaan": 74,
+      "sekolah_menengah_kerajaan": 30,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Barat Daya",
+      "sekolah_rendah_kerajaan": 39,
+      "sekolah_menengah_kerajaan": 12,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Selatan",
+      "sekolah_rendah_kerajaan": 39,
+      "sekolah_menengah_kerajaan": 17,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Tengah",
+      "sekolah_rendah_kerajaan": 55,
+      "sekolah_menengah_kerajaan": 31,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Utara",
+      "sekolah_rendah_kerajaan": 65,
+      "sekolah_menengah_kerajaan": 32,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Timur Laut",
+      "sekolah_rendah_kerajaan": 71,
+      "sekolah_menengah_kerajaan": 35,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Beaufort",
+      "sekolah_rendah_kerajaan": 56,
+      "sekolah_menengah_kerajaan": 12,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Beluran",
+      "sekolah_rendah_kerajaan": 47,
+      "sekolah_menengah_kerajaan": 6,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Keningau",
+      "sekolah_rendah_kerajaan": 70,
+      "sekolah_menengah_kerajaan": 12,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kinabatangan",
+      "sekolah_rendah_kerajaan": 31,
+      "sekolah_menengah_kerajaan": 4,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Belud",
+      "sekolah_rendah_kerajaan": 57,
+      "sekolah_menengah_kerajaan": 9,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Kinabalu",
+      "sekolah_rendah_kerajaan": 58,
+      "sekolah_menengah_kerajaan": 24,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Marudu",
+      "sekolah_rendah_kerajaan": 33,
+      "sekolah_menengah_kerajaan": 7,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kuala Penyu",
+      "sekolah_rendah_kerajaan": 26,
+      "sekolah_menengah_kerajaan": 4,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kudat",
+      "sekolah_rendah_kerajaan": 58,
+      "sekolah_menengah_kerajaan": 12,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kunak",
+      "sekolah_rendah_kerajaan": 15,
+      "sekolah_menengah_kerajaan": 3,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Lahad Datu",
+      "sekolah_rendah_kerajaan": 43,
+      "sekolah_menengah_kerajaan": 10,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Nabawan",
+      "sekolah_rendah_kerajaan": 29,
+      "sekolah_menengah_kerajaan": 3,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Papar",
+      "sekolah_rendah_kerajaan": 49,
+      "sekolah_menengah_kerajaan": 11,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Penampang",
+      "sekolah_rendah_kerajaan": 27,
+      "sekolah_menengah_kerajaan": 6,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Pitas",
+      "sekolah_rendah_kerajaan": 31,
+      "sekolah_menengah_kerajaan": 6,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Putatan",
+      "sekolah_rendah_kerajaan": 1,
+      "sekolah_menengah_kerajaan": 1,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Ranau",
+      "sekolah_rendah_kerajaan": 71,
+      "sekolah_menengah_kerajaan": 11,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Sandakan",
+      "sekolah_rendah_kerajaan": 65,
+      "sekolah_menengah_kerajaan": 22,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Semporna",
+      "sekolah_rendah_kerajaan": 41,
+      "sekolah_menengah_kerajaan": 9,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Sipitang",
+      "sekolah_rendah_kerajaan": 25,
+      "sekolah_menengah_kerajaan": 4,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tambunan",
+      "sekolah_rendah_kerajaan": 29,
+      "sekolah_menengah_kerajaan": 4,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tawau",
+      "sekolah_rendah_kerajaan": 61,
+      "sekolah_menengah_kerajaan": 22,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Telupid",
+      "sekolah_rendah_kerajaan": 7,
+      "sekolah_menengah_kerajaan": 2,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tenom",
+      "sekolah_rendah_kerajaan": 46,
+      "sekolah_menengah_kerajaan": 6,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tongod",
+      "sekolah_rendah_kerajaan": 24,
+      "sekolah_menengah_kerajaan": 3,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tuaran",
+      "sekolah_rendah_kerajaan": 75,
+      "sekolah_menengah_kerajaan": 10,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Asajaya",
+      "sekolah_rendah_kerajaan": 27,
+      "sekolah_menengah_kerajaan": 5,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bau",
+      "sekolah_rendah_kerajaan": 40,
+      "sekolah_menengah_kerajaan": 4,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Belaga",
+      "sekolah_rendah_kerajaan": 12,
+      "sekolah_menengah_kerajaan": 2,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Betong",
+      "sekolah_rendah_kerajaan": 46,
+      "sekolah_menengah_kerajaan": 8,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bintulu",
+      "sekolah_rendah_kerajaan": 31,
+      "sekolah_menengah_kerajaan": 7,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Dalat",
+      "sekolah_rendah_kerajaan": 25,
+      "sekolah_menengah_kerajaan": 4,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Daro",
+      "sekolah_rendah_kerajaan": 41,
+      "sekolah_menengah_kerajaan": 3,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Julau",
+      "sekolah_rendah_kerajaan": 34,
+      "sekolah_menengah_kerajaan": 3,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kabong",
+      "sekolah_rendah_kerajaan": 4,
+      "sekolah_menengah_kerajaan": 1,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kanowit",
+      "sekolah_rendah_kerajaan": 35,
+      "sekolah_menengah_kerajaan": 3,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kapit",
+      "sekolah_rendah_kerajaan": 46,
+      "sekolah_menengah_kerajaan": 4,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kuching",
+      "sekolah_rendah_kerajaan": 146,
+      "sekolah_menengah_kerajaan": 41,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lawas",
+      "sekolah_rendah_kerajaan": 31,
+      "sekolah_menengah_kerajaan": 4,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Limbang",
+      "sekolah_rendah_kerajaan": 35,
+      "sekolah_menengah_kerajaan": 5,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lubok Antu",
+      "sekolah_rendah_kerajaan": 28,
+      "sekolah_menengah_kerajaan": 2,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lundu",
+      "sekolah_rendah_kerajaan": 31,
+      "sekolah_menengah_kerajaan": 3,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Maradong",
+      "sekolah_rendah_kerajaan": 33,
+      "sekolah_menengah_kerajaan": 4,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Marudi",
+      "sekolah_rendah_kerajaan": 76,
+      "sekolah_menengah_kerajaan": 9,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Miri",
+      "sekolah_rendah_kerajaan": 55,
+      "sekolah_menengah_kerajaan": 18,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Mukah",
+      "sekolah_rendah_kerajaan": 29,
+      "sekolah_menengah_kerajaan": 3,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Pusa",
+      "sekolah_rendah_kerajaan": 1,
+      "sekolah_menengah_kerajaan": 0,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Samarahan",
+      "sekolah_rendah_kerajaan": 26,
+      "sekolah_menengah_kerajaan": 4,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Saratok",
+      "sekolah_rendah_kerajaan": 49,
+      "sekolah_menengah_kerajaan": 5,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sarikei",
+      "sekolah_rendah_kerajaan": 44,
+      "sekolah_menengah_kerajaan": 6,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sebauh",
+      "sekolah_rendah_kerajaan": 9,
+      "sekolah_menengah_kerajaan": 1,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Selangau",
+      "sekolah_rendah_kerajaan": 0,
+      "sekolah_menengah_kerajaan": 0,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Serian",
+      "sekolah_rendah_kerajaan": 79,
+      "sekolah_menengah_kerajaan": 6,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sibu",
+      "sekolah_rendah_kerajaan": 113,
+      "sekolah_menengah_kerajaan": 24,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Simunjan",
+      "sekolah_rendah_kerajaan": 49,
+      "sekolah_menengah_kerajaan": 4,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Song",
+      "sekolah_rendah_kerajaan": 17,
+      "sekolah_menengah_kerajaan": 3,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sri Aman",
+      "sekolah_rendah_kerajaan": 36,
+      "sekolah_menengah_kerajaan": 5,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Subis",
+      "sekolah_rendah_kerajaan": 24,
+      "sekolah_menengah_kerajaan": 2,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tatau",
+      "sekolah_rendah_kerajaan": 14,
+      "sekolah_menengah_kerajaan": 1,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Gombak",
+      "sekolah_rendah_kerajaan": 68,
+      "sekolah_menengah_kerajaan": 36,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Klang",
+      "sekolah_rendah_kerajaan": 91,
+      "sekolah_menengah_kerajaan": 40,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Kuala Langat",
+      "sekolah_rendah_kerajaan": 57,
+      "sekolah_menengah_kerajaan": 19,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Kuala Selangor",
+      "sekolah_rendah_kerajaan": 68,
+      "sekolah_menengah_kerajaan": 22,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Petaling",
+      "sekolah_rendah_kerajaan": 150,
+      "sekolah_menengah_kerajaan": 77,
+      "ipta": 2,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Sabak Bernam",
+      "sekolah_rendah_kerajaan": 47,
+      "sekolah_menengah_kerajaan": 17,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Sepang",
+      "sekolah_rendah_kerajaan": 40,
+      "sekolah_menengah_kerajaan": 13,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Ulu Langat",
+      "sekolah_rendah_kerajaan": 92,
+      "sekolah_menengah_kerajaan": 40,
+      "ipta": 1,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Ulu Selangor",
+      "sekolah_rendah_kerajaan": 51,
+      "sekolah_menengah_kerajaan": 17,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Besut",
+      "sekolah_rendah_kerajaan": 54,
+      "sekolah_menengah_kerajaan": 21,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Dungun",
+      "sekolah_rendah_kerajaan": 48,
+      "sekolah_menengah_kerajaan": 24,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Hulu Terengganu",
+      "sekolah_rendah_kerajaan": 49,
+      "sekolah_menengah_kerajaan": 17,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kemaman",
+      "sekolah_rendah_kerajaan": 47,
+      "sekolah_menengah_kerajaan": 25,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kuala Nerus",
+      "sekolah_rendah_kerajaan": 29,
+      "sekolah_menengah_kerajaan": 16,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kuala Terengganu",
+      "sekolah_rendah_kerajaan": 53,
+      "sekolah_menengah_kerajaan": 24,
+      "ipta": 2,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Marang",
+      "sekolah_rendah_kerajaan": 29,
+      "sekolah_menengah_kerajaan": 13,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Setiu",
+      "sekolah_rendah_kerajaan": 43,
+      "sekolah_menengah_kerajaan": 14,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "daerah": "W.P. Kuala Lumpur",
+      "sekolah_rendah_kerajaan": 186,
+      "sekolah_menengah_kerajaan": 104,
+      "ipta": 2,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "daerah": "W.P. Labuan",
+      "sekolah_rendah_kerajaan": 17,
+      "sekolah_menengah_kerajaan": 11,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "daerah": "W.P. Putrajaya",
+      "sekolah_rendah_kerajaan": 16,
+      "sekolah_menengah_kerajaan": 11,
+      "ipta": 0,
+      "institut_pendidikan_guru": 0,
+      "politeknik": 0,
+      "kolej_komuniti": 0
+    }
+  ],
+  "meta": {
+    "title": "Bilangan Sekolah dan Institusi Pendidikan Awam mengikut Daerah (2025) - Muat turun percuma",
+    "description": "Bilangan sekolah rendah dan menengah kerajaan, IPTA, Institut Pendidikan Guru, politeknik dan kolej komuniti bagi setiap daerah di Malaysia pada tahun 2025. Mengandungi 153 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Bilangan Sekolah dan Institusi Pendidikan Awam mengikut Daerah (2025) | ListBase",
+    "seo_description": "Muat turun Bilangan Sekolah dan Institusi Pendidikan Awam mengikut Daerah (2025) — 153 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 153 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/schools_district"
+    ]
+  }
+}
