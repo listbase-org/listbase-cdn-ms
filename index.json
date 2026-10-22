@@ -1,9 +1,13 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:52.291Z",
-  "total_datasets": 638,
-  "total_records": 523603,
+  "generated": "2026-10-22T04:32:52.946Z",
+  "total_datasets": 639,
+  "total_records": 525187,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 50
@@ -94,6 +98,32 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ms-tanaman-negeri",
+      "name": "Keluasan dan Pengeluaran Tanaman mengikut Negeri (2014–2024)",
+      "category": "agriculture",
+      "record_count": 1584,
+      "columns": [
+        "negeri",
+        "tahun",
+        "jenis_tanaman",
+        "keluasan_ditanam_hektar",
+        "pengeluaran_tan_metrik"
+      ],
+      "source": "https://data.gov.my/data-catalogue/crops_state",
+      "updated": "2026-10",
+      "size": 281085,
+      "files": {
+        "csv": {
+          "name": "ms-tanaman-negeri_MS.csv",
+          "size": 73315
+        },
+        "xlsx": {
+          "name": "ms-tanaman-negeri_MS.xlsx",
+          "size": 46103
+        }
+      }
+    },
     {
       "id": "ms-gereja",
       "name": "Gereja di Malaysia",
