@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:56.437Z",
-  "total_datasets": 545,
-  "total_records": 504118,
+  "generated": "2026-10-22T04:31:56.957Z",
+  "total_datasets": 546,
+  "total_records": 504287,
   "categories": [
     {
       "id": "culture",
@@ -46,6 +46,10 @@
     },
     {
       "id": "law",
+      "dataset_count": 1
+    },
+    {
+      "id": "music",
       "dataset_count": 1
     },
     {
@@ -3284,6 +3288,28 @@
         "xlsx": {
           "name": "ms-akta-parlimen_MS.xlsx",
           "size": 33459
+        }
+      }
+    },
+    {
+      "id": "ms-kumpulan-nasyid",
+      "name": "Senarai Kumpulan Nasyid di Malaysia",
+      "category": "music",
+      "record_count": 169,
+      "columns": [
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kumpulan_nasyid_di_Malaysia",
+      "updated": "2026-10",
+      "size": 9248,
+      "files": {
+        "csv": {
+          "name": "ms-kumpulan-nasyid_MS.csv",
+          "size": 3279
+        },
+        "xlsx": {
+          "name": "ms-kumpulan-nasyid_MS.xlsx",
+          "size": 9330
         }
       }
     },
