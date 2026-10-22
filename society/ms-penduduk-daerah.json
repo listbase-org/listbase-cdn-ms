@@ -1,0 +1,1726 @@
+{
+  "id": "ms-penduduk-daerah",
+  "name": "Penduduk mengikut Daerah di Malaysia (2026)",
+  "title": "Penduduk mengikut Daerah di Malaysia (2026)",
+  "description": "Anggaran penduduk 2026 (ribu orang) bagi setiap daerah pentadbiran di Malaysia, dengan pecahan lelaki, perempuan, warganegara dan bukan warganegara, daripada Jabatan Perangkaan Malaysia.",
+  "category": "society",
+  "source": "https://open.dosm.gov.my/data-catalogue/population_district",
+  "source_url": "https://open.dosm.gov.my/data-catalogue/population_district",
+  "updated": "2026-10",
+  "record_count": 166,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "daerah",
+      "label": "Daerah",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "jumlah_penduduk_ribu",
+      "label": "Jumlah Penduduk ('000)",
+      "type": "number"
+    },
+    {
+      "key": "lelaki_ribu",
+      "label": "Lelaki ('000)",
+      "type": "number"
+    },
+    {
+      "key": "perempuan_ribu",
+      "label": "Perempuan ('000)",
+      "type": "number"
+    },
+    {
+      "key": "warganegara_ribu",
+      "label": "Warganegara ('000)",
+      "type": "number"
+    },
+    {
+      "key": "bukan_warganegara_ribu",
+      "label": "Bukan Warganegara ('000)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Johor",
+      "daerah": "Batu Pahat",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 513.4,
+      "lelaki_ribu": 271.3,
+      "perempuan_ribu": 242.1,
+      "warganegara_ribu": 479.7,
+      "bukan_warganegara_ribu": 33.7
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Johor Bahru",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 1827.2,
+      "lelaki_ribu": 974.6,
+      "perempuan_ribu": 852.6,
+      "warganegara_ribu": 1666.5,
+      "bukan_warganegara_ribu": 160.7
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kluang",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 336.4,
+      "lelaki_ribu": 186.3,
+      "perempuan_ribu": 150.1,
+      "warganegara_ribu": 298.8,
+      "bukan_warganegara_ribu": 37.6
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kota Tinggi",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 235.9,
+      "lelaki_ribu": 125.6,
+      "perempuan_ribu": 110.3,
+      "warganegara_ribu": 219,
+      "bukan_warganegara_ribu": 16.9
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kulai",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 354.2,
+      "lelaki_ribu": 192.1,
+      "perempuan_ribu": 162.1,
+      "warganegara_ribu": 294.6,
+      "bukan_warganegara_ribu": 59.6
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Mersing",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 81.7,
+      "lelaki_ribu": 43.5,
+      "perempuan_ribu": 38.1,
+      "warganegara_ribu": 77.2,
+      "bukan_warganegara_ribu": 4.5
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Muar",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 325,
+      "lelaki_ribu": 178.8,
+      "perempuan_ribu": 146.2,
+      "warganegara_ribu": 289.3,
+      "bukan_warganegara_ribu": 35.7
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Pontian",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 177.8,
+      "lelaki_ribu": 94.7,
+      "perempuan_ribu": 83.1,
+      "warganegara_ribu": 165.4,
+      "bukan_warganegara_ribu": 12.4
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Segamat",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 203.8,
+      "lelaki_ribu": 106.3,
+      "perempuan_ribu": 97.5,
+      "warganegara_ribu": 190.5,
+      "bukan_warganegara_ribu": 13.3
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Tangkak",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 168.9,
+      "lelaki_ribu": 87.8,
+      "perempuan_ribu": 81,
+      "warganegara_ribu": 160.1,
+      "bukan_warganegara_ribu": 8.8
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Baling",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 150,
+      "lelaki_ribu": 76.5,
+      "perempuan_ribu": 73.5,
+      "warganegara_ribu": 147.1,
+      "bukan_warganegara_ribu": 2.9
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Bandar Baharu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 45.7,
+      "lelaki_ribu": 23.3,
+      "perempuan_ribu": 22.4,
+      "warganegara_ribu": 44.3,
+      "bukan_warganegara_ribu": 1.4
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kota Setar",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 384.1,
+      "lelaki_ribu": 190.5,
+      "perempuan_ribu": 193.6,
+      "warganegara_ribu": 371.6,
+      "bukan_warganegara_ribu": 12.5
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kuala Muda",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 577.9,
+      "lelaki_ribu": 298.9,
+      "perempuan_ribu": 279,
+      "warganegara_ribu": 530.5,
+      "bukan_warganegara_ribu": 47.4
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kubang Pasu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 255,
+      "lelaki_ribu": 125.4,
+      "perempuan_ribu": 129.6,
+      "warganegara_ribu": 248.9,
+      "bukan_warganegara_ribu": 6.1
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kulim",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 355.5,
+      "lelaki_ribu": 182.2,
+      "perempuan_ribu": 173.3,
+      "warganegara_ribu": 331,
+      "bukan_warganegara_ribu": 24.5
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Langkawi",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 101.2,
+      "lelaki_ribu": 52.3,
+      "perempuan_ribu": 48.9,
+      "warganegara_ribu": 96.2,
+      "bukan_warganegara_ribu": 5
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Padang Terap",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 68,
+      "lelaki_ribu": 35,
+      "perempuan_ribu": 33,
+      "warganegara_ribu": 65.4,
+      "bukan_warganegara_ribu": 2.6
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Pendang",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 102.3,
+      "lelaki_ribu": 53.9,
+      "perempuan_ribu": 48.4,
+      "warganegara_ribu": 100.8,
+      "bukan_warganegara_ribu": 1.5
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Pokok Sena",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 51.4,
+      "lelaki_ribu": 27.9,
+      "perempuan_ribu": 23.5,
+      "warganegara_ribu": 49,
+      "bukan_warganegara_ribu": 2.4
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Sik",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 70.9,
+      "lelaki_ribu": 36,
+      "perempuan_ribu": 34.9,
+      "warganegara_ribu": 68.8,
+      "bukan_warganegara_ribu": 2.1
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Yan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 75.4,
+      "lelaki_ribu": 38.7,
+      "perempuan_ribu": 36.7,
+      "warganegara_ribu": 74.9,
+      "bukan_warganegara_ribu": 0.5
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Bachok",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 169.4,
+      "lelaki_ribu": 82.2,
+      "perempuan_ribu": 87.2,
+      "warganegara_ribu": 168.1,
+      "bukan_warganegara_ribu": 1.3
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Gua Musang",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 112.5,
+      "lelaki_ribu": 60.9,
+      "perempuan_ribu": 51.5,
+      "warganegara_ribu": 101.6,
+      "bukan_warganegara_ribu": 10.9
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Jeli",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 58.5,
+      "lelaki_ribu": 29.3,
+      "perempuan_ribu": 29.3,
+      "warganegara_ribu": 56.7,
+      "bukan_warganegara_ribu": 1.8
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kecil Lojing",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 12,
+      "lelaki_ribu": 6.3,
+      "perempuan_ribu": 5.7,
+      "warganegara_ribu": 11.2,
+      "bukan_warganegara_ribu": 0.8
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kota Bharu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 595.5,
+      "lelaki_ribu": 297.8,
+      "perempuan_ribu": 297.7,
+      "warganegara_ribu": 581.1,
+      "bukan_warganegara_ribu": 14.4
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kuala Krai",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 113,
+      "lelaki_ribu": 56.9,
+      "perempuan_ribu": 56.1,
+      "warganegara_ribu": 108.3,
+      "bukan_warganegara_ribu": 4.7
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Machang",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 118.6,
+      "lelaki_ribu": 59,
+      "perempuan_ribu": 59.7,
+      "warganegara_ribu": 117.4,
+      "bukan_warganegara_ribu": 1.2
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Pasir Mas",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 245.1,
+      "lelaki_ribu": 124.2,
+      "perempuan_ribu": 120.9,
+      "warganegara_ribu": 241.8,
+      "bukan_warganegara_ribu": 3.3
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Pasir Puteh",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 146.4,
+      "lelaki_ribu": 72.6,
+      "perempuan_ribu": 73.7,
+      "warganegara_ribu": 145.1,
+      "bukan_warganegara_ribu": 1.3
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Tanah Merah",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 161.2,
+      "lelaki_ribu": 82.6,
+      "perempuan_ribu": 78.5,
+      "warganegara_ribu": 156.2,
+      "bukan_warganegara_ribu": 5
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Tumpat",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 193.1,
+      "lelaki_ribu": 95.7,
+      "perempuan_ribu": 97.5,
+      "warganegara_ribu": 191.4,
+      "bukan_warganegara_ribu": 1.7
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Alor Gajah",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 262.9,
+      "lelaki_ribu": 135.6,
+      "perempuan_ribu": 127.3,
+      "warganegara_ribu": 240.3,
+      "bukan_warganegara_ribu": 22.6
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Jasin",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 158.5,
+      "lelaki_ribu": 84.1,
+      "perempuan_ribu": 74.4,
+      "warganegara_ribu": 146.1,
+      "bukan_warganegara_ribu": 12.4
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Melaka Tengah",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 636,
+      "lelaki_ribu": 339.2,
+      "perempuan_ribu": 296.8,
+      "warganegara_ribu": 579.7,
+      "bukan_warganegara_ribu": 56.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Jelebu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 48.4,
+      "lelaki_ribu": 26.6,
+      "perempuan_ribu": 21.8,
+      "warganegara_ribu": 43.9,
+      "bukan_warganegara_ribu": 4.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Jempol",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 130.4,
+      "lelaki_ribu": 66.7,
+      "perempuan_ribu": 63.7,
+      "warganegara_ribu": 125.6,
+      "bukan_warganegara_ribu": 4.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Kuala Pilah",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 72.5,
+      "lelaki_ribu": 37.5,
+      "perempuan_ribu": 35,
+      "warganegara_ribu": 69.5,
+      "bukan_warganegara_ribu": 3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Port Dickson",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 135.9,
+      "lelaki_ribu": 72,
+      "perempuan_ribu": 63.9,
+      "warganegara_ribu": 127.3,
+      "bukan_warganegara_ribu": 8.6
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Rembau",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 49.7,
+      "lelaki_ribu": 25.4,
+      "perempuan_ribu": 24.3,
+      "warganegara_ribu": 47.3,
+      "bukan_warganegara_ribu": 2.4
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Seremban",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 720.6,
+      "lelaki_ribu": 370.5,
+      "perempuan_ribu": 350.2,
+      "warganegara_ribu": 677.1,
+      "bukan_warganegara_ribu": 43.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Tampin",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 91,
+      "lelaki_ribu": 48.3,
+      "perempuan_ribu": 42.7,
+      "warganegara_ribu": 85.4,
+      "bukan_warganegara_ribu": 5.6
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Bentong",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 118.7,
+      "lelaki_ribu": 66.6,
+      "perempuan_ribu": 52.1,
+      "warganegara_ribu": 109.9,
+      "bukan_warganegara_ribu": 8.8
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Bera",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 101.4,
+      "lelaki_ribu": 54.2,
+      "perempuan_ribu": 47.2,
+      "warganegara_ribu": 94.1,
+      "bukan_warganegara_ribu": 7.3
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Cameron Highlands",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 44.9,
+      "lelaki_ribu": 27.1,
+      "perempuan_ribu": 17.8,
+      "warganegara_ribu": 35.1,
+      "bukan_warganegara_ribu": 9.8
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Jerantut",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 100.7,
+      "lelaki_ribu": 53.7,
+      "perempuan_ribu": 47,
+      "warganegara_ribu": 94.7,
+      "bukan_warganegara_ribu": 6
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Kuantan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 581.4,
+      "lelaki_ribu": 302.7,
+      "perempuan_ribu": 278.7,
+      "warganegara_ribu": 560.6,
+      "bukan_warganegara_ribu": 20.8
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Lipis",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 104.4,
+      "lelaki_ribu": 56.6,
+      "perempuan_ribu": 47.7,
+      "warganegara_ribu": 96.5,
+      "bukan_warganegara_ribu": 7.9
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Maran",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 120.7,
+      "lelaki_ribu": 64,
+      "perempuan_ribu": 56.7,
+      "warganegara_ribu": 112.6,
+      "bukan_warganegara_ribu": 8.1
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Pekan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 130.7,
+      "lelaki_ribu": 70.6,
+      "perempuan_ribu": 60.1,
+      "warganegara_ribu": 120.8,
+      "bukan_warganegara_ribu": 9.9
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Raub",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 99.3,
+      "lelaki_ribu": 52.5,
+      "perempuan_ribu": 46.8,
+      "warganegara_ribu": 93.1,
+      "bukan_warganegara_ribu": 6.2
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Rompin",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 104.9,
+      "lelaki_ribu": 56.5,
+      "perempuan_ribu": 48.3,
+      "warganegara_ribu": 96.8,
+      "bukan_warganegara_ribu": 8.1
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Temerloh",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 179.3,
+      "lelaki_ribu": 93.1,
+      "perempuan_ribu": 86.2,
+      "warganegara_ribu": 170.9,
+      "bukan_warganegara_ribu": 8.4
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Bagan Datuk",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 83.5,
+      "lelaki_ribu": 46,
+      "perempuan_ribu": 37.5,
+      "warganegara_ribu": 73.5,
+      "bukan_warganegara_ribu": 10
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Batang Padang",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 127.2,
+      "lelaki_ribu": 68,
+      "perempuan_ribu": 59.2,
+      "warganegara_ribu": 122.3,
+      "bukan_warganegara_ribu": 4.9
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Hilir Perak",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 141.5,
+      "lelaki_ribu": 74.2,
+      "perempuan_ribu": 67.4,
+      "warganegara_ribu": 131.6,
+      "bukan_warganegara_ribu": 9.9
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Hulu Perak",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 98.4,
+      "lelaki_ribu": 50.8,
+      "perempuan_ribu": 47.6,
+      "warganegara_ribu": 95.8,
+      "bukan_warganegara_ribu": 2.6
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kampar",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 97.7,
+      "lelaki_ribu": 49.4,
+      "perempuan_ribu": 48.2,
+      "warganegara_ribu": 94.5,
+      "bukan_warganegara_ribu": 3.2
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kerian",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 170.1,
+      "lelaki_ribu": 87.2,
+      "perempuan_ribu": 82.9,
+      "warganegara_ribu": 164.7,
+      "bukan_warganegara_ribu": 5.4
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kinta",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 931,
+      "lelaki_ribu": 489.3,
+      "perempuan_ribu": 441.7,
+      "warganegara_ribu": 854.7,
+      "bukan_warganegara_ribu": 76.3
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kuala Kangsar",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 179.3,
+      "lelaki_ribu": 90.9,
+      "perempuan_ribu": 88.4,
+      "warganegara_ribu": 173.6,
+      "bukan_warganegara_ribu": 5.7
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Larut Dan Matang",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 277.9,
+      "lelaki_ribu": 143.9,
+      "perempuan_ribu": 134,
+      "warganegara_ribu": 264.8,
+      "bukan_warganegara_ribu": 13.1
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Manjung",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 257,
+      "lelaki_ribu": 138.2,
+      "perempuan_ribu": 118.7,
+      "warganegara_ribu": 238,
+      "bukan_warganegara_ribu": 19
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Muallim",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 79.9,
+      "lelaki_ribu": 38.2,
+      "perempuan_ribu": 41.6,
+      "warganegara_ribu": 76.7,
+      "bukan_warganegara_ribu": 3.2
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Perak Tengah",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 99.6,
+      "lelaki_ribu": 51.5,
+      "perempuan_ribu": 48,
+      "warganegara_ribu": 94.9,
+      "bukan_warganegara_ribu": 4.7
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Selama",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 35,
+      "lelaki_ribu": 17.6,
+      "perempuan_ribu": 17.4,
+      "warganegara_ribu": 34.3,
+      "bukan_warganegara_ribu": 0.7
+    },
+    {
+      "negeri": "Perlis",
+      "daerah": "Perlis",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 297.3,
+      "lelaki_ribu": 148.2,
+      "perempuan_ribu": 149.1,
+      "warganegara_ribu": 287.2,
+      "bukan_warganegara_ribu": 10.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Barat Daya",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 250.6,
+      "lelaki_ribu": 125.5,
+      "perempuan_ribu": 125.1,
+      "warganegara_ribu": 231.2,
+      "bukan_warganegara_ribu": 19.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Selatan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 191,
+      "lelaki_ribu": 95.8,
+      "perempuan_ribu": 95.2,
+      "warganegara_ribu": 178.9,
+      "bukan_warganegara_ribu": 12.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Tengah",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 446.7,
+      "lelaki_ribu": 238.7,
+      "perempuan_ribu": 208,
+      "warganegara_ribu": 385.7,
+      "bukan_warganegara_ribu": 61
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Utara",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 354.7,
+      "lelaki_ribu": 180.2,
+      "perempuan_ribu": 174.4,
+      "warganegara_ribu": 332.9,
+      "bukan_warganegara_ribu": 21.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Timur Laut",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 565.3,
+      "lelaki_ribu": 286.4,
+      "perempuan_ribu": 279,
+      "warganegara_ribu": 497.3,
+      "bukan_warganegara_ribu": 68
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Beaufort",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 56.6,
+      "lelaki_ribu": 29.2,
+      "perempuan_ribu": 27.4,
+      "warganegara_ribu": 52.7,
+      "bukan_warganegara_ribu": 3.9
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Beluran",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 90.9,
+      "lelaki_ribu": 49.3,
+      "perempuan_ribu": 41.5,
+      "warganegara_ribu": 46.5,
+      "bukan_warganegara_ribu": 44.4
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kalabakan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 59.3,
+      "lelaki_ribu": 32.6,
+      "perempuan_ribu": 26.6,
+      "warganegara_ribu": 18.3,
+      "bukan_warganegara_ribu": 41
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Keningau",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 157.4,
+      "lelaki_ribu": 80.9,
+      "perempuan_ribu": 76.5,
+      "warganegara_ribu": 142.4,
+      "bukan_warganegara_ribu": 15
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kinabatangan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 164.4,
+      "lelaki_ribu": 89.7,
+      "perempuan_ribu": 74.7,
+      "warganegara_ribu": 44.8,
+      "bukan_warganegara_ribu": 119.6
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Belud",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 112,
+      "lelaki_ribu": 56.4,
+      "perempuan_ribu": 55.7,
+      "warganegara_ribu": 107.3,
+      "bukan_warganegara_ribu": 4.7
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Kinabalu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 556.1,
+      "lelaki_ribu": 286.5,
+      "perempuan_ribu": 269.6,
+      "warganegara_ribu": 428.8,
+      "bukan_warganegara_ribu": 127.3
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Marudu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 75.5,
+      "lelaki_ribu": 38.7,
+      "perempuan_ribu": 36.8,
+      "warganegara_ribu": 71.6,
+      "bukan_warganegara_ribu": 3.9
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kuala Penyu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 25,
+      "lelaki_ribu": 12.5,
+      "perempuan_ribu": 12.5,
+      "warganegara_ribu": 23,
+      "bukan_warganegara_ribu": 2
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kudat",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 94.2,
+      "lelaki_ribu": 47.8,
+      "perempuan_ribu": 46.4,
+      "warganegara_ribu": 82.6,
+      "bukan_warganegara_ribu": 11.6
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kunak",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 76.7,
+      "lelaki_ribu": 41.5,
+      "perempuan_ribu": 35.3,
+      "warganegara_ribu": 36.8,
+      "bukan_warganegara_ribu": 39.9
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Lahad Datu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 251.1,
+      "lelaki_ribu": 133.5,
+      "perempuan_ribu": 117.7,
+      "warganegara_ribu": 154.8,
+      "bukan_warganegara_ribu": 96.3
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Membakut",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 53.8,
+      "lelaki_ribu": 28.2,
+      "perempuan_ribu": 25.6,
+      "warganegara_ribu": 50.1,
+      "bukan_warganegara_ribu": 3.7
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Nabawan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 31.4,
+      "lelaki_ribu": 16.6,
+      "perempuan_ribu": 14.8,
+      "warganegara_ribu": 30,
+      "bukan_warganegara_ribu": 1.4
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Papar",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 122.5,
+      "lelaki_ribu": 65.1,
+      "perempuan_ribu": 57.4,
+      "warganegara_ribu": 114,
+      "bukan_warganegara_ribu": 8.5
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Penampang",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 165.5,
+      "lelaki_ribu": 87,
+      "perempuan_ribu": 78.6,
+      "warganegara_ribu": 148.5,
+      "bukan_warganegara_ribu": 17
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Pitas",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 39.2,
+      "lelaki_ribu": 20.2,
+      "perempuan_ribu": 19,
+      "warganegara_ribu": 37.1,
+      "bukan_warganegara_ribu": 2.1
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Putatan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 71,
+      "lelaki_ribu": 37.2,
+      "perempuan_ribu": 33.9,
+      "warganegara_ribu": 66.4,
+      "bukan_warganegara_ribu": 4.6
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Ranau",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 89.6,
+      "lelaki_ribu": 46,
+      "perempuan_ribu": 43.6,
+      "warganegara_ribu": 84.6,
+      "bukan_warganegara_ribu": 5
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Sandakan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 508.3,
+      "lelaki_ribu": 263.2,
+      "perempuan_ribu": 245.1,
+      "warganegara_ribu": 311.5,
+      "bukan_warganegara_ribu": 196.8
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Semporna",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 202.7,
+      "lelaki_ribu": 104.3,
+      "perempuan_ribu": 98.5,
+      "warganegara_ribu": 110.2,
+      "bukan_warganegara_ribu": 92.5
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Sipitang",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 41,
+      "lelaki_ribu": 21.4,
+      "perempuan_ribu": 19.7,
+      "warganegara_ribu": 35,
+      "bukan_warganegara_ribu": 6
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tambunan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 34,
+      "lelaki_ribu": 17.2,
+      "perempuan_ribu": 16.8,
+      "warganegara_ribu": 32.3,
+      "bukan_warganegara_ribu": 1.7
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tawau",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 418.1,
+      "lelaki_ribu": 217.9,
+      "perempuan_ribu": 200.3,
+      "warganegara_ribu": 275.2,
+      "bukan_warganegara_ribu": 142.9
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Telupid",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 29.9,
+      "lelaki_ribu": 16.3,
+      "perempuan_ribu": 13.6,
+      "warganegara_ribu": 18.8,
+      "bukan_warganegara_ribu": 11.1
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tenom",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 54.7,
+      "lelaki_ribu": 28.1,
+      "perempuan_ribu": 26.5,
+      "warganegara_ribu": 51.3,
+      "bukan_warganegara_ribu": 3.4
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tongod",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 42.5,
+      "lelaki_ribu": 22.9,
+      "perempuan_ribu": 19.6,
+      "warganegara_ribu": 27.7,
+      "bukan_warganegara_ribu": 14.8
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tuaran",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 143.4,
+      "lelaki_ribu": 72.7,
+      "perempuan_ribu": 70.7,
+      "warganegara_ribu": 134.4,
+      "bukan_warganegara_ribu": 9
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Asajaya",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 35.5,
+      "lelaki_ribu": 18.1,
+      "perempuan_ribu": 17.4,
+      "warganegara_ribu": 35.2,
+      "bukan_warganegara_ribu": 0.3
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bau",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 54.2,
+      "lelaki_ribu": 28,
+      "perempuan_ribu": 26.2,
+      "warganegara_ribu": 53.2,
+      "bukan_warganegara_ribu": 1
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Belaga",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 22.7,
+      "lelaki_ribu": 12.7,
+      "perempuan_ribu": 9.9,
+      "warganegara_ribu": 20.4,
+      "bukan_warganegara_ribu": 2.3
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Beluru",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 26.8,
+      "lelaki_ribu": 14.3,
+      "perempuan_ribu": 12.6,
+      "warganegara_ribu": 20.2,
+      "bukan_warganegara_ribu": 6.6
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Betong",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 37.6,
+      "lelaki_ribu": 19.5,
+      "perempuan_ribu": 18.1,
+      "warganegara_ribu": 37.2,
+      "bukan_warganegara_ribu": 0.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bintulu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 189.3,
+      "lelaki_ribu": 102.7,
+      "perempuan_ribu": 86.6,
+      "warganegara_ribu": 168.6,
+      "bukan_warganegara_ribu": 20.7
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bukit Mabong",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 10.7,
+      "lelaki_ribu": 6.4,
+      "perempuan_ribu": 4.2,
+      "warganegara_ribu": 10,
+      "bukan_warganegara_ribu": 0.7
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Dalat",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 22.1,
+      "lelaki_ribu": 11.4,
+      "perempuan_ribu": 10.7,
+      "warganegara_ribu": 19.2,
+      "bukan_warganegara_ribu": 2.9
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Daro",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 20.8,
+      "lelaki_ribu": 11.2,
+      "perempuan_ribu": 9.5,
+      "warganegara_ribu": 18.5,
+      "bukan_warganegara_ribu": 2.3
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Gedong",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 11.8,
+      "lelaki_ribu": 6.1,
+      "perempuan_ribu": 5.6,
+      "warganegara_ribu": 11.4,
+      "bukan_warganegara_ribu": 0.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Julau",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 15.9,
+      "lelaki_ribu": 7.9,
+      "perempuan_ribu": 8.1,
+      "warganegara_ribu": 15.9,
+      "bukan_warganegara_ribu": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kabong",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 19.4,
+      "lelaki_ribu": 9.7,
+      "perempuan_ribu": 9.7,
+      "warganegara_ribu": 19.3,
+      "bukan_warganegara_ribu": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kanowit",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 25.6,
+      "lelaki_ribu": 12.7,
+      "perempuan_ribu": 12.9,
+      "warganegara_ribu": 25.1,
+      "bukan_warganegara_ribu": 0.5
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kapit",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 37.8,
+      "lelaki_ribu": 19,
+      "perempuan_ribu": 18.7,
+      "warganegara_ribu": 37.4,
+      "bukan_warganegara_ribu": 0.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kuching",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 628.6,
+      "lelaki_ribu": 316.6,
+      "perempuan_ribu": 312,
+      "warganegara_ribu": 619,
+      "bukan_warganegara_ribu": 9.6
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lawas",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 38.6,
+      "lelaki_ribu": 19.7,
+      "perempuan_ribu": 18.9,
+      "warganegara_ribu": 36.7,
+      "bukan_warganegara_ribu": 1.9
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Limbang",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 46.8,
+      "lelaki_ribu": 24,
+      "perempuan_ribu": 22.8,
+      "warganegara_ribu": 45.4,
+      "bukan_warganegara_ribu": 1.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lingga",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 8.8,
+      "lelaki_ribu": 4.6,
+      "perempuan_ribu": 4.2,
+      "warganegara_ribu": 8.5,
+      "bukan_warganegara_ribu": 0.3
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lubok Antu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 24.7,
+      "lelaki_ribu": 12.4,
+      "perempuan_ribu": 12.3,
+      "warganegara_ribu": 24.3,
+      "bukan_warganegara_ribu": 0.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lundu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 35.1,
+      "lelaki_ribu": 18.8,
+      "perempuan_ribu": 16.4,
+      "warganegara_ribu": 32.3,
+      "bukan_warganegara_ribu": 2.8
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Maradong",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 20.9,
+      "lelaki_ribu": 10.4,
+      "perempuan_ribu": 10.5,
+      "warganegara_ribu": 20.4,
+      "bukan_warganegara_ribu": 0.5
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Marudi",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 18.9,
+      "lelaki_ribu": 10,
+      "perempuan_ribu": 8.9,
+      "warganegara_ribu": 17.3,
+      "bukan_warganegara_ribu": 1.6
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Matu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 16.6,
+      "lelaki_ribu": 9,
+      "perempuan_ribu": 7.7,
+      "warganegara_ribu": 14.6,
+      "bukan_warganegara_ribu": 2
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Miri",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 259,
+      "lelaki_ribu": 135.1,
+      "perempuan_ribu": 123.9,
+      "warganegara_ribu": 246.5,
+      "bukan_warganegara_ribu": 12.5
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Mukah",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 43,
+      "lelaki_ribu": 22.5,
+      "perempuan_ribu": 20.4,
+      "warganegara_ribu": 39.3,
+      "bukan_warganegara_ribu": 3.7
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Pakan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 15.8,
+      "lelaki_ribu": 8.3,
+      "perempuan_ribu": 7.5,
+      "warganegara_ribu": 15.8,
+      "bukan_warganegara_ribu": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Pantu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 10.7,
+      "lelaki_ribu": 5.5,
+      "perempuan_ribu": 5.1,
+      "warganegara_ribu": 10.3,
+      "bukan_warganegara_ribu": 0.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Pusa",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 20.4,
+      "lelaki_ribu": 10.5,
+      "perempuan_ribu": 9.9,
+      "warganegara_ribu": 19.7,
+      "bukan_warganegara_ribu": 0.7
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Samarahan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 137.2,
+      "lelaki_ribu": 66.5,
+      "perempuan_ribu": 70.7,
+      "warganegara_ribu": 136.3,
+      "bukan_warganegara_ribu": 0.9
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Saratok",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 23.6,
+      "lelaki_ribu": 11.6,
+      "perempuan_ribu": 12,
+      "warganegara_ribu": 23.3,
+      "bukan_warganegara_ribu": 0.3
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sarikei",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 45.3,
+      "lelaki_ribu": 22.6,
+      "perempuan_ribu": 22.7,
+      "warganegara_ribu": 44.8,
+      "bukan_warganegara_ribu": 0.5
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sebauh",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 31.6,
+      "lelaki_ribu": 18,
+      "perempuan_ribu": 13.7,
+      "warganegara_ribu": 21.2,
+      "bukan_warganegara_ribu": 10.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sebuyau",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 12.4,
+      "lelaki_ribu": 6.5,
+      "perempuan_ribu": 6,
+      "warganegara_ribu": 12,
+      "bukan_warganegara_ribu": 0.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Selangau",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 20.8,
+      "lelaki_ribu": 10.8,
+      "perempuan_ribu": 10,
+      "warganegara_ribu": 19.2,
+      "bukan_warganegara_ribu": 1.6
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Serian",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 56.7,
+      "lelaki_ribu": 28.9,
+      "perempuan_ribu": 27.8,
+      "warganegara_ribu": 55.5,
+      "bukan_warganegara_ribu": 1.2
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sibu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 257.1,
+      "lelaki_ribu": 132.5,
+      "perempuan_ribu": 124.6,
+      "warganegara_ribu": 241.2,
+      "bukan_warganegara_ribu": 15.9
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Siburan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 32.2,
+      "lelaki_ribu": 16.4,
+      "perempuan_ribu": 15.8,
+      "warganegara_ribu": 31.6,
+      "bukan_warganegara_ribu": 0.6
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Simunjan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 12,
+      "lelaki_ribu": 6.2,
+      "perempuan_ribu": 5.8,
+      "warganegara_ribu": 11.6,
+      "bukan_warganegara_ribu": 0.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Song",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 10.4,
+      "lelaki_ribu": 5.1,
+      "perempuan_ribu": 5.3,
+      "warganegara_ribu": 10.4,
+      "bukan_warganegara_ribu": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sri Aman",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 43.1,
+      "lelaki_ribu": 22.2,
+      "perempuan_ribu": 20.9,
+      "warganegara_ribu": 41.9,
+      "bukan_warganegara_ribu": 1.2
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Subis",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 55.8,
+      "lelaki_ribu": 30.6,
+      "perempuan_ribu": 25.2,
+      "warganegara_ribu": 43.6,
+      "bukan_warganegara_ribu": 12.2
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tanjung Manis",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 8,
+      "lelaki_ribu": 4.2,
+      "perempuan_ribu": 3.8,
+      "warganegara_ribu": 7.6,
+      "bukan_warganegara_ribu": 0.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tatau",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 32.6,
+      "lelaki_ribu": 17.8,
+      "perempuan_ribu": 14.8,
+      "warganegara_ribu": 29.6,
+      "bukan_warganegara_ribu": 3
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tebedu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 25.6,
+      "lelaki_ribu": 13.1,
+      "perempuan_ribu": 12.5,
+      "warganegara_ribu": 25.2,
+      "bukan_warganegara_ribu": 0.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Telang Usan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 17.3,
+      "lelaki_ribu": 9.1,
+      "perempuan_ribu": 8.1,
+      "warganegara_ribu": 17.2,
+      "bukan_warganegara_ribu": 0.1
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Gombak",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 991.9,
+      "lelaki_ribu": 517.9,
+      "perempuan_ribu": 473.9,
+      "warganegara_ribu": 911.9,
+      "bukan_warganegara_ribu": 80
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Klang",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 1191.2,
+      "lelaki_ribu": 659.9,
+      "perempuan_ribu": 531.3,
+      "warganegara_ribu": 1033.6,
+      "bukan_warganegara_ribu": 157.6
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Kuala Langat",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 331.6,
+      "lelaki_ribu": 173.4,
+      "perempuan_ribu": 158.2,
+      "warganegara_ribu": 313.4,
+      "bukan_warganegara_ribu": 18.2
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Kuala Selangor",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 305,
+      "lelaki_ribu": 156.8,
+      "perempuan_ribu": 148.2,
+      "warganegara_ribu": 287.8,
+      "bukan_warganegara_ribu": 17.2
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Petaling",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 2382,
+      "lelaki_ribu": 1265.2,
+      "perempuan_ribu": 1116.7,
+      "warganegara_ribu": 2153.5,
+      "bukan_warganegara_ribu": 228.5
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Sabak Bernam",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 110.9,
+      "lelaki_ribu": 57.6,
+      "perempuan_ribu": 53.2,
+      "warganegara_ribu": 106.2,
+      "bukan_warganegara_ribu": 4.7
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Sepang",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 354.1,
+      "lelaki_ribu": 189.6,
+      "perempuan_ribu": 164.5,
+      "warganegara_ribu": 318.8,
+      "bukan_warganegara_ribu": 35.3
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Ulu Langat",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 1526.4,
+      "lelaki_ribu": 818.3,
+      "perempuan_ribu": 708.1,
+      "warganegara_ribu": 1347.1,
+      "bukan_warganegara_ribu": 179.3
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Ulu Selangor",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 261.2,
+      "lelaki_ribu": 139.6,
+      "perempuan_ribu": 121.6,
+      "warganegara_ribu": 244.5,
+      "bukan_warganegara_ribu": 16.7
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Besut",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 169.4,
+      "lelaki_ribu": 86.1,
+      "perempuan_ribu": 83.2,
+      "warganegara_ribu": 165.4,
+      "bukan_warganegara_ribu": 4
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Dungun",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 171.9,
+      "lelaki_ribu": 88.3,
+      "perempuan_ribu": 83.6,
+      "warganegara_ribu": 167.7,
+      "bukan_warganegara_ribu": 4.2
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Hulu Terengganu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 75.1,
+      "lelaki_ribu": 39.6,
+      "perempuan_ribu": 35.5,
+      "warganegara_ribu": 71.4,
+      "bukan_warganegara_ribu": 3.7
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kemaman",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 238,
+      "lelaki_ribu": 126.6,
+      "perempuan_ribu": 111.4,
+      "warganegara_ribu": 224.1,
+      "bukan_warganegara_ribu": 13.9
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kuala Nerus",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 159.2,
+      "lelaki_ribu": 79.3,
+      "perempuan_ribu": 79.8,
+      "warganegara_ribu": 156.5,
+      "bukan_warganegara_ribu": 2.7
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kuala Terengganu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 251.3,
+      "lelaki_ribu": 127,
+      "perempuan_ribu": 124.3,
+      "warganegara_ribu": 245.5,
+      "bukan_warganegara_ribu": 5.8
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Marang",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 130.7,
+      "lelaki_ribu": 66.8,
+      "perempuan_ribu": 63.9,
+      "warganegara_ribu": 127.6,
+      "bukan_warganegara_ribu": 3.1
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Setiu",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 65.3,
+      "lelaki_ribu": 33.2,
+      "perempuan_ribu": 32.1,
+      "warganegara_ribu": 63.7,
+      "bukan_warganegara_ribu": 1.6
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "daerah": "W.P. Kuala Lumpur",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 2082.3,
+      "lelaki_ribu": 1123.5,
+      "perempuan_ribu": 958.8,
+      "warganegara_ribu": 1809.5,
+      "bukan_warganegara_ribu": 272.8
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "daerah": "W.P. Labuan",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 101.1,
+      "lelaki_ribu": 51.7,
+      "perempuan_ribu": 49.4,
+      "warganegara_ribu": 90.1,
+      "bukan_warganegara_ribu": 11
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "daerah": "W.P. Putrajaya",
+      "tahun": 2026,
+      "jumlah_penduduk_ribu": 121.4,
+      "lelaki_ribu": 59.7,
+      "perempuan_ribu": 61.6,
+      "warganegara_ribu": 118.3,
+      "bukan_warganegara_ribu": 3.1
+    }
+  ],
+  "meta": {
+    "title": "Penduduk mengikut Daerah di Malaysia (2026) - Muat turun percuma",
+    "description": "Anggaran penduduk 2026 (ribu orang) bagi setiap daerah pentadbiran di Malaysia, dengan pecahan lelaki, perempuan, warganegara dan bukan warganegara, daripada Jabatan Perangkaan Malaysia. Mengandungi 166 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Penduduk mengikut Daerah di Malaysia (2026) | ListBase",
+    "seo_description": "Muat turun Penduduk mengikut Daerah di Malaysia (2026) — 166 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 166 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://open.dosm.gov.my/data-catalogue/population_district"
+    ]
+  }
+}

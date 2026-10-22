@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:51.203Z",
-  "total_datasets": 636,
-  "total_records": 523284,
+  "generated": "2026-10-22T04:32:51.745Z",
+  "total_datasets": 637,
+  "total_records": 523450,
   "categories": [
     {
       "id": "culture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -16949,6 +16949,35 @@
         "xlsx": {
           "name": "ms-negeri-mengikut-penduduk_MS.xlsx",
           "size": 7801
+        }
+      }
+    },
+    {
+      "id": "ms-penduduk-daerah",
+      "name": "Penduduk mengikut Daerah di Malaysia (2026)",
+      "category": "society",
+      "record_count": 166,
+      "columns": [
+        "negeri",
+        "daerah",
+        "tahun",
+        "jumlah_penduduk_ribu",
+        "lelaki_ribu",
+        "perempuan_ribu",
+        "warganegara_ribu",
+        "bukan_warganegara_ribu"
+      ],
+      "source": "https://open.dosm.gov.my/data-catalogue/population_district",
+      "updated": "2026-10",
+      "size": 43831,
+      "files": {
+        "csv": {
+          "name": "ms-penduduk-daerah_MS.csv",
+          "size": 10566
+        },
+        "xlsx": {
+          "name": "ms-penduduk-daerah_MS.xlsx",
+          "size": 14335
         }
       }
     },
