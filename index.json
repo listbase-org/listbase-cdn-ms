@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:12.498Z",
-  "total_datasets": 573,
-  "total_records": 507982,
+  "generated": "2026-10-22T04:32:13.070Z",
+  "total_datasets": 574,
+  "total_records": 508015,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 105
+      "dataset_count": 106
     },
     {
       "id": "reference",
@@ -7479,6 +7479,31 @@
         "xlsx": {
           "name": "ms-parti-politik-sarawak_MS.xlsx",
           "size": 7264
+        }
+      }
+    },
+    {
+      "id": "ms-pemimpin-negeri",
+      "name": "Senarai Pemimpin Negeri-Negeri di Malaysia",
+      "category": "politics",
+      "record_count": 33,
+      "columns": [
+        "negeri_dan_wilayah_persekutuan",
+        "jawatan",
+        "nama",
+        "tarikh_memegang_jawatan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_pemimpin_negeri-negeri_di_Malaysia",
+      "updated": "2026-10",
+      "size": 7834,
+      "files": {
+        "csv": {
+          "name": "ms-pemimpin-negeri_MS.csv",
+          "size": 2134
+        },
+        "xlsx": {
+          "name": "ms-pemimpin-negeri_MS.xlsx",
+          "size": 8157
         }
       }
     },
