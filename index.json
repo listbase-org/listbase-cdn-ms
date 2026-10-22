@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:52.613Z",
-  "total_datasets": 541,
-  "total_records": 503488,
+  "generated": "2026-10-22T04:31:53.100Z",
+  "total_datasets": 542,
+  "total_records": 503977,
   "categories": [
     {
       "id": "culture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -14842,6 +14842,29 @@
         "xlsx": {
           "name": "ms-ibu-pejabat-polis-daerah_MS.xlsx",
           "size": 11371
+        }
+      }
+    },
+    {
+      "id": "ms-kaum-di-malaysia",
+      "name": "Senarai Kaum dan Suku Kaum di Malaysia",
+      "category": "society",
+      "record_count": 489,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kaum_di_Malaysia",
+      "updated": "2026-10",
+      "size": 49437,
+      "files": {
+        "csv": {
+          "name": "ms-kaum-di-malaysia_MS.csv",
+          "size": 25469
+        },
+        "xlsx": {
+          "name": "ms-kaum-di-malaysia_MS.xlsx",
+          "size": 15861
         }
       }
     },
