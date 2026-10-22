@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:46.548Z",
-  "total_datasets": 628,
-  "total_records": 518937,
+  "generated": "2026-10-22T04:32:47.089Z",
+  "total_datasets": 629,
+  "total_records": 519011,
   "categories": [
     {
       "id": "culture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "food",
@@ -3042,6 +3042,30 @@
         "xlsx": {
           "name": "ms-bank_MS.xlsx",
           "size": 13517
+        }
+      }
+    },
+    {
+      "id": "ms-dividen-kwsp",
+      "name": "Kadar Dividen KWSP Tahunan (1952–2025)",
+      "category": "finance",
+      "record_count": 74,
+      "columns": [
+        "tahun",
+        "dividen_konvensional_peratus",
+        "dividen_syariah_peratus"
+      ],
+      "source": "https://data.gov.my/data-catalogue/epf_dividend",
+      "updated": "2026-10",
+      "size": 9944,
+      "files": {
+        "csv": {
+          "name": "ms-dividen-kwsp_MS.csv",
+          "size": 1248
+        },
+        "xlsx": {
+          "name": "ms-dividen-kwsp_MS.xlsx",
+          "size": 7885
         }
       }
     },

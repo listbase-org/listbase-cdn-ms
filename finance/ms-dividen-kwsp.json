@@ -1,0 +1,411 @@
+{
+  "id": "ms-dividen-kwsp",
+  "name": "Kadar Dividen KWSP Tahunan (1952–2025)",
+  "title": "Kadar Dividen KWSP Tahunan (1952–2025)",
+  "description": "Kadar dividen tahunan yang diisytiharkan oleh Kumpulan Wang Simpanan Pekerja (KWSP) bagi simpanan konvensional dan simpanan patuh Syariah sejak 1952.",
+  "category": "finance",
+  "source": "https://data.gov.my/data-catalogue/epf_dividend",
+  "source_url": "https://data.gov.my/data-catalogue/epf_dividend",
+  "updated": "2026-10",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "dividen_konvensional_peratus",
+      "label": "Dividen Konvensional (%)",
+      "type": "number"
+    },
+    {
+      "key": "dividen_syariah_peratus",
+      "label": "Dividen Syariah (%)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 1952,
+      "dividen_konvensional_peratus": 2.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1953,
+      "dividen_konvensional_peratus": 2.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1954,
+      "dividen_konvensional_peratus": 2.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1955,
+      "dividen_konvensional_peratus": 2.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1956,
+      "dividen_konvensional_peratus": 2.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1957,
+      "dividen_konvensional_peratus": 2.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1958,
+      "dividen_konvensional_peratus": 2.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1959,
+      "dividen_konvensional_peratus": 2.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1960,
+      "dividen_konvensional_peratus": 4,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1961,
+      "dividen_konvensional_peratus": 4,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1962,
+      "dividen_konvensional_peratus": 4,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1963,
+      "dividen_konvensional_peratus": 5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1964,
+      "dividen_konvensional_peratus": 5.25,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1965,
+      "dividen_konvensional_peratus": 5.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1966,
+      "dividen_konvensional_peratus": 5.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1967,
+      "dividen_konvensional_peratus": 5.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1968,
+      "dividen_konvensional_peratus": 5.75,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1969,
+      "dividen_konvensional_peratus": 5.75,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1970,
+      "dividen_konvensional_peratus": 5.75,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1971,
+      "dividen_konvensional_peratus": 5.8,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1972,
+      "dividen_konvensional_peratus": 5.85,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1973,
+      "dividen_konvensional_peratus": 5.85,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1974,
+      "dividen_konvensional_peratus": 6.6,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1975,
+      "dividen_konvensional_peratus": 6.6,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1976,
+      "dividen_konvensional_peratus": 7,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1977,
+      "dividen_konvensional_peratus": 7,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1978,
+      "dividen_konvensional_peratus": 7,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1979,
+      "dividen_konvensional_peratus": 7.25,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1980,
+      "dividen_konvensional_peratus": 8,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1981,
+      "dividen_konvensional_peratus": 8,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1982,
+      "dividen_konvensional_peratus": 8,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1983,
+      "dividen_konvensional_peratus": 8.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1984,
+      "dividen_konvensional_peratus": 8.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1985,
+      "dividen_konvensional_peratus": 8.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1986,
+      "dividen_konvensional_peratus": 8.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1987,
+      "dividen_konvensional_peratus": 8.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1988,
+      "dividen_konvensional_peratus": 8,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1989,
+      "dividen_konvensional_peratus": 8,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1990,
+      "dividen_konvensional_peratus": 8,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1991,
+      "dividen_konvensional_peratus": 8,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1992,
+      "dividen_konvensional_peratus": 8,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1993,
+      "dividen_konvensional_peratus": 8,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1994,
+      "dividen_konvensional_peratus": 8,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1995,
+      "dividen_konvensional_peratus": 7.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1996,
+      "dividen_konvensional_peratus": 7.7,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1997,
+      "dividen_konvensional_peratus": 6.7,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1998,
+      "dividen_konvensional_peratus": 6.7,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 1999,
+      "dividen_konvensional_peratus": 6.84,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2000,
+      "dividen_konvensional_peratus": 6,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2001,
+      "dividen_konvensional_peratus": 5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2002,
+      "dividen_konvensional_peratus": 4.25,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2003,
+      "dividen_konvensional_peratus": 4.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2004,
+      "dividen_konvensional_peratus": 4.75,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2005,
+      "dividen_konvensional_peratus": 5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2006,
+      "dividen_konvensional_peratus": 5.15,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2007,
+      "dividen_konvensional_peratus": 5.8,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2008,
+      "dividen_konvensional_peratus": 4.5,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2009,
+      "dividen_konvensional_peratus": 5.65,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2010,
+      "dividen_konvensional_peratus": 5.8,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2011,
+      "dividen_konvensional_peratus": 6,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2012,
+      "dividen_konvensional_peratus": 6.15,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2013,
+      "dividen_konvensional_peratus": 6.35,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2014,
+      "dividen_konvensional_peratus": 6.75,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2015,
+      "dividen_konvensional_peratus": 6.4,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2016,
+      "dividen_konvensional_peratus": 5.7,
+      "dividen_syariah_peratus": ""
+    },
+    {
+      "tahun": 2017,
+      "dividen_konvensional_peratus": 6.9,
+      "dividen_syariah_peratus": 6.4
+    },
+    {
+      "tahun": 2018,
+      "dividen_konvensional_peratus": 6.15,
+      "dividen_syariah_peratus": 5.9
+    },
+    {
+      "tahun": 2019,
+      "dividen_konvensional_peratus": 5.45,
+      "dividen_syariah_peratus": 5
+    },
+    {
+      "tahun": 2020,
+      "dividen_konvensional_peratus": 5.2,
+      "dividen_syariah_peratus": 4.9
+    },
+    {
+      "tahun": 2021,
+      "dividen_konvensional_peratus": 6.1,
+      "dividen_syariah_peratus": 5.65
+    },
+    {
+      "tahun": 2022,
+      "dividen_konvensional_peratus": 5.35,
+      "dividen_syariah_peratus": 4.75
+    },
+    {
+      "tahun": 2023,
+      "dividen_konvensional_peratus": 5.5,
+      "dividen_syariah_peratus": 5.4
+    },
+    {
+      "tahun": 2024,
+      "dividen_konvensional_peratus": 6.3,
+      "dividen_syariah_peratus": 6.3
+    },
+    {
+      "tahun": 2025,
+      "dividen_konvensional_peratus": 6.15,
+      "dividen_syariah_peratus": 6.15
+    }
+  ],
+  "meta": {
+    "title": "Kadar Dividen KWSP Tahunan (1952–2025) - Muat turun percuma",
+    "description": "Kadar dividen tahunan yang diisytiharkan oleh Kumpulan Wang Simpanan Pekerja (KWSP) bagi simpanan konvensional dan simpanan patuh Syariah sejak 1952. Mengandungi 74 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kadar Dividen KWSP Tahunan (1952–2025) | ListBase",
+    "seo_description": "Muat turun Kadar Dividen KWSP Tahunan (1952–2025) — 74 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 74 rekod / 3 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/epf_dividend"
+    ]
+  }
+}
