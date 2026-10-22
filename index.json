@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:33.067Z",
-  "total_datasets": 508,
-  "total_records": 498007,
+  "generated": "2026-10-22T04:31:33.543Z",
+  "total_datasets": 509,
+  "total_records": 498017,
   "categories": [
     {
       "id": "culture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "health",
@@ -1874,6 +1874,31 @@
         "xlsx": {
           "name": "ms-bandar_MS.xlsx",
           "size": 33492
+        }
+      }
+    },
+    {
+      "id": "ms-bandar-kembar",
+      "name": "Senarai Bandar Kembar di Malaysia",
+      "category": "geography",
+      "record_count": 10,
+      "columns": [
+        "kedudukan",
+        "bandar",
+        "negara",
+        "tahun"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_bandar_dan_bandar_raya_kembar_di_Malaysia",
+      "updated": "2026-10",
+      "size": 2876,
+      "files": {
+        "csv": {
+          "name": "ms-bandar-kembar_MS.csv",
+          "size": 397
+        },
+        "xlsx": {
+          "name": "ms-bandar-kembar_MS.xlsx",
+          "size": 7085
         }
       }
     },

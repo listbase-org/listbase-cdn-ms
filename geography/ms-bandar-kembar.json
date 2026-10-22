@@ -1,0 +1,106 @@
+{
+  "id": "ms-bandar-kembar",
+  "name": "Senarai Bandar Kembar di Malaysia",
+  "title": "Senarai Bandar Kembar di Malaysia",
+  "description": "Senarai Bandar Kembar di Malaysia — 10 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "geography",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_bandar_dan_bandar_raya_kembar_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_bandar_dan_bandar_raya_kembar_di_Malaysia",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "kedudukan",
+      "label": "Kedudukan",
+      "type": "number"
+    },
+    {
+      "key": "bandar",
+      "label": "Bandar",
+      "type": "string"
+    },
+    {
+      "key": "negara",
+      "label": "Negara",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kedudukan": "1",
+      "bandar": "Lisbon",
+      "negara": "Portugal",
+      "tahun": "1984"
+    },
+    {
+      "kedudukan": "2",
+      "bandar": "Kuala Lumpur",
+      "negara": "Malaysia",
+      "tahun": "1989"
+    },
+    {
+      "kedudukan": "3",
+      "bandar": "Hoorn",
+      "negara": "Belanda",
+      "tahun": "1989"
+    },
+    {
+      "kedudukan": "4",
+      "bandar": "Valparaiso",
+      "negara": "Chile",
+      "tahun": "1991"
+    },
+    {
+      "kedudukan": "5",
+      "bandar": "Nanjing di wilayah Jiangsu",
+      "negara": "China",
+      "tahun": "2002"
+    },
+    {
+      "kedudukan": "6",
+      "bandar": "Changsha",
+      "negara": "China",
+      "tahun": "2004"
+    },
+    {
+      "kedudukan": "7",
+      "bandar": "Sawahlunto",
+      "negara": "Indonesia",
+      "tahun": "2004"
+    },
+    {
+      "kedudukan": "8",
+      "bandar": "Padang Panjang",
+      "negara": "Indonesia",
+      "tahun": "2006"
+    },
+    {
+      "kedudukan": "9",
+      "bandar": "Kota Tua Jakarta",
+      "negara": "Indonesia",
+      "tahun": "2014"
+    },
+    {
+      "kedudukan": "10",
+      "bandar": "Guangdong",
+      "negara": "China",
+      "tahun": "2015"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Bandar Kembar di Malaysia - Muat turun percuma",
+    "description": "Senarai Bandar Kembar di Malaysia — 10 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 10 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Bandar Kembar di Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Bandar Kembar di Malaysia — 10 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 10 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_bandar_dan_bandar_raya_kembar_di_Malaysia"
+    ]
+  }
+}
