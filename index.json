@@ -1,12 +1,16 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:05.867Z",
-  "total_datasets": 564,
-  "total_records": 506945,
+  "generated": "2026-10-22T04:32:06.374Z",
+  "total_datasets": 565,
+  "total_records": 506961,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 46
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -1715,6 +1719,42 @@
         "xlsx": {
           "name": "ms-wp-putrajaya-surau_MS.xlsx",
           "size": 15240
+        }
+      }
+    },
+    {
+      "id": "ms-negeri-kdnk",
+      "name": "Senarai Negeri Malaysia mengikut KDNK",
+      "category": "economy",
+      "record_count": 16,
+      "columns": [
+        "negeri_atau_wilayah_persekutuan",
+        "keluaran_dalam_negara_kasar_rm_juta_2023",
+        "keluaran_dalam_negara_kasar_rm_juta_2022",
+        "keluaran_dalam_negara_kasar_rm_juta_2021",
+        "keluaran_dalam_negara_kasar_rm_juta_2020",
+        "keluaran_dalam_negara_kasar_rm_juta_2019",
+        "keluaran_dalam_negara_kasar_rm_juta_2018",
+        "keluaran_dalam_negara_kasar_rm_juta_2017",
+        "keluaran_dalam_negara_kasar_rm_juta_2016",
+        "keluaran_dalam_negara_kasar_rm_juta_2015",
+        "keluaran_dalam_negara_kasar_rm_juta_2014",
+        "keluaran_dalam_negara_kasar_rm_juta_2013",
+        "keluaran_dalam_negara_kasar_rm_juta_2012",
+        "keluaran_dalam_negara_kasar_rm_juta_2011",
+        "keluaran_dalam_negara_kasar_rm_juta_2010"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_negeri_Malaysia_mengikut_KDNK",
+      "updated": "2026-10",
+      "size": 17908,
+      "files": {
+        "csv": {
+          "name": "ms-negeri-kdnk_MS.csv",
+          "size": 2648
+        },
+        "xlsx": {
+          "name": "ms-negeri-kdnk_MS.xlsx",
+          "size": 8798
         }
       }
     },
