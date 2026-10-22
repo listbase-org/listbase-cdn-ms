@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:34.548Z",
-  "total_datasets": 511,
-  "total_records": 498154,
+  "generated": "2026-10-22T04:31:35.049Z",
+  "total_datasets": 512,
+  "total_records": 498170,
   "categories": [
     {
       "id": "culture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "transport",
@@ -15028,6 +15028,33 @@
         "xlsx": {
           "name": "ms-bangunan-tertinggi-johor-bahru_MS.xlsx",
           "size": 7479
+        }
+      }
+    },
+    {
+      "id": "ms-bangunan-tertinggi-kuala-lumpur",
+      "name": "Senarai Bangunan Tertinggi di Kuala Lumpur",
+      "category": "tourism",
+      "record_count": 16,
+      "columns": [
+        "rank",
+        "nama",
+        "ketinggian_ft_m",
+        "tingkat",
+        "tahun",
+        "nota"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_bangunan_tertinggi_di_Kuala_Lumpur",
+      "updated": "2026-10",
+      "size": 4890,
+      "files": {
+        "csv": {
+          "name": "ms-bangunan-tertinggi-kuala-lumpur_MS.csv",
+          "size": 1150
+        },
+        "xlsx": {
+          "name": "ms-bangunan-tertinggi-kuala-lumpur_MS.xlsx",
+          "size": 7751
         }
       }
     },
