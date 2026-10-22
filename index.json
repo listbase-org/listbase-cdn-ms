@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:18.385Z",
-  "total_datasets": 584,
-  "total_records": 509594,
+  "generated": "2026-10-22T04:32:18.887Z",
+  "total_datasets": 585,
+  "total_records": 509759,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -3480,6 +3480,32 @@
         "xlsx": {
           "name": "ms-pesuruhjaya-tinggi-british-tanah-melayu_MS.xlsx",
           "size": 7571
+        }
+      }
+    },
+    {
+      "id": "ms-raja-raja-malaysia",
+      "name": "Senarai Raja-Raja Malaysia",
+      "category": "history",
+      "record_count": 165,
+      "columns": [
+        "bahagian",
+        "nama",
+        "tarikh_lahir_dan_kematian",
+        "tarikh_pemerintahan",
+        "catatan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Raja-Raja_Malaysia",
+      "updated": "2026-10",
+      "size": 50428,
+      "files": {
+        "csv": {
+          "name": "ms-raja-raja-malaysia_MS.csv",
+          "size": 27322
+        },
+        "xlsx": {
+          "name": "ms-raja-raja-malaysia_MS.xlsx",
+          "size": 17088
         }
       }
     },
