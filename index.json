@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:48.101Z",
-  "total_datasets": 533,
-  "total_records": 500078,
+  "generated": "2026-10-22T04:31:48.640Z",
+  "total_datasets": 534,
+  "total_records": 500352,
   "categories": [
     {
       "id": "culture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 59
+      "dataset_count": 60
     }
   ],
   "datasets": [
@@ -15676,6 +15676,30 @@
         "xlsx": {
           "name": "ms-jalan-negeri-sembilan_MS.xlsx",
           "size": 12857
+        }
+      }
+    },
+    {
+      "id": "ms-jalan-persekutuan",
+      "name": "Senarai Jalan Persekutuan di Malaysia",
+      "category": "transport",
+      "record_count": 274,
+      "columns": [
+        "jata_laluan",
+        "nama",
+        "nama_jalan_lebuhraya"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Jalan_Persekutuan_di_Malaysia",
+      "updated": "2026-10",
+      "size": 43831,
+      "files": {
+        "csv": {
+          "name": "ms-jalan-persekutuan_MS.csv",
+          "size": 20310
+        },
+        "xlsx": {
+          "name": "ms-jalan-persekutuan_MS.xlsx",
+          "size": 15884
         }
       }
     },
