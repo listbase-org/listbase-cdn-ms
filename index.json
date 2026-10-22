@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:55.966Z",
-  "total_datasets": 544,
-  "total_records": 504096,
+  "generated": "2026-10-22T04:31:56.437Z",
+  "total_datasets": 545,
+  "total_records": 504118,
   "categories": [
     {
       "id": "culture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "history",
@@ -2654,6 +2654,32 @@
         "xlsx": {
           "name": "ms-kelantan-fasiliti-kesihatan_MS.xlsx",
           "size": 33839
+        }
+      }
+    },
+    {
+      "id": "ms-kemudahan-kesihatan-brunei",
+      "name": "Senarai Kemudahan Kesihatan di Brunei",
+      "category": "health",
+      "record_count": 22,
+      "columns": [
+        "nama",
+        "jenis",
+        "pembiayaan",
+        "lokasi",
+        "daerah"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kemudahan_kesihatan_di_Brunei",
+      "updated": "2026-10",
+      "size": 6103,
+      "files": {
+        "csv": {
+          "name": "ms-kemudahan-kesihatan-brunei_MS.csv",
+          "size": 2212
+        },
+        "xlsx": {
+          "name": "ms-kemudahan-kesihatan-brunei_MS.xlsx",
+          "size": 7709
         }
       }
     },
