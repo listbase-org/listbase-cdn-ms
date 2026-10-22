@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:43.247Z",
-  "total_datasets": 622,
-  "total_records": 518040,
+  "generated": "2026-10-22T04:32:43.827Z",
+  "total_datasets": 623,
+  "total_records": 518097,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "language",
@@ -4410,6 +4410,31 @@
         "xlsx": {
           "name": "ms-sultan-johor_MS.xlsx",
           "size": 12511
+        }
+      }
+    },
+    {
+      "id": "ms-tema-hari-kebangsaan",
+      "name": "Senarai Tema Hari Kebangsaan dan Hari Malaysia",
+      "category": "history",
+      "record_count": 57,
+      "columns": [
+        "tahun",
+        "sambutan_hari_kebangsaan",
+        "sambutan_hari_malaysia",
+        "tema"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Tema_Hari_Kebangsaan_Malaysia_dan_Hari_Malaysia",
+      "updated": "2026-10",
+      "size": 11053,
+      "files": {
+        "csv": {
+          "name": "ms-tema-hari-kebangsaan_MS.csv",
+          "size": 2924
+        },
+        "xlsx": {
+          "name": "ms-tema-hari-kebangsaan_MS.xlsx",
+          "size": 8934
         }
       }
     },
