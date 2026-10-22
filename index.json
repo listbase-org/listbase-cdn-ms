@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:36.175Z",
-  "total_datasets": 514,
-  "total_records": 498276,
+  "generated": "2026-10-22T04:31:36.788Z",
+  "total_datasets": 515,
+  "total_records": 498722,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -14260,6 +14260,29 @@
         "xlsx": {
           "name": "ms-amfibia_MS.xlsx",
           "size": 9582
+        }
+      }
+    },
+    {
+      "id": "ms-burung",
+      "name": "Senarai Burung di Malaysia",
+      "category": "science",
+      "record_count": 446,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_burung_dari_Malaysia",
+      "updated": "2026-10",
+      "size": 58762,
+      "files": {
+        "csv": {
+          "name": "ms-burung_MS.csv",
+          "size": 36854
+        },
+        "xlsx": {
+          "name": "ms-burung_MS.xlsx",
+          "size": 20349
         }
       }
     },
