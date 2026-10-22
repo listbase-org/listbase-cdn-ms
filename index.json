@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:48.640Z",
-  "total_datasets": 534,
-  "total_records": 500352,
+  "generated": "2026-10-22T04:31:49.384Z",
+  "total_datasets": 535,
+  "total_records": 500430,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "entertainment",
@@ -1657,6 +1657,34 @@
         "xlsx": {
           "name": "ms-wp-putrajaya-surau_MS.xlsx",
           "size": 15240
+        }
+      }
+    },
+    {
+      "id": "ms-jurnal-akademik",
+      "name": "Senarai Jurnal Akademik Terbitan Malaysia",
+      "category": "education",
+      "record_count": 78,
+      "columns": [
+        "bahagian",
+        "nama_jurnal",
+        "issn_cetak",
+        "issn_web",
+        "penerbit",
+        "bahasa",
+        "bidang"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_jurnal_akademik_diterbitkan_di_Malaysia",
+      "updated": "2026-10",
+      "size": 28065,
+      "files": {
+        "csv": {
+          "name": "ms-jurnal-akademik_MS.csv",
+          "size": 14728
+        },
+        "xlsx": {
+          "name": "ms-jurnal-akademik_MS.xlsx",
+          "size": 12421
         }
       }
     },
