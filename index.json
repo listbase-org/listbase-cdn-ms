@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:45.973Z",
-  "total_datasets": 529,
-  "total_records": 499618,
+  "generated": "2026-10-22T04:31:46.517Z",
+  "total_datasets": 530,
+  "total_records": 499760,
   "categories": [
     {
       "id": "culture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -14648,6 +14648,32 @@
         "xlsx": {
           "name": "ms-daerah-mengikut-populasi_MS.xlsx",
           "size": 10778
+        }
+      }
+    },
+    {
+      "id": "ms-ibu-pejabat-polis-daerah",
+      "name": "Senarai Ibu Pejabat Polis Daerah di Malaysia",
+      "category": "society",
+      "record_count": 142,
+      "columns": [
+        "bahagian",
+        "ibu_pejabat_polis",
+        "bandar",
+        "daerah",
+        "laman_web"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_balai_polis_di_Malaysia",
+      "updated": "2026-10",
+      "size": 33959,
+      "files": {
+        "csv": {
+          "name": "ms-ibu-pejabat-polis-daerah_MS.csv",
+          "size": 16127
+        },
+        "xlsx": {
+          "name": "ms-ibu-pejabat-polis-daerah_MS.xlsx",
+          "size": 11371
         }
       }
     },
