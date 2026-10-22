@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:14.279Z",
-  "total_datasets": 576,
-  "total_records": 508163,
+  "generated": "2026-10-22T04:32:14.816Z",
+  "total_datasets": 577,
+  "total_records": 508597,
   "categories": [
     {
       "id": "culture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "politics",
@@ -3751,6 +3751,32 @@
         "xlsx": {
           "name": "ms-lagu-patriotik_MS.xlsx",
           "size": 10468
+        }
+      }
+    },
+    {
+      "id": "ms-penyanyi-malaysia",
+      "name": "Senarai Penyanyi dan Kumpulan Muzik Malaysia",
+      "category": "music",
+      "record_count": 434,
+      "columns": [
+        "bahagian",
+        "kumpulan",
+        "tahun_aktif",
+        "album_ternama",
+        "genre"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_penyanyi_Malaysia",
+      "updated": "2026-10",
+      "size": 65145,
+      "files": {
+        "csv": {
+          "name": "ms-penyanyi-malaysia_MS.csv",
+          "size": 14779
+        },
+        "xlsx": {
+          "name": "ms-penyanyi-malaysia_MS.xlsx",
+          "size": 19782
         }
       }
     },
