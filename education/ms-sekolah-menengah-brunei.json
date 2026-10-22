@@ -1,0 +1,448 @@
+{
+  "id": "ms-sekolah-menengah-brunei",
+  "name": "Senarai Sekolah Menengah di Brunei",
+  "title": "Senarai Sekolah Menengah di Brunei",
+  "description": "Senarai Sekolah Menengah di Brunei — 49 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "education",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_sekolah_menengah_di_Brunei",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_sekolah_menengah_di_Brunei",
+  "updated": "2026-10",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "pembiayaan",
+      "label": "Pembiayaan",
+      "type": "string"
+    },
+    {
+      "key": "aliran",
+      "label": "Aliran",
+      "type": "string"
+    },
+    {
+      "key": "jantina",
+      "label": "Jantina",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_daerah",
+      "label": "Lokasi Daerah",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Maktab Anthony Abell",
+      "singkatan": "AAC",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Belait"
+    },
+    {
+      "nama": "Sekolah Menengah Awang Semaun",
+      "singkatan": "SMAS",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Arab Belait",
+      "singkatan": "",
+      "pembiayaan": "kerajaan",
+      "aliran": "ugama Arab",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Belait"
+    },
+    {
+      "nama": "Sekolah Menengah Berakas",
+      "singkatan": "SMB",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Chung Ching",
+      "singkatan": "CCMS",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Belait"
+    },
+    {
+      "nama": "Sekolah Menengah Chung Hua",
+      "singkatan": "CHMS",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Belait"
+    },
+    {
+      "nama": "Sekolah Menengah Chung Hwa",
+      "singkatan": "CHMS",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Institut Tahfiz Al-Qur'an Sultan Haji Hassanal Bolkiah",
+      "singkatan": "ITQSHHB",
+      "pembiayaan": "kerajaan",
+      "aliran": "ugama Arab",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Antarabangsa Brunei",
+      "singkatan": "ISB",
+      "pembiayaan": "swasta",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Antarabangsa Jerudong",
+      "singkatan": "JIS",
+      "pembiayaan": "swasta",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Katok",
+      "singkatan": "",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Lambak Kiri",
+      "singkatan": "",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Ma'had Islam Brunei",
+      "singkatan": "",
+      "pembiayaan": "kerajaan",
+      "aliran": "ugama Arab",
+      "jantina": "lelaki",
+      "lokasi_daerah": "Tutong"
+    },
+    {
+      "nama": "Sekolah Menengah Masin",
+      "singkatan": "",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Menglait",
+      "singkatan": "SMMG",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Muda Hashim",
+      "singkatan": "SMMHT",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "lelaki",
+      "lokasi_daerah": "Tutong"
+    },
+    {
+      "nama": "Maktab Sains Paduka Seri Begawan Sultan",
+      "singkatan": "MSPSBS",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Pehin Datu Seri Maharaja",
+      "singkatan": "SMPDSM",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Pengiran Anak Puteri Hajah Masna",
+      "singkatan": "SMPAPHM",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "perempuan",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Pengiran Anak Puteri Hajah Rashidah Sa'adatul Bolkiah",
+      "singkatan": "SMPAPHRSB",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Belait"
+    },
+    {
+      "nama": "Sekolah Menengah Pengiran Isteri Hajjah Mariam",
+      "singkatan": "SMPIHM",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Pengiran Jaya Negara Pengiran Haji Abu Bakar",
+      "singkatan": "SMPJNPHAB",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Belait"
+    },
+    {
+      "nama": "Sekolah Menengah Perdana Wazir",
+      "singkatan": "",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Belait"
+    },
+    {
+      "nama": "Sekolah Tinggi Perempuan Raja Isteri",
+      "singkatan": "STPRI",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "perempuan",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Ugama Arab Menengah Perempuan Raja Isteri Pengiran Anak Hajah Saleha",
+      "singkatan": "SUAMPRIPAHS",
+      "pembiayaan": "kerajaan",
+      "aliran": "ugama Arab",
+      "jantina": "perempuan",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Raja Isteri Pengiran Anak Saleha",
+      "singkatan": "SM RIPAS",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Tutong"
+    },
+    {
+      "nama": "Sekolah Menengah Rimba",
+      "singkatan": "SMR",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Rimba II",
+      "singkatan": "SMRII",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Sayyidina Abu Bakar",
+      "singkatan": "SMSAB",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Sayyidina Ali",
+      "singkatan": "SMSA",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Belait"
+    },
+    {
+      "nama": "Sekolah Menengah Sayyidina Hasan",
+      "singkatan": "",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Sayyidina Husain",
+      "singkatan": "",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Sayyidina 'Othman",
+      "singkatan": "SMSO",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Tutong"
+    },
+    {
+      "nama": "Sekolah Menengah Sayyidina Umar Al-Khattab",
+      "singkatan": "SMSUA",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah St. Andrew",
+      "singkatan": "",
+      "pembiayaan": "swasta",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah St. Angela",
+      "singkatan": "",
+      "pembiayaan": "swasta",
+      "aliran": "biasa",
+      "jantina": "perempuan",
+      "lokasi_daerah": "Belait"
+    },
+    {
+      "nama": "Sekolah St. George",
+      "singkatan": "",
+      "pembiayaan": "swasta",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah St. James",
+      "singkatan": "",
+      "pembiayaan": "swasta",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Belait"
+    },
+    {
+      "nama": "Sekolah St. John",
+      "singkatan": "",
+      "pembiayaan": "swasta",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Belait"
+    },
+    {
+      "nama": "Sekolah St. Margaret",
+      "singkatan": "",
+      "pembiayaan": "swasta",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Belait"
+    },
+    {
+      "nama": "Sekolah Seri Mulia Sarjana",
+      "singkatan": "SMSS",
+      "pembiayaan": "swasta",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Sufri Bolkiah",
+      "singkatan": "SMSB",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "perempuan",
+      "lokasi_daerah": "Tutong"
+    },
+    {
+      "nama": "Sekolah Menengah Sultan Hassan",
+      "singkatan": "",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Temburong"
+    },
+    {
+      "nama": "Sekolah Menengah Sultan Muhammad Jamalul Alam",
+      "singkatan": "SM SMJA",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Sultan Sharif Ali",
+      "singkatan": "SMSSA",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Maktab Sultan Omar Ali Saifuddien",
+      "singkatan": "SOASC",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "lelaki",
+      "lokasi_daerah": "Brunei-Muara"
+    },
+    {
+      "nama": "Sekolah Menengah Tanjong Maya",
+      "singkatan": "SMTM",
+      "pembiayaan": "kerajaan",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Tutong"
+    },
+    {
+      "nama": "Sekolah Persediaan Arab Temburong",
+      "singkatan": "",
+      "pembiayaan": "kerajaan",
+      "aliran": "ugama Arab",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Temburong"
+    },
+    {
+      "nama": "Sekolah Menengah Yayasan Sultan Haji Hassanal Bolkiah",
+      "singkatan": "SM YSHHB",
+      "pembiayaan": "swasta",
+      "aliran": "biasa",
+      "jantina": "bercampur",
+      "lokasi_daerah": "Brunei-Muara"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Sekolah Menengah di Brunei - Muat turun percuma",
+    "description": "Senarai Sekolah Menengah di Brunei — 49 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 49 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Sekolah Menengah di Brunei | ListBase",
+    "seo_description": "Muat turun Senarai Sekolah Menengah di Brunei — 49 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 49 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_sekolah_menengah_di_Brunei"
+    ]
+  }
+}

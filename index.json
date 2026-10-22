@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:24.451Z",
-  "total_datasets": 592,
-  "total_records": 510929,
+  "generated": "2026-10-22T04:32:24.953Z",
+  "total_datasets": 593,
+  "total_records": 510978,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -1930,6 +1930,33 @@
         "xlsx": {
           "name": "ms-sekolah-kelantan_MS.xlsx",
           "size": 37782
+        }
+      }
+    },
+    {
+      "id": "ms-sekolah-menengah-brunei",
+      "name": "Senarai Sekolah Menengah di Brunei",
+      "category": "education",
+      "record_count": 49,
+      "columns": [
+        "nama",
+        "singkatan",
+        "pembiayaan",
+        "aliran",
+        "jantina",
+        "lokasi_daerah"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_sekolah_menengah_di_Brunei",
+      "updated": "2026-10",
+      "size": 12285,
+      "files": {
+        "csv": {
+          "name": "ms-sekolah-menengah-brunei_MS.csv",
+          "size": 4270
+        },
+        "xlsx": {
+          "name": "ms-sekolah-menengah-brunei_MS.xlsx",
+          "size": 8767
         }
       }
     },
