@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:40.560Z",
-  "total_datasets": 522,
-  "total_records": 499191,
+  "generated": "2026-10-22T04:31:41.072Z",
+  "total_datasets": 523,
+  "total_records": 499254,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "environment",
@@ -1819,6 +1819,35 @@
         "xlsx": {
           "name": "ms-filem-kutipan-tertinggi_MS.xlsx",
           "size": 11865
+        }
+      }
+    },
+    {
+      "id": "ms-filem-tamil-malaysia",
+      "name": "Senarai Filem Tamil Malaysia",
+      "category": "entertainment",
+      "record_count": 63,
+      "columns": [
+        "bahagian",
+        "opening",
+        "title",
+        "studio",
+        "director",
+        "cast",
+        "genre",
+        "gross_rm"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_filem_Tamil_Malaysia",
+      "updated": "2026-10",
+      "size": 22259,
+      "files": {
+        "csv": {
+          "name": "ms-filem-tamil-malaysia_MS.csv",
+          "size": 10873
+        },
+        "xlsx": {
+          "name": "ms-filem-tamil-malaysia_MS.xlsx",
+          "size": 13440
         }
       }
     },
