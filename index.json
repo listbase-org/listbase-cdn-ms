@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:22.822Z",
-  "total_datasets": 589,
-  "total_records": 509809,
+  "generated": "2026-10-22T04:32:23.337Z",
+  "total_datasets": 590,
+  "total_records": 510149,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 47
+      "dataset_count": 48
     },
     {
       "id": "economy",
@@ -1325,6 +1325,29 @@
         "xlsx": {
           "name": "ms-sarawak-surau_MS.xlsx",
           "size": 42957
+        }
+      }
+    },
+    {
+      "id": "ms-sastera-melayu",
+      "name": "Senarai Karya Sastera Melayu Klasik",
+      "category": "culture",
+      "record_count": 340,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_sastera_Melayu_mengikut_abjad",
+      "updated": "2026-10",
+      "size": 27122,
+      "files": {
+        "csv": {
+          "name": "ms-sastera-melayu_MS.csv",
+          "size": 9992
+        },
+        "xlsx": {
+          "name": "ms-sastera-melayu_MS.xlsx",
+          "size": 13534
         }
       }
     },
