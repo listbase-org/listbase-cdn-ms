@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:39.415Z",
-  "total_datasets": 520,
-  "total_records": 499009,
+  "generated": "2026-10-22T04:31:39.983Z",
+  "total_datasets": 521,
+  "total_records": 499086,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -1768,6 +1768,31 @@
         "xlsx": {
           "name": "ms-filem-diharamkan_MS.xlsx",
           "size": 12587
+        }
+      }
+    },
+    {
+      "id": "ms-filem-kutipan-terendah",
+      "name": "Filem Malaysia dengan Kutipan Terendah",
+      "category": "entertainment",
+      "record_count": 77,
+      "columns": [
+        "tajuk",
+        "tahun",
+        "pengarah",
+        "kutipan_filem"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_filem_Malaysia_berdasarkan_kutipan_terendah",
+      "updated": "2026-10",
+      "size": 12339,
+      "files": {
+        "csv": {
+          "name": "ms-filem-kutipan-terendah_MS.csv",
+          "size": 3922
+        },
+        "xlsx": {
+          "name": "ms-filem-kutipan-terendah_MS.xlsx",
+          "size": 10162
         }
       }
     },

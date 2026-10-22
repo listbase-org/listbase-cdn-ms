@@ -1,0 +1,508 @@
+{
+  "id": "ms-filem-kutipan-terendah",
+  "name": "Filem Malaysia dengan Kutipan Terendah",
+  "title": "Filem Malaysia dengan Kutipan Terendah",
+  "description": "Filem Malaysia dengan Kutipan Terendah — 77 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "entertainment",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_filem_Malaysia_berdasarkan_kutipan_terendah",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_filem_Malaysia_berdasarkan_kutipan_terendah",
+  "updated": "2026-10",
+  "record_count": 77,
+  "columns": [
+    {
+      "key": "tajuk",
+      "label": "Tajuk",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "pengarah",
+      "label": "Pengarah",
+      "type": "string"
+    },
+    {
+      "key": "kutipan_filem",
+      "label": "Kutipan Filem",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tajuk": "Awang Gerudi",
+      "tahun": "2018",
+      "pengarah": "Z. Lokman",
+      "kutipan_filem": "RM 1,589"
+    },
+    {
+      "tajuk": "Budak Kripto",
+      "tahun": "2021",
+      "pengarah": "Din CJ",
+      "kutipan_filem": "RM 1,752"
+    },
+    {
+      "tajuk": "Cendol: Kepada Allah Aku Berserah",
+      "tahun": "2016",
+      "pengarah": "M. Subash",
+      "kutipan_filem": "RM 1,937"
+    },
+    {
+      "tajuk": "Mahaguru",
+      "tahun": "2018",
+      "pengarah": "Z. Lokman",
+      "kutipan_filem": "RM 2,331"
+    },
+    {
+      "tajuk": "Muthukumar Wanted",
+      "tahun": "2015",
+      "pengarah": "M. Pathmanaban",
+      "kutipan_filem": "RM 2,376"
+    },
+    {
+      "tajuk": "Avakas",
+      "tahun": "2020",
+      "pengarah": "Marc Abas",
+      "kutipan_filem": "RM 2,665"
+    },
+    {
+      "tajuk": "Bidong: The Boat People",
+      "tahun": "2018",
+      "pengarah": "Yusof Kelana",
+      "kutipan_filem": "RM 3,536"
+    },
+    {
+      "tajuk": "Spy In Love",
+      "tahun": "2016",
+      "pengarah": "Danial Rifki",
+      "kutipan_filem": "RM 4,059"
+    },
+    {
+      "tajuk": "Luqman",
+      "tahun": "2017",
+      "pengarah": "Mahadi J. Murat",
+      "kutipan_filem": "RM 4,085"
+    },
+    {
+      "tajuk": "Thottam: The Garden",
+      "tahun": "2017",
+      "pengarah": "Arangkannal Rajoo",
+      "kutipan_filem": "RM 4,089"
+    },
+    {
+      "tajuk": "Mendidih Bro",
+      "tahun": "2017",
+      "pengarah": "Z. Lokman",
+      "kutipan_filem": "RM 4,090"
+    },
+    {
+      "tajuk": "It's The Moment Yang Arif",
+      "tahun": "2016",
+      "pengarah": "S.T. Bala",
+      "kutipan_filem": "RM 4,678"
+    },
+    {
+      "tajuk": "Nanchatiran",
+      "tahun": "2015",
+      "pengarah": "",
+      "kutipan_filem": "RM 4,759"
+    },
+    {
+      "tajuk": "Vik2ria Secret",
+      "tahun": "2023",
+      "pengarah": "A. R. Badul",
+      "kutipan_filem": "RM 5,058"
+    },
+    {
+      "tajuk": "Kaaval The Movie",
+      "tahun": "2023",
+      "pengarah": "R. Lawrence",
+      "kutipan_filem": "RM 5,645"
+    },
+    {
+      "tajuk": "Mawar Putih",
+      "tahun": "2016",
+      "pengarah": "Rosnani Jamil",
+      "kutipan_filem": "RM 5,948"
+    },
+    {
+      "tajuk": "Judi-Judi King Boss",
+      "tahun": "2020",
+      "pengarah": "Julian Cheah",
+      "kutipan_filem": "RM 6,317"
+    },
+    {
+      "tajuk": "Kid",
+      "tahun": "2015",
+      "pengarah": "Praboo Ariva",
+      "kutipan_filem": "RM 6,763"
+    },
+    {
+      "tajuk": "Arul Mozhi",
+      "tahun": "2022",
+      "pengarah": "Manan Subra",
+      "kutipan_filem": "RM 7,000"
+    },
+    {
+      "tajuk": "Viman",
+      "tahun": "2022",
+      "pengarah": "Kishok",
+      "kutipan_filem": "RM 7,057"
+    },
+    {
+      "tajuk": "Kau Pilih Siapa?",
+      "tahun": "2023",
+      "pengarah": "Dato' Athy Saifullah Khaisas",
+      "kutipan_filem": "RM 7,158"
+    },
+    {
+      "tajuk": "Vasantha Villas",
+      "tahun": "2018",
+      "pengarah": "Roy",
+      "kutipan_filem": "RM 7,264"
+    },
+    {
+      "tajuk": "Avana Nee",
+      "tahun": "2015",
+      "pengarah": "Logaruban Loganathan",
+      "kutipan_filem": "RM 7,480"
+    },
+    {
+      "tajuk": "Enjin No.9",
+      "tahun": "2018",
+      "pengarah": "Raja Azmi",
+      "kutipan_filem": "RM 7,566"
+    },
+    {
+      "tajuk": "Pinnokam",
+      "tahun": "2015",
+      "pengarah": "A. Hamen Kumar",
+      "kutipan_filem": "RM 7,874"
+    },
+    {
+      "tajuk": "R.I.P?",
+      "tahun": "2017",
+      "pengarah": "S.T. Bala",
+      "kutipan_filem": "RM 8,156"
+    },
+    {
+      "tajuk": "Papa’s Shoe",
+      "tahun": "2015",
+      "pengarah": "M. Subash",
+      "kutipan_filem": "RM 8,623"
+    },
+    {
+      "tajuk": "Kambathe Kannemma",
+      "tahun": "2022",
+      "pengarah": "K. K. Khanna",
+      "kutipan_filem": "RM 9,000"
+    },
+    {
+      "tajuk": "Bella & Jamie",
+      "tahun": "2019",
+      "pengarah": "Ghaz Abu Bakar",
+      "kutipan_filem": "RM 9,186"
+    },
+    {
+      "tajuk": "Impermanence Life",
+      "tahun": "2018",
+      "pengarah": "Lai Kim Koon",
+      "kutipan_filem": "RM 9,313"
+    },
+    {
+      "tajuk": "Tribesman: The Last Red Hunter",
+      "tahun": "2023",
+      "pengarah": "Khalid Sulaiman Mohd Rashid Flora Juanis",
+      "kutipan_filem": "RM 10,912"
+    },
+    {
+      "tajuk": "7 Hari Kisah Cinta Langkawi",
+      "tahun": "2019",
+      "pengarah": "Anwardi Jamil",
+      "kutipan_filem": "RM 11,967"
+    },
+    {
+      "tajuk": "Gila Gusti",
+      "tahun": "2022",
+      "pengarah": "Silver Chung",
+      "kutipan_filem": "RM 12,000"
+    },
+    {
+      "tajuk": "Hijabsta Ballet",
+      "tahun": "2017",
+      "pengarah": "Syed Zulkifli Syed Masir",
+      "kutipan_filem": "RM 13,000"
+    },
+    {
+      "tajuk": "Qhaliq",
+      "tahun": "2018",
+      "pengarah": "Rosli Mohd Taib",
+      "kutipan_filem": "RM 14,196"
+    },
+    {
+      "tajuk": "Silence Of The 177",
+      "tahun": "2023",
+      "pengarah": "Marc Abas",
+      "kutipan_filem": "RM 14,286"
+    },
+    {
+      "tajuk": "Kamar Seksa",
+      "tahun": "2017",
+      "pengarah": "M. Suurya",
+      "kutipan_filem": "RM 15,034"
+    },
+    {
+      "tajuk": "Kerja Kahwin",
+      "tahun": "2017",
+      "pengarah": "Anwardi Jamil",
+      "kutipan_filem": "RM 15,293"
+    },
+    {
+      "tajuk": "Tuju Tuju",
+      "tahun": "2021",
+      "pengarah": "Javerd Nizar",
+      "kutipan_filem": "RM 16,190"
+    },
+    {
+      "tajuk": "Pencuri Hati Mr. Cinderella",
+      "tahun": "2017",
+      "pengarah": "Ahmad Idham",
+      "kutipan_filem": "RM 18,864"
+    },
+    {
+      "tajuk": "Bu, Kasih Suci",
+      "tahun": "2019",
+      "pengarah": "Jeany Amir",
+      "kutipan_filem": "RM 21,754"
+    },
+    {
+      "tajuk": "Club House",
+      "tahun": "2023",
+      "pengarah": "Amin",
+      "kutipan_filem": "RM 21,987"
+    },
+    {
+      "tajuk": "Garang",
+      "tahun": "2019",
+      "pengarah": "T. Kanageswaran",
+      "kutipan_filem": "RM 22,053"
+    },
+    {
+      "tajuk": "Eidolon: Bayangan Dendam",
+      "tahun": "2023",
+      "pengarah": "Don Hoe",
+      "kutipan_filem": "RM 23,428"
+    },
+    {
+      "tajuk": "Rumah",
+      "tahun": "2022",
+      "pengarah": "Kay Shan",
+      "kutipan_filem": "RM 24,000"
+    },
+    {
+      "tajuk": "Kolong",
+      "tahun": "2019",
+      "pengarah": "Zul Abu Kassim",
+      "kutipan_filem": "RM 26,680"
+    },
+    {
+      "tajuk": "Misi Operasi X",
+      "tahun": "2019",
+      "pengarah": "Zulkifli M. Osman",
+      "kutipan_filem": "RM 28,148"
+    },
+    {
+      "tajuk": "Thalliogathey",
+      "tahun": "2023",
+      "pengarah": "Guna Jayakumar",
+      "kutipan_filem": "RM 29.316"
+    },
+    {
+      "tajuk": "Warkah",
+      "tahun": "2019",
+      "pengarah": "Opie Zami",
+      "kutipan_filem": "RM 29,700"
+    },
+    {
+      "tajuk": "Kron",
+      "tahun": "2019",
+      "pengarah": "Opie Zami",
+      "kutipan_filem": "RM 31,530"
+    },
+    {
+      "tajuk": "Escape",
+      "tahun": "2023",
+      "pengarah": "Ikhwansha Hazer",
+      "kutipan_filem": "RM 34,295"
+    },
+    {
+      "tajuk": "Pak Pong",
+      "tahun": "2017",
+      "pengarah": "Fauzi Nawawi",
+      "kutipan_filem": "RM 35,000"
+    },
+    {
+      "tajuk": "KL Vampires",
+      "tahun": "2019",
+      "pengarah": "R. Daven",
+      "kutipan_filem": "RM 35,448"
+    },
+    {
+      "tajuk": "Spilt Gravy on Rice",
+      "tahun": "2022",
+      "pengarah": "Zahim Albakri",
+      "kutipan_filem": "RM 37,000"
+    },
+    {
+      "tajuk": "Hantu Tenggek",
+      "tahun": "2022",
+      "pengarah": "Abdul Razak Mohaideen",
+      "kutipan_filem": "RM 45,000"
+    },
+    {
+      "tajuk": "This Is Pilah The Movie",
+      "tahun": "2018",
+      "pengarah": "Rosdi Md Dali",
+      "kutipan_filem": "RM 45,000"
+    },
+    {
+      "tajuk": "Chow Kit",
+      "tahun": "2012",
+      "pengarah": "Rosihan Zain",
+      "kutipan_filem": "RM 45,000"
+    },
+    {
+      "tajuk": "VII XII",
+      "tahun": "2023",
+      "pengarah": "Thorpe Ali",
+      "kutipan_filem": "RM 49,179"
+    },
+    {
+      "tajuk": "XX Ray III",
+      "tahun": "2019",
+      "pengarah": "Aziz M. Osman",
+      "kutipan_filem": "RM 56,932"
+    },
+    {
+      "tajuk": "Rise: Ini Kalilah",
+      "tahun": "2018",
+      "pengarah": "Saw Teong Hin Nik Amir Mustapha MS Prem Nath",
+      "kutipan_filem": "RM 58,411"
+    },
+    {
+      "tajuk": "Felina",
+      "tahun": "2019",
+      "pengarah": "Sandosh Kesavan",
+      "kutipan_filem": "RM 60,887"
+    },
+    {
+      "tajuk": "Dendam Kesuma",
+      "tahun": "2021",
+      "pengarah": "Jefri Jefrizal",
+      "kutipan_filem": "RM 64,787"
+    },
+    {
+      "tajuk": "Dukun Doktor Dani",
+      "tahun": "2016",
+      "pengarah": "Sabri Yunus",
+      "kutipan_filem": "RM 69,183"
+    },
+    {
+      "tajuk": "Homestay: Permainan Maut",
+      "tahun": "2019",
+      "pengarah": "Kay Shan",
+      "kutipan_filem": "RM 72,000"
+    },
+    {
+      "tajuk": "Biko",
+      "tahun": "2022",
+      "pengarah": "Teng Bee",
+      "kutipan_filem": "RM 72,000"
+    },
+    {
+      "tajuk": "Badang",
+      "tahun": "2018",
+      "pengarah": "Abdul Razak Mohaideen",
+      "kutipan_filem": "RM 74,140"
+    },
+    {
+      "tajuk": "Siku 12: Langkah Derhaka",
+      "tahun": "2022",
+      "pengarah": "Azhari Zain",
+      "kutipan_filem": "RM 78,000"
+    },
+    {
+      "tajuk": "Motif",
+      "tahun": "2019",
+      "pengarah": "Nadiah Hamzah",
+      "kutipan_filem": "RM 79,000"
+    },
+    {
+      "tajuk": "Mistik 3logi Puaka",
+      "tahun": "2022",
+      "pengarah": "Ram Che Ngah M.H. Sitih",
+      "kutipan_filem": "RM 82,000"
+    },
+    {
+      "tajuk": "Zaara",
+      "tahun": "2022",
+      "pengarah": "Roy Krishnan",
+      "kutipan_filem": "RM 87,000"
+    },
+    {
+      "tajuk": "Eva",
+      "tahun": "2023",
+      "pengarah": "Suhaiha Aziz",
+      "kutipan_filem": "RM 87,576"
+    },
+    {
+      "tajuk": "Seratus",
+      "tahun": "2022",
+      "pengarah": "Feroz Kader",
+      "kutipan_filem": "RM 88,000"
+    },
+    {
+      "tajuk": "Hantu Wangan",
+      "tahun": "2018",
+      "pengarah": "Ahmad Idham",
+      "kutipan_filem": "RM 89,000"
+    },
+    {
+      "tajuk": "Sawadikap Pei",
+      "tahun": "2023",
+      "pengarah": "Roman Anthony",
+      "kutipan_filem": "RM 94,691"
+    },
+    {
+      "tajuk": "Syahadan",
+      "tahun": "2022",
+      "pengarah": "Fairus Hussain Halim Hassan",
+      "kutipan_filem": "RM 95,000"
+    },
+    {
+      "tajuk": "Hero: Jangan Bikin Panas",
+      "tahun": "2019",
+      "pengarah": "Azizi Adnan",
+      "kutipan_filem": "RM 96,000"
+    },
+    {
+      "tajuk": "Busker",
+      "tahun": "2018",
+      "pengarah": "Syed Khairul Fariz",
+      "kutipan_filem": "RM 96,000"
+    }
+  ],
+  "meta": {
+    "title": "Filem Malaysia dengan Kutipan Terendah - Muat turun percuma",
+    "description": "Filem Malaysia dengan Kutipan Terendah — 77 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 77 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Filem Malaysia dengan Kutipan Terendah | ListBase",
+    "seo_description": "Muat turun Filem Malaysia dengan Kutipan Terendah — 77 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 77 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_filem_Malaysia_berdasarkan_kutipan_terendah"
+    ]
+  }
+}
