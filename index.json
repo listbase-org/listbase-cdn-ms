@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:44.894Z",
-  "total_datasets": 625,
-  "total_records": 518271,
+  "generated": "2026-10-22T04:32:45.436Z",
+  "total_datasets": 626,
+  "total_records": 518364,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 49
+      "dataset_count": 50
     },
     {
       "id": "economy",
@@ -1620,6 +1620,29 @@
         "xlsx": {
           "name": "ms-tokong-buddha_MS.xlsx",
           "size": 8159
+        }
+      }
+    },
+    {
+      "id": "ms-tokong-taoist",
+      "name": "Senarai Tokong Taoist di Malaysia",
+      "category": "culture",
+      "record_count": 93,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Tokong_Taoist_di_Malaysia",
+      "updated": "2026-10",
+      "size": 9379,
+      "files": {
+        "csv": {
+          "name": "ms-tokong-taoist_MS.csv",
+          "size": 3644
+        },
+        "xlsx": {
+          "name": "ms-tokong-taoist_MS.xlsx",
+          "size": 8796
         }
       }
     },
