@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:27.912Z",
-  "total_datasets": 598,
-  "total_records": 515182,
+  "generated": "2026-10-22T04:32:28.425Z",
+  "total_datasets": 599,
+  "total_records": 515255,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "entertainment",
@@ -2084,6 +2084,29 @@
         "xlsx": {
           "name": "ms-sekolah-rendah-negeri-sembilan_MS.xlsx",
           "size": 14168
+        }
+      }
+    },
+    {
+      "id": "ms-sekolah-sabah",
+      "name": "Senarai Sekolah di Sabah",
+      "category": "education",
+      "record_count": 73,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_sekolah_di_Sabah",
+      "updated": "2026-10",
+      "size": 9921,
+      "files": {
+        "csv": {
+          "name": "ms-sekolah-sabah_MS.csv",
+          "size": 5194
+        },
+        "xlsx": {
+          "name": "ms-sekolah-sabah_MS.xlsx",
+          "size": 8526
         }
       }
     },
