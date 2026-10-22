@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:34.046Z",
-  "total_datasets": 510,
-  "total_records": 498134,
+  "generated": "2026-10-22T04:31:34.548Z",
+  "total_datasets": 511,
+  "total_records": 498154,
   "categories": [
     {
       "id": "culture",
@@ -71,6 +71,10 @@
     {
       "id": "time",
       "dataset_count": 20
+    },
+    {
+      "id": "tourism",
+      "dataset_count": 1
     },
     {
       "id": "transport",
@@ -14999,6 +15003,31 @@
         "xlsx": {
           "name": "ms-terengganu-cuti-negeri_MS.xlsx",
           "size": 48009
+        }
+      }
+    },
+    {
+      "id": "ms-bangunan-tertinggi-johor-bahru",
+      "name": "Senarai Bangunan Tertinggi di Johor Bahru",
+      "category": "tourism",
+      "record_count": 20,
+      "columns": [
+        "kedudukan",
+        "nama",
+        "aras",
+        "tahun"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_bangunan_tertinggi_di_Johor_Bahru",
+      "updated": "2026-10",
+      "size": 4132,
+      "files": {
+        "csv": {
+          "name": "ms-bangunan-tertinggi-johor-bahru_MS.csv",
+          "size": 870
+        },
+        "xlsx": {
+          "name": "ms-bangunan-tertinggi-johor-bahru_MS.xlsx",
+          "size": 7479
         }
       }
     },
