@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:29.587Z",
-  "total_datasets": 601,
-  "total_records": 516135,
+  "generated": "2026-10-22T04:32:30.092Z",
+  "total_datasets": 602,
+  "total_records": 516312,
   "categories": [
     {
       "id": "culture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "environment",
@@ -2517,6 +2517,29 @@
         "xlsx": {
           "name": "ms-saluran-tv_MS.xlsx",
           "size": 15626
+        }
+      }
+    },
+    {
+      "id": "ms-siri-animasi",
+      "name": "Senarai Siri Animasi Malaysia",
+      "category": "entertainment",
+      "record_count": 177,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_siri_animasi_Malaysia",
+      "updated": "2026-10",
+      "size": 12982,
+      "files": {
+        "csv": {
+          "name": "ms-siri-animasi_MS.csv",
+          "size": 3412
+        },
+        "xlsx": {
+          "name": "ms-siri-animasi_MS.xlsx",
+          "size": 10184
         }
       }
     },
