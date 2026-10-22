@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:37.784Z",
-  "total_datasets": 615,
-  "total_records": 517836,
+  "generated": "2026-10-22T04:32:38.293Z",
+  "total_datasets": 616,
+  "total_records": 517863,
   "categories": [
     {
       "id": "culture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "environment",
@@ -2858,6 +2858,33 @@
         "xlsx": {
           "name": "ms-siri-animasi_MS.xlsx",
           "size": 10184
+        }
+      }
+    },
+    {
+      "id": "ms-stesen-radio",
+      "name": "Senarai Stesen Radio di Malaysia",
+      "category": "entertainment",
+      "record_count": 27,
+      "columns": [
+        "frekuensi",
+        "rds",
+        "stesen",
+        "pengendali",
+        "bahasa",
+        "kawasan_liputan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_stesen_radio_di_Malaysia",
+      "updated": "2026-10",
+      "size": 7878,
+      "files": {
+        "csv": {
+          "name": "ms-stesen-radio_MS.csv",
+          "size": 2684
+        },
+        "xlsx": {
+          "name": "ms-stesen-radio_MS.xlsx",
+          "size": 8260
         }
       }
     },

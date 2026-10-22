@@ -1,0 +1,272 @@
+{
+  "id": "ms-stesen-radio",
+  "name": "Senarai Stesen Radio di Malaysia",
+  "title": "Senarai Stesen Radio di Malaysia",
+  "description": "Senarai Stesen Radio di Malaysia — 27 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "entertainment",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_stesen_radio_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_stesen_radio_di_Malaysia",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "frekuensi",
+      "label": "Frekuensi",
+      "type": "string"
+    },
+    {
+      "key": "rds",
+      "label": "Rds",
+      "type": "string"
+    },
+    {
+      "key": "stesen",
+      "label": "Stesen",
+      "type": "string"
+    },
+    {
+      "key": "pengendali",
+      "label": "Pengendali",
+      "type": "string"
+    },
+    {
+      "key": "bahasa",
+      "label": "Bahasa",
+      "type": "string"
+    },
+    {
+      "key": "kawasan_liputan",
+      "label": "Kawasan Liputan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "frekuensi": "87.7 MHz (Kuala Lumpur) 98.3 MHz (Selangor)",
+      "rds": "YA",
+      "stesen": "Radio Klasik",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "88.1 MHz",
+      "rds": "YA",
+      "stesen": "Eight WuXian",
+      "pengendali": "Media Prima Audio",
+      "bahasa": "Mandarin",
+      "kawasan_liputan": "Lembah Klang, Alor Setar, Pulau Pinang, Seremban, Kota Kinabalu & Kuching"
+    },
+    {
+      "frekuensi": "88.5 MHz (Kuala Lumpur) 95.3 MHz (Selangor)",
+      "rds": "YA",
+      "stesen": "Nasional FM",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "88.9 MHz",
+      "rds": "YA",
+      "stesen": "goXuan",
+      "pengendali": "Astro Audio",
+      "bahasa": "Mandarin",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "89.3 MHz (Kuala Lumpur) 106.7 MHz (Selangor)",
+      "rds": "YA",
+      "stesen": "Ai FM",
+      "pengendali": "RTM",
+      "bahasa": "Mandarin Kantonis Teochew Hokkien Hakka",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "89.9 MHz",
+      "rds": "YA",
+      "stesen": "BFM 89.9",
+      "pengendali": "BFM Media",
+      "bahasa": "Inggeris Melayu",
+      "kawasan_liputan": "Kuala Lumpur, Selangor, Bahagian Negeri Sembilan & Melaka, Perak Selatan, Pahang Barat"
+    },
+    {
+      "frekuensi": "90.3 MHz (Kuala Lumpur) 100.1 MHz (Selangor)",
+      "rds": "YA",
+      "stesen": "TraXX FM",
+      "pengendali": "RTM",
+      "bahasa": "Inggeris",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "91.1 MHz (Kuala Lumpur) 102.5 MHz (Selangor)",
+      "rds": "YA",
+      "stesen": "Asyik FM Salam FM",
+      "pengendali": "RTM Jabatan Kemajuan Islam Malaysia (JAKIM; Salam FM)",
+      "bahasa": "Bahasa-bahasa Asli (Jakun, Semai, Temiar, Temuan; Asyik FM) Melayu",
+      "kawasan_liputan": "Kuala Lumpur, Selangor, Perak Selatan, Lenggong, Pahang Barat, Sebahagian Negeri Sembilan"
+    },
+    {
+      "frekuensi": "91.5 MHz",
+      "rds": "YA",
+      "stesen": "IKIMfm",
+      "pengendali": "Institut Kefahaman Islam Malaysia (IKIM)",
+      "bahasa": "Melayu",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "92.3 MHz (Kuala Lumpur) 96.3 MHz (Selangor)",
+      "rds": "YA",
+      "stesen": "Minnal FM",
+      "pengendali": "RTM",
+      "bahasa": "Tamil",
+      "kawasan_liputan": "Semenanjung Malaysia"
+    },
+    {
+      "frekuensi": "92.9 MHz",
+      "rds": "YA",
+      "stesen": "Hitz",
+      "pengendali": "Astro Audio",
+      "bahasa": "Inggeris",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "93.9 MHz",
+      "rds": "YA",
+      "stesen": "Bernama Radio",
+      "pengendali": "Pertubuhan Berita Nasional Malaysia",
+      "bahasa": "Melayu",
+      "kawasan_liputan": "Lembah Klang, Kuching & Kota Kinabalu"
+    },
+    {
+      "frekuensi": "94.5 MHz",
+      "rds": "YA",
+      "stesen": "Mix",
+      "pengendali": "Astro Audio",
+      "bahasa": "Inggeris",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "95.8 MHz",
+      "rds": "YA",
+      "stesen": "Fly FM",
+      "pengendali": "Media Prima Audio",
+      "bahasa": "Inggeris",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "96.7 MHz",
+      "rds": "YA",
+      "stesen": "Sinar",
+      "pengendali": "Astro Audio",
+      "bahasa": "Melayu",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "97.2 MHz",
+      "rds": "YA",
+      "stesen": "KL FM",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "kawasan_liputan": "Kuala Lumpur"
+    },
+    {
+      "frekuensi": "97.6 MHz",
+      "rds": "YA",
+      "stesen": "Hot FM",
+      "pengendali": "Media Prima Audio",
+      "bahasa": "Melayu",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "98.8 MHz",
+      "rds": "YA",
+      "stesen": "988 FM",
+      "pengendali": "Star Media Radio Group",
+      "bahasa": "Mandarin Kantonis",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "99.3 MHz",
+      "rds": "YA",
+      "stesen": "Raaga",
+      "pengendali": "Astro Audio",
+      "bahasa": "Tamil",
+      "kawasan_liputan": "Semenanjung Malaysia Barat, Bahagian Pahang & Kelantan"
+    },
+    {
+      "frekuensi": "101.3 MHz",
+      "rds": "YA",
+      "stesen": "Kool FM",
+      "pengendali": "Media Prima Audio",
+      "bahasa": "Melayu",
+      "kawasan_liputan": "Lembah Klang, Pulau Pinang, Alor Setar, Kuching, Ipoh, Melaka & Johor Bahru"
+    },
+    {
+      "frekuensi": "101.8 MHz",
+      "rds": "YA",
+      "stesen": "My",
+      "pengendali": "Astro Audio",
+      "bahasa": "Mandarin Kantonis",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "103.0 MHz",
+      "rds": "YA",
+      "stesen": "Melody",
+      "pengendali": "Astro Audio",
+      "bahasa": "Mandarin Kantonis",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "103.3 MHz",
+      "rds": "YA",
+      "stesen": "Era",
+      "pengendali": "Astro Audio",
+      "bahasa": "Melayu",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "104.9 MHz",
+      "rds": "YA",
+      "stesen": "Zayan",
+      "pengendali": "Astro Audio",
+      "bahasa": "Melayu",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "105.3 MHz",
+      "rds": "YA",
+      "stesen": "Suria",
+      "pengendali": "Star Media Radio Group",
+      "bahasa": "Melayu",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "105.7 MHz",
+      "rds": "YA",
+      "stesen": "Lite",
+      "pengendali": "Astro Audio",
+      "bahasa": "Inggeris",
+      "kawasan_liputan": "Seluruh negara"
+    },
+    {
+      "frekuensi": "107.9 MHz",
+      "rds": "YA",
+      "stesen": "Rakita",
+      "pengendali": "Radio Kita Sdn Bhd",
+      "bahasa": "Melayu",
+      "kawasan_liputan": "Kuala Lumpur, Bahagian Selangor dan Negeri Sembilan"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Stesen Radio di Malaysia - Muat turun percuma",
+    "description": "Senarai Stesen Radio di Malaysia — 27 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 27 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Stesen Radio di Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Stesen Radio di Malaysia — 27 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 27 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_stesen_radio_di_Malaysia"
+    ]
+  }
+}
