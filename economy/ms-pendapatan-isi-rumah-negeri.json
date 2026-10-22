@@ -1,0 +1,3286 @@
+{
+  "id": "ms-pendapatan-isi-rumah-negeri",
+  "name": "Pendapatan Isi Rumah, Ketaksamaan dan Kemiskinan mengikut Negeri (1970–2024)",
+  "title": "Pendapatan Isi Rumah, Ketaksamaan dan Kemiskinan mengikut Negeri (1970–2024)",
+  "description": "Pendapatan bulanan isi rumah purata dan penengah, pekali Gini serta kadar kemiskinan mutlak, tegar dan relatif bagi setiap negeri di Malaysia berdasarkan Penyiasatan Pendapatan dan Perbelanjaan Isi Rumah (HIES) DOSM.",
+  "category": "economy",
+  "source": "https://open.dosm.gov.my/data-catalogue/hh_income_state",
+  "source_url": "https://open.dosm.gov.my/data-catalogue/hh_income_state",
+  "updated": "2026-10",
+  "record_count": 322,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "pendapatan_purata_rm",
+      "label": "Pendapatan Purata (RM)",
+      "type": "number"
+    },
+    {
+      "key": "pendapatan_penengah_rm",
+      "label": "Pendapatan Penengah (RM)",
+      "type": "number"
+    },
+    {
+      "key": "pekali_gini",
+      "label": "Pekali Gini",
+      "type": "number"
+    },
+    {
+      "key": "kemiskinan_mutlak_peratus",
+      "label": "Kemiskinan Mutlak (%)",
+      "type": "number"
+    },
+    {
+      "key": "kemiskinan_tegar_peratus",
+      "label": "Kemiskinan Tegar (%)",
+      "type": "number"
+    },
+    {
+      "key": "kemiskinan_relatif_peratus",
+      "label": "Kemiskinan Relatif (%)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Johor",
+      "tahun": 1970,
+      "pendapatan_purata_rm": 237,
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 45.7,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 1974,
+      "pendapatan_purata_rm": 382,
+      "pendapatan_penengah_rm": 269,
+      "pekali_gini": 0.439,
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 513,
+      "pendapatan_penengah_rm": 370,
+      "pekali_gini": 0.469,
+      "kemiskinan_mutlak_peratus": 29,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 1979,
+      "pendapatan_purata_rm": 731,
+      "pendapatan_penengah_rm": 518,
+      "pekali_gini": 0.442,
+      "kemiskinan_mutlak_peratus": 18.2,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 1065,
+      "pendapatan_penengah_rm": 793,
+      "pekali_gini": 0.404,
+      "kemiskinan_mutlak_peratus": 12.2,
+      "kemiskinan_tegar_peratus": 3.1,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 1060,
+      "pendapatan_penengah_rm": 816,
+      "pekali_gini": 0.386,
+      "kemiskinan_mutlak_peratus": 11.1,
+      "kemiskinan_tegar_peratus": 2.6,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 1150,
+      "pendapatan_penengah_rm": 880,
+      "pekali_gini": 0.381,
+      "kemiskinan_mutlak_peratus": 10.1,
+      "kemiskinan_tegar_peratus": 1.5,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 1713,
+      "pendapatan_penengah_rm": 1225,
+      "pekali_gini": 0.423,
+      "kemiskinan_mutlak_peratus": 5.6,
+      "kemiskinan_tegar_peratus": 1.1,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 2138,
+      "pendapatan_penengah_rm": 1610,
+      "pekali_gini": 0.399,
+      "kemiskinan_mutlak_peratus": 3.1,
+      "kemiskinan_tegar_peratus": 0.5,
+      "kemiskinan_relatif_peratus": 16.1
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 2772,
+      "pendapatan_penengah_rm": 2056,
+      "pekali_gini": 0.397,
+      "kemiskinan_mutlak_peratus": 1.6,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 15.8
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 2646,
+      "pendapatan_penengah_rm": 2012,
+      "pekali_gini": 0.386,
+      "kemiskinan_mutlak_peratus": 2.5,
+      "kemiskinan_tegar_peratus": 0.4,
+      "kemiskinan_relatif_peratus": 15.6
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 2963,
+      "pendapatan_penengah_rm": 2212,
+      "pekali_gini": 0.408,
+      "kemiskinan_mutlak_peratus": 1.8,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 16.1
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 3076,
+      "pendapatan_penengah_rm": 2325,
+      "pekali_gini": 0.395,
+      "kemiskinan_mutlak_peratus": 2,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 15.3
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 3457,
+      "pendapatan_penengah_rm": 2726,
+      "pekali_gini": 0.368,
+      "kemiskinan_mutlak_peratus": 1.5,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 14.2
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 3835,
+      "pendapatan_penengah_rm": 2958,
+      "pekali_gini": 0.393,
+      "kemiskinan_mutlak_peratus": 1.3,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 17.2
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 4658,
+      "pendapatan_penengah_rm": 3650,
+      "pekali_gini": 0.383,
+      "kemiskinan_mutlak_peratus": 0.9,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 16.1
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 6207,
+      "pendapatan_penengah_rm": 5197,
+      "pekali_gini": 0.324,
+      "kemiskinan_mutlak_peratus": 0,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 10.2
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 6928,
+      "pendapatan_penengah_rm": 5652,
+      "pekali_gini": 0.354,
+      "kemiskinan_mutlak_peratus": 0,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 13.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 8013,
+      "pendapatan_penengah_rm": 6427,
+      "pekali_gini": 0.366,
+      "kemiskinan_mutlak_peratus": 3.9,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 15.3
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 7264,
+      "pendapatan_penengah_rm": 5690,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 5.9,
+      "kemiskinan_tegar_peratus": 0.6,
+      "kemiskinan_relatif_peratus": 13.9
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 8517,
+      "pendapatan_penengah_rm": 6879,
+      "pekali_gini": 0.366,
+      "kemiskinan_mutlak_peratus": 4.6,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 15.9
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 9484,
+      "pendapatan_penengah_rm": 7712,
+      "pekali_gini": 0.348,
+      "kemiskinan_mutlak_peratus": 2.5,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 13.7
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 1970,
+      "pendapatan_purata_rm": 189,
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 63.2,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 1974,
+      "pendapatan_purata_rm": 256,
+      "pendapatan_penengah_rm": 151,
+      "pekali_gini": 0.523,
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 306,
+      "pendapatan_penengah_rm": 193,
+      "pekali_gini": 0.497,
+      "kemiskinan_mutlak_peratus": 61,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 1979,
+      "pendapatan_purata_rm": 382,
+      "pendapatan_penengah_rm": 259,
+      "pekali_gini": 0.468,
+      "kemiskinan_mutlak_peratus": 53.8,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 690,
+      "pendapatan_penengah_rm": 472,
+      "pekali_gini": 0.476,
+      "kemiskinan_mutlak_peratus": 36.6,
+      "kemiskinan_tegar_peratus": 13.5,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 718,
+      "pendapatan_penengah_rm": 531,
+      "pekali_gini": 0.434,
+      "kemiskinan_mutlak_peratus": 31.3,
+      "kemiskinan_tegar_peratus": 9.8,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 749,
+      "pendapatan_penengah_rm": 552,
+      "pekali_gini": 0.428,
+      "kemiskinan_mutlak_peratus": 30,
+      "kemiskinan_tegar_peratus": 8.4,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 1048,
+      "pendapatan_penengah_rm": 758,
+      "pekali_gini": 0.433,
+      "kemiskinan_mutlak_peratus": 21.2,
+      "kemiskinan_tegar_peratus": 5.4,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 1295,
+      "pendapatan_penengah_rm": 990,
+      "pekali_gini": 0.406,
+      "kemiskinan_mutlak_peratus": 12.2,
+      "kemiskinan_tegar_peratus": 3.7,
+      "kemiskinan_relatif_peratus": 16.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 1590,
+      "pendapatan_penengah_rm": 1171,
+      "pekali_gini": 0.429,
+      "kemiskinan_mutlak_peratus": 11.5,
+      "kemiskinan_tegar_peratus": 3.9,
+      "kemiskinan_relatif_peratus": 18.7
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 1612,
+      "pendapatan_penengah_rm": 1225,
+      "pekali_gini": 0.409,
+      "kemiskinan_mutlak_peratus": 13.5,
+      "kemiskinan_tegar_peratus": 3.1,
+      "kemiskinan_relatif_peratus": 19.1
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 1966,
+      "pendapatan_penengah_rm": 1451,
+      "pekali_gini": 0.426,
+      "kemiskinan_mutlak_peratus": 10.7,
+      "kemiskinan_tegar_peratus": 3,
+      "kemiskinan_relatif_peratus": 18.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 2126,
+      "pendapatan_penengah_rm": 1607,
+      "pekali_gini": 0.387,
+      "kemiskinan_mutlak_peratus": 7,
+      "kemiskinan_tegar_peratus": 1.3,
+      "kemiskinan_relatif_peratus": 15.7
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 2408,
+      "pendapatan_penengah_rm": 1756,
+      "pekali_gini": 0.392,
+      "kemiskinan_mutlak_peratus": 3.1,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 11.8
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 2667,
+      "pendapatan_penengah_rm": 1966,
+      "pekali_gini": 0.408,
+      "kemiskinan_mutlak_peratus": 5.3,
+      "kemiskinan_tegar_peratus": 0.8,
+      "kemiskinan_relatif_peratus": 16
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 3425,
+      "pendapatan_penengah_rm": 2633,
+      "pekali_gini": 0.391,
+      "kemiskinan_mutlak_peratus": 1.7,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 16.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 4478,
+      "pendapatan_penengah_rm": 3451,
+      "pekali_gini": 0.365,
+      "kemiskinan_mutlak_peratus": 0.3,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 12.1
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 4971,
+      "pendapatan_penengah_rm": 3811,
+      "pekali_gini": 0.393,
+      "kemiskinan_mutlak_peratus": 0.2,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 15.9
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 5522,
+      "pendapatan_penengah_rm": 4325,
+      "pekali_gini": 0.354,
+      "kemiskinan_mutlak_peratus": 8.8,
+      "kemiskinan_tegar_peratus": 0.5,
+      "kemiskinan_relatif_peratus": 10.9
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 5005,
+      "pendapatan_penengah_rm": 3829,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 12.7,
+      "kemiskinan_tegar_peratus": 1.5,
+      "kemiskinan_relatif_peratus": 10
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 5550,
+      "pendapatan_penengah_rm": 4402,
+      "pekali_gini": 0.359,
+      "kemiskinan_mutlak_peratus": 9,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 11.9
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 5793,
+      "pendapatan_penengah_rm": 4895,
+      "pekali_gini": 0.334,
+      "kemiskinan_mutlak_peratus": 8.4,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 13.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 1970,
+      "pendapatan_purata_rm": 151,
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 76.1,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 1974,
+      "pendapatan_purata_rm": 231,
+      "pendapatan_penengah_rm": 108,
+      "pekali_gini": 0.612,
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 269,
+      "pendapatan_penengah_rm": 163,
+      "pekali_gini": 0.505,
+      "kemiskinan_mutlak_peratus": 67.1,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 1979,
+      "pendapatan_purata_rm": 341,
+      "pendapatan_penengah_rm": 256,
+      "pekali_gini": 0.438,
+      "kemiskinan_mutlak_peratus": 55,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 625,
+      "pendapatan_penengah_rm": 436,
+      "pekali_gini": 0.464,
+      "kemiskinan_mutlak_peratus": 39.2,
+      "kemiskinan_tegar_peratus": 15.5,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 667,
+      "pendapatan_penengah_rm": 482,
+      "pekali_gini": 0.414,
+      "kemiskinan_mutlak_peratus": 31.6,
+      "kemiskinan_tegar_peratus": 7.6,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 712,
+      "pendapatan_penengah_rm": 528,
+      "pekali_gini": 0.407,
+      "kemiskinan_mutlak_peratus": 29.9,
+      "kemiskinan_tegar_peratus": 7.2,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 907,
+      "pendapatan_penengah_rm": 632,
+      "pekali_gini": 0.451,
+      "kemiskinan_mutlak_peratus": 29.5,
+      "kemiskinan_tegar_peratus": 8.7,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 1091,
+      "pendapatan_penengah_rm": 789,
+      "pekali_gini": 0.442,
+      "kemiskinan_mutlak_peratus": 22.9,
+      "kemiskinan_tegar_peratus": 7.4,
+      "kemiskinan_relatif_peratus": 20.8
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 1249,
+      "pendapatan_penengah_rm": 872,
+      "pekali_gini": 0.442,
+      "kemiskinan_mutlak_peratus": 19.5,
+      "kemiskinan_tegar_peratus": 5.7,
+      "kemiskinan_relatif_peratus": 17.8
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 1314,
+      "pendapatan_penengah_rm": 946,
+      "pekali_gini": 0.424,
+      "kemiskinan_mutlak_peratus": 18.7,
+      "kemiskinan_tegar_peratus": 4.3,
+      "kemiskinan_relatif_peratus": 16.7
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 1674,
+      "pendapatan_penengah_rm": 1154,
+      "pekali_gini": 0.444,
+      "kemiskinan_mutlak_peratus": 12.4,
+      "kemiskinan_tegar_peratus": 3.6,
+      "kemiskinan_relatif_peratus": 15.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 1829,
+      "pendapatan_penengah_rm": 1258,
+      "pekali_gini": 0.416,
+      "kemiskinan_mutlak_peratus": 10.6,
+      "kemiskinan_tegar_peratus": 1.3,
+      "kemiskinan_relatif_peratus": 12.1
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 2143,
+      "pendapatan_penengah_rm": 1510,
+      "pekali_gini": 0.405,
+      "kemiskinan_mutlak_peratus": 7.2,
+      "kemiskinan_tegar_peratus": 1.5,
+      "kemiskinan_relatif_peratus": 10.2
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 2536,
+      "pendapatan_penengah_rm": 1713,
+      "pekali_gini": 0.428,
+      "kemiskinan_mutlak_peratus": 4.8,
+      "kemiskinan_tegar_peratus": 1,
+      "kemiskinan_relatif_peratus": 11.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 3168,
+      "pendapatan_penengah_rm": 2276,
+      "pekali_gini": 0.41,
+      "kemiskinan_mutlak_peratus": 2.7,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 14.3
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 3715,
+      "pendapatan_penengah_rm": 2716,
+      "pekali_gini": 0.393,
+      "kemiskinan_mutlak_peratus": 0.9,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 12.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 4214,
+      "pendapatan_penengah_rm": 3079,
+      "pekali_gini": 0.389,
+      "kemiskinan_mutlak_peratus": 0.4,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 12.1
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 4874,
+      "pendapatan_penengah_rm": 3563,
+      "pekali_gini": 0.378,
+      "kemiskinan_mutlak_peratus": 12.4,
+      "kemiskinan_tegar_peratus": 1,
+      "kemiskinan_relatif_peratus": 9.9
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 4411,
+      "pendapatan_penengah_rm": 3010,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 21.2,
+      "kemiskinan_tegar_peratus": 4.1,
+      "kemiskinan_relatif_peratus": 11.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 4885,
+      "pendapatan_penengah_rm": 3614,
+      "pekali_gini": 0.385,
+      "kemiskinan_mutlak_peratus": 13.2,
+      "kemiskinan_tegar_peratus": 0.8,
+      "kemiskinan_relatif_peratus": 12.2
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 5265,
+      "pendapatan_penengah_rm": 4083,
+      "pekali_gini": 0.356,
+      "kemiskinan_mutlak_peratus": 11.5,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 10.8
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 1970,
+      "pendapatan_purata_rm": 265,
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 44.9,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 1974,
+      "pendapatan_purata_rm": 410,
+      "pendapatan_penengah_rm": 255,
+      "pekali_gini": 0.506,
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 568,
+      "pendapatan_penengah_rm": 350,
+      "pekali_gini": 0.558,
+      "kemiskinan_mutlak_peratus": 32.4,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 1979,
+      "pendapatan_purata_rm": 772,
+      "pendapatan_penengah_rm": 528,
+      "pekali_gini": 0.472,
+      "kemiskinan_mutlak_peratus": 20.4,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 1040,
+      "pendapatan_penengah_rm": 738,
+      "pekali_gini": 0.438,
+      "kemiskinan_mutlak_peratus": 15.8,
+      "kemiskinan_tegar_peratus": 5.5,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 1034,
+      "pendapatan_penengah_rm": 780,
+      "pekali_gini": 0.403,
+      "kemiskinan_mutlak_peratus": 11.7,
+      "kemiskinan_tegar_peratus": 3.8,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 1084,
+      "pendapatan_penengah_rm": 828,
+      "pekali_gini": 0.396,
+      "kemiskinan_mutlak_peratus": 12.4,
+      "kemiskinan_tegar_peratus": 3.8,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 1459,
+      "pendapatan_penengah_rm": 1118,
+      "pekali_gini": 0.397,
+      "kemiskinan_mutlak_peratus": 8.5,
+      "kemiskinan_tegar_peratus": 1.8,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 1843,
+      "pendapatan_penengah_rm": 1391,
+      "pekali_gini": 0.399,
+      "kemiskinan_mutlak_peratus": 5.3,
+      "kemiskinan_tegar_peratus": 1.6,
+      "kemiskinan_relatif_peratus": 15.8
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 2276,
+      "pendapatan_penengah_rm": 1793,
+      "pekali_gini": 0.371,
+      "kemiskinan_mutlak_peratus": 3.6,
+      "kemiskinan_tegar_peratus": 0.6,
+      "kemiskinan_relatif_peratus": 15.7
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 2260,
+      "pendapatan_penengah_rm": 1715,
+      "pekali_gini": 0.399,
+      "kemiskinan_mutlak_peratus": 5.7,
+      "kemiskinan_tegar_peratus": 1.5,
+      "kemiskinan_relatif_peratus": 17.2
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 2650,
+      "pendapatan_penengah_rm": 2051,
+      "pekali_gini": 0.386,
+      "kemiskinan_mutlak_peratus": 2.7,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 16.1
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 2791,
+      "pendapatan_penengah_rm": 2308,
+      "pekali_gini": 0.352,
+      "kemiskinan_mutlak_peratus": 1.8,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 16.3
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 3421,
+      "pendapatan_penengah_rm": 2717,
+      "pekali_gini": 0.38,
+      "kemiskinan_mutlak_peratus": 1.8,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 16.5
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 4184,
+      "pendapatan_penengah_rm": 3005,
+      "pekali_gini": 0.411,
+      "kemiskinan_mutlak_peratus": 0.5,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 14.8
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 4759,
+      "pendapatan_penengah_rm": 3923,
+      "pekali_gini": 0.355,
+      "kemiskinan_mutlak_peratus": 0.1,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 15.4
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 6046,
+      "pendapatan_penengah_rm": 5029,
+      "pekali_gini": 0.316,
+      "kemiskinan_mutlak_peratus": 0.1,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 8.8
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 6849,
+      "pendapatan_penengah_rm": 5588,
+      "pekali_gini": 0.337,
+      "kemiskinan_mutlak_peratus": 0,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 10.7
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 7741,
+      "pendapatan_penengah_rm": 6054,
+      "pekali_gini": 0.383,
+      "kemiskinan_mutlak_peratus": 3.9,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 17
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 7186,
+      "pendapatan_penengah_rm": 5447,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 6.1,
+      "kemiskinan_tegar_peratus": 1.1,
+      "kemiskinan_relatif_peratus": 14.4
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 8057,
+      "pendapatan_penengah_rm": 6210,
+      "pekali_gini": 0.37,
+      "kemiskinan_mutlak_peratus": 4.2,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 13.2
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 8686,
+      "pendapatan_penengah_rm": 6891,
+      "pekali_gini": 0.337,
+      "kemiskinan_mutlak_peratus": 3,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 10.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 1970,
+      "pendapatan_purata_rm": 286,
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 44.8,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 1974,
+      "pendapatan_purata_rm": 386,
+      "pendapatan_penengah_rm": 273,
+      "pekali_gini": 0.465,
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 505,
+      "pendapatan_penengah_rm": 348,
+      "pekali_gini": 0.49,
+      "kemiskinan_mutlak_peratus": 33,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 1979,
+      "pendapatan_purata_rm": 629,
+      "pendapatan_penengah_rm": 486,
+      "pekali_gini": 0.432,
+      "kemiskinan_mutlak_peratus": 26.3,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 1039,
+      "pendapatan_penengah_rm": 753,
+      "pekali_gini": 0.422,
+      "kemiskinan_mutlak_peratus": 13,
+      "kemiskinan_tegar_peratus": 3.7,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 908,
+      "pendapatan_penengah_rm": 674,
+      "pekali_gini": 0.431,
+      "kemiskinan_mutlak_peratus": 21.5,
+      "kemiskinan_tegar_peratus": 5.5,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 1083,
+      "pendapatan_penengah_rm": 842,
+      "pekali_gini": 0.366,
+      "kemiskinan_mutlak_peratus": 9.5,
+      "kemiskinan_tegar_peratus": 2.2,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 1380,
+      "pendapatan_penengah_rm": 987,
+      "pekali_gini": 0.406,
+      "kemiskinan_mutlak_peratus": 8.1,
+      "kemiskinan_tegar_peratus": 1.8,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 1767,
+      "pendapatan_penengah_rm": 1358,
+      "pekali_gini": 0.384,
+      "kemiskinan_mutlak_peratus": 4.9,
+      "kemiskinan_tegar_peratus": 1,
+      "kemiskinan_relatif_peratus": 15.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 2378,
+      "pendapatan_penengah_rm": 1731,
+      "pekali_gini": 0.408,
+      "kemiskinan_mutlak_peratus": 4.5,
+      "kemiskinan_tegar_peratus": 1.2,
+      "kemiskinan_relatif_peratus": 15.6
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 2335,
+      "pendapatan_penengah_rm": 1777,
+      "pekali_gini": 0.392,
+      "kemiskinan_mutlak_peratus": 2.5,
+      "kemiskinan_tegar_peratus": 0.5,
+      "kemiskinan_relatif_peratus": 17.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 2739,
+      "pendapatan_penengah_rm": 2080,
+      "pekali_gini": 0.401,
+      "kemiskinan_mutlak_peratus": 2.2,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 18.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 2886,
+      "pendapatan_penengah_rm": 2288,
+      "pekali_gini": 0.38,
+      "kemiskinan_mutlak_peratus": 1.4,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 16.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 3336,
+      "pendapatan_penengah_rm": 2556,
+      "pekali_gini": 0.385,
+      "kemiskinan_mutlak_peratus": 1.3,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 15.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 3540,
+      "pendapatan_penengah_rm": 2711,
+      "pekali_gini": 0.372,
+      "kemiskinan_mutlak_peratus": 0.7,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 12.7
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 4576,
+      "pendapatan_penengah_rm": 3575,
+      "pekali_gini": 0.382,
+      "kemiskinan_mutlak_peratus": 0.5,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 15.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 5271,
+      "pendapatan_penengah_rm": 4128,
+      "pekali_gini": 0.361,
+      "kemiskinan_mutlak_peratus": 0.4,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 13
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 5887,
+      "pendapatan_penengah_rm": 4579,
+      "pekali_gini": 0.38,
+      "kemiskinan_mutlak_peratus": 0.2,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 15.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 6707,
+      "pendapatan_penengah_rm": 5005,
+      "pekali_gini": 0.391,
+      "kemiskinan_mutlak_peratus": 4.3,
+      "kemiskinan_tegar_peratus": 0.4,
+      "kemiskinan_relatif_peratus": 11.6
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 6184,
+      "pendapatan_penengah_rm": 4478,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 6.5,
+      "kemiskinan_tegar_peratus": 1.2,
+      "kemiskinan_relatif_peratus": 10.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 6788,
+      "pendapatan_penengah_rm": 5226,
+      "pekali_gini": 0.369,
+      "kemiskinan_mutlak_peratus": 4.4,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 13.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 7305,
+      "pendapatan_penengah_rm": 5591,
+      "pekali_gini": 0.343,
+      "kemiskinan_mutlak_peratus": 4,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 11.9
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 1970,
+      "pendapatan_purata_rm": 286,
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 43.2,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 1974,
+      "pendapatan_purata_rm": 305,
+      "pendapatan_penengah_rm": 210,
+      "pekali_gini": 0.445,
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 477,
+      "pendapatan_penengah_rm": 324,
+      "pekali_gini": 0.384,
+      "kemiskinan_mutlak_peratus": 38.9,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 1979,
+      "pendapatan_purata_rm": 702,
+      "pendapatan_penengah_rm": 481,
+      "pekali_gini": 0.478,
+      "kemiskinan_mutlak_peratus": 26.9,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 960,
+      "pendapatan_penengah_rm": 731,
+      "pekali_gini": 0.416,
+      "kemiskinan_mutlak_peratus": 15.7,
+      "kemiskinan_tegar_peratus": 5.4,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 900,
+      "pendapatan_penengah_rm": 697,
+      "pekali_gini": 0.372,
+      "kemiskinan_mutlak_peratus": 12.3,
+      "kemiskinan_tegar_peratus": 2.4,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 961,
+      "pendapatan_penengah_rm": 764,
+      "pekali_gini": 0.35,
+      "kemiskinan_mutlak_peratus": 10.2,
+      "kemiskinan_tegar_peratus": 2.1,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 1262,
+      "pendapatan_penengah_rm": 957,
+      "pekali_gini": 0.369,
+      "kemiskinan_mutlak_peratus": 6.9,
+      "kemiskinan_tegar_peratus": 1.1,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 1436,
+      "pendapatan_penengah_rm": 1138,
+      "pekali_gini": 0.373,
+      "kemiskinan_mutlak_peratus": 6.8,
+      "kemiskinan_tegar_peratus": 1.2,
+      "kemiskinan_relatif_peratus": 13.8
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 1632,
+      "pendapatan_penengah_rm": 1259,
+      "pekali_gini": 0.359,
+      "kemiskinan_mutlak_peratus": 4.1,
+      "kemiskinan_tegar_peratus": 0.8,
+      "kemiskinan_relatif_peratus": 10.3
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 1482,
+      "pendapatan_penengah_rm": 1202,
+      "pekali_gini": 0.332,
+      "kemiskinan_mutlak_peratus": 5.5,
+      "kemiskinan_tegar_peratus": 0.4,
+      "kemiskinan_relatif_peratus": 9
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 1991,
+      "pendapatan_penengah_rm": 1423,
+      "pekali_gini": 0.404,
+      "kemiskinan_mutlak_peratus": 3.8,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 12.8
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 2410,
+      "pendapatan_penengah_rm": 1783,
+      "pekali_gini": 0.389,
+      "kemiskinan_mutlak_peratus": 4,
+      "kemiskinan_tegar_peratus": 1,
+      "kemiskinan_relatif_peratus": 14
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 2995,
+      "pendapatan_penengah_rm": 2235,
+      "pekali_gini": 0.38,
+      "kemiskinan_mutlak_peratus": 1.7,
+      "kemiskinan_tegar_peratus": 0.4,
+      "kemiskinan_relatif_peratus": 9.4
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 3279,
+      "pendapatan_penengah_rm": 2479,
+      "pekali_gini": 0.382,
+      "kemiskinan_mutlak_peratus": 2.1,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 12
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 3745,
+      "pendapatan_penengah_rm": 3067,
+      "pekali_gini": 0.354,
+      "kemiskinan_mutlak_peratus": 1.3,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 12.7
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 4343,
+      "pendapatan_penengah_rm": 3389,
+      "pekali_gini": 0.36,
+      "kemiskinan_mutlak_peratus": 0.7,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 12.1
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 5012,
+      "pendapatan_penengah_rm": 3979,
+      "pekali_gini": 0.324,
+      "kemiskinan_mutlak_peratus": 0.2,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 8.2
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 5667,
+      "pendapatan_penengah_rm": 4440,
+      "pekali_gini": 0.33,
+      "kemiskinan_mutlak_peratus": 4.3,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 6
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 5144,
+      "pendapatan_penengah_rm": 4033,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 8.8,
+      "kemiskinan_tegar_peratus": 1,
+      "kemiskinan_relatif_peratus": 7.3
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 5777,
+      "pendapatan_penengah_rm": 4753,
+      "pekali_gini": 0.308,
+      "kemiskinan_mutlak_peratus": 6.3,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 7.7
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 6066,
+      "pendapatan_penengah_rm": 4975,
+      "pekali_gini": 0.319,
+      "kemiskinan_mutlak_peratus": 5.9,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 6.8
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 1970,
+      "pendapatan_purata_rm": 254,
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 48.6,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 1974,
+      "pendapatan_purata_rm": 305,
+      "pendapatan_penengah_rm": 213,
+      "pekali_gini": 0.452,
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 436,
+      "pendapatan_penengah_rm": 286,
+      "pekali_gini": 0.525,
+      "kemiskinan_mutlak_peratus": 43,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 1979,
+      "pendapatan_purata_rm": 559,
+      "pendapatan_penengah_rm": 394,
+      "pekali_gini": 0.447,
+      "kemiskinan_mutlak_peratus": 30.5,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 883,
+      "pendapatan_penengah_rm": 646,
+      "pekali_gini": 0.428,
+      "kemiskinan_mutlak_peratus": 20.3,
+      "kemiskinan_tegar_peratus": 6.7,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 863,
+      "pendapatan_penengah_rm": 659,
+      "pekali_gini": 0.41,
+      "kemiskinan_mutlak_peratus": 19.9,
+      "kemiskinan_tegar_peratus": 5.8,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 973,
+      "pendapatan_penengah_rm": 719,
+      "pekali_gini": 0.421,
+      "kemiskinan_mutlak_peratus": 19.3,
+      "kemiskinan_tegar_peratus": 4.9,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 1274,
+      "pendapatan_penengah_rm": 958,
+      "pekali_gini": 0.399,
+      "kemiskinan_mutlak_peratus": 10.2,
+      "kemiskinan_tegar_peratus": 1.9,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 1436,
+      "pendapatan_penengah_rm": 1102,
+      "pekali_gini": 0.397,
+      "kemiskinan_mutlak_peratus": 9.1,
+      "kemiskinan_tegar_peratus": 1.9,
+      "kemiskinan_relatif_peratus": 16.5
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 1940,
+      "pendapatan_penengah_rm": 1522,
+      "pekali_gini": 0.381,
+      "kemiskinan_mutlak_peratus": 4.5,
+      "kemiskinan_tegar_peratus": 0.9,
+      "kemiskinan_relatif_peratus": 15.4
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 1743,
+      "pendapatan_penengah_rm": 1350,
+      "pekali_gini": 0.387,
+      "kemiskinan_mutlak_peratus": 9.5,
+      "kemiskinan_tegar_peratus": 1.4,
+      "kemiskinan_relatif_peratus": 15.7
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 2153,
+      "pendapatan_penengah_rm": 1613,
+      "pekali_gini": 0.417,
+      "kemiskinan_mutlak_peratus": 7.9,
+      "kemiskinan_tegar_peratus": 1.3,
+      "kemiskinan_relatif_peratus": 17.6
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 2207,
+      "pendapatan_penengah_rm": 1732,
+      "pekali_gini": 0.393,
+      "kemiskinan_mutlak_peratus": 4.9,
+      "kemiskinan_tegar_peratus": 1.1,
+      "kemiskinan_relatif_peratus": 18.4
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 2545,
+      "pendapatan_penengah_rm": 1905,
+      "pekali_gini": 0.399,
+      "kemiskinan_mutlak_peratus": 3.4,
+      "kemiskinan_tegar_peratus": 0.7,
+      "kemiskinan_relatif_peratus": 14.3
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 2809,
+      "pendapatan_penengah_rm": 2094,
+      "pekali_gini": 0.4,
+      "kemiskinan_mutlak_peratus": 3.5,
+      "kemiskinan_tegar_peratus": 0.5,
+      "kemiskinan_relatif_peratus": 13.3
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 3548,
+      "pendapatan_penengah_rm": 2665,
+      "pekali_gini": 0.417,
+      "kemiskinan_mutlak_peratus": 1.5,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 18.6
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 4268,
+      "pendapatan_penengah_rm": 3451,
+      "pekali_gini": 0.366,
+      "kemiskinan_mutlak_peratus": 0.7,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 16
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 5065,
+      "pendapatan_penengah_rm": 4006,
+      "pekali_gini": 0.362,
+      "kemiskinan_mutlak_peratus": 0.2,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 14.1
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 5645,
+      "pendapatan_penengah_rm": 4273,
+      "pekali_gini": 0.377,
+      "kemiskinan_mutlak_peratus": 7.3,
+      "kemiskinan_tegar_peratus": 0.5,
+      "kemiskinan_relatif_peratus": 11.3
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 5081,
+      "pendapatan_penengah_rm": 3759,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 11.4,
+      "kemiskinan_tegar_peratus": 1.5,
+      "kemiskinan_relatif_peratus": 11.1
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 5779,
+      "pendapatan_penengah_rm": 4494,
+      "pekali_gini": 0.368,
+      "kemiskinan_mutlak_peratus": 7.5,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 13.5
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 6173,
+      "pendapatan_penengah_rm": 4687,
+      "pekali_gini": 0.298,
+      "kemiskinan_mutlak_peratus": 6.9,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 11.4
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 1970,
+      "pendapatan_purata_rm": 140,
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 73.9,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 1974,
+      "pendapatan_purata_rm": 206,
+      "pendapatan_penengah_rm": 147,
+      "pekali_gini": 0.425,
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 338,
+      "pendapatan_penengah_rm": 196,
+      "pekali_gini": 0.498,
+      "kemiskinan_mutlak_peratus": 59.8,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 1979,
+      "pendapatan_purata_rm": 316,
+      "pendapatan_penengah_rm": 223,
+      "pekali_gini": 0.44,
+      "kemiskinan_mutlak_peratus": 63.1,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 692,
+      "pendapatan_penengah_rm": 485,
+      "pekali_gini": 0.459,
+      "kemiskinan_mutlak_peratus": 33.7,
+      "kemiskinan_tegar_peratus": 11.7,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 711,
+      "pendapatan_penengah_rm": 544,
+      "pekali_gini": 0.408,
+      "kemiskinan_mutlak_peratus": 29.1,
+      "kemiskinan_tegar_peratus": 7.4,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 817,
+      "pendapatan_penengah_rm": 635,
+      "pekali_gini": 0.377,
+      "kemiskinan_mutlak_peratus": 17.2,
+      "kemiskinan_tegar_peratus": 3.2,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 1040,
+      "pendapatan_penengah_rm": 761,
+      "pekali_gini": 0.415,
+      "kemiskinan_mutlak_peratus": 19.8,
+      "kemiskinan_tegar_peratus": 4.1,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 1158,
+      "pendapatan_penengah_rm": 889,
+      "pekali_gini": 0.379,
+      "kemiskinan_mutlak_peratus": 11.8,
+      "kemiskinan_tegar_peratus": 2.7,
+      "kemiskinan_relatif_peratus": 13.1
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 1507,
+      "pendapatan_penengah_rm": 1114,
+      "pekali_gini": 0.412,
+      "kemiskinan_mutlak_peratus": 10.6,
+      "kemiskinan_tegar_peratus": 2.6,
+      "kemiskinan_relatif_peratus": 15.1
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 1431,
+      "pendapatan_penengah_rm": 1086,
+      "pekali_gini": 0.394,
+      "kemiskinan_mutlak_peratus": 13.3,
+      "kemiskinan_tegar_peratus": 2.8,
+      "kemiskinan_relatif_peratus": 15.7
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 2006,
+      "pendapatan_penengah_rm": 1431,
+      "pekali_gini": 0.437,
+      "kemiskinan_mutlak_peratus": 10.1,
+      "kemiskinan_tegar_peratus": 1.8,
+      "kemiskinan_relatif_peratus": 19.5
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 2046,
+      "pendapatan_penengah_rm": 1459,
+      "pekali_gini": 0.423,
+      "kemiskinan_mutlak_peratus": 6.3,
+      "kemiskinan_tegar_peratus": 1.7,
+      "kemiskinan_relatif_peratus": 15.8
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 2541,
+      "pendapatan_penengah_rm": 1746,
+      "pekali_gini": 0.454,
+      "kemiskinan_mutlak_peratus": 6.8,
+      "kemiskinan_tegar_peratus": 1.4,
+      "kemiskinan_relatif_peratus": 18.9
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 2617,
+      "pendapatan_penengah_rm": 1832,
+      "pekali_gini": 0.434,
+      "kemiskinan_mutlak_peratus": 6,
+      "kemiskinan_tegar_peratus": 0.8,
+      "kemiskinan_relatif_peratus": 17
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 3538,
+      "pendapatan_penengah_rm": 2387,
+      "pekali_gini": 0.455,
+      "kemiskinan_mutlak_peratus": 1.9,
+      "kemiskinan_tegar_peratus": 0.5,
+      "kemiskinan_relatif_peratus": 19.2
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 4445,
+      "pendapatan_penengah_rm": 3500,
+      "pekali_gini": 0.346,
+      "kemiskinan_mutlak_peratus": 0.2,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 10.1
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 4998,
+      "pendapatan_penengah_rm": 4204,
+      "pekali_gini": 0.327,
+      "kemiskinan_mutlak_peratus": 0.1,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 12
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 5476,
+      "pendapatan_penengah_rm": 4594,
+      "pekali_gini": 0.334,
+      "kemiskinan_mutlak_peratus": 3.9,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 12
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 4971,
+      "pendapatan_penengah_rm": 4043,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 9.9,
+      "kemiskinan_tegar_peratus": 1.4,
+      "kemiskinan_relatif_peratus": 14.3
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 5664,
+      "pendapatan_penengah_rm": 4713,
+      "pekali_gini": 0.336,
+      "kemiskinan_mutlak_peratus": 4,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 12.6
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 5996,
+      "pendapatan_penengah_rm": 4950,
+      "pekali_gini": 0.334,
+      "kemiskinan_mutlak_peratus": 3.6,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 11.3
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 1970,
+      "pendapatan_purata_rm": 292,
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 43.7,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 1974,
+      "pendapatan_purata_rm": 471,
+      "pendapatan_penengah_rm": 241,
+      "pekali_gini": 0.597,
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 589,
+      "pendapatan_penengah_rm": 363,
+      "pekali_gini": 0.608,
+      "kemiskinan_mutlak_peratus": 32.4,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 1979,
+      "pendapatan_purata_rm": 840,
+      "pendapatan_penengah_rm": 534,
+      "pekali_gini": 0.492,
+      "kemiskinan_mutlak_peratus": 19.7,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 1183,
+      "pendapatan_penengah_rm": 812,
+      "pekali_gini": 0.452,
+      "kemiskinan_mutlak_peratus": 13.4,
+      "kemiskinan_tegar_peratus": 4.1,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 1130,
+      "pendapatan_penengah_rm": 833,
+      "pekali_gini": 0.422,
+      "kemiskinan_mutlak_peratus": 12.9,
+      "kemiskinan_tegar_peratus": 4,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 1326,
+      "pendapatan_penengah_rm": 988,
+      "pekali_gini": 0.406,
+      "kemiskinan_mutlak_peratus": 8.9,
+      "kemiskinan_tegar_peratus": 2.1,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 1821,
+      "pendapatan_penengah_rm": 1365,
+      "pekali_gini": 0.412,
+      "kemiskinan_mutlak_peratus": 4,
+      "kemiskinan_tegar_peratus": 1.1,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 2225,
+      "pendapatan_penengah_rm": 1693,
+      "pekali_gini": 0.405,
+      "kemiskinan_mutlak_peratus": 4,
+      "kemiskinan_tegar_peratus": 0.7,
+      "kemiskinan_relatif_peratus": 18.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 3130,
+      "pendapatan_penengah_rm": 2338,
+      "pekali_gini": 0.398,
+      "kemiskinan_mutlak_peratus": 1.6,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 16.5
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 3128,
+      "pendapatan_penengah_rm": 2323,
+      "pekali_gini": 0.399,
+      "kemiskinan_mutlak_peratus": 2.7,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 16.6
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 3496,
+      "pendapatan_penengah_rm": 2572,
+      "pekali_gini": 0.435,
+      "kemiskinan_mutlak_peratus": 1.4,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 20.3
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 3531,
+      "pendapatan_penengah_rm": 2650,
+      "pekali_gini": 0.398,
+      "kemiskinan_mutlak_peratus": 0.3,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 15.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 4004,
+      "pendapatan_penengah_rm": 2902,
+      "pekali_gini": 0.411,
+      "kemiskinan_mutlak_peratus": 1.4,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 15.2
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 4407,
+      "pendapatan_penengah_rm": 3200,
+      "pekali_gini": 0.419,
+      "kemiskinan_mutlak_peratus": 1.2,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 15.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 5055,
+      "pendapatan_penengah_rm": 4039,
+      "pekali_gini": 0.37,
+      "kemiskinan_mutlak_peratus": 0.6,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 16.5
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 5993,
+      "pendapatan_penengah_rm": 4702,
+      "pekali_gini": 0.364,
+      "kemiskinan_mutlak_peratus": 0.3,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 12.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 6771,
+      "pendapatan_penengah_rm": 5409,
+      "pekali_gini": 0.356,
+      "kemiskinan_mutlak_peratus": 0.1,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 6.6
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 7774,
+      "pendapatan_penengah_rm": 6169,
+      "pekali_gini": 0.359,
+      "kemiskinan_mutlak_peratus": 1.9,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 13.2
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 6850,
+      "pendapatan_penengah_rm": 5474,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 3.3,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 12.2
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 8267,
+      "pendapatan_penengah_rm": 6502,
+      "pekali_gini": 0.371,
+      "kemiskinan_mutlak_peratus": 2,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 15.3
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 9152,
+      "pendapatan_penengah_rm": 7386,
+      "pekali_gini": 0.311,
+      "kemiskinan_mutlak_peratus": 1.9,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 15.1
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 513,
+      "pendapatan_penengah_rm": 309,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 58.3,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 1979,
+      "pendapatan_purata_rm": 767,
+      "pendapatan_penengah_rm": 493,
+      "pekali_gini": 0.49,
+      "kemiskinan_mutlak_peratus": 40.7,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 1212,
+      "pendapatan_penengah_rm": 749,
+      "pekali_gini": 0.491,
+      "kemiskinan_mutlak_peratus": 33.1,
+      "kemiskinan_tegar_peratus": 9.7,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 1116,
+      "pendapatan_penengah_rm": 726,
+      "pekali_gini": 0.467,
+      "kemiskinan_mutlak_peratus": 35.3,
+      "kemiskinan_tegar_peratus": 8.7,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 1264,
+      "pendapatan_penengah_rm": 863,
+      "pekali_gini": 0.459,
+      "kemiskinan_mutlak_peratus": 29.7,
+      "kemiskinan_tegar_peratus": 9.3,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 1490,
+      "pendapatan_penengah_rm": 994,
+      "pekali_gini": 0.468,
+      "kemiskinan_mutlak_peratus": 27.8,
+      "kemiskinan_tegar_peratus": 6.8,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 1647,
+      "pendapatan_penengah_rm": 1133,
+      "pekali_gini": 0.448,
+      "kemiskinan_mutlak_peratus": 22.6,
+      "kemiskinan_tegar_peratus": 4.9,
+      "kemiskinan_relatif_peratus": 19.6
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 2057,
+      "pendapatan_penengah_rm": 1390,
+      "pekali_gini": 0.454,
+      "kemiskinan_mutlak_peratus": 22.1,
+      "kemiskinan_tegar_peratus": 2,
+      "kemiskinan_relatif_peratus": 19.7
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 1905,
+      "pendapatan_penengah_rm": 1264,
+      "pekali_gini": 0.448,
+      "kemiskinan_mutlak_peratus": 20.1,
+      "kemiskinan_tegar_peratus": 3.4,
+      "kemiskinan_relatif_peratus": 16.3
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 2406,
+      "pendapatan_penengah_rm": 1583,
+      "pekali_gini": 0.465,
+      "kemiskinan_mutlak_peratus": 16,
+      "kemiskinan_tegar_peratus": 3.1,
+      "kemiskinan_relatif_peratus": 21.1
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 2487,
+      "pendapatan_penengah_rm": 1606,
+      "pekali_gini": 0.477,
+      "kemiskinan_mutlak_peratus": 24.2,
+      "kemiskinan_tegar_peratus": 6.9,
+      "kemiskinan_relatif_peratus": 21.2
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 2837,
+      "pendapatan_penengah_rm": 1189,
+      "pekali_gini": 0.451,
+      "kemiskinan_mutlak_peratus": 16.4,
+      "kemiskinan_tegar_peratus": 3.8,
+      "kemiskinan_relatif_peratus": 15.8
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 3102,
+      "pendapatan_penengah_rm": 2066,
+      "pekali_gini": 0.454,
+      "kemiskinan_mutlak_peratus": 19.7,
+      "kemiskinan_tegar_peratus": 4.8,
+      "kemiskinan_relatif_peratus": 19.5
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 4013,
+      "pendapatan_penengah_rm": 2860,
+      "pekali_gini": 0.427,
+      "kemiskinan_mutlak_peratus": 8.1,
+      "kemiskinan_tegar_peratus": 1.6,
+      "kemiskinan_relatif_peratus": 18.6
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 4879,
+      "pendapatan_penengah_rm": 3745,
+      "pekali_gini": 0.387,
+      "kemiskinan_mutlak_peratus": 4,
+      "kemiskinan_tegar_peratus": 0.6,
+      "kemiskinan_relatif_peratus": 16.3
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 5354,
+      "pendapatan_penengah_rm": 4110,
+      "pekali_gini": 0.402,
+      "kemiskinan_mutlak_peratus": 2.9,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 17.6
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 5745,
+      "pendapatan_penengah_rm": 4235,
+      "pekali_gini": 0.397,
+      "kemiskinan_mutlak_peratus": 19.5,
+      "kemiskinan_tegar_peratus": 1.5,
+      "kemiskinan_relatif_peratus": 14.7
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 5215,
+      "pendapatan_penengah_rm": 3773,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 25.3,
+      "kemiskinan_tegar_peratus": 2.7,
+      "kemiskinan_relatif_peratus": 13.2
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 6171,
+      "pendapatan_penengah_rm": 4577,
+      "pekali_gini": 0.395,
+      "kemiskinan_mutlak_peratus": 19.7,
+      "kemiskinan_tegar_peratus": 1.2,
+      "kemiskinan_relatif_peratus": 14.5
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 6498,
+      "pendapatan_penengah_rm": 4890,
+      "pekali_gini": 0.405,
+      "kemiskinan_mutlak_peratus": 17.7,
+      "kemiskinan_tegar_peratus": 0.7,
+      "kemiskinan_relatif_peratus": 14.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 426,
+      "pendapatan_penengah_rm": 260,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 56.5,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 1979,
+      "pendapatan_purata_rm": 582,
+      "pendapatan_penengah_rm": 365,
+      "pekali_gini": 0.501,
+      "kemiskinan_mutlak_peratus": 47.8,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 1033,
+      "pendapatan_penengah_rm": 660,
+      "pekali_gini": 0.498,
+      "kemiskinan_mutlak_peratus": 31.9,
+      "kemiskinan_tegar_peratus": 10,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 1141,
+      "pendapatan_penengah_rm": 754,
+      "pekali_gini": 0.465,
+      "kemiskinan_mutlak_peratus": 24.7,
+      "kemiskinan_tegar_peratus": 4.4,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 1190,
+      "pendapatan_penengah_rm": 819,
+      "pekali_gini": 0.441,
+      "kemiskinan_mutlak_peratus": 21,
+      "kemiskinan_tegar_peratus": 3.3,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 1480,
+      "pendapatan_penengah_rm": 999,
+      "pekali_gini": 0.467,
+      "kemiskinan_mutlak_peratus": 19.2,
+      "kemiskinan_tegar_peratus": 3,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 1886,
+      "pendapatan_penengah_rm": 1305,
+      "pekali_gini": 0.44,
+      "kemiskinan_mutlak_peratus": 10,
+      "kemiskinan_tegar_peratus": 1.3,
+      "kemiskinan_relatif_peratus": 17.9
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 2242,
+      "pendapatan_penengah_rm": 1499,
+      "pekali_gini": 0.447,
+      "kemiskinan_mutlak_peratus": 7.5,
+      "kemiskinan_tegar_peratus": 0.7,
+      "kemiskinan_relatif_peratus": 16.8
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 2276,
+      "pendapatan_penengah_rm": 1667,
+      "pekali_gini": 0.407,
+      "kemiskinan_mutlak_peratus": 6.7,
+      "kemiskinan_tegar_peratus": 0.7,
+      "kemiskinan_relatif_peratus": 16.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 2515,
+      "pendapatan_penengah_rm": 1704,
+      "pekali_gini": 0.445,
+      "kemiskinan_mutlak_peratus": 5.8,
+      "kemiskinan_tegar_peratus": 0.6,
+      "kemiskinan_relatif_peratus": 18
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 2725,
+      "pendapatan_penengah_rm": 1804,
+      "pekali_gini": 0.44,
+      "kemiskinan_mutlak_peratus": 7.5,
+      "kemiskinan_tegar_peratus": 1.1,
+      "kemiskinan_relatif_peratus": 15.1
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 3349,
+      "pendapatan_penengah_rm": 2250,
+      "pekali_gini": 0.442,
+      "kemiskinan_mutlak_peratus": 4.2,
+      "kemiskinan_tegar_peratus": 0.7,
+      "kemiskinan_relatif_peratus": 13.6
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 3581,
+      "pendapatan_penengah_rm": 2394,
+      "pekali_gini": 0.448,
+      "kemiskinan_mutlak_peratus": 5.3,
+      "kemiskinan_tegar_peratus": 1,
+      "kemiskinan_relatif_peratus": 16.4
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 4293,
+      "pendapatan_penengah_rm": 3047,
+      "pekali_gini": 0.44,
+      "kemiskinan_mutlak_peratus": 2.4,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 19.6
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 4934,
+      "pendapatan_penengah_rm": 3778,
+      "pekali_gini": 0.391,
+      "kemiskinan_mutlak_peratus": 0.9,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 17.1
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 5387,
+      "pendapatan_penengah_rm": 4163,
+      "pekali_gini": 0.386,
+      "kemiskinan_mutlak_peratus": 0.6,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 16.8
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 5959,
+      "pendapatan_penengah_rm": 4544,
+      "pekali_gini": 0.387,
+      "kemiskinan_mutlak_peratus": 9,
+      "kemiskinan_tegar_peratus": 0.4,
+      "kemiskinan_relatif_peratus": 15.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 5087,
+      "pendapatan_penengah_rm": 3831,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 12.9,
+      "kemiskinan_tegar_peratus": 0.9,
+      "kemiskinan_relatif_peratus": 12.3
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 6457,
+      "pendapatan_penengah_rm": 4978,
+      "pekali_gini": 0.382,
+      "kemiskinan_mutlak_peratus": 10.8,
+      "kemiskinan_tegar_peratus": 0.4,
+      "kemiskinan_relatif_peratus": 16.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 6947,
+      "pendapatan_penengah_rm": 5504,
+      "pekali_gini": 0.361,
+      "kemiskinan_mutlak_peratus": 8.4,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 14.6
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 1970,
+      "pendapatan_purata_rm": 421,
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 29.2,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 1974,
+      "pendapatan_purata_rm": 598,
+      "pendapatan_penengah_rm": 363,
+      "pekali_gini": 0.507,
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 735,
+      "pendapatan_penengah_rm": 441,
+      "pekali_gini": 0.516,
+      "kemiskinan_mutlak_peratus": 22.9,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 1979,
+      "pendapatan_purata_rm": 1067,
+      "pendapatan_penengah_rm": 647,
+      "pekali_gini": 0.505,
+      "kemiskinan_mutlak_peratus": 14.5,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 1590,
+      "pendapatan_penengah_rm": 1010,
+      "pekali_gini": 0.481,
+      "kemiskinan_mutlak_peratus": 8.6,
+      "kemiskinan_tegar_peratus": 2.5,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 1558,
+      "pendapatan_penengah_rm": 1049,
+      "pekali_gini": 0.462,
+      "kemiskinan_mutlak_peratus": 8.9,
+      "kemiskinan_tegar_peratus": 1.9,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 1658,
+      "pendapatan_penengah_rm": 1145,
+      "pekali_gini": 0.444,
+      "kemiskinan_mutlak_peratus": 7.8,
+      "kemiskinan_tegar_peratus": 1.1,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 2280,
+      "pendapatan_penengah_rm": 1572,
+      "pekali_gini": 0.446,
+      "kemiskinan_mutlak_peratus": 4.3,
+      "kemiskinan_tegar_peratus": 0.6,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 3162,
+      "pendapatan_penengah_rm": 2255,
+      "pekali_gini": 0.424,
+      "kemiskinan_mutlak_peratus": 2.2,
+      "kemiskinan_tegar_peratus": 0.5,
+      "kemiskinan_relatif_peratus": 19.4
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 4006,
+      "pendapatan_penengah_rm": 2850,
+      "pekali_gini": 0.409,
+      "kemiskinan_mutlak_peratus": 1.3,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 20.2
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 3702,
+      "pendapatan_penengah_rm": 2750,
+      "pekali_gini": 0.394,
+      "kemiskinan_mutlak_peratus": 2,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 19
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 4406,
+      "pendapatan_penengah_rm": 3144,
+      "pekali_gini": 0.423,
+      "kemiskinan_mutlak_peratus": 1.1,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 17.3
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 5175,
+      "pendapatan_penengah_rm": 3588,
+      "pekali_gini": 0.443,
+      "kemiskinan_mutlak_peratus": 1,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 17.8
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 5580,
+      "pendapatan_penengah_rm": 4046,
+      "pekali_gini": 0.418,
+      "kemiskinan_mutlak_peratus": 0.7,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 16
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 5962,
+      "pendapatan_penengah_rm": 4306,
+      "pekali_gini": 0.424,
+      "kemiskinan_mutlak_peratus": 0.7,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 16.2
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 7023,
+      "pendapatan_penengah_rm": 5353,
+      "pekali_gini": 0.396,
+      "kemiskinan_mutlak_peratus": 0.4,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 15.6
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 8252,
+      "pendapatan_penengah_rm": 6214,
+      "pekali_gini": 0.379,
+      "kemiskinan_mutlak_peratus": 0.2,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 11.1
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 9463,
+      "pendapatan_penengah_rm": 7225,
+      "pekali_gini": 0.372,
+      "kemiskinan_mutlak_peratus": 0,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 10.7
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 10827,
+      "pendapatan_penengah_rm": 8210,
+      "pekali_gini": 0.393,
+      "kemiskinan_mutlak_peratus": 1.2,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 15.3
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 9668,
+      "pendapatan_penengah_rm": 7300,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 1.7,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 13.9
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 12233,
+      "pendapatan_penengah_rm": 9983,
+      "pekali_gini": 0.361,
+      "kemiskinan_mutlak_peratus": 1.5,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 14.2
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 13296,
+      "pendapatan_penengah_rm": 10726,
+      "pekali_gini": 0.332,
+      "kemiskinan_mutlak_peratus": 0.9,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 8.5
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 1970,
+      "pendapatan_purata_rm": 173,
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 68.9,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 1974,
+      "pendapatan_purata_rm": 206,
+      "pendapatan_penengah_rm": 130,
+      "pekali_gini": 0.502,
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 339,
+      "pendapatan_penengah_rm": 199,
+      "pekali_gini": 0.482,
+      "kemiskinan_mutlak_peratus": 60.3,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 1979,
+      "pendapatan_purata_rm": 360,
+      "pendapatan_penengah_rm": 258,
+      "pekali_gini": 0.458,
+      "kemiskinan_mutlak_peratus": 53.1,
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 756,
+      "pendapatan_penengah_rm": 524,
+      "pekali_gini": 0.461,
+      "kemiskinan_mutlak_peratus": 28.9,
+      "kemiskinan_tegar_peratus": 11.6,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 694,
+      "pendapatan_penengah_rm": 472,
+      "pekali_gini": 0.478,
+      "kemiskinan_mutlak_peratus": 36.1,
+      "kemiskinan_tegar_peratus": 15.1,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 759,
+      "pendapatan_penengah_rm": 520,
+      "pekali_gini": 0.459,
+      "kemiskinan_mutlak_peratus": 31.2,
+      "kemiskinan_tegar_peratus": 10.4,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 939,
+      "pendapatan_penengah_rm": 680,
+      "pekali_gini": 0.448,
+      "kemiskinan_mutlak_peratus": 25.6,
+      "kemiskinan_tegar_peratus": 9.2,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 1117,
+      "pendapatan_penengah_rm": 756,
+      "pekali_gini": 0.464,
+      "kemiskinan_mutlak_peratus": 23.4,
+      "kemiskinan_tegar_peratus": 7.5,
+      "kemiskinan_relatif_peratus": 18.7
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 1497,
+      "pendapatan_penengah_rm": 1026,
+      "pekali_gini": 0.466,
+      "kemiskinan_mutlak_peratus": 17.3,
+      "kemiskinan_tegar_peratus": 5,
+      "kemiskinan_relatif_peratus": 19.8
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 1599,
+      "pendapatan_penengah_rm": 1155,
+      "pekali_gini": 0.44,
+      "kemiskinan_mutlak_peratus": 14.9,
+      "kemiskinan_tegar_peratus": 4.9,
+      "kemiskinan_relatif_peratus": 18.7
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 1837,
+      "pendapatan_penengah_rm": 1331,
+      "pekali_gini": 0.424,
+      "kemiskinan_mutlak_peratus": 10.7,
+      "kemiskinan_tegar_peratus": 2.8,
+      "kemiskinan_relatif_peratus": 15.8
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 1984,
+      "pendapatan_penengah_rm": 1353,
+      "pekali_gini": 0.443,
+      "kemiskinan_mutlak_peratus": 15.4,
+      "kemiskinan_tegar_peratus": 4.4,
+      "kemiskinan_relatif_peratus": 16.1
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 2463,
+      "pendapatan_penengah_rm": 1796,
+      "pekali_gini": 0.399,
+      "kemiskinan_mutlak_peratus": 6.4,
+      "kemiskinan_tegar_peratus": 0.8,
+      "kemiskinan_relatif_peratus": 13.3
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 3017,
+      "pendapatan_penengah_rm": 2096,
+      "pekali_gini": 0.418,
+      "kemiskinan_mutlak_peratus": 4,
+      "kemiskinan_tegar_peratus": 0.5,
+      "kemiskinan_relatif_peratus": 12.1
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 3967,
+      "pendapatan_penengah_rm": 3034,
+      "pekali_gini": 0.426,
+      "kemiskinan_mutlak_peratus": 1.7,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 20.5
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 4816,
+      "pendapatan_penengah_rm": 3777,
+      "pekali_gini": 0.36,
+      "kemiskinan_mutlak_peratus": 0.6,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 13.7
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 5776,
+      "pendapatan_penengah_rm": 4694,
+      "pekali_gini": 0.328,
+      "kemiskinan_mutlak_peratus": 0.4,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 10.2
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 6815,
+      "pendapatan_penengah_rm": 5545,
+      "pekali_gini": 0.335,
+      "kemiskinan_mutlak_peratus": 6.1,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": 8.2
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 6051,
+      "pendapatan_penengah_rm": 4790,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 12,
+      "kemiskinan_tegar_peratus": 1.1,
+      "kemiskinan_relatif_peratus": 10.7
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 7248,
+      "pendapatan_penengah_rm": 5878,
+      "pekali_gini": 0.326,
+      "kemiskinan_mutlak_peratus": 6.2,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 6.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 7627,
+      "pendapatan_penengah_rm": 6627,
+      "pekali_gini": 0.263,
+      "kemiskinan_mutlak_peratus": 5.8,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 9.9
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 1976,
+      "pendapatan_purata_rm": 1058,
+      "pendapatan_penengah_rm": 645,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 1984,
+      "pendapatan_purata_rm": 1920,
+      "pendapatan_penengah_rm": 1217,
+      "pekali_gini": 0.486,
+      "kemiskinan_mutlak_peratus": 4.9,
+      "kemiskinan_tegar_peratus": 1.4,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 1987,
+      "pendapatan_purata_rm": 1790,
+      "pendapatan_penengah_rm": 1180,
+      "pekali_gini": 0.465,
+      "kemiskinan_mutlak_peratus": 5.2,
+      "kemiskinan_tegar_peratus": 1,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 1989,
+      "pendapatan_purata_rm": 1824,
+      "pendapatan_penengah_rm": 1294,
+      "pekali_gini": 0.428,
+      "kemiskinan_mutlak_peratus": 3.8,
+      "kemiskinan_tegar_peratus": 0.5,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 1992,
+      "pendapatan_purata_rm": 2429,
+      "pendapatan_penengah_rm": 1753,
+      "pekali_gini": 0.443,
+      "kemiskinan_mutlak_peratus": 1.7,
+      "kemiskinan_tegar_peratus": 0.3,
+      "kemiskinan_relatif_peratus": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 1995,
+      "pendapatan_purata_rm": 3371,
+      "pendapatan_penengah_rm": 2321,
+      "pekali_gini": 0.423,
+      "kemiskinan_mutlak_peratus": 0.5,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 17.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 1997,
+      "pendapatan_purata_rm": 4768,
+      "pendapatan_penengah_rm": 3090,
+      "pekali_gini": 0.417,
+      "kemiskinan_mutlak_peratus": 0.1,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 18.8
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 1999,
+      "pendapatan_purata_rm": 4105,
+      "pendapatan_penengah_rm": 2828,
+      "pekali_gini": 0.414,
+      "kemiskinan_mutlak_peratus": 2.3,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 17.4
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2002,
+      "pendapatan_purata_rm": 4930,
+      "pendapatan_penengah_rm": 3364,
+      "pekali_gini": 0.448,
+      "kemiskinan_mutlak_peratus": 0.5,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 18.2
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2004,
+      "pendapatan_purata_rm": 5011,
+      "pendapatan_penengah_rm": 3336,
+      "pekali_gini": 0.467,
+      "kemiskinan_mutlak_peratus": 1.5,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 18.7
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 5322,
+      "pendapatan_penengah_rm": 3697,
+      "pekali_gini": 0.446,
+      "kemiskinan_mutlak_peratus": 1.5,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 17.8
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 5488,
+      "pendapatan_penengah_rm": 4409,
+      "pekali_gini": 0.374,
+      "kemiskinan_mutlak_peratus": 0.7,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 16.8
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 8586,
+      "pendapatan_penengah_rm": 5847,
+      "pekali_gini": 0.442,
+      "kemiskinan_mutlak_peratus": 0.8,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 12.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 10629,
+      "pendapatan_penengah_rm": 7620,
+      "pekali_gini": 0.407,
+      "kemiskinan_mutlak_peratus": 0.1,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 13.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 11692,
+      "pendapatan_penengah_rm": 9073,
+      "pekali_gini": 0.378,
+      "kemiskinan_mutlak_peratus": 0,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 13.8
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 13257,
+      "pendapatan_penengah_rm": 10549,
+      "pekali_gini": 0.35,
+      "kemiskinan_mutlak_peratus": 0.2,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 10.6
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 11728,
+      "pendapatan_penengah_rm": 9093,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 0.4,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 9.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 13325,
+      "pendapatan_penengah_rm": 10234,
+      "pekali_gini": 0.38,
+      "kemiskinan_mutlak_peratus": 1.4,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 12.7
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 13985,
+      "pendapatan_penengah_rm": 10802,
+      "pekali_gini": 0.375,
+      "kemiskinan_mutlak_peratus": 1,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 11.8
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 1999,
+      "pendapatan_purata_rm": "",
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": 21.6
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2002,
+      "pendapatan_purata_rm": "",
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": "",
+      "kemiskinan_tegar_peratus": "",
+      "kemiskinan_relatif_peratus": 21.6
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2004,
+      "pendapatan_purata_rm": "",
+      "pendapatan_penengah_rm": "",
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 2.7,
+      "kemiskinan_tegar_peratus": 0.2,
+      "kemiskinan_relatif_peratus": 14.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 3726,
+      "pendapatan_penengah_rm": 2777,
+      "pekali_gini": 0.388,
+      "kemiskinan_mutlak_peratus": 4.2,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 15.3
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 4407,
+      "pendapatan_penengah_rm": 3498,
+      "pekali_gini": 0.387,
+      "kemiskinan_mutlak_peratus": 4.3,
+      "kemiskinan_tegar_peratus": 0.7,
+      "kemiskinan_relatif_peratus": 17.9
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 6317,
+      "pendapatan_penengah_rm": 5063,
+      "pekali_gini": 0.383,
+      "kemiskinan_mutlak_peratus": 1.1,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 17.6
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 7591,
+      "pendapatan_penengah_rm": 5684,
+      "pekali_gini": 0.385,
+      "kemiskinan_mutlak_peratus": 1.1,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 14.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 8174,
+      "pendapatan_penengah_rm": 5928,
+      "pekali_gini": 0.398,
+      "kemiskinan_mutlak_peratus": 0,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 11.6
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 8319,
+      "pendapatan_penengah_rm": 6726,
+      "pekali_gini": 0.333,
+      "kemiskinan_mutlak_peratus": 3.1,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 12.9
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 7333,
+      "pendapatan_penengah_rm": 6126,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 5.2,
+      "kemiskinan_tegar_peratus": 0.1,
+      "kemiskinan_relatif_peratus": 11.8
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 8250,
+      "pendapatan_penengah_rm": 6904,
+      "pekali_gini": 0.3,
+      "kemiskinan_mutlak_peratus": 2.5,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 7
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 8555,
+      "pendapatan_penengah_rm": 7383,
+      "pekali_gini": 0.327,
+      "kemiskinan_mutlak_peratus": 2,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 13.7
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2007,
+      "pendapatan_purata_rm": 5294,
+      "pendapatan_penengah_rm": 4288,
+      "pekali_gini": 0.362,
+      "kemiskinan_mutlak_peratus": 0,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 16.6
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2009,
+      "pendapatan_purata_rm": 6747,
+      "pendapatan_penengah_rm": 5450,
+      "pekali_gini": 0.342,
+      "kemiskinan_mutlak_peratus": 0,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 11.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2012,
+      "pendapatan_purata_rm": 8101,
+      "pendapatan_penengah_rm": 6486,
+      "pekali_gini": 0.305,
+      "kemiskinan_mutlak_peratus": 0,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 4.9
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2014,
+      "pendapatan_purata_rm": 10401,
+      "pendapatan_penengah_rm": 7512,
+      "pekali_gini": 0.374,
+      "kemiskinan_mutlak_peratus": 0,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 7.9
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2016,
+      "pendapatan_purata_rm": 11555,
+      "pendapatan_penengah_rm": 8275,
+      "pekali_gini": 0.369,
+      "kemiskinan_mutlak_peratus": 0,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 6.8
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2019,
+      "pendapatan_purata_rm": 12840,
+      "pendapatan_penengah_rm": 9983,
+      "pekali_gini": 0.361,
+      "kemiskinan_mutlak_peratus": 0.4,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 12.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2020,
+      "pendapatan_purata_rm": 12322,
+      "pendapatan_penengah_rm": 9743,
+      "pekali_gini": "",
+      "kemiskinan_mutlak_peratus": 0.2,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 11.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2022,
+      "pendapatan_purata_rm": 13473,
+      "pendapatan_penengah_rm": 10056,
+      "pekali_gini": 0.368,
+      "kemiskinan_mutlak_peratus": 0.1,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 11.4
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2024,
+      "pendapatan_purata_rm": 13846,
+      "pendapatan_penengah_rm": 10769,
+      "pekali_gini": 0.324,
+      "kemiskinan_mutlak_peratus": 0.2,
+      "kemiskinan_tegar_peratus": 0,
+      "kemiskinan_relatif_peratus": 10.9
+    }
+  ],
+  "meta": {
+    "title": "Pendapatan Isi Rumah, Ketaksamaan dan Kemiskinan mengikut Negeri (1970–2024) - Muat turun percuma",
+    "description": "Pendapatan bulanan isi rumah purata dan penengah, pekali Gini serta kadar kemiskinan mutlak, tegar dan relatif bagi setiap negeri di Malaysia berdasarkan Penyiasatan Pendapatan dan Perbelanjaan Isi Rumah (HIES) DOSM. Mengandungi 322 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Pendapatan Isi Rumah, Ketaksamaan dan Kemiskinan mengikut Negeri (1970–2024) | ListBase",
+    "seo_description": "Muat turun Pendapatan Isi Rumah, Ketaksamaan dan Kemiskinan mengikut Negeri (1970–2024) — 322 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 322 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://open.dosm.gov.my/data-catalogue/hh_income_state"
+    ]
+  }
+}

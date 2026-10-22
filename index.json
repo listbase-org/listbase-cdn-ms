@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:50.655Z",
-  "total_datasets": 635,
-  "total_records": 522962,
+  "generated": "2026-10-22T04:32:51.203Z",
+  "total_datasets": 636,
+  "total_records": 523284,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -1898,6 +1898,35 @@
         "xlsx": {
           "name": "ms-orang-terkaya_MS.xlsx",
           "size": 7019
+        }
+      }
+    },
+    {
+      "id": "ms-pendapatan-isi-rumah-negeri",
+      "name": "Pendapatan Isi Rumah, Ketaksamaan dan Kemiskinan mengikut Negeri (1970–2024)",
+      "category": "economy",
+      "record_count": 322,
+      "columns": [
+        "negeri",
+        "tahun",
+        "pendapatan_purata_rm",
+        "pendapatan_penengah_rm",
+        "pekali_gini",
+        "kemiskinan_mutlak_peratus",
+        "kemiskinan_tegar_peratus",
+        "kemiskinan_relatif_peratus"
+      ],
+      "source": "https://open.dosm.gov.my/data-catalogue/hh_income_state",
+      "updated": "2026-10",
+      "size": 93365,
+      "files": {
+        "csv": {
+          "name": "ms-pendapatan-isi-rumah-negeri_MS.csv",
+          "size": 18144
+        },
+        "xlsx": {
+          "name": "ms-pendapatan-isi-rumah-negeri_MS.xlsx",
+          "size": 19952
         }
       }
     },
