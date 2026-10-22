@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:21.835Z",
-  "total_datasets": 587,
-  "total_records": 509794,
+  "generated": "2026-10-22T04:32:22.329Z",
+  "total_datasets": 588,
+  "total_records": 509801,
   "categories": [
     {
       "id": "culture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "health",
@@ -2691,6 +2691,35 @@
         "xlsx": {
           "name": "ms-rumah-api_MS.xlsx",
           "size": 8064
+        }
+      }
+    },
+    {
+      "id": "ms-rumah-api-brunei",
+      "name": "Senarai Rumah Api di Brunei",
+      "category": "geography",
+      "record_count": 7,
+      "columns": [
+        "nama",
+        "tahun_dibina",
+        "lokasi_koordinat",
+        "kelas_cahaya",
+        "fokus_ketinggian",
+        "nga_nombor",
+        "laksamana_nombor",
+        "julat_nml"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_rumah_api_di_Brunei",
+      "updated": "2026-10",
+      "size": 4558,
+      "files": {
+        "csv": {
+          "name": "ms-rumah-api-brunei_MS.csv",
+          "size": 1300
+        },
+        "xlsx": {
+          "name": "ms-rumah-api-brunei_MS.xlsx",
+          "size": 7595
         }
       }
     },
