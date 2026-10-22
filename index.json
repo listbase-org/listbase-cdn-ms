@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:46.517Z",
-  "total_datasets": 530,
-  "total_records": 499760,
+  "generated": "2026-10-22T04:31:47.008Z",
+  "total_datasets": 531,
+  "total_records": 499772,
   "categories": [
     {
       "id": "culture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 56
+      "dataset_count": 57
     }
   ],
   "datasets": [
@@ -15600,6 +15600,33 @@
         "xlsx": {
           "name": "ms-iata-icao-lapangan-terbang_MS.xlsx",
           "size": 10042
+        }
+      }
+    },
+    {
+      "id": "ms-jalan-george-town",
+      "name": "Senarai Jalan di George Town, Pulau Pinang",
+      "category": "transport",
+      "record_count": 12,
+      "columns": [
+        "nama",
+        "etimologi",
+        "nama_tamil",
+        "etimologi_hokkien",
+        "nama_hokkien",
+        "etimologi_hokkien_1"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_jalan_di_George_Town%2C_Pulau_Pinang",
+      "updated": "2026-10",
+      "size": 5544,
+      "files": {
+        "csv": {
+          "name": "ms-jalan-george-town_MS.csv",
+          "size": 1862
+        },
+        "xlsx": {
+          "name": "ms-jalan-george-town_MS.xlsx",
+          "size": 8101
         }
       }
     },
