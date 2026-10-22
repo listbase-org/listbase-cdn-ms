@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-20T04:11:09.566Z",
-  "total_datasets": 504,
-  "total_records": 496790,
+  "generated": "2026-10-22T04:31:31.472Z",
+  "total_datasets": 505,
+  "total_records": 496811,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "environment",
@@ -1620,6 +1620,33 @@
         "xlsx": {
           "name": "ms-universiti_MS.xlsx",
           "size": 14327
+        }
+      }
+    },
+    {
+      "id": "ms-akhbar",
+      "name": "Senarai Akhbar di Malaysia",
+      "category": "entertainment",
+      "record_count": 21,
+      "columns": [
+        "nama",
+        "tempoh_penerbitan",
+        "jenis",
+        "ketua_pengarang",
+        "pemilik",
+        "catatan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_akhbar_di_Malaysia",
+      "updated": "2026-10",
+      "size": 8490,
+      "files": {
+        "csv": {
+          "name": "ms-akhbar_MS.csv",
+          "size": 3992
+        },
+        "xlsx": {
+          "name": "ms-akhbar_MS.xlsx",
+          "size": 8751
         }
       }
     },

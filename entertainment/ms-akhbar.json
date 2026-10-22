@@ -1,0 +1,224 @@
+{
+  "id": "ms-akhbar",
+  "name": "Senarai Akhbar di Malaysia",
+  "title": "Senarai Akhbar di Malaysia",
+  "description": "Senarai Akhbar di Malaysia — 21 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "entertainment",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_akhbar_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_akhbar_di_Malaysia",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "tempoh_penerbitan",
+      "label": "Tempoh Penerbitan",
+      "type": "string"
+    },
+    {
+      "key": "jenis",
+      "label": "Jenis",
+      "type": "string"
+    },
+    {
+      "key": "ketua_pengarang",
+      "label": "Ketua Pengarang",
+      "type": "string"
+    },
+    {
+      "key": "pemilik",
+      "label": "Pemilik",
+      "type": "string"
+    },
+    {
+      "key": "catatan",
+      "label": "Catatan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Suara Sarawak",
+      "tempoh_penerbitan": "1 Mac 2019 - Kini",
+      "jenis": "Tabloid",
+      "ketua_pengarang": "",
+      "pemilik": "SV News Sdn. Bhd",
+      "catatan": ""
+    },
+    {
+      "nama": "Berita Harian",
+      "tempoh_penerbitan": "1 Julai 1957 - Kini",
+      "jenis": "Kompak",
+      "ketua_pengarang": "Datuk Ahmad Zaini Kamaruzaman (2018)",
+      "pemilik": "The New Straits Times Press (Malaysia) Berhad (Anak Syarikat Media Prima Berhad)",
+      "catatan": ""
+    },
+    {
+      "nama": "BH Ahad",
+      "tempoh_penerbitan": "10 Julai 1960 - kini",
+      "jenis": "Kompak Mingguan",
+      "ketua_pengarang": "Datuk Ahmad Zaini Kamaruzaman (2018)",
+      "pemilik": "The New Straits Times Press (Malaysia) Berhad (Anak Syarikat Media Prima Berhad)",
+      "catatan": "Mula dinamakan sebagai Berita Minggu sehingga 12 Januari 2014."
+    },
+    {
+      "nama": "Harian Metro",
+      "tempoh_penerbitan": "25 Mac 1991 - Kini",
+      "jenis": "Tabloid",
+      "ketua_pengarang": "Tuan Mohd Asri Tuan Hussein (2018)",
+      "pemilik": "The New Straits Times Press (Malaysia) Berhad (Anak Syarikat Media Prima Berhad)",
+      "catatan": ""
+    },
+    {
+      "nama": "Metro Ahad",
+      "tempoh_penerbitan": "19 Ogos 1995 - Kini",
+      "jenis": "Tabloid Mingguan",
+      "ketua_pengarang": "Tuan Mohd Asri Tuan Hussein (2018)",
+      "pemilik": "The New Straits Times Press (Malaysia) Berhad (Anak Syarikat Media Prima Berhad)",
+      "catatan": ""
+    },
+    {
+      "nama": "Utusan Malaysia",
+      "tempoh_penerbitan": "(Versi Jawi) 1939 - 31 Ogos 1967 (Versi Rumi) 1 September 1967 - 9 Oktober 2019",
+      "jenis": "Kompak",
+      "ketua_pengarang": "",
+      "pemilik": "Media Mulia Sdn. Bhd.",
+      "catatan": "Mula dicetak dalam rumi dengan nama Utusan Malaysia pada 1 September 1967"
+    },
+    {
+      "nama": "Mingguan Malaysia",
+      "tempoh_penerbitan": "",
+      "jenis": "Kompak",
+      "ketua_pengarang": "",
+      "pemilik": "Media Mulia Sdn. Bhd.",
+      "catatan": ""
+    },
+    {
+      "nama": "Kosmo!",
+      "tempoh_penerbitan": "30 Ogos 2004 - 9 Oktober 2019",
+      "jenis": "Tabloid",
+      "ketua_pengarang": "",
+      "pemilik": "Media Mulia Sdn. Bhd.",
+      "catatan": ""
+    },
+    {
+      "nama": "Kosmo! Ahad",
+      "tempoh_penerbitan": "3 Januari 2005 - 9 Oktober 2019",
+      "jenis": "Tabloid",
+      "ketua_pengarang": "",
+      "pemilik": "Media Mulia Sdn. Bhd.",
+      "catatan": ""
+    },
+    {
+      "nama": "Sinar Harian",
+      "tempoh_penerbitan": "31 Mac 2006 - kini",
+      "jenis": "Kompak",
+      "ketua_pengarang": "",
+      "pemilik": "Sinar Karangkraf Sdn. Bhd. (Anak Syarikat Kumpulan Media Karangkraf)",
+      "catatan": ""
+    },
+    {
+      "nama": "Utusan Borneo",
+      "tempoh_penerbitan": "1978 - Kini",
+      "jenis": "Lembaran",
+      "ketua_pengarang": "",
+      "pemilik": "The Borneo Post Sdn Bhd",
+      "catatan": "Akhbar harian dalam bahasa Melayu, Iban dan Kadazandusun di Sarawak dan Sabah"
+    },
+    {
+      "nama": "Selangor Kini",
+      "tempoh_penerbitan": "2008 - Kini",
+      "jenis": "Buletin Kerajaan Negeri",
+      "ketua_pengarang": "",
+      "pemilik": "Media Selangor (Kerajaan Negeri Selangor)",
+      "catatan": "Mempunyai akhbar versi digital, dan turut aktif di portal atas talian."
+    },
+    {
+      "nama": "Buletin Mutiara",
+      "tempoh_penerbitan": "2010 - Kini",
+      "jenis": "Buletin Kerajaan Negeri",
+      "ketua_pengarang": "",
+      "pemilik": "Kerajaan Negeri Pulau Pinang",
+      "catatan": "Pada mulanya dinamakan sebagai Suara CAT, kemudian kepada Buletin Mutiara diubah pada 2011. Mempunyai akhbar versi digital."
+    },
+    {
+      "nama": "Melaka Kini",
+      "tempoh_penerbitan": "1982 - Kini",
+      "jenis": "Buletin Kerajaan Negeri",
+      "ketua_pengarang": "Ketua Pegawai Eksekutif: Burhanuddin Othman Pengarang : Ishak Salleh",
+      "pemilik": "Kerajaan Negeri Melaka",
+      "catatan": "Sebelum Pakatan Harapan memimpin kerajaan negeri pada Mei 2018, ia dinamakan sebagai Melaka Hari Ini."
+    },
+    {
+      "nama": "Harakah",
+      "tempoh_penerbitan": "1987 - Kini",
+      "jenis": "Akhbar Parti Politik",
+      "ketua_pengarang": "Ketua Pegawai Eksekutif: Kamaruzaman Mohamad Ketua Pengarang: Wan Nordin Wan Yaacob",
+      "pemilik": "Parti Islam Se-Malaysia (PAS)",
+      "catatan": "Mula diterbitkan sempena Muktamar Tahunan PAS 1987 Mempunyai akhbar versi digital dan turut aktif dengan portal atas talian, Harakahdaily."
+    },
+    {
+      "nama": "Suara Keadilan",
+      "tempoh_penerbitan": "2010 - 2019",
+      "jenis": "Akhbar Parti Politik",
+      "ketua_pengarang": "",
+      "pemilik": "Parti Keadilan Rakyat (PKR)",
+      "catatan": "PKR menggunakan pelbagai nama pada permulaan penerbitan buletin parti mereka, iaitu: Keadilan (12 Julai 2010) Obor Keadilan (19 Julai 2010) Sinar Keadilan (26 Julai 2010) Utusan Keadilan (2 Ogos 2010), Berita Keadilan (9 Ogos 2010) dan Metro Keadilan (16 Ogos 2010). Warta Keadilan (11 November 2010). PKR menamatkan cetakan Suara Keadilan berakhir mana Disember 2019, dan memberi tumpuan pada portal atas talian menggunakan nama yang sama."
+    },
+    {
+      "nama": "The Rocket",
+      "tempoh_penerbitan": "1996 - Kini",
+      "jenis": "Akhbar Parti Politik",
+      "ketua_pengarang": "",
+      "pemilik": "Parti Tindakan Demokratik (DAP)",
+      "catatan": "Mempunyai portal atas talian dan mempunyai pelbagai bahasa selain Bahasa Melayu iaitu Bahasa Mandarin dan Bahasa Inggeris."
+    },
+    {
+      "nama": "Mingguan Amanah",
+      "tempoh_penerbitan": "3 April 2016 - Kini",
+      "jenis": "Akhbar Parti Politik",
+      "ketua_pengarang": "",
+      "pemilik": "Parti Amanah Negara (PAN)",
+      "catatan": "Mempunyai akhbar versi digital."
+    },
+    {
+      "nama": "Daily Ekspress (Harian Ekspres)",
+      "tempoh_penerbitan": "",
+      "jenis": "",
+      "ketua_pengarang": "",
+      "pemilik": "Sabah Publishing House Sdn. Bhd.",
+      "catatan": "Diterbitkan tiga bahasa iaitu Bahasa Inggeris, Bahasa Melayu dan Bahasa Kadazan dalam satu edisi. Akhbar kembar kepada akhbar berbahasa Mandarin, Overseas Chinese Daily News (OCDN). Turut mempunyai portal atas talian."
+    },
+    {
+      "nama": "Majoriti 7",
+      "tempoh_penerbitan": "20 Oktober 2022",
+      "jenis": "",
+      "ketua_pengarang": "",
+      "pemilik": "Impian Ikon (M) Sdn. Bhd. (Anak Syarikat Star Media Group Berhad)",
+      "catatan": ""
+    },
+    {
+      "nama": "MYBERITA",
+      "tempoh_penerbitan": "20 Disember 2019 - Kini",
+      "jenis": "",
+      "ketua_pengarang": "Aqilah Nadhirah Mohd Zurizam Adam Hafiz Ahmad",
+      "pemilik": "Arena Mega Trading",
+      "catatan": "Media dalam talian bahasa Melayu."
+    }
+  ],
+  "meta": {
+    "title": "Senarai Akhbar di Malaysia - Muat turun percuma",
+    "description": "Senarai Akhbar di Malaysia — 21 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 21 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Akhbar di Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Akhbar di Malaysia — 21 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 21 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_akhbar_di_Malaysia"
+    ]
+  }
+}
