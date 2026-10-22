@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:02.726Z",
-  "total_datasets": 558,
-  "total_records": 506377,
+  "generated": "2026-10-22T04:32:03.204Z",
+  "total_datasets": 559,
+  "total_records": 506468,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 44
+      "dataset_count": 45
     },
     {
       "id": "education",
@@ -552,6 +552,35 @@
         "xlsx": {
           "name": "ms-kuil-hindu_MS.xlsx",
           "size": 8602
+        }
+      }
+    },
+    {
+      "id": "ms-masjid-brunei",
+      "name": "Senarai Masjid di Brunei",
+      "category": "culture",
+      "record_count": 91,
+      "columns": [
+        "bahagian",
+        "nama",
+        "lokasi",
+        "tahun_dirasmikan",
+        "tahun_mula_digunakan",
+        "tahun_siap_pembinaan",
+        "kapasiti_jemaah",
+        "jenis"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_masjid_di_Brunei",
+      "updated": "2026-10",
+      "size": 28842,
+      "files": {
+        "csv": {
+          "name": "ms-masjid-brunei_MS.csv",
+          "size": 9325
+        },
+        "xlsx": {
+          "name": "ms-masjid-brunei_MS.xlsx",
+          "size": 11178
         }
       }
     },

@@ -1,0 +1,976 @@
+{
+  "id": "ms-masjid-brunei",
+  "name": "Senarai Masjid di Brunei",
+  "title": "Senarai Masjid di Brunei",
+  "description": "Senarai Masjid di Brunei — 91 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "culture",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_masjid_di_Brunei",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_masjid_di_Brunei",
+  "updated": "2026-10",
+  "record_count": 91,
+  "columns": [
+    {
+      "key": "bahagian",
+      "label": "Bahagian",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "tahun_dirasmikan",
+      "label": "Tahun Dirasmikan",
+      "type": "number"
+    },
+    {
+      "key": "tahun_mula_digunakan",
+      "label": "Tahun Mula Digunakan",
+      "type": "number"
+    },
+    {
+      "key": "tahun_siap_pembinaan",
+      "label": "Tahun Siap Pembinaan",
+      "type": "number"
+    },
+    {
+      "key": "kapasiti_jemaah",
+      "label": "Kapasiti Jemaah",
+      "type": "number"
+    },
+    {
+      "key": "jenis",
+      "label": "Jenis",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Omar Ali Saifuddien",
+      "lokasi": "Bandar Seri Begawan",
+      "tahun_dirasmikan": "1958",
+      "tahun_mula_digunakan": "1958",
+      "tahun_siap_pembinaan": "1958",
+      "kapasiti_jemaah": "3000",
+      "jenis": "masjid negara"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Jame' 'Asr Hassanil Bolkiah",
+      "lokasi": "Kampung Kiarong",
+      "tahun_dirasmikan": "1994",
+      "tahun_mula_digunakan": "1994",
+      "tahun_siap_pembinaan": "1994",
+      "kapasiti_jemaah": "5000",
+      "jenis": "masjid negara"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Al-Ameerah Al-Hajjah Maryam",
+      "lokasi": "Kampung Jerudong",
+      "tahun_dirasmikan": "1999",
+      "tahun_mula_digunakan": "1999",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "2000",
+      "jenis": "masjid utama"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Al-Muhtadee Billah",
+      "lokasi": "Kampung Sungai Kebun",
+      "tahun_dirasmikan": "1987",
+      "tahun_mula_digunakan": "1987",
+      "tahun_siap_pembinaan": "1987",
+      "kapasiti_jemaah": "1100",
+      "jenis": "masjid utama"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Ash-Shaliheen",
+      "lokasi": "Bandar Seri Begawan",
+      "tahun_dirasmikan": "2012",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "?",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Duli Pengiran Muda Mahkota Pengiran Muda Haji Al-Muhtadee Billah",
+      "lokasi": "Mukim Tamoi",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1999",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1500",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Duli Raja Isteri Pengiran Anak Damit",
+      "lokasi": "Kampung Kilanas",
+      "tahun_dirasmikan": "2012",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1000",
+      "jenis": "?"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Jefri Bolkiah",
+      "lokasi": "Kampung Batong",
+      "tahun_dirasmikan": "2013",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1000",
+      "jenis": "?"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Jubli Perak Sultan Haji Hassanal Bolkiah",
+      "lokasi": "Kampung Jangsak",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1999",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1200",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Hassanal Bolkiah",
+      "lokasi": "Rancangan Perumahan Negara Mentiri",
+      "tahun_dirasmikan": "2017",
+      "tahun_mula_digunakan": "2017",
+      "tahun_siap_pembinaan": "2017",
+      "kapasiti_jemaah": "3000",
+      "jenis": "?"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Batu Marang",
+      "lokasi": "Kampung Batu Marang",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1996",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1000",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Belimbing",
+      "lokasi": "Kampung Belimbing",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1995",
+      "tahun_siap_pembinaan": "1995",
+      "kapasiti_jemaah": "1500",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Bengkurong",
+      "lokasi": "Kampung Bengkurong",
+      "tahun_dirasmikan": "1988",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "800",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Beribi",
+      "lokasi": "Kampung Beribi",
+      "tahun_dirasmikan": "1984",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "500",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Bunut",
+      "lokasi": "Kampung Bunut",
+      "tahun_dirasmikan": "1993",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1500",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Junjungan",
+      "lokasi": "Kampung Junjongan",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "1998",
+      "kapasiti_jemaah": "250",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Kapok",
+      "lokasi": "Kampung Kapok",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "1996",
+      "kapasiti_jemaah": "700",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Kasat",
+      "lokasi": "Kampung Kasat",
+      "tahun_dirasmikan": "1980",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "250",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Kilanas",
+      "lokasi": "Kampung Kilanas",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1968",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1700",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Lambak",
+      "lokasi": "Kampung Lambak",
+      "tahun_dirasmikan": "1994",
+      "tahun_mula_digunakan": "1994",
+      "tahun_siap_pembinaan": "1994",
+      "kapasiti_jemaah": "1400",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Limau Manis",
+      "lokasi": "Kampung Limau Manis",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1996",
+      "tahun_siap_pembinaan": "1996",
+      "kapasiti_jemaah": "1200",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Lumapas",
+      "lokasi": "Kampung Lumapas",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "1995",
+      "kapasiti_jemaah": "700",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Masin",
+      "lokasi": "Kampung Masin",
+      "tahun_dirasmikan": "1987",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "500",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Mentiri",
+      "lokasi": "Kampung Mentiri",
+      "tahun_dirasmikan": "1984",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "600",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Menunggol",
+      "lokasi": "Kampung Menunggol",
+      "tahun_dirasmikan": "1980",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "300",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Panchor Murai",
+      "lokasi": "Kampung Panchor Murai",
+      "tahun_dirasmikan": "1983",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "200",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Pehin Khatib Abdullah",
+      "lokasi": "Kampung Kulapis",
+      "tahun_dirasmikan": "2017",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "700",
+      "jenis": "?"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Pelambayan",
+      "lokasi": "Kampung Pelambayan",
+      "tahun_dirasmikan": "1984",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "600",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Pengkalan Batu",
+      "lokasi": "Kampung Pengkalan Batu",
+      "tahun_dirasmikan": "1984",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "200",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Perpindahan Mata-Mata",
+      "lokasi": "Kampung Perpindahan Mata-Mata",
+      "tahun_dirasmikan": "1984",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "500",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Perpindahan Serasa",
+      "lokasi": "Kampung Serasa",
+      "tahun_dirasmikan": "1987",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "500",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Pintu Malim",
+      "lokasi": "Kampung Pintu Malim",
+      "tahun_dirasmikan": "1997",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1000",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Pudak",
+      "lokasi": "Kampung Pudak",
+      "tahun_dirasmikan": "1974",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "300",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Pulaie",
+      "lokasi": "Kampung Pulaie",
+      "tahun_dirasmikan": "1987",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1200",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Putat",
+      "lokasi": "Kampung Putat",
+      "tahun_dirasmikan": "1983",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "120",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Salambigar",
+      "lokasi": "Kampung Salambigar",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1977",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1000",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Serdang",
+      "lokasi": "Kampung Serdang",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "1996",
+      "kapasiti_jemaah": "1000",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Sungai Besar",
+      "lokasi": "Kampung Sungai Besar",
+      "tahun_dirasmikan": "1984",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "630",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Sungai Buloh",
+      "lokasi": "Kampung Sungai Buloh",
+      "tahun_dirasmikan": "1983",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "370",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Sungai Bunga",
+      "lokasi": "Kampung Sungai Bunga",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1999",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "200",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Sungai Hanching",
+      "lokasi": "Kampung Sungai Hanching",
+      "tahun_dirasmikan": "1982",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1400",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Kampong Tanah Jambu",
+      "lokasi": "Kampung Tanah Jambu",
+      "tahun_dirasmikan": "1979",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "600",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Mohamed Bolkiah",
+      "lokasi": "Kampung Serusop",
+      "tahun_dirasmikan": "1979",
+      "tahun_mula_digunakan": "1979",
+      "tahun_siap_pembinaan": "1978",
+      "kapasiti_jemaah": "3000",
+      "jenis": "masjid utama"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Paduka Seri Begawan Sultan Omar Ali Saifuddien",
+      "lokasi": "Kampung Katimahar",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "?",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Pehin Datu Imam Haji Abdul Mokti",
+      "lokasi": "Kampung Burong Pingai Ayer",
+      "tahun_dirasmikan": "1981",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "350",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Pengiran Muda 'Abdul Malik",
+      "lokasi": "Kampung Tungku/Kampung Katok",
+      "tahun_dirasmikan": "2012",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1000",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Pengiran Muda 'Abdul Mateen",
+      "lokasi": "Kampung Mulaut",
+      "tahun_dirasmikan": "2012",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1100",
+      "jenis": "?"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Perdana Wangsa Haji Mohammad",
+      "lokasi": "Kampung Tarap Bau",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "1995",
+      "kapasiti_jemaah": "900",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Perpindahan Lambak Kanan",
+      "lokasi": "Kampung Perpindahan Lambak Kanan",
+      "tahun_dirasmikan": "1997",
+      "tahun_mula_digunakan": "1997",
+      "tahun_siap_pembinaan": "1995",
+      "kapasiti_jemaah": "2400",
+      "jenis": "masjid utama"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Raja Isteri Pengiran Anak Hajah Saleha",
+      "lokasi": "Kampung Rimba",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "?",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Rashidah Sa'adatul Bolkiah",
+      "lokasi": "Kampung Sungai Akar",
+      "tahun_dirasmikan": "2013",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1000",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Setia Ali",
+      "lokasi": "Pekan Muara",
+      "tahun_dirasmikan": "1962",
+      "tahun_mula_digunakan": "1962",
+      "tahun_siap_pembinaan": "1961",
+      "kapasiti_jemaah": "700",
+      "jenis": "masjid utama"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Skim Tanah Kurnia Rakyat Jati Kampong Lambak Kiri",
+      "lokasi": "Skim Tanah Kurnia Rakyat Jati Lambak Kiri",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "?",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Sufri Bolkiah",
+      "lokasi": "Perpindahan Berakas",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1996",
+      "tahun_siap_pembinaan": "1996",
+      "kapasiti_jemaah": "2000",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Sultan Sharif Ali",
+      "lokasi": "Kampung Sengkurong",
+      "tahun_dirasmikan": "1986",
+      "tahun_mula_digunakan": "1986",
+      "tahun_siap_pembinaan": "1986",
+      "kapasiti_jemaah": "3000",
+      "jenis": "masjid utama"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Suri Seri Begawan Raja Pengiran Anak Damit",
+      "lokasi": "Kampung Madang/Kampung Manggis",
+      "tahun_dirasmikan": "2014",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "2400",
+      "jenis": "?"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Universiti Brunei Darussalam",
+      "lokasi": "Kampung Rimba",
+      "tahun_dirasmikan": "1995",
+      "tahun_mula_digunakan": "1994",
+      "tahun_siap_pembinaan": "1994",
+      "kapasiti_jemaah": "1800",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Brunei-Muara",
+      "nama": "Masjid Yayasan Sultan Haji Hassanal Bolkiah",
+      "lokasi": "Kampung Bolkiah",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "?",
+      "jenis": "masjid kampung"
+    },
+    {
+      "bahagian": "Belait",
+      "nama": "Masjid Al-Mashor",
+      "lokasi": "Kampung Sungai Mau",
+      "tahun_dirasmikan": "1992",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "200",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Belait",
+      "nama": "Masjid Kampong Bukit Sawat",
+      "lokasi": "Kampung Bukit Sawat",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "1992",
+      "kapasiti_jemaah": "120",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Belait",
+      "nama": "Masjid Kampong Labi",
+      "lokasi": "Kampung Labi",
+      "tahun_dirasmikan": "1979",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "200",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Belait",
+      "nama": "Masjid Kampong Sungai Liang",
+      "lokasi": "Kampung Sungai Liang",
+      "tahun_dirasmikan": "1980",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "?",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Belait",
+      "nama": "Masjid Kampong Sungai Teraban",
+      "lokasi": "Kampung Sungai Teraban",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "1996",
+      "kapasiti_jemaah": "1400",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Belait",
+      "nama": "Masjid Mohammad Jamalul Alam",
+      "lokasi": "Pekan Kuala Belait",
+      "tahun_dirasmikan": "1964",
+      "tahun_mula_digunakan": "1964",
+      "tahun_siap_pembinaan": "1963",
+      "kapasiti_jemaah": "2000",
+      "jenis": "masjid utama"
+    },
+    {
+      "bahagian": "Belait",
+      "nama": "Masjid Pekan Seria",
+      "lokasi": "Pekan Seria",
+      "tahun_dirasmikan": "1954",
+      "tahun_mula_digunakan": "1954",
+      "tahun_siap_pembinaan": "1954",
+      "kapasiti_jemaah": "2000",
+      "jenis": "masjid utama"
+    },
+    {
+      "bahagian": "Belait",
+      "nama": "Masjid Rancangan Perumahan Negara Kampong Pandan",
+      "lokasi": "Kampung Pandan",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1996",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1100",
+      "jenis": "masjid utama"
+    },
+    {
+      "bahagian": "Belait",
+      "nama": "Masjid Skim Tanah Kurnia Rakyat Jati Lorong Tiga Selatan Seria",
+      "lokasi": "Kampung Lorong Tiga Selatan",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "?",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Belait",
+      "nama": "Masjid Zainab",
+      "lokasi": "Kampung Lumut",
+      "tahun_dirasmikan": "1998",
+      "tahun_mula_digunakan": "1992",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "2000",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Haji Abdul Azim",
+      "lokasi": "Kampung Luagan Dudok",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "1992",
+      "kapasiti_jemaah": "800",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Hassanal Bolkiah",
+      "lokasi": "Pekan Tutong",
+      "tahun_dirasmikan": "1966",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1000",
+      "jenis": "masjid utama"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Bang Dalam",
+      "lokasi": "Kampung Bang Dalam",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "2000",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "?",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Benutan",
+      "lokasi": "Kampung Benutan",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "1996",
+      "kapasiti_jemaah": "200",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Birau",
+      "lokasi": "Kampung Birau",
+      "tahun_dirasmikan": "1991",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "300",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Bukit",
+      "lokasi": "Kampung Bukit",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1997",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "200",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Bukit Panggal",
+      "lokasi": "Kampung Bukit Panggal",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1995",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "250",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Bukit Udal",
+      "lokasi": "Kampung Bukit Udal",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1995",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "200",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Danau",
+      "lokasi": "Kampung Danau",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "1973",
+      "kapasiti_jemaah": "200",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Keriam",
+      "lokasi": "Kampung Keriam",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1992",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "300",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Kupang",
+      "lokasi": "Kampung Kupang",
+      "tahun_dirasmikan": "1984",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "500",
+      "jenis": "?"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Layong",
+      "lokasi": "Kampung Layong",
+      "tahun_dirasmikan": "1990",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "300",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Lubok Pulau",
+      "lokasi": "Kampung Lubok Pulau",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "1995",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "800",
+      "jenis": "masjid mukim"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Menengah",
+      "lokasi": "Kampung Menengah",
+      "tahun_dirasmikan": "1990",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "230",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Penabai",
+      "lokasi": "Kampung Penabai",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "1993",
+      "kapasiti_jemaah": "200",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Penanjong",
+      "lokasi": "Kampung Penanjong",
+      "tahun_dirasmikan": "1984",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "500",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Penapar",
+      "lokasi": "Kampung Penapar",
+      "tahun_dirasmikan": "1991",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "200",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Sinaut",
+      "lokasi": "Kampung Sinaut",
+      "tahun_dirasmikan": "1979",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "500",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Tanjong Maya",
+      "lokasi": "Kampung Tanjong Maya",
+      "tahun_dirasmikan": "1973",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "400",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Kampong Telisai",
+      "lokasi": "Kampung Telisai",
+      "tahun_dirasmikan": "1984",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "100",
+      "jenis": "masjid kampong"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Pengiran Anak Haji Mohammed Alam",
+      "lokasi": "Kampung Sengkarai",
+      "tahun_dirasmikan": "2017",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "1000",
+      "jenis": "?"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Pengiran Anak Isteri Pengiran Anak Sarah",
+      "lokasi": "Kampung Sungai Kelugos",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "?",
+      "jenis": "?"
+    },
+    {
+      "bahagian": "Tutong",
+      "nama": "Masjid Pengiran Muda Abdul Wakeel",
+      "lokasi": "Kampung Kiudang",
+      "tahun_dirasmikan": "?",
+      "tahun_mula_digunakan": "?",
+      "tahun_siap_pembinaan": "?",
+      "kapasiti_jemaah": "?",
+      "jenis": "?"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Masjid di Brunei - Muat turun percuma",
+    "description": "Senarai Masjid di Brunei — 91 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 91 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Masjid di Brunei | ListBase",
+    "seo_description": "Muat turun Senarai Masjid di Brunei — 91 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 91 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_masjid_di_Brunei"
+    ]
+  }
+}
