@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:42.092Z",
-  "total_datasets": 525,
-  "total_records": 499316,
+  "generated": "2026-10-22T04:31:42.585Z",
+  "total_datasets": 526,
+  "total_records": 499354,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 42
+      "dataset_count": 43
     },
     {
       "id": "education",
@@ -115,6 +115,29 @@
         "xlsx": {
           "name": "ms-gereja_MS.xlsx",
           "size": 10825
+        }
+      }
+    },
+    {
+      "id": "ms-gereja-katolik",
+      "name": "Senarai Gereja Katolik di Malaysia",
+      "category": "culture",
+      "record_count": 38,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Gereja_Katolik_di_Malaysia",
+      "updated": "2026-10",
+      "size": 6300,
+      "files": {
+        "csv": {
+          "name": "ms-gereja-katolik_MS.csv",
+          "size": 3084
+        },
+        "xlsx": {
+          "name": "ms-gereja-katolik_MS.xlsx",
+          "size": 8098
         }
       }
     },
