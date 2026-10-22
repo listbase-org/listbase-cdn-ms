@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:57.476Z",
-  "total_datasets": 547,
-  "total_records": 505460,
+  "generated": "2026-10-22T04:31:57.957Z",
+  "total_datasets": 548,
+  "total_records": 505508,
   "categories": [
     {
       "id": "culture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -3310,6 +3310,34 @@
         "xlsx": {
           "name": "ms-kumpulan-nasyid_MS.xlsx",
           "size": 9330
+        }
+      }
+    },
+    {
+      "id": "ms-lagu-nombor-satu-2017",
+      "name": "Lagu Nombor Satu di Malaysia (2017)",
+      "category": "music",
+      "record_count": 48,
+      "columns": [
+        "tarikh",
+        "lagu_antarabangsa_dan_domestik_lagu",
+        "lagu_antarabangsa_dan_domestik_artis",
+        "lagu_antarabangsa_dan_domestik_penstrima",
+        "lagu_domestik_lagu",
+        "lagu_domestik_artis",
+        "lagu_domestik_penstriman_per_minggu"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_lagu_nombor_satu_di_Malaysia_%282017%29",
+      "updated": "2026-10",
+      "size": 21056,
+      "files": {
+        "csv": {
+          "name": "ms-lagu-nombor-satu-2017_MS.csv",
+          "size": 5671
+        },
+        "xlsx": {
+          "name": "ms-lagu-nombor-satu-2017_MS.xlsx",
+          "size": 9311
         }
       }
     },
