@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:56.957Z",
-  "total_datasets": 546,
-  "total_records": 504287,
+  "generated": "2026-10-22T04:31:57.476Z",
+  "total_datasets": 547,
+  "total_records": 505460,
   "categories": [
     {
       "id": "culture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -14866,6 +14866,29 @@
         "xlsx": {
           "name": "ms-gunung-berapi_MS.xlsx",
           "size": 7241
+        }
+      }
+    },
+    {
+      "id": "ms-kupu-kupu",
+      "name": "Senarai Kupu-Kupu di Semenanjung Malaysia",
+      "category": "science",
+      "record_count": 1173,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kupu-kupu_di_Semenanjung_Malaysia",
+      "updated": "2026-10",
+      "size": 109785,
+      "files": {
+        "csv": {
+          "name": "ms-kupu-kupu_MS.csv",
+          "size": 54282
+        },
+        "xlsx": {
+          "name": "ms-kupu-kupu_MS.xlsx",
+          "size": 33051
         }
       }
     },
