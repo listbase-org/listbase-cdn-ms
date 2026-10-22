@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:18.887Z",
-  "total_datasets": 585,
-  "total_records": 509759,
+  "generated": "2026-10-22T04:32:21.341Z",
+  "total_datasets": 586,
+  "total_records": 509773,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -3506,6 +3506,32 @@
         "xlsx": {
           "name": "ms-raja-raja-malaysia_MS.xlsx",
           "size": 17088
+        }
+      }
+    },
+    {
+      "id": "ms-raja-raja-melayu",
+      "name": "Senarai Raja-Raja Melayu",
+      "category": "history",
+      "record_count": 14,
+      "columns": [
+        "negeri",
+        "negeri_1",
+        "nama_gelaran",
+        "tarikh_keputeraan_lahir",
+        "mula_di_atas_takhta"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_raja-raja_Melayu",
+      "updated": "2026-10",
+      "size": 5385,
+      "files": {
+        "csv": {
+          "name": "ms-raja-raja-melayu_MS.csv",
+          "size": 1862
+        },
+        "xlsx": {
+          "name": "ms-raja-raja-melayu_MS.xlsx",
+          "size": 7844
         }
       }
     },
