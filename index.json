@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:33.795Z",
-  "total_datasets": 608,
-  "total_records": 517063,
+  "generated": "2026-10-22T04:32:34.621Z",
+  "total_datasets": 609,
+  "total_records": 517155,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 19
+      "dataset_count": 20
     },
     {
       "id": "entertainment",
@@ -2329,6 +2329,35 @@
         "xlsx": {
           "name": "ms-sjkc-perak_MS.xlsx",
           "size": 21347
+        }
+      }
+    },
+    {
+      "id": "ms-sjkc-pulau-pinang",
+      "name": "Senarai SJK(C) di Pulau Pinang",
+      "category": "education",
+      "record_count": 92,
+      "columns": [
+        "bahagian",
+        "kod_sekolah",
+        "lokasi",
+        "nama_sekolah_dalam_bahasa_melayu",
+        "nama_sekolah_dalam_bahasa_cina",
+        "poskod",
+        "kawasan",
+        "koordinat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Pulau_Pinang",
+      "updated": "2026-10",
+      "size": 38202,
+      "files": {
+        "csv": {
+          "name": "ms-sjkc-pulau-pinang_MS.csv",
+          "size": 16961
+        },
+        "xlsx": {
+          "name": "ms-sjkc-pulau-pinang_MS.xlsx",
+          "size": 13976
         }
       }
     },
