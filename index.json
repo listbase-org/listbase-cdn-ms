@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:36.788Z",
-  "total_datasets": 515,
-  "total_records": 498722,
+  "generated": "2026-10-22T04:31:37.286Z",
+  "total_datasets": 516,
+  "total_records": 498798,
   "categories": [
     {
       "id": "culture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -14310,6 +14310,34 @@
         "xlsx": {
           "name": "ms-bandar-mengikut-populasi_MS.xlsx",
           "size": 12040
+        }
+      }
+    },
+    {
+      "id": "ms-daerah-mengikut-populasi",
+      "name": "Senarai Daerah bagi Setiap Negeri mengikut Populasi",
+      "category": "society",
+      "record_count": 76,
+      "columns": [
+        "bahagian",
+        "tangga",
+        "daerah",
+        "populasi_1980",
+        "populasi_1990",
+        "populasi_2000",
+        "populasi_2010"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_daerah_bagi_setiap_negeri_di_Malaysia_mengikut_populasi",
+      "updated": "2026-10",
+      "size": 19069,
+      "files": {
+        "csv": {
+          "name": "ms-daerah-mengikut-populasi_MS.csv",
+          "size": 4744
+        },
+        "xlsx": {
+          "name": "ms-daerah-mengikut-populasi_MS.xlsx",
+          "size": 10778
         }
       }
     },
