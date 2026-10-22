@@ -1,0 +1,866 @@
+{
+  "id": "ms-sjkc-pahang",
+  "name": "Senarai SJK(C) di Pahang",
+  "title": "Senarai SJK(C) di Pahang",
+  "description": "Senarai SJK(C) di Pahang — 80 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV).",
+  "category": "education",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Pahang",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Pahang",
+  "updated": "2026-10",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "bahagian",
+      "label": "Bahagian",
+      "type": "string"
+    },
+    {
+      "key": "kod_sekolah",
+      "label": "Kod Sekolah",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "nama_sekolah_dalam_bahasa_melayu",
+      "label": "Nama Sekolah Dalam Bahasa Melayu",
+      "type": "string"
+    },
+    {
+      "key": "nama_sekolah_dalam_bahasa_cina",
+      "label": "Nama Sekolah Dalam Bahasa Cina",
+      "type": "string"
+    },
+    {
+      "key": "poskod",
+      "label": "Poskod",
+      "type": "number"
+    },
+    {
+      "key": "kawasan",
+      "label": "Kawasan",
+      "type": "string"
+    },
+    {
+      "key": "koordinat",
+      "label": "Koordinat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBC0023",
+      "lokasi": "Bentong",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Khai Mun Pagi",
+      "nama_sekolah_dalam_bahasa_cina": "启文华小上午校",
+      "poskod": "28700",
+      "kawasan": "Bentong",
+      "koordinat": "3°31′24″U 101°54′22″T﻿ / ﻿3.5232°U 101.9062°T"
+    },
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBC0024",
+      "lokasi": "Kampung Repas",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Khai Mun Repas",
+      "nama_sekolah_dalam_bahasa_cina": "启文力巴士华小",
+      "poskod": "28700",
+      "kawasan": "Bentong",
+      "koordinat": "3°31′45″U 101°54′12″T﻿ / ﻿3.5292°U 101.9034°T"
+    },
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBC0025",
+      "lokasi": "Kampung Chamang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Khai Mun Chamang",
+      "nama_sekolah_dalam_bahasa_cina": "启文暹猛华小",
+      "poskod": "28700",
+      "kawasan": "Bentong",
+      "koordinat": "3°31′42″U 101°54′10″T﻿ / ﻿3.5283°U 101.9029°T"
+    },
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBC0027",
+      "lokasi": "Kampung Baru Ketari",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Ketari",
+      "nama_sekolah_dalam_bahasa_cina": "吉打里华小",
+      "poskod": "28700",
+      "kawasan": "Bentong",
+      "koordinat": "3°30′27″U 101°54′43″T﻿ / ﻿3.5075°U 101.9120°T"
+    },
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBC0028",
+      "lokasi": "Kampung Perting",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Perting",
+      "nama_sekolah_dalam_bahasa_cina": "玻璃口华小",
+      "poskod": "28700",
+      "kawasan": "Bentong",
+      "koordinat": "3°31′05″U 101°54′22″T﻿ / ﻿3.5181°U 101.9060°T"
+    },
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBC0029",
+      "lokasi": "Kampung Sungai Dua",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sungai Dua",
+      "nama_sekolah_dalam_bahasa_cina": "双溪都亚华小",
+      "poskod": "28600",
+      "kawasan": "Karak",
+      "koordinat": "3°27′26″U 101°59′43″T﻿ / ﻿3.4571°U 101.9954°T"
+    },
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBC0030",
+      "lokasi": "Karak",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Karak",
+      "nama_sekolah_dalam_bahasa_cina": "加叻华小",
+      "poskod": "28600",
+      "kawasan": "Karak",
+      "koordinat": "3°24′48″U 102°02′02″T﻿ / ﻿3.4132°U 102.0340°T"
+    },
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBC0031",
+      "lokasi": "Ladang Bukit Dinding",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kheng Chee",
+      "nama_sekolah_dalam_bahasa_cina": "竞智华小",
+      "poskod": "28600",
+      "kawasan": "Karak",
+      "koordinat": ""
+    },
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBC0033",
+      "lokasi": "Telemong",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Telemong",
+      "nama_sekolah_dalam_bahasa_cina": "地里望华小",
+      "poskod": "28620",
+      "kawasan": "Karak",
+      "koordinat": "3°17′36″U 102°05′19″T﻿ / ﻿3.2933°U 102.0885°T"
+    },
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBC0034",
+      "lokasi": "Manchis",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Manchis",
+      "nama_sekolah_dalam_bahasa_cina": "文积华小",
+      "poskod": "28730",
+      "kawasan": "Bentong",
+      "koordinat": "3°11′57″U 102°09′51″T﻿ / ﻿3.1992°U 102.1642°T"
+    },
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBC0035",
+      "lokasi": "Bukit Tinggi",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Bukit Tinggi",
+      "nama_sekolah_dalam_bahasa_cina": "武吉丁宜华小",
+      "poskod": "28750",
+      "kawasan": "Bentong",
+      "koordinat": "3°21′05″U 101°49′01″T﻿ / ﻿3.3514°U 101.8170°T"
+    },
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBC0036",
+      "lokasi": "Felda Lurah Bilut",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Lurah Bilut",
+      "nama_sekolah_dalam_bahasa_cina": "美律谷华小",
+      "poskod": "28800",
+      "kawasan": "Lurah Bilut",
+      "koordinat": "3°39′34″U 101°53′38″T﻿ / ﻿3.6595°U 101.8939°T"
+    },
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBC0037",
+      "lokasi": "Ladang Sungai Pertang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sungai Pertang",
+      "nama_sekolah_dalam_bahasa_cina": "双溪巴登华小",
+      "poskod": "28600",
+      "kawasan": "Karak",
+      "koordinat": ""
+    },
+    {
+      "bahagian": "Daerah Bentong",
+      "kod_sekolah": "CBK0026",
+      "lokasi": "Sungai Penjuring",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sg Penjuring",
+      "nama_sekolah_dalam_bahasa_cina": "宋溪本祖令华小",
+      "poskod": "28700",
+      "kawasan": "Bentong",
+      "koordinat": "3°36′46″U 101°52′42″T﻿ / ﻿3.6127°U 101.8783°T"
+    },
+    {
+      "bahagian": "Daerah Cameron Highlands",
+      "kod_sekolah": "CBC1004",
+      "lokasi": "Ringlet",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Cameron",
+      "nama_sekolah_dalam_bahasa_cina": "金马仑华小",
+      "poskod": "39200",
+      "kawasan": "Ringlet",
+      "koordinat": "4°24′51″U 101°22′53″T﻿ / ﻿4.4142°U 101.3815°T"
+    },
+    {
+      "bahagian": "Daerah Cameron Highlands",
+      "kod_sekolah": "CBC1005",
+      "lokasi": "Tanah Rata",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Tanah Rata",
+      "nama_sekolah_dalam_bahasa_cina": "丹那拉打华小",
+      "poskod": "39000",
+      "kawasan": "Tanah Rata",
+      "koordinat": "4°28′09″U 101°23′02″T﻿ / ﻿4.4691°U 101.3840°T"
+    },
+    {
+      "bahagian": "Daerah Cameron Highlands",
+      "kod_sekolah": "CBC1006",
+      "lokasi": "Brinchang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Brinchang",
+      "nama_sekolah_dalam_bahasa_cina": "碧兰璋华小",
+      "poskod": "39100",
+      "kawasan": "Brinchang",
+      "koordinat": "4°29′27″U 101°23′15″T﻿ / ﻿4.4908°U 101.3876°T"
+    },
+    {
+      "bahagian": "Daerah Cameron Highlands",
+      "kod_sekolah": "CBC1007",
+      "lokasi": "Kampung Raja",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kg Raja",
+      "nama_sekolah_dalam_bahasa_cina": "甘榜拉惹华小",
+      "poskod": "39010",
+      "kawasan": "Tanah Rata",
+      "koordinat": "4°34′00″U 101°24′26″T﻿ / ﻿4.5666°U 101.4071°T"
+    },
+    {
+      "bahagian": "Daerah Cameron Highlands",
+      "kod_sekolah": "CBC1008",
+      "lokasi": "Bertam Valley",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Bertam Valley",
+      "nama_sekolah_dalam_bahasa_cina": "巴登威利华小",
+      "poskod": "39200",
+      "kawasan": "Ringlet",
+      "koordinat": "4°25′00″U 101°23′56″T﻿ / ﻿4.4167°U 101.3990°T"
+    },
+    {
+      "bahagian": "Daerah Cameron Highlands",
+      "kod_sekolah": "CBC1010",
+      "lokasi": "Tringkap",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Tringkap",
+      "nama_sekolah_dalam_bahasa_cina": "直冷甲华小",
+      "poskod": "39100",
+      "kawasan": "Brinchang",
+      "koordinat": "4°30′58″U 101°25′38″T﻿ / ﻿4.5161°U 101.4271°T"
+    },
+    {
+      "bahagian": "Daerah Cameron Highlands",
+      "kod_sekolah": "CBC1011",
+      "lokasi": "Kea Farm",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kea Farm",
+      "nama_sekolah_dalam_bahasa_cina": "美兰村华小",
+      "poskod": "39100",
+      "kawasan": "Brinchang",
+      "koordinat": "4°30′12″U 101°24′41″T﻿ / ﻿4.5034°U 101.4113°T"
+    },
+    {
+      "bahagian": "Daerah Cameron Highlands",
+      "kod_sekolah": "CBK1009",
+      "lokasi": "Kuala Terla",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kuala Terla",
+      "nama_sekolah_dalam_bahasa_cina": "瓜拉德拉华小",
+      "poskod": "39000",
+      "kawasan": "Tanah Rata",
+      "koordinat": "4°32′50″U 101°24′55″T﻿ / ﻿4.5473°U 101.4152°T"
+    },
+    {
+      "bahagian": "Daerah Jerantut",
+      "kod_sekolah": "CBC2033",
+      "lokasi": "Jerantut",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sungai Jan",
+      "nama_sekolah_dalam_bahasa_cina": "双溪仁华小",
+      "poskod": "27000",
+      "kawasan": "Jerantut",
+      "koordinat": "3°56′21″U 102°21′46″T﻿ / ﻿3.9393°U 102.3629°T"
+    },
+    {
+      "bahagian": "Daerah Jerantut",
+      "kod_sekolah": "CBC2034",
+      "lokasi": "Kampung Batu Balai",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Batu Balai",
+      "nama_sekolah_dalam_bahasa_cina": "华都巴来华小",
+      "poskod": "27030",
+      "kawasan": "Jerantut",
+      "koordinat": "3°58′32″U 102°10′04″T﻿ / ﻿3.9755°U 102.1677°T"
+    },
+    {
+      "bahagian": "Daerah Jerantut",
+      "kod_sekolah": "CBC2035",
+      "lokasi": "Kampung Jeransong",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Jeransong",
+      "nama_sekolah_dalam_bahasa_cina": "而连宋华小",
+      "poskod": "27000",
+      "kawasan": "Jerantut",
+      "koordinat": "3°51′39″U 102°21′42″T﻿ / ﻿3.8608°U 102.3618°T"
+    },
+    {
+      "bahagian": "Daerah Jerantut",
+      "kod_sekolah": "CBC2036",
+      "lokasi": "Damak",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Damak",
+      "nama_sekolah_dalam_bahasa_cina": "南唛华小",
+      "poskod": "27030",
+      "kawasan": "Jerantut",
+      "koordinat": "3°56′50″U 102°12′59″T﻿ / ﻿3.9472°U 102.2165°T"
+    },
+    {
+      "bahagian": "Daerah Lipis",
+      "kod_sekolah": "CBC3040",
+      "lokasi": "Mela",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Mela",
+      "nama_sekolah_dalam_bahasa_cina": "美拿华小",
+      "poskod": "27010.0",
+      "kawasan": "Jerantut",
+      "koordinat": "4°04′28″U 102°16′23″T﻿ / ﻿4.0744°U 102.2730°T"
+    },
+    {
+      "bahagian": "Daerah Lipis",
+      "kod_sekolah": "CBC3041",
+      "lokasi": "Kuala Lipis",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "27200.0",
+      "kawasan": "Kuala Lipis",
+      "koordinat": "4°11′12″U 102°02′46″T﻿ / ﻿4.1866°U 102.0460°T"
+    },
+    {
+      "bahagian": "Daerah Lipis",
+      "kod_sekolah": "CBC3042",
+      "lokasi": "Padang Tengku",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Padang Tengku",
+      "nama_sekolah_dalam_bahasa_cina": "巴登东姑华小",
+      "poskod": "27100.0",
+      "kawasan": "Kuala Lipis",
+      "koordinat": "4°13′59″U 101°59′35″T﻿ / ﻿4.2330°U 101.9930°T"
+    },
+    {
+      "bahagian": "Daerah Lipis",
+      "kod_sekolah": "CBC3043",
+      "lokasi": "Jerkoh",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Jerkoh",
+      "nama_sekolah_dalam_bahasa_cina": "日利谷华小",
+      "poskod": "27300.0",
+      "kawasan": "Benta",
+      "koordinat": "4°02′35″U 101°57′22″T﻿ / ﻿4.0431°U 101.9560°T"
+    },
+    {
+      "bahagian": "Daerah Lipis",
+      "kod_sekolah": "CBC3044",
+      "lokasi": "Kampung Baru Penjom",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Penjom",
+      "nama_sekolah_dalam_bahasa_cina": "槟绒华小",
+      "poskod": "27200.0",
+      "kawasan": "Kuala Lipis",
+      "koordinat": "4°07′00″U 102°00′22″T﻿ / ﻿4.1166°U 102.0060°T"
+    },
+    {
+      "bahagian": "Daerah Lipis",
+      "kod_sekolah": "CBC3045",
+      "lokasi": "Kampung Sri Benta",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Benta",
+      "nama_sekolah_dalam_bahasa_cina": "文达华小",
+      "poskod": "27300.0",
+      "kawasan": "Benta",
+      "koordinat": "4°01′08″U 101°57′47″T﻿ / ﻿4.0188°U 101.9630°T"
+    },
+    {
+      "bahagian": "Daerah Lipis",
+      "kod_sekolah": "CBC3046",
+      "lokasi": "Ladang Budu",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Lih Seng (ditutup)",
+      "nama_sekolah_dalam_bahasa_cina": "力行华小",
+      "poskod": "",
+      "kawasan": "",
+      "koordinat": ""
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4040",
+      "lokasi": "Semambu",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Semambu",
+      "nama_sekolah_dalam_bahasa_cina": "士满慕华小",
+      "poskod": "25350.0",
+      "kawasan": "Kuantan",
+      "koordinat": "3°51′20″U 103°18′36″T﻿ / ﻿3.8555°U 103.3100°T"
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4041",
+      "lokasi": "Tanah Putih",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Ching",
+      "nama_sekolah_dalam_bahasa_cina": "中菁华小",
+      "poskod": "25100.0",
+      "kawasan": "Kuantan",
+      "koordinat": "3°47′34″U 103°18′51″T﻿ / ﻿3.7929°U 103.3141°T"
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4042",
+      "lokasi": "Indera Mahkota",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kuang Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "光华华小",
+      "poskod": "25200.0",
+      "kawasan": "Kuantan",
+      "koordinat": "3°50′00″U 103°16′30″T﻿ / ﻿3.8332°U 103.2749°T"
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4043",
+      "lokasi": "Jalan Air Putih",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Pei Chai",
+      "nama_sekolah_dalam_bahasa_cina": "培才华小",
+      "poskod": "25300.0",
+      "kawasan": "Kuantan",
+      "koordinat": "3°50′05″U 103°20′06″T﻿ / ﻿3.8348°U 103.3350°T"
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4044",
+      "lokasi": "Gambang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Gambang",
+      "nama_sekolah_dalam_bahasa_cina": "甘孟华小",
+      "poskod": "26300.0",
+      "kawasan": "Kuantan",
+      "koordinat": "3°42′26″U 103°06′03″T﻿ / ﻿3.7072°U 103.1009°T"
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4045",
+      "lokasi": "Kampung Jaya Gading",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yoke Shian",
+      "nama_sekolah_dalam_bahasa_cina": "育贤华小",
+      "poskod": "26070.0",
+      "kawasan": "Kuantan",
+      "koordinat": "3°44′16″U 103°12′22″T﻿ / ﻿3.7379°U 103.2060°T"
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4046",
+      "lokasi": "Beserah",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kong Min",
+      "nama_sekolah_dalam_bahasa_cina": "公民华小",
+      "poskod": "26100.0",
+      "kawasan": "Kuantan",
+      "koordinat": "3°51′32″U 103°21′59″T﻿ / ﻿3.8590°U 103.3664°T"
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4047",
+      "lokasi": "Sungai Lembing",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Lembing",
+      "nama_sekolah_dalam_bahasa_cina": "林明华小",
+      "poskod": "26200.0",
+      "kawasan": "Kuantan",
+      "koordinat": "3°54′58″U 103°02′10″T﻿ / ﻿3.9160°U 103.0361°T"
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4048",
+      "lokasi": "Panching",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Panching",
+      "nama_sekolah_dalam_bahasa_cina": "班珍华小",
+      "poskod": "26090.0",
+      "kawasan": "Kuantan",
+      "koordinat": "3°53′53″U 103°08′34″T﻿ / ﻿3.8980°U 103.1427°T"
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4049",
+      "lokasi": "Kampung Kolek",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kolek (ditutup)",
+      "nama_sekolah_dalam_bahasa_cina": "高力华小",
+      "poskod": "",
+      "kawasan": "",
+      "koordinat": ""
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4050",
+      "lokasi": "Sungai Soi",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Pooi Ming",
+      "nama_sekolah_dalam_bahasa_cina": "培民华小",
+      "poskod": "25150.0",
+      "kawasan": "Kuantan",
+      "koordinat": "3°44′19″U 103°18′14″T﻿ / ﻿3.7386°U 103.3038°T"
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4051 (dahulunya CBC0037)",
+      "lokasi": "Kuantan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Taman Tas",
+      "nama_sekolah_dalam_bahasa_cina": "达士园华小",
+      "poskod": "25150.0",
+      "kawasan": "Kuantan",
+      "koordinat": "3°46′01″U 103°15′08″T﻿ / ﻿3.7669°U 103.2523°T"
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4052",
+      "lokasi": "Singkir",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Poay Chai",
+      "nama_sekolah_dalam_bahasa_cina": "",
+      "poskod": "",
+      "kawasan": "",
+      "koordinat": ""
+    },
+    {
+      "bahagian": "Daerah Kuantan",
+      "kod_sekolah": "CBC4053",
+      "lokasi": "Kampung Tiram",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Ching 2",
+      "nama_sekolah_dalam_bahasa_cina": "中菁华小二校",
+      "poskod": "25200.0",
+      "kawasan": "Kuantan",
+      "koordinat": "3°48′32″U 103°17′25″T﻿ / ﻿3.8089°U 103.2904°T"
+    },
+    {
+      "bahagian": "Daerah Pekan",
+      "kod_sekolah": "CBC5064",
+      "lokasi": "Pekan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Pekan",
+      "nama_sekolah_dalam_bahasa_cina": "中华华小",
+      "poskod": "26600",
+      "kawasan": "Pekan",
+      "koordinat": "3°29′21″U 103°23′46″T﻿ / ﻿3.4891°U 103.3960°T"
+    },
+    {
+      "bahagian": "Daerah Pekan",
+      "kod_sekolah": "CBC5065",
+      "lokasi": "Nenasi",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kee Wha",
+      "nama_sekolah_dalam_bahasa_cina": "启华华小",
+      "poskod": "26680",
+      "kawasan": "Pekan",
+      "koordinat": "3°08′13″U 103°26′46″T﻿ / ﻿3.1369°U 103.4460°T"
+    },
+    {
+      "bahagian": "Daerah Pekan",
+      "kod_sekolah": "CBC5066",
+      "lokasi": "Kuala Pahang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yoke Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "育华华小",
+      "poskod": "26660",
+      "kawasan": "Pekan",
+      "koordinat": "3°31′54″U 103°27′40″T﻿ / ﻿3.5318°U 103.4611°T"
+    },
+    {
+      "bahagian": "Daerah Raub",
+      "kod_sekolah": "CBC6031",
+      "lokasi": "Raub",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Chung Ching",
+      "nama_sekolah_dalam_bahasa_cina": "中竞华小",
+      "poskod": "27600",
+      "kawasan": "Raub",
+      "koordinat": "3°47′45″U 101°51′33″T﻿ / ﻿3.7957°U 101.8591°T"
+    },
+    {
+      "bahagian": "Daerah Raub",
+      "kod_sekolah": "CBC6032",
+      "lokasi": "Kampung Baru Sempalit",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sempalit",
+      "nama_sekolah_dalam_bahasa_cina": "新巴力华小",
+      "poskod": "27600",
+      "kawasan": "Raub",
+      "koordinat": "3°48′04″U 101°52′24″T﻿ / ﻿3.8012°U 101.8732°T"
+    },
+    {
+      "bahagian": "Daerah Raub",
+      "kod_sekolah": "CBC6033",
+      "lokasi": "Sungai Ruan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sungai Ruan",
+      "nama_sekolah_dalam_bahasa_cina": "双溪兰华小",
+      "poskod": "27500",
+      "kawasan": "Raub",
+      "koordinat": "3°48′35″U 101°56′32″T﻿ / ﻿3.8096°U 101.9423°T"
+    },
+    {
+      "bahagian": "Daerah Raub",
+      "kod_sekolah": "CBC6034",
+      "lokasi": "Bukit Koman",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yuh Hwa",
+      "nama_sekolah_dalam_bahasa_cina": "育华华小",
+      "poskod": "27600",
+      "kawasan": "Raub",
+      "koordinat": "3°49′00″U 101°51′03″T﻿ / ﻿3.8166°U 101.8508°T"
+    },
+    {
+      "bahagian": "Daerah Raub",
+      "kod_sekolah": "CBC6035",
+      "lokasi": "Kampung Baru Sungai Lui",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sg Lui",
+      "nama_sekolah_dalam_bahasa_cina": "双溪内华小",
+      "poskod": "27600",
+      "kawasan": "Raub",
+      "koordinat": "3°48′45″U 101°50′47″T﻿ / ﻿3.8125°U 101.8465°T"
+    },
+    {
+      "bahagian": "Daerah Raub",
+      "kod_sekolah": "CBC6036",
+      "lokasi": "Kampung Cheroh",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Cheroh",
+      "nama_sekolah_dalam_bahasa_cina": "积罗华小",
+      "poskod": "27620",
+      "kawasan": "Raub",
+      "koordinat": "3°54′09″U 101°48′55″T﻿ / ﻿3.9025°U 101.8152°T"
+    },
+    {
+      "bahagian": "Daerah Raub",
+      "kod_sekolah": "CBC6037",
+      "lokasi": "Kampung Tras",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Tras",
+      "nama_sekolah_dalam_bahasa_cina": "都赖华小",
+      "poskod": "27670",
+      "kawasan": "Raub",
+      "koordinat": "3°44′34″U 101°48′42″T﻿ / ﻿3.7428°U 101.8118°T"
+    },
+    {
+      "bahagian": "Daerah Raub",
+      "kod_sekolah": "CBC6038",
+      "lokasi": "Kampung Sungai Chetang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sg Chetang",
+      "nama_sekolah_dalam_bahasa_cina": "双溪只登华小",
+      "poskod": "27670",
+      "kawasan": "Raub",
+      "koordinat": "3°42′39″U 101°49′19″T﻿ / ﻿3.7108°U 101.8219°T"
+    },
+    {
+      "bahagian": "Daerah Raub",
+      "kod_sekolah": "CBC6039",
+      "lokasi": "Kampung Sang Lee",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sang Lee",
+      "nama_sekolah_dalam_bahasa_cina": "生利华小",
+      "poskod": "27670",
+      "kawasan": "Raub",
+      "koordinat": "3°39′22″U 101°50′48″T﻿ / ﻿3.6560°U 101.8467°T"
+    },
+    {
+      "bahagian": "Daerah Raub",
+      "kod_sekolah": "CBC6040",
+      "lokasi": "Kampung Sungai Klau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sg Klau",
+      "nama_sekolah_dalam_bahasa_cina": "双溪吉流华小",
+      "poskod": "27630",
+      "kawasan": "Raub",
+      "koordinat": "3°44′40″U 101°59′17″T﻿ / ﻿3.7444°U 101.9881°T"
+    },
+    {
+      "bahagian": "Daerah Temerloh",
+      "kod_sekolah": "CBC7074",
+      "lokasi": "Temerloh",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Khee Chee",
+      "nama_sekolah_dalam_bahasa_cina": "启智华小",
+      "poskod": "28000",
+      "kawasan": "Temerloh",
+      "koordinat": "3°27′09″U 102°25′19″T﻿ / ﻿3.4524°U 102.4220°T"
+    },
+    {
+      "bahagian": "Daerah Temerloh",
+      "kod_sekolah": "CBC7075",
+      "lokasi": "Mentakab",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Mentakab (1)",
+      "nama_sekolah_dalam_bahasa_cina": "文德甲华小一校",
+      "poskod": "28400",
+      "kawasan": "Mentakab",
+      "koordinat": "3°28′58″U 102°21′11″T﻿ / ﻿3.4828°U 102.3530°T"
+    },
+    {
+      "bahagian": "Daerah Temerloh",
+      "kod_sekolah": "CBC7076",
+      "lokasi": "Mentakab",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Mentakab (2)",
+      "nama_sekolah_dalam_bahasa_cina": "文德甲华小二校",
+      "poskod": "28400",
+      "kawasan": "Mentakab",
+      "koordinat": "3°28′56″U 102°21′07″T﻿ / ﻿3.4823°U 102.3520°T"
+    },
+    {
+      "bahagian": "Daerah Temerloh",
+      "kod_sekolah": "CBC7077",
+      "lokasi": "Pekan Lanchang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Lanchang",
+      "nama_sekolah_dalam_bahasa_cina": "联增华小",
+      "poskod": "28500",
+      "kawasan": "Lanchang",
+      "koordinat": "3°29′57″U 102°11′20″T﻿ / ﻿3.4991°U 102.1890°T"
+    },
+    {
+      "bahagian": "Daerah Temerloh",
+      "kod_sekolah": "CBC7078",
+      "lokasi": "Kaw. Perindustrian Mentakab",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Yeow Cheng Luan",
+      "nama_sekolah_dalam_bahasa_cina": "姚贞暖华小",
+      "poskod": "28400",
+      "kawasan": "Mentakab",
+      "koordinat": "3°26′40″U 102°21′20″T﻿ / ﻿3.4444°U 102.3555°T"
+    },
+    {
+      "bahagian": "Daerah Temerloh",
+      "kod_sekolah": "CBC7085",
+      "lokasi": "Kerdau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kerdau",
+      "nama_sekolah_dalam_bahasa_cina": "吉道华小",
+      "poskod": "28010",
+      "kawasan": "Kerdau",
+      "koordinat": "3°34′29″U 102°22′12″T﻿ / ﻿3.5748°U 102.3699°T"
+    },
+    {
+      "bahagian": "Daerah Temerloh",
+      "kod_sekolah": "CBC7087",
+      "lokasi": "Kuala Krau",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kuala Krau",
+      "nama_sekolah_dalam_bahasa_cina": "瓜拉吉挠华小",
+      "poskod": "28050",
+      "kawasan": "Temerloh",
+      "koordinat": "3°42′40″U 102°22′11″T﻿ / ﻿3.7111°U 102.3696°T"
+    },
+    {
+      "bahagian": "Daerah Temerloh",
+      "kod_sekolah": "CBC7088 (dahulunya CBC0022)",
+      "lokasi": "Ladang Sungai Kawang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Sungai Kawang",
+      "nama_sekolah_dalam_bahasa_cina": "双溪加旺华小",
+      "poskod": "28500",
+      "kawasan": "Lanchang",
+      "koordinat": "3°28′18″U 102°08′22″T﻿ / ﻿3.4718°U 102.1394°T"
+    },
+    {
+      "bahagian": "Daerah Rompin",
+      "kod_sekolah": "CBC8016",
+      "lokasi": "Kuala Rompin",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Rompin",
+      "nama_sekolah_dalam_bahasa_cina": "云冰华小",
+      "poskod": "26800",
+      "kawasan": "Kuala Rompin",
+      "koordinat": "2°47′59″U 103°28′42″T﻿ / ﻿2.7996°U 103.4783°T"
+    },
+    {
+      "bahagian": "Daerah Maran",
+      "kod_sekolah": "CBC9063 (dahulunya CBC5063)",
+      "lokasi": "Sri Jaya",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Pei Min",
+      "nama_sekolah_dalam_bahasa_cina": "培民华小",
+      "poskod": "26500",
+      "kawasan": "Maran",
+      "koordinat": "3°40′18″U 102°52′30″T﻿ / ﻿3.6716°U 102.8750°T"
+    },
+    {
+      "bahagian": "Daerah Maran",
+      "kod_sekolah": "CBC9068 (dahulunya CBC5068)",
+      "lokasi": "Maran",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Maran",
+      "nama_sekolah_dalam_bahasa_cina": "马兰华小",
+      "poskod": "26500",
+      "kawasan": "Maran",
+      "koordinat": "3°35′14″U 102°46′19″T﻿ / ﻿3.5871°U 102.7720°T"
+    },
+    {
+      "bahagian": "Daerah Maran",
+      "kod_sekolah": "CBK9073 (dahulunya CBC7063)",
+      "lokasi": "Sungai Jerik",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Jerik",
+      "nama_sekolah_dalam_bahasa_cina": "热力华小",
+      "poskod": "26400",
+      "kawasan": "Bandar Jengka",
+      "koordinat": "3°47′12″U 102°38′38″T﻿ / ﻿3.7867°U 102.6440°T"
+    },
+    {
+      "bahagian": "Daerah Bera",
+      "kod_sekolah": "CBCA079 (dahulunya CBC7079)",
+      "lokasi": "Triang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Triang (1)",
+      "nama_sekolah_dalam_bahasa_cina": "直凉华小一校",
+      "poskod": "28300",
+      "kawasan": "Triang",
+      "koordinat": "3°14′49″U 102°24′58″T﻿ / ﻿3.2469°U 102.4160°T"
+    },
+    {
+      "bahagian": "Daerah Bera",
+      "kod_sekolah": "CBCA080 (dahulunya CBC7080)",
+      "lokasi": "Triang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Triang (2)",
+      "nama_sekolah_dalam_bahasa_cina": "直凉立德华小",
+      "poskod": "28300",
+      "kawasan": "Triang",
+      "koordinat": "3°15′28″U 102°25′19″T﻿ / ﻿3.2578°U 102.4220°T"
+    },
+    {
+      "bahagian": "Daerah Bera",
+      "kod_sekolah": "CBCA082 (dahulunya CBC7082)",
+      "lokasi": "Kampung Baru Kerayong",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kerayong",
+      "nama_sekolah_dalam_bahasa_cina": "吉拉央华小",
+      "poskod": "28200",
+      "kawasan": "Bera",
+      "koordinat": "3°15′55″U 102°27′15″T﻿ / ﻿3.2652°U 102.4541°T"
+    },
+    {
+      "bahagian": "Daerah Bera",
+      "kod_sekolah": "CBCA083 (dahulunya CBC7083)",
+      "lokasi": "Mengkuang",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Mengkuang",
+      "nama_sekolah_dalam_bahasa_cina": "明光华小",
+      "poskod": "28340",
+      "kawasan": "Mengkuang",
+      "koordinat": "3°11′13″U 102°24′00″T﻿ / ﻿3.1869°U 102.3999°T"
+    },
+    {
+      "bahagian": "Daerah Bera",
+      "kod_sekolah": "CBCA084 (dahulunya CBC7084)",
+      "lokasi": "Kampung Baru Mengkarak",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Mengkarak",
+      "nama_sekolah_dalam_bahasa_cina": "明加叻华小",
+      "poskod": "28200",
+      "kawasan": "Bandar Bera",
+      "koordinat": "3°19′53″U 102°25′19″T﻿ / ﻿3.3314°U 102.4220°T"
+    },
+    {
+      "bahagian": "Daerah Bera",
+      "kod_sekolah": "CBCA086 (dahulunya CBC7086)",
+      "lokasi": "Ladang Kemasul",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kemasul",
+      "nama_sekolah_dalam_bahasa_cina": "金马梳华小",
+      "poskod": "28200",
+      "kawasan": "Mengkarak",
+      "koordinat": "3°17′54″U 102°23′36″T﻿ / ﻿3.2984°U 102.3934°T"
+    },
+    {
+      "bahagian": "Daerah Bera",
+      "kod_sekolah": "CBCA088 (dahulunya CBC7088)",
+      "lokasi": "Kampung Menteri",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Menteri",
+      "nama_sekolah_dalam_bahasa_cina": "文德里华小",
+      "poskod": "28300",
+      "kawasan": "Triang",
+      "koordinat": "3°17′10″U 102°24′54″T﻿ / ﻿3.2860°U 102.4150°T"
+    },
+    {
+      "bahagian": "Daerah Bera",
+      "kod_sekolah": "CBKA081 (dahulunya CBK7081)",
+      "lokasi": "Kemayan",
+      "nama_sekolah_dalam_bahasa_melayu": "SJK (C) Kemayan",
+      "nama_sekolah_dalam_bahasa_cina": "金马扬华小",
+      "poskod": "28380",
+      "kawasan": "Kemayan",
+      "koordinat": "3°08′10″U 102°22′10″T﻿ / ﻿3.1362°U 102.3694°T"
+    }
+  ],
+  "meta": {
+    "title": "Senarai SJK(C) di Pahang - Muat turun percuma",
+    "description": "Senarai SJK(C) di Pahang — 80 rekod yang disusun daripada artikel Wikipedia Bahasa Melayu, dalam format jadual yang mudah dimuat turun (Excel, CSV). Mengandungi 80 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai SJK(C) di Pahang | ListBase",
+    "seo_description": "Muat turun Senarai SJK(C) di Pahang — 80 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 80 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_Sekolah_Jenis_Kebangsaan_Cina_di_Pahang"
+    ]
+  }
+}
