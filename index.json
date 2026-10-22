@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:31:47.008Z",
-  "total_datasets": 531,
-  "total_records": 499772,
+  "generated": "2026-10-22T04:31:47.512Z",
+  "total_datasets": 532,
+  "total_records": 499903,
   "categories": [
     {
       "id": "culture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 57
+      "dataset_count": 58
     }
   ],
   "datasets": [
@@ -15627,6 +15627,30 @@
         "xlsx": {
           "name": "ms-jalan-george-town_MS.xlsx",
           "size": 8101
+        }
+      }
+    },
+    {
+      "id": "ms-jalan-kuala-lumpur",
+      "name": "Senarai Jalan Raya di Kuala Lumpur",
+      "category": "transport",
+      "record_count": 131,
+      "columns": [
+        "sekarang_nama_rasmi",
+        "bekas_nama_inggeris",
+        "catatan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_jalan_raya_di_Kuala_Lumpur",
+      "updated": "2026-10",
+      "size": 34536,
+      "files": {
+        "csv": {
+          "name": "ms-jalan-kuala-lumpur_MS.csv",
+          "size": 21164
+        },
+        "xlsx": {
+          "name": "ms-jalan-kuala-lumpur_MS.xlsx",
+          "size": 15682
         }
       }
     },
