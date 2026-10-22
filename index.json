@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:00.815Z",
-  "total_datasets": 554,
-  "total_records": 505800,
+  "generated": "2026-10-22T04:32:01.291Z",
+  "total_datasets": 555,
+  "total_records": 505952,
   "categories": [
     {
       "id": "culture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "politics",
@@ -3492,6 +3492,29 @@
         "xlsx": {
           "name": "ms-lagu-nombor-satu-2023_MS.xlsx",
           "size": 7462
+        }
+      }
+    },
+    {
+      "id": "ms-lagu-patriotik",
+      "name": "Senarai Lagu Patriotik Malaysia",
+      "category": "music",
+      "record_count": 152,
+      "columns": [
+        "bahagian",
+        "nama"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_lagu_patriotik_Malaysia",
+      "updated": "2026-10",
+      "size": 15890,
+      "files": {
+        "csv": {
+          "name": "ms-lagu-patriotik_MS.csv",
+          "size": 7456
+        },
+        "xlsx": {
+          "name": "ms-lagu-patriotik_MS.xlsx",
+          "size": 10468
         }
       }
     },
