@@ -1,0 +1,1616 @@
+{
+  "id": "ms-pendaratan-ikan-laut-tahunan",
+  "name": "Pendaratan Ikan Laut Tahunan mengikut Negeri (2005–2025)",
+  "title": "Pendaratan Ikan Laut Tahunan mengikut Negeri (2005–2025)",
+  "description": "Jumlah pendaratan ikan laut tahunan (tan metrik) mengikut negeri dan bagi Malaysia, dijumlahkan daripada data bulanan Jabatan Perikanan.",
+  "category": "agriculture",
+  "source": "https://data.gov.my/data-catalogue/fish_landings",
+  "source_url": "https://data.gov.my/data-catalogue/fish_landings",
+  "updated": "2026-10",
+  "record_count": 315,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "pendaratan_tan_metrik",
+      "label": "Pendaratan Tan Metrik",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Johor",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 83481
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 63705
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 46496
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 1209600
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 1776
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 364
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 111243
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 213841
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 133046
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 23448
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 187067
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 158676
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 74141
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 93014
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2005,
+      "pendaratan_tan_metrik": 19309
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 109119
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 67122
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 63677
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 1371734
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 1831
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 376
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 113063
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 209153
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 163039
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 33110
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 176314
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 148665
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 146390
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 111394
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2006,
+      "pendaratan_tan_metrik": 28485
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 94278
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 83923
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 74839
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 1381422
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 1800
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 428
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 105448
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 239653
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 193799
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 37774
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 184162
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 140233
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 116138
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 81007
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2007,
+      "pendaratan_tan_metrik": 27944
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 88924
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 95940
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 68039
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 1394532
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 1791
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 374
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 119247
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 219065
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 189358
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 43626
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 174011
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 136325
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 124224
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 104698
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2008,
+      "pendaratan_tan_metrik": 28908
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 87617
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 106486
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 58891
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 1393226
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 1692
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 610
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 115986
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 258088
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 178246
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 42789
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 172585
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 125135
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 131350
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 84319
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2009,
+      "pendaratan_tan_metrik": 29437
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 109543
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 74266
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 63844
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 1428882
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 1665
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 690
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 120920
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 303510
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 165298
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 45181
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 174579
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 121414
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 144438
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 72922
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2010,
+      "pendaratan_tan_metrik": 30613
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 109738
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 86033
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 72396
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 1373105
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 1757
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 667
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 104043
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 301544
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 135001
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 63972
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 176947
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 119458
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 107964
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 65024
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2011,
+      "pendaratan_tan_metrik": 28561
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 124844
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 99195
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 76458
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 1472238
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 1786
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 573
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 112085
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 315817
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 118448
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 52594
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 178064
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 141104
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 120783
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 80727
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2012,
+      "pendaratan_tan_metrik": 49764
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 130922
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 112875
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 57110
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 1482900
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 1789
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 569
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 107347
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 307187
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 99593
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 58203
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 196523
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 159826
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 105560
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 72224
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2013,
+      "pendaratan_tan_metrik": 73173
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 125334
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 156111
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 62237
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 1458129
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 1938
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 806
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 91145
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 329345
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 96450
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 45881
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 214677
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 157250
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 92436
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 58784
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2014,
+      "pendaratan_tan_metrik": 25738
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 103371
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 157102
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 146442
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 1486050
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 2019
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 705
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 111537
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 346854
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 85499
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 49783
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 175443
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 147578
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 90025
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 51185
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2015,
+      "pendaratan_tan_metrik": 18506
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 81222
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 163876
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 218759
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 1574446
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 1791
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 719
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 120419
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 367348
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 99868
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 57013
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 159773
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 147993
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 93459
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 44702
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2016,
+      "pendaratan_tan_metrik": 17509
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 69852
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 142549
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 196131
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 1465112
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 1769
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 658
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 118067
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 266555
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 105892
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 51186
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 162343
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 158936
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 125518
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 47269
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2017,
+      "pendaratan_tan_metrik": 18384
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 69681
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 149280
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 99413
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 1452864
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 1913
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 668
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 121211
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 313856
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 95994
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 54854
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 163055
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 180604
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 141271
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 41730
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2018,
+      "pendaratan_tan_metrik": 19325
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 65138
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 149258
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 90206
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 1455448
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 1882
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 678
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 99747
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 314958
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 113527
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 51694
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 179717
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 171487
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 156425
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 40455
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "pendaratan_tan_metrik": 20279
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 70177
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 134420
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 73580
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 1383299
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 1797
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 597
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 101317
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 328296
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 69358
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 56849
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 206702
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 124454
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 161031
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 37227
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "pendaratan_tan_metrik": 17497
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 51428
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 122836
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 58279
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 1328041
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 2093
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 573
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 94820
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 358406
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 33061
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 35374
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 216319
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 138885
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 167588
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 30647
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2021,
+      "pendaratan_tan_metrik": 17732
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 57727
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 140866
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 55084
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 1308416
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 2001
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 599
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 107982
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 301376
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 38005
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 47605
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 230172
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 103839
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 171057
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 33692
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2022,
+      "pendaratan_tan_metrik": 18411
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 49824
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 141312
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 60032
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 1270277
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 1993
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 503
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 116204
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 335943
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 34063
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 38227
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 212787
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 94341
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 120593
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 45701
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2023,
+      "pendaratan_tan_metrik": 18762
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 59089
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 104315
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 58114
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 1392133
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 2086
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 636
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 144652
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 434349
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 28099
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 39233
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 201812
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 96104
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 163734
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 39658
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2024,
+      "pendaratan_tan_metrik": 20255
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 62602
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 105213
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 57668
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 1393399
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 2192
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 598
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 148968
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 383025
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 25517
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 48109
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 235678
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 110496
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 150254
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 43252
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2025,
+      "pendaratan_tan_metrik": 19834
+    }
+  ],
+  "meta": {
+    "title": "Pendaratan Ikan Laut Tahunan mengikut Negeri (2005–2025) - Muat turun percuma",
+    "description": "Jumlah pendaratan ikan laut tahunan (tan metrik) mengikut negeri dan bagi Malaysia, dijumlahkan daripada data bulanan Jabatan Perikanan. Mengandungi 315 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Pendaratan Ikan Laut Tahunan mengikut Negeri (2005–2025) | ListBase",
+    "seo_description": "Muat turun Pendaratan Ikan Laut Tahunan mengikut Negeri (2005–2025) — 315 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 315 rekod / 3 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/fish_landings"
+    ]
+  }
+}

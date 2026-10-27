@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:29.698Z",
-  "total_datasets": 657,
-  "total_records": 527164,
+  "generated": "2026-10-27T02:39:32.298Z",
+  "total_datasets": 658,
+  "total_records": 527479,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -148,6 +148,30 @@
         "xlsx": {
           "name": "ms-menteri-pertanian_MS.xlsx",
           "size": 8198
+        }
+      }
+    },
+    {
+      "id": "ms-pendaratan-ikan-laut-tahunan",
+      "name": "Pendaratan Ikan Laut Tahunan mengikut Negeri (2005–2025)",
+      "category": "agriculture",
+      "record_count": 315,
+      "columns": [
+        "negeri",
+        "tahun",
+        "pendaratan_tan_metrik"
+      ],
+      "source": "https://data.gov.my/data-catalogue/fish_landings",
+      "updated": "2026-10",
+      "size": 32879,
+      "files": {
+        "csv": {
+          "name": "ms-pendaratan-ikan-laut-tahunan_MS.csv",
+          "size": 8281
+        },
+        "xlsx": {
+          "name": "ms-pendaratan-ikan-laut-tahunan_MS.xlsx",
+          "size": 12194
         }
       }
     },
