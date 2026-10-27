@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:09.063Z",
-  "total_datasets": 649,
-  "total_records": 526902,
+  "generated": "2026-10-27T02:39:11.624Z",
+  "total_datasets": 650,
+  "total_records": 526924,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -17486,6 +17486,31 @@
         "xlsx": {
           "name": "ms-akses-internet-isi-rumah_MS.xlsx",
           "size": 9768
+        }
+      }
+    },
+    {
+      "id": "ms-langganan-selular",
+      "name": "Langganan Telefon Selular di Malaysia (2000–2021)",
+      "category": "tech",
+      "record_count": 22,
+      "columns": [
+        "tahun",
+        "jumlah",
+        "prabayar",
+        "pascabayar"
+      ],
+      "source": "https://data.gov.my/data-catalogue/cellular_subscribers",
+      "updated": "2026-10",
+      "size": 4090,
+      "files": {
+        "csv": {
+          "name": "ms-langganan-selular_MS.csv",
+          "size": 843
+        },
+        "xlsx": {
+          "name": "ms-langganan-selular_MS.xlsx",
+          "size": 7318
         }
       }
     },
