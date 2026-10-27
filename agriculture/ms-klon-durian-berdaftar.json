@@ -1,0 +1,1176 @@
+{
+  "id": "ms-klon-durian-berdaftar",
+  "name": "Senarai Klon Durian Berdaftar",
+  "title": "Senarai Klon Durian Berdaftar",
+  "description": "Klon durian yang didaftarkan di Malaysia (D1 dan seterusnya) dengan nama biasa, tarikh daftar, tuan asal pokok dan lokasi.",
+  "category": "agriculture",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_kultivar_durian",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_kultivar_durian",
+  "updated": "2026-10",
+  "record_count": 140,
+  "columns": [
+    {
+      "key": "bil",
+      "label": "Bil",
+      "type": "number"
+    },
+    {
+      "key": "klon",
+      "label": "Klon",
+      "type": "string"
+    },
+    {
+      "key": "nama_biasa",
+      "label": "Nama Biasa",
+      "type": "string"
+    },
+    {
+      "key": "tarikh_daftar",
+      "label": "Tarikh Daftar",
+      "type": "string"
+    },
+    {
+      "key": "tuan_asal_pokok",
+      "label": "Tuan Asal Pokok",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bil": 1,
+      "klon": "D1",
+      "nama_biasa": "",
+      "tarikh_daftar": "00.00.34",
+      "tuan_asal_pokok": "",
+      "alamat": "Hulu Langat , Selangor"
+    },
+    {
+      "bil": 2,
+      "klon": "D2",
+      "nama_biasa": "Dato' Nina",
+      "tarikh_daftar": "00.00.34",
+      "tuan_asal_pokok": "Dato' Nina",
+      "alamat": "Melaka"
+    },
+    {
+      "bil": 3,
+      "klon": "D3",
+      "nama_biasa": "",
+      "tarikh_daftar": "00.00.39",
+      "tuan_asal_pokok": "",
+      "alamat": "0"
+    },
+    {
+      "bil": 4,
+      "klon": "D4",
+      "nama_biasa": "Repok B2",
+      "tarikh_daftar": "27.07.34",
+      "tuan_asal_pokok": "",
+      "alamat": "Batu Kurau , Perak"
+    },
+    {
+      "bil": 5,
+      "klon": "D6",
+      "nama_biasa": "",
+      "tarikh_daftar": "00.00.36",
+      "tuan_asal_pokok": "",
+      "alamat": "0"
+    },
+    {
+      "bil": 6,
+      "klon": "D7",
+      "nama_biasa": "",
+      "tarikh_daftar": "00.00.34",
+      "tuan_asal_pokok": "",
+      "alamat": "Kajang , Selangor"
+    },
+    {
+      "bil": 7,
+      "klon": "D8",
+      "nama_biasa": "",
+      "tarikh_daftar": "27.07.34",
+      "tuan_asal_pokok": "",
+      "alamat": "Kuala Lumpur"
+    },
+    {
+      "bil": 8,
+      "klon": "D10",
+      "nama_biasa": "Durian Hijau",
+      "tarikh_daftar": "0",
+      "tuan_asal_pokok": "",
+      "alamat": "Kajang, Selangor"
+    },
+    {
+      "bil": 9,
+      "klon": "D16",
+      "nama_biasa": "",
+      "tarikh_daftar": "00.00.36",
+      "tuan_asal_pokok": "",
+      "alamat": "0"
+    },
+    {
+      "bil": 10,
+      "klon": "D24",
+      "nama_biasa": "Bukit Merah/Sultan",
+      "tarikh_daftar": "30.11.37",
+      "tuan_asal_pokok": "",
+      "alamat": "Empangan Bukit Merah , Perak"
+    },
+    {
+      "bil": 11,
+      "klon": "D29",
+      "nama_biasa": "",
+      "tarikh_daftar": "27.07.38",
+      "tuan_asal_pokok": "",
+      "alamat": "Kuala Kangsar , Perak"
+    },
+    {
+      "bil": 12,
+      "klon": "D30",
+      "nama_biasa": "Ho Kuen No. 1",
+      "tarikh_daftar": "05.01.39",
+      "tuan_asal_pokok": "",
+      "alamat": "Bentong , Pahang"
+    },
+    {
+      "bil": 13,
+      "klon": "D33",
+      "nama_biasa": "Sakai No. 1",
+      "tarikh_daftar": "10.01.39",
+      "tuan_asal_pokok": "",
+      "alamat": "Bentong, Pahang"
+    },
+    {
+      "bil": 14,
+      "klon": "D38",
+      "nama_biasa": "Hj. Abu",
+      "tarikh_daftar": "11.08.39",
+      "tuan_asal_pokok": "Sidak Ishak",
+      "alamat": "Kuala Pilah , Negeri Sembilan"
+    },
+    {
+      "bil": 15,
+      "klon": "D53",
+      "nama_biasa": "",
+      "tarikh_daftar": "27.05.40",
+      "tuan_asal_pokok": "",
+      "alamat": "Balik Pulau , Pulau Pinang"
+    },
+    {
+      "bil": 16,
+      "klon": "D63",
+      "nama_biasa": "",
+      "tarikh_daftar": "19.06.40",
+      "tuan_asal_pokok": "Kum Kuah",
+      "alamat": "Mukim Relau , Pulau Pinang"
+    },
+    {
+      "bil": 17,
+      "klon": "D66",
+      "nama_biasa": "Durian Raja",
+      "tarikh_daftar": "0",
+      "tuan_asal_pokok": "",
+      "alamat": "Sungkai , Perak"
+    },
+    {
+      "bil": 18,
+      "klon": "D84",
+      "nama_biasa": "",
+      "tarikh_daftar": "07.12.48",
+      "tuan_asal_pokok": "Che Wahab",
+      "alamat": "Perak Selatan , Perak"
+    },
+    {
+      "bil": 19,
+      "klon": "D88",
+      "nama_biasa": "Bangkok 8",
+      "tarikh_daftar": "30.08.50",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Serdang , Selangor"
+    },
+    {
+      "bil": 20,
+      "klon": "D90",
+      "nama_biasa": "",
+      "tarikh_daftar": "10.12.51",
+      "tuan_asal_pokok": "Mat Arop Kumat",
+      "alamat": "Jasin , Melaka"
+    },
+    {
+      "bil": 21,
+      "klon": "D92",
+      "nama_biasa": "Branceng",
+      "tarikh_daftar": "21.07.52",
+      "tuan_asal_pokok": "Cheong Teik Kee",
+      "alamat": "Bengan Germal , Pulau Pinang"
+    },
+    {
+      "bil": 22,
+      "klon": "D96",
+      "nama_biasa": "Bangkok A",
+      "tarikh_daftar": "12.02.55",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Serdang, Selangor"
+    },
+    {
+      "bil": 23,
+      "klon": "D97",
+      "nama_biasa": "Foo",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "",
+      "alamat": "Pulau Pinang"
+    },
+    {
+      "bil": 24,
+      "klon": "D98",
+      "nama_biasa": "Katoi",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "",
+      "alamat": "Thailand"
+    },
+    {
+      "bil": 25,
+      "klon": "D99",
+      "nama_biasa": "Kop Kecil",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "",
+      "alamat": "Thailand"
+    },
+    {
+      "bil": 26,
+      "klon": "D100",
+      "nama_biasa": "Khaw",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "",
+      "alamat": "0"
+    },
+    {
+      "bil": 27,
+      "klon": "D101",
+      "nama_biasa": "Bangkok T16",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Serdang, Selangor"
+    },
+    {
+      "bil": 28,
+      "klon": "D102",
+      "nama_biasa": "Bangkok T17",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Serdang, Selangor"
+    },
+    {
+      "bil": 29,
+      "klon": "D103",
+      "nama_biasa": "Bangkok T28",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Serdang, Selangor"
+    },
+    {
+      "bil": 30,
+      "klon": "D104",
+      "nama_biasa": "Taiping 2",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "A. Hamid Awang",
+      "alamat": "Taiping , Perak"
+    },
+    {
+      "bil": 31,
+      "klon": "D105",
+      "nama_biasa": "Durian Gajah/Taiping 3",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Awang Hj. Yaakob",
+      "alamat": "Taiping, Perak"
+    },
+    {
+      "bil": 32,
+      "klon": "D106",
+      "nama_biasa": "Taiping 5",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Yunos",
+      "alamat": "Taiping, Perak"
+    },
+    {
+      "bil": 33,
+      "klon": "D107",
+      "nama_biasa": "Durian Ular Kekek",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Hjh. Saadiah",
+      "alamat": "Batu Kurau, Perak"
+    },
+    {
+      "bil": 34,
+      "klon": "D108",
+      "nama_biasa": "Nasi Kunyit",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Hjh. Saadiah",
+      "alamat": "Batu Kurau, Perak"
+    },
+    {
+      "bil": 35,
+      "klon": "D109",
+      "nama_biasa": "Seberang Manong 4",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Yeop Abd Rahman Anjang Osman",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 36,
+      "klon": "D110",
+      "nama_biasa": "Seberang Manong 5",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Yeop Abd Rahman Anjang Osman",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 37,
+      "klon": "D111",
+      "nama_biasa": "Emas Enggang",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Ming Fong",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 38,
+      "klon": "D112",
+      "nama_biasa": "Emas Perak",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Ming Fong",
+      "alamat": "Kuala Kangsar, Peral"
+    },
+    {
+      "bil": 39,
+      "klon": "D113",
+      "nama_biasa": "Raja Patani",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Ming Fong",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 40,
+      "klon": "D114",
+      "nama_biasa": "Kampan",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Ming Fong",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 41,
+      "klon": "D115",
+      "nama_biasa": "Mas Pahang I",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Ming Fong",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 42,
+      "klon": "D116",
+      "nama_biasa": "Durian Batu",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Lee Lam Siew",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 43,
+      "klon": "D117",
+      "nama_biasa": "Durian Gombak",
+      "tarikh_daftar": "05.0.71",
+      "tuan_asal_pokok": "",
+      "alamat": "Gombak , Selangor"
+    },
+    {
+      "bil": 44,
+      "klon": "D118",
+      "nama_biasa": "Durian Tembaga",
+      "tarikh_daftar": "17.06.70",
+      "tuan_asal_pokok": "Lee Lam Siew",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 45,
+      "klon": "D119",
+      "nama_biasa": "Durian Ganjil",
+      "tarikh_daftar": "05.01.71",
+      "tuan_asal_pokok": "",
+      "alamat": "Perak"
+    },
+    {
+      "bil": 46,
+      "klon": "D120",
+      "nama_biasa": "KK5/Manong",
+      "tarikh_daftar": "17.07.71",
+      "tuan_asal_pokok": "Mohd Nasib, Kulob Talib",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 47,
+      "klon": "D121",
+      "nama_biasa": "Emas Pahang II",
+      "tarikh_daftar": "17.07.71",
+      "tuan_asal_pokok": "Shamsudin Hj. Yob",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 48,
+      "klon": "D122",
+      "nama_biasa": "RimD1",
+      "tarikh_daftar": "24.07.71",
+      "tuan_asal_pokok": "Pertab Singh",
+      "alamat": "Sungai Buloh , Selangor"
+    },
+    {
+      "bil": 49,
+      "klon": "D123",
+      "nama_biasa": "Chanee",
+      "tarikh_daftar": "14.07.71",
+      "tuan_asal_pokok": "Pertab Singh",
+      "alamat": "Sungai Buloh, Selangor"
+    },
+    {
+      "bil": 50,
+      "klon": "D124",
+      "nama_biasa": "RimD5",
+      "tarikh_daftar": "14.02.73",
+      "tuan_asal_pokok": "Pertab Singh",
+      "alamat": "Sik , Kedah"
+    },
+    {
+      "bil": 51,
+      "klon": "D125",
+      "nama_biasa": "Kop Jantung",
+      "tarikh_daftar": "14.02.73",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Sik, Kedah"
+    },
+    {
+      "bil": 52,
+      "klon": "D126",
+      "nama_biasa": "Kop T24",
+      "tarikh_daftar": "14.02.73",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Sik, Kedah"
+    },
+    {
+      "bil": 53,
+      "klon": "D127",
+      "nama_biasa": "Kop T25",
+      "tarikh_daftar": "14.02.73",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Sik, Kedah"
+    },
+    {
+      "bil": 54,
+      "klon": "D128",
+      "nama_biasa": "Pakta T66",
+      "tarikh_daftar": "14.02.73",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Sik, Kedah"
+    },
+    {
+      "bil": 55,
+      "klon": "D129",
+      "nama_biasa": "Chanee T41",
+      "tarikh_daftar": "14.02.73",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Sik, Kedah"
+    },
+    {
+      "bil": 56,
+      "klon": "D130",
+      "nama_biasa": "Kan Yau T63",
+      "tarikh_daftar": "14.02.73",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Sik, Kedah"
+    },
+    {
+      "bil": 57,
+      "klon": "D131",
+      "nama_biasa": "Kamtoi T9",
+      "tarikh_daftar": "14.02.73",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Sik, Kedah"
+    },
+    {
+      "bil": 58,
+      "klon": "D132",
+      "nama_biasa": "Eddie Special",
+      "tarikh_daftar": "28.03.73",
+      "tuan_asal_pokok": "Pertab Singh",
+      "alamat": "Sungai Buloh, Selangor"
+    },
+    {
+      "bil": 59,
+      "klon": "D133",
+      "nama_biasa": "Durian Rambutan",
+      "tarikh_daftar": "05.04.73",
+      "tuan_asal_pokok": "Zainal Abidin Shaaban",
+      "alamat": "Taiping, Perak"
+    },
+    {
+      "bil": 60,
+      "klon": "D134",
+      "nama_biasa": "",
+      "tarikh_daftar": "05.05.73",
+      "tuan_asal_pokok": "Cheah Eng Hin",
+      "alamat": "Slim Village , Perak"
+    },
+    {
+      "bil": 61,
+      "klon": "D135",
+      "nama_biasa": "Foo Fatt",
+      "tarikh_daftar": "05.05.73",
+      "tuan_asal_pokok": "Cheah Eng Hin",
+      "alamat": "Slim Village, Perak"
+    },
+    {
+      "bil": 62,
+      "klon": "D136",
+      "nama_biasa": "Senggarang 1",
+      "tarikh_daftar": "05.05.73",
+      "tuan_asal_pokok": "Lian Chin Peng",
+      "alamat": "Senggarang , Johor"
+    },
+    {
+      "bil": 63,
+      "klon": "D137",
+      "nama_biasa": "Senggarang 2",
+      "tarikh_daftar": "05.05.73",
+      "tuan_asal_pokok": "Lian Chin Peng",
+      "alamat": "Senggarang, Johor"
+    },
+    {
+      "bil": 64,
+      "klon": "D138",
+      "nama_biasa": "Senggarang 3",
+      "tarikh_daftar": "05.05.73",
+      "tuan_asal_pokok": "Lian Chin Peng",
+      "alamat": "Senggarang, Johor"
+    },
+    {
+      "bil": 65,
+      "klon": "D139",
+      "nama_biasa": "Senggarang 4",
+      "tarikh_daftar": "05.05.73",
+      "tuan_asal_pokok": "Lian Chin Peng",
+      "alamat": "Senggarang, Johor"
+    },
+    {
+      "bil": 66,
+      "klon": "D140",
+      "nama_biasa": "DX/Rogue 24",
+      "tarikh_daftar": "01.06.81",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Serdang, Selangor"
+    },
+    {
+      "bil": 67,
+      "klon": "D141",
+      "nama_biasa": "Kacukan D101 x D2",
+      "tarikh_daftar": "01.06.81",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Serdang, Selangor"
+    },
+    {
+      "bil": 68,
+      "klon": "D142",
+      "nama_biasa": "Kacukan D66 x D2",
+      "tarikh_daftar": "01.06.81",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Serdang, Selangor"
+    },
+    {
+      "bil": 69,
+      "klon": "D143",
+      "nama_biasa": "Kacukan D2 x D7",
+      "tarikh_daftar": "01.06.81",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Serdang, Selangor"
+    },
+    {
+      "bil": 70,
+      "klon": "D144",
+      "nama_biasa": "Kacukan D24 x D2",
+      "tarikh_daftar": "01.06.81",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Serdang, Selangor"
+    },
+    {
+      "bil": 71,
+      "klon": "D145",
+      "nama_biasa": "Tuan Mek Hijau/Beserah",
+      "tarikh_daftar": "30.10.81",
+      "tuan_asal_pokok": "YM Che Engku Khaidzir Bin Che Engku Ali",
+      "alamat": "Beserah , Pahang"
+    },
+    {
+      "bil": 72,
+      "klon": "D146",
+      "nama_biasa": "Lempur Emas",
+      "tarikh_daftar": "02.04.85",
+      "tuan_asal_pokok": "",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 73,
+      "klon": "D147",
+      "nama_biasa": "Paya Lintah Kuning",
+      "tarikh_daftar": "02.04.85",
+      "tuan_asal_pokok": "",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 74,
+      "klon": "D148",
+      "nama_biasa": "Paduka",
+      "tarikh_daftar": "02.04.85",
+      "tuan_asal_pokok": "",
+      "alamat": "Kampung Gajah , Perak"
+    },
+    {
+      "bil": 75,
+      "klon": "D150",
+      "nama_biasa": "Emping Emas",
+      "tarikh_daftar": "02.04.85",
+      "tuan_asal_pokok": "",
+      "alamat": "Batu Kurau, Perak"
+    },
+    {
+      "bil": 76,
+      "klon": "D151",
+      "nama_biasa": "Kancong Darat",
+      "tarikh_daftar": "14.07.86",
+      "tuan_asal_pokok": "",
+      "alamat": "Banting , Selangor"
+    },
+    {
+      "bil": 77,
+      "klon": "D152",
+      "nama_biasa": "Katak",
+      "tarikh_daftar": "14.07.86",
+      "tuan_asal_pokok": "",
+      "alamat": "Jitra , Kedah"
+    },
+    {
+      "bil": 78,
+      "klon": "D153",
+      "nama_biasa": "Kuala Kangsar 2",
+      "tarikh_daftar": "08.12.86",
+      "tuan_asal_pokok": "",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 79,
+      "klon": "D155",
+      "nama_biasa": "Sri Kaya",
+      "tarikh_daftar": "30.09.87",
+      "tuan_asal_pokok": "",
+      "alamat": "Kuala Kangsar, Perak"
+    },
+    {
+      "bil": 80,
+      "klon": "D156",
+      "nama_biasa": "Kampung Perak",
+      "tarikh_daftar": "30.09.87",
+      "tuan_asal_pokok": "",
+      "alamat": "Batu Kurau, Perak"
+    },
+    {
+      "bil": 81,
+      "klon": "D157",
+      "nama_biasa": "Seberang",
+      "tarikh_daftar": "30.09.87",
+      "tuan_asal_pokok": "",
+      "alamat": "Gopeng , Perak"
+    },
+    {
+      "bil": 82,
+      "klon": "D158",
+      "nama_biasa": "Kan Yau/Tangkai Panjang",
+      "tarikh_daftar": "30.06.87",
+      "tuan_asal_pokok": "Hj. Omar Hj. Bin",
+      "alamat": "Guar Cempedak , Kedah"
+    },
+    {
+      "bil": 83,
+      "klon": "D159",
+      "nama_biasa": "Mon Thong/Bantal Mas",
+      "tarikh_daftar": "30.06.87",
+      "tuan_asal_pokok": "Hj. Ahmad Yaakob",
+      "alamat": "Kota Sarang Semut , Kedah"
+    },
+    {
+      "bil": 84,
+      "klon": "D160",
+      "nama_biasa": "Buluh Bawah/Tekka/Musang Queen",
+      "tarikh_daftar": "30.06.87",
+      "tuan_asal_pokok": "Lim Hai Chua",
+      "alamat": "Banting, Selangor"
+    },
+    {
+      "bil": 85,
+      "klon": "D161",
+      "nama_biasa": "Merah",
+      "tarikh_daftar": "30.06.87",
+      "tuan_asal_pokok": "Lim Hai Chua",
+      "alamat": "Banting, Selangor"
+    },
+    {
+      "bil": 86,
+      "klon": "D162",
+      "nama_biasa": "Tawa",
+      "tarikh_daftar": "30.06.87",
+      "tuan_asal_pokok": "Lim Hai Chua",
+      "alamat": "Banting, Selangor"
+    },
+    {
+      "bil": 87,
+      "klon": "D163",
+      "nama_biasa": "Hlor/Labu",
+      "tarikh_daftar": "30.06.87",
+      "tuan_asal_pokok": "Chan Fatt Hin",
+      "alamat": "Balik Pulau, Pulau Pinang"
+    },
+    {
+      "bil": 88,
+      "klon": "D164",
+      "nama_biasa": "Ang Bak/Isi Merah",
+      "tarikh_daftar": "30.06.87",
+      "tuan_asal_pokok": "Teoh Eng Eng",
+      "alamat": "Balik Pulau, Pulau Pinang"
+    },
+    {
+      "bil": 89,
+      "klon": "D165",
+      "nama_biasa": "Cheh Chee",
+      "tarikh_daftar": "30.06.87",
+      "tuan_asal_pokok": "Lee Toh Sem",
+      "alamat": "Balik Pulau, Pulau Pinang"
+    },
+    {
+      "bil": 90,
+      "klon": "D166",
+      "nama_biasa": "Balik Pulau 604",
+      "tarikh_daftar": "30.06.87",
+      "tuan_asal_pokok": "Lee Toh Sem",
+      "alamat": "Balik Pulau, Pulau Pinang"
+    },
+    {
+      "bil": 91,
+      "klon": "D167",
+      "nama_biasa": "Buaya",
+      "tarikh_daftar": "30.06.87",
+      "tuan_asal_pokok": "Yap",
+      "alamat": "Kuala Langat , Selangor"
+    },
+    {
+      "bil": 92,
+      "klon": "D168",
+      "nama_biasa": "Durian Mas Muar/Hjh. Hasmah/ioi",
+      "tarikh_daftar": "24.05.89",
+      "tuan_asal_pokok": "Hjh. Hasmah, Hj. Hashim",
+      "alamat": "Muar , Johor"
+    },
+    {
+      "bil": 93,
+      "klon": "D169",
+      "nama_biasa": "Tok Li Tok",
+      "tarikh_daftar": "00.05.89",
+      "tuan_asal_pokok": "Wee Chong Beng",
+      "alamat": "Tanah Merah , Kelantan"
+    },
+    {
+      "bil": 94,
+      "klon": "D170",
+      "nama_biasa": "Kepala Babi",
+      "tarikh_daftar": "05.06.89",
+      "tuan_asal_pokok": "",
+      "alamat": "Biawak , Sarawak"
+    },
+    {
+      "bil": 95,
+      "klon": "D171",
+      "nama_biasa": "Durian Sungai Sut",
+      "tarikh_daftar": "05.06.89",
+      "tuan_asal_pokok": "",
+      "alamat": "Kapit , Sarawak"
+    },
+    {
+      "bil": 96,
+      "klon": "D172",
+      "nama_biasa": "Durian Botak",
+      "tarikh_daftar": "17.06.89",
+      "tuan_asal_pokok": "",
+      "alamat": "Tangkak , Johor"
+    },
+    {
+      "bil": 97,
+      "klon": "D173",
+      "nama_biasa": "Durian Siew",
+      "tarikh_daftar": "21.07.89",
+      "tuan_asal_pokok": "",
+      "alamat": "Mantin , Negeri Sembilan"
+    },
+    {
+      "bil": 98,
+      "klon": "D174",
+      "nama_biasa": "Durian Hj. Sani",
+      "tarikh_daftar": "08.01.90",
+      "tuan_asal_pokok": "Hj. Sani Mohd Jail",
+      "alamat": "Semenyih , Selangor"
+    },
+    {
+      "bil": 99,
+      "klon": "D175",
+      "nama_biasa": "Udang Merah",
+      "tarikh_daftar": "04.06.90",
+      "tuan_asal_pokok": "Ahmad Sayuti Bin Mohd Yusof (Yuh Hensem)",
+      "alamat": "Pulau Pinang"
+    },
+    {
+      "bil": 100,
+      "klon": "D176",
+      "nama_biasa": "Durian Kuning",
+      "tarikh_daftar": "04.06.90",
+      "tuan_asal_pokok": "Abdullah Husin Rani",
+      "alamat": "Maran , Pahang"
+    },
+    {
+      "bil": 101,
+      "klon": "D177",
+      "nama_biasa": "Juara 90 Penang",
+      "tarikh_daftar": "04.06.90",
+      "tuan_asal_pokok": "Lee Tek Hin",
+      "alamat": "Balik Pulau, Pulau Pinang"
+    },
+    {
+      "bil": 102,
+      "klon": "D178",
+      "nama_biasa": "Penang 88",
+      "tarikh_daftar": "04.06.90",
+      "tuan_asal_pokok": "Teh Han Seng",
+      "alamat": "Balik Pulau, Pulau Pinang"
+    },
+    {
+      "bil": 103,
+      "klon": "D179",
+      "nama_biasa": "Penang 99",
+      "tarikh_daftar": "04.06.90",
+      "tuan_asal_pokok": "Teh Han Seng",
+      "alamat": "Balik Pulau, Pulau Pinang"
+    },
+    {
+      "bil": 104,
+      "klon": "D180",
+      "nama_biasa": "Penang Bintang",
+      "tarikh_daftar": "03.08.90",
+      "tuan_asal_pokok": "Lee Tek Hin",
+      "alamat": "Balik Pulau, Pulau Pinang"
+    },
+    {
+      "bil": 105,
+      "klon": "D181",
+      "nama_biasa": "Ghani",
+      "tarikh_daftar": "04.09.90",
+      "tuan_asal_pokok": "Semaian Jamaludin",
+      "alamat": "Guar Cempedak, Kedah"
+    },
+    {
+      "bil": 106,
+      "klon": "D182",
+      "nama_biasa": "Duri Panjang/Asmy Yuh",
+      "tarikh_daftar": "04.10.90",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Serdang, Selangor"
+    },
+    {
+      "bil": 107,
+      "klon": "D183",
+      "nama_biasa": "Kop Besar",
+      "tarikh_daftar": "09.07.91",
+      "tuan_asal_pokok": "Hj. Ahmad",
+      "alamat": "Kota Sarang Semut, Kedah"
+    },
+    {
+      "bil": 108,
+      "klon": "D184",
+      "nama_biasa": "Titi Kerawang",
+      "tarikh_daftar": "08.06.91",
+      "tuan_asal_pokok": "Chengg Fat Hin",
+      "alamat": "Balik Pulau, Pulau Pinang"
+    },
+    {
+      "bil": 109,
+      "klon": "D185",
+      "nama_biasa": "Pikat",
+      "tarikh_daftar": "05.08.91",
+      "tuan_asal_pokok": "Alias Salleh",
+      "alamat": "Kijal , Terengganu"
+    },
+    {
+      "bil": 110,
+      "klon": "D186",
+      "nama_biasa": "Nasi Kunyit Terengganu",
+      "tarikh_daftar": "05.08.91",
+      "tuan_asal_pokok": "Hj. Abd. Razak Abu Bakar",
+      "alamat": "Kijal, Terenggau"
+    },
+    {
+      "bil": 111,
+      "klon": "D187",
+      "nama_biasa": "Saddam",
+      "tarikh_daftar": "18.08.91",
+      "tuan_asal_pokok": "Hj. Hassan M. Noah",
+      "alamat": "Segamat , Johor"
+    },
+    {
+      "bil": 112,
+      "klon": "D188",
+      "nama_biasa": "M.DUR 78",
+      "tarikh_daftar": "30.08.91",
+      "tuan_asal_pokok": "MARDI",
+      "alamat": "Jeranggau , Terengganu"
+    },
+    {
+      "bil": 113,
+      "klon": "D189",
+      "nama_biasa": "M.DUR 79",
+      "tarikh_daftar": "30.08.91",
+      "tuan_asal_pokok": "MARDI",
+      "alamat": "Jeranggau, Terengganu"
+    },
+    {
+      "bil": 114,
+      "klon": "D190",
+      "nama_biasa": "M.DUR 88",
+      "tarikh_daftar": "01.07.92",
+      "tuan_asal_pokok": "MARDI",
+      "alamat": "Jerenggau, Terengganu"
+    },
+    {
+      "bil": 115,
+      "klon": "D191",
+      "nama_biasa": "PK. 110",
+      "tarikh_daftar": "02.07.92",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Serdang, Selangor"
+    },
+    {
+      "bil": 116,
+      "klon": "D192",
+      "nama_biasa": "PK. 285",
+      "tarikh_daftar": "03.08.92",
+      "tuan_asal_pokok": "Jabatan Pertanian",
+      "alamat": "Serdang, Selangor"
+    },
+    {
+      "bil": 117,
+      "klon": "D193",
+      "nama_biasa": "Jurong 3",
+      "tarikh_daftar": "07.09.92",
+      "tuan_asal_pokok": "Yaakob Baru",
+      "alamat": "Slim River , Perak"
+    },
+    {
+      "bil": 118,
+      "klon": "D194",
+      "nama_biasa": "Gabai",
+      "tarikh_daftar": "14.06.93",
+      "tuan_asal_pokok": "Lee Chong Kooh",
+      "alamat": "Sepang , Selangor"
+    },
+    {
+      "bil": 119,
+      "klon": "D195",
+      "nama_biasa": "Raja Hutan",
+      "tarikh_daftar": "26.06.93",
+      "tuan_asal_pokok": "Lee You Fong",
+      "alamat": "Semenyih, Selangor"
+    },
+    {
+      "bil": 120,
+      "klon": "D196",
+      "nama_biasa": "Simpang Permata",
+      "tarikh_daftar": "26.07.93",
+      "tuan_asal_pokok": "Md. Nor Ibrahim",
+      "alamat": "Alor Gajah , Melaka"
+    },
+    {
+      "bil": 121,
+      "klon": "D197",
+      "nama_biasa": "Raja Kunyit/Musang King",
+      "tarikh_daftar": "09.12.93",
+      "tuan_asal_pokok": "Wee Chong beng",
+      "alamat": "Tanah Merah , Kelantan"
+    },
+    {
+      "bil": 122,
+      "klon": "D198",
+      "nama_biasa": "Kim Hong/Golden Phoenix",
+      "tarikh_daftar": "00.03.13",
+      "tuan_asal_pokok": "Tan Seu Seng",
+      "alamat": "Batu Pahat , Johor"
+    },
+    {
+      "bil": 123,
+      "klon": "D199",
+      "nama_biasa": "Bola 828",
+      "tarikh_daftar": "00.03.13",
+      "tuan_asal_pokok": "Tan Eng Kong",
+      "alamat": "Batu Pahat, Johor"
+    },
+    {
+      "bil": 124,
+      "klon": "D200",
+      "nama_biasa": "Ochee/Duri Hitam",
+      "tarikh_daftar": "00.00.16",
+      "tuan_asal_pokok": "Dato' Leow Cheok Kiang",
+      "alamat": "Seberang Perai Selatan , Pulau Pinang"
+    },
+    {
+      "bil": 125,
+      "klon": "D201",
+      "nama_biasa": "Kim Luang",
+      "tarikh_daftar": "0",
+      "tuan_asal_pokok": "",
+      "alamat": "0"
+    },
+    {
+      "bil": 126,
+      "klon": "D202",
+      "nama_biasa": "Apian",
+      "tarikh_daftar": "1.8.2016",
+      "tuan_asal_pokok": "Lee Kwee Thye",
+      "alamat": "Segamat, Johor"
+    },
+    {
+      "bil": 127,
+      "klon": "D203",
+      "nama_biasa": "Kappai",
+      "tarikh_daftar": "01.08.16",
+      "tuan_asal_pokok": "Shiu Sin Fook",
+      "alamat": "Segamat, Johor"
+    },
+    {
+      "bil": 128,
+      "klon": "D204",
+      "nama_biasa": "Bintang",
+      "tarikh_daftar": "20.03.17",
+      "tuan_asal_pokok": "En. Ng Chor Hong",
+      "alamat": "Simpang Renggam , Johor"
+    },
+    {
+      "bil": 129,
+      "klon": "D205",
+      "nama_biasa": "Durian Lipur",
+      "tarikh_daftar": "21.07.18",
+      "tuan_asal_pokok": "Tan Kok Cheng",
+      "alamat": "Batu Pahat, Johor"
+    },
+    {
+      "bil": 130,
+      "klon": "D206",
+      "nama_biasa": "Tok Merah",
+      "tarikh_daftar": "18.03.19",
+      "tuan_asal_pokok": "Sharuddin Bin Hussein",
+      "alamat": "Segamat, Johor"
+    },
+    {
+      "bil": 131,
+      "klon": "D207",
+      "nama_biasa": "Jantung",
+      "tarikh_daftar": "18.03.19",
+      "tuan_asal_pokok": "Hashim Bin Jaffar",
+      "alamat": "Segamat, Johor"
+    },
+    {
+      "bil": 132,
+      "klon": "D208",
+      "nama_biasa": "Kang Hai",
+      "tarikh_daftar": "18.03.19",
+      "tuan_asal_pokok": "Samsari bin Ahmad",
+      "alamat": "Segamat, Johor"
+    },
+    {
+      "bil": 133,
+      "klon": "D209",
+      "nama_biasa": "Tepi Sungai",
+      "tarikh_daftar": "30.04.20",
+      "tuan_asal_pokok": "Gooi Leong Kian",
+      "alamat": "Mentakab , Pahang"
+    },
+    {
+      "bil": 134,
+      "klon": "D210",
+      "nama_biasa": "Pak Awang V22",
+      "tarikh_daftar": "30.04.20",
+      "tuan_asal_pokok": "Pejabat Pertanian Jajahan Kuala Krai",
+      "alamat": "Kuala Krai , Kelantan"
+    },
+    {
+      "bil": 135,
+      "klon": "D211",
+      "nama_biasa": "Kuala Paya Merah P089",
+      "tarikh_daftar": "30.04.20",
+      "tuan_asal_pokok": "Lim Thiam Kiong",
+      "alamat": "Segamat, Johor"
+    },
+    {
+      "bil": 136,
+      "klon": "D212",
+      "nama_biasa": "S17",
+      "tarikh_daftar": "28.01.21",
+      "tuan_asal_pokok": "Siau Sew Kim",
+      "alamat": "Bekok, Johor"
+    },
+    {
+      "bil": 137,
+      "klon": "D213",
+      "nama_biasa": "TUNGKU 3",
+      "tarikh_daftar": "28.01.21",
+      "tuan_asal_pokok": "Mohamad Ibrahim bin Mat Zin",
+      "alamat": "Segamat, Johor"
+    },
+    {
+      "bil": 138,
+      "klon": "D214",
+      "nama_biasa": "TUPAI 226/Tupai King",
+      "tarikh_daftar": "28.01.21",
+      "tuan_asal_pokok": "Chew Chee Wan",
+      "alamat": "Sungai Ara , Pulau Pinang"
+    },
+    {
+      "bil": 139,
+      "klon": "D215",
+      "nama_biasa": "WM",
+      "tarikh_daftar": "28.01.21",
+      "tuan_asal_pokok": "Wong Cheong Keng",
+      "alamat": "Jempol , Negeri Sembilan"
+    },
+    {
+      "bil": 140,
+      "klon": "D219",
+      "nama_biasa": "Mata Merah",
+      "tarikh_daftar": "01.05.21",
+      "tuan_asal_pokok": "Chew Teck Hua",
+      "alamat": "Balik Pulau, Pulau Pinang"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Klon Durian Berdaftar - Muat turun percuma",
+    "description": "Klon durian yang didaftarkan di Malaysia (D1 dan seterusnya) dengan nama biasa, tarikh daftar, tuan asal pokok dan lokasi. Mengandungi 140 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Klon Durian Berdaftar | ListBase",
+    "seo_description": "Muat turun Senarai Klon Durian Berdaftar — 140 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 140 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_kultivar_durian"
+    ]
+  }
+}

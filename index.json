@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:00.270Z",
-  "total_datasets": 646,
-  "total_records": 526724,
+  "generated": "2026-10-27T02:39:03.379Z",
+  "total_datasets": 647,
+  "total_records": 526864,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -98,6 +98,33 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ms-klon-durian-berdaftar",
+      "name": "Senarai Klon Durian Berdaftar",
+      "category": "agriculture",
+      "record_count": 140,
+      "columns": [
+        "bil",
+        "klon",
+        "nama_biasa",
+        "tarikh_daftar",
+        "tuan_asal_pokok",
+        "alamat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kultivar_durian",
+      "updated": "2026-10",
+      "size": 29459,
+      "files": {
+        "csv": {
+          "name": "ms-klon-durian-berdaftar_MS.csv",
+          "size": 10015
+        },
+        "xlsx": {
+          "name": "ms-klon-durian-berdaftar_MS.xlsx",
+          "size": 13869
+        }
+      }
+    },
     {
       "id": "ms-tanaman-negeri",
       "name": "Keluasan dan Pengeluaran Tanaman mengikut Negeri (2014–2024)",
