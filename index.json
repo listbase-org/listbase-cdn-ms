@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:14.137Z",
-  "total_datasets": 651,
-  "total_records": 526944,
+  "generated": "2026-10-27T02:39:16.765Z",
+  "total_datasets": 652,
+  "total_records": 526966,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -122,6 +122,32 @@
         "xlsx": {
           "name": "ms-klon-durian-berdaftar_MS.xlsx",
           "size": 13869
+        }
+      }
+    },
+    {
+      "id": "ms-menteri-pertanian",
+      "name": "Senarai Menteri Pertanian Malaysia",
+      "category": "agriculture",
+      "record_count": 22,
+      "columns": [
+        "nama",
+        "parti",
+        "gelaran_jawatan",
+        "tempoh_perkhidmatan",
+        "perdana_menteri_kabinet"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Menteri_Pertanian_dan_Keterjaminan_Makanan_Malaysia",
+      "updated": "2026-10",
+      "size": 7934,
+      "files": {
+        "csv": {
+          "name": "ms-menteri-pertanian_MS.csv",
+          "size": 3245
+        },
+        "xlsx": {
+          "name": "ms-menteri-pertanian_MS.xlsx",
+          "size": 8198
         }
       }
     },

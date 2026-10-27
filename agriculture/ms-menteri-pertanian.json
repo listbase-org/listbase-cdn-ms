@@ -1,0 +1,205 @@
+{
+  "id": "ms-menteri-pertanian",
+  "name": "Senarai Menteri Pertanian Malaysia",
+  "title": "Senarai Menteri Pertanian Malaysia",
+  "description": "Menteri yang bertanggungjawab bagi pertanian (kini Pertanian dan Keterjaminan Makanan) sejak 1955 dengan parti, gelaran jawatan, tempoh dan kabinet.",
+  "category": "agriculture",
+  "source": "https://ms.wikipedia.org/wiki/Menteri_Pertanian_dan_Keterjaminan_Makanan_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Menteri_Pertanian_dan_Keterjaminan_Makanan_Malaysia",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "gelaran_jawatan",
+      "label": "Gelaran Jawatan",
+      "type": "string"
+    },
+    {
+      "key": "tempoh_perkhidmatan",
+      "label": "Tempoh Perkhidmatan",
+      "type": "string"
+    },
+    {
+      "key": "perdana_menteri_kabinet",
+      "label": "Perdana Menteri Kabinet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Abdul Aziz bin Ishak AP Kuala Langat",
+      "parti": "Perikatan ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian Menteri Pertanian dan Koperasi",
+      "tempoh_perkhidmatan": "1955 - 1962",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (I · II)"
+    },
+    {
+      "nama": "Tan Sri Dato' Paduka Mohamed Khir Johari AP Kedah Tengah",
+      "parti": "Perikatan ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian dan Koperasi",
+      "tempoh_perkhidmatan": "1963 - 1965",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (II · III)"
+    },
+    {
+      "nama": "Tan Sri Mohamed Ghazali Jawi AP Ulu Perak AP Kuala Kangsar",
+      "parti": "Perikatan ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian dan Koperasi",
+      "tempoh_perkhidmatan": "1966 - 1973",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (III) Abdul Razak Hussein (I)"
+    },
+    {
+      "nama": "Tan Sri Mohamed Ghazali Jawi AP Kuala Kangsar",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian dan Perikanan",
+      "tempoh_perkhidmatan": "1973 - 1974",
+      "perdana_menteri_kabinet": "Abdul Razak Hussein (I)"
+    },
+    {
+      "nama": "Tun Abdul Ghafar Baba AP Alor Gajah",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian dan Pembangunan Luar Bandar",
+      "tempoh_perkhidmatan": "1974 - 1976",
+      "perdana_menteri_kabinet": "Abdul Razak Hussein (II)"
+    },
+    {
+      "nama": "Dato' Ali Haji Ahmad AP Pontian",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian dan Pembangunan Luar Bandar",
+      "tempoh_perkhidmatan": "1976 - 1977",
+      "perdana_menteri_kabinet": "Hussein Onn (I)"
+    },
+    {
+      "nama": "Dato' Shariff Ahmad AP Jerantut",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian",
+      "tempoh_perkhidmatan": "1978 - 1980",
+      "perdana_menteri_kabinet": "Hussein Onn (II)"
+    },
+    {
+      "nama": "Dato Abdul Manan Othman AP Kuala Trengganu",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian",
+      "tempoh_perkhidmatan": "1980 - 1984",
+      "perdana_menteri_kabinet": "Hussein Onn (II) Mahathir Mohamad (I · II)"
+    },
+    {
+      "nama": "Dato' Seri Anwar Ibrahim AP Permatang Pauh",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian",
+      "tempoh_perkhidmatan": "1984 - 1986",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (II)"
+    },
+    {
+      "nama": "Tan Sri Dato' Seri Sanusi Junid AP Jerlun-Langkawi",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian",
+      "tempoh_perkhidmatan": "1986 - 1995",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (III · IV)"
+    },
+    {
+      "nama": "Tan Sri Datuk Amar Dr. Sulaiman Daud AP Petra Jaya",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian",
+      "tempoh_perkhidmatan": "1995 - 1999",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (V)"
+    },
+    {
+      "nama": "Tan Sri Dr. Mohd Effendi Norwawi AP Kuala Rajang",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian",
+      "tempoh_perkhidmatan": "Disember 1999 - Januari 2004",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (VI) Abdullah Ahmad Badawi (I)"
+    },
+    {
+      "nama": "Tan Sri Muhyiddin Yassin AP Pagoh",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian dan Industri Asas Tani",
+      "tempoh_perkhidmatan": "27 Mac 2004 - 18 Mac 2008",
+      "perdana_menteri_kabinet": "Abdullah Ahmad Badawi (II)"
+    },
+    {
+      "nama": "Dato' Sri Mustapa Mohamed AP Jeli",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian dan Industri Asas Tani",
+      "tempoh_perkhidmatan": "19 Mac 2008 - 9 April 2009",
+      "perdana_menteri_kabinet": "Abdullah Ahmad Badawi (III)"
+    },
+    {
+      "nama": "Tan Sri Noh Omar AP Tanjong Karang",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian dan Industri Asas Tani",
+      "tempoh_perkhidmatan": "10 April 2009 - 15 Mei 2013",
+      "perdana_menteri_kabinet": "Najib Razak (I)"
+    },
+    {
+      "nama": "Dato' Sri Ismail Sabri Yaakob AP Bera",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian dan Industri Asas Tani",
+      "tempoh_perkhidmatan": "16 Mei 2013 - 29 Julai 2015",
+      "perdana_menteri_kabinet": "Najib Razak (II)"
+    },
+    {
+      "nama": "Dato' Sri Ahmad Shabery Cheek AP Kemaman",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian dan Industri Asas Tani",
+      "tempoh_perkhidmatan": "29 Julai 2015 - 10 Mei 2018",
+      "perdana_menteri_kabinet": "Najib Razak (II)"
+    },
+    {
+      "nama": "Datuk Seri Salahuddin Ayub AP Pulai",
+      "parti": "PH ( AMANAH )",
+      "gelaran_jawatan": "Menteri Pertanian dan Industri Asas Tani",
+      "tempoh_perkhidmatan": "21 Mei 2018 - 24 Februari 2020",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (VII)"
+    },
+    {
+      "nama": "Datuk Seri Dr. Ronald Kiandee AP Beluran",
+      "parti": "PN ( PPBM )",
+      "gelaran_jawatan": "Menteri Pertanian dan Industri Makanan",
+      "tempoh_perkhidmatan": "10 Mac 2020 - 16 Ogos 2021",
+      "perdana_menteri_kabinet": "Muhyiddin Yassin (I)"
+    },
+    {
+      "nama": "Datuk Seri Mohamad Sabu AP Kota Raja",
+      "parti": "PH ( AMANAH )",
+      "gelaran_jawatan": "Menteri Pertanian dan Keterjaminan Makanan",
+      "tempoh_perkhidmatan": "3 Disember 2022 - kini",
+      "perdana_menteri_kabinet": "Anwar Ibrahim (I)"
+    },
+    {
+      "nama": "Dato Sri Ismail Sabri Yaakob AP Bera",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian dan Industri Asas Tani",
+      "tempoh_perkhidmatan": "16 Mei 2013 - 29 Julai 2015",
+      "perdana_menteri_kabinet": "Najib Razak (II)"
+    },
+    {
+      "nama": "Dato Sri Ahmad Shabery Cheek AP Kemaman",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Pertanian dan Industri Asas Tani",
+      "tempoh_perkhidmatan": "29 Julai 2015 - 10 Mei 2018",
+      "perdana_menteri_kabinet": "Najib Razak (II)"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Menteri Pertanian Malaysia - Muat turun percuma",
+    "description": "Menteri yang bertanggungjawab bagi pertanian (kini Pertanian dan Keterjaminan Makanan) sejak 1955 dengan parti, gelaran jawatan, tempoh dan kabinet. Mengandungi 22 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Menteri Pertanian Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Menteri Pertanian Malaysia — 22 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 22 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Menteri_Pertanian_dan_Keterjaminan_Makanan_Malaysia"
+    ]
+  }
+}
