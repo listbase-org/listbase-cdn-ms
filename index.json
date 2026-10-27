@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:38:54.810Z",
-  "total_datasets": 644,
-  "total_records": 526350,
+  "generated": "2026-10-27T02:38:57.674Z",
+  "total_datasets": 645,
+  "total_records": 526707,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "food",
@@ -3299,6 +3299,55 @@
         "xlsx": {
           "name": "ms-kadar-faedah-bank-perdagangan_MS.xlsx",
           "size": 35777
+        }
+      }
+    },
+    {
+      "id": "ms-kadar-pertukaran-ringgit-bulanan",
+      "name": "Kadar Pertukaran Ringgit Bulanan (Purata)",
+      "category": "finance",
+      "record_count": 357,
+      "columns": [
+        "bulan",
+        "usd",
+        "eur",
+        "gbp",
+        "jpy",
+        "sgd",
+        "cny",
+        "thb",
+        "idr",
+        "hkd",
+        "aud",
+        "chf",
+        "cad",
+        "nzd",
+        "inr",
+        "krw",
+        "php",
+        "twd",
+        "sar",
+        "aed",
+        "bnd",
+        "vnd",
+        "pkr",
+        "npr",
+        "egp",
+        "khr",
+        "mmk",
+        "xdr"
+      ],
+      "source": "https://data.gov.my/data-catalogue/exchangerates",
+      "updated": "2026-10",
+      "size": 212100,
+      "files": {
+        "csv": {
+          "name": "ms-kadar-pertukaran-ringgit-bulanan_MS.csv",
+          "size": 79904
+        },
+        "xlsx": {
+          "name": "ms-kadar-pertukaran-ringgit-bulanan_MS.xlsx",
+          "size": 59213
         }
       }
     },
