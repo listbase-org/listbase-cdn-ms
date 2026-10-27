@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:24.492Z",
-  "total_datasets": 655,
-  "total_records": 527034,
+  "generated": "2026-10-27T02:39:27.068Z",
+  "total_datasets": 656,
+  "total_records": 527068,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "finance",
@@ -3231,6 +3231,35 @@
         "xlsx": {
           "name": "ms-menteri-sumber-asli-alam-sekitar_MS.xlsx",
           "size": 9311
+        }
+      }
+    },
+    {
+      "id": "ms-pelepasan-gas-rumah-hijau",
+      "name": "Pelepasan Gas Rumah Hijau Malaysia mengikut Sumber (1990–2023)",
+      "category": "environment",
+      "record_count": 34,
+      "columns": [
+        "tahun",
+        "total",
+        "energy",
+        "industrial_processes",
+        "agriculture",
+        "waste",
+        "lulucf",
+        "net"
+      ],
+      "source": "https://data.gov.my/data-catalogue/ghg_emissions",
+      "updated": "2026-10",
+      "size": 10029,
+      "files": {
+        "csv": {
+          "name": "ms-pelepasan-gas-rumah-hijau_MS.csv",
+          "size": 2981
+        },
+        "xlsx": {
+          "name": "ms-pelepasan-gas-rumah-hijau_MS.xlsx",
+          "size": 9041
         }
       }
     },

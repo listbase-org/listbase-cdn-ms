@@ -1,0 +1,406 @@
+{
+  "id": "ms-pelepasan-gas-rumah-hijau",
+  "name": "Pelepasan Gas Rumah Hijau Malaysia mengikut Sumber (1990–2023)",
+  "title": "Pelepasan Gas Rumah Hijau Malaysia mengikut Sumber (1990–2023)",
+  "description": "Pelepasan gas rumah hijau tahunan Malaysia (Gg CO2e) mengikut sumber: tenaga, proses industri, pertanian, sisa dan LULUCF, serta jumlah dan pelepasan bersih. Nilai 2022–2023 ialah anggaran.",
+  "category": "environment",
+  "source": "https://data.gov.my/data-catalogue/ghg_emissions",
+  "source_url": "https://data.gov.my/data-catalogue/ghg_emissions",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "total",
+      "label": "Total",
+      "type": "number"
+    },
+    {
+      "key": "energy",
+      "label": "Energy",
+      "type": "number"
+    },
+    {
+      "key": "industrial_processes",
+      "label": "Industrial Processes",
+      "type": "number"
+    },
+    {
+      "key": "agriculture",
+      "label": "Agriculture",
+      "type": "number"
+    },
+    {
+      "key": "waste",
+      "label": "Waste",
+      "type": "number"
+    },
+    {
+      "key": "lulucf",
+      "label": "Lulucf",
+      "type": "number"
+    },
+    {
+      "key": "net",
+      "label": "Net",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 1990,
+      "total": 91720.59,
+      "energy": 67069.67,
+      "industrial_processes": 4428.08,
+      "agriculture": 7816.79,
+      "waste": 12406.05,
+      "lulucf": -204989.86,
+      "net": -113269.27
+    },
+    {
+      "tahun": 1991,
+      "total": 103094.98,
+      "energy": 78142.22,
+      "industrial_processes": 4643,
+      "agriculture": 7716.4,
+      "waste": 12593.36,
+      "lulucf": -191568.8,
+      "net": -88473.82
+    },
+    {
+      "tahun": 1992,
+      "total": 109710.57,
+      "energy": 84568.37,
+      "industrial_processes": 4511.47,
+      "agriculture": 7672.93,
+      "waste": 12957.8,
+      "lulucf": -169168.43,
+      "net": -59457.86
+    },
+    {
+      "tahun": 1993,
+      "total": 114291.88,
+      "energy": 87165.19,
+      "industrial_processes": 4800.47,
+      "agriculture": 8190.44,
+      "waste": 14135.78,
+      "lulucf": -208805.94,
+      "net": -94514.06
+    },
+    {
+      "tahun": 1994,
+      "total": 122579,
+      "energy": 94145.16,
+      "industrial_processes": 5698.58,
+      "agriculture": 8645.15,
+      "waste": 14090.11,
+      "lulucf": -190840.12,
+      "net": -68261.13
+    },
+    {
+      "tahun": 1995,
+      "total": 127471.73,
+      "energy": 98545.69,
+      "industrial_processes": 6176.5,
+      "agriculture": 7903.66,
+      "waste": 14845.87,
+      "lulucf": -212348.04,
+      "net": -84876.31
+    },
+    {
+      "tahun": 1996,
+      "total": 146463.99,
+      "energy": 114820.28,
+      "industrial_processes": 8267.08,
+      "agriculture": 7794.07,
+      "waste": 15582.56,
+      "lulucf": -213178.29,
+      "net": -66714.29
+    },
+    {
+      "tahun": 1997,
+      "total": 168434.92,
+      "energy": 134161.74,
+      "industrial_processes": 9030.94,
+      "agriculture": 8839.23,
+      "waste": 16403.01,
+      "lulucf": -237183.47,
+      "net": -68748.55
+    },
+    {
+      "tahun": 1998,
+      "total": 157158.65,
+      "energy": 123421.05,
+      "industrial_processes": 8737.63,
+      "agriculture": 9230.35,
+      "waste": 15769.62,
+      "lulucf": -213169.07,
+      "net": -56010.43
+    },
+    {
+      "tahun": 1999,
+      "total": 173133.2,
+      "energy": 136734.53,
+      "industrial_processes": 9155.59,
+      "agriculture": 9052.58,
+      "waste": 18190.5,
+      "lulucf": -248801.49,
+      "net": -75668.29
+    },
+    {
+      "tahun": 2000,
+      "total": 189194.82,
+      "energy": 149155.64,
+      "industrial_processes": 12317.88,
+      "agriculture": 9060.75,
+      "waste": 18660.55,
+      "lulucf": -184404.4,
+      "net": 4790.42
+    },
+    {
+      "tahun": 2001,
+      "total": 195840.67,
+      "energy": 155451.1,
+      "industrial_processes": 12466.43,
+      "agriculture": 8145.22,
+      "waste": 19777.92,
+      "lulucf": -227885.41,
+      "net": -32044.74
+    },
+    {
+      "tahun": 2002,
+      "total": 204531.36,
+      "energy": 161786.82,
+      "industrial_processes": 14170.79,
+      "agriculture": 8353.9,
+      "waste": 20219.86,
+      "lulucf": -243200.48,
+      "net": -38669.12
+    },
+    {
+      "tahun": 2003,
+      "total": 220451.83,
+      "energy": 174002.23,
+      "industrial_processes": 15560.56,
+      "agriculture": 8797.46,
+      "waste": 22091.59,
+      "lulucf": -242750.27,
+      "net": -22298.43
+    },
+    {
+      "tahun": 2004,
+      "total": 238390.03,
+      "energy": 189867.02,
+      "industrial_processes": 15806.85,
+      "agriculture": 9539.92,
+      "waste": 23176.24,
+      "lulucf": -231851.49,
+      "net": 6538.53
+    },
+    {
+      "tahun": 2005,
+      "total": 255634.77,
+      "energy": 205425.32,
+      "industrial_processes": 15498.68,
+      "agriculture": 10184.64,
+      "waste": 24526.12,
+      "lulucf": -199547.78,
+      "net": 56086.99
+    },
+    {
+      "tahun": 2006,
+      "total": 254813.65,
+      "energy": 203391.67,
+      "industrial_processes": 16339.27,
+      "agriculture": 9715.46,
+      "waste": 25367.26,
+      "lulucf": -238567.34,
+      "net": 16246.31
+    },
+    {
+      "tahun": 2007,
+      "total": 270767.54,
+      "energy": 218660.96,
+      "industrial_processes": 16418.73,
+      "agriculture": 10620.69,
+      "waste": 25067.16,
+      "lulucf": -189783.48,
+      "net": 80984.06
+    },
+    {
+      "tahun": 2008,
+      "total": 281355.1,
+      "energy": 228328.95,
+      "industrial_processes": 17092.96,
+      "agriculture": 11003.53,
+      "waste": 24929.66,
+      "lulucf": -239539.45,
+      "net": 41815.65
+    },
+    {
+      "tahun": 2009,
+      "total": 270428.6,
+      "energy": 217701.53,
+      "industrial_processes": 17153.15,
+      "agriculture": 9456.43,
+      "waste": 26117.49,
+      "lulucf": -185239.16,
+      "net": 85189.44
+    },
+    {
+      "tahun": 2010,
+      "total": 286112.19,
+      "energy": 234432.69,
+      "industrial_processes": 16536.81,
+      "agriculture": 9742.17,
+      "waste": 25400.53,
+      "lulucf": -189465.38,
+      "net": 96646.81
+    },
+    {
+      "tahun": 2011,
+      "total": 285834.89,
+      "energy": 232710.41,
+      "industrial_processes": 17031.51,
+      "agriculture": 9461.74,
+      "waste": 26631.23,
+      "lulucf": -241515.4,
+      "net": 44319.49
+    },
+    {
+      "tahun": 2012,
+      "total": 304421.3,
+      "energy": 248407,
+      "industrial_processes": 19579.7,
+      "agriculture": 10171.26,
+      "waste": 26263.35,
+      "lulucf": -221056.11,
+      "net": 83365.19
+    },
+    {
+      "tahun": 2013,
+      "total": 309616.64,
+      "energy": 253824.62,
+      "industrial_processes": 19365.38,
+      "agriculture": 9675.91,
+      "waste": 26750.74,
+      "lulucf": -243642.3,
+      "net": 65974.33
+    },
+    {
+      "tahun": 2014,
+      "total": 314200.1,
+      "energy": 257064.66,
+      "industrial_processes": 20036.23,
+      "agriculture": 10116.91,
+      "waste": 26982.3,
+      "lulucf": -224017.27,
+      "net": 90182.83
+    },
+    {
+      "tahun": 2015,
+      "total": 317743.64,
+      "energy": 258764.85,
+      "industrial_processes": 22202.42,
+      "agriculture": 9703.45,
+      "waste": 27072.93,
+      "lulucf": -203963.16,
+      "net": 113780.48
+    },
+    {
+      "tahun": 2016,
+      "total": 318174.08,
+      "energy": 260730.34,
+      "industrial_processes": 23344.98,
+      "agriculture": 9659.95,
+      "waste": 24438.81,
+      "lulucf": -222250.98,
+      "net": 95923.1
+    },
+    {
+      "tahun": 2017,
+      "total": 317345.26,
+      "energy": 259108.33,
+      "industrial_processes": 23566.61,
+      "agriculture": 10180.86,
+      "waste": 24489.46,
+      "lulucf": -236364.83,
+      "net": 80980.43
+    },
+    {
+      "tahun": 2018,
+      "total": 322323.08,
+      "energy": 260611.39,
+      "industrial_processes": 26024.7,
+      "agriculture": 9928.19,
+      "waste": 25758.8,
+      "lulucf": -199992.46,
+      "net": 122330.62
+    },
+    {
+      "tahun": 2019,
+      "total": 332466.62,
+      "energy": 265376.1,
+      "industrial_processes": 32354.58,
+      "agriculture": 9114.35,
+      "waste": 25621.59,
+      "lulucf": -219423.05,
+      "net": 113043.57
+    },
+    {
+      "tahun": 2020,
+      "total": 332663.9,
+      "energy": 263544.42,
+      "industrial_processes": 35272.92,
+      "agriculture": 9026.87,
+      "waste": 24819.69,
+      "lulucf": -247310.94,
+      "net": 85352.96
+    },
+    {
+      "tahun": 2021,
+      "total": 328966.03,
+      "energy": 259657.7,
+      "industrial_processes": 37028.36,
+      "agriculture": 8612.83,
+      "waste": 23667.15,
+      "lulucf": -222432.49,
+      "net": 106533.54
+    },
+    {
+      "tahun": 2022,
+      "total": 357876.74,
+      "energy": 287220.04,
+      "industrial_processes": 38487.18,
+      "agriculture": 8125.31,
+      "waste": 24044.21,
+      "lulucf": "",
+      "net": ""
+    },
+    {
+      "tahun": 2023,
+      "total": 361110.6,
+      "energy": 285678.59,
+      "industrial_processes": 42720.63,
+      "agriculture": 8214.69,
+      "waste": 24496.69,
+      "lulucf": "",
+      "net": ""
+    }
+  ],
+  "meta": {
+    "title": "Pelepasan Gas Rumah Hijau Malaysia mengikut Sumber (1990–2023) - Muat turun percuma",
+    "description": "Pelepasan gas rumah hijau tahunan Malaysia (Gg CO2e) mengikut sumber: tenaga, proses industri, pertanian, sisa dan LULUCF, serta jumlah dan pelepasan bersih. Nilai 2022–2023 ialah anggaran. Mengandungi 34 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelepasan Gas Rumah Hijau Malaysia mengikut Sumber (1990–2023) | ListBase",
+    "seo_description": "Muat turun Pelepasan Gas Rumah Hijau Malaysia mengikut Sumber (1990–2023) — 34 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 34 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/ghg_emissions"
+    ]
+  }
+}
