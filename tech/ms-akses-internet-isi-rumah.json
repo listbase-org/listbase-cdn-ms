@@ -1,0 +1,884 @@
+{
+  "id": "ms-akses-internet-isi-rumah",
+  "name": "Peratus Isi Rumah dengan Akses Internet mengikut Negeri",
+  "title": "Peratus Isi Rumah dengan Akses Internet mengikut Negeri",
+  "description": "Peratusan isi rumah yang mempunyai akses kepada internet mengikut negeri dan strata (keseluruhan, bandar, luar bandar). Sumber: DOSM.",
+  "category": "tech",
+  "source": "https://data.gov.my/data-catalogue/hh_access_internet",
+  "source_url": "https://data.gov.my/data-catalogue/hh_access_internet",
+  "updated": "2026-10",
+  "record_count": 119,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "keseluruhan",
+      "label": "Keseluruhan",
+      "type": "number"
+    },
+    {
+      "key": "bandar",
+      "label": "Bandar",
+      "type": "number"
+    },
+    {
+      "key": "luar_bandar",
+      "label": "Luar Bandar",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 2019,
+      "negeri": "Johor",
+      "keseluruhan": 94.1,
+      "bandar": 95.1,
+      "luar_bandar": 89.9
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kedah",
+      "keseluruhan": 82.6,
+      "bandar": 84.3,
+      "luar_bandar": 77.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kelantan",
+      "keseluruhan": 83.4,
+      "bandar": 86.9,
+      "luar_bandar": 79.5
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Malaysia",
+      "keseluruhan": 89.6,
+      "bandar": 92.1,
+      "luar_bandar": 79.4
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Melaka",
+      "keseluruhan": 88.8,
+      "bandar": 89.1,
+      "luar_bandar": 82.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Negeri Sembilan",
+      "keseluruhan": 90.8,
+      "bandar": 92.5,
+      "luar_bandar": 85.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pahang",
+      "keseluruhan": 85.2,
+      "bandar": 89,
+      "luar_bandar": 78.9
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perak",
+      "keseluruhan": 83,
+      "bandar": 83.9,
+      "luar_bandar": 78.8
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perlis",
+      "keseluruhan": 92.2,
+      "bandar": 93,
+      "luar_bandar": 90.4
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pulau Pinang",
+      "keseluruhan": 90,
+      "bandar": 90,
+      "luar_bandar": 88.4
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sabah",
+      "keseluruhan": 86.2,
+      "bandar": 93.7,
+      "luar_bandar": 73.4
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sarawak",
+      "keseluruhan": 83.4,
+      "bandar": 91.5,
+      "luar_bandar": 70.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Selangor",
+      "keseluruhan": 95.3,
+      "bandar": 95.8,
+      "luar_bandar": 87.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Terengganu",
+      "keseluruhan": 91.2,
+      "bandar": 93.1,
+      "luar_bandar": 87
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Kuala Lumpur",
+      "keseluruhan": 94.6,
+      "bandar": 94.6,
+      "luar_bandar": ""
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Labuan",
+      "keseluruhan": 98,
+      "bandar": 98.3,
+      "luar_bandar": 95.6
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Putrajaya",
+      "keseluruhan": 96.8,
+      "bandar": 96.8,
+      "luar_bandar": ""
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Johor",
+      "keseluruhan": 92.9,
+      "bandar": 93.7,
+      "luar_bandar": 89.5
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kedah",
+      "keseluruhan": 90.8,
+      "bandar": 92.1,
+      "luar_bandar": 86.9
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kelantan",
+      "keseluruhan": 89.3,
+      "bandar": 91.2,
+      "luar_bandar": 87.1
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Malaysia",
+      "keseluruhan": 91,
+      "bandar": 93.4,
+      "luar_bandar": 81.3
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Melaka",
+      "keseluruhan": 93.1,
+      "bandar": 93.2,
+      "luar_bandar": 91.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Negeri Sembilan",
+      "keseluruhan": 93.3,
+      "bandar": 95.8,
+      "luar_bandar": 85
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pahang",
+      "keseluruhan": 86.8,
+      "bandar": 88.7,
+      "luar_bandar": 83.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perak",
+      "keseluruhan": 81.1,
+      "bandar": 82.5,
+      "luar_bandar": 74.5
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perlis",
+      "keseluruhan": 93,
+      "bandar": 94.7,
+      "luar_bandar": 89.2
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pulau Pinang",
+      "keseluruhan": 94.7,
+      "bandar": 94.8,
+      "luar_bandar": 92.3
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sabah",
+      "keseluruhan": 87.1,
+      "bandar": 94,
+      "luar_bandar": 74.8
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sarawak",
+      "keseluruhan": 85.4,
+      "bandar": 95.8,
+      "luar_bandar": 68.5
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Selangor",
+      "keseluruhan": 94.6,
+      "bandar": 94.9,
+      "luar_bandar": 88.9
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Terengganu",
+      "keseluruhan": 90.5,
+      "bandar": 91,
+      "luar_bandar": 89.4
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Kuala Lumpur",
+      "keseluruhan": 98,
+      "bandar": 98,
+      "luar_bandar": ""
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Labuan",
+      "keseluruhan": 98.1,
+      "bandar": 98.1,
+      "luar_bandar": 98.4
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Putrajaya",
+      "keseluruhan": 99.2,
+      "bandar": 99.2,
+      "luar_bandar": ""
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "keseluruhan": 98,
+      "bandar": 98.5,
+      "luar_bandar": 95.7
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "keseluruhan": 95.1,
+      "bandar": 96.3,
+      "luar_bandar": 91.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "keseluruhan": 92.6,
+      "bandar": 94.3,
+      "luar_bandar": 90.6
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Malaysia",
+      "keseluruhan": 94.9,
+      "bandar": 96.8,
+      "luar_bandar": 86.7
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Melaka",
+      "keseluruhan": 95.1,
+      "bandar": 95.3,
+      "luar_bandar": 91.6
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "keseluruhan": 94.4,
+      "bandar": 96.3,
+      "luar_bandar": 87.7
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "keseluruhan": 93.8,
+      "bandar": 94.9,
+      "luar_bandar": 91.7
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "keseluruhan": 89.1,
+      "bandar": 89.4,
+      "luar_bandar": 87.7
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perlis",
+      "keseluruhan": 93.8,
+      "bandar": 95,
+      "luar_bandar": 90.9
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pulau Pinang",
+      "keseluruhan": 97.4,
+      "bandar": 97.4,
+      "luar_bandar": 96.4
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "keseluruhan": 89.4,
+      "bandar": 96,
+      "luar_bandar": 77.2
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "keseluruhan": 89.3,
+      "bandar": 97.4,
+      "luar_bandar": 75.6
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "keseluruhan": 98.4,
+      "bandar": 98.6,
+      "luar_bandar": 96.2
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "keseluruhan": 92.7,
+      "bandar": 94.2,
+      "luar_bandar": 89.3
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Kuala Lumpur",
+      "keseluruhan": 99.8,
+      "bandar": 99.8,
+      "luar_bandar": ""
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Labuan",
+      "keseluruhan": 99.9,
+      "bandar": 100,
+      "luar_bandar": 99.3
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Putrajaya",
+      "keseluruhan": 100,
+      "bandar": 100,
+      "luar_bandar": ""
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "keseluruhan": 98.5,
+      "bandar": 98.9,
+      "luar_bandar": 97.3
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "keseluruhan": 95.8,
+      "bandar": 97.2,
+      "luar_bandar": 92.8
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "keseluruhan": 93.9,
+      "bandar": 95.2,
+      "luar_bandar": 92.9
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Malaysia",
+      "keseluruhan": 96,
+      "bandar": 98.1,
+      "luar_bandar": 89.1
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Melaka",
+      "keseluruhan": 96.2,
+      "bandar": 96.4,
+      "luar_bandar": 94.2
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "keseluruhan": 95.9,
+      "bandar": 98.2,
+      "luar_bandar": 90.1
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "keseluruhan": 94.9,
+      "bandar": 95.8,
+      "luar_bandar": 94
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "keseluruhan": 94.4,
+      "bandar": 95.9,
+      "luar_bandar": 90.3
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perlis",
+      "keseluruhan": 94.6,
+      "bandar": 97.3,
+      "luar_bandar": 91.4
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pulau Pinang",
+      "keseluruhan": 99.2,
+      "bandar": 99.3,
+      "luar_bandar": 96.9
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sabah",
+      "keseluruhan": 89.6,
+      "bandar": 97.1,
+      "luar_bandar": 80.6
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "keseluruhan": 89.8,
+      "bandar": 97.9,
+      "luar_bandar": 79.1
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "keseluruhan": 99,
+      "bandar": 99.1,
+      "luar_bandar": 96.3
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "keseluruhan": 93.9,
+      "bandar": 95,
+      "luar_bandar": 92.1
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Kuala Lumpur",
+      "keseluruhan": 99.8,
+      "bandar": 99.8,
+      "luar_bandar": ""
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Labuan",
+      "keseluruhan": 99.7,
+      "bandar": 100,
+      "luar_bandar": 96.8
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Putrajaya",
+      "keseluruhan": 100,
+      "bandar": 100,
+      "luar_bandar": ""
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Johor",
+      "keseluruhan": 98.8,
+      "bandar": 99.1,
+      "luar_bandar": 97.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kedah",
+      "keseluruhan": 95.9,
+      "bandar": 97.3,
+      "luar_bandar": 93
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kelantan",
+      "keseluruhan": 94.6,
+      "bandar": 95.8,
+      "luar_bandar": 93.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Malaysia",
+      "keseluruhan": 96.4,
+      "bandar": 98.4,
+      "luar_bandar": 89.8
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Melaka",
+      "keseluruhan": 96.3,
+      "bandar": 96.5,
+      "luar_bandar": 94.3
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Negeri Sembilan",
+      "keseluruhan": 96,
+      "bandar": 98.3,
+      "luar_bandar": 90.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pahang",
+      "keseluruhan": 95.4,
+      "bandar": 96.4,
+      "luar_bandar": 94.2
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perak",
+      "keseluruhan": 95,
+      "bandar": 96.4,
+      "luar_bandar": 91.2
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perlis",
+      "keseluruhan": 95.6,
+      "bandar": 98.3,
+      "luar_bandar": 92.3
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pulau Pinang",
+      "keseluruhan": 99.3,
+      "bandar": 99.3,
+      "luar_bandar": 99.1
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sabah",
+      "keseluruhan": 90.4,
+      "bandar": 97.9,
+      "luar_bandar": 81.3
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sarawak",
+      "keseluruhan": 90.6,
+      "bandar": 98.4,
+      "luar_bandar": 79.9
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Selangor",
+      "keseluruhan": 99.2,
+      "bandar": 99.3,
+      "luar_bandar": 97.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Terengganu",
+      "keseluruhan": 94.6,
+      "bandar": 95.7,
+      "luar_bandar": 92.7
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Kuala Lumpur",
+      "keseluruhan": 99.8,
+      "bandar": 99.8,
+      "luar_bandar": ""
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Labuan",
+      "keseluruhan": 99.7,
+      "bandar": 100,
+      "luar_bandar": 96.8
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Putrajaya",
+      "keseluruhan": 100,
+      "bandar": 100,
+      "luar_bandar": ""
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Johor",
+      "keseluruhan": 99,
+      "bandar": 99.3,
+      "luar_bandar": 97.9
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kedah",
+      "keseluruhan": 96.4,
+      "bandar": 97.8,
+      "luar_bandar": 93.5
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kelantan",
+      "keseluruhan": 94.9,
+      "bandar": 96,
+      "luar_bandar": 94.1
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Malaysia",
+      "keseluruhan": 96.8,
+      "bandar": 98.8,
+      "luar_bandar": 90.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Melaka",
+      "keseluruhan": 96.8,
+      "bandar": 97,
+      "luar_bandar": 94.6
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Negeri Sembilan",
+      "keseluruhan": 96.4,
+      "bandar": 98.7,
+      "luar_bandar": 90.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pahang",
+      "keseluruhan": 95.8,
+      "bandar": 96.7,
+      "luar_bandar": 94.7
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perak",
+      "keseluruhan": 95.6,
+      "bandar": 97,
+      "luar_bandar": 91.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perlis",
+      "keseluruhan": 96.2,
+      "bandar": 98.8,
+      "luar_bandar": 92.9
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pulau Pinang",
+      "keseluruhan": 99.7,
+      "bandar": 99.7,
+      "luar_bandar": 99.1
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sabah",
+      "keseluruhan": 91,
+      "bandar": 98.2,
+      "luar_bandar": 82.1
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sarawak",
+      "keseluruhan": 91.1,
+      "bandar": 98.9,
+      "luar_bandar": 80.4
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Selangor",
+      "keseluruhan": 99.5,
+      "bandar": 99.6,
+      "luar_bandar": 97.7
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Terengganu",
+      "keseluruhan": 95.2,
+      "bandar": 96.3,
+      "luar_bandar": 93.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Kuala Lumpur",
+      "keseluruhan": 100,
+      "bandar": 100,
+      "luar_bandar": ""
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Labuan",
+      "keseluruhan": 99.7,
+      "bandar": 100,
+      "luar_bandar": 96.9
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Putrajaya",
+      "keseluruhan": 100,
+      "bandar": 100,
+      "luar_bandar": ""
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Johor",
+      "keseluruhan": 99,
+      "bandar": 99.3,
+      "luar_bandar": 98
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kedah",
+      "keseluruhan": 96.7,
+      "bandar": 98.1,
+      "luar_bandar": 93.8
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kelantan",
+      "keseluruhan": 95.4,
+      "bandar": 96.3,
+      "luar_bandar": 94.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Malaysia",
+      "keseluruhan": 97.1,
+      "bandar": 99,
+      "luar_bandar": 90.7
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Melaka",
+      "keseluruhan": 97.3,
+      "bandar": 97.5,
+      "luar_bandar": 95.1
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Negeri Sembilan",
+      "keseluruhan": 97,
+      "bandar": 99.2,
+      "luar_bandar": 91.3
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pahang",
+      "keseluruhan": 96.1,
+      "bandar": 97,
+      "luar_bandar": 95
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Perak",
+      "keseluruhan": 96.1,
+      "bandar": 97.5,
+      "luar_bandar": 92.3
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Perlis",
+      "keseluruhan": 96.9,
+      "bandar": 99.4,
+      "luar_bandar": 93.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pulau Pinang",
+      "keseluruhan": 99.7,
+      "bandar": 99.7,
+      "luar_bandar": 99.1
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sabah",
+      "keseluruhan": 91.6,
+      "bandar": 98.8,
+      "luar_bandar": 82.6
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sarawak",
+      "keseluruhan": 91.7,
+      "bandar": 99.5,
+      "luar_bandar": 81.1
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Selangor",
+      "keseluruhan": 99.6,
+      "bandar": 99.6,
+      "luar_bandar": 97.8
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Terengganu",
+      "keseluruhan": 95.4,
+      "bandar": 96.5,
+      "luar_bandar": 93.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Kuala Lumpur",
+      "keseluruhan": 100,
+      "bandar": 100,
+      "luar_bandar": ""
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Labuan",
+      "keseluruhan": 99.8,
+      "bandar": 100,
+      "luar_bandar": 97.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Putrajaya",
+      "keseluruhan": 100,
+      "bandar": 100,
+      "luar_bandar": ""
+    }
+  ],
+  "meta": {
+    "title": "Peratus Isi Rumah dengan Akses Internet mengikut Negeri - Muat turun percuma",
+    "description": "Peratusan isi rumah yang mempunyai akses kepada internet mengikut negeri dan strata (keseluruhan, bandar, luar bandar). Sumber: DOSM. Mengandungi 119 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Peratus Isi Rumah dengan Akses Internet mengikut Negeri | ListBase",
+    "seo_description": "Muat turun Peratus Isi Rumah dengan Akses Internet mengikut Negeri — 119 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 119 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/hh_access_internet"
+    ]
+  }
+}

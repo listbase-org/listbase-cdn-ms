@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-22T04:32:52.946Z",
-  "total_datasets": 639,
-  "total_records": 525187,
+  "generated": "2026-10-27T02:38:43.911Z",
+  "total_datasets": 640,
+  "total_records": 525306,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "time",
@@ -17193,6 +17193,32 @@
         "xlsx": {
           "name": "ms-stadium_MS.xlsx",
           "size": 10058
+        }
+      }
+    },
+    {
+      "id": "ms-akses-internet-isi-rumah",
+      "name": "Peratus Isi Rumah dengan Akses Internet mengikut Negeri",
+      "category": "tech",
+      "record_count": 119,
+      "columns": [
+        "tahun",
+        "negeri",
+        "keseluruhan",
+        "bandar",
+        "luar_bandar"
+      ],
+      "source": "https://data.gov.my/data-catalogue/hh_access_internet",
+      "updated": "2026-10",
+      "size": 18057,
+      "files": {
+        "csv": {
+          "name": "ms-akses-internet-isi-rumah_MS.csv",
+          "size": 4636
+        },
+        "xlsx": {
+          "name": "ms-akses-internet-isi-rumah_MS.xlsx",
+          "size": 9768
         }
       }
     },
