@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:38:46.596Z",
-  "total_datasets": 641,
-  "total_records": 525316,
+  "generated": "2026-10-27T02:38:49.331Z",
+  "total_datasets": 642,
+  "total_records": 525800,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -1868,6 +1868,34 @@
         "xlsx": {
           "name": "ms-gaji-pekerja-negeri_MS.xlsx",
           "size": 31110
+        }
+      }
+    },
+    {
+      "id": "ms-harga-minyak-mingguan",
+      "name": "Harga Runcit Minyak Mingguan Malaysia (2017–2026)",
+      "category": "economy",
+      "record_count": 484,
+      "columns": [
+        "tarikh",
+        "ron95",
+        "ron97",
+        "diesel",
+        "diesel_eastmsia",
+        "ron95_budi95",
+        "ron95_skps"
+      ],
+      "source": "https://data.gov.my/data-catalogue/fuelprice",
+      "updated": "2026-10",
+      "size": 92518,
+      "files": {
+        "csv": {
+          "name": "ms-harga-minyak-mingguan_MS.csv",
+          "size": 23122
+        },
+        "xlsx": {
+          "name": "ms-harga-minyak-mingguan_MS.xlsx",
+          "size": 22327
         }
       }
     },
