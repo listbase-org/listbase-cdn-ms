@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:38:52.022Z",
-  "total_datasets": 643,
-  "total_records": 525996,
+  "generated": "2026-10-27T02:38:54.810Z",
+  "total_datasets": 644,
+  "total_records": 526350,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "food",
@@ -3259,6 +3259,46 @@
         "xlsx": {
           "name": "ms-gabenor-bank-negara_MS.xlsx",
           "size": 7516
+        }
+      }
+    },
+    {
+      "id": "ms-kadar-faedah-bank-perdagangan",
+      "name": "Kadar Faedah Bulanan Bank Perdagangan Malaysia",
+      "category": "finance",
+      "record_count": 354,
+      "columns": [
+        "bulan",
+        "alr",
+        "blr",
+        "br",
+        "fdr_12mo",
+        "fdr_1mo",
+        "fdr_3mo",
+        "fdr_6mo",
+        "fdr_9mo",
+        "sr",
+        "wablr",
+        "wabr",
+        "wafdr_12mo",
+        "wafdr_1mo",
+        "wafdr_3mo",
+        "wafdr_6mo",
+        "wafdr_9mo",
+        "walr",
+        "wasr"
+      ],
+      "source": "https://data.gov.my/data-catalogue/interestrates",
+      "updated": "2026-10",
+      "size": 154701,
+      "files": {
+        "csv": {
+          "name": "ms-kadar-faedah-bank-perdagangan_MS.csv",
+          "size": 40622
+        },
+        "xlsx": {
+          "name": "ms-kadar-faedah-bank-perdagangan_MS.xlsx",
+          "size": 35777
         }
       }
     },
