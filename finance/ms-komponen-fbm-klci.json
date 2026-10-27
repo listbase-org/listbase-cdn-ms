@@ -1,0 +1,191 @@
+{
+  "id": "ms-komponen-fbm-klci",
+  "name": "Syarikat Komponen FTSE Bursa Malaysia KLCI",
+  "title": "Syarikat Komponen FTSE Bursa Malaysia KLCI",
+  "description": "30 syarikat komponen indeks FTSE Bursa Malaysia KLCI dengan kod saham dan sektor.",
+  "category": "finance",
+  "source": "https://ms.wikipedia.org/wiki/FTSE_Bursa_Malaysia_KLCI",
+  "source_url": "https://ms.wikipedia.org/wiki/FTSE_Bursa_Malaysia_KLCI",
+  "updated": "2026-10",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "nama_syarikat",
+      "label": "Nama Syarikat",
+      "type": "string"
+    },
+    {
+      "key": "kod_saham",
+      "label": "Kod Saham",
+      "type": "number"
+    },
+    {
+      "key": "sektor",
+      "label": "Sektor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama_syarikat": "AXIATA GROUP BERHAD",
+      "kod_saham": "6888",
+      "sektor": "Telekomunikasi"
+    },
+    {
+      "nama_syarikat": "CIMB GROUP HOLDINGS BERHAD",
+      "kod_saham": "1023",
+      "sektor": "Perbankan"
+    },
+    {
+      "nama_syarikat": "DIALOG GROUP BERHAD",
+      "kod_saham": "7277",
+      "sektor": "Infrastruktur Tenaga, Peralatan & Perkhidmatan"
+    },
+    {
+      "nama_syarikat": "DIGI.COM BERHAD",
+      "kod_saham": "6947",
+      "sektor": "Telekomunikasi"
+    },
+    {
+      "nama_syarikat": "GENTING MALAYSIA BERHAD",
+      "kod_saham": "4715",
+      "sektor": "Perhotelan & Pelancongan"
+    },
+    {
+      "nama_syarikat": "GENTING BERHAD",
+      "kod_saham": "3182",
+      "sektor": "Perhotelan & Pelancongan"
+    },
+    {
+      "nama_syarikat": "HAP SENG CONSOLIDATED BERHAD",
+      "kod_saham": "3034",
+      "sektor": "Industri kepelbagaian"
+    },
+    {
+      "nama_syarikat": "HARTALEGA HOLDINGS BERHAD",
+      "kod_saham": "5168",
+      "sektor": "Penjagaan kesihatan"
+    },
+    {
+      "nama_syarikat": "HONG LEONG BANK BERHAD",
+      "kod_saham": "5819",
+      "sektor": "Perbankan"
+    },
+    {
+      "nama_syarikat": "HONG LEONG FINANCIAL GROUP BERHAD",
+      "kod_saham": "1082",
+      "sektor": "Perbankan"
+    },
+    {
+      "nama_syarikat": "IHH HEALTHCARE BERHAD",
+      "kod_saham": "5225",
+      "sektor": "Penjagaan kesihatan"
+    },
+    {
+      "nama_syarikat": "IOI CORPORATION BERHAD",
+      "kod_saham": "1961",
+      "sektor": "Perladangan"
+    },
+    {
+      "nama_syarikat": "KLCC PROPERTY HOLDINGS BERHAD",
+      "kod_saham": "5235",
+      "sektor": "Hartanah"
+    },
+    {
+      "nama_syarikat": "KUALA LUMPUR KEPONG BERHAD",
+      "kod_saham": "2445",
+      "sektor": "Perladangan"
+    },
+    {
+      "nama_syarikat": "MAXIS BERHAD",
+      "kod_saham": "6012",
+      "sektor": "Telekomunikasi"
+    },
+    {
+      "nama_syarikat": "MALAYAN BANKING BERHAD",
+      "kod_saham": "1155",
+      "sektor": "Perbankan"
+    },
+    {
+      "nama_syarikat": "MISC BERHAD",
+      "kod_saham": "3816",
+      "sektor": "Logistik & Pengangkutan"
+    },
+    {
+      "nama_syarikat": "NESTLE (MALAYSIA) BERHAD",
+      "kod_saham": "4707",
+      "sektor": "Makanan & Minuman"
+    },
+    {
+      "nama_syarikat": "PUBLIC BANK BERHAD",
+      "kod_saham": "1295",
+      "sektor": "Perbankan"
+    },
+    {
+      "nama_syarikat": "PETRONAS CHEMICALS GROUP BERHAD",
+      "kod_saham": "5183",
+      "sektor": "Kimia"
+    },
+    {
+      "nama_syarikat": "PETRONAS DAGANGAN BHD",
+      "kod_saham": "5681",
+      "sektor": "Peruncitan"
+    },
+    {
+      "nama_syarikat": "PETRONAS GAS BERHAD",
+      "kod_saham": "6033",
+      "sektor": "Gas, Air & pelbagai utiliti"
+    },
+    {
+      "nama_syarikat": "PRESS METAL ALUMINIUM HOLDINGS BERHAD",
+      "kod_saham": "8869",
+      "sektor": "Logam"
+    },
+    {
+      "nama_syarikat": "PPB GROUP BERHAD",
+      "kod_saham": "4065",
+      "sektor": "Makanan & Minuman"
+    },
+    {
+      "nama_syarikat": "RHB BANK BERHAD",
+      "kod_saham": "1066",
+      "sektor": "Perbankan"
+    },
+    {
+      "nama_syarikat": "SIME DARBY BERHAD",
+      "kod_saham": "4197",
+      "sektor": "Automotif"
+    },
+    {
+      "nama_syarikat": "SIME DARBY PLANTATION BERHAD",
+      "kod_saham": "5285",
+      "sektor": "Perladangan"
+    },
+    {
+      "nama_syarikat": "TENAGA NASIONAL BHD",
+      "kod_saham": "5347",
+      "sektor": "Tenaga"
+    },
+    {
+      "nama_syarikat": "TELEKOM MALAYSIA BERHAD",
+      "kod_saham": "4863",
+      "sektor": "Telekomunikasi"
+    },
+    {
+      "nama_syarikat": "TOP GLOVE CORPORATION BHD",
+      "kod_saham": "7113",
+      "sektor": "Penjagaan kesihatan"
+    }
+  ],
+  "meta": {
+    "title": "Syarikat Komponen FTSE Bursa Malaysia KLCI - Muat turun percuma",
+    "description": "30 syarikat komponen indeks FTSE Bursa Malaysia KLCI dengan kod saham dan sektor. Mengandungi 30 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Syarikat Komponen FTSE Bursa Malaysia KLCI | ListBase",
+    "seo_description": "Muat turun Syarikat Komponen FTSE Bursa Malaysia KLCI — 30 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 30 rekod / 3 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/FTSE_Bursa_Malaysia_KLCI"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:06.503Z",
-  "total_datasets": 648,
-  "total_records": 526872,
+  "generated": "2026-10-27T02:39:09.063Z",
+  "total_datasets": 649,
+  "total_records": 526902,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "food",
@@ -3375,6 +3375,30 @@
         "xlsx": {
           "name": "ms-kadar-pertukaran-ringgit-bulanan_MS.xlsx",
           "size": 59213
+        }
+      }
+    },
+    {
+      "id": "ms-komponen-fbm-klci",
+      "name": "Syarikat Komponen FTSE Bursa Malaysia KLCI",
+      "category": "finance",
+      "record_count": 30,
+      "columns": [
+        "nama_syarikat",
+        "kod_saham",
+        "sektor"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/FTSE_Bursa_Malaysia_KLCI",
+      "updated": "2026-10",
+      "size": 5129,
+      "files": {
+        "csv": {
+          "name": "ms-komponen-fbm-klci_MS.csv",
+          "size": 1531
+        },
+        "xlsx": {
+          "name": "ms-komponen-fbm-klci_MS.xlsx",
+          "size": 7857
         }
       }
     },
