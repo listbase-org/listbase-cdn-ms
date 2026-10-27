@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:38:57.674Z",
-  "total_datasets": 645,
-  "total_records": 526707,
+  "generated": "2026-10-27T02:39:00.270Z",
+  "total_datasets": 646,
+  "total_records": 526724,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -4960,6 +4960,30 @@
         "xlsx": {
           "name": "ms-akta-parlimen_MS.xlsx",
           "size": 33459
+        }
+      }
+    },
+    {
+      "id": "ms-ketua-hakim-negara",
+      "name": "Senarai Ketua Hakim Negara Malaysia",
+      "category": "law",
+      "record_count": 17,
+      "columns": [
+        "no",
+        "nama",
+        "tarikh_perkhidmatan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Ketua_Hakim_Negara_Malaysia",
+      "updated": "2026-10",
+      "size": 3896,
+      "files": {
+        "csv": {
+          "name": "ms-ketua-hakim-negara_MS.csv",
+          "size": 1248
+        },
+        "xlsx": {
+          "name": "ms-ketua-hakim-negara_MS.xlsx",
+          "size": 7503
         }
       }
     },
