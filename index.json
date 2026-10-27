@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:19.315Z",
-  "total_datasets": 653,
-  "total_records": 526982,
+  "generated": "2026-10-27T02:39:21.926Z",
+  "total_datasets": 654,
+  "total_records": 527021,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "finance",
@@ -3205,6 +3205,32 @@
         "xlsx": {
           "name": "ms-hutan-simpan-negeri_MS.xlsx",
           "size": 12654
+        }
+      }
+    },
+    {
+      "id": "ms-menteri-sumber-asli-alam-sekitar",
+      "name": "Senarai Menteri Sumber Asli dan Alam Sekitar Malaysia",
+      "category": "environment",
+      "record_count": 39,
+      "columns": [
+        "nama",
+        "parti",
+        "gelaran_jawatan",
+        "tempoh_perkhidmatan",
+        "perdana_menteri_kabinet"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Menteri_Sumber_Asli_dan_Kelestarian_Alam_Malaysia",
+      "updated": "2026-10",
+      "size": 12828,
+      "files": {
+        "csv": {
+          "name": "ms-menteri-sumber-asli-alam-sekitar_MS.csv",
+          "size": 5782
+        },
+        "xlsx": {
+          "name": "ms-menteri-sumber-asli-alam-sekitar_MS.xlsx",
+          "size": 9311
         }
       }
     },
