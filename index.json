@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:35.144Z",
-  "total_datasets": 659,
-  "total_records": 527854,
+  "generated": "2026-10-27T02:39:38.267Z",
+  "total_datasets": 660,
+  "total_records": 538739,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -172,6 +172,33 @@
         "xlsx": {
           "name": "ms-pendaratan-ikan-laut-tahunan_MS.xlsx",
           "size": 12194
+        }
+      }
+    },
+    {
+      "id": "ms-pengeluaran-tanaman-daerah-2017",
+      "name": "Pengeluaran Tanaman mengikut Daerah (2017)",
+      "category": "agriculture",
+      "record_count": 10885,
+      "columns": [
+        "negeri",
+        "daerah",
+        "jenis_tanaman",
+        "spesies",
+        "pengeluaran_tan_metrik",
+        "tahun"
+      ],
+      "source": "https://data.gov.my/data-catalogue/crops_district_production",
+      "updated": "2026-10",
+      "size": 2064099,
+      "files": {
+        "csv": {
+          "name": "ms-pengeluaran-tanaman-daerah-2017_MS.csv",
+          "size": 614580
+        },
+        "xlsx": {
+          "name": "ms-pengeluaran-tanaman-daerah-2017_MS.xlsx",
+          "size": 273692
         }
       }
     },
