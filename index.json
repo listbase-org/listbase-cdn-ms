@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:38.267Z",
-  "total_datasets": 660,
-  "total_records": 538739,
+  "generated": "2026-10-27T02:39:41.206Z",
+  "total_datasets": 661,
+  "total_records": 538749,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -18650,6 +18650,32 @@
         "xlsx": {
           "name": "ms-peranginan-bukit_MS.xlsx",
           "size": 7765
+        }
+      }
+    },
+    {
+      "id": "ms-tapak-warisan-dunia",
+      "name": "Tapak Warisan Dunia UNESCO di Malaysia",
+      "category": "tourism",
+      "record_count": 10,
+      "columns": [
+        "tapak",
+        "lokasi",
+        "tahun",
+        "data_unesco",
+        "status"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Tapak_Warisan_Dunia_di_Malaysia",
+      "updated": "2026-10",
+      "size": 3613,
+      "files": {
+        "csv": {
+          "name": "ms-tapak-warisan-dunia_MS.csv",
+          "size": 1019
+        },
+        "xlsx": {
+          "name": "ms-tapak-warisan-dunia_MS.xlsx",
+          "size": 7315
         }
       }
     },

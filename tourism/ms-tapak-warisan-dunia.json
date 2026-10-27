@@ -1,0 +1,121 @@
+{
+  "id": "ms-tapak-warisan-dunia",
+  "name": "Tapak Warisan Dunia UNESCO di Malaysia",
+  "title": "Tapak Warisan Dunia UNESCO di Malaysia",
+  "description": "Tapak Warisan Dunia UNESCO di Malaysia serta tapak dalam senarai tentatif, dengan lokasi dan tahun.",
+  "category": "tourism",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_Tapak_Warisan_Dunia_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_Tapak_Warisan_Dunia_di_Malaysia",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "tapak",
+      "label": "Tapak",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "data_unesco",
+      "label": "Data Unesco",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tapak": "Taman Negara Kinabalu",
+      "lokasi": "Sabah",
+      "tahun": 2000,
+      "data_unesco": "1012; ix, x (alam semula jadi)",
+      "status": "Tapak Warisan Dunia"
+    },
+    {
+      "tapak": "Taman Negara Mulu",
+      "lokasi": "Sarawak",
+      "tahun": 2000,
+      "data_unesco": "1013; vii, viii, ix, x (alam semula jadi)",
+      "status": "Tapak Warisan Dunia"
+    },
+    {
+      "tapak": "Bandar Sejarah Selat Melaka , Melaka dan George Town",
+      "lokasi": "Melaka, Pulau Pinang",
+      "tahun": 2008,
+      "data_unesco": "1223; ii, iii, iv (budaya)",
+      "status": "Tapak Warisan Dunia"
+    },
+    {
+      "tapak": "Warisan Arkeologi Lembah Lenggong",
+      "lokasi": "Perak",
+      "tahun": 2012,
+      "data_unesco": "1396; iii, iv (budaya)",
+      "status": "Tapak Warisan Dunia"
+    },
+    {
+      "tapak": "Warisan Arkeologi Gua Niah",
+      "lokasi": "Sarawak",
+      "tahun": 2024,
+      "data_unesco": "1014; iii, v (budaya)",
+      "status": "Tapak Warisan Dunia"
+    },
+    {
+      "tapak": "Taman Hutan FRIM Selangor",
+      "lokasi": "Selangor",
+      "tahun": 2025,
+      "data_unesco": "1734; ii, v (budaya)",
+      "status": "Tapak Warisan Dunia"
+    },
+    {
+      "tapak": "Taman Negara",
+      "lokasi": "Pahang , Kelantan dan Terengganu",
+      "tahun": 2014,
+      "data_unesco": "",
+      "status": "Senarai cadangan (tentatif)"
+    },
+    {
+      "tapak": "Permatang Kuartza Gombak Selangor",
+      "lokasi": "Gombak , Selangor",
+      "tahun": 2017,
+      "data_unesco": "",
+      "status": "Senarai cadangan (tentatif)"
+    },
+    {
+      "tapak": "Taman Negeri Diraja Belum",
+      "lokasi": "Perak",
+      "tahun": 2017,
+      "data_unesco": "",
+      "status": "Senarai cadangan (tentatif)"
+    },
+    {
+      "tapak": "Pusat Kawalan Kusta Negara Sungai Buloh",
+      "lokasi": "Selangor",
+      "tahun": 2019,
+      "data_unesco": "",
+      "status": "Senarai cadangan (tentatif)"
+    }
+  ],
+  "meta": {
+    "title": "Tapak Warisan Dunia UNESCO di Malaysia - Muat turun percuma",
+    "description": "Tapak Warisan Dunia UNESCO di Malaysia serta tapak dalam senarai tentatif, dengan lokasi dan tahun. Mengandungi 10 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Tapak Warisan Dunia UNESCO di Malaysia | ListBase",
+    "seo_description": "Muat turun Tapak Warisan Dunia UNESCO di Malaysia — 10 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 10 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_Tapak_Warisan_Dunia_di_Malaysia"
+    ]
+  }
+}
