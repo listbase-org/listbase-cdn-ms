@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:16.765Z",
-  "total_datasets": 652,
-  "total_records": 526966,
+  "generated": "2026-10-27T02:39:19.315Z",
+  "total_datasets": 653,
+  "total_records": 526982,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "time",
@@ -17563,6 +17563,32 @@
         "xlsx": {
           "name": "ms-langganan-selular_MS.xlsx",
           "size": 7318
+        }
+      }
+    },
+    {
+      "id": "ms-menteri-sains-teknologi",
+      "name": "Senarai Menteri Sains, Teknologi dan Inovasi Malaysia",
+      "category": "tech",
+      "record_count": 16,
+      "columns": [
+        "nama",
+        "parti",
+        "gelaran_jawatan",
+        "tempoh_perkhidmatan",
+        "perdana_menteri_kabinet"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Menteri_Sains,_Teknologi_dan_Inovasi_Malaysia",
+      "updated": "2026-10",
+      "size": 6456,
+      "files": {
+        "csv": {
+          "name": "ms-menteri-sains-teknologi_MS.csv",
+          "size": 2511
+        },
+        "xlsx": {
+          "name": "ms-menteri-sains-teknologi_MS.xlsx",
+          "size": 7977
         }
       }
     },

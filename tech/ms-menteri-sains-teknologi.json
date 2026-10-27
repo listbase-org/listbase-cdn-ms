@@ -1,0 +1,163 @@
+{
+  "id": "ms-menteri-sains-teknologi",
+  "name": "Senarai Menteri Sains, Teknologi dan Inovasi Malaysia",
+  "title": "Senarai Menteri Sains, Teknologi dan Inovasi Malaysia",
+  "description": "Menteri yang bertanggungjawab bagi sains, teknologi dan inovasi di Malaysia sejak 1970 dengan parti, gelaran jawatan, tempoh dan kabinet.",
+  "category": "tech",
+  "source": "https://ms.wikipedia.org/wiki/Menteri_Sains,_Teknologi_dan_Inovasi_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Menteri_Sains,_Teknologi_dan_Inovasi_Malaysia",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "gelaran_jawatan",
+      "label": "Gelaran Jawatan",
+      "type": "string"
+    },
+    {
+      "key": "tempoh_perkhidmatan",
+      "label": "Tempoh Perkhidmatan",
+      "type": "string"
+    },
+    {
+      "key": "perdana_menteri_kabinet",
+      "label": "Perdana Menteri Kabinet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Tan Sri Ong Kee Hui AP Bandar Kuching",
+      "parti": "Perikatan ( SUPP )",
+      "gelaran_jawatan": "Menteri Teknologi, Penyelidikan dan Kerajaan Tempatan",
+      "tempoh_perkhidmatan": "1970 - 1972",
+      "perdana_menteri_kabinet": "Abdul Razak Hussein (I)"
+    },
+    {
+      "nama": "Tan Sri Dato' Lee San Choon AP Segamat Selatan",
+      "parti": "Perikatan ( MCA )",
+      "gelaran_jawatan": "Menteri Teknologi, Penyelidikan dan Penyelarasan Kampung Baru",
+      "tempoh_perkhidmatan": "1972 - 1974",
+      "perdana_menteri_kabinet": "Abdul Razak Hussein (I)"
+    },
+    {
+      "nama": "Tan Sri Mohamed Yaacob AP Tanah Merah",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Tenaga, Teknologi dan Penyelidikan",
+      "tempoh_perkhidmatan": "1974 - 1976",
+      "perdana_menteri_kabinet": "Abdul Razak Hussein (II)"
+    },
+    {
+      "nama": "Tan Sri Ong Kee Hui AP Bandar Kuching",
+      "parti": "BN ( SUPP )",
+      "gelaran_jawatan": "Menteri Sains, Teknologi dan Alam Sekitar",
+      "tempoh_perkhidmatan": "1976 - 1982",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (I)"
+    },
+    {
+      "nama": "Datuk Stephen Yong Kuet Tze AP Padawan",
+      "parti": "BN ( SUPP )",
+      "gelaran_jawatan": "Menteri Sains, Teknologi dan Alam Sekitar",
+      "tempoh_perkhidmatan": "1982 - 26 Oktober 1990",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (II · III)"
+    },
+    {
+      "nama": "Tan Sri Law Hieng Ding AP Sarikei",
+      "parti": "BN ( SUPP )",
+      "gelaran_jawatan": "Menteri Sains, Teknologi dan Alam Sekitar",
+      "tempoh_perkhidmatan": "27 Oktober 1990 - 26 Mac 2004",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (IV · V · VI) Abdullah Ahmad Badawi (I)"
+    },
+    {
+      "nama": "Tan Sri Ir. Jamaluddin Datuk Mohd Jarjis AP Rompin",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Sains, Teknologi dan Inovasi",
+      "tempoh_perkhidmatan": "27 Mac 2004 - 18 Mac 2008",
+      "perdana_menteri_kabinet": "Abdullah Ahmad Badawi (II)"
+    },
+    {
+      "nama": "Datuk Seri Dr. Maximus Johnity Ongkili AP Kota Marudu",
+      "parti": "BN ( PBS )",
+      "gelaran_jawatan": "Menteri Sains, Teknologi dan Inovasi",
+      "tempoh_perkhidmatan": "19 Mac 2008 - 15 Mei 2013",
+      "perdana_menteri_kabinet": "Abdullah Ahmad Badawi (III) Najib Razak (I)"
+    },
+    {
+      "nama": "Datuk Dr Ewon Ebin AP Ranau",
+      "parti": "BN ( UPKO )",
+      "gelaran_jawatan": "Menteri Sains, Teknologi dan Inovasi",
+      "tempoh_perkhidmatan": "16 Mei 2013 - 29 Julai 2015",
+      "perdana_menteri_kabinet": "Najib Razak (II)"
+    },
+    {
+      "nama": "Datuk Seri Wilfred Madius Tangau AP Tuaran",
+      "parti": "BN ( UPKO )",
+      "gelaran_jawatan": "Menteri Sains, Teknologi dan Inovasi",
+      "tempoh_perkhidmatan": "29 Julai 2015 - 10 Mei 2018",
+      "perdana_menteri_kabinet": "Najib Razak (II)"
+    },
+    {
+      "nama": "Yeo Bee Yin AP Bakri",
+      "parti": "PH ( DAP )",
+      "gelaran_jawatan": "Menteri Tenaga, Sains, Teknologi, Alam Sekitar dan Perubahan Iklim",
+      "tempoh_perkhidmatan": "2 Julai 2018 - 24 Februari 2020",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (VII)"
+    },
+    {
+      "nama": "Khairy Jamaluddin AP Rembau",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Sains, Teknologi dan Inovasi",
+      "tempoh_perkhidmatan": "10 Mac 2020 - 16 Ogos 2021",
+      "perdana_menteri_kabinet": "Muhyiddin Yassin (I)"
+    },
+    {
+      "nama": "Adham Baba AP Tenggara",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Sains, Teknologi dan Inovasi",
+      "tempoh_perkhidmatan": "30 Ogos 2021 - 10 Oktober 2022",
+      "perdana_menteri_kabinet": "Ismail Sabri Yaakob (I)"
+    },
+    {
+      "nama": "Chang Lih Kang AP Tanjong Malim",
+      "parti": "PH ( PKR )",
+      "gelaran_jawatan": "Menteri Sains dan Teknologi",
+      "tempoh_perkhidmatan": "3 Disember 2022 - kini",
+      "perdana_menteri_kabinet": "Anwar Ibrahim (I)"
+    },
+    {
+      "nama": "Tan Sri Peter Chin Fah Kui AP Miri",
+      "parti": "BN ( SUPP )",
+      "gelaran_jawatan": "Menteri Tenaga, Teknologi Hijau dan Air",
+      "tempoh_perkhidmatan": "10 April 2009 - 15 Mei 2013",
+      "perdana_menteri_kabinet": "Najib Razak (I)"
+    },
+    {
+      "nama": "Datuk Seri Dr. Maximus Johnity Ongkili AP Kota Marudu",
+      "parti": "BN ( PBS )",
+      "gelaran_jawatan": "Menteri Tenaga, Teknologi Hijau dan Air",
+      "tempoh_perkhidmatan": "16 Mei 2013 - 10 Mei 2018",
+      "perdana_menteri_kabinet": "Najib Razak (II)"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Menteri Sains, Teknologi dan Inovasi Malaysia - Muat turun percuma",
+    "description": "Menteri yang bertanggungjawab bagi sains, teknologi dan inovasi di Malaysia sejak 1970 dengan parti, gelaran jawatan, tempoh dan kabinet. Mengandungi 16 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Menteri Sains, Teknologi dan Inovasi Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Menteri Sains, Teknologi dan Inovasi Malaysia — 16 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 16 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Menteri_Sains,_Teknologi_dan_Inovasi_Malaysia"
+    ]
+  }
+}
