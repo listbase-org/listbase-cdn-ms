@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:32.298Z",
-  "total_datasets": 658,
-  "total_records": 527479,
+  "generated": "2026-10-27T02:39:35.144Z",
+  "total_datasets": 659,
+  "total_records": 527854,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -3312,6 +3312,32 @@
         "xlsx": {
           "name": "ms-pencemaran-udara-bulanan_MS.xlsx",
           "size": 10709
+        }
+      }
+    },
+    {
+      "id": "ms-pengeluaran-penggunaan-air-negeri",
+      "name": "Pengeluaran dan Penggunaan Air mengikut Negeri",
+      "category": "environment",
+      "record_count": 375,
+      "columns": [
+        "tahun",
+        "negeri",
+        "pengeluaran_air_jlh",
+        "penggunaan_domestik_jlh",
+        "penggunaan_bukan_domestik_jlh"
+      ],
+      "source": "https://data.gov.my/data-catalogue/water_consumption",
+      "updated": "2026-10",
+      "size": 68135,
+      "files": {
+        "csv": {
+          "name": "ms-pengeluaran-penggunaan-air-negeri_MS.csv",
+          "size": 13260
+        },
+        "xlsx": {
+          "name": "ms-pengeluaran-penggunaan-air-negeri_MS.xlsx",
+          "size": 16125
         }
       }
     },

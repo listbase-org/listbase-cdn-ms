@@ -1,0 +1,2676 @@
+{
+  "id": "ms-pengeluaran-penggunaan-air-negeri",
+  "name": "Pengeluaran dan Penggunaan Air mengikut Negeri",
+  "title": "Pengeluaran dan Penggunaan Air mengikut Negeri",
+  "description": "Pengeluaran air dan penggunaan air domestik serta bukan domestik tahunan mengikut negeri (juta liter sehari, JLH). Sumber: SPAN / NRES / DOSM.",
+  "category": "environment",
+  "source": "https://data.gov.my/data-catalogue/water_consumption",
+  "source_url": "https://data.gov.my/data-catalogue/water_consumption",
+  "updated": "2026-10",
+  "record_count": 375,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "pengeluaran_air_jlh",
+      "label": "Pengeluaran Air Jlh",
+      "type": "number"
+    },
+    {
+      "key": "penggunaan_domestik_jlh",
+      "label": "Penggunaan Domestik Jlh",
+      "type": "number"
+    },
+    {
+      "key": "penggunaan_bukan_domestik_jlh",
+      "label": "Penggunaan Bukan Domestik Jlh",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 2000,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1158,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 804,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 213,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 10184,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 324,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 490,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 610,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 812,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 84,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 741,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 706,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 453,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 3425,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 334,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2000,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 30,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1201,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 841,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 216,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 10432,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 320,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 520,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 927,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 865,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 84,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 763,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 705,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 476,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 3130,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 349,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2001,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 34,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1260,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 864,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 216,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 10737,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 350,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 620,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 632,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 830,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 88,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 767,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 691,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 670,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 3345,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 369,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2002,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 34,
+      "penggunaan_domestik_jlh": "",
+      "penggunaan_bukan_domestik_jlh": ""
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1118,
+      "penggunaan_domestik_jlh": 560,
+      "penggunaan_bukan_domestik_jlh": 246
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 928,
+      "penggunaan_domestik_jlh": 388,
+      "penggunaan_bukan_domestik_jlh": 114
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 228,
+      "penggunaan_domestik_jlh": 94,
+      "penggunaan_bukan_domestik_jlh": 35
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 11047,
+      "penggunaan_domestik_jlh": 4394,
+      "penggunaan_bukan_domestik_jlh": 2281
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 375,
+      "penggunaan_domestik_jlh": 153,
+      "penggunaan_bukan_domestik_jlh": 143
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 634,
+      "penggunaan_domestik_jlh": 184,
+      "penggunaan_bukan_domestik_jlh": 122
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 627,
+      "penggunaan_domestik_jlh": 211,
+      "penggunaan_bukan_domestik_jlh": 131
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 897,
+      "penggunaan_domestik_jlh": 450,
+      "penggunaan_bukan_domestik_jlh": 150
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 92,
+      "penggunaan_domestik_jlh": 47,
+      "penggunaan_bukan_domestik_jlh": 7
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 759,
+      "penggunaan_domestik_jlh": 377,
+      "penggunaan_bukan_domestik_jlh": 235
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 732,
+      "penggunaan_domestik_jlh": 156,
+      "penggunaan_bukan_domestik_jlh": 97
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 698,
+      "penggunaan_domestik_jlh": 289,
+      "penggunaan_bukan_domestik_jlh": 201
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 3538,
+      "penggunaan_domestik_jlh": 1312,
+      "penggunaan_bukan_domestik_jlh": 673
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 387,
+      "penggunaan_domestik_jlh": 156,
+      "penggunaan_bukan_domestik_jlh": 118
+    },
+    {
+      "tahun": 2003,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 34,
+      "penggunaan_domestik_jlh": 16,
+      "penggunaan_bukan_domestik_jlh": 9
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1003,
+      "penggunaan_domestik_jlh": 610,
+      "penggunaan_bukan_domestik_jlh": 225
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 976,
+      "penggunaan_domestik_jlh": 412,
+      "penggunaan_bukan_domestik_jlh": 134
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 275,
+      "penggunaan_domestik_jlh": 102,
+      "penggunaan_bukan_domestik_jlh": 40
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 11410,
+      "penggunaan_domestik_jlh": 4770,
+      "penggunaan_bukan_domestik_jlh": 2339
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 399,
+      "penggunaan_domestik_jlh": 144,
+      "penggunaan_bukan_domestik_jlh": 122
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 649,
+      "penggunaan_domestik_jlh": 183,
+      "penggunaan_bukan_domestik_jlh": 112
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 687,
+      "penggunaan_domestik_jlh": 214,
+      "penggunaan_bukan_domestik_jlh": 136
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 897,
+      "penggunaan_domestik_jlh": 474,
+      "penggunaan_bukan_domestik_jlh": 161
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 93,
+      "penggunaan_domestik_jlh": 50,
+      "penggunaan_bukan_domestik_jlh": 12
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 800,
+      "penggunaan_domestik_jlh": 388,
+      "penggunaan_bukan_domestik_jlh": 250
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 736,
+      "penggunaan_domestik_jlh": 207,
+      "penggunaan_bukan_domestik_jlh": 106
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 752,
+      "penggunaan_domestik_jlh": 336,
+      "penggunaan_bukan_domestik_jlh": 227
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 3709,
+      "penggunaan_domestik_jlh": 1474,
+      "penggunaan_bukan_domestik_jlh": 694
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 399,
+      "penggunaan_domestik_jlh": 162,
+      "penggunaan_bukan_domestik_jlh": 108
+    },
+    {
+      "tahun": 2004,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 35,
+      "penggunaan_domestik_jlh": 16,
+      "penggunaan_bukan_domestik_jlh": 10
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1003,
+      "penggunaan_domestik_jlh": 621,
+      "penggunaan_bukan_domestik_jlh": 235
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 976,
+      "penggunaan_domestik_jlh": 420,
+      "penggunaan_bukan_domestik_jlh": 137
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 275,
+      "penggunaan_domestik_jlh": 111,
+      "penggunaan_bukan_domestik_jlh": 46
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 11563,
+      "penggunaan_domestik_jlh": 4992,
+      "penggunaan_bukan_domestik_jlh": 2366
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 415,
+      "penggunaan_domestik_jlh": 150,
+      "penggunaan_bukan_domestik_jlh": 135
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 642,
+      "penggunaan_domestik_jlh": 181,
+      "penggunaan_bukan_domestik_jlh": 121
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 709,
+      "penggunaan_domestik_jlh": 223,
+      "penggunaan_bukan_domestik_jlh": 134
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 955,
+      "penggunaan_domestik_jlh": 487,
+      "penggunaan_bukan_domestik_jlh": 175
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 92,
+      "penggunaan_domestik_jlh": 50,
+      "penggunaan_bukan_domestik_jlh": 9
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 819,
+      "penggunaan_domestik_jlh": 400,
+      "penggunaan_bukan_domestik_jlh": 261
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 740,
+      "penggunaan_domestik_jlh": 254,
+      "penggunaan_bukan_domestik_jlh": 62
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 748,
+      "penggunaan_domestik_jlh": 327,
+      "penggunaan_bukan_domestik_jlh": 220
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 3728,
+      "penggunaan_domestik_jlh": 1579,
+      "penggunaan_bukan_domestik_jlh": 717
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 424,
+      "penggunaan_domestik_jlh": 172,
+      "penggunaan_bukan_domestik_jlh": 105
+    },
+    {
+      "tahun": 2005,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 37,
+      "penggunaan_domestik_jlh": 18,
+      "penggunaan_bukan_domestik_jlh": 10
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1363,
+      "penggunaan_domestik_jlh": 644,
+      "penggunaan_bukan_domestik_jlh": 255
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1029,
+      "penggunaan_domestik_jlh": 434,
+      "penggunaan_bukan_domestik_jlh": 132
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 295,
+      "penggunaan_domestik_jlh": 116,
+      "penggunaan_bukan_domestik_jlh": 48
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 12192,
+      "penggunaan_domestik_jlh": 5025,
+      "penggunaan_bukan_domestik_jlh": 2606
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 393,
+      "penggunaan_domestik_jlh": 155,
+      "penggunaan_bukan_domestik_jlh": 132
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 746,
+      "penggunaan_domestik_jlh": 190,
+      "penggunaan_bukan_domestik_jlh": 108
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 701,
+      "penggunaan_domestik_jlh": 233,
+      "penggunaan_bukan_domestik_jlh": 142
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 963,
+      "penggunaan_domestik_jlh": 486,
+      "penggunaan_bukan_domestik_jlh": 182
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 95,
+      "penggunaan_domestik_jlh": 51,
+      "penggunaan_bukan_domestik_jlh": 10
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 840,
+      "penggunaan_domestik_jlh": 408,
+      "penggunaan_bukan_domestik_jlh": 275
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 743,
+      "penggunaan_domestik_jlh": 294,
+      "penggunaan_bukan_domestik_jlh": 26
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 748,
+      "penggunaan_domestik_jlh": 352,
+      "penggunaan_bukan_domestik_jlh": 226
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 3776,
+      "penggunaan_domestik_jlh": 1460,
+      "penggunaan_bukan_domestik_jlh": 932
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 465,
+      "penggunaan_domestik_jlh": 185,
+      "penggunaan_bukan_domestik_jlh": 124
+    },
+    {
+      "tahun": 2006,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 35,
+      "penggunaan_domestik_jlh": 17,
+      "penggunaan_bukan_domestik_jlh": 10
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1387,
+      "penggunaan_domestik_jlh": 664,
+      "penggunaan_bukan_domestik_jlh": 289
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1088,
+      "penggunaan_domestik_jlh": 471,
+      "penggunaan_bukan_domestik_jlh": 164
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 328,
+      "penggunaan_domestik_jlh": 120,
+      "penggunaan_bukan_domestik_jlh": 49
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 12827,
+      "penggunaan_domestik_jlh": 5381,
+      "penggunaan_bukan_domestik_jlh": 2696
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 411,
+      "penggunaan_domestik_jlh": 196,
+      "penggunaan_bukan_domestik_jlh": 93
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 690,
+      "penggunaan_domestik_jlh": 231,
+      "penggunaan_bukan_domestik_jlh": 87
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 890,
+      "penggunaan_domestik_jlh": 308,
+      "penggunaan_bukan_domestik_jlh": 104
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 973,
+      "penggunaan_domestik_jlh": 496,
+      "penggunaan_bukan_domestik_jlh": 185
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 97,
+      "penggunaan_domestik_jlh": 50,
+      "penggunaan_bukan_domestik_jlh": 14
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 865,
+      "penggunaan_domestik_jlh": 427,
+      "penggunaan_bukan_domestik_jlh": 293
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 772,
+      "penggunaan_domestik_jlh": 294,
+      "penggunaan_bukan_domestik_jlh": 44
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 940,
+      "penggunaan_domestik_jlh": 400,
+      "penggunaan_bukan_domestik_jlh": 259
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 3814,
+      "penggunaan_domestik_jlh": 1520,
+      "penggunaan_bukan_domestik_jlh": 969
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 525,
+      "penggunaan_domestik_jlh": 187,
+      "penggunaan_bukan_domestik_jlh": 135
+    },
+    {
+      "tahun": 2007,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 46,
+      "penggunaan_domestik_jlh": 18,
+      "penggunaan_bukan_domestik_jlh": 11
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1430,
+      "penggunaan_domestik_jlh": 682,
+      "penggunaan_bukan_domestik_jlh": 300
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1157,
+      "penggunaan_domestik_jlh": 470,
+      "penggunaan_bukan_domestik_jlh": 167
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 341,
+      "penggunaan_domestik_jlh": 122,
+      "penggunaan_bukan_domestik_jlh": 51
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 13213,
+      "penggunaan_domestik_jlh": 5466,
+      "penggunaan_bukan_domestik_jlh": 2868
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 428,
+      "penggunaan_domestik_jlh": 202,
+      "penggunaan_bukan_domestik_jlh": 98
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 665,
+      "penggunaan_domestik_jlh": 237,
+      "penggunaan_bukan_domestik_jlh": 92
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 915,
+      "penggunaan_domestik_jlh": 320,
+      "penggunaan_bukan_domestik_jlh": 111
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1014,
+      "penggunaan_domestik_jlh": 508,
+      "penggunaan_bukan_domestik_jlh": 190
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 108,
+      "penggunaan_domestik_jlh": 54,
+      "penggunaan_bukan_domestik_jlh": 9
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 896,
+      "penggunaan_domestik_jlh": 439,
+      "penggunaan_bukan_domestik_jlh": 305
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 820,
+      "penggunaan_domestik_jlh": 252,
+      "penggunaan_bukan_domestik_jlh": 112
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 956,
+      "penggunaan_domestik_jlh": 409,
+      "penggunaan_bukan_domestik_jlh": 266
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 3889,
+      "penggunaan_domestik_jlh": 1562,
+      "penggunaan_bukan_domestik_jlh": 1006
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 547,
+      "penggunaan_domestik_jlh": 190,
+      "penggunaan_bukan_domestik_jlh": 149
+    },
+    {
+      "tahun": 2008,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 47,
+      "penggunaan_domestik_jlh": 19,
+      "penggunaan_bukan_domestik_jlh": 12
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1466,
+      "penggunaan_domestik_jlh": 713,
+      "penggunaan_bukan_domestik_jlh": 285
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1173,
+      "penggunaan_domestik_jlh": 474,
+      "penggunaan_bukan_domestik_jlh": 171
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 343,
+      "penggunaan_domestik_jlh": 124,
+      "penggunaan_bukan_domestik_jlh": 53
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 13495,
+      "penggunaan_domestik_jlh": 5531,
+      "penggunaan_bukan_domestik_jlh": 3020
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 443,
+      "penggunaan_domestik_jlh": 173,
+      "penggunaan_bukan_domestik_jlh": 138
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 659,
+      "penggunaan_domestik_jlh": 213,
+      "penggunaan_bukan_domestik_jlh": 122
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 915,
+      "penggunaan_domestik_jlh": 271,
+      "penggunaan_bukan_domestik_jlh": 96
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1039,
+      "penggunaan_domestik_jlh": 526,
+      "penggunaan_bukan_domestik_jlh": 194
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 109,
+      "penggunaan_domestik_jlh": 49,
+      "penggunaan_bukan_domestik_jlh": 11
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 913,
+      "penggunaan_domestik_jlh": 451,
+      "penggunaan_bukan_domestik_jlh": 288
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 877,
+      "penggunaan_domestik_jlh": 259,
+      "penggunaan_bukan_domestik_jlh": 185
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1015,
+      "penggunaan_domestik_jlh": 441,
+      "penggunaan_bukan_domestik_jlh": 274
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 3926,
+      "penggunaan_domestik_jlh": 1621,
+      "penggunaan_bukan_domestik_jlh": 1029
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 567,
+      "penggunaan_domestik_jlh": 198,
+      "penggunaan_bukan_domestik_jlh": 155
+    },
+    {
+      "tahun": 2009,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 48,
+      "penggunaan_domestik_jlh": 18,
+      "penggunaan_bukan_domestik_jlh": 18
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1476,
+      "penggunaan_domestik_jlh": 730,
+      "penggunaan_bukan_domestik_jlh": 306
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1173,
+      "penggunaan_domestik_jlh": 444,
+      "penggunaan_bukan_domestik_jlh": 213
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 377,
+      "penggunaan_domestik_jlh": 124,
+      "penggunaan_bukan_domestik_jlh": 55
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 14110,
+      "penggunaan_domestik_jlh": 5602,
+      "penggunaan_bukan_domestik_jlh": 3370
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 443,
+      "penggunaan_domestik_jlh": 177,
+      "penggunaan_bukan_domestik_jlh": 150
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 724,
+      "penggunaan_domestik_jlh": 229,
+      "penggunaan_bukan_domestik_jlh": 180
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 966,
+      "penggunaan_domestik_jlh": 264,
+      "penggunaan_bukan_domestik_jlh": 168
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1080,
+      "penggunaan_domestik_jlh": 552,
+      "penggunaan_bukan_domestik_jlh": 210
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 147,
+      "penggunaan_domestik_jlh": 63,
+      "penggunaan_bukan_domestik_jlh": 9
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 957,
+      "penggunaan_domestik_jlh": 468,
+      "penggunaan_bukan_domestik_jlh": 315
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 931,
+      "penggunaan_domestik_jlh": 222,
+      "penggunaan_bukan_domestik_jlh": 175
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1090,
+      "penggunaan_domestik_jlh": 449,
+      "penggunaan_bukan_domestik_jlh": 324
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 4063,
+      "penggunaan_domestik_jlh": 1655,
+      "penggunaan_bukan_domestik_jlh": 1090
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 612,
+      "penggunaan_domestik_jlh": 206,
+      "penggunaan_bukan_domestik_jlh": 157
+    },
+    {
+      "tahun": 2010,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 49,
+      "penggunaan_domestik_jlh": 19,
+      "penggunaan_bukan_domestik_jlh": 18
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1528,
+      "penggunaan_domestik_jlh": 738,
+      "penggunaan_bukan_domestik_jlh": 323
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1237,
+      "penggunaan_domestik_jlh": 459,
+      "penggunaan_bukan_domestik_jlh": 181
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 403,
+      "penggunaan_domestik_jlh": 123,
+      "penggunaan_bukan_domestik_jlh": 56
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 14564,
+      "penggunaan_domestik_jlh": 5695,
+      "penggunaan_bukan_domestik_jlh": 3469
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 455,
+      "penggunaan_domestik_jlh": 180,
+      "penggunaan_bukan_domestik_jlh": 161
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 742,
+      "penggunaan_domestik_jlh": 239,
+      "penggunaan_bukan_domestik_jlh": 172
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 1079,
+      "penggunaan_domestik_jlh": 286,
+      "penggunaan_bukan_domestik_jlh": 186
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1109,
+      "penggunaan_domestik_jlh": 556,
+      "penggunaan_bukan_domestik_jlh": 216
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 191,
+      "penggunaan_domestik_jlh": 62,
+      "penggunaan_bukan_domestik_jlh": 11
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 951,
+      "penggunaan_domestik_jlh": 459,
+      "penggunaan_bukan_domestik_jlh": 317
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 989,
+      "penggunaan_domestik_jlh": 279,
+      "penggunaan_bukan_domestik_jlh": 206
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1083,
+      "penggunaan_domestik_jlh": 431,
+      "penggunaan_bukan_domestik_jlh": 321
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 4143,
+      "penggunaan_domestik_jlh": 1653,
+      "penggunaan_bukan_domestik_jlh": 1135
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 599,
+      "penggunaan_domestik_jlh": 208,
+      "penggunaan_bukan_domestik_jlh": 163
+    },
+    {
+      "tahun": 2011,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 54,
+      "penggunaan_domestik_jlh": 21,
+      "penggunaan_bukan_domestik_jlh": 20
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1512,
+      "penggunaan_domestik_jlh": 769,
+      "penggunaan_bukan_domestik_jlh": 341
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1292,
+      "penggunaan_domestik_jlh": 474,
+      "penggunaan_bukan_domestik_jlh": 165
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 406,
+      "penggunaan_domestik_jlh": 130,
+      "penggunaan_bukan_domestik_jlh": 58
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 15012,
+      "penggunaan_domestik_jlh": 5873,
+      "penggunaan_bukan_domestik_jlh": 3659
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 478,
+      "penggunaan_domestik_jlh": 187,
+      "penggunaan_bukan_domestik_jlh": 175
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 735,
+      "penggunaan_domestik_jlh": 247,
+      "penggunaan_bukan_domestik_jlh": 192
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 1089,
+      "penggunaan_domestik_jlh": 287,
+      "penggunaan_bukan_domestik_jlh": 209
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1155,
+      "penggunaan_domestik_jlh": 592,
+      "penggunaan_bukan_domestik_jlh": 217
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 211,
+      "penggunaan_domestik_jlh": 57,
+      "penggunaan_bukan_domestik_jlh": 10
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 964,
+      "penggunaan_domestik_jlh": 475,
+      "penggunaan_bukan_domestik_jlh": 321
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 1057,
+      "penggunaan_domestik_jlh": 305,
+      "penggunaan_bukan_domestik_jlh": 225
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1107,
+      "penggunaan_domestik_jlh": 432,
+      "penggunaan_bukan_domestik_jlh": 336
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 4323,
+      "penggunaan_domestik_jlh": 1686,
+      "penggunaan_bukan_domestik_jlh": 1207
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 623,
+      "penggunaan_domestik_jlh": 216,
+      "penggunaan_bukan_domestik_jlh": 173
+    },
+    {
+      "tahun": 2012,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 59,
+      "penggunaan_domestik_jlh": 16,
+      "penggunaan_bukan_domestik_jlh": 30
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1508,
+      "penggunaan_domestik_jlh": 797,
+      "penggunaan_bukan_domestik_jlh": 366
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1322,
+      "penggunaan_domestik_jlh": 487,
+      "penggunaan_bukan_domestik_jlh": 164
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 430,
+      "penggunaan_domestik_jlh": 140,
+      "penggunaan_bukan_domestik_jlh": 62
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 15498,
+      "penggunaan_domestik_jlh": 6064,
+      "penggunaan_bukan_domestik_jlh": 3790
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 487,
+      "penggunaan_domestik_jlh": 193,
+      "penggunaan_bukan_domestik_jlh": 182
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 736,
+      "penggunaan_domestik_jlh": 255,
+      "penggunaan_bukan_domestik_jlh": 213
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 1065,
+      "penggunaan_domestik_jlh": 299,
+      "penggunaan_bukan_domestik_jlh": 205
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1215,
+      "penggunaan_domestik_jlh": 607,
+      "penggunaan_bukan_domestik_jlh": 228
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 206,
+      "penggunaan_domestik_jlh": 65,
+      "penggunaan_bukan_domestik_jlh": 15
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 988,
+      "penggunaan_domestik_jlh": 481,
+      "penggunaan_bukan_domestik_jlh": 327
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 1132,
+      "penggunaan_domestik_jlh": 314,
+      "penggunaan_bukan_domestik_jlh": 216
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1165,
+      "penggunaan_domestik_jlh": 446,
+      "penggunaan_bukan_domestik_jlh": 345
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 4563,
+      "penggunaan_domestik_jlh": 1735,
+      "penggunaan_bukan_domestik_jlh": 1254
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 617,
+      "penggunaan_domestik_jlh": 230,
+      "penggunaan_bukan_domestik_jlh": 183
+    },
+    {
+      "tahun": 2013,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 64,
+      "penggunaan_domestik_jlh": 16,
+      "penggunaan_bukan_domestik_jlh": 31
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1568,
+      "penggunaan_domestik_jlh": 823,
+      "penggunaan_bukan_domestik_jlh": 391
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1299,
+      "penggunaan_domestik_jlh": 510,
+      "penggunaan_bukan_domestik_jlh": 187
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 445,
+      "penggunaan_domestik_jlh": 154,
+      "penggunaan_bukan_domestik_jlh": 71
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 15768,
+      "penggunaan_domestik_jlh": 6267,
+      "penggunaan_bukan_domestik_jlh": 3909
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 532,
+      "penggunaan_domestik_jlh": 196,
+      "penggunaan_bukan_domestik_jlh": 180
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 744,
+      "penggunaan_domestik_jlh": 259,
+      "penggunaan_bukan_domestik_jlh": 217
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 1108,
+      "penggunaan_domestik_jlh": 303,
+      "penggunaan_bukan_domestik_jlh": 216
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1224,
+      "penggunaan_domestik_jlh": 623,
+      "penggunaan_bukan_domestik_jlh": 236
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 208,
+      "penggunaan_domestik_jlh": 81,
+      "penggunaan_bukan_domestik_jlh": 15
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 995,
+      "penggunaan_domestik_jlh": 483,
+      "penggunaan_bukan_domestik_jlh": 330
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 1196,
+      "penggunaan_domestik_jlh": 330,
+      "penggunaan_bukan_domestik_jlh": 248
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1188,
+      "penggunaan_domestik_jlh": 469,
+      "penggunaan_bukan_domestik_jlh": 341
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 4594,
+      "penggunaan_domestik_jlh": 1779,
+      "penggunaan_bukan_domestik_jlh": 1268
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 598,
+      "penggunaan_domestik_jlh": 241,
+      "penggunaan_bukan_domestik_jlh": 179
+    },
+    {
+      "tahun": 2014,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 69,
+      "penggunaan_domestik_jlh": 17,
+      "penggunaan_bukan_domestik_jlh": 31
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1619,
+      "penggunaan_domestik_jlh": 811,
+      "penggunaan_bukan_domestik_jlh": 448
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1315,
+      "penggunaan_domestik_jlh": 511,
+      "penggunaan_bukan_domestik_jlh": 191
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 454,
+      "penggunaan_domestik_jlh": 159,
+      "penggunaan_bukan_domestik_jlh": 73
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 16159,
+      "penggunaan_domestik_jlh": 6378,
+      "penggunaan_bukan_domestik_jlh": 4067
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 519,
+      "penggunaan_domestik_jlh": 202,
+      "penggunaan_bukan_domestik_jlh": 186
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 752,
+      "penggunaan_domestik_jlh": 276,
+      "penggunaan_bukan_domestik_jlh": 217
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 1129,
+      "penggunaan_domestik_jlh": 309,
+      "penggunaan_bukan_domestik_jlh": 223
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1289,
+      "penggunaan_domestik_jlh": 628,
+      "penggunaan_bukan_domestik_jlh": 250
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 220,
+      "penggunaan_domestik_jlh": 81,
+      "penggunaan_bukan_domestik_jlh": 15
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 1014,
+      "penggunaan_domestik_jlh": 483,
+      "penggunaan_bukan_domestik_jlh": 329
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 1229,
+      "penggunaan_domestik_jlh": 315,
+      "penggunaan_bukan_domestik_jlh": 237
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1268,
+      "penggunaan_domestik_jlh": 478,
+      "penggunaan_bukan_domestik_jlh": 368
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 4675,
+      "penggunaan_domestik_jlh": 1862,
+      "penggunaan_bukan_domestik_jlh": 1316
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 603,
+      "penggunaan_domestik_jlh": 246,
+      "penggunaan_bukan_domestik_jlh": 182
+    },
+    {
+      "tahun": 2015,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 73,
+      "penggunaan_domestik_jlh": 17,
+      "penggunaan_bukan_domestik_jlh": 32
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1737,
+      "penggunaan_domestik_jlh": 773,
+      "penggunaan_bukan_domestik_jlh": 513
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1361,
+      "penggunaan_domestik_jlh": 525,
+      "penggunaan_bukan_domestik_jlh": 200
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 471,
+      "penggunaan_domestik_jlh": 163,
+      "penggunaan_bukan_domestik_jlh": 76
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 16772,
+      "penggunaan_domestik_jlh": 6490,
+      "penggunaan_bukan_domestik_jlh": 4249
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 510,
+      "penggunaan_domestik_jlh": 206,
+      "penggunaan_bukan_domestik_jlh": 199
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 779,
+      "penggunaan_domestik_jlh": 287,
+      "penggunaan_bukan_domestik_jlh": 233
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 1111,
+      "penggunaan_domestik_jlh": 342,
+      "penggunaan_bukan_domestik_jlh": 238
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1317,
+      "penggunaan_domestik_jlh": 655,
+      "penggunaan_bukan_domestik_jlh": 262
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 243,
+      "penggunaan_domestik_jlh": 82,
+      "penggunaan_bukan_domestik_jlh": 14
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 1054,
+      "penggunaan_domestik_jlh": 492,
+      "penggunaan_bukan_domestik_jlh": 335
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 1223,
+      "penggunaan_domestik_jlh": 338,
+      "penggunaan_bukan_domestik_jlh": 249
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1447,
+      "penggunaan_domestik_jlh": 463,
+      "penggunaan_bukan_domestik_jlh": 385
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 4807,
+      "penggunaan_domestik_jlh": 1883,
+      "penggunaan_bukan_domestik_jlh": 1336
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 640,
+      "penggunaan_domestik_jlh": 264,
+      "penggunaan_bukan_domestik_jlh": 176
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 72,
+      "penggunaan_domestik_jlh": 17,
+      "penggunaan_bukan_domestik_jlh": 33
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1680,
+      "penggunaan_domestik_jlh": 785,
+      "penggunaan_bukan_domestik_jlh": 535
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1370,
+      "penggunaan_domestik_jlh": 523,
+      "penggunaan_bukan_domestik_jlh": 195
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 475,
+      "penggunaan_domestik_jlh": 162,
+      "penggunaan_bukan_domestik_jlh": 79
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 16827,
+      "penggunaan_domestik_jlh": 6447,
+      "penggunaan_bukan_domestik_jlh": 4341
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 513,
+      "penggunaan_domestik_jlh": 206,
+      "penggunaan_bukan_domestik_jlh": 207
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 771,
+      "penggunaan_domestik_jlh": 288,
+      "penggunaan_bukan_domestik_jlh": 231
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 1109,
+      "penggunaan_domestik_jlh": 333,
+      "penggunaan_bukan_domestik_jlh": 250
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1314,
+      "penggunaan_domestik_jlh": 648,
+      "penggunaan_bukan_domestik_jlh": 260
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 228,
+      "penggunaan_domestik_jlh": 78,
+      "penggunaan_bukan_domestik_jlh": 11
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 1058,
+      "penggunaan_domestik_jlh": 482,
+      "penggunaan_bukan_domestik_jlh": 344
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 1261,
+      "penggunaan_domestik_jlh": 323,
+      "penggunaan_bukan_domestik_jlh": 259
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1494,
+      "penggunaan_domestik_jlh": 476,
+      "penggunaan_bukan_domestik_jlh": 395
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 4842,
+      "penggunaan_domestik_jlh": 1870,
+      "penggunaan_bukan_domestik_jlh": 1373
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 641,
+      "penggunaan_domestik_jlh": 256,
+      "penggunaan_bukan_domestik_jlh": 171
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 71,
+      "penggunaan_domestik_jlh": 17,
+      "penggunaan_bukan_domestik_jlh": 31
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1757,
+      "penggunaan_domestik_jlh": 809,
+      "penggunaan_bukan_domestik_jlh": 576
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1446,
+      "penggunaan_domestik_jlh": 544,
+      "penggunaan_bukan_domestik_jlh": 201
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 491,
+      "penggunaan_domestik_jlh": 164,
+      "penggunaan_bukan_domestik_jlh": 85
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 17287,
+      "penggunaan_domestik_jlh": 6605,
+      "penggunaan_bukan_domestik_jlh": 4476
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 528,
+      "penggunaan_domestik_jlh": 209,
+      "penggunaan_bukan_domestik_jlh": 207
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 780,
+      "penggunaan_domestik_jlh": 293,
+      "penggunaan_bukan_domestik_jlh": 238
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 1158,
+      "penggunaan_domestik_jlh": 333,
+      "penggunaan_bukan_domestik_jlh": 256
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1333,
+      "penggunaan_domestik_jlh": 665,
+      "penggunaan_bukan_domestik_jlh": 268
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 234,
+      "penggunaan_domestik_jlh": 80,
+      "penggunaan_bukan_domestik_jlh": 10
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 1073,
+      "penggunaan_domestik_jlh": 491,
+      "penggunaan_bukan_domestik_jlh": 349
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 1304,
+      "penggunaan_domestik_jlh": 341,
+      "penggunaan_bukan_domestik_jlh": 275
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1625,
+      "penggunaan_domestik_jlh": 487,
+      "penggunaan_bukan_domestik_jlh": 409
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 4856,
+      "penggunaan_domestik_jlh": 1916,
+      "penggunaan_bukan_domestik_jlh": 1400
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 627,
+      "penggunaan_domestik_jlh": 255,
+      "penggunaan_bukan_domestik_jlh": 169
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 74,
+      "penggunaan_domestik_jlh": 18,
+      "penggunaan_bukan_domestik_jlh": 33
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1888,
+      "penggunaan_domestik_jlh": 835,
+      "penggunaan_bukan_domestik_jlh": 599
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1474,
+      "penggunaan_domestik_jlh": 551,
+      "penggunaan_bukan_domestik_jlh": 208
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 503,
+      "penggunaan_domestik_jlh": 163,
+      "penggunaan_bukan_domestik_jlh": 85
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 17743,
+      "penggunaan_domestik_jlh": 6811,
+      "penggunaan_bukan_domestik_jlh": 4688
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 538,
+      "penggunaan_domestik_jlh": 210,
+      "penggunaan_bukan_domestik_jlh": 214
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 784,
+      "penggunaan_domestik_jlh": 294,
+      "penggunaan_bukan_domestik_jlh": 244
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 1194,
+      "penggunaan_domestik_jlh": 339,
+      "penggunaan_bukan_domestik_jlh": 288
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1357,
+      "penggunaan_domestik_jlh": 679,
+      "penggunaan_bukan_domestik_jlh": 278
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 252,
+      "penggunaan_domestik_jlh": 80,
+      "penggunaan_bukan_domestik_jlh": 12
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 1093,
+      "penggunaan_domestik_jlh": 499,
+      "penggunaan_bukan_domestik_jlh": 343
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 1374,
+      "penggunaan_domestik_jlh": 366,
+      "penggunaan_bukan_domestik_jlh": 278
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1646,
+      "penggunaan_domestik_jlh": 499,
+      "penggunaan_bukan_domestik_jlh": 468
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 4932,
+      "penggunaan_domestik_jlh": 2012,
+      "penggunaan_bukan_domestik_jlh": 1459
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 632,
+      "penggunaan_domestik_jlh": 266,
+      "penggunaan_bukan_domestik_jlh": 176
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 76,
+      "penggunaan_domestik_jlh": 18,
+      "penggunaan_bukan_domestik_jlh": 36
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1831,
+      "penggunaan_domestik_jlh": 867,
+      "penggunaan_bukan_domestik_jlh": 526
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1487,
+      "penggunaan_domestik_jlh": 574,
+      "penggunaan_bukan_domestik_jlh": 193
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 507,
+      "penggunaan_domestik_jlh": 170,
+      "penggunaan_bukan_domestik_jlh": 75
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 17928,
+      "penggunaan_domestik_jlh": 7179,
+      "penggunaan_bukan_domestik_jlh": 4298
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 578,
+      "penggunaan_domestik_jlh": 215,
+      "penggunaan_bukan_domestik_jlh": 189
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 795,
+      "penggunaan_domestik_jlh": 318,
+      "penggunaan_bukan_domestik_jlh": 222
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 1269,
+      "penggunaan_domestik_jlh": 367,
+      "penggunaan_bukan_domestik_jlh": 264
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1392,
+      "penggunaan_domestik_jlh": 706,
+      "penggunaan_bukan_domestik_jlh": 266
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 243,
+      "penggunaan_domestik_jlh": 78,
+      "penggunaan_bukan_domestik_jlh": 12
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 1108,
+      "penggunaan_domestik_jlh": 533,
+      "penggunaan_bukan_domestik_jlh": 314
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 1319,
+      "penggunaan_domestik_jlh": 313,
+      "penggunaan_bukan_domestik_jlh": 224
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1693,
+      "penggunaan_domestik_jlh": 548,
+      "penggunaan_bukan_domestik_jlh": 448
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 4967,
+      "penggunaan_domestik_jlh": 2186,
+      "penggunaan_bukan_domestik_jlh": 1362
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 657,
+      "penggunaan_domestik_jlh": 286,
+      "penggunaan_bukan_domestik_jlh": 165
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 82,
+      "penggunaan_domestik_jlh": 17,
+      "penggunaan_bukan_domestik_jlh": 40
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1848,
+      "penggunaan_domestik_jlh": 879,
+      "penggunaan_bukan_domestik_jlh": 505
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1538,
+      "penggunaan_domestik_jlh": 590,
+      "penggunaan_bukan_domestik_jlh": 179
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 504,
+      "penggunaan_domestik_jlh": 171,
+      "penggunaan_bukan_domestik_jlh": 68
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 18190,
+      "penggunaan_domestik_jlh": 7540,
+      "penggunaan_bukan_domestik_jlh": 4180
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 603,
+      "penggunaan_domestik_jlh": 230,
+      "penggunaan_bukan_domestik_jlh": 184
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 811,
+      "penggunaan_domestik_jlh": 327,
+      "penggunaan_bukan_domestik_jlh": 222
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 1281,
+      "penggunaan_domestik_jlh": 391,
+      "penggunaan_bukan_domestik_jlh": 259
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1386,
+      "penggunaan_domestik_jlh": 703,
+      "penggunaan_bukan_domestik_jlh": 266
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 236,
+      "penggunaan_domestik_jlh": 80,
+      "penggunaan_bukan_domestik_jlh": 11
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 1126,
+      "penggunaan_domestik_jlh": 547,
+      "penggunaan_bukan_domestik_jlh": 313
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 1365,
+      "penggunaan_domestik_jlh": 425,
+      "penggunaan_bukan_domestik_jlh": 225
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1767,
+      "penggunaan_domestik_jlh": 579,
+      "penggunaan_bukan_domestik_jlh": 440
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 4985,
+      "penggunaan_domestik_jlh": 2294,
+      "penggunaan_bukan_domestik_jlh": 1315
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 656,
+      "penggunaan_domestik_jlh": 302,
+      "penggunaan_bukan_domestik_jlh": 161
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 84,
+      "penggunaan_domestik_jlh": 20,
+      "penggunaan_bukan_domestik_jlh": 32
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": 1837,
+      "penggunaan_domestik_jlh": 867,
+      "penggunaan_bukan_domestik_jlh": 536
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": 1597,
+      "penggunaan_domestik_jlh": 560,
+      "penggunaan_bukan_domestik_jlh": 217
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": 517,
+      "penggunaan_domestik_jlh": 162,
+      "penggunaan_bukan_domestik_jlh": 77
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": 18828,
+      "penggunaan_domestik_jlh": 7353,
+      "penggunaan_bukan_domestik_jlh": 4553
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": 649,
+      "penggunaan_domestik_jlh": 228,
+      "penggunaan_bukan_domestik_jlh": 205
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": 848,
+      "penggunaan_domestik_jlh": 307,
+      "penggunaan_bukan_domestik_jlh": 231
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": 1337,
+      "penggunaan_domestik_jlh": 385,
+      "penggunaan_bukan_domestik_jlh": 280
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": 1418,
+      "penggunaan_domestik_jlh": 699,
+      "penggunaan_bukan_domestik_jlh": 289
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": 243,
+      "penggunaan_domestik_jlh": 80,
+      "penggunaan_bukan_domestik_jlh": 18
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": 1178,
+      "penggunaan_domestik_jlh": 534,
+      "penggunaan_bukan_domestik_jlh": 334
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": 1404,
+      "penggunaan_domestik_jlh": 394,
+      "penggunaan_bukan_domestik_jlh": 238
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": 1881,
+      "penggunaan_domestik_jlh": 602,
+      "penggunaan_bukan_domestik_jlh": 463
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": 5116,
+      "penggunaan_domestik_jlh": 2230,
+      "penggunaan_bukan_domestik_jlh": 1459
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": 720,
+      "penggunaan_domestik_jlh": 286,
+      "penggunaan_bukan_domestik_jlh": 173
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": 83,
+      "penggunaan_domestik_jlh": 19,
+      "penggunaan_bukan_domestik_jlh": 33
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 883,
+      "penggunaan_bukan_domestik_jlh": 572
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 511,
+      "penggunaan_bukan_domestik_jlh": 278
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 159,
+      "penggunaan_bukan_domestik_jlh": 79
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 7244,
+      "penggunaan_bukan_domestik_jlh": 4985
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 235,
+      "penggunaan_bukan_domestik_jlh": 214
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 309,
+      "penggunaan_bukan_domestik_jlh": 226
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 385,
+      "penggunaan_bukan_domestik_jlh": 291
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 600,
+      "penggunaan_bukan_domestik_jlh": 387
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 63,
+      "penggunaan_bukan_domestik_jlh": 34
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 503,
+      "penggunaan_bukan_domestik_jlh": 378
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 416,
+      "penggunaan_bukan_domestik_jlh": 229
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 624,
+      "penggunaan_bukan_domestik_jlh": 572
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 2248,
+      "penggunaan_bukan_domestik_jlh": 1506
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 289,
+      "penggunaan_bukan_domestik_jlh": 187
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 19,
+      "penggunaan_bukan_domestik_jlh": 32
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Johor",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 901,
+      "penggunaan_bukan_domestik_jlh": 610
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kedah",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 499,
+      "penggunaan_bukan_domestik_jlh": 283
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kelantan",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 164,
+      "penggunaan_bukan_domestik_jlh": 80
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Malaysia",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 7534,
+      "penggunaan_bukan_domestik_jlh": 5077
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Melaka",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 242,
+      "penggunaan_bukan_domestik_jlh": 215
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Negeri Sembilan",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 323,
+      "penggunaan_bukan_domestik_jlh": 237
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pahang",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 378,
+      "penggunaan_bukan_domestik_jlh": 293
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perak",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 601,
+      "penggunaan_bukan_domestik_jlh": 398
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perlis",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 64,
+      "penggunaan_bukan_domestik_jlh": 36
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pulau Pinang",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 495,
+      "penggunaan_bukan_domestik_jlh": 375
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sabah",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 667,
+      "penggunaan_bukan_domestik_jlh": 145
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sarawak",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 599,
+      "penggunaan_bukan_domestik_jlh": 586
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Selangor",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 2288,
+      "penggunaan_bukan_domestik_jlh": 1591
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Terengganu",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 294,
+      "penggunaan_bukan_domestik_jlh": 195
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Labuan",
+      "pengeluaran_air_jlh": "",
+      "penggunaan_domestik_jlh": 19,
+      "penggunaan_bukan_domestik_jlh": 32
+    }
+  ],
+  "meta": {
+    "title": "Pengeluaran dan Penggunaan Air mengikut Negeri - Muat turun percuma",
+    "description": "Pengeluaran air dan penggunaan air domestik serta bukan domestik tahunan mengikut negeri (juta liter sehari, JLH). Sumber: SPAN / NRES / DOSM. Mengandungi 375 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Pengeluaran dan Penggunaan Air mengikut Negeri | ListBase",
+    "seo_description": "Muat turun Pengeluaran dan Penggunaan Air mengikut Negeri — 375 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 375 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/water_consumption"
+    ]
+  }
+}
