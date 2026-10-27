@@ -1,0 +1,112 @@
+{
+  "id": "ms-unit-ukuran-melayu",
+  "name": "Unit Ukuran Melayu Tradisional",
+  "title": "Unit Ukuran Melayu Tradisional",
+  "description": "Unit ukuran tradisional Melayu bagi isipadu (dengan nilai gelen imperial dan mililiter) dan panjang (dengan nilai metrik).",
+  "category": "units",
+  "source": "https://ms.wikipedia.org/wiki/Unit_ukuran_Melayu",
+  "source_url": "https://ms.wikipedia.org/wiki/Unit_ukuran_Melayu",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "jenis",
+      "label": "Jenis",
+      "type": "string"
+    },
+    {
+      "key": "galon_imperial",
+      "label": "Galon Imperial",
+      "type": "string"
+    },
+    {
+      "key": "nilai_metrik",
+      "label": "Nilai Metrik",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit": "kepul",
+      "jenis": "isipadu",
+      "galon_imperial": "1/16",
+      "nilai_metrik": "284.130625 mL"
+    },
+    {
+      "unit": "leng",
+      "jenis": "isipadu",
+      "galon_imperial": "1/8",
+      "nilai_metrik": "568.26125 mL"
+    },
+    {
+      "unit": "cupak",
+      "jenis": "isipadu",
+      "galon_imperial": "1/4",
+      "nilai_metrik": "1136.5225 mL"
+    },
+    {
+      "unit": "gantang",
+      "jenis": "isipadu",
+      "galon_imperial": "1",
+      "nilai_metrik": "4546.09 mL"
+    },
+    {
+      "unit": "sukat",
+      "jenis": "isipadu",
+      "galon_imperial": "4",
+      "nilai_metrik": "18184.36 mL"
+    },
+    {
+      "unit": "nalih",
+      "jenis": "isipadu",
+      "galon_imperial": "16",
+      "nilai_metrik": "72737.44 mL"
+    },
+    {
+      "unit": "kunca",
+      "jenis": "isipadu",
+      "galon_imperial": "160",
+      "nilai_metrik": "727374.4 mL"
+    },
+    {
+      "unit": "jangkal",
+      "jenis": "panjang",
+      "galon_imperial": "",
+      "nilai_metrik": "22.2 cm"
+    },
+    {
+      "unit": "hasta",
+      "jenis": "panjang",
+      "galon_imperial": "",
+      "nilai_metrik": "45.72 cm"
+    },
+    {
+      "unit": "ela",
+      "jenis": "panjang",
+      "galon_imperial": "",
+      "nilai_metrik": "91 cm"
+    },
+    {
+      "unit": "depa",
+      "jenis": "panjang",
+      "galon_imperial": "",
+      "nilai_metrik": "1.828 m"
+    }
+  ],
+  "meta": {
+    "title": "Unit Ukuran Melayu Tradisional - Muat turun percuma",
+    "description": "Unit ukuran tradisional Melayu bagi isipadu (dengan nilai gelen imperial dan mililiter) dan panjang (dengan nilai metrik). Mengandungi 11 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Unit Ukuran Melayu Tradisional | ListBase",
+    "seo_description": "Muat turun Unit Ukuran Melayu Tradisional — 11 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 11 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Unit_ukuran_Melayu"
+    ]
+  }
+}

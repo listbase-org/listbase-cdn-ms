@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:41.206Z",
-  "total_datasets": 661,
-  "total_records": 538749,
+  "generated": "2026-10-27T02:39:43.821Z",
+  "total_datasets": 662,
+  "total_records": 538760,
   "categories": [
     {
       "id": "agriculture",
@@ -95,6 +95,10 @@
     {
       "id": "transport",
       "dataset_count": 65
+    },
+    {
+      "id": "units",
+      "dataset_count": 1
     }
   ],
   "datasets": [
@@ -20940,6 +20944,31 @@
         "xlsx": {
           "name": "ms-wp-putrajaya-lapangan-terbang_MS.xlsx",
           "size": 7066
+        }
+      }
+    },
+    {
+      "id": "ms-unit-ukuran-melayu",
+      "name": "Unit Ukuran Melayu Tradisional",
+      "category": "units",
+      "record_count": 11,
+      "columns": [
+        "unit",
+        "jenis",
+        "galon_imperial",
+        "nilai_metrik"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Unit_ukuran_Melayu",
+      "updated": "2026-10",
+      "size": 2925,
+      "files": {
+        "csv": {
+          "name": "ms-unit-ukuran-melayu_MS.csv",
+          "size": 437
+        },
+        "xlsx": {
+          "name": "ms-unit-ukuran-melayu_MS.xlsx",
+          "size": 7106
         }
       }
     }
