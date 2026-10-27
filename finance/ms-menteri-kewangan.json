@@ -1,0 +1,191 @@
+{
+  "id": "ms-menteri-kewangan",
+  "name": "Senarai Menteri Kewangan Malaysia",
+  "title": "Senarai Menteri Kewangan Malaysia",
+  "description": "Menteri Kewangan Malaysia sejak 1957 dengan parti, gelaran jawatan, tempoh perkhidmatan dan kabinet.",
+  "category": "finance",
+  "source": "https://ms.wikipedia.org/wiki/Menteri_Kewangan_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Menteri_Kewangan_Malaysia",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "gelaran_jawatan",
+      "label": "Gelaran Jawatan",
+      "type": "string"
+    },
+    {
+      "key": "tempoh_perkhidmatan",
+      "label": "Tempoh Perkhidmatan",
+      "type": "string"
+    },
+    {
+      "key": "perdana_menteri_kabinet",
+      "label": "Perdana Menteri Kabinet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Tun Sir Henry Lee Hau-shik",
+      "parti": "Perikatan ( MCA )",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "1957 - 1959",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (I)"
+    },
+    {
+      "nama": "Tun Tan Siew Sin AP Melaka Tengah",
+      "parti": "Perikatan ( MCA )",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "1959 - 1974",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (II • III • IV) Abdul Razak Hussein (I)"
+    },
+    {
+      "nama": "Tun Hussein Dato' Onn AP Sri Gading",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "1974 - 1976",
+      "perdana_menteri_kabinet": "Abdul Razak Hussein (II)"
+    },
+    {
+      "nama": "Tan Sri Tengku Razaleigh Tengku Mohd Hamzah AP Ulu Kelantan",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "1976 - 1984",
+      "perdana_menteri_kabinet": "Hussein Onn (I • II) Mahathir Mohamad (I • II)"
+    },
+    {
+      "nama": "Tun Dr. Abdul Daim Zainuddin AP Kuala Muda AP Merbok",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "14 Julai 1984 - 15 Mac 1991",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (II • III • IV)"
+    },
+    {
+      "nama": "Dato' Seri Anwar Ibrahim AP Permatang Pauh",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "15 Mac 1991 - 2 September 1998",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (IV • V)"
+    },
+    {
+      "nama": "Tun Dr Mahathir Mohamad (Perdana Menteri) AP Kubang Pasu",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "2 September 1998 - 7 Januari 1999",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (V)"
+    },
+    {
+      "nama": "Dato' Sri Mustapa Mohamed AP Jeli",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan Kedua",
+      "tempoh_perkhidmatan": "2 September 1998 - 14 Disember 1999",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (V)"
+    },
+    {
+      "nama": "Tun Dr. Abdul Daim Zainuddin AP Merbok",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "7 Januari 1999 - 31 Mei 2001",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (V • VI)"
+    },
+    {
+      "nama": "Tun Dr Mahathir Mohamad (Perdana Menteri) AP Kubang Pasu",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "5 Jun 2001 - 2 November 2003",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (VI)"
+    },
+    {
+      "nama": "Tan Sri Ir. Jamaluddin Datuk Mohd Jarjis AP Rompin",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan Kedua",
+      "tempoh_perkhidmatan": "20 November 2002 - 26 Mac 2004",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (VI) Abdullah Ahmad Badawi (I)"
+    },
+    {
+      "nama": "Tun Abdullah Ahmad Badawi (Perdana Menteri) AP Kepala Batas",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "3 November 2003 - 23 September 2008",
+      "perdana_menteri_kabinet": "Abdullah Ahmad Badawi (I • II • III)"
+    },
+    {
+      "nama": "Tan Sri Nor Mohamed Yakcop Senator AP Tasek Gelugor",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan Kedua",
+      "tempoh_perkhidmatan": "27 Mac 2004 - 9 April 2009",
+      "perdana_menteri_kabinet": "Abdullah Ahmad Badawi (II • III)"
+    },
+    {
+      "nama": "Dato' Sri Mohammad Najib Tun Abdul Razak (Perdana Menteri) AP Pekan",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "23 September 2008 - 10 Mei 2018",
+      "perdana_menteri_kabinet": "Abdullah Ahmad Badawi (III) Najib Razak (I • II)"
+    },
+    {
+      "nama": "Dato' Seri Ahmad Husni Mohamad Hanadzlah AP Tambun",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan Kedua",
+      "tempoh_perkhidmatan": "10 April 2009 - 27 Jun 2016",
+      "perdana_menteri_kabinet": "Najib Razak (I • II)"
+    },
+    {
+      "nama": "Datuk Seri Johari Abdul Ghani AP Titiwangsa",
+      "parti": "BN ( UMNO )",
+      "gelaran_jawatan": "Menteri Kewangan Kedua",
+      "tempoh_perkhidmatan": "27 Jun 2016 - 7 April 2018",
+      "perdana_menteri_kabinet": "Najib Razak (II)"
+    },
+    {
+      "nama": "Lim Guan Eng AP Bagan",
+      "parti": "PH ( DAP )",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "21 Mei 2018 - 24 Februari 2020",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (VII)"
+    },
+    {
+      "nama": "Tengku Dato’ Sri Zafrul bin Tengku Abdul Aziz Senator",
+      "parti": "N/A",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "10 Mac 2020 - 16 Ogos 2021",
+      "perdana_menteri_kabinet": "Muhyiddin Yassin (I) Ismail Sabri Yaakob (I)"
+    },
+    {
+      "nama": "Dato Seri Anwar Ibrahim (Perdana Menteri) AP Tambun",
+      "parti": "PH ( PKR )",
+      "gelaran_jawatan": "Menteri Kewangan",
+      "tempoh_perkhidmatan": "3 Disember 2022 - kini",
+      "perdana_menteri_kabinet": "Anwar Ibrahim (I)"
+    },
+    {
+      "nama": "Datuk Seri Amir Hamzah Azizan Senator",
+      "parti": "N/A",
+      "gelaran_jawatan": "Menteri Kewangan Kedua",
+      "tempoh_perkhidmatan": "12 Disember 2023 - kini",
+      "perdana_menteri_kabinet": "Anwar Ibrahim (II)"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Menteri Kewangan Malaysia - Muat turun percuma",
+    "description": "Menteri Kewangan Malaysia sejak 1957 dengan parti, gelaran jawatan, tempoh perkhidmatan dan kabinet. Mengandungi 20 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Menteri Kewangan Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Menteri Kewangan Malaysia — 20 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 20 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Menteri_Kewangan_Malaysia"
+    ]
+  }
+}
