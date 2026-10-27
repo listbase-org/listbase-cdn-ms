@@ -1,0 +1,121 @@
+{
+  "id": "ms-gabenor-bank-negara",
+  "name": "Senarai Gabenor Bank Negara Malaysia",
+  "title": "Senarai Gabenor Bank Negara Malaysia",
+  "description": "Gabenor Bank Negara Malaysia sejak 1959 dengan tempoh menjawat dan Menteri Kewangan semasa.",
+  "category": "finance",
+  "source": "https://ms.wikipedia.org/wiki/Gabenor_Bank_Negara_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Gabenor_Bank_Negara_Malaysia",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "mula",
+      "label": "Mula",
+      "type": "string"
+    },
+    {
+      "key": "akhir",
+      "label": "Akhir",
+      "type": "string"
+    },
+    {
+      "key": "menteri_kewangan",
+      "label": "Menteri Kewangan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "nama": "W. H. Wilcock Tan Sri William Howard Wilcock'",
+      "mula": "Januari 1959",
+      "akhir": "Julai 1962",
+      "menteri_kewangan": "Henry Lee Hau-shik Tan Siew Sin"
+    },
+    {
+      "no": 2,
+      "nama": "Ismail Mohd Ali Tun Ismail bin Mohd Ali",
+      "mula": "Julai 1962",
+      "akhir": "Julai 1980",
+      "menteri_kewangan": "Tan Siew Sin Abdul Razak bin Hussein Tengku Razaleigh bin Tengku Mohamad Hamzah"
+    },
+    {
+      "no": 3,
+      "nama": "Abdul Aziz Taha Tan Sri Dato' Abdul Aziz bin Taha",
+      "mula": "Julai 1980",
+      "akhir": "Jun 1985",
+      "menteri_kewangan": "Tengku Razaleigh Tengku Mohamad Hamzah Abdul Daim bin Zainuddin"
+    },
+    {
+      "no": 4,
+      "nama": "Jaffar Hussein Tan Sri Dato' Jaffar bin Hussein",
+      "mula": "Jun 1985",
+      "akhir": "Mei 1994",
+      "menteri_kewangan": "Abdul Daim bin Zainuddin Anwar Ibrahim"
+    },
+    {
+      "no": 5,
+      "nama": "Ahmad Mohd Don Tan Sri Dato' Ahmad bin Mohd. Don",
+      "mula": "Mei 1994",
+      "akhir": "Ogos 1998",
+      "menteri_kewangan": "Anwar Ibrahim"
+    },
+    {
+      "no": 6,
+      "nama": "Ali Abul Hassan Sulaiman Tan Sri Dato' Seri Ali Abul Hasan bin Sulaiman",
+      "mula": "September 1998",
+      "akhir": "1 Mei 2000",
+      "menteri_kewangan": "Anwar Ibrahim Mahathir Mohamad Abdul Daim bin Zainuddin"
+    },
+    {
+      "no": 7,
+      "nama": "Zeti Akhtar Aziz YM Tan Sri Datin Paduka Dr. Ungku Zeti Akhtar binti Prof DiRaja Tun Dr. Ungku Abdul Aziz",
+      "mula": "1 Mei 2000",
+      "akhir": "28 April 2016",
+      "menteri_kewangan": "Abdul Daim bin Zainuddin Mahathir Mohamad Abdullah Ahmad Badawi Mohd Najib Abdul Razak"
+    },
+    {
+      "no": 8,
+      "nama": "Muhammad Ibrahim Tan Sri Dato' Seri Muhammad bin Ibrahim",
+      "mula": "1 Mei 2016",
+      "akhir": "14 Jun 2018",
+      "menteri_kewangan": "Mohd Najib bin Abdul Razak Lim Guan Eng"
+    },
+    {
+      "no": 9,
+      "nama": "Nor Shamsiah Mohd Yunus Tan Sri Datuk Nor Shamsiah binti Mohd Yunus",
+      "mula": "1 Julai 2018",
+      "akhir": "30 Jun 2023",
+      "menteri_kewangan": "Lim Guan Eng Tengku Zafrul Tengku Abdul Aziz Anwar Ibrahim"
+    },
+    {
+      "no": 10,
+      "nama": "Shaik Abdul Rasheed Abdul Ghaffour Dato' Sri Shaik Abdul Rasheed bin Abdul Ghaffour",
+      "mula": "1 Julai 2023",
+      "akhir": "kini",
+      "menteri_kewangan": "Anwar Ibrahim"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Gabenor Bank Negara Malaysia - Muat turun percuma",
+    "description": "Gabenor Bank Negara Malaysia sejak 1959 dengan tempoh menjawat dan Menteri Kewangan semasa. Mengandungi 10 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Gabenor Bank Negara Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Gabenor Bank Negara Malaysia — 10 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 10 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Gabenor_Bank_Negara_Malaysia"
+    ]
+  }
+}

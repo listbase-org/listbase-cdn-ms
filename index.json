@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:38:43.911Z",
-  "total_datasets": 640,
-  "total_records": 525306,
+  "generated": "2026-10-27T02:38:46.596Z",
+  "total_datasets": 641,
+  "total_records": 525316,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "food",
@@ -3205,6 +3205,32 @@
         "xlsx": {
           "name": "ms-dividen-kwsp_MS.xlsx",
           "size": 7885
+        }
+      }
+    },
+    {
+      "id": "ms-gabenor-bank-negara",
+      "name": "Senarai Gabenor Bank Negara Malaysia",
+      "category": "finance",
+      "record_count": 10,
+      "columns": [
+        "no",
+        "nama",
+        "mula",
+        "akhir",
+        "menteri_kewangan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Gabenor_Bank_Negara_Malaysia",
+      "updated": "2026-10",
+      "size": 4007,
+      "files": {
+        "csv": {
+          "name": "ms-gabenor-bank-negara_MS.csv",
+          "size": 1494
+        },
+        "xlsx": {
+          "name": "ms-gabenor-bank-negara_MS.xlsx",
+          "size": 7516
         }
       }
     },
