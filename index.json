@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:38:49.331Z",
-  "total_datasets": 642,
-  "total_records": 525800,
+  "generated": "2026-10-27T02:38:52.022Z",
+  "total_datasets": 643,
+  "total_records": 525996,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -3314,6 +3314,29 @@
         "xlsx": {
           "name": "ms-harga-ikan-spesies_MS.xlsx",
           "size": 13174
+        }
+      }
+    },
+    {
+      "id": "ms-hidangan-masakan-malaysia",
+      "name": "Hidangan dalam Masakan Malaysia",
+      "category": "food",
+      "record_count": 196,
+      "columns": [
+        "hidangan",
+        "kumpulan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Masakan_Malaysia",
+      "updated": "2026-10",
+      "size": 15763,
+      "files": {
+        "csv": {
+          "name": "ms-hidangan-masakan-malaysia_MS.csv",
+          "size": 4514
+        },
+        "xlsx": {
+          "name": "ms-hidangan-masakan-malaysia_MS.xlsx",
+          "size": 10231
         }
       }
     },
