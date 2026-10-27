@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:27.068Z",
-  "total_datasets": 656,
-  "total_records": 527068,
+  "generated": "2026-10-27T02:39:29.698Z",
+  "total_datasets": 657,
+  "total_records": 527164,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -3260,6 +3260,34 @@
         "xlsx": {
           "name": "ms-pelepasan-gas-rumah-hijau_MS.xlsx",
           "size": 9041
+        }
+      }
+    },
+    {
+      "id": "ms-pencemaran-udara-bulanan",
+      "name": "Kepekatan Pencemar Udara Bulanan Malaysia (2017–2024)",
+      "category": "environment",
+      "record_count": 96,
+      "columns": [
+        "bulan",
+        "co",
+        "no2",
+        "o3",
+        "so2",
+        "pm10",
+        "pm2_5"
+      ],
+      "source": "https://data.gov.my/data-catalogue/air_pollution",
+      "updated": "2026-10",
+      "size": 17219,
+      "files": {
+        "csv": {
+          "name": "ms-pencemaran-udara-bulanan_MS.csv",
+          "size": 5573
+        },
+        "xlsx": {
+          "name": "ms-pencemaran-udara-bulanan_MS.xlsx",
+          "size": 10709
         }
       }
     },
