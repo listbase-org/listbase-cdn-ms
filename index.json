@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:03.379Z",
-  "total_datasets": 647,
-  "total_records": 526864,
+  "generated": "2026-10-27T02:39:06.503Z",
+  "total_datasets": 648,
+  "total_records": 526872,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -3453,6 +3453,32 @@
         "xlsx": {
           "name": "ms-hidangan-masakan-malaysia_MS.xlsx",
           "size": 10231
+        }
+      }
+    },
+    {
+      "id": "ms-klon-durian-popular",
+      "name": "Klon Durian Popular dan Cirinya",
+      "category": "food",
+      "record_count": 8,
+      "columns": [
+        "klon",
+        "nama_biasa",
+        "saiz_buah",
+        "ciri_isi",
+        "ciri_khas"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kultivar_durian",
+      "updated": "2026-10",
+      "size": 3816,
+      "files": {
+        "csv": {
+          "name": "ms-klon-durian-popular_MS.csv",
+          "size": 1463
+        },
+        "xlsx": {
+          "name": "ms-klon-durian-popular_MS.xlsx",
+          "size": 7417
         }
       }
     },
