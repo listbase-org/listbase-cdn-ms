@@ -1,0 +1,124 @@
+{
+  "id": "ms-peguam-negara",
+  "name": "Senarai Peguam Negara Malaysia",
+  "title": "Senarai Peguam Negara Malaysia",
+  "description": "Peguam Negara Persekutuan Tanah Melayu dan Malaysia sejak 1955 dengan tempoh berkhidmat.",
+  "category": "law",
+  "source": "https://ms.wikipedia.org/wiki/Peguam_Negara_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Peguam_Negara_Malaysia",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "mula",
+      "label": "Mula",
+      "type": "number"
+    },
+    {
+      "key": "tamat",
+      "label": "Tamat",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1.",
+      "nama": "Thomas Vernor Alexander Brodie",
+      "mula": 1955,
+      "tamat": 1959
+    },
+    {
+      "no": "2.",
+      "nama": "Cecil M. Sheridan",
+      "mula": 1959,
+      "tamat": 1963
+    },
+    {
+      "no": "3.",
+      "nama": "Abdul Kadir Yusof",
+      "mula": 1963,
+      "tamat": 1977
+    },
+    {
+      "no": "4.",
+      "nama": "Hamzah Abu Samah",
+      "mula": 1977,
+      "tamat": 1980
+    },
+    {
+      "no": "5.",
+      "nama": "Abu Talib Othman",
+      "mula": 1980,
+      "tamat": 1993
+    },
+    {
+      "no": "6.",
+      "nama": "Mohtar bin Abdullah",
+      "mula": 1994,
+      "tamat": 2000
+    },
+    {
+      "no": "7.",
+      "nama": "Ainum binti Mohd Said",
+      "mula": 2001,
+      "tamat": 2001
+    },
+    {
+      "no": "8.",
+      "nama": "Abdul Gani Patail",
+      "mula": 2002,
+      "tamat": 2015
+    },
+    {
+      "no": "9.",
+      "nama": "Mohamed Apandi Ali",
+      "mula": 2015,
+      "tamat": 2018
+    },
+    {
+      "no": "10.",
+      "nama": "Tommy Thomas",
+      "mula": 2018,
+      "tamat": 2020
+    },
+    {
+      "no": "11.",
+      "nama": "Idrus Harun",
+      "mula": 2020,
+      "tamat": 2023
+    },
+    {
+      "no": "12.",
+      "nama": "Ahmad Terrirudin Mohd Salleh",
+      "mula": 2023,
+      "tamat": 2024
+    },
+    {
+      "no": "13.",
+      "nama": "Mohd Dusuki Mokhtar",
+      "mula": 2024,
+      "tamat": "kini"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Peguam Negara Malaysia - Muat turun percuma",
+    "description": "Peguam Negara Persekutuan Tanah Melayu dan Malaysia sejak 1955 dengan tempoh berkhidmat. Mengandungi 13 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Peguam Negara Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Peguam Negara Malaysia — 13 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 13 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Peguam_Negara_Malaysia"
+    ]
+  }
+}
