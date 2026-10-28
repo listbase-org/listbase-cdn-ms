@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-27T02:39:43.821Z",
-  "total_datasets": 662,
-  "total_records": 538760,
+  "generated": "2026-10-28T02:25:03.954Z",
+  "total_datasets": 663,
+  "total_records": 538782,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -17545,6 +17545,31 @@
         "xlsx": {
           "name": "ms-penduduk-daerah_MS.xlsx",
           "size": 14335
+        }
+      }
+    },
+    {
+      "id": "ms-liga-super-juara",
+      "name": "Senarai Juara Liga Super Malaysia",
+      "category": "sports",
+      "record_count": 22,
+      "columns": [
+        "musim",
+        "juara",
+        "naib_juara",
+        "tempat_ketiga"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Liga_Super_Malaysia",
+      "updated": "2026-10",
+      "size": 4447,
+      "files": {
+        "csv": {
+          "name": "ms-liga-super-juara_MS.csv",
+          "size": 1061
+        },
+        "xlsx": {
+          "name": "ms-liga-super-juara_MS.xlsx",
+          "size": 7422
         }
       }
     },
