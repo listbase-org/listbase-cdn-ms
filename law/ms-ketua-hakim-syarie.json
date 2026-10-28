@@ -1,0 +1,86 @@
+{
+  "id": "ms-ketua-hakim-syarie",
+  "name": "Senarai Ketua Hakim Syarie Malaysia",
+  "title": "Senarai Ketua Hakim Syarie Malaysia",
+  "description": "Senarai Ketua Hakim Syarie Malaysia beserta tahun mula dan tamat tempoh jawatan.",
+  "category": "law",
+  "source": "https://ms.wikipedia.org/wiki/Ketua_Hakim_Syarie_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Ketua_Hakim_Syarie_Malaysia",
+  "updated": "2026-10",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "ketua_hakim_syarie",
+      "label": "Ketua Hakim Syarie",
+      "type": "string"
+    },
+    {
+      "key": "mula",
+      "label": "Mula",
+      "type": "number"
+    },
+    {
+      "key": "tinggal",
+      "label": "Tinggal",
+      "type": "number"
+    },
+    {
+      "key": "tempoh",
+      "label": "Tempoh",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "ketua_hakim_syarie": "Tan Sri Dato' Haji Sheikh Ghazali Abdul Rahman (b.1938)",
+      "mula": "1998",
+      "tinggal": "2009",
+      "tempoh": ""
+    },
+    {
+      "no": 2,
+      "ketua_hakim_syarie": "Tan Sri Dato' Setia Dr. Haji Ibrahim Lembut (b.1952)",
+      "mula": "2009",
+      "tinggal": "2017",
+      "tempoh": ""
+    },
+    {
+      "no": 3,
+      "ketua_hakim_syarie": "Dato' Haji Mukhyuddin Ibrahim (b.1959)",
+      "mula": "2017",
+      "tinggal": "2019",
+      "tempoh": ""
+    },
+    {
+      "no": 4,
+      "ketua_hakim_syarie": "Dato' Setia Dr. Haji Mohd Na'im Mokhtar (b.1967)",
+      "mula": "26 Mac 2019",
+      "tinggal": "2 Disember 2022",
+      "tempoh": "3 tahun, 252 hari"
+    },
+    {
+      "no": 5,
+      "ketua_hakim_syarie": "Dato' Mohd Amran Mat Zain (b.1967)",
+      "mula": "10 April 2023",
+      "tinggal": "kini",
+      "tempoh": "3 tahun, 202 hari"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Ketua Hakim Syarie Malaysia - Muat turun percuma",
+    "description": "Senarai Ketua Hakim Syarie Malaysia beserta tahun mula dan tamat tempoh jawatan. Mengandungi 5 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Ketua Hakim Syarie Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Ketua Hakim Syarie Malaysia — 5 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 5 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Ketua_Hakim_Syarie_Malaysia"
+    ]
+  }
+}
