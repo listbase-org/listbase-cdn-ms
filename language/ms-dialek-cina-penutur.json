@@ -1,0 +1,76 @@
+{
+  "id": "ms-dialek-cina-penutur",
+  "name": "Penutur Dialek Cina di Malaysia",
+  "title": "Penutur Dialek Cina di Malaysia",
+  "description": "Anggaran bilangan penutur dialek dan bahasa Cina (Hokkien, Hakka, Kantonis, Teochew, Mandarin dan lain-lain) di Malaysia.",
+  "category": "language",
+  "source": "https://ms.wikipedia.org/wiki/Bahasa_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Bahasa_di_Malaysia",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "dialek",
+      "label": "Dialek",
+      "type": "string"
+    },
+    {
+      "key": "penduduk",
+      "label": "Penduduk",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "dialek": "Hokkien",
+      "penduduk": 1848211
+    },
+    {
+      "dialek": "Hakka",
+      "penduduk": 1679027
+    },
+    {
+      "dialek": "Kantonis",
+      "penduduk": 1355541
+    },
+    {
+      "dialek": "Teochew",
+      "penduduk": 974573
+    },
+    {
+      "dialek": "Mandarin",
+      "penduduk": 958467
+    },
+    {
+      "dialek": "Hainan",
+      "penduduk": 380781
+    },
+    {
+      "dialek": "Min Bei",
+      "penduduk": 373337
+    },
+    {
+      "dialek": "Fuzhou",
+      "penduduk": 249413
+    },
+    {
+      "dialek": "Min Timur",
+      "penduduk": 241200
+    },
+    {
+      "dialek": "Lundayeh/Lun Bawang",
+      "penduduk": 30000
+    }
+  ],
+  "meta": {
+    "title": "Penutur Dialek Cina di Malaysia - Muat turun percuma",
+    "description": "Anggaran bilangan penutur dialek dan bahasa Cina (Hokkien, Hakka, Kantonis, Teochew, Mandarin dan lain-lain) di Malaysia. Mengandungi 10 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Penutur Dialek Cina di Malaysia | ListBase",
+    "seo_description": "Muat turun Penutur Dialek Cina di Malaysia — 10 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 10 rekod / 2 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Bahasa_di_Malaysia"
+    ]
+  }
+}

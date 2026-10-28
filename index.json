@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-28T02:25:11.402Z",
-  "total_datasets": 666,
-  "total_records": 538924,
+  "generated": "2026-10-28T02:25:14.060Z",
+  "total_datasets": 667,
+  "total_records": 538934,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -5159,6 +5159,29 @@
         "xlsx": {
           "name": "ms-bahasa_MS.xlsx",
           "size": 20843
+        }
+      }
+    },
+    {
+      "id": "ms-dialek-cina-penutur",
+      "name": "Penutur Dialek Cina di Malaysia",
+      "category": "language",
+      "record_count": 10,
+      "columns": [
+        "dialek",
+        "penduduk"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Bahasa_di_Malaysia",
+      "updated": "2026-10",
+      "size": 2021,
+      "files": {
+        "csv": {
+          "name": "ms-dialek-cina-penutur_MS.csv",
+          "size": 226
+        },
+        "xlsx": {
+          "name": "ms-dialek-cina-penutur_MS.xlsx",
+          "size": 6895
         }
       }
     },
