@@ -1,0 +1,856 @@
+{
+  "id": "ms-piala-malaysia-final",
+  "name": "Senarai Perlawanan Akhir Piala Malaysia",
+  "title": "Senarai Perlawanan Akhir Piala Malaysia",
+  "description": "Keputusan perlawanan akhir Piala Malaysia (termasuk era Piala HMS Malaya dan Piala Malaya): tahun, juara, keputusan, naib juara dan stadium.",
+  "category": "sports",
+  "source": "https://ms.wikipedia.org/wiki/Piala_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Piala_Malaysia",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "nama_piala",
+      "label": "Nama Piala",
+      "type": "string"
+    },
+    {
+      "key": "juara",
+      "label": "Juara",
+      "type": "string"
+    },
+    {
+      "key": "keputusan",
+      "label": "Keputusan",
+      "type": "string"
+    },
+    {
+      "key": "naib_juara",
+      "label": "Naib Juara",
+      "type": "string"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": "2026",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Johor Darul Ta'zim",
+      "keputusan": "2–0",
+      "naib_juara": "Kuching City",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2024–25",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Johor Darul Ta'zim",
+      "keputusan": "2–1",
+      "naib_juara": "Sri Pahang",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2023",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Johor Darul Ta'zim",
+      "keputusan": "3 – 1",
+      "naib_juara": "Terengganu",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2022",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Johor Darul Ta'zim",
+      "keputusan": "2 – 1",
+      "naib_juara": "Selangor",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2021",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Kuala Lumpur City",
+      "keputusan": "2 – 0",
+      "naib_juara": "Johor Darul Ta'zim",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2020",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Dibatalkan kerana pandemik COVID-19",
+      "keputusan": "Dibatalkan kerana pandemik COVID-19",
+      "naib_juara": "Dibatalkan kerana pandemik COVID-19",
+      "stadium": "Dibatalkan kerana pandemik COVID-19"
+    },
+    {
+      "tahun": "2019",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Johor Darul Ta'zim",
+      "keputusan": "3 – 0",
+      "naib_juara": "Kedah",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2018",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Perak",
+      "keputusan": "3 – 3 (4–1 Penalti)",
+      "naib_juara": "Terengganu",
+      "stadium": "Stadium Shah Alam, Selangor"
+    },
+    {
+      "tahun": "2017",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Johor Darul Ta'zim",
+      "keputusan": "2 – 0",
+      "naib_juara": "Kedah",
+      "stadium": "Stadium Shah Alam, Selangor"
+    },
+    {
+      "tahun": "2016",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Kedah",
+      "keputusan": "1 – 1 (6–5 Penalti)",
+      "naib_juara": "Selangor",
+      "stadium": "Stadium Shah Alam, Selangor"
+    },
+    {
+      "tahun": "2015",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "2 – 0",
+      "naib_juara": "Kedah",
+      "stadium": "Stadium Shah Alam, Selangor"
+    },
+    {
+      "tahun": "2014",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Pahang",
+      "keputusan": "2 – 2 (5–3 Penalti)",
+      "naib_juara": "Johor Darul Ta'zim",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2013",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Pahang",
+      "keputusan": "1 – 0",
+      "naib_juara": "Kelantan",
+      "stadium": "Stadium Shah Alam, Selangor"
+    },
+    {
+      "tahun": "2012",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Kelantan",
+      "keputusan": "3 – 2",
+      "naib_juara": "ATM",
+      "stadium": "Stadium Shah Alam, Selangor"
+    },
+    {
+      "tahun": "2011",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Negeri Sembilan",
+      "keputusan": "2 – 1",
+      "naib_juara": "Terengganu",
+      "stadium": "Stadium Shah Alam, Selangor"
+    },
+    {
+      "tahun": "2010",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Kelantan",
+      "keputusan": "2 – 1",
+      "naib_juara": "Negeri Sembilan",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2009",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Negeri Sembilan",
+      "keputusan": "3 – 1",
+      "naib_juara": "Kelantan",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2008",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Kedah",
+      "keputusan": "3 – 2",
+      "naib_juara": "Selangor",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2007",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Kedah",
+      "keputusan": "3 – 0",
+      "naib_juara": "Perak",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2006",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Perlis",
+      "keputusan": "2 – 1",
+      "naib_juara": "Negeri Sembilan",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2005",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "3 – 0",
+      "naib_juara": "Perlis",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2004",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Perlis",
+      "keputusan": "1 – 0",
+      "naib_juara": "Kedah",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2003",
+      "nama_piala": "Piala Malaysia",
+      "juara": "MPPJ",
+      "keputusan": "3 – 0",
+      "naib_juara": "Sabah",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2002",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "1 – 0 (gol emas)",
+      "naib_juara": "Sabah",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2001",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Terengganu",
+      "keputusan": "2 – 1",
+      "naib_juara": "Perak",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "2000",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Perak",
+      "keputusan": "2 – 0",
+      "naib_juara": "Negeri Sembilan",
+      "stadium": "Stadium Shah Alam, Selangor"
+    },
+    {
+      "tahun": "1999",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Brunei",
+      "keputusan": "2 – 1",
+      "naib_juara": "Sarawak",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1998",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Perak",
+      "keputusan": "1 – 1 (5–3 Penalti)",
+      "naib_juara": "Terengganu",
+      "stadium": "Stadium Nasional Bukit Jalil, Kuala Lumpur"
+    },
+    {
+      "tahun": "1997",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "1 – 0 (gol emas)",
+      "naib_juara": "Pahang",
+      "stadium": "Stadium Shah Alam, Selangor"
+    },
+    {
+      "tahun": "1996",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "0 – 0 (5–3 Penalti)",
+      "naib_juara": "Sabah",
+      "stadium": "Stadium Shah Alam, Selangor"
+    },
+    {
+      "tahun": "1995",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "1 – 0 (gol emas)",
+      "naib_juara": "Pahang",
+      "stadium": "Stadium Shah Alam, Selangor"
+    },
+    {
+      "tahun": "1994",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Singapura",
+      "keputusan": "4 – 0",
+      "naib_juara": "Pahang",
+      "stadium": "Stadium Shah Alam, Selangor"
+    },
+    {
+      "tahun": "1993",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Kedah",
+      "keputusan": "2 – 0",
+      "naib_juara": "Singapura",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1992",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Pahang",
+      "keputusan": "1 – 0",
+      "naib_juara": "Kedah",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1991",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Johor",
+      "keputusan": "3 – 1",
+      "naib_juara": "Selangor",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1990",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Kedah",
+      "keputusan": "3 – 1",
+      "naib_juara": "Singapura",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1989",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Kuala Lumpur",
+      "keputusan": "2 – 1",
+      "naib_juara": "Kedah",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1988",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Kuala Lumpur",
+      "keputusan": "3 – 0",
+      "naib_juara": "Kedah",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1987",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Kuala Lumpur",
+      "keputusan": "1 – 0",
+      "naib_juara": "Kedah",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1986",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "6 – 1",
+      "naib_juara": "Johor",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1985",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Johor",
+      "keputusan": "2 – 0",
+      "naib_juara": "Kuala Lumpur",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1984",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "3 – 1",
+      "naib_juara": "Pahang",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1983",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Pahang",
+      "keputusan": "3 – 2 (Masa tambahan)",
+      "naib_juara": "Selangor",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1982",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "1 – 0",
+      "naib_juara": "Terengganu",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1981",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "4 – 0",
+      "naib_juara": "Singapura",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1980",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Singapura",
+      "keputusan": "2 – 1",
+      "naib_juara": "Selangor",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1979",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "2 – 0",
+      "naib_juara": "Singapura",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1978",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "4 – 2",
+      "naib_juara": "Singapura",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1977",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Singapura",
+      "keputusan": "3 – 2 (Masa tambahan)",
+      "naib_juara": "Pulau Pinang",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1976",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "3 – 0",
+      "naib_juara": "Singapura",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1975",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "1 – 0",
+      "naib_juara": "Singapura",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1974",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Pulau Pinang",
+      "keputusan": "2 – 1",
+      "naib_juara": "Perak",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1973",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "2 – 1",
+      "naib_juara": "Terengganu",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1972",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "3 – 1",
+      "naib_juara": "Perak",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1971",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "3 – 1",
+      "naib_juara": "Perak",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1970",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Perak",
+      "keputusan": "1 – 0",
+      "naib_juara": "Kelantan",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1969",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "1 – 0",
+      "naib_juara": "Pulau Pinang",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1968",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Selangor",
+      "keputusan": "8 – 1",
+      "naib_juara": "Pulau Pinang",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1967",
+      "nama_piala": "Piala Malaysia",
+      "juara": "Perak",
+      "keputusan": "2 – 1",
+      "naib_juara": "Singapura",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1966",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Selangor",
+      "keputusan": "1 – 0",
+      "naib_juara": "ATM",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1965",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Singapura",
+      "keputusan": "3 – 1",
+      "naib_juara": "Selangor",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1964",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Singapura",
+      "keputusan": "3 – 2",
+      "naib_juara": "Perak",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1963",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Selangor",
+      "keputusan": "6 – 2",
+      "naib_juara": "Pulau Pinang",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1962",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Selangor",
+      "keputusan": "1 – 0",
+      "naib_juara": "Pulau Pinang",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1961",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Selangor",
+      "keputusan": "4 – 2",
+      "naib_juara": "Perak",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1960",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Singapura",
+      "keputusan": "2 – 0",
+      "naib_juara": "Perak",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1959",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Selangor",
+      "keputusan": "4 – 0",
+      "naib_juara": "Perak",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1958",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Pulau Pinang",
+      "keputusan": "3 – 3 (3–1 Ulangan)",
+      "naib_juara": "Singapura",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1957",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Perak",
+      "keputusan": "3 – 2",
+      "naib_juara": "Selangor",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1956",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Selangor",
+      "keputusan": "2 – 1",
+      "naib_juara": "Singapura",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1955",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Singapura",
+      "keputusan": "3 – 1",
+      "naib_juara": "Kelantan",
+      "stadium": "Jalan Rifle Range, Singapura"
+    },
+    {
+      "tahun": "1954",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Pulau Pinang",
+      "keputusan": "3 – 0",
+      "naib_juara": "Singapura",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1953",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Pulau Pinang",
+      "keputusan": "3 – 2",
+      "naib_juara": "Singapura",
+      "stadium": "Dewan Perhimpunan Cina, Ipoh"
+    },
+    {
+      "tahun": "1952",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Singapura",
+      "keputusan": "3 – 2",
+      "naib_juara": "Pulau Pinang",
+      "stadium": "Dewan Perhimpunan Cina, Ipoh"
+    },
+    {
+      "tahun": "1951",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Singapura",
+      "keputusan": "6 – 0",
+      "naib_juara": "Perak",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1950",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Singapura",
+      "keputusan": "2 – 0",
+      "naib_juara": "Pulau Pinang",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1949",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Selangor",
+      "keputusan": "3 – 2",
+      "naib_juara": "ATM",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1948",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Negeri Sembilan",
+      "keputusan": "2 – 2 (2–1 Ulangan)",
+      "naib_juara": "Selangor",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1942-1947",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Tidak Dipertandingkan",
+      "keputusan": "Tidak Dipertandingkan",
+      "naib_juara": "Tidak Dipertandingkan",
+      "stadium": "Tidak Dipertandingkan"
+    },
+    {
+      "tahun": "1941",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Singapura",
+      "keputusan": "2 – 1",
+      "naib_juara": "Pulau Pinang",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1940",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Singapura",
+      "keputusan": "2 – 0",
+      "naib_juara": "Kedah",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1939",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Singapura",
+      "keputusan": "3 – 1",
+      "naib_juara": "Selangor",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1938",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Selangor",
+      "keputusan": "1 – 0",
+      "naib_juara": "Singapura",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1937",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Singapura",
+      "keputusan": "2 – 1",
+      "naib_juara": "Selangor",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1936",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Selangor",
+      "keputusan": "1 – 0",
+      "naib_juara": "Singapura",
+      "stadium": "Jalan Rifle Range, Singapura"
+    },
+    {
+      "tahun": "1935",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Selangor",
+      "keputusan": "3 – 2",
+      "naib_juara": "Singapura",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1934",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Singapura",
+      "keputusan": "2 – 1",
+      "naib_juara": "Pulau Pinang",
+      "stadium": "Stadium Merdeka, Kuala Lumpur"
+    },
+    {
+      "tahun": "1933",
+      "nama_piala": "Piala HMS Malaya",
+      "juara": "Singapura",
+      "keputusan": "8 – 2",
+      "naib_juara": "Selangor",
+      "stadium": "Jalan Rifle Range, Singapura"
+    },
+    {
+      "tahun": "1932",
+      "nama_piala": "Piala Malaya",
+      "juara": "Singapura",
+      "keputusan": "5 – 3",
+      "naib_juara": "Selangor",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1931",
+      "nama_piala": "Piala Malaya",
+      "juara": "Perak",
+      "keputusan": "3 – 1",
+      "naib_juara": "Singapura",
+      "stadium": "Dewan Perhimpunan Cina, Ipoh"
+    },
+    {
+      "tahun": "1930",
+      "nama_piala": "Piala Malaya",
+      "juara": "Singapura",
+      "keputusan": "3 – 0",
+      "naib_juara": "Selangor",
+      "stadium": "Stadium Jalan Anson, Singapura"
+    },
+    {
+      "tahun": "1929",
+      "nama_piala": "Piala Malaya",
+      "juara": "Selangor, Singapura",
+      "keputusan": "2 – 2, (Berkongsi Juara)",
+      "naib_juara": "",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1928",
+      "nama_piala": "Piala Malaya",
+      "juara": "Selangor, Singapura",
+      "keputusan": "2 – 2, (Berkongsi Juara)",
+      "naib_juara": "",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1927",
+      "nama_piala": "Piala Malaya",
+      "juara": "Selangor",
+      "keputusan": "8 – 1",
+      "naib_juara": "Singapura",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1926",
+      "nama_piala": "Piala Malaya",
+      "juara": "Perak",
+      "keputusan": "1 – 0",
+      "naib_juara": "Singapura",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1925",
+      "nama_piala": "Piala Malaya",
+      "juara": "Singapura",
+      "keputusan": "2 – 1",
+      "naib_juara": "Selangor",
+      "stadium": "Stadium Jalan Anson, Singapura"
+    },
+    {
+      "tahun": "1924",
+      "nama_piala": "Piala Malaya",
+      "juara": "Singapura",
+      "keputusan": "1 – 0",
+      "naib_juara": "Selangor",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1923",
+      "nama_piala": "Piala Malaya",
+      "juara": "Singapura",
+      "keputusan": "2 – 1",
+      "naib_juara": "Perak",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1922",
+      "nama_piala": "Piala Malaya",
+      "juara": "Selangor",
+      "keputusan": "3 – 2",
+      "naib_juara": "Singapura",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    },
+    {
+      "tahun": "1921",
+      "nama_piala": "Piala Malaya",
+      "juara": "Singapura",
+      "keputusan": "2 – 1",
+      "naib_juara": "Selangor",
+      "stadium": "Padang Kelab Selangor, Kuala Lumpur"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Perlawanan Akhir Piala Malaysia - Muat turun percuma",
+    "description": "Keputusan perlawanan akhir Piala Malaysia (termasuk era Piala HMS Malaya dan Piala Malaya): tahun, juara, keputusan, naib juara dan stadium. Mengandungi 100 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Perlawanan Akhir Piala Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Perlawanan Akhir Piala Malaysia — 100 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 100 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Piala_Malaysia"
+    ]
+  }
+}

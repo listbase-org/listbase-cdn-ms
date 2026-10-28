@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-28T02:25:06.372Z",
-  "total_datasets": 664,
-  "total_records": 538819,
+  "generated": "2026-10-28T02:25:08.863Z",
+  "total_datasets": 665,
+  "total_records": 538919,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -17719,6 +17719,33 @@
         "xlsx": {
           "name": "ms-perpindahan-bola-sepak-2025-26_MS.xlsx",
           "size": 13121
+        }
+      }
+    },
+    {
+      "id": "ms-piala-malaysia-final",
+      "name": "Senarai Perlawanan Akhir Piala Malaysia",
+      "category": "sports",
+      "record_count": 100,
+      "columns": [
+        "tahun",
+        "nama_piala",
+        "juara",
+        "keputusan",
+        "naib_juara",
+        "stadium"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Piala_Malaysia",
+      "updated": "2026-10",
+      "size": 23790,
+      "files": {
+        "csv": {
+          "name": "ms-piala-malaysia-final_MS.csv",
+          "size": 9678
+        },
+        "xlsx": {
+          "name": "ms-piala-malaysia-final_MS.xlsx",
+          "size": 10205
         }
       }
     },
