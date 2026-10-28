@@ -1,0 +1,268 @@
+{
+  "id": "ms-liga-super-penjaring-terbanyak",
+  "name": "Penjaring Terbanyak Liga Super Malaysia mengikut Musim",
+  "title": "Penjaring Terbanyak Liga Super Malaysia mengikut Musim",
+  "description": "Pemain penjaring gol terbanyak Liga Super Malaysia bagi setiap musim beserta pasukan dan jumlah gol.",
+  "category": "sports",
+  "source": "https://ms.wikipedia.org/wiki/Liga_Super_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Liga_Super_Malaysia",
+  "updated": "2026-10",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "musim",
+      "label": "Musim",
+      "type": "string"
+    },
+    {
+      "key": "pemain",
+      "label": "Pemain",
+      "type": "string"
+    },
+    {
+      "key": "pasukan",
+      "label": "Pasukan",
+      "type": "string"
+    },
+    {
+      "key": "gol",
+      "label": "Gol",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "musim": "2025–26",
+      "pemain": "Bergson",
+      "pasukan": "Johor Darul Ta'zim",
+      "gol": 27
+    },
+    {
+      "musim": "2024–25",
+      "pemain": "Bergson",
+      "pasukan": "Johor Darul Ta'zim",
+      "gol": 32
+    },
+    {
+      "musim": "2023",
+      "pemain": "Ayron del Valle",
+      "pasukan": "Selangor",
+      "gol": 23
+    },
+    {
+      "musim": "2022",
+      "pemain": "Bergson",
+      "pasukan": "Johor Darul Ta'zim",
+      "gol": 29
+    },
+    {
+      "musim": "2021",
+      "pemain": "Ifedayo Olusegun",
+      "pasukan": "Selangor",
+      "gol": 26
+    },
+    {
+      "musim": "2020",
+      "pemain": "Ifedayo Olusegun",
+      "pasukan": "Selangor",
+      "gol": 12
+    },
+    {
+      "musim": "2019",
+      "pemain": "Kpah Sherman",
+      "pasukan": "PKNS",
+      "gol": 14
+    },
+    {
+      "musim": "2018",
+      "pemain": "Rufino Segovia",
+      "pasukan": "Selangor",
+      "gol": 19
+    },
+    {
+      "musim": "2017",
+      "pemain": "Mohammed Ghaddar",
+      "pasukan": "Johor Darul Ta'zim, Kelantan",
+      "gol": 23
+    },
+    {
+      "musim": "2016",
+      "pemain": "Pereyra Díaz",
+      "pasukan": "Johor Darul Ta'zim",
+      "gol": 18
+    },
+    {
+      "musim": "2015",
+      "pemain": "Dramane Traore",
+      "pasukan": "PDRM",
+      "gol": 20
+    },
+    {
+      "musim": "2014",
+      "pemain": "Paulo Rangel",
+      "pasukan": "Selangor",
+      "gol": 16
+    },
+    {
+      "musim": "2013",
+      "pemain": "Marlon James",
+      "pasukan": "ATM",
+      "gol": 16
+    },
+    {
+      "musim": "2012",
+      "pemain": "Jean Owona, Forkey Doe",
+      "pasukan": "Negeri Sembilan, Terengganu",
+      "gol": 15
+    },
+    {
+      "musim": "2011",
+      "pemain": "Hadi Yahya",
+      "pasukan": "Terengganu",
+      "gol": 20
+    },
+    {
+      "musim": "2010",
+      "pemain": "Ashaari Shamsuddin",
+      "pasukan": "Terengganu",
+      "gol": 18
+    },
+    {
+      "musim": "2009",
+      "pemain": "Nizaruddin Yusof",
+      "pasukan": "Perlis",
+      "gol": 18
+    },
+    {
+      "musim": "2007-08",
+      "pemain": "Marlon James",
+      "pasukan": "Kedah",
+      "gol": 23
+    },
+    {
+      "musim": "2006-07",
+      "pemain": "Keita Mandjou, Shahrazen Said",
+      "pasukan": "Perak, DPMM Brunei",
+      "gol": 21
+    },
+    {
+      "musim": "2005-06",
+      "pemain": "Keita Mandjou",
+      "pasukan": "Perak",
+      "gol": 17
+    },
+    {
+      "musim": "2005",
+      "pemain": "Julio Rodriguez, Zacharia Simukonda",
+      "pasukan": "Sabah, Perlis",
+      "gol": 18
+    },
+    {
+      "musim": "2004",
+      "pemain": "Indra Putra",
+      "pasukan": "Pahang",
+      "gol": 15
+    },
+    {
+      "musim": "2003",
+      "pemain": "Phillimon Chepita",
+      "pasukan": "Perlis",
+      "gol": 23
+    },
+    {
+      "musim": "2002",
+      "pemain": "Khalid Jamlus",
+      "pasukan": "Perak",
+      "gol": 17
+    },
+    {
+      "musim": "2001",
+      "pemain": "Norizam Hassan",
+      "pasukan": "Perak",
+      "gol": 13
+    },
+    {
+      "musim": "2000",
+      "pemain": "Azizul Kamaluddin",
+      "pasukan": "Pahang",
+      "gol": 12
+    },
+    {
+      "musim": "1999",
+      "pemain": "Azman Adnan",
+      "pasukan": "Pulau Pinang",
+      "gol": 13
+    },
+    {
+      "musim": "1998",
+      "pemain": "Viatcheslav Melnikov",
+      "pasukan": "Pahang",
+      "gol": 17
+    },
+    {
+      "musim": "1997",
+      "pemain": "Laszlo Repasi",
+      "pasukan": "Perak",
+      "gol": 19
+    },
+    {
+      "musim": "1996",
+      "pemain": "Scott Ollerenshaw",
+      "pasukan": "Sabah",
+      "gol": 18
+    },
+    {
+      "musim": "1995",
+      "pemain": "Scott Ollerenshaw",
+      "pasukan": "Sabah",
+      "gol": 22
+    },
+    {
+      "musim": "1994",
+      "pemain": "Hashim Mustapha",
+      "pasukan": "Kelantan",
+      "gol": 25
+    },
+    {
+      "musim": "1993",
+      "pemain": "Hashim Mustapha",
+      "pasukan": "Kelantan",
+      "gol": 13
+    },
+    {
+      "musim": "1992",
+      "pemain": "Zainal Abidin",
+      "pasukan": "Pahang",
+      "gol": 12
+    },
+    {
+      "musim": "1991",
+      "pemain": "Abbas Saad",
+      "pasukan": "Johor",
+      "gol": 11
+    },
+    {
+      "musim": "1990",
+      "pemain": "Alistair Edwards",
+      "pasukan": "Singapura",
+      "gol": 13
+    },
+    {
+      "musim": "1989",
+      "pemain": "Zainal Abidin",
+      "pasukan": "Selangor",
+      "gol": 12
+    }
+  ],
+  "meta": {
+    "title": "Penjaring Terbanyak Liga Super Malaysia mengikut Musim - Muat turun percuma",
+    "description": "Pemain penjaring gol terbanyak Liga Super Malaysia bagi setiap musim beserta pasukan dan jumlah gol. Mengandungi 37 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Penjaring Terbanyak Liga Super Malaysia mengikut Musim | ListBase",
+    "seo_description": "Muat turun Penjaring Terbanyak Liga Super Malaysia mengikut Musim — 37 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 37 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Liga_Super_Malaysia"
+    ]
+  }
+}

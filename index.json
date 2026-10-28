@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-28T02:25:03.954Z",
-  "total_datasets": 663,
-  "total_records": 538782,
+  "generated": "2026-10-28T02:25:06.372Z",
+  "total_datasets": 664,
+  "total_records": 538819,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -17570,6 +17570,31 @@
         "xlsx": {
           "name": "ms-liga-super-juara_MS.xlsx",
           "size": 7422
+        }
+      }
+    },
+    {
+      "id": "ms-liga-super-penjaring-terbanyak",
+      "name": "Penjaring Terbanyak Liga Super Malaysia mengikut Musim",
+      "category": "sports",
+      "record_count": 37,
+      "columns": [
+        "musim",
+        "pemain",
+        "pasukan",
+        "gol"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Liga_Super_Malaysia",
+      "updated": "2026-10",
+      "size": 5958,
+      "files": {
+        "csv": {
+          "name": "ms-liga-super-penjaring-terbanyak_MS.csv",
+          "size": 1618
+        },
+        "xlsx": {
+          "name": "ms-liga-super-penjaring-terbanyak_MS.xlsx",
+          "size": 8097
         }
       }
     },
