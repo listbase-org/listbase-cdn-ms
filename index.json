@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-29T02:15:23.225Z",
-  "total_datasets": 669,
-  "total_records": 543942,
+  "generated": "2026-10-29T02:15:25.740Z",
+  "total_datasets": 670,
+  "total_records": 545389,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -203,6 +203,31 @@
         "xlsx": {
           "name": "ms-pengeluaran-akuakultur-spesies_MS.xlsx",
           "size": 47924
+        }
+      }
+    },
+    {
+      "id": "ms-pengeluaran-produk-kayu",
+      "name": "Pengeluaran Produk Utama Kayu mengikut Negeri",
+      "category": "agriculture",
+      "record_count": 1447,
+      "columns": [
+        "year",
+        "state",
+        "product",
+        "production_m3"
+      ],
+      "source": "https://data.gov.my/data-catalogue/timber_production",
+      "updated": "2026-10",
+      "size": 174903,
+      "files": {
+        "csv": {
+          "name": "ms-pengeluaran-produk-kayu_MS.csv",
+          "size": 56115
+        },
+        "xlsx": {
+          "name": "ms-pengeluaran-produk-kayu_MS.xlsx",
+          "size": 36588
         }
       }
     },
