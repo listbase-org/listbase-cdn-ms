@@ -1,0 +1,1918 @@
+{
+  "id": "ms-banduan-negeri",
+  "name": "Bilangan Banduan mengikut Negeri dan Jantina",
+  "title": "Bilangan Banduan mengikut Negeri dan Jantina",
+  "description": "Bilangan banduan di penjara Malaysia mengikut negeri dan jantina, data Jabatan Penjara Malaysia",
+  "category": "law",
+  "source": "https://data.gov.my/data-catalogue/prisoners_state",
+  "source_url": "https://data.gov.my/data-catalogue/prisoners_state",
+  "updated": "2026-10",
+  "record_count": 312,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "sex",
+      "label": "Sex",
+      "type": "string"
+    },
+    {
+      "key": "prisoners",
+      "label": "Prisoners",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2017,
+      "state": "Malaysia",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 120048
+    },
+    {
+      "year": 2018,
+      "state": "Malaysia",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 115488
+    },
+    {
+      "year": 2019,
+      "state": "Malaysia",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 136145
+    },
+    {
+      "year": 2020,
+      "state": "Malaysia",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 100053
+    },
+    {
+      "year": 2021,
+      "state": "Malaysia",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 82269
+    },
+    {
+      "year": 2022,
+      "state": "Malaysia",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 101809
+    },
+    {
+      "year": 2023,
+      "state": "Malaysia",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 98476
+    },
+    {
+      "year": 2024,
+      "state": "Malaysia",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 126722
+    },
+    {
+      "year": 2017,
+      "state": "Malaysia",
+      "sex": "Lelaki",
+      "prisoners": 105650
+    },
+    {
+      "year": 2018,
+      "state": "Malaysia",
+      "sex": "Lelaki",
+      "prisoners": 101487
+    },
+    {
+      "year": 2019,
+      "state": "Malaysia",
+      "sex": "Lelaki",
+      "prisoners": 120746
+    },
+    {
+      "year": 2020,
+      "state": "Malaysia",
+      "sex": "Lelaki",
+      "prisoners": 90233
+    },
+    {
+      "year": 2021,
+      "state": "Malaysia",
+      "sex": "Lelaki",
+      "prisoners": 75154
+    },
+    {
+      "year": 2022,
+      "state": "Malaysia",
+      "sex": "Lelaki",
+      "prisoners": 93137
+    },
+    {
+      "year": 2023,
+      "state": "Malaysia",
+      "sex": "Lelaki",
+      "prisoners": 89007
+    },
+    {
+      "year": 2024,
+      "state": "Malaysia",
+      "sex": "Lelaki",
+      "prisoners": 115017
+    },
+    {
+      "year": 2017,
+      "state": "Malaysia",
+      "sex": "Perempuan",
+      "prisoners": 14398
+    },
+    {
+      "year": 2018,
+      "state": "Malaysia",
+      "sex": "Perempuan",
+      "prisoners": 14001
+    },
+    {
+      "year": 2019,
+      "state": "Malaysia",
+      "sex": "Perempuan",
+      "prisoners": 15399
+    },
+    {
+      "year": 2020,
+      "state": "Malaysia",
+      "sex": "Perempuan",
+      "prisoners": 9820
+    },
+    {
+      "year": 2021,
+      "state": "Malaysia",
+      "sex": "Perempuan",
+      "prisoners": 7115
+    },
+    {
+      "year": 2022,
+      "state": "Malaysia",
+      "sex": "Perempuan",
+      "prisoners": 8672
+    },
+    {
+      "year": 2023,
+      "state": "Malaysia",
+      "sex": "Perempuan",
+      "prisoners": 9469
+    },
+    {
+      "year": 2024,
+      "state": "Malaysia",
+      "sex": "Perempuan",
+      "prisoners": 11705
+    },
+    {
+      "year": 2017,
+      "state": "Johor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 11589
+    },
+    {
+      "year": 2018,
+      "state": "Johor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 11902
+    },
+    {
+      "year": 2019,
+      "state": "Johor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 14312
+    },
+    {
+      "year": 2020,
+      "state": "Johor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 12158
+    },
+    {
+      "year": 2021,
+      "state": "Johor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 8616
+    },
+    {
+      "year": 2022,
+      "state": "Johor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 8635
+    },
+    {
+      "year": 2023,
+      "state": "Johor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6958
+    },
+    {
+      "year": 2024,
+      "state": "Johor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 13169
+    },
+    {
+      "year": 2017,
+      "state": "Johor",
+      "sex": "Lelaki",
+      "prisoners": 9797
+    },
+    {
+      "year": 2018,
+      "state": "Johor",
+      "sex": "Lelaki",
+      "prisoners": 9939
+    },
+    {
+      "year": 2019,
+      "state": "Johor",
+      "sex": "Lelaki",
+      "prisoners": 12363
+    },
+    {
+      "year": 2020,
+      "state": "Johor",
+      "sex": "Lelaki",
+      "prisoners": 10792
+    },
+    {
+      "year": 2021,
+      "state": "Johor",
+      "sex": "Lelaki",
+      "prisoners": 7894
+    },
+    {
+      "year": 2022,
+      "state": "Johor",
+      "sex": "Lelaki",
+      "prisoners": 8070
+    },
+    {
+      "year": 2023,
+      "state": "Johor",
+      "sex": "Lelaki",
+      "prisoners": 6019
+    },
+    {
+      "year": 2024,
+      "state": "Johor",
+      "sex": "Lelaki",
+      "prisoners": 11806
+    },
+    {
+      "year": 2017,
+      "state": "Johor",
+      "sex": "Perempuan",
+      "prisoners": 1792
+    },
+    {
+      "year": 2018,
+      "state": "Johor",
+      "sex": "Perempuan",
+      "prisoners": 1963
+    },
+    {
+      "year": 2019,
+      "state": "Johor",
+      "sex": "Perempuan",
+      "prisoners": 1949
+    },
+    {
+      "year": 2020,
+      "state": "Johor",
+      "sex": "Perempuan",
+      "prisoners": 1366
+    },
+    {
+      "year": 2021,
+      "state": "Johor",
+      "sex": "Perempuan",
+      "prisoners": 722
+    },
+    {
+      "year": 2022,
+      "state": "Johor",
+      "sex": "Perempuan",
+      "prisoners": 565
+    },
+    {
+      "year": 2023,
+      "state": "Johor",
+      "sex": "Perempuan",
+      "prisoners": 939
+    },
+    {
+      "year": 2024,
+      "state": "Johor",
+      "sex": "Perempuan",
+      "prisoners": 1363
+    },
+    {
+      "year": 2017,
+      "state": "Kedah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7045
+    },
+    {
+      "year": 2018,
+      "state": "Kedah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6968
+    },
+    {
+      "year": 2019,
+      "state": "Kedah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7507
+    },
+    {
+      "year": 2020,
+      "state": "Kedah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6646
+    },
+    {
+      "year": 2021,
+      "state": "Kedah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6855
+    },
+    {
+      "year": 2022,
+      "state": "Kedah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 8980
+    },
+    {
+      "year": 2023,
+      "state": "Kedah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 8929
+    },
+    {
+      "year": 2024,
+      "state": "Kedah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 9849
+    },
+    {
+      "year": 2017,
+      "state": "Kedah",
+      "sex": "Lelaki",
+      "prisoners": 6428
+    },
+    {
+      "year": 2018,
+      "state": "Kedah",
+      "sex": "Lelaki",
+      "prisoners": 6286
+    },
+    {
+      "year": 2019,
+      "state": "Kedah",
+      "sex": "Lelaki",
+      "prisoners": 6726
+    },
+    {
+      "year": 2020,
+      "state": "Kedah",
+      "sex": "Lelaki",
+      "prisoners": 6209
+    },
+    {
+      "year": 2021,
+      "state": "Kedah",
+      "sex": "Lelaki",
+      "prisoners": 6587
+    },
+    {
+      "year": 2022,
+      "state": "Kedah",
+      "sex": "Lelaki",
+      "prisoners": 8230
+    },
+    {
+      "year": 2023,
+      "state": "Kedah",
+      "sex": "Lelaki",
+      "prisoners": 8353
+    },
+    {
+      "year": 2024,
+      "state": "Kedah",
+      "sex": "Lelaki",
+      "prisoners": 9356
+    },
+    {
+      "year": 2017,
+      "state": "Kedah",
+      "sex": "Perempuan",
+      "prisoners": 617
+    },
+    {
+      "year": 2018,
+      "state": "Kedah",
+      "sex": "Perempuan",
+      "prisoners": 682
+    },
+    {
+      "year": 2019,
+      "state": "Kedah",
+      "sex": "Perempuan",
+      "prisoners": 781
+    },
+    {
+      "year": 2020,
+      "state": "Kedah",
+      "sex": "Perempuan",
+      "prisoners": 437
+    },
+    {
+      "year": 2021,
+      "state": "Kedah",
+      "sex": "Perempuan",
+      "prisoners": 268
+    },
+    {
+      "year": 2022,
+      "state": "Kedah",
+      "sex": "Perempuan",
+      "prisoners": 750
+    },
+    {
+      "year": 2023,
+      "state": "Kedah",
+      "sex": "Perempuan",
+      "prisoners": 576
+    },
+    {
+      "year": 2024,
+      "state": "Kedah",
+      "sex": "Perempuan",
+      "prisoners": 493
+    },
+    {
+      "year": 2017,
+      "state": "Kelantan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7066
+    },
+    {
+      "year": 2018,
+      "state": "Kelantan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6994
+    },
+    {
+      "year": 2019,
+      "state": "Kelantan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7269
+    },
+    {
+      "year": 2020,
+      "state": "Kelantan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6898
+    },
+    {
+      "year": 2021,
+      "state": "Kelantan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6025
+    },
+    {
+      "year": 2022,
+      "state": "Kelantan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7986
+    },
+    {
+      "year": 2023,
+      "state": "Kelantan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7894
+    },
+    {
+      "year": 2024,
+      "state": "Kelantan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 10100
+    },
+    {
+      "year": 2017,
+      "state": "Kelantan",
+      "sex": "Lelaki",
+      "prisoners": 6593
+    },
+    {
+      "year": 2018,
+      "state": "Kelantan",
+      "sex": "Lelaki",
+      "prisoners": 6511
+    },
+    {
+      "year": 2019,
+      "state": "Kelantan",
+      "sex": "Lelaki",
+      "prisoners": 6700
+    },
+    {
+      "year": 2020,
+      "state": "Kelantan",
+      "sex": "Lelaki",
+      "prisoners": 6449
+    },
+    {
+      "year": 2021,
+      "state": "Kelantan",
+      "sex": "Lelaki",
+      "prisoners": 5676
+    },
+    {
+      "year": 2022,
+      "state": "Kelantan",
+      "sex": "Lelaki",
+      "prisoners": 7287
+    },
+    {
+      "year": 2023,
+      "state": "Kelantan",
+      "sex": "Lelaki",
+      "prisoners": 7374
+    },
+    {
+      "year": 2024,
+      "state": "Kelantan",
+      "sex": "Lelaki",
+      "prisoners": 9600
+    },
+    {
+      "year": 2017,
+      "state": "Kelantan",
+      "sex": "Perempuan",
+      "prisoners": 473
+    },
+    {
+      "year": 2018,
+      "state": "Kelantan",
+      "sex": "Perempuan",
+      "prisoners": 483
+    },
+    {
+      "year": 2019,
+      "state": "Kelantan",
+      "sex": "Perempuan",
+      "prisoners": 569
+    },
+    {
+      "year": 2020,
+      "state": "Kelantan",
+      "sex": "Perempuan",
+      "prisoners": 449
+    },
+    {
+      "year": 2021,
+      "state": "Kelantan",
+      "sex": "Perempuan",
+      "prisoners": 349
+    },
+    {
+      "year": 2022,
+      "state": "Kelantan",
+      "sex": "Perempuan",
+      "prisoners": 699
+    },
+    {
+      "year": 2023,
+      "state": "Kelantan",
+      "sex": "Perempuan",
+      "prisoners": 520
+    },
+    {
+      "year": 2024,
+      "state": "Kelantan",
+      "sex": "Perempuan",
+      "prisoners": 500
+    },
+    {
+      "year": 2017,
+      "state": "Melaka",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6000
+    },
+    {
+      "year": 2018,
+      "state": "Melaka",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 5722
+    },
+    {
+      "year": 2019,
+      "state": "Melaka",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7284
+    },
+    {
+      "year": 2020,
+      "state": "Melaka",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6025
+    },
+    {
+      "year": 2021,
+      "state": "Melaka",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 3131
+    },
+    {
+      "year": 2022,
+      "state": "Melaka",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 5281
+    },
+    {
+      "year": 2023,
+      "state": "Melaka",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4864
+    },
+    {
+      "year": 2024,
+      "state": "Melaka",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4983
+    },
+    {
+      "year": 2017,
+      "state": "Melaka",
+      "sex": "Lelaki",
+      "prisoners": 5412
+    },
+    {
+      "year": 2018,
+      "state": "Melaka",
+      "sex": "Lelaki",
+      "prisoners": 5244
+    },
+    {
+      "year": 2019,
+      "state": "Melaka",
+      "sex": "Lelaki",
+      "prisoners": 6512
+    },
+    {
+      "year": 2020,
+      "state": "Melaka",
+      "sex": "Lelaki",
+      "prisoners": 5097
+    },
+    {
+      "year": 2021,
+      "state": "Melaka",
+      "sex": "Lelaki",
+      "prisoners": 2705
+    },
+    {
+      "year": 2022,
+      "state": "Melaka",
+      "sex": "Lelaki",
+      "prisoners": 4634
+    },
+    {
+      "year": 2023,
+      "state": "Melaka",
+      "sex": "Lelaki",
+      "prisoners": 4117
+    },
+    {
+      "year": 2024,
+      "state": "Melaka",
+      "sex": "Lelaki",
+      "prisoners": 3996
+    },
+    {
+      "year": 2017,
+      "state": "Melaka",
+      "sex": "Perempuan",
+      "prisoners": 588
+    },
+    {
+      "year": 2018,
+      "state": "Melaka",
+      "sex": "Perempuan",
+      "prisoners": 478
+    },
+    {
+      "year": 2019,
+      "state": "Melaka",
+      "sex": "Perempuan",
+      "prisoners": 772
+    },
+    {
+      "year": 2020,
+      "state": "Melaka",
+      "sex": "Perempuan",
+      "prisoners": 928
+    },
+    {
+      "year": 2021,
+      "state": "Melaka",
+      "sex": "Perempuan",
+      "prisoners": 426
+    },
+    {
+      "year": 2022,
+      "state": "Melaka",
+      "sex": "Perempuan",
+      "prisoners": 647
+    },
+    {
+      "year": 2023,
+      "state": "Melaka",
+      "sex": "Perempuan",
+      "prisoners": 747
+    },
+    {
+      "year": 2024,
+      "state": "Melaka",
+      "sex": "Perempuan",
+      "prisoners": 987
+    },
+    {
+      "year": 2017,
+      "state": "Negeri Sembilan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 5115
+    },
+    {
+      "year": 2018,
+      "state": "Negeri Sembilan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4086
+    },
+    {
+      "year": 2019,
+      "state": "Negeri Sembilan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4828
+    },
+    {
+      "year": 2020,
+      "state": "Negeri Sembilan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 3399
+    },
+    {
+      "year": 2021,
+      "state": "Negeri Sembilan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 2499
+    },
+    {
+      "year": 2022,
+      "state": "Negeri Sembilan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 2722
+    },
+    {
+      "year": 2023,
+      "state": "Negeri Sembilan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 3136
+    },
+    {
+      "year": 2024,
+      "state": "Negeri Sembilan",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 3948
+    },
+    {
+      "year": 2017,
+      "state": "Negeri Sembilan",
+      "sex": "Lelaki",
+      "prisoners": 5114
+    },
+    {
+      "year": 2018,
+      "state": "Negeri Sembilan",
+      "sex": "Lelaki",
+      "prisoners": 4083
+    },
+    {
+      "year": 2019,
+      "state": "Negeri Sembilan",
+      "sex": "Lelaki",
+      "prisoners": 4816
+    },
+    {
+      "year": 2020,
+      "state": "Negeri Sembilan",
+      "sex": "Lelaki",
+      "prisoners": 3399
+    },
+    {
+      "year": 2021,
+      "state": "Negeri Sembilan",
+      "sex": "Lelaki",
+      "prisoners": 2498
+    },
+    {
+      "year": 2022,
+      "state": "Negeri Sembilan",
+      "sex": "Lelaki",
+      "prisoners": 2722
+    },
+    {
+      "year": 2023,
+      "state": "Negeri Sembilan",
+      "sex": "Lelaki",
+      "prisoners": 3136
+    },
+    {
+      "year": 2024,
+      "state": "Negeri Sembilan",
+      "sex": "Lelaki",
+      "prisoners": 3948
+    },
+    {
+      "year": 2017,
+      "state": "Negeri Sembilan",
+      "sex": "Perempuan",
+      "prisoners": 1
+    },
+    {
+      "year": 2018,
+      "state": "Negeri Sembilan",
+      "sex": "Perempuan",
+      "prisoners": 3
+    },
+    {
+      "year": 2019,
+      "state": "Negeri Sembilan",
+      "sex": "Perempuan",
+      "prisoners": 12
+    },
+    {
+      "year": 2020,
+      "state": "Negeri Sembilan",
+      "sex": "Perempuan",
+      "prisoners": 0
+    },
+    {
+      "year": 2021,
+      "state": "Negeri Sembilan",
+      "sex": "Perempuan",
+      "prisoners": 1
+    },
+    {
+      "year": 2022,
+      "state": "Negeri Sembilan",
+      "sex": "Perempuan",
+      "prisoners": 0
+    },
+    {
+      "year": 2023,
+      "state": "Negeri Sembilan",
+      "sex": "Perempuan",
+      "prisoners": 0
+    },
+    {
+      "year": 2024,
+      "state": "Negeri Sembilan",
+      "sex": "Perempuan",
+      "prisoners": 0
+    },
+    {
+      "year": 2017,
+      "state": "Pahang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7317
+    },
+    {
+      "year": 2018,
+      "state": "Pahang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7556
+    },
+    {
+      "year": 2019,
+      "state": "Pahang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7852
+    },
+    {
+      "year": 2020,
+      "state": "Pahang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6289
+    },
+    {
+      "year": 2021,
+      "state": "Pahang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4234
+    },
+    {
+      "year": 2022,
+      "state": "Pahang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 5977
+    },
+    {
+      "year": 2023,
+      "state": "Pahang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 5415
+    },
+    {
+      "year": 2024,
+      "state": "Pahang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6788
+    },
+    {
+      "year": 2017,
+      "state": "Pahang",
+      "sex": "Lelaki",
+      "prisoners": 6742
+    },
+    {
+      "year": 2018,
+      "state": "Pahang",
+      "sex": "Lelaki",
+      "prisoners": 6985
+    },
+    {
+      "year": 2019,
+      "state": "Pahang",
+      "sex": "Lelaki",
+      "prisoners": 7299
+    },
+    {
+      "year": 2020,
+      "state": "Pahang",
+      "sex": "Lelaki",
+      "prisoners": 5864
+    },
+    {
+      "year": 2021,
+      "state": "Pahang",
+      "sex": "Lelaki",
+      "prisoners": 3927
+    },
+    {
+      "year": 2022,
+      "state": "Pahang",
+      "sex": "Lelaki",
+      "prisoners": 5432
+    },
+    {
+      "year": 2023,
+      "state": "Pahang",
+      "sex": "Lelaki",
+      "prisoners": 4817
+    },
+    {
+      "year": 2024,
+      "state": "Pahang",
+      "sex": "Lelaki",
+      "prisoners": 6171
+    },
+    {
+      "year": 2017,
+      "state": "Pahang",
+      "sex": "Perempuan",
+      "prisoners": 575
+    },
+    {
+      "year": 2018,
+      "state": "Pahang",
+      "sex": "Perempuan",
+      "prisoners": 571
+    },
+    {
+      "year": 2019,
+      "state": "Pahang",
+      "sex": "Perempuan",
+      "prisoners": 553
+    },
+    {
+      "year": 2020,
+      "state": "Pahang",
+      "sex": "Perempuan",
+      "prisoners": 425
+    },
+    {
+      "year": 2021,
+      "state": "Pahang",
+      "sex": "Perempuan",
+      "prisoners": 307
+    },
+    {
+      "year": 2022,
+      "state": "Pahang",
+      "sex": "Perempuan",
+      "prisoners": 545
+    },
+    {
+      "year": 2023,
+      "state": "Pahang",
+      "sex": "Perempuan",
+      "prisoners": 598
+    },
+    {
+      "year": 2024,
+      "state": "Pahang",
+      "sex": "Perempuan",
+      "prisoners": 617
+    },
+    {
+      "year": 2017,
+      "state": "Pulau Pinang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 8324
+    },
+    {
+      "year": 2018,
+      "state": "Pulau Pinang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7933
+    },
+    {
+      "year": 2019,
+      "state": "Pulau Pinang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 10064
+    },
+    {
+      "year": 2020,
+      "state": "Pulau Pinang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 5312
+    },
+    {
+      "year": 2021,
+      "state": "Pulau Pinang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4727
+    },
+    {
+      "year": 2022,
+      "state": "Pulau Pinang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6699
+    },
+    {
+      "year": 2023,
+      "state": "Pulau Pinang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6711
+    },
+    {
+      "year": 2024,
+      "state": "Pulau Pinang",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7117
+    },
+    {
+      "year": 2017,
+      "state": "Pulau Pinang",
+      "sex": "Lelaki",
+      "prisoners": 7600
+    },
+    {
+      "year": 2018,
+      "state": "Pulau Pinang",
+      "sex": "Lelaki",
+      "prisoners": 7187
+    },
+    {
+      "year": 2019,
+      "state": "Pulau Pinang",
+      "sex": "Lelaki",
+      "prisoners": 9141
+    },
+    {
+      "year": 2020,
+      "state": "Pulau Pinang",
+      "sex": "Lelaki",
+      "prisoners": 4794
+    },
+    {
+      "year": 2021,
+      "state": "Pulau Pinang",
+      "sex": "Lelaki",
+      "prisoners": 4285
+    },
+    {
+      "year": 2022,
+      "state": "Pulau Pinang",
+      "sex": "Lelaki",
+      "prisoners": 6237
+    },
+    {
+      "year": 2023,
+      "state": "Pulau Pinang",
+      "sex": "Lelaki",
+      "prisoners": 6222
+    },
+    {
+      "year": 2024,
+      "state": "Pulau Pinang",
+      "sex": "Lelaki",
+      "prisoners": 6611
+    },
+    {
+      "year": 2017,
+      "state": "Pulau Pinang",
+      "sex": "Perempuan",
+      "prisoners": 724
+    },
+    {
+      "year": 2018,
+      "state": "Pulau Pinang",
+      "sex": "Perempuan",
+      "prisoners": 746
+    },
+    {
+      "year": 2019,
+      "state": "Pulau Pinang",
+      "sex": "Perempuan",
+      "prisoners": 923
+    },
+    {
+      "year": 2020,
+      "state": "Pulau Pinang",
+      "sex": "Perempuan",
+      "prisoners": 518
+    },
+    {
+      "year": 2021,
+      "state": "Pulau Pinang",
+      "sex": "Perempuan",
+      "prisoners": 442
+    },
+    {
+      "year": 2022,
+      "state": "Pulau Pinang",
+      "sex": "Perempuan",
+      "prisoners": 462
+    },
+    {
+      "year": 2023,
+      "state": "Pulau Pinang",
+      "sex": "Perempuan",
+      "prisoners": 489
+    },
+    {
+      "year": 2024,
+      "state": "Pulau Pinang",
+      "sex": "Perempuan",
+      "prisoners": 506
+    },
+    {
+      "year": 2017,
+      "state": "Perak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 8565
+    },
+    {
+      "year": 2018,
+      "state": "Perak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7340
+    },
+    {
+      "year": 2019,
+      "state": "Perak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 9878
+    },
+    {
+      "year": 2020,
+      "state": "Perak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 8558
+    },
+    {
+      "year": 2021,
+      "state": "Perak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6714
+    },
+    {
+      "year": 2022,
+      "state": "Perak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 8276
+    },
+    {
+      "year": 2023,
+      "state": "Perak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7648
+    },
+    {
+      "year": 2024,
+      "state": "Perak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 9560
+    },
+    {
+      "year": 2017,
+      "state": "Perak",
+      "sex": "Lelaki",
+      "prisoners": 7918
+    },
+    {
+      "year": 2018,
+      "state": "Perak",
+      "sex": "Lelaki",
+      "prisoners": 6925
+    },
+    {
+      "year": 2019,
+      "state": "Perak",
+      "sex": "Lelaki",
+      "prisoners": 9190
+    },
+    {
+      "year": 2020,
+      "state": "Perak",
+      "sex": "Lelaki",
+      "prisoners": 7866
+    },
+    {
+      "year": 2021,
+      "state": "Perak",
+      "sex": "Lelaki",
+      "prisoners": 6323
+    },
+    {
+      "year": 2022,
+      "state": "Perak",
+      "sex": "Lelaki",
+      "prisoners": 7721
+    },
+    {
+      "year": 2023,
+      "state": "Perak",
+      "sex": "Lelaki",
+      "prisoners": 7102
+    },
+    {
+      "year": 2024,
+      "state": "Perak",
+      "sex": "Lelaki",
+      "prisoners": 8830
+    },
+    {
+      "year": 2017,
+      "state": "Perak",
+      "sex": "Perempuan",
+      "prisoners": 647
+    },
+    {
+      "year": 2018,
+      "state": "Perak",
+      "sex": "Perempuan",
+      "prisoners": 415
+    },
+    {
+      "year": 2019,
+      "state": "Perak",
+      "sex": "Perempuan",
+      "prisoners": 688
+    },
+    {
+      "year": 2020,
+      "state": "Perak",
+      "sex": "Perempuan",
+      "prisoners": 692
+    },
+    {
+      "year": 2021,
+      "state": "Perak",
+      "sex": "Perempuan",
+      "prisoners": 391
+    },
+    {
+      "year": 2022,
+      "state": "Perak",
+      "sex": "Perempuan",
+      "prisoners": 555
+    },
+    {
+      "year": 2023,
+      "state": "Perak",
+      "sex": "Perempuan",
+      "prisoners": 546
+    },
+    {
+      "year": 2024,
+      "state": "Perak",
+      "sex": "Perempuan",
+      "prisoners": 730
+    },
+    {
+      "year": 2017,
+      "state": "Selangor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 37862
+    },
+    {
+      "year": 2018,
+      "state": "Selangor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 34955
+    },
+    {
+      "year": 2019,
+      "state": "Selangor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 40885
+    },
+    {
+      "year": 2020,
+      "state": "Selangor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 25776
+    },
+    {
+      "year": 2021,
+      "state": "Selangor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 24927
+    },
+    {
+      "year": 2022,
+      "state": "Selangor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 27765
+    },
+    {
+      "year": 2023,
+      "state": "Selangor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 26907
+    },
+    {
+      "year": 2024,
+      "state": "Selangor",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 34988
+    },
+    {
+      "year": 2017,
+      "state": "Selangor",
+      "sex": "Lelaki",
+      "prisoners": 30838
+    },
+    {
+      "year": 2018,
+      "state": "Selangor",
+      "sex": "Lelaki",
+      "prisoners": 28242
+    },
+    {
+      "year": 2019,
+      "state": "Selangor",
+      "sex": "Lelaki",
+      "prisoners": 33753
+    },
+    {
+      "year": 2020,
+      "state": "Selangor",
+      "sex": "Lelaki",
+      "prisoners": 22064
+    },
+    {
+      "year": 2021,
+      "state": "Selangor",
+      "sex": "Lelaki",
+      "prisoners": 21740
+    },
+    {
+      "year": 2022,
+      "state": "Selangor",
+      "sex": "Lelaki",
+      "prisoners": 24577
+    },
+    {
+      "year": 2023,
+      "state": "Selangor",
+      "sex": "Lelaki",
+      "prisoners": 23519
+    },
+    {
+      "year": 2024,
+      "state": "Selangor",
+      "sex": "Lelaki",
+      "prisoners": 30749
+    },
+    {
+      "year": 2017,
+      "state": "Selangor",
+      "sex": "Perempuan",
+      "prisoners": 7024
+    },
+    {
+      "year": 2018,
+      "state": "Selangor",
+      "sex": "Perempuan",
+      "prisoners": 6713
+    },
+    {
+      "year": 2019,
+      "state": "Selangor",
+      "sex": "Perempuan",
+      "prisoners": 7132
+    },
+    {
+      "year": 2020,
+      "state": "Selangor",
+      "sex": "Perempuan",
+      "prisoners": 3712
+    },
+    {
+      "year": 2021,
+      "state": "Selangor",
+      "sex": "Perempuan",
+      "prisoners": 3187
+    },
+    {
+      "year": 2022,
+      "state": "Selangor",
+      "sex": "Perempuan",
+      "prisoners": 3188
+    },
+    {
+      "year": 2023,
+      "state": "Selangor",
+      "sex": "Perempuan",
+      "prisoners": 3388
+    },
+    {
+      "year": 2024,
+      "state": "Selangor",
+      "sex": "Perempuan",
+      "prisoners": 4239
+    },
+    {
+      "year": 2017,
+      "state": "Terengganu",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4676
+    },
+    {
+      "year": 2018,
+      "state": "Terengganu",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4967
+    },
+    {
+      "year": 2019,
+      "state": "Terengganu",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 5127
+    },
+    {
+      "year": 2020,
+      "state": "Terengganu",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4551
+    },
+    {
+      "year": 2021,
+      "state": "Terengganu",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4084
+    },
+    {
+      "year": 2022,
+      "state": "Terengganu",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4987
+    },
+    {
+      "year": 2023,
+      "state": "Terengganu",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 3587
+    },
+    {
+      "year": 2024,
+      "state": "Terengganu",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4787
+    },
+    {
+      "year": 2017,
+      "state": "Terengganu",
+      "sex": "Lelaki",
+      "prisoners": 4674
+    },
+    {
+      "year": 2018,
+      "state": "Terengganu",
+      "sex": "Lelaki",
+      "prisoners": 4967
+    },
+    {
+      "year": 2019,
+      "state": "Terengganu",
+      "sex": "Lelaki",
+      "prisoners": 5127
+    },
+    {
+      "year": 2020,
+      "state": "Terengganu",
+      "sex": "Lelaki",
+      "prisoners": 4536
+    },
+    {
+      "year": 2021,
+      "state": "Terengganu",
+      "sex": "Lelaki",
+      "prisoners": 4044
+    },
+    {
+      "year": 2022,
+      "state": "Terengganu",
+      "sex": "Lelaki",
+      "prisoners": 4987
+    },
+    {
+      "year": 2023,
+      "state": "Terengganu",
+      "sex": "Lelaki",
+      "prisoners": 3586
+    },
+    {
+      "year": 2024,
+      "state": "Terengganu",
+      "sex": "Lelaki",
+      "prisoners": 4787
+    },
+    {
+      "year": 2017,
+      "state": "Terengganu",
+      "sex": "Perempuan",
+      "prisoners": 2
+    },
+    {
+      "year": 2018,
+      "state": "Terengganu",
+      "sex": "Perempuan",
+      "prisoners": 0
+    },
+    {
+      "year": 2019,
+      "state": "Terengganu",
+      "sex": "Perempuan",
+      "prisoners": 0
+    },
+    {
+      "year": 2020,
+      "state": "Terengganu",
+      "sex": "Perempuan",
+      "prisoners": 15
+    },
+    {
+      "year": 2021,
+      "state": "Terengganu",
+      "sex": "Perempuan",
+      "prisoners": 40
+    },
+    {
+      "year": 2022,
+      "state": "Terengganu",
+      "sex": "Perempuan",
+      "prisoners": 0
+    },
+    {
+      "year": 2023,
+      "state": "Terengganu",
+      "sex": "Perempuan",
+      "prisoners": 1
+    },
+    {
+      "year": 2024,
+      "state": "Terengganu",
+      "sex": "Perempuan",
+      "prisoners": 0
+    },
+    {
+      "year": 2017,
+      "state": "Sabah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 12205
+    },
+    {
+      "year": 2018,
+      "state": "Sabah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 13215
+    },
+    {
+      "year": 2019,
+      "state": "Sabah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 15699
+    },
+    {
+      "year": 2020,
+      "state": "Sabah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 8498
+    },
+    {
+      "year": 2021,
+      "state": "Sabah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 5869
+    },
+    {
+      "year": 2022,
+      "state": "Sabah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 8412
+    },
+    {
+      "year": 2023,
+      "state": "Sabah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 10199
+    },
+    {
+      "year": 2024,
+      "state": "Sabah",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 14012
+    },
+    {
+      "year": 2017,
+      "state": "Sabah",
+      "sex": "Lelaki",
+      "prisoners": 10649
+    },
+    {
+      "year": 2018,
+      "state": "Sabah",
+      "sex": "Lelaki",
+      "prisoners": 11622
+    },
+    {
+      "year": 2019,
+      "state": "Sabah",
+      "sex": "Lelaki",
+      "prisoners": 14164
+    },
+    {
+      "year": 2020,
+      "state": "Sabah",
+      "sex": "Lelaki",
+      "prisoners": 7758
+    },
+    {
+      "year": 2021,
+      "state": "Sabah",
+      "sex": "Lelaki",
+      "prisoners": 5333
+    },
+    {
+      "year": 2022,
+      "state": "Sabah",
+      "sex": "Lelaki",
+      "prisoners": 7776
+    },
+    {
+      "year": 2023,
+      "state": "Sabah",
+      "sex": "Lelaki",
+      "prisoners": 9168
+    },
+    {
+      "year": 2024,
+      "state": "Sabah",
+      "sex": "Lelaki",
+      "prisoners": 12562
+    },
+    {
+      "year": 2017,
+      "state": "Sabah",
+      "sex": "Perempuan",
+      "prisoners": 1556
+    },
+    {
+      "year": 2018,
+      "state": "Sabah",
+      "sex": "Perempuan",
+      "prisoners": 1593
+    },
+    {
+      "year": 2019,
+      "state": "Sabah",
+      "sex": "Perempuan",
+      "prisoners": 1535
+    },
+    {
+      "year": 2020,
+      "state": "Sabah",
+      "sex": "Perempuan",
+      "prisoners": 740
+    },
+    {
+      "year": 2021,
+      "state": "Sabah",
+      "sex": "Perempuan",
+      "prisoners": 536
+    },
+    {
+      "year": 2022,
+      "state": "Sabah",
+      "sex": "Perempuan",
+      "prisoners": 636
+    },
+    {
+      "year": 2023,
+      "state": "Sabah",
+      "sex": "Perempuan",
+      "prisoners": 1031
+    },
+    {
+      "year": 2024,
+      "state": "Sabah",
+      "sex": "Perempuan",
+      "prisoners": 1450
+    },
+    {
+      "year": 2017,
+      "state": "Sarawak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4284
+    },
+    {
+      "year": 2018,
+      "state": "Sarawak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 3850
+    },
+    {
+      "year": 2019,
+      "state": "Sarawak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 5440
+    },
+    {
+      "year": 2020,
+      "state": "Sarawak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 5943
+    },
+    {
+      "year": 2021,
+      "state": "Sarawak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 4588
+    },
+    {
+      "year": 2022,
+      "state": "Sarawak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6089
+    },
+    {
+      "year": 2023,
+      "state": "Sarawak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 6228
+    },
+    {
+      "year": 2024,
+      "state": "Sarawak",
+      "sex": "Kedua-dua Jantina",
+      "prisoners": 7421
+    },
+    {
+      "year": 2017,
+      "state": "Sarawak",
+      "sex": "Lelaki",
+      "prisoners": 3885
+    },
+    {
+      "year": 2018,
+      "state": "Sarawak",
+      "sex": "Lelaki",
+      "prisoners": 3496
+    },
+    {
+      "year": 2019,
+      "state": "Sarawak",
+      "sex": "Lelaki",
+      "prisoners": 4955
+    },
+    {
+      "year": 2020,
+      "state": "Sarawak",
+      "sex": "Lelaki",
+      "prisoners": 5405
+    },
+    {
+      "year": 2021,
+      "state": "Sarawak",
+      "sex": "Lelaki",
+      "prisoners": 4142
+    },
+    {
+      "year": 2022,
+      "state": "Sarawak",
+      "sex": "Lelaki",
+      "prisoners": 5464
+    },
+    {
+      "year": 2023,
+      "state": "Sarawak",
+      "sex": "Lelaki",
+      "prisoners": 5594
+    },
+    {
+      "year": 2024,
+      "state": "Sarawak",
+      "sex": "Lelaki",
+      "prisoners": 6601
+    },
+    {
+      "year": 2017,
+      "state": "Sarawak",
+      "sex": "Perempuan",
+      "prisoners": 399
+    },
+    {
+      "year": 2018,
+      "state": "Sarawak",
+      "sex": "Perempuan",
+      "prisoners": 354
+    },
+    {
+      "year": 2019,
+      "state": "Sarawak",
+      "sex": "Perempuan",
+      "prisoners": 485
+    },
+    {
+      "year": 2020,
+      "state": "Sarawak",
+      "sex": "Perempuan",
+      "prisoners": 538
+    },
+    {
+      "year": 2021,
+      "state": "Sarawak",
+      "sex": "Perempuan",
+      "prisoners": 446
+    },
+    {
+      "year": 2022,
+      "state": "Sarawak",
+      "sex": "Perempuan",
+      "prisoners": 625
+    },
+    {
+      "year": 2023,
+      "state": "Sarawak",
+      "sex": "Perempuan",
+      "prisoners": 634
+    },
+    {
+      "year": 2024,
+      "state": "Sarawak",
+      "sex": "Perempuan",
+      "prisoners": 820
+    }
+  ],
+  "meta": {
+    "title": "Bilangan Banduan mengikut Negeri dan Jantina - Muat turun percuma",
+    "description": "Bilangan banduan di penjara Malaysia mengikut negeri dan jantina, data Jabatan Penjara Malaysia Mengandungi 312 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Bilangan Banduan mengikut Negeri dan Jantina | ListBase",
+    "seo_description": "Muat turun Bilangan Banduan mengikut Negeri dan Jantina — 312 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 312 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/prisoners_state"
+    ]
+  }
+}

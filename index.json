@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-29T02:15:28.413Z",
-  "total_datasets": 671,
-  "total_records": 547069,
+  "generated": "2026-10-29T02:15:30.954Z",
+  "total_datasets": 672,
+  "total_records": 547381,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -5354,6 +5354,31 @@
         "xlsx": {
           "name": "ms-akta-parlimen_MS.xlsx",
           "size": 33459
+        }
+      }
+    },
+    {
+      "id": "ms-banduan-negeri",
+      "name": "Bilangan Banduan mengikut Negeri dan Jantina",
+      "category": "law",
+      "record_count": 312,
+      "columns": [
+        "year",
+        "state",
+        "sex",
+        "prisoners"
+      ],
+      "source": "https://data.gov.my/data-catalogue/prisoners_state",
+      "updated": "2026-10",
+      "size": 36230,
+      "files": {
+        "csv": {
+          "name": "ms-banduan-negeri_MS.csv",
+          "size": 11961
+        },
+        "xlsx": {
+          "name": "ms-banduan-negeri_MS.xlsx",
+          "size": 12772
         }
       }
     },
