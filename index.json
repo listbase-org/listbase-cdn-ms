@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-29T02:15:30.954Z",
-  "total_datasets": 672,
-  "total_records": 547381,
+  "generated": "2026-10-29T02:15:33.510Z",
+  "total_datasets": 673,
+  "total_records": 547951,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "time",
@@ -17982,6 +17982,34 @@
         "xlsx": {
           "name": "ms-akses-internet-isi-rumah_MS.xlsx",
           "size": 9768
+        }
+      }
+    },
+    {
+      "id": "ms-aplikasi-mudah-alih-kerajaan",
+      "name": "Senarai Aplikasi Mudah Alih Rasmi Kerajaan Malaysia",
+      "category": "tech",
+      "record_count": 570,
+      "columns": [
+        "app_name",
+        "agency",
+        "platforms",
+        "released",
+        "last_updated",
+        "shutdown",
+        "purpose"
+      ],
+      "source": "https://data.gov.my/data-catalogue/government_apps",
+      "updated": "2026-10",
+      "size": 149088,
+      "files": {
+        "csv": {
+          "name": "ms-aplikasi-mudah-alih-kerajaan_MS.csv",
+          "size": 63425
+        },
+        "xlsx": {
+          "name": "ms-aplikasi-mudah-alih-kerajaan_MS.xlsx",
+          "size": 40512
         }
       }
     },

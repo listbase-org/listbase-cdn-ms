@@ -1,0 +1,5191 @@
+{
+  "id": "ms-aplikasi-mudah-alih-kerajaan",
+  "name": "Senarai Aplikasi Mudah Alih Rasmi Kerajaan Malaysia",
+  "title": "Senarai Aplikasi Mudah Alih Rasmi Kerajaan Malaysia",
+  "description": "Senarai aplikasi mudah alih rasmi agensi kerajaan Malaysia beserta platform, tarikh diterbitkan, tarikh kemas kini, tarikh ditutup dan tujuan",
+  "category": "tech",
+  "source": "https://data.gov.my/data-catalogue/government_apps",
+  "source_url": "https://data.gov.my/data-catalogue/government_apps",
+  "updated": "2026-10",
+  "record_count": 570,
+  "columns": [
+    {
+      "key": "app_name",
+      "label": "App Name",
+      "type": "string"
+    },
+    {
+      "key": "agency",
+      "label": "Agency",
+      "type": "string"
+    },
+    {
+      "key": "platforms",
+      "label": "Platforms",
+      "type": "string"
+    },
+    {
+      "key": "released",
+      "label": "Released",
+      "type": "date"
+    },
+    {
+      "key": "last_updated",
+      "label": "Last Updated",
+      "type": "date"
+    },
+    {
+      "key": "shutdown",
+      "label": "Shutdown",
+      "type": "date"
+    },
+    {
+      "key": "purpose",
+      "label": "Purpose",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "app_name": "MyFoodSafe",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2014-12-18",
+      "last_updated": "2015-04-03",
+      "shutdown": "2023-05-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyHRMIS Mobile",
+      "agency": "JPA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2014-12-18",
+      "last_updated": "2026-02-24",
+      "shutdown": "",
+      "purpose": "Aplikasi MyHRMIS Mobile merupakan aplikasi mudah alih terbaharu JPA"
+    },
+    {
+      "app_name": "MyHRMISProfile",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2016-06-07",
+      "shutdown": "2022-08-10",
+      "purpose": ""
+    },
+    {
+      "app_name": "myJakim",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2014-12-22",
+      "last_updated": "2014-12-22",
+      "shutdown": "2019-05-12",
+      "purpose": ""
+    },
+    {
+      "app_name": "mySPAD",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2014-12-23",
+      "last_updated": "2015-04-21",
+      "shutdown": "2022-10-06",
+      "purpose": ""
+    },
+    {
+      "app_name": "myHealth",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2015-02-10",
+      "last_updated": "2015-04-21",
+      "shutdown": "2021-03-05",
+      "purpose": ""
+    },
+    {
+      "app_name": "myKPDNKK",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2015-02-11",
+      "last_updated": "2015-02-11",
+      "shutdown": "2016-06-02",
+      "purpose": ""
+    },
+    {
+      "app_name": "1MOCC@Labuan",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2015-04-15",
+      "last_updated": "2015-04-15",
+      "shutdown": "2017-12-28",
+      "purpose": ""
+    },
+    {
+      "app_name": "SELAWAT",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2015-04-20",
+      "last_updated": "2015-04-21",
+      "shutdown": "2015-10-13",
+      "purpose": ""
+    },
+    {
+      "app_name": "myGiN",
+      "agency": "",
+      "platforms": "iOS",
+      "released": "2015-04-20",
+      "last_updated": "2015-04-20",
+      "shutdown": "2015-04-20",
+      "purpose": ""
+    },
+    {
+      "app_name": "myMahtas",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2015-04-21",
+      "last_updated": "2020-04-03",
+      "shutdown": "2022-10-16",
+      "purpose": ""
+    },
+    {
+      "app_name": "myCuaca",
+      "agency": "JMM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2015-04-21",
+      "last_updated": "2026-10-06",
+      "shutdown": "",
+      "purpose": "myCuaca oleh Jabatan Meteorologi Malaysia"
+    },
+    {
+      "app_name": "NRE Malaysia Eco-Park",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2015-04-21",
+      "last_updated": "2015-04-21",
+      "shutdown": "2015-04-21",
+      "purpose": ""
+    },
+    {
+      "app_name": "1AKSES",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2016-01-27",
+      "shutdown": "2016-01-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "Melaka Response",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2016-01-27",
+      "shutdown": "2019-11-09",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyRaja",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2016-01-27",
+      "shutdown": "2016-01-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "Harga Getah",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2015-06-09",
+      "last_updated": "2019-11-15",
+      "shutdown": "2021-12-22",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyHRMIS eGL",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2019-10-10",
+      "shutdown": "2022-08-10",
+      "purpose": ""
+    },
+    {
+      "app_name": "myREF",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2016-01-27",
+      "last_updated": "2016-01-27",
+      "shutdown": "2016-01-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "GovDirec",
+      "agency": "",
+      "platforms": "iOS",
+      "released": "2015-06-22",
+      "last_updated": "2015-06-22",
+      "shutdown": "2016-01-13",
+      "purpose": ""
+    },
+    {
+      "app_name": "iMonitor",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2015-07-07",
+      "last_updated": "2015-07-07",
+      "shutdown": "2017-05-16",
+      "purpose": ""
+    },
+    {
+      "app_name": "GPKI Mobile",
+      "agency": "JDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2026-01-28",
+      "shutdown": "",
+      "purpose": "GPKI Mobile adalah aplikasi mudah alih bagi Perkhidmatan MyGPKI"
+    },
+    {
+      "app_name": "SKUAD ANTIDADAH",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-01-27",
+      "last_updated": "",
+      "shutdown": "2025-06-20",
+      "purpose": "SKUAD AADK, aadk, antidadah, skuad"
+    },
+    {
+      "app_name": "Mobile JPN",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2019-06-19",
+      "shutdown": "2021-07-08",
+      "purpose": ""
+    },
+    {
+      "app_name": "DocDx",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2015-08-17",
+      "last_updated": "2016-05-17",
+      "shutdown": "2024-01-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "GAMMA.my",
+      "agency": "JDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2025-04-15",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "Info KKTM/IKM",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2016-01-27",
+      "last_updated": "2016-05-04",
+      "shutdown": "2021-12-22",
+      "purpose": ""
+    },
+    {
+      "app_name": "myPUSPANITA",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2016-01-27",
+      "shutdown": "2016-01-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "Weekly Bulletin",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2019-04-03",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "PrihatinKPKT",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2016-01-27",
+      "last_updated": "",
+      "shutdown": "2024-08-11",
+      "purpose": ""
+    },
+    {
+      "app_name": "i-Kepoh",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2016-01-27",
+      "shutdown": "2016-01-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "MeterOn",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2015-10-29",
+      "last_updated": "2015-10-29",
+      "shutdown": "2021-05-21",
+      "purpose": ""
+    },
+    {
+      "app_name": "KEDAH",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2015-11-03",
+      "last_updated": "",
+      "shutdown": "2024-03-18",
+      "purpose": ""
+    },
+    {
+      "app_name": "eLatihan Perikanan 1.0",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2016-01-27",
+      "shutdown": "2022-07-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "My Ujana",
+      "agency": "JLN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2024-12-13",
+      "shutdown": "",
+      "purpose": "My Ujana merupakan aplikasi bagi membuat carian taman berdekatan anda."
+    },
+    {
+      "app_name": "mySPAv2",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2016-01-27",
+      "shutdown": "2019-09-17",
+      "purpose": ""
+    },
+    {
+      "app_name": "eLesen Perikanan 1.0",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2020-04-10",
+      "shutdown": "2022-07-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "NRE ECO PARK",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2020-04-15",
+      "shutdown": "2020-04-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "PUSTAKA MEDIA NRE",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2016-01-27",
+      "shutdown": "2016-01-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "NRE*CIA",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2015-11-19",
+      "last_updated": "2015-11-19",
+      "shutdown": "2020-08-18",
+      "purpose": ""
+    },
+    {
+      "app_name": "JPA4U Mobile",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2016-05-04",
+      "shutdown": "2023-03-20",
+      "purpose": "inovasi baharu yang dibangunkan oleh JPA untuk memaparkan ikon-ikon MyHrmis Mobile, i-Pesara, Sistem Penilaian 3600, Portal JPA, Direktori JPA, Pekeliling, Facebook JPA dan Twitter JPA untuk penjawat awam, pesara dan orang awam."
+    },
+    {
+      "app_name": "eBiosekuriti",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2016-01-27",
+      "shutdown": "2016-01-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "MARDI Tek. Kambing Pedaging",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2015-12-22",
+      "last_updated": "2023-08-15",
+      "shutdown": "2023-08-15",
+      "purpose": "MARDI membangunkan aplikasi ini untuk menyalurkan pengetahuan asas berkaitan penternakan kambing di samping memberi bimbingan dalam aspek pengeluaran kambing."
+    },
+    {
+      "app_name": "MARDI Teknologi Lebah Kelulut",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2015-12-22",
+      "last_updated": "2023-08-15",
+      "shutdown": "2023-08-15",
+      "purpose": "Program penyelidikan dan pembangunan teknologi penternakan lebah kelulut"
+    },
+    {
+      "app_name": "MARDI Direktori Usahawan",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2015-12-22",
+      "last_updated": "2017-12-19",
+      "shutdown": "2023-06-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "MARDI Penanaman Cendawan Tiram",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2015-12-24",
+      "last_updated": "2023-08-15",
+      "shutdown": "2023-08-15",
+      "purpose": "Aplikasi ini dibangunkan oleh MARDI sebagai panduan permulaan bagi sesiapa yang berminat untuk mendapatkan maklumat berkaitan penanaman cendawan tiram kelabu."
+    },
+    {
+      "app_name": "MARDI Fertigasi Cili",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2015-12-24",
+      "last_updated": "2023-08-21",
+      "shutdown": "2023-08-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "MARDI Fertigasi Melon",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2015-12-24",
+      "last_updated": "2015-12-24",
+      "shutdown": "2023-08-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "MARDI Hidroponik Salad",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2015-12-24",
+      "last_updated": "2023-08-23",
+      "shutdown": "2023-08-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "MARDI Padi Aerob",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2015-12-24",
+      "last_updated": "2023-08-23",
+      "shutdown": "2023-08-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "MARDI Green Pharmacy",
+      "agency": "MARDI",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2015-12-24",
+      "last_updated": "2025-04-29",
+      "shutdown": "",
+      "purpose": "MARDI Green Pharmacy"
+    },
+    {
+      "app_name": "MARDI Fertigasi Tomato",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2015-12-24",
+      "last_updated": "2023-08-21",
+      "shutdown": "2023-08-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "eAkuakultur",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-27",
+      "last_updated": "2016-01-27",
+      "shutdown": "2016-01-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "Ez ADU KPDNHEP",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2015-12-24",
+      "last_updated": "2020-04-15",
+      "shutdown": "2021-12-14",
+      "purpose": ""
+    },
+    {
+      "app_name": "MARDI Penternakan Ayam Kampung",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-01-08",
+      "last_updated": "2023-08-15",
+      "shutdown": "2023-08-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "MARDI Cendawan Tiram Kelabu",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-01-08",
+      "last_updated": "2023-08-21",
+      "shutdown": "2023-08-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "MARDI DoktorCili",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-01-08",
+      "last_updated": "",
+      "shutdown": "2025-04-10",
+      "purpose": "Aplikasi mudah alih Diagnosa Penyakit dan Serangga Perosak Cili dan juga panduan kepada pengguna untuk mengenalpasti penyakit, cara pengawalan dan cara pengurusan tanaman dengan betul."
+    },
+    {
+      "app_name": "MARDI MyKonsultan",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-01-08",
+      "last_updated": "2023-08-21",
+      "shutdown": "2023-08-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "MOHR iSTATS",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-08",
+      "last_updated": "2020-04-15",
+      "shutdown": "2021-06-07",
+      "purpose": ""
+    },
+    {
+      "app_name": "i-Pesara",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2016-01-08",
+      "last_updated": "2016-01-08",
+      "shutdown": "2016-01-08",
+      "purpose": ""
+    },
+    {
+      "app_name": "RELA Mobile",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2016-01-10",
+      "last_updated": "2019-11-15",
+      "shutdown": "2019-02-19",
+      "purpose": "Sistem Pengurusan Maklumat RELA merupakan satu sistem bersepadu yang menyediakan"
+    },
+    {
+      "app_name": "m-PQ",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-01-10",
+      "last_updated": "2016-09-27",
+      "shutdown": "2023-04-03",
+      "purpose": "Sistem m-PQ"
+    },
+    {
+      "app_name": "CAMS AGC",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-12",
+      "last_updated": "2019-04-02",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "PgGOV SMP",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-01-18",
+      "last_updated": "2016-10-10",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "AppSejahtera",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-01-21",
+      "last_updated": "2018-08-04",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "EPSM CLICKS",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-02-14",
+      "last_updated": "2019-08-06",
+      "shutdown": "2019-08-06",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyProcurement",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-02-15",
+      "last_updated": "2016-02-15",
+      "shutdown": "2019-08-25",
+      "purpose": ""
+    },
+    {
+      "app_name": "EPSM CLICKS PENYELARAS",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-02-15",
+      "last_updated": "2019-08-06",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "eMAPS",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-02-16",
+      "last_updated": "2016-02-16",
+      "shutdown": "2016-02-16",
+      "purpose": ""
+    },
+    {
+      "app_name": "MACCMobile",
+      "agency": "SPRM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-03-03",
+      "last_updated": "2024-12-02",
+      "shutdown": "",
+      "purpose": "MACCMobile adalah satu alternatif kepada orang ramai untuk menyalurkan maklumat rasuah kepada Suruhanjaya Pencegah Rasuah Malaysia(SPRM)."
+    },
+    {
+      "app_name": "myMQR",
+      "agency": "MQA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-03-17",
+      "last_updated": "2025-02-25",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "eScienceFund",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-03-24",
+      "last_updated": "2016-03-24",
+      "shutdown": "2016-04-16",
+      "purpose": ""
+    },
+    {
+      "app_name": "SEMAK T4 SBP",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2016-03-29",
+      "last_updated": "2016-03-29",
+      "shutdown": "2016-03-29",
+      "purpose": ""
+    },
+    {
+      "app_name": "eTukarBukanGuru",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-04-04",
+      "last_updated": "2017-12-19",
+      "shutdown": "2021-06-23",
+      "purpose": ""
+    },
+    {
+      "app_name": "myMOTAC",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-04-05",
+      "last_updated": "2019-04-02",
+      "shutdown": "2021-08-01",
+      "purpose": ""
+    },
+    {
+      "app_name": "KWP Pocket Dir",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-04-06",
+      "last_updated": "",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "eKehadiran Murid",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-04-07",
+      "last_updated": "2017-12-14",
+      "shutdown": "2021-08-06",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyHargaTani",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-04-19",
+      "last_updated": "2019-06-19",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "myFoodPremis",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-04-19",
+      "last_updated": "2019-06-19",
+      "shutdown": "2021-08-06",
+      "purpose": ""
+    },
+    {
+      "app_name": "My EBelia",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-04-20",
+      "last_updated": "2016-04-20",
+      "shutdown": "2016-04-20",
+      "purpose": ""
+    },
+    {
+      "app_name": "iDengue",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-05-03",
+      "last_updated": "2016-05-03",
+      "shutdown": "2016-12-31",
+      "purpose": ""
+    },
+    {
+      "app_name": "Paparan Harga",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-05-03",
+      "last_updated": "2016-05-03",
+      "shutdown": "2016-05-03",
+      "purpose": ""
+    },
+    {
+      "app_name": "Carian Istilah",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-05-04",
+      "last_updated": "2016-05-04",
+      "shutdown": "2016-06-02",
+      "purpose": ""
+    },
+    {
+      "app_name": "MySWCorp",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-05-06",
+      "last_updated": "2019-08-06",
+      "shutdown": "2019-08-06",
+      "purpose": ""
+    },
+    {
+      "app_name": "Buletin MAMPU",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-05-17",
+      "last_updated": "2016-05-17",
+      "shutdown": "2016-08-12",
+      "purpose": ""
+    },
+    {
+      "app_name": "NRE Direktori",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-05-19",
+      "last_updated": "2016-05-19",
+      "shutdown": "2016-05-19",
+      "purpose": ""
+    },
+    {
+      "app_name": "Rakyat Responz",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-05-21",
+      "last_updated": "2016-05-21",
+      "shutdown": "2016-10-05",
+      "purpose": ""
+    },
+    {
+      "app_name": "PKB Publication",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-05-27",
+      "last_updated": "2017-01-13",
+      "shutdown": "2017-01-13",
+      "purpose": ""
+    },
+    {
+      "app_name": "Semak Aset PKB",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-05-27",
+      "last_updated": "2017-02-01",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "VSP",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-05-27",
+      "last_updated": "2018-05-24",
+      "shutdown": "2024-05-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "PgGOV SUKMA",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-03",
+      "last_updated": "2018-09-07",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "Hubungi PDC",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-03",
+      "last_updated": "2018-05-24",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "mICMAS",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-06",
+      "last_updated": "2016-06-06",
+      "shutdown": "2016-06-06",
+      "purpose": ""
+    },
+    {
+      "app_name": "Aduan Jalan KKR",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-07",
+      "last_updated": "2016-06-07",
+      "shutdown": "2017-03-10",
+      "purpose": ""
+    },
+    {
+      "app_name": "KedahiMAI",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-07",
+      "last_updated": "2016-06-07",
+      "shutdown": "2019-12-07",
+      "purpose": ""
+    },
+    {
+      "app_name": "1WPrice",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-07",
+      "last_updated": "2016-06-07",
+      "shutdown": "2016-07-20",
+      "purpose": ""
+    },
+    {
+      "app_name": "PgGOV Cukai Tanah",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-15",
+      "last_updated": "2016-06-15",
+      "shutdown": "2023-12-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "PgGOV Sukan",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-15",
+      "last_updated": "2016-06-15",
+      "shutdown": "2016-08-12",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyHRMIS Self Check",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-15",
+      "last_updated": "2016-06-15",
+      "shutdown": "2022-08-10",
+      "purpose": ""
+    },
+    {
+      "app_name": "PgGov Penang State Muzium",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-16",
+      "last_updated": "2016-06-21",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "1MTC",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-23",
+      "last_updated": "2016-06-23",
+      "shutdown": "2017-06-03",
+      "purpose": ""
+    },
+    {
+      "app_name": "PgGOV JPNPP",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-28",
+      "last_updated": "2016-06-28",
+      "shutdown": "2016-06-28",
+      "purpose": ""
+    },
+    {
+      "app_name": "PgGOV i-Kit ICT",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-28",
+      "last_updated": "2019-04-02",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "PgGOV PBG",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-06-30",
+      "last_updated": "2016-10-14",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "mySPA8i",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-07-13",
+      "last_updated": "2016-07-13",
+      "shutdown": "2019-09-17",
+      "purpose": ""
+    },
+    {
+      "app_name": "KelGov JPS",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-07-15",
+      "last_updated": "2017-12-19",
+      "shutdown": "2021-06-28",
+      "purpose": ""
+    },
+    {
+      "app_name": "PgGov i-JKNPP",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-07-25",
+      "last_updated": "2019-04-03",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "PgGovStepJKSNPP",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-07-25",
+      "last_updated": "2016-07-25",
+      "shutdown": "2018-02-23",
+      "purpose": ""
+    },
+    {
+      "app_name": "iKeTTHA",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-08-05",
+      "last_updated": "2016-08-05",
+      "shutdown": "2016-08-11",
+      "purpose": ""
+    },
+    {
+      "app_name": "myMAINPP",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-08-08",
+      "last_updated": "2019-04-02",
+      "shutdown": "2019-04-02",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyPTJ",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-08-10",
+      "last_updated": "2016-11-01",
+      "shutdown": "2021-05-25",
+      "purpose": ""
+    },
+    {
+      "app_name": "MPPD",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-08-12",
+      "last_updated": "2020-11-19",
+      "shutdown": "2020-11-19",
+      "purpose": ""
+    },
+    {
+      "app_name": "SITI@1MOCC",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-08-16",
+      "last_updated": "2016-08-16",
+      "shutdown": "2017-01-05",
+      "purpose": ""
+    },
+    {
+      "app_name": "KG BHARU FOOD HAVEN",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-08-24",
+      "last_updated": "2016-09-02",
+      "shutdown": "2016-10-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "Eresults",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-09-22",
+      "last_updated": "2016-10-06",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "myUPWK",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-09-22",
+      "last_updated": "2020-04-09",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyPG",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2016-09-29",
+      "last_updated": "2017-03-27",
+      "shutdown": "2021-05-21",
+      "purpose": ""
+    },
+    {
+      "app_name": "MTS2U",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-10-11",
+      "last_updated": "2016-11-29",
+      "shutdown": "2021-06-07",
+      "purpose": ""
+    },
+    {
+      "app_name": "OSH Accident Cost Calculator",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2016-10-14",
+      "last_updated": "2020-04-09",
+      "shutdown": "2021-06-28",
+      "purpose": ""
+    },
+    {
+      "app_name": "myUTHM",
+      "agency": "UTHM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2016-10-27",
+      "last_updated": "2019-04-23",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "eKeberadaan Guru",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-11-10",
+      "last_updated": "2017-02-23",
+      "shutdown": "2024-06-16",
+      "purpose": ""
+    },
+    {
+      "app_name": "DBKL Mobis",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2016-11-15",
+      "last_updated": "2016-11-15",
+      "shutdown": "2017-10-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "Public Sector CIO Convex 2016",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-11-15",
+      "last_updated": "2016-11-15",
+      "shutdown": "2016-11-17",
+      "purpose": ""
+    },
+    {
+      "app_name": "SciCOSH",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-11-15",
+      "last_updated": "2016-11-17",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "MySisPPA",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-11-18",
+      "last_updated": "2019-04-02",
+      "shutdown": "2019-04-02",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyBlood",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2016-11-21",
+      "last_updated": "2016-11-21",
+      "shutdown": "2017-04-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyEconomic Data",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-12-09",
+      "last_updated": "2016-12-09",
+      "shutdown": "2019-08-17",
+      "purpose": ""
+    },
+    {
+      "app_name": "myIMIv2",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2016-12-14",
+      "last_updated": "2020-11-23",
+      "shutdown": "2022-01-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "myJPM",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2016-12-30",
+      "last_updated": "2016-12-30",
+      "shutdown": "2019-10-01",
+      "purpose": ""
+    },
+    {
+      "app_name": "SMA Yuran",
+      "agency": "SUK Pahang",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-01-13",
+      "last_updated": "2025-01-06",
+      "shutdown": "",
+      "purpose": "Semakan status bayaran yuran pelajar SMAN"
+    },
+    {
+      "app_name": "ePerumahan Pahang",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-01-13",
+      "last_updated": "2020-10-08",
+      "shutdown": "2025-04-29",
+      "purpose": ""
+    },
+    {
+      "app_name": "JOM PANTAU",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-02-10",
+      "last_updated": "2018-05-24",
+      "shutdown": "2022-04-13",
+      "purpose": ""
+    },
+    {
+      "app_name": "PDPK",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-02-17",
+      "last_updated": "2020-03-23",
+      "shutdown": "2022-04-18",
+      "purpose": "Aplikasi mudah alih ini untuk Data Pekebun Kecil Malaysia"
+    },
+    {
+      "app_name": "MyHarga MPI",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-02-17",
+      "last_updated": "2020-03-23",
+      "shutdown": "2022-12-22",
+      "purpose": ""
+    },
+    {
+      "app_name": "MDKT GO",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-02-23",
+      "last_updated": "2019-04-02",
+      "shutdown": "2019-04-02",
+      "purpose": ""
+    },
+    {
+      "app_name": "JUPEM MyRTKnet",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-02-23",
+      "last_updated": "2017-03-06",
+      "shutdown": "2023-03-06",
+      "purpose": "kemudahan  kepada pengguna mendapatkan maklumat ringkas mengenai seperti status dan maklumat stesen MyRTKnet, jenis cerapan yang ditawarkan dan pelbagai informasi ringkas yang boleh dicapai di mana – mana lokasi."
+    },
+    {
+      "app_name": "PEKA Kelantan",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-02-27",
+      "last_updated": "2017-03-10",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "JAWHAR Apps",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-03-02",
+      "last_updated": "2017-03-02",
+      "shutdown": "2022-10-05",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyNRE",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-03-06",
+      "last_updated": "2017-03-06",
+      "shutdown": "2017-10-08",
+      "purpose": ""
+    },
+    {
+      "app_name": "SL1M",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-03-06",
+      "last_updated": "2017-03-06",
+      "shutdown": "2017-03-06",
+      "purpose": ""
+    },
+    {
+      "app_name": "eJPBD Kelantan",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-03-15",
+      "last_updated": "2017-03-15",
+      "shutdown": "2017-03-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "iTender MinDef",
+      "agency": "MinDef",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-03-23",
+      "last_updated": "2020-09-25",
+      "shutdown": "",
+      "purpose": "Penyampaian perkhidmatan proses pengiklanan tender dan sebutharga MinDef"
+    },
+    {
+      "app_name": "InfoBencanaJKM",
+      "agency": "JKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-03-23",
+      "last_updated": "2025-11-27",
+      "shutdown": "",
+      "purpose": "Orang ramai/mangsa bencana boleh dapatkan maklumat pusat pemindahan bencana."
+    },
+    {
+      "app_name": "eParlimenKKLW",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-03-27",
+      "last_updated": "2017-04-21",
+      "shutdown": "2022-10-06",
+      "purpose": ""
+    },
+    {
+      "app_name": "NRE GO",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-03-30",
+      "last_updated": "2017-03-30",
+      "shutdown": "2017-03-30",
+      "purpose": ""
+    },
+    {
+      "app_name": "100 TIP TANAMAN",
+      "agency": "DOA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-04-13",
+      "last_updated": "2023-11-27",
+      "shutdown": "",
+      "purpose": "Aplikasi ini menampilkan 100 tip dan petua tanaman yang diolah secara ringkas dan padat."
+    },
+    {
+      "app_name": "AGRIMATHS",
+      "agency": "DOA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-04-13",
+      "last_updated": "2023-11-27",
+      "shutdown": "",
+      "purpose": "Ianya adalah adaptasi daripada buku ‘Asas Matematik Pertanian’ terbitan DOA"
+    },
+    {
+      "app_name": "SEMAK SEMULA",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-04-15",
+      "last_updated": "2020-04-10",
+      "shutdown": "2021-06-05",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyHRMIS Care",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-04-26",
+      "last_updated": "2017-05-05",
+      "shutdown": "2022-08-10",
+      "purpose": ""
+    },
+    {
+      "app_name": "SUbyMPM",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-05-05",
+      "last_updated": "2017-05-12",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "Negaraku Bersih",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-05-26",
+      "last_updated": "2017-06-22",
+      "shutdown": "2021-07-03",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyMPMclick",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-06-01",
+      "last_updated": "2019-06-07",
+      "shutdown": "2021-07-08",
+      "purpose": ""
+    },
+    {
+      "app_name": "SKALA MyProject",
+      "agency": "JKR",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-06-15",
+      "last_updated": "2019-01-02",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "ePuspal",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-06-15",
+      "last_updated": "2017-06-15",
+      "shutdown": "2017-06-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "K3M",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-06-19",
+      "last_updated": "2017-07-13",
+      "shutdown": "2022-10-05",
+      "purpose": ""
+    },
+    {
+      "app_name": "MARDI MyOnFarmFruits",
+      "agency": "MARDI",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-07-09",
+      "last_updated": "2025-02-19",
+      "shutdown": "",
+      "purpose": "Aplikasi ini telah dibangunkan berdasarkan maklumat pencirian dan penilaian spesies buah-buahan daripada tiga genus iaitu Mangifera (mangga), Nephelium (rambutan) dan Garcinia (manggis) yang terdapat di halaman rumah atau kebun petani di enam kawasan yang"
+    },
+    {
+      "app_name": "MARDI MyKompos",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-07-09",
+      "last_updated": "2023-08-15",
+      "shutdown": "2023-08-15",
+      "purpose": "Aplikasi  yang memaparkan maklumat berkaitan proses penguraian (pengoksidaan) sisa buangan organik kepada bahan akhir yang stabil yang boleh digunakan semula untuk tanaman."
+    },
+    {
+      "app_name": "MARDI MyPerosakPadi",
+      "agency": "MARDI",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-07-09",
+      "last_updated": "2025-02-25",
+      "shutdown": "",
+      "purpose": "Aplikasi mudah alih ini bertujuan untuk memberikan sedikit maklumat kepada petani tentang bagaimana untuk mengenal dan mengurus perosak, penyakit mahupun rumpai di sawah padi supaya hasil tanaman dapat ditingkatkan."
+    },
+    {
+      "app_name": "COSH NIOSH",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-07-20",
+      "last_updated": "2017-09-16",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyMTCP",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-07-20",
+      "last_updated": "2019-04-02",
+      "shutdown": "2021-11-23",
+      "purpose": ""
+    },
+    {
+      "app_name": "Kualiti JPNT",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-08-03",
+      "last_updated": "2017-09-05",
+      "shutdown": "2021-06-06",
+      "purpose": ""
+    },
+    {
+      "app_name": "infoQJPN",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-08-17",
+      "last_updated": "2020-04-01",
+      "shutdown": "2020-04-01",
+      "purpose": ""
+    },
+    {
+      "app_name": "InfoJPJ 2.0",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-08-18",
+      "last_updated": "2019-07-01",
+      "shutdown": "2023-09-13",
+      "purpose": "Carian info perkhidmatan oleh JPJ"
+    },
+    {
+      "app_name": "BizCode@Stats",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-08-25",
+      "last_updated": "",
+      "shutdown": "2024-07-05",
+      "purpose": ""
+    },
+    {
+      "app_name": "NPSP",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-09-05",
+      "last_updated": "2017-10-11",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "MySPR Semak",
+      "agency": "SPR",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-09-18",
+      "last_updated": "2024-08-09",
+      "shutdown": "",
+      "purpose": "SEMAKAN DAFTAR PEMILIH"
+    },
+    {
+      "app_name": "eKehakiman",
+      "agency": "MAHKAMAH",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-09-18",
+      "last_updated": "2023-09-21",
+      "shutdown": "",
+      "purpose": "Update SDK"
+    },
+    {
+      "app_name": "Public Sector CIO Convex 2017",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-09-25",
+      "last_updated": "2017-09-25",
+      "shutdown": "2017-09-25",
+      "purpose": ""
+    },
+    {
+      "app_name": "iTegur Action",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-09-29",
+      "last_updated": "2019-03-05",
+      "shutdown": "2024-12-04",
+      "purpose": "kemudahan mengemaskini maklum balas aduan oleh PBT kepada pengadu secara mobile"
+    },
+    {
+      "app_name": "MyPraSekolah",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-09-29",
+      "last_updated": "2017-10-02",
+      "shutdown": "2017-10-02",
+      "purpose": ""
+    },
+    {
+      "app_name": "PgGOV iBITA",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-10-11",
+      "last_updated": "2017-11-23",
+      "shutdown": "2021-06-01",
+      "purpose": ""
+    },
+    {
+      "app_name": "PgGOV eMUFTI",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-10-11",
+      "last_updated": "2017-12-22",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "TaPP n Go",
+      "agency": "JKPTG",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-10-17",
+      "last_updated": "2018-10-02",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "STPMbyMPM",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-10-19",
+      "last_updated": "2017-10-19",
+      "shutdown": "2018-07-28",
+      "purpose": ""
+    },
+    {
+      "app_name": "MySenaraiSyak",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-10-19",
+      "last_updated": "2020-04-09",
+      "shutdown": "2022-01-12",
+      "purpose": ""
+    },
+    {
+      "app_name": "GoRail",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-11-01",
+      "last_updated": "2017-11-02",
+      "shutdown": "2021-05-28",
+      "purpose": ""
+    },
+    {
+      "app_name": "NIC 2017",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-11-07",
+      "last_updated": "2017-11-07",
+      "shutdown": "2017-11-07",
+      "purpose": ""
+    },
+    {
+      "app_name": "Pontian Tourism",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-11-21",
+      "last_updated": "2018-01-15",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "Mobile app EZStar",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-11-27",
+      "last_updated": "2019-04-03",
+      "shutdown": "2019-04-03",
+      "purpose": ""
+    },
+    {
+      "app_name": "TEKUN Payment Channel",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-11-27",
+      "last_updated": "",
+      "shutdown": "2024-08-22",
+      "purpose": ""
+    },
+    {
+      "app_name": "Friends Of KPDNKK",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-11-27",
+      "last_updated": "2017-11-27",
+      "shutdown": "2017-11-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "PGGOV EPP",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-11-27",
+      "last_updated": "2017-11-27",
+      "shutdown": "2017-11-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "rtmklik",
+      "agency": "RTM",
+      "platforms": "Android, iOS",
+      "released": "2017-11-27",
+      "last_updated": "2017-11-27",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyKira GST",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-11-27",
+      "last_updated": "2017-11-27",
+      "shutdown": "2017-11-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "myNilaian Tanah Kelantan",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-11-27",
+      "last_updated": "2017-11-27",
+      "shutdown": "2017-11-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "Price Catcher",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-11-27",
+      "last_updated": "2025-02-27",
+      "shutdown": "2025-02-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyMAIK eZakat Payment",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-11-27",
+      "last_updated": "",
+      "shutdown": "2024-03-24",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyNutriDiari",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-11-27",
+      "last_updated": "2017-11-27",
+      "shutdown": "2022-08-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "SelGOV Cukai Tanah",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-11-27",
+      "last_updated": "2017-11-27",
+      "shutdown": "2017-11-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "STA 2010 Items",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-11-27",
+      "last_updated": "2017-11-27",
+      "shutdown": "2017-11-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "MITI FTA Tariff Calculator",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-11-27",
+      "last_updated": "2017-11-27",
+      "shutdown": "2017-11-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "SPP",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-12-07",
+      "last_updated": "",
+      "shutdown": "2024-02-13",
+      "purpose": ""
+    },
+    {
+      "app_name": "MCG Info",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-12-12",
+      "last_updated": "2020-08-10",
+      "shutdown": "2024-08-21",
+      "purpose": "iPRP Mobile adalah aplikasi untuk membantu pemantau mengemaskini dan memantau status projek. Aplikasi ini merupakan saluran alternatif penyampaian maklumat daripada agensi kepada seluruh rakyat Malaysia."
+    },
+    {
+      "app_name": "EMPOWER OSH",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-12-12",
+      "last_updated": "2020-08-10",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyPBPPP",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2017-12-13",
+      "last_updated": "2019-01-30",
+      "shutdown": "2019-01-30",
+      "purpose": ""
+    },
+    {
+      "app_name": "MySales Tracker",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2017-12-21",
+      "last_updated": "2025-03-21",
+      "shutdown": "",
+      "purpose": "MST mengemukakan maklumat jualan murah yang telah dimohon melalui KPDN."
+    },
+    {
+      "app_name": "MuftiJohorApps",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2017-12-27",
+      "last_updated": "2017-12-27",
+      "shutdown": "2017-12-27",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyeTaPP",
+      "agency": "JKPTG",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-01-03",
+      "last_updated": "2018-01-03",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "eLPv1",
+      "agency": "",
+      "platforms": "Android, Huawei",
+      "released": "2018-01-15",
+      "last_updated": "2020-10-08",
+      "shutdown": "2021-09-16",
+      "purpose": ""
+    },
+    {
+      "app_name": "MySaham2u-AppGen",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2018-01-22",
+      "last_updated": "2018-01-22",
+      "shutdown": "2021-07-29",
+      "purpose": ""
+    },
+    {
+      "app_name": "MySPR Laporan KTM",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-01-29",
+      "last_updated": "2018-04-06",
+      "shutdown": "2023-11-21",
+      "purpose": "APLIKASI KEGUNAAN KETUA TEMPAT MENGUNDI YANG TELAH DIDAFTARKAN OLEH SPR."
+    },
+    {
+      "app_name": "UPUPocket",
+      "agency": "JPT",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-01-29",
+      "last_updated": "2026-03-03",
+      "shutdown": "",
+      "purpose": "UPUPocket"
+    },
+    {
+      "app_name": "1NRECC",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2018-02-08",
+      "last_updated": "2018-02-08",
+      "shutdown": "2018-02-08",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyCukai",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-03-12",
+      "last_updated": "",
+      "shutdown": "2024-10-05",
+      "purpose": ""
+    },
+    {
+      "app_name": "KenaliUbat Anda",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2018-03-16",
+      "last_updated": "2018-03-16",
+      "shutdown": "2018-03-16",
+      "purpose": ""
+    },
+    {
+      "app_name": "e-Fatwa Wilayah Persekutuan",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2018-03-19",
+      "last_updated": "2018-03-21",
+      "shutdown": "2021-09-20",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyKonsular",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2018-04-18",
+      "last_updated": "2018-05-23",
+      "shutdown": "2018-05-23",
+      "purpose": ""
+    },
+    {
+      "app_name": "HR@MITI",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-07-19",
+      "last_updated": "2018-07-19",
+      "shutdown": "2024-07-07",
+      "purpose": ""
+    },
+    {
+      "app_name": "MCG Hadir",
+      "agency": "APMM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-07-31",
+      "last_updated": "2026-01-09",
+      "shutdown": "",
+      "purpose": "Aplikasi yang menguruskan maklumat kehadiran anggota-anggota APMM secara digital"
+    },
+    {
+      "app_name": "Trade2Media",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2018-09-04",
+      "last_updated": "2018-09-04",
+      "shutdown": "2022-11-10",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyExport",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2018-09-04",
+      "last_updated": "2018-09-04",
+      "shutdown": "2022-11-10",
+      "purpose": ""
+    },
+    {
+      "app_name": "FAHAM FIQH AL-AQSA",
+      "agency": "UNISZA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-09-05",
+      "last_updated": "2018-09-05",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "DRSNPP2030",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2018-09-12",
+      "last_updated": "2020-03-31",
+      "shutdown": "2021-05-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "COMBIS",
+      "agency": "KKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-09-19",
+      "last_updated": "2018-09-20",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "iMelaka",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2018-09-19",
+      "last_updated": "2018-09-19",
+      "shutdown": "2018-09-19",
+      "purpose": ""
+    },
+    {
+      "app_name": "eLatihan KPDNHEP",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2018-09-20",
+      "last_updated": "2018-09-20",
+      "shutdown": "2022-12-22",
+      "purpose": ""
+    },
+    {
+      "app_name": "K-TEK",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-09-20",
+      "last_updated": "2020-04-02",
+      "shutdown": "2022-10-05",
+      "purpose": ""
+    },
+    {
+      "app_name": "MCG News",
+      "agency": "APMM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-09-26",
+      "last_updated": "2018-11-28",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "Public Sector CIO Convex (PSCC)",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-11-01",
+      "last_updated": "2020-04-10",
+      "shutdown": "2021-08-11",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyGerms VR",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-11-16",
+      "last_updated": "2020-04-03",
+      "shutdown": "2024-10-23",
+      "purpose": "Applikasi MyGerms VR mobil ini menerangkan secara infografik dan animasi 3D dalam format realiti maya bagi mengenali bakteria yang menyebabkan keracunan makanan. Alat kawalan bluetooth dan Kotak VR diperlukan bagi menggunakan applikasi ini."
+    },
+    {
+      "app_name": "MyMesyuarat",
+      "agency": "JDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-11-22",
+      "last_updated": "2018-11-22",
+      "shutdown": "",
+      "purpose": "Aplikasi  pengurusan mesyuarat secara dalam talian melalui aplikasi mudah alih."
+    },
+    {
+      "app_name": "SMART QURAN",
+      "agency": "JAKIM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-11-28",
+      "last_updated": "2018-11-28",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "Penang Alert",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2018-11-28",
+      "last_updated": "2019-05-30",
+      "shutdown": "2024-06-10",
+      "purpose": ""
+    },
+    {
+      "app_name": "LMI Gateway",
+      "agency": "MOHR",
+      "platforms": "Android, iOS",
+      "released": "2018-11-28",
+      "last_updated": "2019-11-14",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "Geosmart Selangor",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2018-12-03",
+      "last_updated": "2018-12-03",
+      "shutdown": "2022-10-05",
+      "purpose": ""
+    },
+    {
+      "app_name": "myHKP",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2018-12-05",
+      "last_updated": "2018-12-05",
+      "shutdown": "2022-01-12",
+      "purpose": ""
+    },
+    {
+      "app_name": "PBTCare",
+      "agency": "JKT",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2018-12-10",
+      "last_updated": "2026-06-12",
+      "shutdown": "",
+      "purpose": "Kemudahan kepada orang awam membuat aduan kepada PBT melalui mobil"
+    },
+    {
+      "app_name": "Parlimen Malaysia",
+      "agency": "Parlimen Malaysia",
+      "platforms": "Android, iOS",
+      "released": "2018-12-14",
+      "last_updated": "2020-11-23",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "Smart Hadith",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-01-15",
+      "last_updated": "2020-02-14",
+      "shutdown": "2023-10-26",
+      "purpose": ""
+    },
+    {
+      "app_name": "mBook KPDNHEP",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-01-17",
+      "last_updated": "",
+      "shutdown": "2023-07-24",
+      "purpose": ""
+    },
+    {
+      "app_name": "Smart Muslim",
+      "agency": "JAKIM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-01-28",
+      "last_updated": "2020-07-07",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyWC",
+      "agency": "JKT",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-01-29",
+      "last_updated": "2026-07-20",
+      "shutdown": "",
+      "purpose": "Memudahkan pengguna mencari tandas awam berdekatan dan profil tandas tersebut."
+    },
+    {
+      "app_name": "MyPromise",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-02-13",
+      "last_updated": "2019-05-31",
+      "shutdown": "2024-08-13",
+      "purpose": ""
+    },
+    {
+      "app_name": "E-Cocoa MCB",
+      "agency": "KOKO",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-02-15",
+      "last_updated": "2024-09-06",
+      "shutdown": "",
+      "purpose": "Aplikasi untuk kakitangan LKM memantau peserta program tanaman koko."
+    },
+    {
+      "app_name": "E-Cocoa Petani",
+      "agency": "KOKO",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-02-15",
+      "last_updated": "2024-08-05",
+      "shutdown": "",
+      "purpose": "Aplikasi untuk pekebun kecil yang mengikuti program di Lembaga Koko Malaysia"
+    },
+    {
+      "app_name": "MyAlumni Admin",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-03-28",
+      "last_updated": "2019-05-07",
+      "shutdown": "2023-04-13",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyAlumni KPKM",
+      "agency": "MAFS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-03-28",
+      "last_updated": "2023-05-19",
+      "shutdown": "",
+      "purpose": "Sistem aplikasi mudah alih bagi graduan KPKM mengemaskini maklumat profil"
+    },
+    {
+      "app_name": "e-TUIS",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2019-03-29",
+      "last_updated": "2019-04-01",
+      "shutdown": "2024-10-23",
+      "purpose": "Sistem e-TUIS merupakan satu sistem berasaskan web yang membolehkan kesatuan sekerja berurusan sepenuhnya secara dalam talian (online) dengan Jabatan Hal Ehwal Kesatuan Sekerja (JHEKS)"
+    },
+    {
+      "app_name": "DBKK eCukai",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2019-04-03",
+      "last_updated": "2019-04-04",
+      "shutdown": "2022-11-08",
+      "purpose": ""
+    },
+    {
+      "app_name": "i-KrediKom",
+      "agency": "KPKT",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-04-05",
+      "last_updated": "2024-03-12",
+      "shutdown": "",
+      "purpose": "Membantu orang awam daripada terlibat dengan syarikat yang tidak berlesen"
+    },
+    {
+      "app_name": "mySolat",
+      "agency": "JAKIM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-04-09",
+      "last_updated": "2019-04-09",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "Ydata@IYRES",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2019-04-22",
+      "last_updated": "2019-04-22",
+      "shutdown": "2019-04-22",
+      "purpose": ""
+    },
+    {
+      "app_name": "InfoJKM",
+      "agency": "JKM",
+      "platforms": "Android",
+      "released": "2019-04-22",
+      "last_updated": "2019-04-22",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "SMOKU",
+      "agency": "JKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-04-22",
+      "last_updated": "2019-06-07",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "iServices Mobile",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-05-08",
+      "last_updated": "2020-04-15",
+      "shutdown": "2024-01-19",
+      "purpose": "perkhidmatan online yang disediakan oleh MDKS kepada penduduk-penduduk Kuala Selangor untuk membuat semakan/pembayaran akaun secara online tanpa perlu ke kaunter perkhidmatan MDKS."
+    },
+    {
+      "app_name": "LABUAN CORPORATION APP",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2019-06-13",
+      "last_updated": "2020-04-15",
+      "shutdown": "2021-12-22",
+      "purpose": ""
+    },
+    {
+      "app_name": "i-Gadaian",
+      "agency": "KPKT",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-06-13",
+      "last_updated": "2024-03-12",
+      "shutdown": "",
+      "purpose": "Membantu orang awam daripada terlibat dengan syarikat yang tidak berlesen"
+    },
+    {
+      "app_name": "PRIMTECH",
+      "agency": "MOSTI",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-06-25",
+      "last_updated": "2019-07-15",
+      "shutdown": "",
+      "purpose": "Aplikasi Interaktif warga MOSTI."
+    },
+    {
+      "app_name": "MaNIS",
+      "agency": "KPWKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-06-25",
+      "last_updated": "2025-11-07",
+      "shutdown": "",
+      "purpose": "Sistem Maklumat Nasional Kumpulan Sasar (MaNIS)"
+    },
+    {
+      "app_name": "MeDC@St 2.0",
+      "agency": "KKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-07-31",
+      "last_updated": "2020-04-03",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "e-Bayaran MBKT",
+      "agency": "MBKT",
+      "platforms": "Android",
+      "released": "2019-08-15",
+      "last_updated": "2025-07-15",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyePIMS",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-09-12",
+      "last_updated": "",
+      "shutdown": "2024-01-21",
+      "purpose": ""
+    },
+    {
+      "app_name": "ePayslip JANM",
+      "agency": "JANM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-09-26",
+      "last_updated": "2026-08-12",
+      "shutdown": "",
+      "purpose": "Sistem ePenyata Gaji dan Laporan (eSPGL) versi Aplikasi Mudah Alih"
+    },
+    {
+      "app_name": "eParlimen KPWKM",
+      "agency": "KPWKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-10-11",
+      "last_updated": "2026-06-16",
+      "shutdown": "",
+      "purpose": "eParlimen KPWKM membantu menguruskan perjalanan setiap soalan di Parlimen"
+    },
+    {
+      "app_name": "SPWTD",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-10-16",
+      "last_updated": "",
+      "shutdown": "2024-03-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "JUPEM eBiz GeoPortal",
+      "agency": "JUPEM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-10-23",
+      "last_updated": "2020-04-15",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "PPAM",
+      "agency": "JPM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-10-25",
+      "last_updated": "2025-11-04",
+      "shutdown": "",
+      "purpose": "Kemaskini fungsi baharu permohonan di page maklumat projek"
+    },
+    {
+      "app_name": "eDSL",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-10-29",
+      "last_updated": "2020-02-14",
+      "shutdown": "2024-09-25",
+      "purpose": "Permohonan Lesen Perkapalan Dalam Negeri"
+    },
+    {
+      "app_name": "eSoalSelidik MBKT",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2019-11-11",
+      "last_updated": "2020-01-10",
+      "shutdown": "2021-12-22",
+      "purpose": ""
+    },
+    {
+      "app_name": "MPT e-Services",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-11-18",
+      "last_updated": "2019-11-19",
+      "shutdown": "2024-07-25",
+      "purpose": ""
+    },
+    {
+      "app_name": "eBrochures",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2019-11-18",
+      "last_updated": "2019-11-19",
+      "shutdown": "2021-12-22",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyHRMIS Keluar Pejabat",
+      "agency": "",
+      "platforms": "Android, Huawei",
+      "released": "2019-12-09",
+      "last_updated": "2019-12-09",
+      "shutdown": "2022-08-10",
+      "purpose": "Aplikasi MyHRMIS Keluar Pejabat merupakan inovasi terbaharu Jabatan Perkhidmatan Awam (JPA) untuk membantu memudahkan pengurusan keluar pejabat penjawat awam dalam waktu bertugas mematuhi Waktu Bekerja ."
+    },
+    {
+      "app_name": "MyGov Portal",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2019-12-10",
+      "last_updated": "2020-12-16",
+      "shutdown": "2024-08-01",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyAPEC2020",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2019-12-10",
+      "last_updated": "2020-01-31",
+      "shutdown": "2022-01-25",
+      "purpose": ""
+    },
+    {
+      "app_name": "Mobile JPPH",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2019-12-19",
+      "last_updated": "2019-12-31",
+      "shutdown": "2025-05-14",
+      "purpose": ""
+    },
+    {
+      "app_name": "eBantuanJKM",
+      "agency": "JKM",
+      "platforms": "Android, iOS",
+      "released": "2020-02-06",
+      "last_updated": "2025-07-15",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyTulen",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-02-07",
+      "last_updated": "2025-03-14",
+      "shutdown": "",
+      "purpose": "MyTulen mengesahkan kesahihan label cakera optik yang dikuatkuasakan oleh KPDN."
+    },
+    {
+      "app_name": "NPRA Product Status",
+      "agency": "KKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-02-12",
+      "last_updated": "2020-09-14",
+      "shutdown": "",
+      "purpose": "Pengguna boleh menggunakan aplikasi ini untuk mencari status pendaftaran produk"
+    },
+    {
+      "app_name": "NANO VR",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-02-19",
+      "last_updated": "",
+      "shutdown": "2024-04-25",
+      "purpose": ""
+    },
+    {
+      "app_name": "MURNInets 2.0",
+      "agency": "PLANMalaysia",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-03-10",
+      "last_updated": "2023-12-01",
+      "shutdown": "",
+      "purpose": "Satu sistem untuk mengukur dan menilai kemampanan sesuatu kawasan(PBT)"
+    },
+    {
+      "app_name": "MALAYSIA CPI INFLATION CALCULATOR",
+      "agency": "STATS",
+      "platforms": "Android, Huawei",
+      "released": "2020-03-10",
+      "last_updated": "2020-03-10",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "MySejahtera",
+      "agency": "KKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-03-28",
+      "last_updated": "2026-10-28",
+      "shutdown": "",
+      "purpose": "MySejahtera dibangunkan untuk membantu pengawasan penularan wabak COVID-19"
+    },
+    {
+      "app_name": "SmartCE",
+      "agency": "STATS",
+      "platforms": "Android, iOS",
+      "released": "2020-04-01",
+      "last_updated": "2020-11-03",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "SmartFL",
+      "agency": "STATS",
+      "platforms": "Android, iOS",
+      "released": "2020-04-02",
+      "last_updated": "2020-07-15",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyTrace",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2020-04-26",
+      "last_updated": "2020-05-29",
+      "shutdown": "2021-02-11",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyVIA",
+      "agency": "",
+      "platforms": "Android, iOS",
+      "released": "2020-05-19",
+      "last_updated": "2020-05-19",
+      "shutdown": "2020-05-19",
+      "purpose": ""
+    },
+    {
+      "app_name": "aplikasi myDIMS-versi lama",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-06-02",
+      "last_updated": "",
+      "shutdown": "2024-05-25",
+      "purpose": ""
+    },
+    {
+      "app_name": "TEDUH",
+      "agency": "JPN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-06-10",
+      "last_updated": "2026-10-15",
+      "shutdown": "",
+      "purpose": "Penyediaan platform utama Jabatan iaitu TEDUH dan SPRN"
+    },
+    {
+      "app_name": "DOSM",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-06-18",
+      "last_updated": "2020-07-08",
+      "shutdown": "2023-04-03",
+      "purpose": ""
+    },
+    {
+      "app_name": "myMPT",
+      "agency": "MP Taiping",
+      "platforms": "Android",
+      "released": "2020-08-13",
+      "last_updated": "2020-08-13",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "eParlimenKKR",
+      "agency": "KKR",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-08-14",
+      "last_updated": "2024-09-17",
+      "shutdown": "",
+      "purpose": "Pengesahan dan Penyediaan Laporan Pegawai Bertugas"
+    },
+    {
+      "app_name": "MyGeoMap",
+      "agency": "PGN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-08-19",
+      "last_updated": "2020-08-24",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "JPJeBid",
+      "agency": "JPJ",
+      "platforms": "Android, iOS",
+      "released": "2020-08-25",
+      "last_updated": "2025-05-06",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "SmartCE TRN",
+      "agency": "STATS",
+      "platforms": "Android, iOS",
+      "released": "2020-09-02",
+      "last_updated": "2020-11-03",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyUBAT",
+      "agency": "KKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-09-03",
+      "last_updated": "2026-09-10",
+      "shutdown": "",
+      "purpose": "Dapatkan ubat-ubatan anda dengan mudah dan cepat"
+    },
+    {
+      "app_name": "Collab.My",
+      "agency": "NACSA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-09-14",
+      "last_updated": "2026-10-09",
+      "shutdown": "",
+      "purpose": "Mengemaskini keselamatan aplikasi"
+    },
+    {
+      "app_name": "PgGOV ePINTAS",
+      "agency": "PSUKPP",
+      "platforms": "Android, iOS",
+      "released": "2020-10-02",
+      "last_updated": "2020-10-02",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "APEL.A",
+      "agency": "MQA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-10-06",
+      "last_updated": "2025-10-23",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyPublicInfoBanjir",
+      "agency": "JPS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-11-18",
+      "last_updated": "2025-10-09",
+      "shutdown": "",
+      "purpose": "MyPublic InfoBanjir"
+    },
+    {
+      "app_name": "e-Rekreasi",
+      "agency": "DOF",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-11-27",
+      "last_updated": "2024-07-25",
+      "shutdown": "",
+      "purpose": "Sistem Pendaftaran Dan Pelesenan Penangkapan Ikan Rekreasi Kelautan DOF"
+    },
+    {
+      "app_name": "NSFE",
+      "agency": "MOSTI",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-12-08",
+      "last_updated": "2024-06-27",
+      "shutdown": "",
+      "purpose": "Info kemudahan dan peralatan saintifik di Malaysia untuk disewa"
+    },
+    {
+      "app_name": "PDC2U",
+      "agency": "PDC",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-12-15",
+      "last_updated": "2024-11-15",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "Penghijauan Malaysia",
+      "agency": "NRES",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2020-12-21",
+      "last_updated": "2021-01-04",
+      "shutdown": "",
+      "purpose": "Aplikasi yang membolehkan pengguna turut serta dalam kempen penghijauan malaysia"
+    },
+    {
+      "app_name": "eRAKAM",
+      "agency": "MinDef",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-01-19",
+      "last_updated": "2023-09-05",
+      "shutdown": "",
+      "purpose": "eRAKAM mobil memaparkan dan memantau masa masuk/keluar penjawat awam MINDEF"
+    },
+    {
+      "app_name": "I-Plan Malaysia",
+      "agency": "PLANMalaysia",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-01-26",
+      "last_updated": "2026-10-28",
+      "shutdown": "",
+      "purpose": "sistem maklumat interaktif guna tanah perancangan"
+    },
+    {
+      "app_name": "eHadir SUK Pahang",
+      "agency": "SUK Pahang",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-01-27",
+      "last_updated": "2026-10-20",
+      "shutdown": "",
+      "purpose": "Aplikasi mobile merekodkan kehadiran pegawai dan kakitangan di PSUK Pahang."
+    },
+    {
+      "app_name": "HELPDESK ICT KKR",
+      "agency": "KKR",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-01-29",
+      "last_updated": "2026-01-15",
+      "shutdown": "",
+      "purpose": "Saluran dan semakan untuk aduan ict KKR"
+    },
+    {
+      "app_name": "Sistem Janji Temu Klinik KKM",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-02-14",
+      "last_updated": "2021-02-14",
+      "shutdown": "2023-09-22",
+      "purpose": "Janji temu klinik KKM merupakan satu inisiatif daripada Kementerian Kesihatan Malaysia (KKM) kepada pelanggan untuk mendapatkan slot rawatan di klinik seluruh Malaysia."
+    },
+    {
+      "app_name": "MyRECS Consultation",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-02-18",
+      "last_updated": "",
+      "shutdown": "2024-08-13",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyVisitor",
+      "agency": "KLN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-02-25",
+      "last_updated": "2021-02-25",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "GovChat",
+      "agency": "JDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-03-09",
+      "last_updated": "2026-08-06",
+      "shutdown": "",
+      "purpose": "GovChat merupakan platform pemesejan dimiliki sepenuhnya oleh Kerajaan Malaysia"
+    },
+    {
+      "app_name": "eProKehadiran MBIP",
+      "agency": "MBIP",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-03-16",
+      "last_updated": "2021-03-16",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyGeotapak",
+      "agency": "KATS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-03-27",
+      "last_updated": "2024-09-17",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "Vaccine Management System",
+      "agency": "KKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-04-08",
+      "last_updated": "2024-11-07",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "iHadir@MEDAC",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-04-14",
+      "last_updated": "2021-04-14",
+      "shutdown": "2023-01-30",
+      "purpose": "Sistem untuk merekod log masuk/keluar kehadiran menggunakan GPS secara atas talian kepada staff MEDAC"
+    },
+    {
+      "app_name": "eKURSUS MEDAC",
+      "agency": "KUSKOP",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-04-14",
+      "last_updated": "2025-06-24",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "Vaccine Certificate Verifier",
+      "agency": "KKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-04-15",
+      "last_updated": "2021-04-15",
+      "shutdown": "",
+      "purpose": "Vaccine Certificate Verifier merupakan aplikasi bagi mengesahkan sijil vaksinasi"
+    },
+    {
+      "app_name": "eSemakan PTGS",
+      "agency": "PTGS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-04-16",
+      "last_updated": "2021-04-16",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "Smart Docket PTGS",
+      "agency": "PTGS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-04-16",
+      "last_updated": "2021-04-16",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "i-PRP Mobile",
+      "agency": "PLANMalaysia",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-04-27",
+      "last_updated": "2021-04-27",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "CHAT",
+      "agency": "HAMPG",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-04-28",
+      "last_updated": "2023-11-03",
+      "shutdown": "",
+      "purpose": "Semakan temujanji, ubatan, VC dan sebagainya bagi pesakit Hospital Ampang"
+    },
+    {
+      "app_name": "FoSIM Public Apps",
+      "agency": "KKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-04-30",
+      "last_updated": "2023-06-19",
+      "shutdown": "",
+      "purpose": "FoSIM Public Apps bagi memudahkan menyemak lesen yang dikeluarkan oleh BKKM."
+    },
+    {
+      "app_name": "SPOT-ME",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-05-19",
+      "last_updated": "",
+      "shutdown": "2026-09-14",
+      "purpose": "Aplikasi daftar kehadiran dan pergerakan harian pegawai bertugas"
+    },
+    {
+      "app_name": "ASk FaRA",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-05-19",
+      "last_updated": "2021-05-19",
+      "shutdown": "2024-08-26",
+      "purpose": "Aplikasi Sokongan kepada Sistem Pengecaman Wajah"
+    },
+    {
+      "app_name": "PENYU e-MAS",
+      "agency": "DOF",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-06-01",
+      "last_updated": "2024-07-18",
+      "shutdown": "",
+      "purpose": "Sistem bagi pemantauan dan perkongsian data dan rekod pengurusan penyu"
+    },
+    {
+      "app_name": "Bootcamp KRISA",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-06-02",
+      "last_updated": "2021-06-02",
+      "shutdown": "2024-06-20",
+      "purpose": "Aplikasi sokongan kepada Bootcamp KRISA anjuran BPI MAMPU"
+    },
+    {
+      "app_name": "Sistem eKonsular",
+      "agency": "KLN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-08-30",
+      "last_updated": "2026-10-27",
+      "shutdown": "",
+      "purpose": "Aplikasi untuk pengguna yang memerlukan perkhidmatan konsular dari KLN Malaysia"
+    },
+    {
+      "app_name": "MyPLAN",
+      "agency": "PLANMalaysia",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-06-04",
+      "last_updated": "2021-06-04",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "iHadir MEDAC",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-07-14",
+      "last_updated": "2021-07-14",
+      "shutdown": "2024-10-23",
+      "purpose": "Sistem Kehadiran MEDAC (iHadir MEDAC) merupakan sebuah sistem untuk merekod log"
+    },
+    {
+      "app_name": "MEDAC.OFFICE",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-07-18",
+      "last_updated": "2021-07-18",
+      "shutdown": "2024-10-23",
+      "purpose": "Sistem Aplikasi Dalaman MEDAC (MEDAC.OFFICE) merupakan sebuah sistem untuk kegunaan di pejabat"
+    },
+    {
+      "app_name": "myKafeTEEN",
+      "agency": "LPPKN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-08-17",
+      "last_updated": "2021-08-17",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "e-Lembaga Peperiksaan",
+      "agency": "LP",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-09-17",
+      "last_updated": "2026-10-21",
+      "shutdown": "",
+      "purpose": "Paparan baharu bagi aplikasi Lembaga Peperiksaan (e-LP)"
+    },
+    {
+      "app_name": "MyDSK",
+      "agency": "KATS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-09-22",
+      "last_updated": "2021-09-22",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "Volunteer Smartphone Patrol",
+      "agency": "PDRM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-10-27",
+      "last_updated": "2024-03-04",
+      "shutdown": "",
+      "purpose": "VSP bertujuan memudahkan orang awam menyalurkan maklumat atau aduan kepada PDRM"
+    },
+    {
+      "app_name": "MyBLESS",
+      "agency": "KUSKOP",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-10-27",
+      "last_updated": "2023-08-07",
+      "shutdown": "",
+      "purpose": "SEMAKAN MAKLUMAT LESEN YANG DIMOHON MELALUI SISTEM BLESS"
+    },
+    {
+      "app_name": "eSPEKMobile",
+      "agency": "INSTUN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-11-09",
+      "last_updated": "2021-11-09",
+      "shutdown": "",
+      "purpose": "Sistem Pengurusan Kursus"
+    },
+    {
+      "app_name": "eTOUCH Mobile",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-11-09",
+      "last_updated": "2021-11-09",
+      "shutdown": "2024-07-04",
+      "purpose": "Aplikasi pengurusan kehadiran dan tugas luar/kursus"
+    },
+    {
+      "app_name": "USIM TAS (Tasdiq Al Syahadah)",
+      "agency": "USIM",
+      "platforms": "Android, Huawei",
+      "released": "2021-11-10",
+      "last_updated": "2021-11-10",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "S-CHARMs",
+      "agency": "PLANMalaysia",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-11-16",
+      "last_updated": "2024-10-30",
+      "shutdown": "",
+      "purpose": "Sistem Ciri-Ciri Spatial Desa Malaysia"
+    },
+    {
+      "app_name": "AT-IPM CACAO",
+      "agency": "KOKO",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-11-26",
+      "last_updated": "2025-04-29",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "DMCOCOA",
+      "agency": "KOKO",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-11-26",
+      "last_updated": "2021-11-26",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "eMaklum JANM",
+      "agency": "JANM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-11-30",
+      "last_updated": "2026-08-26",
+      "shutdown": "",
+      "purpose": "Kemudahan untuk individu dan pembekal membuat carian dan semakan dokumen bayaran"
+    },
+    {
+      "app_name": "MACC Outreach",
+      "agency": "SPRM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-12-06",
+      "last_updated": "2026-07-29",
+      "shutdown": "",
+      "purpose": "MACC Outreach adalah permohonan program berkaitan pendidikan antirasuah SPRM"
+    },
+    {
+      "app_name": "JAKIM Touch",
+      "agency": "JAKIM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2021-12-16",
+      "last_updated": "2026-10-28",
+      "shutdown": "",
+      "purpose": "perkhidmatan digital keluaran JAKIM"
+    },
+    {
+      "app_name": "STAPS",
+      "agency": "JUPEM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-01-06",
+      "last_updated": "2022-01-06",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyJalan KKR",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-01-12",
+      "last_updated": "",
+      "shutdown": "2025-11-28",
+      "purpose": "Saluran aduan kerosakan berlaku di sepanjang jalan dan semakan status aduan."
+    },
+    {
+      "app_name": "myJPS",
+      "agency": "JPS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-01-14",
+      "last_updated": "2022-01-14",
+      "shutdown": "",
+      "purpose": "Aplikasi Mudah Alih untuk Jabatan Pengairan dan Saliran Malaysia"
+    },
+    {
+      "app_name": "UNILEAD",
+      "agency": "AKEPT",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-02-08",
+      "last_updated": "2022-02-08",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "MyTC",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-02-14",
+      "last_updated": "2022-02-14",
+      "shutdown": "2023-03-27",
+      "purpose": "Aplikasi Mobile MyTC Fasa 1 Untuk Semakan Kekosongan"
+    },
+    {
+      "app_name": "MyTVET",
+      "agency": "JPK",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-02-15",
+      "last_updated": "2025-07-11",
+      "shutdown": "",
+      "purpose": "MyTVET aplikasi sehenti yang menyediakan maklumat terkini mengenai TVET"
+    },
+    {
+      "app_name": "Konti Radio Jawi",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-03-01",
+      "last_updated": "2022-03-01",
+      "shutdown": "2024-04-18",
+      "purpose": "Aplikasi Radio JAWi ialah Program Media Rasmi berteraskan Islam"
+    },
+    {
+      "app_name": "SMA Hadir",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-03-01",
+      "last_updated": "",
+      "shutdown": "2024-11-08",
+      "purpose": "Aplikasi mobile bagi merekod kehadiran guru dan pelajar SMAN"
+    },
+    {
+      "app_name": "JKR Expre@s",
+      "agency": "JKR",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-03-11",
+      "last_updated": "2022-03-11",
+      "shutdown": "",
+      "purpose": "Memudahkan proses pemantauan serta pelaporan pelaksanaan kerja di tapak bina."
+    },
+    {
+      "app_name": "JLM Shipper",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2022-03-21",
+      "last_updated": "",
+      "shutdown": "2024-08-02",
+      "purpose": "Pendaftaran syarikat shipper"
+    },
+    {
+      "app_name": "SISMARP",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2022-03-22",
+      "last_updated": "2022-03-22",
+      "shutdown": "2023-12-31",
+      "purpose": ""
+    },
+    {
+      "app_name": "SISMARP",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2022-03-22",
+      "last_updated": "2022-03-22",
+      "shutdown": "2023-12-31",
+      "purpose": ""
+    },
+    {
+      "app_name": "SISMARP",
+      "agency": "DOA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-03-23",
+      "last_updated": "2022-03-23",
+      "shutdown": "",
+      "purpose": "Aplikasi mudah alih berkaitan pengesyoran racun makhluk perosak dalam pertanian"
+    },
+    {
+      "app_name": "ezAdu",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-03-30",
+      "last_updated": "2026-09-23",
+      "shutdown": "",
+      "purpose": "Aplikasi ezAdu membolehkan pengguna melaporkan aduan kepenggunaan kepada KPDN."
+    },
+    {
+      "app_name": "HPjCare",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-04-11",
+      "last_updated": "",
+      "shutdown": "2024-07-21",
+      "purpose": "HPjCare dibangunkan bagi kegunaan kakitangan dan pesakit di Hospital Putrajaya"
+    },
+    {
+      "app_name": "MySaham2u",
+      "agency": "MITI",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-04-12",
+      "last_updated": "2025-02-05",
+      "shutdown": "",
+      "purpose": "MySaham2u"
+    },
+    {
+      "app_name": "MyCommodityData",
+      "agency": "KPK",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-04-18",
+      "last_updated": "2025-03-27",
+      "shutdown": "",
+      "purpose": "Data Statistik Agrikomoditi"
+    },
+    {
+      "app_name": "JKR Conduit & Trunking Size",
+      "agency": "JKR",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-04-18",
+      "last_updated": "2022-04-18",
+      "shutdown": "",
+      "purpose": "Aplikasi untuk mengetahui saiz Conduit serta Trunking bagi laluan kabel elektrik"
+    },
+    {
+      "app_name": "M@P LibOPAC JPM",
+      "agency": "JPM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-05-10",
+      "last_updated": "2023-11-02",
+      "shutdown": "",
+      "purpose": "Aplikasi untuk kemudahan akses kepada OPAC (Online Patron Access Cataloging) JPM"
+    },
+    {
+      "app_name": "MyKerja ICU JPM",
+      "agency": "ICU",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-05-12",
+      "last_updated": "2023-05-31",
+      "shutdown": "",
+      "purpose": "Aplikasi merekodkan kehadiran dan keberadaan kakitangan ICU JPM."
+    },
+    {
+      "app_name": "MyFEX",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-05-23",
+      "last_updated": "2026-08-07",
+      "shutdown": "",
+      "purpose": "Aplikasi kemudahan semakan pantas maklumat status pendaftaran francais."
+    },
+    {
+      "app_name": "MACC AR",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2022-05-25",
+      "last_updated": "",
+      "shutdown": "2022-05-25",
+      "purpose": ""
+    },
+    {
+      "app_name": "MACC AR",
+      "agency": "SPRM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-05-26",
+      "last_updated": "2026-07-29",
+      "shutdown": "",
+      "purpose": "Aplikasi menggunakan teknologi Augmented Reality bagi pendidikan antirasuah"
+    },
+    {
+      "app_name": "PRIMTECH",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-05-26",
+      "last_updated": "2022-05-26",
+      "shutdown": "2022-05-26",
+      "purpose": "Aplikasi Interaktif warga MOSTI."
+    },
+    {
+      "app_name": "eKSS",
+      "agency": "MAHKAMAH",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-05-30",
+      "last_updated": "2026-08-07",
+      "shutdown": "",
+      "purpose": "Aplikasi rasmi Kehakiman Sabah Sarawak"
+    },
+    {
+      "app_name": "eCSTP",
+      "agency": "DOE",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-06-07",
+      "last_updated": "2025-02-19",
+      "shutdown": "",
+      "purpose": "Carian Juruteknik yang Bertauliah bagi Sektor Penyejukbekuan dan Penyaman Udara"
+    },
+    {
+      "app_name": "Sistem MyUtility MinDef",
+      "agency": "MinDef",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-06-22",
+      "last_updated": "2022-06-22",
+      "shutdown": "",
+      "purpose": "Modul Penghuni Sistem MyUtility RKAT Kemenetrian Pertahanan"
+    },
+    {
+      "app_name": "Mobile Discovery",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-06-23",
+      "last_updated": "2025-03-26",
+      "shutdown": "2025-09-04",
+      "purpose": ""
+    },
+    {
+      "app_name": "ezStar KPDN",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-07-13",
+      "last_updated": "2023-10-25",
+      "shutdown": "",
+      "purpose": "ezStar ialah inisiatif KPDN untuk memodenkan bahagian penguat kuasaannya"
+    },
+    {
+      "app_name": "eLesen Perikanan",
+      "agency": "DOF",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-07-19",
+      "last_updated": "2025-10-14",
+      "shutdown": "",
+      "purpose": "Semakan status permohonan aktiviti perlesenan jabatan."
+    },
+    {
+      "app_name": "eLatihan Perikanan",
+      "agency": "DOF",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-07-26",
+      "last_updated": "2025-10-16",
+      "shutdown": "",
+      "purpose": "Perkhidmatan pengurusan latihan dan kursus di Jabatan"
+    },
+    {
+      "app_name": "MyAttendanceHSNZ",
+      "agency": "HSNZKT",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-08-05",
+      "last_updated": "2026-01-09",
+      "shutdown": "",
+      "purpose": "MyAttendanceHSNZ membolehkan pengguna merekod kehadiran"
+    },
+    {
+      "app_name": "isign",
+      "agency": "JAKIM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-08-16",
+      "last_updated": "2022-08-16",
+      "shutdown": "",
+      "purpose": "iSign adalah aplikasi bahasa isyarat Islam untuk komuniti OKU Pendengaran"
+    },
+    {
+      "app_name": "ezApprove",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-08-25",
+      "last_updated": "",
+      "shutdown": "2024-08-01",
+      "purpose": "Sistem Pengurusan Kelulusan KDN (ezApprove)"
+    },
+    {
+      "app_name": "Geran Agropreneur Muda",
+      "agency": "MAFS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-09-14",
+      "last_updated": "2023-06-13",
+      "shutdown": "",
+      "purpose": "Platform mudah dan pantas bagi permohonan Geran Agropreneur Muda, MAFI"
+    },
+    {
+      "app_name": "MyToxinSign",
+      "agency": "DOA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-10-07",
+      "last_updated": "2024-05-29",
+      "shutdown": "",
+      "purpose": "Maklumat tanda keracunan bagi perawis aktif pada produk racun makhluk perosak"
+    },
+    {
+      "app_name": "iHadirKUSKOPv2",
+      "agency": "KUSKOP",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-10-07",
+      "last_updated": "2026-01-12",
+      "shutdown": "",
+      "purpose": "Sistem Kehadiran Pegawai KUSKOP"
+    },
+    {
+      "app_name": "e-Insolvensi",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-10-13",
+      "last_updated": "",
+      "shutdown": "2024-08-15",
+      "purpose": "Aplikasi e-Insolvensi adalah aplikasi mudah alih terbaharu MdI"
+    },
+    {
+      "app_name": "Aplikasi Talian Kasih",
+      "agency": "KPWKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-10-17",
+      "last_updated": "2025-07-28",
+      "shutdown": "",
+      "purpose": "Sistem Aplikasi Talian Kasih"
+    },
+    {
+      "app_name": "ePermohonan HLP",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-10-19",
+      "last_updated": "2022-10-19",
+      "shutdown": "2024-08-19",
+      "purpose": "Sistem Permohonan HLP"
+    },
+    {
+      "app_name": "Jejak Koko",
+      "agency": "KOKO",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-11-04",
+      "last_updated": "2025-10-21",
+      "shutdown": "",
+      "purpose": "Aplikasi untuk mengesan asal tunggal biji koko di Malaysia."
+    },
+    {
+      "app_name": "MyALT",
+      "agency": "LP",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-11-08",
+      "last_updated": "2026-10-22",
+      "shutdown": "",
+      "purpose": "Sistem Pentaksiran Alternatif Sekolah Menengah"
+    },
+    {
+      "app_name": "JPS Negeri Perak",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2022-11-11",
+      "last_updated": "",
+      "shutdown": "2025-04-21",
+      "purpose": ""
+    },
+    {
+      "app_name": "JPS Negeri Perak",
+      "agency": "JPSPK",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-11-11",
+      "last_updated": "2024-12-17",
+      "shutdown": "",
+      "purpose": "JPS Perak mobile apps is an initiative from Corporate Section of JPS Perak State"
+    },
+    {
+      "app_name": "KELGOV PPST",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2022-11-23",
+      "last_updated": "",
+      "shutdown": "2025-04-15",
+      "purpose": ""
+    },
+    {
+      "app_name": "KELGOV PPST",
+      "agency": "Pejabat SUK Kelantan",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-11-23",
+      "last_updated": "2022-11-23",
+      "shutdown": "",
+      "purpose": "Sistem Permohonan Program Pembangunan Sains dan Teknologi"
+    },
+    {
+      "app_name": "GIS9 mobile",
+      "agency": "SUKNS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2022-12-13",
+      "last_updated": "2024-09-12",
+      "shutdown": "",
+      "purpose": "GIS9 adalah Sistem Maklumat Geografi Negeri Sembilan."
+    },
+    {
+      "app_name": "TRDI News",
+      "agency": "SUK Terengganu",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-01-05",
+      "last_updated": "2023-01-05",
+      "shutdown": "",
+      "purpose": "TRDI News merupakan media rasmi Kerajaan Negeri."
+    },
+    {
+      "app_name": "eKANMAS",
+      "agency": "DOF",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-01-09",
+      "last_updated": "2025-10-14",
+      "shutdown": "",
+      "purpose": "Sistem Pengurusan eBiosekuriti Perikanan  Jabatan Perikanan Malaysia"
+    },
+    {
+      "app_name": "SJPay Scanner",
+      "agency": "MDS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-01-09",
+      "last_updated": "2023-01-09",
+      "shutdown": "",
+      "purpose": "Scanner app untuk SJPay"
+    },
+    {
+      "app_name": "Terengganu Pay",
+      "agency": "SUK Terengganu",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-01-09",
+      "last_updated": "2023-01-09",
+      "shutdown": "",
+      "purpose": "Terengganu Pay"
+    },
+    {
+      "app_name": "KBBM",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-01-10",
+      "last_updated": "2025-07-24",
+      "shutdown": "",
+      "purpose": "Aplikasi bagi pendaftaran dan permohonan Logo Buatan Malaysia dan AKHP"
+    },
+    {
+      "app_name": "ADU MPK",
+      "agency": "MP Kemaman",
+      "platforms": "Android, iOS",
+      "released": "2023-01-10",
+      "last_updated": "2023-01-10",
+      "shutdown": "",
+      "purpose": "Saluran Aduan Bagi daerah Kemaman"
+    },
+    {
+      "app_name": "Kedah Digital",
+      "agency": "SUK Kedah",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-01-26",
+      "last_updated": "2023-01-26",
+      "shutdown": "",
+      "purpose": "Aplikasi Kedah Digital Hybrid Kerajaan Negeri Kedah"
+    },
+    {
+      "app_name": "e-Bencana Kelantan",
+      "agency": "Pejabat SUK Kelantan",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-02-27",
+      "last_updated": "2023-11-24",
+      "shutdown": "",
+      "purpose": "Pengurusan maklumat bencana secara berpusat"
+    },
+    {
+      "app_name": "IWRIMS",
+      "agency": "LUAS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-02-27",
+      "last_updated": "2023-02-27",
+      "shutdown": "",
+      "purpose": "Integrated Water Resources Information Management System"
+    },
+    {
+      "app_name": "GMACA",
+      "agency": "SPRM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-02-27",
+      "last_updated": "2023-02-27",
+      "shutdown": "",
+      "purpose": "GMACA adalah aplikasi mudah alih untuk pengguna mendapatkan maklumat kursus."
+    },
+    {
+      "app_name": "myPMINT",
+      "agency": "PMINT",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-03-01",
+      "last_updated": "2023-03-01",
+      "shutdown": "",
+      "purpose": "penyewa dan pembeli menyemak penyata bayaran, membuat bayaran dan membuat aduan"
+    },
+    {
+      "app_name": "eBuku Daftar PJS",
+      "agency": "MAHKAMAH",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-03-02",
+      "last_updated": "2023-03-02",
+      "shutdown": "",
+      "purpose": "Pengesahan kehadiran deponen ke premis Pesuruhjaya Sumpah"
+    },
+    {
+      "app_name": "Aplikasi MyLOT",
+      "agency": "JUPEM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-03-20",
+      "last_updated": "2025-11-03",
+      "shutdown": "",
+      "purpose": "Membantu rakyat mencapai lokasi lot tanah yang telah diukur secara atas talian"
+    },
+    {
+      "app_name": "ezJPN",
+      "agency": "JPN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-03-20",
+      "last_updated": "2026-09-30",
+      "shutdown": "",
+      "purpose": "Kemudahan semakan dan cabutan yang melibatkan urusniaga di JPN"
+    },
+    {
+      "app_name": "SST 10",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-03-20",
+      "last_updated": "",
+      "shutdown": "2024-08-20",
+      "purpose": "Semakan Maklumat Syarikat Berdaftar SST"
+    },
+    {
+      "app_name": "DDMS 2.0",
+      "agency": "JDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-03-22",
+      "last_updated": "2024-09-26",
+      "shutdown": "",
+      "purpose": "DDMS 2.0 untuk menguruskan rekod-rekod digital"
+    },
+    {
+      "app_name": "E-Syariah",
+      "agency": "JKSM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-03-23",
+      "last_updated": "2026-08-07",
+      "shutdown": "",
+      "purpose": "Platform bagi pengguna akses informasi esyariah yang relevan melalui mobil"
+    },
+    {
+      "app_name": "BOMBA eFEIS",
+      "agency": "BOMBA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-03-23",
+      "last_updated": "2023-11-16",
+      "shutdown": "",
+      "purpose": "Mengimbas kod QR pada alat pemadam api (APA) untuk semakan maklumat"
+    },
+    {
+      "app_name": "MelakaPay",
+      "agency": "SUK Melaka",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-03-30",
+      "last_updated": "2023-03-30",
+      "shutdown": "",
+      "purpose": "Gerbang Pembayaran Bersepadu Kerajaan Negeri Melaka"
+    },
+    {
+      "app_name": "MyTrees@Melaka",
+      "agency": "SUK Melaka",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-03-30",
+      "last_updated": "2023-03-30",
+      "shutdown": "",
+      "purpose": "Maklumat pokok termasuk spesis, bilangan dan lokasi bagi negeri Melaka."
+    },
+    {
+      "app_name": "DOSM Mobile",
+      "agency": "STATS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-04-03",
+      "last_updated": "2026-04-29",
+      "shutdown": "",
+      "purpose": "Aplikasi DOSM ini dibangunkan oleh Jabatan Perangkaan Malaysia (DOSM)."
+    },
+    {
+      "app_name": "GeoTanaman",
+      "agency": "DOA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-04-11",
+      "last_updated": "2023-08-28",
+      "shutdown": "",
+      "purpose": "Mengurus, menganalisis dan memaparkan maklumat geospatial tanaman makanan negara"
+    },
+    {
+      "app_name": "iDengue Untuk Komuniti",
+      "agency": "MYSA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-04-13",
+      "last_updated": "2025-05-06",
+      "shutdown": "",
+      "purpose": "Sistem iDengue Untuk Komuniti adalah aplikasi untuk menyebarkan maklumat denggi."
+    },
+    {
+      "app_name": "e-Tabika Perpaduan",
+      "agency": "JPNIN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-05-24",
+      "last_updated": "2023-05-24",
+      "shutdown": "",
+      "purpose": "Sistem pengurusan murid dan guru tabika di Tabika Perpaduan"
+    },
+    {
+      "app_name": "ePenghulu@Perak",
+      "agency": "SUK Perak",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-05-26",
+      "last_updated": "2024-10-11",
+      "shutdown": "",
+      "purpose": "epenghulu"
+    },
+    {
+      "app_name": "Park@Perak",
+      "agency": "SUK Perak",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-05-29",
+      "last_updated": "2025-04-22",
+      "shutdown": "",
+      "purpose": "Bayaran Tempat Letak Kereta PBT Negeri Perak"
+    },
+    {
+      "app_name": "ICS",
+      "agency": "SPRM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-06-12",
+      "last_updated": "2026-08-24",
+      "shutdown": "",
+      "purpose": "Aplikasi ICS"
+    },
+    {
+      "app_name": "eKehadiranJBPM",
+      "agency": "BOMBA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-06-16",
+      "last_updated": "2023-07-20",
+      "shutdown": "",
+      "purpose": "Sistem kehadiran warga JBPM yang bertugas di bangunan Ibu Pejabat JBPM sahaja."
+    },
+    {
+      "app_name": "MyEvent",
+      "agency": "SUKP",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-06-20",
+      "last_updated": "2025-01-13",
+      "shutdown": "",
+      "purpose": "Pendaftaran dan pengesahan pengguna bagi kegunaan bengkel, mesyuarat dan majlis."
+    },
+    {
+      "app_name": "iForest Kedah",
+      "agency": "SUK Kedah",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-06-27",
+      "last_updated": "2023-06-27",
+      "shutdown": "",
+      "purpose": "Permohonan Permit Kemasukan ke Hutan Simpan Kekal Negeri Kedah"
+    },
+    {
+      "app_name": "eCard Pejabat SUK Perak",
+      "agency": "SUK Perak",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-07-03",
+      "last_updated": "2023-07-03",
+      "shutdown": "",
+      "purpose": "Sistem eCard Pejabat Setiausaha Kerajaan Negeri Perak"
+    },
+    {
+      "app_name": "SISTEM IDENTIFIKASI VESEL SIV",
+      "agency": "DOF",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-07-07",
+      "last_updated": "2025-07-30",
+      "shutdown": "",
+      "purpose": "MENDAPATKAN MAKLUMAT TERKINI BAGI VESEL-VESEL YANG BERDAFTAR"
+    },
+    {
+      "app_name": "CIDB",
+      "agency": "CIDB",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-07-18",
+      "last_updated": "2023-07-18",
+      "shutdown": "",
+      "purpose": "Membantu pengguna mendapatkan maklumat yang sah berkaitan Industri Pembinaan"
+    },
+    {
+      "app_name": "Tariff",
+      "agency": "JKDM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-07-20",
+      "last_updated": "2023-07-20",
+      "shutdown": "",
+      "purpose": "Orang awam membuat semakan kod tariff"
+    },
+    {
+      "app_name": "Penang Sport Facilities",
+      "agency": "SUK Penang",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-07-24",
+      "last_updated": "2025-11-20",
+      "shutdown": "",
+      "purpose": "Pemetaan lokasi kemudahan sukan negeri Pulau Pinang"
+    },
+    {
+      "app_name": "MyKiblat",
+      "agency": "JUPEM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-08-03",
+      "last_updated": "2025-01-06",
+      "shutdown": "",
+      "purpose": "MyKiblat adalah aplikasi saintifik untuk mengira waktu solat, waktu lintasan"
+    },
+    {
+      "app_name": "MARDI AgriLearn",
+      "agency": "MARDI",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-08-15",
+      "last_updated": "2025-02-25",
+      "shutdown": "",
+      "purpose": "Platform pembelajaran atas talian berkaitan teknologi pertanian"
+    },
+    {
+      "app_name": "HerbaXpress",
+      "agency": "FRIM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-09-11",
+      "last_updated": "2023-09-11",
+      "shutdown": "",
+      "purpose": "Platform untuk maklumat berpusat mengenai industri herba Malaysia"
+    },
+    {
+      "app_name": "HSISmedic for Clinicians",
+      "agency": "HSIS SERDANG",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-09-11",
+      "last_updated": "2026-09-23",
+      "shutdown": "",
+      "purpose": "Aplikasi mudah alih  untuk petugas kesihatan di HSIS, Serdang"
+    },
+    {
+      "app_name": "PgGOV ePPN",
+      "agency": "SUK Penang",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-09-18",
+      "last_updated": "2025-07-15",
+      "shutdown": "",
+      "purpose": "Informasi dan Kemudahan Bayaran Pinjaman Pendidikan Pulau Pinang"
+    },
+    {
+      "app_name": "MFLS",
+      "agency": "KBS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-09-27",
+      "last_updated": "2025-03-06",
+      "shutdown": "",
+      "purpose": "Alumni MFLS"
+    },
+    {
+      "app_name": "MyJAS Aduan",
+      "agency": "DOE",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-10-02",
+      "last_updated": "2026-10-19",
+      "shutdown": "",
+      "purpose": "Aduan berkaitan Pencemaran Alam Sekitar"
+    },
+    {
+      "app_name": "Peruntukan YAB MB",
+      "agency": "SUK Perak",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-10-02",
+      "last_updated": "2025-07-28",
+      "shutdown": "",
+      "purpose": "Sistem in berperanan menyelaras peruntukan pembangunan dibawah YAB MB."
+    },
+    {
+      "app_name": "CODIQ-My",
+      "agency": "KKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-10-05",
+      "last_updated": "2023-10-05",
+      "shutdown": "",
+      "purpose": ""
+    },
+    {
+      "app_name": "mySAFE KPDN",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-10-18",
+      "last_updated": "2025-07-15",
+      "shutdown": "",
+      "purpose": "Aplikasi mySAFE dibangunkan untuk memberi maklumat mengenai keselamatan produk"
+    },
+    {
+      "app_name": "Skim Perlindungan mySalam",
+      "agency": "MOF",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-10-19",
+      "last_updated": "2026-09-11",
+      "shutdown": "",
+      "purpose": "Selamat Datang ke Aplikasi Mudah Alih Skim Perlindungan Masyarakat mySalam"
+    },
+    {
+      "app_name": "MyEPS",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-10-20",
+      "last_updated": "2025-09-12",
+      "shutdown": "",
+      "purpose": "Aplikasi MyEPS membenarkan ejen pemilikan semula untuk memohon permit pemilikan"
+    },
+    {
+      "app_name": "EPSA",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-10-20",
+      "last_updated": "2023-10-20",
+      "shutdown": "2025-05-19",
+      "purpose": "E-Pembelajaran Sektor Awam"
+    },
+    {
+      "app_name": "Direktori Perak",
+      "agency": "SUK Perak",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-11-14",
+      "last_updated": "2023-11-27",
+      "shutdown": "",
+      "purpose": "Direktori Kerajaan Negeri Perak"
+    },
+    {
+      "app_name": "Mufti Care",
+      "agency": "MuftiWP",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-11-17",
+      "last_updated": "2024-04-08",
+      "shutdown": "",
+      "purpose": "Mufti Care  adalah pusat sehenti bagi melaksanakan ibadah harian."
+    },
+    {
+      "app_name": "ezIEMS",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-11-23",
+      "last_updated": "2024-11-27",
+      "shutdown": "",
+      "purpose": "ezIEMS merupakan aplikasi penguatkuasaan KPDN."
+    },
+    {
+      "app_name": "e-Training INFRA",
+      "agency": "KPLB",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-11-24",
+      "last_updated": "2024-03-18",
+      "shutdown": "",
+      "purpose": "Sistem Pengurusan Data Latihan INFRA"
+    },
+    {
+      "app_name": "MyLAND Mobile",
+      "agency": "JKPTG",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-11-28",
+      "last_updated": "2026-06-25",
+      "shutdown": "",
+      "purpose": "Sistem MyLAND, Jabatan Ketua Pengarah Tanah dan Galian Persekutuan"
+    },
+    {
+      "app_name": "TAMS KPLB",
+      "agency": "KPLB",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-12-15",
+      "last_updated": "2024-01-11",
+      "shutdown": "",
+      "purpose": "Aplikasi bagi merekodkan kehadiran kakitangan KPLB di luar pejabat"
+    },
+    {
+      "app_name": "Sarawak Gov App",
+      "agency": "SUK Sarawak",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2023-12-20",
+      "last_updated": "2023-12-20",
+      "shutdown": "",
+      "purpose": "Aplikasi kerajaan Sarawak"
+    },
+    {
+      "app_name": "eSIMS Mobile",
+      "agency": "KDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-01-03",
+      "last_updated": "2024-01-03",
+      "shutdown": "",
+      "purpose": "SISTEM PENGURUSAN INDUSTRI KESELAMATAN (eSIMS)"
+    },
+    {
+      "app_name": "e-Agroperikanan DOF",
+      "agency": "DOF",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-01-08",
+      "last_updated": "2025-11-24",
+      "shutdown": "",
+      "purpose": "e-Agroperikanan adalah satu sistem pangkalan data digital usahawan dan komuniti"
+    },
+    {
+      "app_name": "TOURLIST Mobile Application",
+      "agency": "MOTAC",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-01-08",
+      "last_updated": "2024-01-18",
+      "shutdown": "",
+      "purpose": "Tourism License and Enforcement System"
+    },
+    {
+      "app_name": "MyRTKnet",
+      "agency": "JUPEM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-01-15",
+      "last_updated": "2024-06-10",
+      "shutdown": "",
+      "purpose": "Aplikasi MyRTKnet dibangunkan untuk pengguna Sistem MyRTKnet JUPEM."
+    },
+    {
+      "app_name": "ePingat Perak",
+      "agency": "SUK Perak",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-01-29",
+      "last_updated": "2024-01-29",
+      "shutdown": "",
+      "purpose": "Carian Penerima Pingat dan Darjah Kebesaran Negeri Perak"
+    },
+    {
+      "app_name": "HSIScare for Patients",
+      "agency": "HSIS SERDANG",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-01-31",
+      "last_updated": "2026-08-27",
+      "shutdown": "",
+      "purpose": "Aplikasi mudah alih  untuk pesakit di HSIS, Serdang"
+    },
+    {
+      "app_name": "iP3KS Mobile",
+      "agency": "MPKS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-02-06",
+      "last_updated": "2026-01-27",
+      "shutdown": "",
+      "purpose": "iP3KS adalah perkhidmatan dalam talian yang disediakan oleh MPKS."
+    },
+    {
+      "app_name": "e-Azziwaaj",
+      "agency": "Pejabat SUK Kelantan",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-02-07",
+      "last_updated": "2024-03-19",
+      "shutdown": "",
+      "purpose": "Bantuan perkahwinan RM1,000.00 bagi pasangan yang ingin berkahwin"
+    },
+    {
+      "app_name": "RekodSaya",
+      "agency": "KKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-08-30",
+      "last_updated": "2025-07-15",
+      "shutdown": "",
+      "purpose": "Inisiatif KKM untuk mempekasa dan membolehkan masyarakat mengurus kesihatan."
+    },
+    {
+      "app_name": "MyIBJKM",
+      "agency": "JKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-02-22",
+      "last_updated": "2026-06-04",
+      "shutdown": "",
+      "purpose": "Aplikasi untuk pendaftaran kendiri mangsa bencana"
+    },
+    {
+      "app_name": "MyGeoNet",
+      "agency": "JUPEM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-03-04",
+      "last_updated": "2024-12-06",
+      "shutdown": "",
+      "purpose": "Aplikasi MyGeoNet adalah aplikasi saintifik untuk memaparkan Data Geodetik."
+    },
+    {
+      "app_name": "MyLAPApps",
+      "agency": "LAP",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-03-22",
+      "last_updated": "2025-04-30",
+      "shutdown": "",
+      "purpose": "Operator Air Negeri Perak"
+    },
+    {
+      "app_name": "e-Directory KLN",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-03-29",
+      "last_updated": "",
+      "shutdown": "2024-08-22",
+      "purpose": "Aplikasi carian direktori staf Kementerian Luar Negeri"
+    },
+    {
+      "app_name": "Ihsan Madani",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-04-03",
+      "last_updated": "2024-10-28",
+      "shutdown": "",
+      "purpose": "Ihsan Madani Kerajaan Malaysia"
+    },
+    {
+      "app_name": "EzPetrol",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-04-12",
+      "last_updated": "2025-10-07",
+      "shutdown": "",
+      "purpose": "EzPetrol memaparkan harga minyak di Malaysia yang disediakan oleh KPDN."
+    },
+    {
+      "app_name": "ePASS JIM",
+      "agency": "IMI",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-04-17",
+      "last_updated": "2024-06-21",
+      "shutdown": "",
+      "purpose": "Aplikasi Mobil untuk Digital Pass (ePASS)"
+    },
+    {
+      "app_name": "MyICMAS",
+      "agency": "ILKAP",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-08-23",
+      "last_updated": "2024-08-23",
+      "shutdown": "",
+      "purpose": "Aplikasi mudah alih bagi Sistem Pengurusan Kursus Bersepadu (ICMAS), ILKAP"
+    },
+    {
+      "app_name": "M@LiK",
+      "agency": "MAHKAMAH",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-04-23",
+      "last_updated": "2024-05-17",
+      "shutdown": "",
+      "purpose": "Aplikasi ini hanya digunakan oleh warga PKPMP"
+    },
+    {
+      "app_name": "MySPR KTM Mobile",
+      "agency": "SPR",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-05-08",
+      "last_updated": "2026-08-03",
+      "shutdown": "",
+      "purpose": "Aplikasi yang dibangunkan khusus untuk kegunaan Ketua Tempat Mengundi (KTM)"
+    },
+    {
+      "app_name": "eHadir CIAST",
+      "agency": "CIAST",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-06-12",
+      "last_updated": "2024-06-18",
+      "shutdown": "",
+      "purpose": "eHadir CIAST"
+    },
+    {
+      "app_name": "eTOUCH INSTUN",
+      "agency": "INSTUN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-07-04",
+      "last_updated": "2024-07-04",
+      "shutdown": "",
+      "purpose": "Aplikasi pengurusan kehadiran dan tugas luar/kursus"
+    },
+    {
+      "app_name": "MyJPJ",
+      "agency": "JPJ",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-07-05",
+      "last_updated": "2025-05-06",
+      "shutdown": "",
+      "purpose": "Aplikasi MyJPJ"
+    },
+    {
+      "app_name": "JPJeQ",
+      "agency": "JPJ",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-07-09",
+      "last_updated": "2024-07-09",
+      "shutdown": "",
+      "purpose": "JPJ Counter Queue Number System"
+    },
+    {
+      "app_name": "IHI2GO",
+      "agency": "MOHR",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-08-26",
+      "last_updated": "2024-09-05",
+      "shutdown": "",
+      "purpose": "Mengumpulkan dapatan responden majikan dan pekerja melalui soal jawab IHI"
+    },
+    {
+      "app_name": "MyRELA",
+      "agency": "RELA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-07-18",
+      "last_updated": "2024-08-06",
+      "shutdown": "",
+      "purpose": "Sistem Pengurusan Maklumat RELA merupakan satu sistem bersepadu"
+    },
+    {
+      "app_name": "Sistem AgroTrade",
+      "agency": "MAFS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-08-02",
+      "last_updated": "2024-12-05",
+      "shutdown": "",
+      "purpose": "sistem yang memberi"
+    },
+    {
+      "app_name": "Visit Kuala Langat",
+      "agency": "MPKL",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-08-05",
+      "last_updated": "2024-08-05",
+      "shutdown": "",
+      "purpose": "Tourism Kuala Langat"
+    },
+    {
+      "app_name": "MPKL-ADU",
+      "agency": "MPKL",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-08-05",
+      "last_updated": "2024-08-05",
+      "shutdown": "",
+      "purpose": "Aplikasi ini dibangunkan untuk memudahkan orang awam membuat aduan"
+    },
+    {
+      "app_name": "SMART CUKAI MPKL",
+      "agency": "MPKL",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-08-19",
+      "last_updated": "2024-08-19",
+      "shutdown": "",
+      "purpose": "Salah satu inisiatif baharu untuk menyediakan saluran bayaran dan semakan cukai"
+    },
+    {
+      "app_name": "MyPasangSurut",
+      "agency": "JUPEM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-09-13",
+      "last_updated": "2025-03-06",
+      "shutdown": "",
+      "purpose": "Memaparkan lokasi stesen dan jadual ramalan air pasang surut"
+    },
+    {
+      "app_name": "MyFeed Calculator",
+      "agency": "DVS",
+      "platforms": "Android",
+      "released": "2024-09-19",
+      "last_updated": "2024-09-19",
+      "shutdown": "",
+      "purpose": "Merumus Makanan Harian Seimbang Untuk Lembu, Kambing dan Bebiri"
+    },
+    {
+      "app_name": "RakanMET",
+      "agency": "JMM",
+      "platforms": "Android, iOS",
+      "released": "2024-09-30",
+      "last_updated": "2024-09-30",
+      "shutdown": "",
+      "purpose": "RakanMET platform perkongsian maklumat mengenai fenomena cuaca di Malaysia."
+    },
+    {
+      "app_name": "Sistem eBencana JKR",
+      "agency": "JKR",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-10-07",
+      "last_updated": "2025-06-18",
+      "shutdown": "",
+      "purpose": "Sistem eBencana JKR menyediakan maklumat terkini berkaitan bencana di Malaysia"
+    },
+    {
+      "app_name": "MyCartoGo",
+      "agency": "JUPEM",
+      "platforms": "Android, iOS",
+      "released": "2024-10-10",
+      "last_updated": "2026-06-24",
+      "shutdown": "",
+      "purpose": "Aplikasi untuk kegunaan pemetaan, pelancongan dan aktiviti sukan."
+    },
+    {
+      "app_name": "eWargaEmas",
+      "agency": "JKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-10-11",
+      "last_updated": "2026-07-06",
+      "shutdown": "",
+      "purpose": "Aplikasi untuk portal Warga Emas"
+    },
+    {
+      "app_name": "iSPKP",
+      "agency": "APAD",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-10-11",
+      "last_updated": "2024-10-11",
+      "shutdown": "",
+      "purpose": "Sistem Pelesenan Kenderaan Perdagangan (iSPKP)"
+    },
+    {
+      "app_name": "n9digital",
+      "agency": "SUKNS",
+      "platforms": "Android, iOS",
+      "released": "2024-10-11",
+      "last_updated": "2024-10-11",
+      "shutdown": "",
+      "purpose": "Saluran bantuan Kerajaan Negeri Sembilan"
+    },
+    {
+      "app_name": "PBTPay",
+      "agency": "JKT",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-10-15",
+      "last_updated": "2026-08-28",
+      "shutdown": "",
+      "purpose": "Aplikasi ini merupakan versi mudah alih kepada sistem sedia ada iaitu PBTPay."
+    },
+    {
+      "app_name": "MyPAKW",
+      "agency": "STATS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2024-10-25",
+      "last_updated": "2026-03-31",
+      "shutdown": "",
+      "purpose": "PERBELANJAAN ASAS KEHIDUPAN WAJAR (MyPAKW)"
+    },
+    {
+      "app_name": "MARIA KKR",
+      "agency": "KKR",
+      "platforms": "Android",
+      "released": "2024-10-28",
+      "last_updated": "2024-10-28",
+      "shutdown": "",
+      "purpose": "Projek KIK KKR: Saluran 10 kategori aduan kerosakan di Malaysia."
+    },
+    {
+      "app_name": "JAPEN ON MOBILE",
+      "agency": "JaPeN",
+      "platforms": "Android, iOS",
+      "released": "2024-10-29",
+      "last_updated": "2026-03-10",
+      "shutdown": "",
+      "purpose": "Pusat sehenti mengenai inisiatif dan dasar kerajaan"
+    },
+    {
+      "app_name": "i-PKAAT",
+      "agency": "JKR",
+      "platforms": "Android, iOS",
+      "released": "2025-01-02",
+      "last_updated": "2026-10-22",
+      "shutdown": "",
+      "purpose": "Penilaian Keadaan Aset Atas Talian (iPKAAT)"
+    },
+    {
+      "app_name": "EACC",
+      "agency": "JSM",
+      "platforms": "Android, iOS",
+      "released": "2025-01-07",
+      "last_updated": "2025-01-07",
+      "shutdown": "",
+      "purpose": "Accreditation 2.0"
+    },
+    {
+      "app_name": "ESWIS Pemandu",
+      "agency": "DOE",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-01-15",
+      "last_updated": "2025-08-15",
+      "shutdown": "",
+      "purpose": "Aplikasi Mobile Sistem ESWIS untuk pemandu pengangkut BT"
+    },
+    {
+      "app_name": "MyASEAN2025",
+      "agency": "KLN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-01-15",
+      "last_updated": "2025-05-21",
+      "shutdown": "",
+      "purpose": "Aplikasi delegasi ASEAN Malaysia 2025"
+    },
+    {
+      "app_name": "HUMS Wellness Toolkit",
+      "agency": "",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-01-20",
+      "last_updated": "2025-01-20",
+      "shutdown": "2025-10-30",
+      "purpose": "HUMS Wellness Toolkit adalah aplikasi mempromosikan kesejahteraan holistik"
+    },
+    {
+      "app_name": "eCSO",
+      "agency": "JKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-02-04",
+      "last_updated": "2025-02-17",
+      "shutdown": "",
+      "purpose": "Sistem eCSO bertujuan meningkatkan kecekapan dan keberkesanan perkhidmatan PKM"
+    },
+    {
+      "app_name": "MyHarga",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-02-04",
+      "last_updated": "2026-06-10",
+      "shutdown": "",
+      "purpose": "Sistem pemantauan dan pengumpulan harga"
+    },
+    {
+      "app_name": "PriceCatcher",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-02-04",
+      "last_updated": "2026-10-16",
+      "shutdown": "",
+      "purpose": "Dapatkan harga 480 barangan terpilih yang dipantau KPDN."
+    },
+    {
+      "app_name": "N9PAY",
+      "agency": "SUKNS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-02-07",
+      "last_updated": "2025-03-14",
+      "shutdown": "",
+      "purpose": "Pembayaran Lebih Mudah Dengan N9PAY"
+    },
+    {
+      "app_name": "iPayment",
+      "agency": "JANM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-02-07",
+      "last_updated": "2025-12-17",
+      "shutdown": "",
+      "purpose": "Sistem Terimaan Elektonik Bersepadu Kerajaan Persekutuan"
+    },
+    {
+      "app_name": "MARDI myPadiManager",
+      "agency": "MARDI",
+      "platforms": "Android",
+      "released": "2025-02-19",
+      "last_updated": "2025-02-19",
+      "shutdown": "",
+      "purpose": "Aplikasi mudah alih yang berfungsi untuk membantu petani menguruskan penanaman"
+    },
+    {
+      "app_name": "MARDI Teknovasi",
+      "agency": "",
+      "platforms": "Android",
+      "released": "2025-02-19",
+      "last_updated": "",
+      "shutdown": "2025-04-10",
+      "purpose": "MARDI Teknovasi merupakan sebuah aplikasi mudah alih yang menawarkan maklumat t"
+    },
+    {
+      "app_name": "eKehadiranLLM",
+      "agency": "LLM",
+      "platforms": "Android, iOS",
+      "released": "2025-02-24",
+      "last_updated": "2025-05-23",
+      "shutdown": "",
+      "purpose": "eKehadiranLLM ialah versi aplikasi telefon mudah alih untuk sistem web e-Kehadir"
+    },
+    {
+      "app_name": "MARDI myBeeMenu",
+      "agency": "MARDI",
+      "platforms": "Android",
+      "released": "2025-02-25",
+      "last_updated": "2025-02-25",
+      "shutdown": "",
+      "purpose": "Aplikasi mudah alih yang mempunyai pangkalan data berkaitan pokok dan tumbuhan y"
+    },
+    {
+      "app_name": "MARDI myAgriManager",
+      "agency": "MARDI",
+      "platforms": "Android",
+      "released": "2025-02-25",
+      "last_updated": "2025-02-25",
+      "shutdown": "",
+      "purpose": "Aplikasi mudah alih yang berfungsi untuk membantu petani menguruskan penanaman d"
+    },
+    {
+      "app_name": "MARDI myAgriSmartCalculator",
+      "agency": "MARDI",
+      "platforms": "Android",
+      "released": "2025-02-25",
+      "last_updated": "2025-02-25",
+      "shutdown": "",
+      "purpose": "Aplikasi mudah alih yang dapat membantu petani dan bakal petani merancang dalam"
+    },
+    {
+      "app_name": "MyGOV Malaysia",
+      "agency": "JDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-02-26",
+      "last_updated": "2026-10-15",
+      "shutdown": "",
+      "purpose": "Gerbang Perkhidmatan Digital Bersepadu Kerajaan"
+    },
+    {
+      "app_name": "MyWorldAlert",
+      "agency": "KLN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-03-04",
+      "last_updated": "2026-03-17",
+      "shutdown": "",
+      "purpose": "Aplikasi menyediakan saluran komunikasi kepada rakyat Malaysia di Luar Negara."
+    },
+    {
+      "app_name": "e-Tanah Perak",
+      "agency": "PTGPERAK",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-03-10",
+      "last_updated": "2025-04-14",
+      "shutdown": "",
+      "purpose": "Semakan dan Bayaran Cukai Tanah Perak"
+    },
+    {
+      "app_name": "Permainan Tradisional",
+      "agency": "AKM",
+      "platforms": "Android",
+      "released": "2025-03-10",
+      "last_updated": "2025-03-10",
+      "shutdown": "",
+      "purpose": "Permainan Tradisional Akademi Kenegaraan Malaysia"
+    },
+    {
+      "app_name": "Hari Ini Dalam Sejarah HIDS",
+      "agency": "Arkib",
+      "platforms": "Android",
+      "released": "2025-03-20",
+      "last_updated": "2025-03-20",
+      "shutdown": "",
+      "purpose": "Aplikasi Mudah Alih Hari Ini Dalam Sejarah (HIDS)"
+    },
+    {
+      "app_name": "MyBorderPass",
+      "agency": "KDN",
+      "platforms": "Android, iOS",
+      "released": "2025-03-25",
+      "last_updated": "2025-03-25",
+      "shutdown": "",
+      "purpose": "Penyelesaian untuk memudahkan pelepasan imigresen."
+    },
+    {
+      "app_name": "eGUMIS JANM",
+      "agency": "JANM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-04-02",
+      "last_updated": "2026-09-14",
+      "shutdown": "",
+      "purpose": "Kemudahan untuk orang awam membuat carian berkaitan rekod wang tidak dituntut (W"
+    },
+    {
+      "app_name": "MyFormulary",
+      "agency": "KKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-04-02",
+      "last_updated": "2025-04-02",
+      "shutdown": "",
+      "purpose": "Mengakses maklumat ubat dalam FUKKM yang terkini"
+    },
+    {
+      "app_name": "HoSHAS",
+      "agency": "HOSHAS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-04-15",
+      "last_updated": "2026-10-15",
+      "shutdown": "",
+      "purpose": "HoSHAS adalah aplikasi pengurusan pendaftaran dan temujanji pesakit."
+    },
+    {
+      "app_name": "eIPTS GO",
+      "agency": "JPT",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-04-18",
+      "last_updated": "2026-04-22",
+      "shutdown": "",
+      "purpose": "Aplikasi mobile bagi Sistem e-IPTS"
+    },
+    {
+      "app_name": "MyMAIK Apps",
+      "agency": "MAIK",
+      "platforms": "Android, iOS",
+      "released": "2025-04-21",
+      "last_updated": "2025-04-21",
+      "shutdown": "",
+      "purpose": "Portal aplikasi MAIK untuk e-perkhidmatan dan e-pembayaran"
+    },
+    {
+      "app_name": "Aduan JIPS PDRM",
+      "agency": "PDRM",
+      "platforms": "Android, iOS",
+      "released": "2025-04-23",
+      "last_updated": "2025-06-05",
+      "shutdown": "",
+      "purpose": "Platform aduan untuk meningkat integriti, ketelusan & kebertanggungjawaban PDRM"
+    },
+    {
+      "app_name": "eCOSS",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-04-25",
+      "last_updated": "2026-08-28",
+      "shutdown": "",
+      "purpose": "Merekodkan segala transaksi jualan minyak masak paket bersubsidi 1kg"
+    },
+    {
+      "app_name": "SATRIA TD",
+      "agency": "TDM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-05-06",
+      "last_updated": "2026-10-22",
+      "shutdown": "",
+      "purpose": "SATRIA TD merupakan aplikasi yang pengurusan pentadbiran."
+    },
+    {
+      "app_name": "Mava Connect",
+      "agency": "MAVA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-05-07",
+      "last_updated": "2025-08-27",
+      "shutdown": "",
+      "purpose": "Aplikasi mudah alih untuk pengurusan kerja-kerja penyelenggaraan di MAvA"
+    },
+    {
+      "app_name": "JPPHMobile",
+      "agency": "JPPH",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-05-21",
+      "last_updated": "2025-05-29",
+      "shutdown": "",
+      "purpose": "Mobile JPPH, JPPH, Jabatan Penilaian dan Perkhidmatan Harta, harta, penilaian"
+    },
+    {
+      "app_name": "eMAS I-KPKT",
+      "agency": "KPKT",
+      "platforms": "Android, iOS",
+      "released": "2025-05-22",
+      "last_updated": "2026-04-30",
+      "shutdown": "",
+      "purpose": "Aplikasi permohonan kursus dan fasiliti digital I-KPKT"
+    },
+    {
+      "app_name": "MyWarta",
+      "agency": "JKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-05-29",
+      "last_updated": "2025-11-04",
+      "shutdown": "",
+      "purpose": "status pewartaan pegawai yang bertugas di lapangan"
+    },
+    {
+      "app_name": "MyNIISe",
+      "agency": "KDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-06-03",
+      "last_updated": "2026-08-13",
+      "shutdown": "",
+      "purpose": "Penyampaian perkhidmatan keimigresenan secara digital."
+    },
+    {
+      "app_name": "e-Lesen LRMP",
+      "agency": "DOA",
+      "platforms": "Android",
+      "released": "2025-06-12",
+      "last_updated": "2025-06-12",
+      "shutdown": "",
+      "purpose": "Aplikasi untuk aktiviti pelesenan di bawah Akta Racun Makhluk Perosak 1974"
+    },
+    {
+      "app_name": "ezTTPM",
+      "agency": "KPDN",
+      "platforms": "Android, iOS",
+      "released": "2025-06-12",
+      "last_updated": "2025-07-14",
+      "shutdown": "",
+      "purpose": "Buat pertanyaan, pemfailan, mengurus, menyemak status tuntutan & pendengaran"
+    },
+    {
+      "app_name": "HUMS Space",
+      "agency": "HUMS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-06-30",
+      "last_updated": "2026-04-23",
+      "shutdown": "",
+      "purpose": "Aplikasi khas staf Hospital Pakar UMS bagi menyokong tugasan harian"
+    },
+    {
+      "app_name": "KALKULATOR JANGKA HAYAT",
+      "agency": "STATS",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-07-10",
+      "last_updated": "2025-10-13",
+      "shutdown": "",
+      "purpose": "Kalkulator jangka hayat"
+    },
+    {
+      "app_name": "TOURISM TEMERLOH",
+      "agency": "MPTTEMERLOH",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-07-18",
+      "last_updated": "2025-07-18",
+      "shutdown": "",
+      "purpose": "DIREKTORI PARIS TEMERLOH"
+    },
+    {
+      "app_name": "eMobilSUK",
+      "agency": "SUK Perak",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-07-29",
+      "last_updated": "2025-11-04",
+      "shutdown": "",
+      "purpose": "Untuk Tempahan Kenderaan SUK perak"
+    },
+    {
+      "app_name": "ePKD",
+      "agency": "KKDW",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-07-31",
+      "last_updated": "2025-07-31",
+      "shutdown": "",
+      "purpose": "Aplikasi ePKD adalah sistem bagi menguruskan kehadiran pengurus PKD"
+    },
+    {
+      "app_name": "iHadir MBAS",
+      "agency": "MBAS",
+      "platforms": "Android",
+      "released": "2025-07-31",
+      "last_updated": "2025-07-31",
+      "shutdown": "",
+      "purpose": "Sistem pengurusan kehadiran kakitangan Majlis Bandaraya Alor Setar online."
+    },
+    {
+      "app_name": "Respons Rakyat V2",
+      "agency": "BPA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-08-05",
+      "last_updated": "2026-06-24",
+      "shutdown": "",
+      "purpose": "Respons Rakyat ialah aplikasi mudah alih yang dibangunkan oleh BPA"
+    },
+    {
+      "app_name": "e-Vetting 3.0",
+      "agency": "CGSO",
+      "platforms": "Android, iOS",
+      "released": "2025-08-08",
+      "last_updated": "2025-11-28",
+      "shutdown": "",
+      "purpose": "Sistem permohonan dan semakan tapisan keselamatan oleh CGSO Malaysia."
+    },
+    {
+      "app_name": "MOTAMS",
+      "agency": "MOT",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-08-08",
+      "last_updated": "2026-02-09",
+      "shutdown": "",
+      "purpose": "Sistem Pengurusan Kehadiran Kementerian Pengangkutan Malaysia"
+    },
+    {
+      "app_name": "MyProMIS",
+      "agency": "BPH",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-08-12",
+      "last_updated": "2026-07-08",
+      "shutdown": "",
+      "purpose": "Sistem yang mengkolabarasikan semua perkhidmatan Bahagian Pengurusan Hartanah"
+    },
+    {
+      "app_name": "MCPTT PDRM",
+      "agency": "PDRM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-08-13",
+      "last_updated": "2025-12-09",
+      "shutdown": "",
+      "purpose": "MCPTT PDRM ialah penyelesaian komunikasi suara dua hala terkini untuk PDRM"
+    },
+    {
+      "app_name": "JPV eVetPermit",
+      "agency": "DVS",
+      "platforms": "Android, Huawei",
+      "released": "2025-08-19",
+      "last_updated": "2025-10-16",
+      "shutdown": "",
+      "purpose": "Aplikasi untuk penternak memohon notifikasi kecemasan berkaitan permit ternakan"
+    },
+    {
+      "app_name": "e-Insolvensi",
+      "agency": "Mdi",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-08-25",
+      "last_updated": "2025-12-10",
+      "shutdown": "",
+      "purpose": "Aplikasi e-Insolvensi adalah aplikasi mudah alih Jabatan Insolvensi Malaysia"
+    },
+    {
+      "app_name": "MySPPIM",
+      "agency": "JAKIM",
+      "platforms": "Android, iOS",
+      "released": "2025-08-26",
+      "last_updated": "2026-09-23",
+      "shutdown": "",
+      "purpose": "SPPIM adalah portal rasmi JAKIM untuk urusan perkahwinan Islam di Malaysia."
+    },
+    {
+      "app_name": "MySRS",
+      "agency": "JPNIN",
+      "platforms": "Android, iOS",
+      "released": "2025-09-11",
+      "last_updated": "2026-10-16",
+      "shutdown": "",
+      "purpose": "MySRS ialah sebuah sistem pengurusan rondaan sukarela"
+    },
+    {
+      "app_name": "SPPro Kalendar",
+      "agency": "PMO",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-09-18",
+      "last_updated": "2025-10-01",
+      "shutdown": "",
+      "purpose": "Modul paparan kalendar masa nyata"
+    },
+    {
+      "app_name": "MyGeoServe Lite",
+      "agency": "JUPEM",
+      "platforms": "Android, iOS",
+      "released": "2025-09-23",
+      "last_updated": "2026-05-08",
+      "shutdown": "",
+      "purpose": "Aplikasi ini dibangunkan untuk membuat keputusan berdasarkan maklumat geospatial"
+    },
+    {
+      "app_name": "MyZULU Health",
+      "agency": "ATM",
+      "platforms": "Android, iOS",
+      "released": "2025-10-02",
+      "last_updated": "2026-10-28",
+      "shutdown": "",
+      "purpose": "MyZULU Health ialah platform Aplikasi Mudah Alih."
+    },
+    {
+      "app_name": "Ruma-H",
+      "agency": "KKM",
+      "platforms": "Android",
+      "released": "2025-10-03",
+      "last_updated": "2025-10-03",
+      "shutdown": "",
+      "purpose": "Ruma-H membolehkan pemantauan jarak jauh untuk mengurus penyakit berjangkit."
+    },
+    {
+      "app_name": "ePerolehan MBIP",
+      "agency": "MBIP",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-10-07",
+      "last_updated": "2025-10-07",
+      "shutdown": "",
+      "purpose": "Aplikasi rasmi ePerolehan MBIP untuk urusan tender, sebutharga, dan pendaftaran"
+    },
+    {
+      "app_name": "eHadir PUO",
+      "agency": "JPPKK",
+      "platforms": "Android",
+      "released": "2025-10-08",
+      "last_updated": "2025-10-29",
+      "shutdown": "",
+      "purpose": "Aplikasi ini berfungsi untuk memaparkan transaksi kehadiran kakitangan di PUO."
+    },
+    {
+      "app_name": "eProtective Security",
+      "agency": "CGSO",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-10-10",
+      "last_updated": "2025-10-10",
+      "shutdown": "",
+      "purpose": "ePS adalah aplikasi CGSO untuk perkhidmatan pengurusan keselamatan perlindungan"
+    },
+    {
+      "app_name": "SmartKADASTER2.0",
+      "agency": "JUPEM",
+      "platforms": "Android",
+      "released": "2025-10-17",
+      "last_updated": "2025-12-04",
+      "shutdown": "",
+      "purpose": "SmartKADASTER 2.0"
+    },
+    {
+      "app_name": "MyDIMS",
+      "agency": "NADMA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-10-23",
+      "last_updated": "2026-07-13",
+      "shutdown": "",
+      "purpose": "MyDIMS menyediakan maklumat terkini berkaitan bencana di Malaysia."
+    },
+    {
+      "app_name": "MECHIS Tools",
+      "agency": "JPS",
+      "platforms": "Android, iOS",
+      "released": "2025-10-23",
+      "last_updated": "2025-10-23",
+      "shutdown": "",
+      "purpose": "MECHIS menyusun data M&E dan SCADA untuk JPS Malaysia dan agensi luar."
+    },
+    {
+      "app_name": "SaveME 999",
+      "agency": "KK",
+      "platforms": "Android, iOS",
+      "released": "2025-10-26",
+      "last_updated": "2026-03-24",
+      "shutdown": "",
+      "purpose": "Aplikasi SaveME 999 membolehkan pengguna membuat permintaan bantuan kecemasan."
+    },
+    {
+      "app_name": "FLMIS PDRM",
+      "agency": "PDRM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-11-04",
+      "last_updated": "2025-11-04",
+      "shutdown": "",
+      "purpose": "Platform operasi untuk meningkat keberkesanan dan ketelusan PDRM"
+    },
+    {
+      "app_name": "LCC Paddy",
+      "agency": "DOA",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-11-05",
+      "last_updated": "2025-11-05",
+      "shutdown": "",
+      "purpose": "Aplikasi pintar untuk petani padi merekod dan analisis warna daun menggunakan ca"
+    },
+    {
+      "app_name": "NaSUM",
+      "agency": "JUPEM",
+      "platforms": "Android, iOS",
+      "released": "2025-11-05",
+      "last_updated": "2026-07-10",
+      "shutdown": "",
+      "purpose": "NaSUM (National Subsurface Utility Mapping) - Jabatan Ukur dan Pemetaan Malaysia"
+    },
+    {
+      "app_name": "MYJalan2.0 KKR",
+      "agency": "KKR",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-11-07",
+      "last_updated": "2026-10-01",
+      "shutdown": "",
+      "purpose": "Saluran hebahan dan aduan kerosakan jalan"
+    },
+    {
+      "app_name": "IMVolunteer",
+      "agency": "KDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-11-13",
+      "last_updated": "2025-11-14",
+      "shutdown": "",
+      "purpose": "Pendafataran sahabat KDN"
+    },
+    {
+      "app_name": "MyFiRSt",
+      "agency": "DOF",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2025-11-19",
+      "last_updated": "2026-10-12",
+      "shutdown": "",
+      "purpose": "Sistem Pengurusan Sumber Perikanan Malaysia"
+    },
+    {
+      "app_name": "AIMS",
+      "agency": "DVS",
+      "platforms": "Android, Huawei",
+      "released": "2026-01-08",
+      "last_updated": "2026-09-30",
+      "shutdown": "",
+      "purpose": "AIMS: Aplikasi bagi program Artificial Insemination (AI)"
+    },
+    {
+      "app_name": "myspp",
+      "agency": "SUK Perak",
+      "platforms": "Android",
+      "released": "2026-01-15",
+      "last_updated": "2026-01-15",
+      "shutdown": "",
+      "purpose": "Semakan status pinjaman"
+    },
+    {
+      "app_name": "HUMS Wellness",
+      "agency": "HUMS",
+      "platforms": "Android",
+      "released": "2026-01-15",
+      "last_updated": "2026-01-15",
+      "shutdown": "",
+      "purpose": "HUMS Wellness Toolkit adalah aplikasi mempromosikan kesejahteraan holistik"
+    },
+    {
+      "app_name": "MITS2.0",
+      "agency": "KKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2026-01-22",
+      "last_updated": "2026-08-18",
+      "shutdown": "",
+      "purpose": "MITS2.0 mobile mengandungi 3 fungsi pendataan klinikal Perkhidmatan Psikiatri"
+    },
+    {
+      "app_name": "MyAIMS MBJB",
+      "agency": "MBJB",
+      "platforms": "Android, iOS",
+      "released": "2026-02-09",
+      "last_updated": "2026-03-18",
+      "shutdown": "",
+      "purpose": "Sistem Pengurusan Aset Bersepadu"
+    },
+    {
+      "app_name": "Info Jualan Rahmah Madani",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2026-03-07",
+      "last_updated": "2026-04-07",
+      "shutdown": "",
+      "purpose": "Aplikasi Mobil PJRM membenarkan pengguna awam melihat lokasi program PJRM"
+    },
+    {
+      "app_name": "Data Apps KPDN",
+      "agency": "KPDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2026-03-11",
+      "last_updated": "2026-06-24",
+      "shutdown": "",
+      "purpose": "Sumber rujukan data KPDN bagi data kementerian"
+    },
+    {
+      "app_name": "V-SmartGene",
+      "agency": "DVS",
+      "platforms": "Android, Huawei",
+      "released": "2026-05-06",
+      "last_updated": "2026-07-27",
+      "shutdown": "",
+      "purpose": "Aplikasi pintar untuk pengurusan ternakan dan ladang secara masa nyata"
+    },
+    {
+      "app_name": "JIM eQ",
+      "agency": "IMI",
+      "platforms": "iOS",
+      "released": "2026-06-10",
+      "last_updated": "2026-10-02",
+      "shutdown": "",
+      "purpose": "Tempah slot masa nyata dan jejak giliran perkhidmatan di Imigresen Malaysia."
+    },
+    {
+      "app_name": "Kad Pekerja MADANI",
+      "agency": "JHEKS",
+      "platforms": "Android, iOS",
+      "released": "2026-06-19",
+      "last_updated": "2026-09-22",
+      "shutdown": "",
+      "purpose": "Kad Pekerja MADANI adalah medium penyampaian faedah bersasar"
+    },
+    {
+      "app_name": "e-Directory KLN v2",
+      "agency": "KLN",
+      "platforms": "Android, iOS",
+      "released": "2026-06-25",
+      "last_updated": "2026-07-27",
+      "shutdown": "",
+      "purpose": "Aplikasi carian direktori staf Kementerian Luar Negeri"
+    },
+    {
+      "app_name": "MYeLKM",
+      "agency": "KPWKM",
+      "platforms": "Android",
+      "released": "2026-06-30",
+      "last_updated": "2026-08-27",
+      "shutdown": "",
+      "purpose": "MyELKM membolehkan temu janji, komunikasi dengan kaunselor dan urusan CPD."
+    },
+    {
+      "app_name": "eROSES Mobile",
+      "agency": "JPPM",
+      "platforms": "Android, iOS",
+      "released": "2026-06-30",
+      "last_updated": "2026-10-12",
+      "shutdown": "",
+      "purpose": "eROSES Mobile untuk pengurusan pertubuhan JPPM"
+    },
+    {
+      "app_name": "HRMIS Mobile PDRM 2.0",
+      "agency": "PDRM",
+      "platforms": "Android, iOS",
+      "released": "2026-08-01",
+      "last_updated": "2026-10-08",
+      "shutdown": "",
+      "purpose": "Aplikasi HR rasmi PDRM: Urusan cuti, profil PR & SP dan sejarah perkhidmatan."
+    },
+    {
+      "app_name": "JPV MyAnimalWelfare",
+      "agency": "DVS",
+      "platforms": "Android, Huawei",
+      "released": "2026-08-27",
+      "last_updated": "2026-08-27",
+      "shutdown": "",
+      "purpose": "Aplikasi MyWelfare adalah untuk menguruskan aduan berkaitan penderaan haiwan"
+    },
+    {
+      "app_name": "Sistem Kehadiran Kakitangan",
+      "agency": "LPKTN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2026-08-28",
+      "last_updated": "2026-09-04",
+      "shutdown": "",
+      "purpose": "Sistem Kemasukan Perakam Waktu Bekerja LPKtn"
+    },
+    {
+      "app_name": "e-ZB Kuantan Port",
+      "agency": "LPKTN",
+      "platforms": "iOS",
+      "released": "2026-09-04",
+      "last_updated": "2026-09-04",
+      "shutdown": "",
+      "purpose": "Sistem Deklrasi Zon Bebas Pelabuhan Kuantan"
+    },
+    {
+      "app_name": "SPOT-Me",
+      "agency": "JDN",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2026-09-11",
+      "last_updated": "2026-10-06",
+      "shutdown": "",
+      "purpose": "Aplikasi daftar kehadiran dan pergerakan harian pegawai bertugas"
+    },
+    {
+      "app_name": "Digital Kelantan",
+      "agency": "Pejabat SUK Kelantan",
+      "platforms": "Android",
+      "released": "2026-09-25",
+      "last_updated": "2026-09-25",
+      "shutdown": "",
+      "purpose": "Digital Kelantan"
+    },
+    {
+      "app_name": "MySKUAD",
+      "agency": "AADK",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2026-10-03",
+      "last_updated": "2026-10-03",
+      "shutdown": "",
+      "purpose": "Sistem pengurusan sukarelawan anti-dadah AADK"
+    },
+    {
+      "app_name": "FarmaChecker",
+      "agency": "KKM",
+      "platforms": "Android, Huawei, iOS",
+      "released": "2026-10-06",
+      "last_updated": "2026-10-06",
+      "shutdown": "",
+      "purpose": "Aplikasi untuk mengimbas dan mengesahkan ketulenan label keselamatan FarmaTag®"
+    },
+    {
+      "app_name": "eAuditGo",
+      "agency": "JAN",
+      "platforms": "Android, iOS",
+      "released": "2026-10-06",
+      "last_updated": "2026-10-06",
+      "shutdown": "",
+      "purpose": "Membolehkan audit lapangan dilaksanakan dengan lebih mudah"
+    },
+    {
+      "app_name": "UAP SKM",
+      "agency": "SKM",
+      "platforms": "Android, iOS",
+      "released": "2026-10-14",
+      "last_updated": "2026-10-23",
+      "shutdown": "",
+      "purpose": "BAHAN RUJUKAN AKTA DAN PERUNDANGAN SKM"
+    },
+    {
+      "app_name": "MyGovNet CARE",
+      "agency": "JDN",
+      "platforms": "Android, iOS",
+      "released": "2026-10-21",
+      "last_updated": "2026-10-21",
+      "shutdown": "",
+      "purpose": "Pengurusan aduan dengan mudah dan pantas melalui peranti mudah alih"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Aplikasi Mudah Alih Rasmi Kerajaan Malaysia - Muat turun percuma",
+    "description": "Senarai aplikasi mudah alih rasmi agensi kerajaan Malaysia beserta platform, tarikh diterbitkan, tarikh kemas kini, tarikh ditutup dan tujuan Mengandungi 570 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Aplikasi Mudah Alih Rasmi Kerajaan Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Aplikasi Mudah Alih Rasmi Kerajaan Malaysia — 570 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 570 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/government_apps"
+    ]
+  }
+}
