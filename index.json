@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-28T02:25:14.060Z",
-  "total_datasets": 667,
-  "total_records": 538934,
+  "generated": "2026-10-29T02:15:20.293Z",
+  "total_datasets": 668,
+  "total_records": 540150,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -176,6 +176,33 @@
         "xlsx": {
           "name": "ms-pendaratan-ikan-laut-tahunan_MS.xlsx",
           "size": 12194
+        }
+      }
+    },
+    {
+      "id": "ms-pengeluaran-akuakultur-spesies",
+      "name": "Pengeluaran Akuakultur Tahunan mengikut Spesies (Malaysia)",
+      "category": "agriculture",
+      "record_count": 1216,
+      "columns": [
+        "year",
+        "environment",
+        "species",
+        "production_tonnes",
+        "wholesale_value_rm",
+        "retail_value_rm"
+      ],
+      "source": "https://data.gov.my/data-catalogue/aquaculture_production_species",
+      "updated": "2026-10",
+      "size": 251827,
+      "files": {
+        "csv": {
+          "name": "ms-pengeluaran-akuakultur-spesies_MS.csv",
+          "size": 77154
+        },
+        "xlsx": {
+          "name": "ms-pengeluaran-akuakultur-spesies_MS.xlsx",
+          "size": 47924
         }
       }
     },
