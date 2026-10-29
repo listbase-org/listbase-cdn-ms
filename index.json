@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-10-29T02:15:20.293Z",
-  "total_datasets": 668,
-  "total_records": 540150,
+  "generated": "2026-10-29T02:15:23.225Z",
+  "total_datasets": 669,
+  "total_records": 543942,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -203,6 +203,32 @@
         "xlsx": {
           "name": "ms-pengeluaran-akuakultur-spesies_MS.xlsx",
           "size": 47924
+        }
+      }
+    },
+    {
+      "id": "ms-pengeluaran-rumpai-laut",
+      "name": "Pengeluaran Rumpai Laut Bulanan mengikut Negeri",
+      "category": "agriculture",
+      "record_count": 3792,
+      "columns": [
+        "month",
+        "state",
+        "production_tonnes",
+        "wholesale_value_rm",
+        "retail_value_rm"
+      ],
+      "source": "https://data.gov.my/data-catalogue/seaweed_production",
+      "updated": "2026-10",
+      "size": 596351,
+      "files": {
+        "csv": {
+          "name": "ms-pengeluaran-rumpai-laut_MS.csv",
+          "size": 129985
+        },
+        "xlsx": {
+          "name": "ms-pengeluaran-rumpai-laut_MS.xlsx",
+          "size": 88414
         }
       }
     },
