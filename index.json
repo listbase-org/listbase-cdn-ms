@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-29T02:15:25.740Z",
-  "total_datasets": 670,
-  "total_records": 545389,
+  "generated": "2026-10-29T02:15:28.413Z",
+  "total_datasets": 671,
+  "total_records": 547069,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -5354,6 +5354,32 @@
         "xlsx": {
           "name": "ms-akta-parlimen_MS.xlsx",
           "size": 33459
+        }
+      }
+    },
+    {
+      "id": "ms-jenayah-indeks-negeri",
+      "name": "Jenayah Indeks mengikut Negeri dan Jenis Jenayah (2016–2023)",
+      "category": "law",
+      "record_count": 1680,
+      "columns": [
+        "year",
+        "state",
+        "category",
+        "type",
+        "crimes"
+      ],
+      "source": "https://data.gov.my/data-catalogue/crime_district",
+      "updated": "2026-10",
+      "size": 267698,
+      "files": {
+        "csv": {
+          "name": "ms-jenayah-indeks-negeri_MS.csv",
+          "size": 114766
+        },
+        "xlsx": {
+          "name": "ms-jenayah-indeks-negeri_MS.xlsx",
+          "size": 42465
         }
       }
     },
