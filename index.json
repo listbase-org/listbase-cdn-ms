@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-30T02:40:50.924Z",
-  "total_datasets": 675,
-  "total_records": 548151,
+  "generated": "2026-10-30T02:40:58.744Z",
+  "total_datasets": 676,
+  "total_records": 548187,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "time",
@@ -18169,6 +18169,30 @@
         "xlsx": {
           "name": "ms-perpustakaan-brunei_MS.xlsx",
           "size": 7586
+        }
+      }
+    },
+    {
+      "id": "ms-persatuan-radio-amatur",
+      "name": "Senarai Persatuan Radio Amatur di Malaysia",
+      "category": "tech",
+      "record_count": 36,
+      "columns": [
+        "nama_persatuan",
+        "singkatan",
+        "laman_rasmi"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_persatuan_radio_amatur_di_Malaysia",
+      "updated": "2026-10",
+      "size": 7184,
+      "files": {
+        "csv": {
+          "name": "ms-persatuan-radio-amatur_MS.csv",
+          "size": 2874
+        },
+        "xlsx": {
+          "name": "ms-persatuan-radio-amatur_MS.xlsx",
+          "size": 8480
         }
       }
     },
