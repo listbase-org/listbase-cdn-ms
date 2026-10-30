@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-29T02:15:33.510Z",
-  "total_datasets": 673,
-  "total_records": 547951,
+  "generated": "2026-10-30T02:40:42.067Z",
+  "total_datasets": 674,
+  "total_records": 548117,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "environment",
@@ -3230,6 +3230,30 @@
         "xlsx": {
           "name": "ms-pengarah-filem_MS.xlsx",
           "size": 8653
+        }
+      }
+    },
+    {
+      "id": "ms-saluran-astro",
+      "name": "Senarai Saluran Astro Malaysia",
+      "category": "entertainment",
+      "record_count": 166,
+      "columns": [
+        "saluran",
+        "nama",
+        "kategori"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Saluran_Astro_Malaysia",
+      "updated": "2026-10",
+      "size": 17985,
+      "files": {
+        "csv": {
+          "name": "ms-saluran-astro_MS.csv",
+          "size": 5952
+        },
+        "xlsx": {
+          "name": "ms-saluran-astro_MS.xlsx",
+          "size": 10933
         }
       }
     },

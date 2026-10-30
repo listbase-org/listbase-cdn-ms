@@ -1,0 +1,871 @@
+{
+  "id": "ms-saluran-astro",
+  "name": "Senarai Saluran Astro Malaysia",
+  "title": "Senarai Saluran Astro Malaysia",
+  "description": "Senarai saluran televisyen satelit Astro di Malaysia mengikut nombor saluran, nama saluran dan kategori.",
+  "category": "entertainment",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_Saluran_Astro_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_Saluran_Astro_Malaysia",
+  "updated": "2026-10",
+  "record_count": 166,
+  "columns": [
+    {
+      "key": "saluran",
+      "label": "Saluran",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "saluran": "101 HD",
+      "nama": "TV1",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "102 HD",
+      "nama": "TV2",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "103",
+      "nama": "TV3",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "104 HD",
+      "nama": "Astro Ria",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "105 HD",
+      "nama": "Astro Prima",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "106 HD",
+      "nama": "Astro Oasis",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "108 HD",
+      "nama": "Astro Citra",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "112 HD",
+      "nama": "Astro Rania",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "113 HD",
+      "nama": "Astro Aura",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "114 HD",
+      "nama": "TV AlHijrah",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "116 HD",
+      "nama": "Colors Hindi",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "117 HD",
+      "nama": "Zee Cinema",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "122 HD",
+      "nama": "TVS",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "146 HD",
+      "nama": "OKEY",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "147",
+      "nama": "DidikTV KPM",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "148",
+      "nama": "8TV",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "149",
+      "nama": "TV9",
+      "kategori": "Aneka Melayu"
+    },
+    {
+      "saluran": "201 HD",
+      "nama": "Astro Vaanavil",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "202 HD",
+      "nama": "Astro Vinmeen",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "203 HD",
+      "nama": "Astro Vellithirai",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "211 HD",
+      "nama": "Sun TV",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "212 HD",
+      "nama": "Sun Music",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "214",
+      "nama": "Adithya TV",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "215 HD",
+      "nama": "Sun News",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "216 HD",
+      "nama": "KTV",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "217 HD",
+      "nama": "Sun Life",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "220 HD",
+      "nama": "Sony Vizha",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "221 HD",
+      "nama": "Star Vijay",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "222 HD",
+      "nama": "Colors Tamil",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "223 HD",
+      "nama": "Zee Tamil",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "241 HD",
+      "nama": "Astro Thangathirai",
+      "kategori": "Aneka India"
+    },
+    {
+      "saluran": "300 HD",
+      "nama": "iQIYI",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "305 HD",
+      "nama": "TVB Classic",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "306 HD",
+      "nama": "Astro AEC",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "308 HD",
+      "nama": "Astro QJ",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "309 HD",
+      "nama": "Celestial Movies",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "310 HD",
+      "nama": "TVB Jade",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "311 HD",
+      "nama": "Astro AOD",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "316 HD",
+      "nama": "CTi Asia",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "317 HD",
+      "nama": "TVB Entertainment News",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "319 HD",
+      "nama": "TVB Xing He",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "320 HD",
+      "nama": "TVBS Asia",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "321",
+      "nama": "CCM",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "325 HD",
+      "nama": "Phoenix Chinese Channel",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "326 HD",
+      "nama": "Phoenix InfoNews Channel",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "333 HD",
+      "nama": "Astro Hua Hee Dai",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "335 HD",
+      "nama": "CCTV-4",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "336 HD",
+      "nama": "Mango TV",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "337 HD",
+      "nama": "U Panda TV",
+      "kategori": "Aneka Cina"
+    },
+    {
+      "saluran": "392 HD",
+      "nama": "KBS World",
+      "kategori": "Korea & Jepun"
+    },
+    {
+      "saluran": "393 HD",
+      "nama": "Astro Daebak",
+      "kategori": "Korea & Jepun"
+    },
+    {
+      "saluran": "395 HD",
+      "nama": "tvN",
+      "kategori": "Korea & Jepun"
+    },
+    {
+      "saluran": "396 HD",
+      "nama": "K-Plus",
+      "kategori": "Korea & Jepun"
+    },
+    {
+      "saluran": "398 HD",
+      "nama": "NHK World Premium",
+      "kategori": "Korea & Jepun"
+    },
+    {
+      "saluran": "401 HD",
+      "nama": "HITS Movies",
+      "kategori": "Filem"
+    },
+    {
+      "saluran": "404 HD",
+      "nama": "Astro Boo",
+      "kategori": "Filem"
+    },
+    {
+      "saluran": "411 HD",
+      "nama": "Astro Showtime",
+      "kategori": "Filem"
+    },
+    {
+      "saluran": "412 HD",
+      "nama": "Astro FAM Time",
+      "kategori": "Filem"
+    },
+    {
+      "saluran": "413 HD",
+      "nama": "Astro Showcase",
+      "kategori": "Filem"
+    },
+    {
+      "saluran": "414 HD",
+      "nama": "Rock Action",
+      "kategori": "Filem"
+    },
+    {
+      "saluran": "415 HD",
+      "nama": "Rock X Stream",
+      "kategori": "Filem"
+    },
+    {
+      "saluran": "416 HD",
+      "nama": "tvN Movies",
+      "kategori": "Filem"
+    },
+    {
+      "saluran": "501 HD",
+      "nama": "Astro Awani",
+      "kategori": "Berita"
+    },
+    {
+      "saluran": "502 HD",
+      "nama": "Bernama TV",
+      "kategori": "Berita"
+    },
+    {
+      "saluran": "503 HD",
+      "nama": "CGTN",
+      "kategori": "Berita"
+    },
+    {
+      "saluran": "505 HD",
+      "nama": "Berita RTM",
+      "kategori": "Berita"
+    },
+    {
+      "saluran": "511 HD",
+      "nama": "CNN International",
+      "kategori": "Berita"
+    },
+    {
+      "saluran": "512 HD",
+      "nama": "BBC News",
+      "kategori": "Berita"
+    },
+    {
+      "saluran": "513 HD",
+      "nama": "Al Jazeera English",
+      "kategori": "Berita"
+    },
+    {
+      "saluran": "515 HD",
+      "nama": "CNA",
+      "kategori": "Berita"
+    },
+    {
+      "saluran": "516 HD",
+      "nama": "CNBC Asia",
+      "kategori": "Berita"
+    },
+    {
+      "saluran": "517 HD",
+      "nama": "Bloomberg Television",
+      "kategori": "Berita"
+    },
+    {
+      "saluran": "518 HD",
+      "nama": "ABC Australia",
+      "kategori": "Berita"
+    },
+    {
+      "saluran": "549 UHD",
+      "nama": "Love Nature 4K",
+      "kategori": "Pembelajaran"
+    },
+    {
+      "saluran": "550 HD",
+      "nama": "Love Nature",
+      "kategori": "Pembelajaran"
+    },
+    {
+      "saluran": "552 HD",
+      "nama": "Discovery",
+      "kategori": "Pembelajaran"
+    },
+    {
+      "saluran": "553 HD",
+      "nama": "Discovery Asia",
+      "kategori": "Pembelajaran"
+    },
+    {
+      "saluran": "554 HD",
+      "nama": "BBC Earth",
+      "kategori": "Pembelajaran"
+    },
+    {
+      "saluran": "555 HD",
+      "nama": "History",
+      "kategori": "Pembelajaran"
+    },
+    {
+      "saluran": "556 HD",
+      "nama": "CGTN Documentary",
+      "kategori": "Pembelajaran"
+    },
+    {
+      "saluran": "603 HD",
+      "nama": "Astro Tutor TV",
+      "kategori": "Kanak-Kanak"
+    },
+    {
+      "saluran": "611 HD",
+      "nama": "Astro Ceria",
+      "kategori": "Kanak-Kanak"
+    },
+    {
+      "saluran": "615 HD",
+      "nama": "Cartoon Network",
+      "kategori": "Kanak-Kanak"
+    },
+    {
+      "saluran": "616 HD",
+      "nama": "Nickelodeon",
+      "kategori": "Kanak-Kanak"
+    },
+    {
+      "saluran": "617 HD",
+      "nama": "Nick Jr.",
+      "kategori": "Kanak-Kanak"
+    },
+    {
+      "saluran": "618 HD",
+      "nama": "Moonbug",
+      "kategori": "Kanak-Kanak"
+    },
+    {
+      "saluran": "619 HD",
+      "nama": "Blippi & Friends",
+      "kategori": "Kanak-Kanak"
+    },
+    {
+      "saluran": "701 HD",
+      "nama": "AXN",
+      "kategori": "Inggeris"
+    },
+    {
+      "saluran": "702 HD",
+      "nama": "HITS Now",
+      "kategori": "Inggeris"
+    },
+    {
+      "saluran": "703 HD",
+      "nama": "Lifetime",
+      "kategori": "Inggeris"
+    },
+    {
+      "saluran": "706 HD",
+      "nama": "HITS",
+      "kategori": "Inggeris"
+    },
+    {
+      "saluran": "707 HD",
+      "nama": "TLC",
+      "kategori": "Inggeris"
+    },
+    {
+      "saluran": "709 HD",
+      "nama": "Asian Food Network",
+      "kategori": "Inggeris"
+    },
+    {
+      "saluran": "714 HD",
+      "nama": "Crime + Investigation",
+      "kategori": "Inggeris"
+    },
+    {
+      "saluran": "715 HD",
+      "nama": "HGTV",
+      "kategori": "Inggeris"
+    },
+    {
+      "saluran": "801 HD",
+      "nama": "Astro Arena",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "802 HD",
+      "nama": "Astro Stadium",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "803 HD",
+      "nama": "Astro Arena Bola",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "804 HD",
+      "nama": "Astro Arena Bola 2",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "805 UHD",
+      "nama": "Astro Sports UHD",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "806 HD",
+      "nama": "Sukan+",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "810 HD",
+      "nama": "Astro Grandstand",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "811 HD",
+      "nama": "Astro Premier League",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "812 HD",
+      "nama": "Astro Premier League 2",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "814 HD",
+      "nama": "Astro Football",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "815 HD",
+      "nama": "Astro Badminton",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "817 HD",
+      "nama": "Astro Sports Plus",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "819 HD",
+      "nama": "Astro Tennis",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "820 HD",
+      "nama": "beIN Sports 1",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "821 HD",
+      "nama": "beIN Sports 2",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "822 HD",
+      "nama": "beIN Sports 3",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "826 HD",
+      "nama": "W-Sport",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "831 HD",
+      "nama": "Astro Golf",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "832 HD",
+      "nama": "Cricbuzz TV",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "833 HD",
+      "nama": "Premier Sports",
+      "kategori": "Sukan"
+    },
+    {
+      "saluran": "472 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "473 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "474 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "475 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "476 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "477 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "478 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "479 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "482 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "483 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "484 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "485 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "486 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "487 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "488 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "489 HD",
+      "nama": "Astro First",
+      "kategori": "Saluran tambahan"
+    },
+    {
+      "saluran": "900 HD",
+      "nama": "France 24 French",
+      "kategori": "Saluran Astro Biz Eksklusif"
+    },
+    {
+      "saluran": "901 HD",
+      "nama": "Lifestyle",
+      "kategori": "Saluran Astro Biz Eksklusif"
+    },
+    {
+      "saluran": "902 HD",
+      "nama": "Local",
+      "kategori": "Saluran Astro Biz Eksklusif"
+    },
+    {
+      "saluran": "903 HD",
+      "nama": "Asian",
+      "kategori": "Saluran Astro Biz Eksklusif"
+    },
+    {
+      "saluran": "904 HD",
+      "nama": "Movies",
+      "kategori": "Saluran Astro Biz Eksklusif"
+    },
+    {
+      "saluran": "741",
+      "nama": "Netflix *",
+      "kategori": "Perkhidmatan interaktif"
+    },
+    {
+      "saluran": "100 HD",
+      "nama": "Astro 30",
+      "kategori": "Saluran khas"
+    },
+    {
+      "saluran": "120 HD",
+      "nama": "Aniplus",
+      "kategori": "Saluran khas"
+    },
+    {
+      "saluran": "121 HD",
+      "nama": "Pokémon",
+      "kategori": "Saluran khas"
+    },
+    {
+      "saluran": "852",
+      "nama": "Hitz",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "853",
+      "nama": "MY",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "854",
+      "nama": "Lite",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "855",
+      "nama": "Mix",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "856",
+      "nama": "Era",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "857",
+      "nama": "Sinar",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "858",
+      "nama": "Melody",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "859",
+      "nama": "Raaga",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "860",
+      "nama": "SYOK Classic Rock",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "861",
+      "nama": "SYOK Gold",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "862",
+      "nama": "SYOK Opus",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "863",
+      "nama": "THR Gegar",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "864",
+      "nama": "SYOK India Beat",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "865",
+      "nama": "SYOK Jazz",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "866",
+      "nama": "SYOK Osai",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "867",
+      "nama": "SYOK Bayu",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "868",
+      "nama": "SYOK Kenyalang",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "869",
+      "nama": "Nasional FM",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "870",
+      "nama": "Sabah V FM",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "871",
+      "nama": "Wai FM",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "872",
+      "nama": "Traxx FM",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "873",
+      "nama": "Minnal FM",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "874",
+      "nama": "Ai FM",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "875",
+      "nama": "Asyik FM",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "876",
+      "nama": "Zayan",
+      "kategori": "Saluran radio"
+    },
+    {
+      "saluran": "877",
+      "nama": "Go Xuan",
+      "kategori": "Saluran radio"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Saluran Astro Malaysia - Muat turun percuma",
+    "description": "Senarai saluran televisyen satelit Astro di Malaysia mengikut nombor saluran, nama saluran dan kategori. Mengandungi 166 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Saluran Astro Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Saluran Astro Malaysia — 166 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 166 rekod / 3 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_Saluran_Astro_Malaysia"
+    ]
+  }
+}
