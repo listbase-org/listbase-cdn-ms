@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-30T02:41:06.109Z",
-  "total_datasets": 677,
-  "total_records": 548799,
+  "generated": "2026-10-30T02:41:13.899Z",
+  "total_datasets": 678,
+  "total_records": 548837,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "politics",
@@ -5758,6 +5758,28 @@
         "xlsx": {
           "name": "ms-lagu-patriotik_MS.xlsx",
           "size": 10468
+        }
+      }
+    },
+    {
+      "id": "ms-lagu-rakyat-melayu",
+      "name": "Senarai Lagu Rakyat Masyarakat Melayu",
+      "category": "music",
+      "record_count": 38,
+      "columns": [
+        "tajuk"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_lagu_rakyat_masyarakat_Melayu",
+      "updated": "2026-10",
+      "size": 3140,
+      "files": {
+        "csv": {
+          "name": "ms-lagu-rakyat-melayu_MS.csv",
+          "size": 780
+        },
+        "xlsx": {
+          "name": "ms-lagu-rakyat-melayu_MS.xlsx",
+          "size": 7403
         }
       }
     },
