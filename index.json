@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-30T02:40:42.067Z",
-  "total_datasets": 674,
-  "total_records": 548117,
+  "generated": "2026-10-30T02:40:50.924Z",
+  "total_datasets": 675,
+  "total_records": 548151,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "politics",
@@ -5758,6 +5758,31 @@
         "xlsx": {
           "name": "ms-lagu-patriotik_MS.xlsx",
           "size": 10468
+        }
+      }
+    },
+    {
+      "id": "ms-lagu-tema-hari-kebangsaan",
+      "name": "Lagu Tema Hari Kebangsaan Malaysia",
+      "category": "music",
+      "record_count": 34,
+      "columns": [
+        "tahun",
+        "lagu_tema",
+        "penyanyi",
+        "komposer"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_Tema_Hari_Kebangsaan_Malaysia_dan_Hari_Malaysia",
+      "updated": "2026-10",
+      "size": 6511,
+      "files": {
+        "csv": {
+          "name": "ms-lagu-tema-hari-kebangsaan_MS.csv",
+          "size": 2003
+        },
+        "xlsx": {
+          "name": "ms-lagu-tema-hari-kebangsaan_MS.xlsx",
+          "size": 8276
         }
       }
     },
