@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-30T02:40:58.744Z",
-  "total_datasets": 676,
-  "total_records": 548187,
+  "generated": "2026-10-30T02:41:06.109Z",
+  "total_datasets": 677,
+  "total_records": 548799,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -17692,6 +17692,30 @@
         "xlsx": {
           "name": "ms-ibu-pejabat-polis-daerah_MS.xlsx",
           "size": 11371
+        }
+      }
+    },
+    {
+      "id": "ms-kampung-baru-cina",
+      "name": "Senarai Kampung Baru Cina di Malaysia",
+      "category": "society",
+      "record_count": 612,
+      "columns": [
+        "nama",
+        "daerah",
+        "negeri"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_kampung_baru_Cina_di_Malaysia",
+      "updated": "2026-10",
+      "size": 65621,
+      "files": {
+        "csv": {
+          "name": "ms-kampung-baru-cina_MS.csv",
+          "size": 26847
+        },
+        "xlsx": {
+          "name": "ms-kampung-baru-cina_MS.xlsx",
+          "size": 19780
         }
       }
     },
