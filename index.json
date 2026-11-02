@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-02T02:32:10.274Z",
-  "total_datasets": 680,
-  "total_records": 548889,
+  "generated": "2026-11-02T02:32:18.821Z",
+  "total_datasets": 681,
+  "total_records": 548990,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -3821,6 +3821,28 @@
         "xlsx": {
           "name": "ms-klon-durian-popular_MS.xlsx",
           "size": 7417
+        }
+      }
+    },
+    {
+      "id": "ms-kuih-tradisional",
+      "name": "Senarai Kuih Tradisional Melayu",
+      "category": "food",
+      "record_count": 101,
+      "columns": [
+        "nama_kuih"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Kuih",
+      "updated": "2026-11",
+      "size": 5682,
+      "files": {
+        "csv": {
+          "name": "ms-kuih-tradisional_MS.csv",
+          "size": 1360
+        },
+        "xlsx": {
+          "name": "ms-kuih-tradisional_MS.xlsx",
+          "size": 8105
         }
       }
     },
