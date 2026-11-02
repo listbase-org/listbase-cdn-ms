@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-02T02:32:25.095Z",
-  "total_datasets": 682,
-  "total_records": 549015,
+  "generated": "2026-11-02T02:32:32.665Z",
+  "total_datasets": 683,
+  "total_records": 551310,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -5430,6 +5430,29 @@
         "xlsx": {
           "name": "ms-kata-serapan-sanskrit_MS.xlsx",
           "size": 25786
+        }
+      }
+    },
+    {
+      "id": "ms-peribahasa-melayu",
+      "name": "Senarai Peribahasa Melayu dan Maksudnya",
+      "category": "language",
+      "record_count": 2295,
+      "columns": [
+        "peribahasa",
+        "maksud"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_peribahasa_(A–M)",
+      "updated": "2026-11",
+      "size": 366706,
+      "files": {
+        "csv": {
+          "name": "ms-peribahasa-melayu_MS.csv",
+          "size": 250657
+        },
+        "xlsx": {
+          "name": "ms-peribahasa-melayu_MS.xlsx",
+          "size": 117002
         }
       }
     },
