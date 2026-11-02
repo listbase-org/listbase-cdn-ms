@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-10-30T02:41:13.899Z",
-  "total_datasets": 678,
-  "total_records": 548837,
+  "generated": "2026-11-02T02:32:03.131Z",
+  "total_datasets": 679,
+  "total_records": 548874,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -5284,6 +5284,34 @@
         "xlsx": {
           "name": "ms-dialek-cina-penutur_MS.xlsx",
           "size": 6895
+        }
+      }
+    },
+    {
+      "id": "ms-huruf-jawi",
+      "name": "Huruf Jawi dan Padanan Rumi",
+      "category": "language",
+      "record_count": 37,
+      "columns": [
+        "nama",
+        "tunggal",
+        "awal_kata",
+        "tengah_kata",
+        "akhir_kata",
+        "padanan_rumi",
+        "keterangan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Tulisan_Jawi",
+      "updated": "2026-11",
+      "size": 12361,
+      "files": {
+        "csv": {
+          "name": "ms-huruf-jawi_MS.csv",
+          "size": 5055
+        },
+        "xlsx": {
+          "name": "ms-huruf-jawi_MS.xlsx",
+          "size": 9656
         }
       }
     },
