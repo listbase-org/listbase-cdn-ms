@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-02T02:32:03.131Z",
-  "total_datasets": 679,
-  "total_records": 548874,
+  "generated": "2026-11-02T02:32:10.274Z",
+  "total_datasets": 680,
+  "total_records": 548889,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -5507,6 +5507,31 @@
         "xlsx": {
           "name": "ms-ketua-hakim-syarie_MS.xlsx",
           "size": 7062
+        }
+      }
+    },
+    {
+      "id": "ms-ketua-polis-negara",
+      "name": "Senarai Ketua Polis Negara Malaysia",
+      "category": "law",
+      "record_count": 15,
+      "columns": [
+        "bil",
+        "ketua_polis_negara",
+        "tempoh_perkhidmatan",
+        "tahun_dan_hari"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Ketua_Polis_Negara_Malaysia",
+      "updated": "2026-11",
+      "size": 4655,
+      "files": {
+        "csv": {
+          "name": "ms-ketua-polis-negara_MS.csv",
+          "size": 1497
+        },
+        "xlsx": {
+          "name": "ms-ketua-polis-negara_MS.xlsx",
+          "size": 7577
         }
       }
     },

@@ -1,0 +1,136 @@
+{
+  "id": "ms-ketua-polis-negara",
+  "name": "Senarai Ketua Polis Negara Malaysia",
+  "title": "Senarai Ketua Polis Negara Malaysia",
+  "description": "Senarai Ketua Polis Negara (KPN) Malaysia sejak 1958 dengan tempoh perkhidmatan dan jangka masa memegang jawatan.",
+  "category": "law",
+  "source": "https://ms.wikipedia.org/wiki/Ketua_Polis_Negara_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Ketua_Polis_Negara_Malaysia",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "bil",
+      "label": "Bil",
+      "type": "number"
+    },
+    {
+      "key": "ketua_polis_negara",
+      "label": "Ketua Polis Negara",
+      "type": "string"
+    },
+    {
+      "key": "tempoh_perkhidmatan",
+      "label": "Tempoh Perkhidmatan",
+      "type": "string"
+    },
+    {
+      "key": "tahun_dan_hari",
+      "label": "Tahun Dan Hari",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bil": 1,
+      "ketua_polis_negara": "Tan Sri Sir Claude Fenner",
+      "tempoh_perkhidmatan": "18 September 1958 - 28 Mac 1966",
+      "tahun_dan_hari": "7 tahun dan 192 hari"
+    },
+    {
+      "bil": 2,
+      "ketua_polis_negara": "Tun Mohamed Salleh bin Ismael",
+      "tempoh_perkhidmatan": "29 Mac 1966 - 31 Januari 1973",
+      "tahun_dan_hari": "6 tahun dan 309 hari"
+    },
+    {
+      "bil": 3,
+      "ketua_polis_negara": "Tan Sri Abdul Rahman bin Hashim",
+      "tempoh_perkhidmatan": "1 Februari 1973 - 7 Jun 1974",
+      "tahun_dan_hari": "1 tahun dan 127 hari"
+    },
+    {
+      "bil": 4,
+      "ketua_polis_negara": "Tun Mohammed Hanif bin Omar",
+      "tempoh_perkhidmatan": "8 Jun 1974 - 15 Januari 1994",
+      "tahun_dan_hari": "19 tahun dan 222 hari"
+    },
+    {
+      "bil": 5,
+      "ketua_polis_negara": "Tan Sri Abdul Rahim bin Mohd. Noor",
+      "tempoh_perkhidmatan": "16 Januari 1994 - 7 Januari 1999",
+      "tahun_dan_hari": "4 tahun dan 357 hari"
+    },
+    {
+      "bil": 6,
+      "ketua_polis_negara": "Tan Sri Norian bin Mai",
+      "tempoh_perkhidmatan": "8 Januari 1999 - 4 November 2003",
+      "tahun_dan_hari": "4 tahun dan 301 hari"
+    },
+    {
+      "bil": 7,
+      "ketua_polis_negara": "Tan Sri Mohd Bakri bin Haji Omar",
+      "tempoh_perkhidmatan": "5 November 2003 - 11 September 2006",
+      "tahun_dan_hari": "2 tahun dan 127 hari"
+    },
+    {
+      "bil": 8,
+      "ketua_polis_negara": "Tan Sri Musa bin Tan Sri Dato' Haji Hassan",
+      "tempoh_perkhidmatan": "12 November 2006 - 12 September 2010",
+      "tahun_dan_hari": "4 tahun dan 1 hari"
+    },
+    {
+      "bil": 9,
+      "ketua_polis_negara": "Tan Sri Ismail bin Haji Omar",
+      "tempoh_perkhidmatan": "13 September 2010 - 16 Mei 2013",
+      "tahun_dan_hari": "2 tahun dan 246 hari"
+    },
+    {
+      "bil": 10,
+      "ketua_polis_negara": "Tan Sri Dato' Sri Khalid bin Abu Bakar",
+      "tempoh_perkhidmatan": "17 Mei 2013 - 4 September 2017",
+      "tahun_dan_hari": "4 tahun dan 114 hari"
+    },
+    {
+      "bil": 11,
+      "ketua_polis_negara": "Tan Sri Dato' Sri Mohamad Fuzi bin Harun",
+      "tempoh_perkhidmatan": "5 September 2017 - 3 Mei 2019",
+      "tahun_dan_hari": "1 tahun dan 242 hari"
+    },
+    {
+      "bil": 12,
+      "ketua_polis_negara": "Tan Sri Dato' Seri Abdul Hamid bin Bador",
+      "tempoh_perkhidmatan": "4 Mei 2019 - 3 Mei 2021",
+      "tahun_dan_hari": "2 tahun dan 0 hari"
+    },
+    {
+      "bil": 13,
+      "ketua_polis_negara": "Tan Sri Acryl Sani bin Haji Abdullah Sani",
+      "tempoh_perkhidmatan": "4 Mei 2021 - 22 Jun 2023",
+      "tahun_dan_hari": "2 tahun dan 50 hari"
+    },
+    {
+      "bil": 14,
+      "ketua_polis_negara": "Tan Sri Razarudin bin Husain",
+      "tempoh_perkhidmatan": "23 Jun 2023 - 22 Jun 2025",
+      "tahun_dan_hari": "2 tahun dan 0 hari"
+    },
+    {
+      "bil": 15,
+      "ketua_polis_negara": "Tan Sri Dato' Seri Haji Mohd Khalid bin Ismail",
+      "tempoh_perkhidmatan": "23 Jun 2025 - kini",
+      "tahun_dan_hari": "1 tahun dan 133 hari"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Ketua Polis Negara Malaysia - Muat turun percuma",
+    "description": "Senarai Ketua Polis Negara (KPN) Malaysia sejak 1958 dengan tempoh perkhidmatan dan jangka masa memegang jawatan. Mengandungi 15 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Ketua Polis Negara Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Ketua Polis Negara Malaysia — 15 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 15 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Ketua_Polis_Negara_Malaysia"
+    ]
+  }
+}
