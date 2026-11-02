@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-02T02:32:18.821Z",
-  "total_datasets": 681,
-  "total_records": 548990,
+  "generated": "2026-11-02T02:32:25.095Z",
+  "total_datasets": 682,
+  "total_records": 549015,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "history",
@@ -4624,6 +4624,32 @@
         "xlsx": {
           "name": "ms-melaka-fasiliti-kesihatan_MS.xlsx",
           "size": 19546
+        }
+      }
+    },
+    {
+      "id": "ms-menteri-kesihatan",
+      "name": "Senarai Menteri Kesihatan Malaysia",
+      "category": "health",
+      "record_count": 25,
+      "columns": [
+        "nama",
+        "parti_politik",
+        "gelaran",
+        "tempoh",
+        "perdana_menteri_kabinet"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Menteri_Kesihatan_Malaysia",
+      "updated": "2026-11",
+      "size": 7784,
+      "files": {
+        "csv": {
+          "name": "ms-menteri-kesihatan_MS.csv",
+          "size": 3170
+        },
+        "xlsx": {
+          "name": "ms-menteri-kesihatan_MS.xlsx",
+          "size": 8273
         }
       }
     },

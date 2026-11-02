@@ -1,0 +1,226 @@
+{
+  "id": "ms-menteri-kesihatan",
+  "name": "Senarai Menteri Kesihatan Malaysia",
+  "title": "Senarai Menteri Kesihatan Malaysia",
+  "description": "Senarai Menteri Kesihatan Malaysia sejak 1955 dengan parti politik, gelaran jawatan, tempoh dan kabinet Perdana Menteri.",
+  "category": "health",
+  "source": "https://ms.wikipedia.org/wiki/Menteri_Kesihatan_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Menteri_Kesihatan_Malaysia",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "parti_politik",
+      "label": "Parti Politik",
+      "type": "string"
+    },
+    {
+      "key": "gelaran",
+      "label": "Gelaran",
+      "type": "string"
+    },
+    {
+      "key": "tempoh",
+      "label": "Tempoh",
+      "type": "string"
+    },
+    {
+      "key": "perdana_menteri_kabinet",
+      "label": "Perdana Menteri Kabinet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Tun Leong Yew Koh AP Ipoh",
+      "parti_politik": "Perikatan (MCA)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "1955 - 1956",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (I)"
+    },
+    {
+      "nama": "Tun Leong Yew Koh AP Ipoh",
+      "parti_politik": "Perikatan (MCA)",
+      "gelaran": "Menteri Kesihatan dan Kebajikan Masyarakat",
+      "tempoh": "1956 - 1957",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (I)"
+    },
+    {
+      "nama": "Tun Veerasamy Thirunyana Sambanthan",
+      "parti_politik": "Perikatan (MIC)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "1957 - 1959",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (I)"
+    },
+    {
+      "nama": "Tun Omar Ong Yoke Lin AP Ulu Selangor",
+      "parti_politik": "Perikatan (MCA)",
+      "gelaran": "Menteri Kesihatan dan Kebajikan Masyarakat",
+      "tempoh": "1959 - 1960",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (II)"
+    },
+    {
+      "nama": "Abdul Aziz Ishak AP Kuala Langat",
+      "parti_politik": "Perikatan (UMNO)",
+      "gelaran": "Menteri Kesihatan dan Kebajikan Masyarakat",
+      "tempoh": "1960 - 1962",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (II)"
+    },
+    {
+      "nama": "Dr Lim Swee Aun AP Larut Selatan",
+      "parti_politik": "Perikatan (MCA)",
+      "gelaran": "Menteri Kesihatan dan Kebajikan Masyarakat",
+      "tempoh": "1 Ogos 1962 – 10 Oktober 1962",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (II)"
+    },
+    {
+      "nama": "Abdul Rahman Talib AP Kuantan",
+      "parti_politik": "Perikatan (UMNO)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "1962 - 1964",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (II)"
+    },
+    {
+      "nama": "Tan Sri Bahaman Samsudin AP Kuala Pilah",
+      "parti_politik": "Perikatan (UMNO)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "1964 - 1968",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (II)"
+    },
+    {
+      "nama": "Ng Kam Poh AP Telok Anson",
+      "parti_politik": "Perikatan (MCA)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "1968 - 1969",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (III)"
+    },
+    {
+      "nama": "Tun Sardon Jubir (1917–1985) AP Pontian Utara",
+      "parti_politik": "Perikatan (UMNO)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "1969 - 1972",
+      "perdana_menteri_kabinet": "Tunku Abdul Rahman (IV) Abdul Razak Hussein (I)"
+    },
+    {
+      "nama": "Lee Siok Yew AP Ulu Langat",
+      "parti_politik": "BN (MCA)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "1972 - 1978",
+      "perdana_menteri_kabinet": "Abdul Razak Hussein (I · II) Hussein Onn (I)"
+    },
+    {
+      "nama": "Tan Sri Chong Hon Nyan AP Batu Berendam",
+      "parti_politik": "BN (MCA)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "1978 - 1982",
+      "perdana_menteri_kabinet": "Hussein Onn (II) Mahathir Mohamad (I · II)"
+    },
+    {
+      "nama": "Dato Mak Hon Kam AP Tanjong Mali",
+      "parti_politik": "BN (MCA)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "1982 - 1987",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (III)"
+    },
+    {
+      "nama": "Tan Sri Chan Siang Sun AP Bentong",
+      "parti_politik": "BN (MCA)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "1987 - 1989",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (III)"
+    },
+    {
+      "nama": "Datuk Ng Cheng Kiat AP Klang",
+      "parti_politik": "BN (MCA)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "1989 - 1990",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (III)"
+    },
+    {
+      "nama": "Tan Sri Lee Kim Sai AP Hulu Langat",
+      "parti_politik": "BN (MCA)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "1990 - 1995",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (IV)"
+    },
+    {
+      "nama": "Dato' Indera Chua Jui Meng AP Bakri",
+      "parti_politik": "BN (MCA)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "1995 - 2004",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (V · VI) Abdullah Ahmad Badawi (I)"
+    },
+    {
+      "nama": "Tan Sri Dr. Chua Soi Lek AP Labis",
+      "parti_politik": "BN (MCA)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "2004 - 2007",
+      "perdana_menteri_kabinet": "Abdullah Ahmad Badawi (II)"
+    },
+    {
+      "nama": "Dato' Sri Liow Tiong Lai AP Bentong",
+      "parti_politik": "BN (MCA)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "2008 - 2013",
+      "perdana_menteri_kabinet": "Abdullah Ahmad Badawi (III) Najib Razak (I)"
+    },
+    {
+      "nama": "Datuk Seri Dr. S. Subramaniam AP Segamat",
+      "parti_politik": "BN (MIC)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "16 Mei 2013 - 10 Mei 2018",
+      "perdana_menteri_kabinet": "Najib Razak (II)"
+    },
+    {
+      "nama": "Datuk Seri Dr. Dzulkefly Ahmad AP Kuala Selangor",
+      "parti_politik": "PH (AMANAH)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "21 Mei 2018 - 24 Februari 2020",
+      "perdana_menteri_kabinet": "Mahathir Mohamad (VII)"
+    },
+    {
+      "nama": "Dato' Sri Dr. Adham bin Baba AP Tenggara",
+      "parti_politik": "BN (UMNO)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "10 Mac 2020 - 16 Ogos 2021",
+      "perdana_menteri_kabinet": "Muhyiddin Yassin (I)"
+    },
+    {
+      "nama": "Khairy Jamaluddin Abu Bakar AP Rembau",
+      "parti_politik": "BN (UMNO)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "27 Ogos 2021 - 10 Oktober 2022",
+      "perdana_menteri_kabinet": "Ismail Sabri (I)"
+    },
+    {
+      "nama": "Dr. Zaliha Mustafa AP Sekijang",
+      "parti_politik": "PH (PKR)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "3 Disember 2022 - 12 Disember 2023",
+      "perdana_menteri_kabinet": "Anwar Ibrahim (I)"
+    },
+    {
+      "nama": "Datuk Seri Dr. Dzulkefly Ahmad AP Kuala Selangor",
+      "parti_politik": "PH (AMANAH)",
+      "gelaran": "Menteri Kesihatan",
+      "tempoh": "12 Disember 2023 - kini",
+      "perdana_menteri_kabinet": "Anwar Ibrahim (II)"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Menteri Kesihatan Malaysia - Muat turun percuma",
+    "description": "Senarai Menteri Kesihatan Malaysia sejak 1955 dengan parti politik, gelaran jawatan, tempoh dan kabinet Perdana Menteri. Mengandungi 25 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Menteri Kesihatan Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Menteri Kesihatan Malaysia — 25 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 25 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Menteri_Kesihatan_Malaysia"
+    ]
+  }
+}
