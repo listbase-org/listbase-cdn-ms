@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-02T02:32:32.665Z",
-  "total_datasets": 683,
-  "total_records": 551310,
+  "generated": "2026-11-03T02:34:26.490Z",
+  "total_datasets": 684,
+  "total_records": 551346,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -3843,6 +3843,30 @@
         "xlsx": {
           "name": "ms-kuih-tradisional_MS.xlsx",
           "size": 8105
+        }
+      }
+    },
+    {
+      "id": "ms-masakan-sarawak",
+      "name": "Hidangan Masakan Sarawak",
+      "category": "food",
+      "record_count": 36,
+      "columns": [
+        "hidangan",
+        "bahagian",
+        "keterangan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Masakan_Sarawak",
+      "updated": "2026-11",
+      "size": 13773,
+      "files": {
+        "csv": {
+          "name": "ms-masakan-sarawak_MS.csv",
+          "size": 9829
+        },
+        "xlsx": {
+          "name": "ms-masakan-sarawak_MS.xlsx",
+          "size": 10857
         }
       }
     },
