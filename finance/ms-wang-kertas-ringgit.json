@@ -1,0 +1,532 @@
+{
+  "id": "ms-wang-kertas-ringgit",
+  "name": "Wang Kertas Ringgit Malaysia Mengikut Siri",
+  "title": "Wang Kertas Ringgit Malaysia Mengikut Siri",
+  "description": "Wang kertas ringgit Malaysia dari siri pertama (1967) hingga siri keempat dan wang kertas kenang-kenangan: nilai, dimensi, warna, reka bentuk, tarikh keluaran dan status.",
+  "category": "finance",
+  "source": "https://ms.wikipedia.org/wiki/Ringgit",
+  "source_url": "https://ms.wikipedia.org/wiki/Ringgit",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "siri",
+      "label": "Siri",
+      "type": "string"
+    },
+    {
+      "key": "nilai",
+      "label": "Nilai",
+      "type": "string"
+    },
+    {
+      "key": "warna_utama",
+      "label": "Warna Utama",
+      "type": "string"
+    },
+    {
+      "key": "keterangan_hadapan",
+      "label": "Keterangan Hadapan",
+      "type": "string"
+    },
+    {
+      "key": "keterangan_belakang",
+      "label": "Keterangan Belakang",
+      "type": "string"
+    },
+    {
+      "key": "tarikh_keluaran",
+      "label": "Tarikh Keluaran",
+      "type": "string"
+    },
+    {
+      "key": "catatan",
+      "label": "Catatan",
+      "type": "string"
+    },
+    {
+      "key": "dimensi",
+      "label": "Dimensi",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "substrat",
+      "label": "Substrat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "$1",
+      "warna_utama": "Biru",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Logo Bank Negara, iaitu Kijang Emas",
+      "tarikh_keluaran": "Jun 1967",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "$5",
+      "warna_utama": "Hijau",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Logo Bank Negara, iaitu Kijang Emas",
+      "tarikh_keluaran": "Jun 1967",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "$10",
+      "warna_utama": "Merah",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Logo Bank Negara, iaitu Kijang Emas",
+      "tarikh_keluaran": "Jun 1967",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "$50",
+      "warna_utama": "Biru/Kelabu",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Logo Bank Negara, iaitu Kijang Emas",
+      "tarikh_keluaran": "Jun 1967",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "$100",
+      "warna_utama": "Ungu",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Logo Bank Negara, iaitu Kijang Emas",
+      "tarikh_keluaran": "Jun 1967",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "$1000",
+      "warna_utama": "Ungu/Hijau",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Bangunan Parlimen di Kuala Lumpur",
+      "tarikh_keluaran": "2 September 1968",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$1",
+      "warna_utama": "Biru",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Tugu Negara",
+      "tarikh_keluaran": "1984",
+      "catatan": "dengan tanda buta.",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$5",
+      "warna_utama": "Hijau",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Istana Negara Lama",
+      "tarikh_keluaran": "1984",
+      "catatan": "dengan tanda buta.",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$10",
+      "warna_utama": "Merah",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Stesen Keretapi Lama Kuala Lumpur",
+      "tarikh_keluaran": "1983",
+      "catatan": "dengan tanda buta.",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$20",
+      "warna_utama": "Perang/putih",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Ibu pejabat Bank Negara Malaysia",
+      "tarikh_keluaran": "1982",
+      "catatan": "dengan tanda buta.",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$50",
+      "warna_utama": "Biru/kelabu",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Muzium Negara",
+      "tarikh_keluaran": "1983",
+      "catatan": "dengan tanda buta.",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$100",
+      "warna_utama": "Ungu",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Masjid Negara",
+      "tarikh_keluaran": "1983",
+      "catatan": "dengan tanda buta.",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$500",
+      "warna_utama": "Jingga",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Bangunan Sultan Abdul Samad",
+      "tarikh_keluaran": "1982",
+      "catatan": "dengan tanda buta.",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$1000",
+      "warna_utama": "Biru/hijau",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Bangunan Parlimen",
+      "tarikh_keluaran": "1984",
+      "catatan": "dengan tanda buta.",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$1",
+      "warna_utama": "Biru",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Tugu Negara di Kuala Lumpur",
+      "tarikh_keluaran": "1986",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$5",
+      "warna_utama": "Green",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Istana Negara Lama",
+      "tarikh_keluaran": "1986",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$10",
+      "warna_utama": "Red",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Stesen Keretapi Lama Kuala Lumpur",
+      "tarikh_keluaran": "1986",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$20",
+      "warna_utama": "Perang/putih",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Ibu pejabat Bank Negara Malaysia",
+      "tarikh_keluaran": "1986",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$50",
+      "warna_utama": "Biru/kelabu",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Muzium Negara",
+      "tarikh_keluaran": "1986",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$100",
+      "warna_utama": "Ungu",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Masjid Negara",
+      "tarikh_keluaran": "1986",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$500",
+      "warna_utama": "Jingga",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Bangunan Sultan Abdul Samad",
+      "tarikh_keluaran": "1986",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri kedua (1982)",
+      "nilai": "$1000",
+      "warna_utama": "Blue/green",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Bangunan Parlimen",
+      "tarikh_keluaran": "1986",
+      "catatan": "",
+      "dimensi": "",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri ketiga (1996)",
+      "nilai": "RM1",
+      "warna_utama": "Biru",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Gunung Kinabalu, Gunung Mulu dan wau bulan",
+      "tarikh_keluaran": "8 November 2000",
+      "catatan": "Kertas",
+      "dimensi": "120 × 65 mm",
+      "status": "Dalam edaran",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri ketiga (1996)",
+      "nilai": "RM2",
+      "warna_utama": "Ungu lembut",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Menara Kuala Lumpur dan satelit MEASAT-3d",
+      "tarikh_keluaran": "5 Februari 1996",
+      "catatan": "Kertas",
+      "dimensi": "130 × 65 mm",
+      "status": "Ditarik balik",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri ketiga (1996)",
+      "nilai": "RM5",
+      "warna_utama": "Hijau",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Koridor Raya Multimedia, KLIA dan Menara Berkembar Petronas",
+      "tarikh_keluaran": "27 September 1999",
+      "catatan": "Kertas",
+      "dimensi": "135 × 65 mm",
+      "status": "Ditarik balik",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri ketiga (1996)",
+      "nilai": "RM5",
+      "warna_utama": "Hijau",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Koridor Raya Multimedia, KLIA dan Menara Berkembar Petronas",
+      "tarikh_keluaran": "26 Oktober 2004",
+      "catatan": "Polimer (Polipropilena terorientasi secara dwipaksi)",
+      "dimensi": "135 × 65 mm",
+      "status": "Dalam edaran",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri ketiga (1996)",
+      "nilai": "RM10",
+      "warna_utama": "Merah",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Tren Putra LRT, pesawat Boeing 777 Malaysia Airlines dan kapal MISC",
+      "tarikh_keluaran": "19 Januari 1998",
+      "catatan": "Kertas (tanpa jalur holografik)",
+      "dimensi": "140 × 65 mm",
+      "status": "Ditarik balik",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri ketiga (1996)",
+      "nilai": "RM10",
+      "warna_utama": "Merah",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Tren Putra LRT, pesawat Boeing 777 Malaysia Airlines dan kapal MISC",
+      "tarikh_keluaran": "5 Januari 2004",
+      "catatan": "Kertas (dengan jalur holografik)",
+      "dimensi": "140 × 65 mm",
+      "status": "Dalam edaran",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri ketiga (1996)",
+      "nilai": "RM50",
+      "warna_utama": "Biru/Kelabu",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Perlombongan, pelantar minyak Petronas",
+      "tarikh_keluaran": "20 Julai 1998",
+      "catatan": "Kertas (dengan jalur holografik)",
+      "dimensi": "145 × 69 mm",
+      "status": "Dalam edaran",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri ketiga (1996)",
+      "nilai": "RM100",
+      "warna_utama": "Ungu",
+      "keterangan_hadapan": "Tuanku Abdul Rahman",
+      "keterangan_belakang": "Barisan pemasangan kereta dan enjin kereta Proton",
+      "tarikh_keluaran": "26 Oktober 1998",
+      "catatan": "Kertas (dengan jalur holografik)",
+      "dimensi": "150 × 69 mm",
+      "status": "Dalam edaran",
+      "substrat": ""
+    },
+    {
+      "siri": "Siri keempat (2008, 2012)",
+      "nilai": "RM1",
+      "warna_utama": "Biru",
+      "keterangan_hadapan": "Tuanku Abdul Rahman dengan bunga kebangsaan, bunga raya",
+      "keterangan_belakang": "Wau bulan",
+      "tarikh_keluaran": "16 Julai 2012",
+      "catatan": "Dalam edaran",
+      "dimensi": "120 × 65 mm",
+      "status": "",
+      "substrat": "Polimer"
+    },
+    {
+      "siri": "Siri keempat (2008, 2012)",
+      "nilai": "RM5",
+      "warna_utama": "Hijau",
+      "keterangan_hadapan": "Tuanku Abdul Rahman dengan bunga kebangsaan, bunga raya",
+      "keterangan_belakang": "Burung kenyalang",
+      "tarikh_keluaran": "16 Julai 2012",
+      "catatan": "Dalam edaran",
+      "dimensi": "135 × 65 mm",
+      "status": "",
+      "substrat": "Polimer"
+    },
+    {
+      "siri": "Siri keempat (2008, 2012)",
+      "nilai": "RM10",
+      "warna_utama": "Merah",
+      "keterangan_hadapan": "Tuanku Abdul Rahman dengan bunga kebangsaan, bunga raya",
+      "keterangan_belakang": "Rafflesia",
+      "tarikh_keluaran": "16 Julai 2012",
+      "catatan": "Dalam edaran",
+      "dimensi": "140 × 65 mm",
+      "status": "",
+      "substrat": "Kertas"
+    },
+    {
+      "siri": "Siri keempat (2008, 2012)",
+      "nilai": "RM20",
+      "warna_utama": "Jingga",
+      "keterangan_hadapan": "Tuanku Abdul Rahman dengan bunga kebangsaan, bunga raya",
+      "keterangan_belakang": "Penyu sisik dan penyu belimbing",
+      "tarikh_keluaran": "16 Julai 2012",
+      "catatan": "Dalam edaran",
+      "dimensi": "145 × 65 mm",
+      "status": "",
+      "substrat": "Kertas"
+    },
+    {
+      "siri": "Siri keempat (2008, 2012)",
+      "nilai": "RM50",
+      "warna_utama": "Biru hijau",
+      "keterangan_hadapan": "Tuanku Abdul Rahman dengan bunga kebangsaan, bunga raya",
+      "keterangan_belakang": "Perdana Menteri pertama Malaysia, Tunku Abdul Rahman Putra Al-Haj, pokok kelapa sawit",
+      "tarikh_keluaran": "15 Julai 2009",
+      "catatan": "Dalam edaran",
+      "dimensi": "145 × 69 mm",
+      "status": "",
+      "substrat": "Kertas"
+    },
+    {
+      "siri": "Siri keempat (2008, 2012)",
+      "nilai": "RM100",
+      "warna_utama": "Ungu",
+      "keterangan_hadapan": "Tuanku Abdul Rahman dengan bunga kebangsaan, bunga raya",
+      "keterangan_belakang": "Gunung Kinabalu dan formasi batu lembah Gunung Api",
+      "tarikh_keluaran": "16 Julai 2012",
+      "catatan": "Dalam edaran",
+      "dimensi": "150 × 69 mm",
+      "status": "",
+      "substrat": "Kertas"
+    },
+    {
+      "siri": "Kenang-kenangan",
+      "nilai": "RM50",
+      "warna_utama": "Kuning dan hijau",
+      "keterangan_hadapan": "Tuanku Abdul Rahman, latar langit Kuala Lumpur (dengan Menara Berkembar Petronas)",
+      "keterangan_belakang": "Kompleks Sukan Bukit Jalil",
+      "tarikh_keluaran": "1 Jun 1998",
+      "catatan": "Polimer (Polipropilena terorientasi secara dwipaksi)",
+      "dimensi": "152 × 76 mm",
+      "status": "",
+      "substrat": ""
+    },
+    {
+      "siri": "Kenang-kenangan",
+      "nilai": "RM50",
+      "warna_utama": "Biru dan hijau",
+      "keterangan_hadapan": "Tuanku Abdul Rahman dengan bunga raya",
+      "keterangan_belakang": "Tunku Abdul Rahman Putra Al-Haj dan logo Hari Kemerdekaan ke-50, pokok kelapa sawit",
+      "tarikh_keluaran": "26 Disember 2007",
+      "catatan": "Siri keempat kenang-kenangan tidak lagi dikeluarkan, dikenali dengan tepi kuning di kedua-dua sisi (AA 0000001 hingga AA 0020000). Awalan AA 0020001 hingga AE untuk edaran umum.",
+      "dimensi": "145 × 69 mm",
+      "status": "",
+      "substrat": ""
+    }
+  ],
+  "meta": {
+    "title": "Wang Kertas Ringgit Malaysia Mengikut Siri - Muat turun percuma",
+    "description": "Wang kertas ringgit Malaysia dari siri pertama (1967) hingga siri keempat dan wang kertas kenang-kenangan: nilai, dimensi, warna, reka bentuk, tarikh keluaran dan status. Mengandungi 38 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Wang Kertas Ringgit Malaysia Mengikut Siri | ListBase",
+    "seo_description": "Muat turun Wang Kertas Ringgit Malaysia Mengikut Siri — 38 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 38 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Ringgit"
+    ]
+  }
+}
