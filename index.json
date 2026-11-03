@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-03T02:34:26.490Z",
-  "total_datasets": 684,
-  "total_records": 551346,
+  "generated": "2026-11-03T02:34:34.902Z",
+  "total_datasets": 685,
+  "total_records": 551379,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -19177,6 +19177,33 @@
         "xlsx": {
           "name": "ms-ketibaan-pelawat-asing_MS.xlsx",
           "size": 56994
+        }
+      }
+    },
+    {
+      "id": "ms-menteri-pelancongan-kebudayaan",
+      "name": "Senarai Menteri Pelancongan, Kesenian dan Kebudayaan Malaysia",
+      "category": "tourism",
+      "record_count": 33,
+      "columns": [
+        "senarai",
+        "nama_dan_kawasan_parlimen",
+        "parti_politik",
+        "gelaran",
+        "tempoh_perkhidmatan",
+        "perdana_menteri_kabinet"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Menteri_Pelancongan,_Seni_dan_Budaya",
+      "updated": "2026-11",
+      "size": 13727,
+      "files": {
+        "csv": {
+          "name": "ms-menteri-pelancongan-kebudayaan_MS.csv",
+          "size": 6040
+        },
+        "xlsx": {
+          "name": "ms-menteri-pelancongan-kebudayaan_MS.xlsx",
+          "size": 8646
         }
       }
     },
