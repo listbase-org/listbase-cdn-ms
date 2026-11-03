@@ -1,0 +1,304 @@
+{
+  "id": "ms-syiling-ringgit",
+  "name": "Syiling Ringgit Malaysia Mengikut Siri",
+  "title": "Syiling Ringgit Malaysia Mengikut Siri",
+  "description": "Syiling ringgit Malaysia siri pertama (1967), kedua (1989) dan ketiga (2011): nilai, diameter, jisim, kandungan logam, reka bentuk dan tarikh keluaran.",
+  "category": "finance",
+  "source": "https://ms.wikipedia.org/wiki/Ringgit",
+  "source_url": "https://ms.wikipedia.org/wiki/Ringgit",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "siri",
+      "label": "Siri",
+      "type": "string"
+    },
+    {
+      "key": "nilai",
+      "label": "Nilai",
+      "type": "string"
+    },
+    {
+      "key": "diameter",
+      "label": "Diameter",
+      "type": "string"
+    },
+    {
+      "key": "kandungan",
+      "label": "Kandungan",
+      "type": "string"
+    },
+    {
+      "key": "sisi",
+      "label": "Sisi",
+      "type": "string"
+    },
+    {
+      "key": "keterangan_belakang",
+      "label": "Keterangan Belakang",
+      "type": "string"
+    },
+    {
+      "key": "keterangan_hadapan",
+      "label": "Keterangan Hadapan",
+      "type": "string"
+    },
+    {
+      "key": "tempaan_pertama",
+      "label": "Tempaan Pertama",
+      "type": "number"
+    },
+    {
+      "key": "tarikh_keluaran",
+      "label": "Tarikh Keluaran",
+      "type": "string"
+    },
+    {
+      "key": "jisim",
+      "label": "Jisim",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "1 sen",
+      "diameter": "18 mm",
+      "kandungan": "Gangsa",
+      "sisi": "Kosong",
+      "keterangan_belakang": "Bangunan Parlimen, bintang berbucu 13 dan bulan sabit",
+      "keterangan_hadapan": "Gelaran negara, nilai, tahun ditempa",
+      "tempaan_pertama": "1967",
+      "tarikh_keluaran": "12 Jun 1967",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "1 sen",
+      "diameter": "18 mm",
+      "kandungan": "Keluli bersalut tembaga",
+      "sisi": "Kosong",
+      "keterangan_belakang": "Bangunan Parlimen, bintang berbucu 13 dan bulan sabit",
+      "keterangan_hadapan": "Gelaran negara, nilai, tahun ditempa",
+      "tempaan_pertama": "1973",
+      "tarikh_keluaran": "?",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "5 sen",
+      "diameter": "16 mm",
+      "kandungan": "Kupronikel",
+      "sisi": "Bersuri",
+      "keterangan_belakang": "Bangunan Parlimen, bintang berbucu 13 dan bulan sabit",
+      "keterangan_hadapan": "Gelaran negara, nilai, tahun ditempa",
+      "tempaan_pertama": "1967",
+      "tarikh_keluaran": "12 Jun 1967",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "10 sen",
+      "diameter": "19 mm",
+      "kandungan": "Kupronikel",
+      "sisi": "Bersuri",
+      "keterangan_belakang": "Bangunan Parlimen, bintang berbucu 13 dan bulan sabit",
+      "keterangan_hadapan": "Gelaran negara, nilai, tahun ditempa",
+      "tempaan_pertama": "1967",
+      "tarikh_keluaran": "12 Jun 1967",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "20 sen",
+      "diameter": "23 mm",
+      "kandungan": "Kupronikel",
+      "sisi": "Bersuri",
+      "keterangan_belakang": "Bangunan Parlimen, bintang berbucu 13 dan bulan sabit",
+      "keterangan_hadapan": "Gelaran negara, nilai, tahun ditempa",
+      "tempaan_pertama": "1967",
+      "tarikh_keluaran": "12 Jun 1967",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "50 sen",
+      "diameter": "28 mm",
+      "kandungan": "Kupronikel",
+      "sisi": "Bersuri",
+      "keterangan_belakang": "Bangunan Parlimen, bintang berbucu 13 dan bulan sabit",
+      "keterangan_hadapan": "Gelaran negara, nilai, tahun ditempa",
+      "tempaan_pertama": "1967",
+      "tarikh_keluaran": "12 Jun 1967",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "50 sen",
+      "diameter": "28 mm",
+      "kandungan": "Kupronikel",
+      "sisi": "Berhuruf \" BANK NEGARA MALAYSIA \"",
+      "keterangan_belakang": "Bangunan Parlimen, bintang berbucu 13 dan bulan sabit",
+      "keterangan_hadapan": "Gelaran negara, nilai, tahun ditempa",
+      "tempaan_pertama": "1971",
+      "tarikh_keluaran": "?",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri pertama (1967)",
+      "nilai": "$1",
+      "diameter": "33 mm",
+      "kandungan": "Kupronikel",
+      "sisi": "Berhuruf \" BANK NEGARA MALAYSIA \"",
+      "keterangan_belakang": "Bangunan Parlimen, bintang berbucu 14 dan bulan sabit. Bulan sabit dan bintang ini tampak lebih tirus; bulan sabit itu lebih besar dan terletak di kedudukan yang sama dengan Bangunan Parlimen.",
+      "keterangan_hadapan": "Gelaran negara, nilai, tahun ditempa",
+      "tempaan_pertama": "1971",
+      "tarikh_keluaran": "1 Mei 1971",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri kedua (1989)",
+      "nilai": "1 sen",
+      "diameter": "18 mm",
+      "kandungan": "Keluli bersalut tembaga",
+      "sisi": "Kosong",
+      "keterangan_belakang": "Rebana ubi",
+      "keterangan_hadapan": "Gelaran bank, nilai, tahun ditempa",
+      "tempaan_pertama": "1989",
+      "tarikh_keluaran": "4 September 1989",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri kedua (1989)",
+      "nilai": "5 sen",
+      "diameter": "16 mm",
+      "kandungan": "Kupronikel",
+      "sisi": "Bersuri",
+      "keterangan_belakang": "Gasing",
+      "keterangan_hadapan": "Gelaran bank, nilai, tahun ditempa",
+      "tempaan_pertama": "1989",
+      "tarikh_keluaran": "4 September 1989",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri kedua (1989)",
+      "nilai": "10 sen",
+      "diameter": "19 mm",
+      "kandungan": "Kupronikel",
+      "sisi": "Bersuri",
+      "keterangan_belakang": "Congkak",
+      "keterangan_hadapan": "Gelaran bank, nilai, tahun ditempa",
+      "tempaan_pertama": "1989",
+      "tarikh_keluaran": "4 September 1989",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri kedua (1989)",
+      "nilai": "20 sen",
+      "diameter": "23 mm",
+      "kandungan": "Kupronikel",
+      "sisi": "Bersuri",
+      "keterangan_belakang": "Bekas sirih dan kapur",
+      "keterangan_hadapan": "Gelaran bank, nilai, tahun ditempa",
+      "tempaan_pertama": "1989",
+      "tarikh_keluaran": "4 September 1989",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri kedua (1989)",
+      "nilai": "50 sen",
+      "diameter": "28 mm",
+      "kandungan": "Kupronikel",
+      "sisi": "Berhuruf \" BANK NEGARA MALAYSIA \"",
+      "keterangan_belakang": "Wau",
+      "keterangan_hadapan": "Gelaran bank, nilai, tahun ditempa",
+      "tempaan_pertama": "1989",
+      "tarikh_keluaran": "4 September 1989",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri kedua (1989)",
+      "nilai": "$1",
+      "diameter": "24 mm",
+      "kandungan": "Tembaga - zink - timah",
+      "sisi": "Bersuri",
+      "keterangan_belakang": "Keris dan latar belakang songket",
+      "keterangan_hadapan": "Gelaran bank, \"$1\", tahun ditempa",
+      "tempaan_pertama": "1989",
+      "tarikh_keluaran": "4 September 1989",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri kedua (1989)",
+      "nilai": "$1",
+      "diameter": "24 mm",
+      "kandungan": "Tembaga - zink - timah",
+      "sisi": "Bersuri",
+      "keterangan_belakang": "Keris dan latar belakang songket",
+      "keterangan_hadapan": "Gelaran bank, \"1 RINGGIT\", tahun ditempa",
+      "tempaan_pertama": "1993",
+      "tarikh_keluaran": "?",
+      "jisim": ""
+    },
+    {
+      "siri": "Siri ketiga (2011)",
+      "nilai": "5 sen",
+      "diameter": "17.78 mm",
+      "kandungan": "Keluli tahan karat",
+      "sisi": "Kosong",
+      "keterangan_belakang": "Gelaran bank, nilai, tahun ditempa, bunga raya",
+      "keterangan_hadapan": "14 titik, lima garis melintang, motif sulur kacang, motif destar siga Kadazan-Dusun",
+      "tempaan_pertama": "2011",
+      "tarikh_keluaran": "16 januari 2012",
+      "jisim": "1.72 g"
+    },
+    {
+      "siri": "Siri ketiga (2011)",
+      "nilai": "10 sen",
+      "diameter": "18.80 mm",
+      "kandungan": "Keluli tahan karat",
+      "sisi": "Berkisar",
+      "keterangan_belakang": "Gelaran bank, nilai, tahun ditempa, bunga raya",
+      "keterangan_hadapan": "14 titik, lima garis melintang, Corak anyaman Mah Meri.",
+      "tempaan_pertama": "2011",
+      "tarikh_keluaran": "16 januari 2012",
+      "jisim": "2.98 g"
+    },
+    {
+      "siri": "Siri ketiga (2011)",
+      "nilai": "20 sen",
+      "diameter": "20.60 mm",
+      "kandungan": "Loyang nikel",
+      "sisi": "Kasar",
+      "keterangan_belakang": "Gelaran bank, nilai, tahun ditempa, bunga raya",
+      "keterangan_hadapan": "14 titik, lima garis melintang, motif bunga melur di latar depan dan motif destar siga di latar belakang",
+      "tempaan_pertama": "2011",
+      "tarikh_keluaran": "16 januari 2012",
+      "jisim": "4.18 g"
+    },
+    {
+      "siri": "Siri ketiga (2011)",
+      "nilai": "50 sen",
+      "diameter": "22.65 mm",
+      "kandungan": "Tembaga bersalut loyang nikel",
+      "sisi": "Plain",
+      "keterangan_belakang": "Gelaran bank, nilai, tahun ditempa, bunga raya",
+      "keterangan_hadapan": "14 titik, motif sulur kacang dan garis-garis halus sebagai ciri keselamatan",
+      "tempaan_pertama": "2011",
+      "tarikh_keluaran": "16 januari 2012",
+      "jisim": "5.66 g"
+    }
+  ],
+  "meta": {
+    "title": "Syiling Ringgit Malaysia Mengikut Siri - Muat turun percuma",
+    "description": "Syiling ringgit Malaysia siri pertama (1967), kedua (1989) dan ketiga (2011): nilai, diameter, jisim, kandungan logam, reka bentuk dan tarikh keluaran. Mengandungi 19 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Syiling Ringgit Malaysia Mengikut Siri | ListBase",
+    "seo_description": "Muat turun Syiling Ringgit Malaysia Mengikut Siri — 19 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 19 rekod / 10 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Ringgit"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-03T02:34:34.902Z",
-  "total_datasets": 685,
-  "total_records": 551379,
+  "generated": "2026-11-03T02:34:43.120Z",
+  "total_datasets": 686,
+  "total_records": 551398,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "food",
@@ -3717,6 +3717,37 @@
         "xlsx": {
           "name": "ms-menteri-kewangan_MS.xlsx",
           "size": 8136
+        }
+      }
+    },
+    {
+      "id": "ms-syiling-ringgit",
+      "name": "Syiling Ringgit Malaysia Mengikut Siri",
+      "category": "finance",
+      "record_count": 19,
+      "columns": [
+        "siri",
+        "nilai",
+        "diameter",
+        "kandungan",
+        "sisi",
+        "keterangan_belakang",
+        "keterangan_hadapan",
+        "tempaan_pertama",
+        "tarikh_keluaran",
+        "jisim"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Ringgit",
+      "updated": "2026-11",
+      "size": 10056,
+      "files": {
+        "csv": {
+          "name": "ms-syiling-ringgit_MS.csv",
+          "size": 3767
+        },
+        "xlsx": {
+          "name": "ms-syiling-ringgit_MS.xlsx",
+          "size": 8250
         }
       }
     },
