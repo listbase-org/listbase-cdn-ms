@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-04T02:15:09.016Z",
-  "total_datasets": 689,
-  "total_records": 551847,
+  "generated": "2026-11-04T02:15:18.611Z",
+  "total_datasets": 690,
+  "total_records": 553959,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -2171,6 +2171,33 @@
         "xlsx": {
           "name": "ms-pendapatan-isi-rumah-negeri_MS.xlsx",
           "size": 19952
+        }
+      }
+    },
+    {
+      "id": "ms-pengeluaran-mineral-negeri",
+      "name": "Pengeluaran Mineral mengikut Negeri dan Komoditi (2016–2021)",
+      "category": "economy",
+      "record_count": 2112,
+      "columns": [
+        "negeri",
+        "tahun",
+        "jenis_komoditi",
+        "komoditi",
+        "pengeluaran",
+        "unit"
+      ],
+      "source": "https://data.gov.my/data-catalogue/mineral_extraction",
+      "updated": "2026-11",
+      "size": 384720,
+      "files": {
+        "csv": {
+          "name": "ms-pengeluaran-mineral-negeri_MS.csv",
+          "size": 125103
+        },
+        "xlsx": {
+          "name": "ms-pengeluaran-mineral-negeri_MS.xlsx",
+          "size": 57736
         }
       }
     },
