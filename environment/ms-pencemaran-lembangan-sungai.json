@@ -1,0 +1,896 @@
+{
+  "id": "ms-pencemaran-lembangan-sungai",
+  "name": "Pemantauan Pencemaran Lembangan Sungai Malaysia (2000–2024)",
+  "title": "Pemantauan Pencemaran Lembangan Sungai Malaysia (2000–2024)",
+  "description": "Bilangan dan peratusan lembangan sungai di Malaysia yang dikelaskan sebagai bersih, sedikit tercemar atau tercemar mengikut penunjuk BOD5, NH₃-N dan zarah terampai (SS), data Jabatan Alam Sekitar.",
+  "category": "environment",
+  "source": "https://data.gov.my/data-catalogue/water_pollution_basin",
+  "source_url": "https://data.gov.my/data-catalogue/water_pollution_basin",
+  "updated": "2026-11",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "penunjuk_pencemaran",
+      "label": "Penunjuk Pencemaran",
+      "type": "string"
+    },
+    {
+      "key": "lembangan_dipantau",
+      "label": "Lembangan Dipantau",
+      "type": "number"
+    },
+    {
+      "key": "bil_bersih",
+      "label": "Bil Bersih",
+      "type": "number"
+    },
+    {
+      "key": "peratus_bersih",
+      "label": "Peratus Bersih",
+      "type": "number"
+    },
+    {
+      "key": "bil_sedikit_tercemar",
+      "label": "Bil Sedikit Tercemar",
+      "type": "number"
+    },
+    {
+      "key": "peratus_sedikit_tercemar",
+      "label": "Peratus Sedikit Tercemar",
+      "type": "number"
+    },
+    {
+      "key": "bil_tercemar",
+      "label": "Bil Tercemar",
+      "type": "number"
+    },
+    {
+      "key": "peratus_tercemar",
+      "label": "Peratus Tercemar",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 2000,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 39,
+      "peratus_bersih": 32.5,
+      "bil_sedikit_tercemar": 63,
+      "peratus_sedikit_tercemar": 52.5,
+      "bil_tercemar": 18,
+      "peratus_tercemar": 15
+    },
+    {
+      "tahun": 2000,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 50,
+      "peratus_bersih": 41.67,
+      "bil_sedikit_tercemar": 48,
+      "peratus_sedikit_tercemar": 40,
+      "bil_tercemar": 22,
+      "peratus_tercemar": 18.33
+    },
+    {
+      "tahun": 2000,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 42,
+      "peratus_bersih": 35,
+      "bil_sedikit_tercemar": 25,
+      "peratus_sedikit_tercemar": 20.83,
+      "bil_tercemar": 53,
+      "peratus_tercemar": 44.17
+    },
+    {
+      "tahun": 2001,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 58,
+      "peratus_bersih": 48.33,
+      "bil_sedikit_tercemar": 41,
+      "peratus_sedikit_tercemar": 34.17,
+      "bil_tercemar": 21,
+      "peratus_tercemar": 17.5
+    },
+    {
+      "tahun": 2001,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 53,
+      "peratus_bersih": 44.17,
+      "bil_sedikit_tercemar": 43,
+      "peratus_sedikit_tercemar": 35.83,
+      "bil_tercemar": 24,
+      "peratus_tercemar": 20
+    },
+    {
+      "tahun": 2001,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 57,
+      "peratus_bersih": 47.5,
+      "bil_sedikit_tercemar": 25,
+      "peratus_sedikit_tercemar": 20.83,
+      "bil_tercemar": 38,
+      "peratus_tercemar": 31.67
+    },
+    {
+      "tahun": 2002,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 69,
+      "peratus_bersih": 57.5,
+      "bil_sedikit_tercemar": 29,
+      "peratus_sedikit_tercemar": 24.17,
+      "bil_tercemar": 22,
+      "peratus_tercemar": 18.33
+    },
+    {
+      "tahun": 2002,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 51,
+      "peratus_bersih": 42.5,
+      "bil_sedikit_tercemar": 40,
+      "peratus_sedikit_tercemar": 33.33,
+      "bil_tercemar": 29,
+      "peratus_tercemar": 24.17
+    },
+    {
+      "tahun": 2002,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 78,
+      "peratus_bersih": 65,
+      "bil_sedikit_tercemar": 14,
+      "peratus_sedikit_tercemar": 11.67,
+      "bil_tercemar": 28,
+      "peratus_tercemar": 23.33
+    },
+    {
+      "tahun": 2003,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 76,
+      "peratus_bersih": 63.33,
+      "bil_sedikit_tercemar": 29,
+      "peratus_sedikit_tercemar": 24.17,
+      "bil_tercemar": 15,
+      "peratus_tercemar": 12.5
+    },
+    {
+      "tahun": 2003,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 54,
+      "peratus_bersih": 45,
+      "bil_sedikit_tercemar": 37,
+      "peratus_sedikit_tercemar": 30.83,
+      "bil_tercemar": 29,
+      "peratus_tercemar": 24.17
+    },
+    {
+      "tahun": 2003,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 75,
+      "peratus_bersih": 62.5,
+      "bil_sedikit_tercemar": 17,
+      "peratus_sedikit_tercemar": 14.17,
+      "bil_tercemar": 28,
+      "peratus_tercemar": 23.33
+    },
+    {
+      "tahun": 2004,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 65,
+      "peratus_bersih": 54.17,
+      "bil_sedikit_tercemar": 37,
+      "peratus_sedikit_tercemar": 30.83,
+      "bil_tercemar": 18,
+      "peratus_tercemar": 15
+    },
+    {
+      "tahun": 2004,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 43,
+      "peratus_bersih": 35.83,
+      "bil_sedikit_tercemar": 47,
+      "peratus_sedikit_tercemar": 39.17,
+      "bil_tercemar": 30,
+      "peratus_tercemar": 25
+    },
+    {
+      "tahun": 2004,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 120,
+      "bil_bersih": 78,
+      "peratus_bersih": 65,
+      "bil_sedikit_tercemar": 11,
+      "peratus_sedikit_tercemar": 9.17,
+      "bil_tercemar": 31,
+      "peratus_tercemar": 25.83
+    },
+    {
+      "tahun": 2005,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 146,
+      "bil_bersih": 77,
+      "peratus_bersih": 52.74,
+      "bil_sedikit_tercemar": 41,
+      "peratus_sedikit_tercemar": 28.08,
+      "bil_tercemar": 28,
+      "peratus_tercemar": 19.18
+    },
+    {
+      "tahun": 2005,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 146,
+      "bil_bersih": 49,
+      "peratus_bersih": 33.56,
+      "bil_sedikit_tercemar": 54,
+      "peratus_sedikit_tercemar": 36.99,
+      "bil_tercemar": 43,
+      "peratus_tercemar": 29.45
+    },
+    {
+      "tahun": 2005,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 146,
+      "bil_bersih": 90,
+      "peratus_bersih": 61.64,
+      "bil_sedikit_tercemar": 22,
+      "peratus_sedikit_tercemar": 15.07,
+      "bil_tercemar": 34,
+      "peratus_tercemar": 23.29
+    },
+    {
+      "tahun": 2006,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 146,
+      "bil_bersih": 96,
+      "peratus_bersih": 65.75,
+      "bil_sedikit_tercemar": 28,
+      "peratus_sedikit_tercemar": 19.18,
+      "bil_tercemar": 22,
+      "peratus_tercemar": 15.07
+    },
+    {
+      "tahun": 2006,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 146,
+      "bil_bersih": 49,
+      "peratus_bersih": 33.56,
+      "bil_sedikit_tercemar": 56,
+      "peratus_sedikit_tercemar": 38.36,
+      "bil_tercemar": 41,
+      "peratus_tercemar": 28.08
+    },
+    {
+      "tahun": 2006,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 146,
+      "bil_bersih": 84,
+      "peratus_bersih": 57.53,
+      "bil_sedikit_tercemar": 20,
+      "peratus_sedikit_tercemar": 13.7,
+      "bil_tercemar": 42,
+      "peratus_tercemar": 28.77
+    },
+    {
+      "tahun": 2007,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 94,
+      "peratus_bersih": 65.73,
+      "bil_sedikit_tercemar": 37,
+      "peratus_sedikit_tercemar": 25.87,
+      "bil_tercemar": 12,
+      "peratus_tercemar": 8.39
+    },
+    {
+      "tahun": 2007,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 48,
+      "peratus_bersih": 33.57,
+      "bil_sedikit_tercemar": 59,
+      "peratus_sedikit_tercemar": 41.26,
+      "bil_tercemar": 36,
+      "peratus_tercemar": 25.17
+    },
+    {
+      "tahun": 2007,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 62,
+      "peratus_bersih": 43.36,
+      "bil_sedikit_tercemar": 39,
+      "peratus_sedikit_tercemar": 27.27,
+      "bil_tercemar": 42,
+      "peratus_tercemar": 29.37
+    },
+    {
+      "tahun": 2008,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 79,
+      "peratus_bersih": 55.24,
+      "bil_sedikit_tercemar": 46,
+      "peratus_sedikit_tercemar": 32.17,
+      "bil_tercemar": 18,
+      "peratus_tercemar": 12.59
+    },
+    {
+      "tahun": 2008,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 72,
+      "peratus_bersih": 50.35,
+      "bil_sedikit_tercemar": 38,
+      "peratus_sedikit_tercemar": 26.57,
+      "bil_tercemar": 33,
+      "peratus_tercemar": 23.08
+    },
+    {
+      "tahun": 2008,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 57,
+      "peratus_bersih": 39.86,
+      "bil_sedikit_tercemar": 33,
+      "peratus_sedikit_tercemar": 23.08,
+      "bil_tercemar": 53,
+      "peratus_tercemar": 37.06
+    },
+    {
+      "tahun": 2009,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 28,
+      "peratus_bersih": 19.58,
+      "bil_sedikit_tercemar": 73,
+      "peratus_sedikit_tercemar": 51.05,
+      "bil_tercemar": 42,
+      "peratus_tercemar": 29.37
+    },
+    {
+      "tahun": 2009,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 56,
+      "peratus_bersih": 39.16,
+      "bil_sedikit_tercemar": 47,
+      "peratus_sedikit_tercemar": 32.87,
+      "bil_tercemar": 40,
+      "peratus_tercemar": 27.97
+    },
+    {
+      "tahun": 2009,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 54,
+      "peratus_bersih": 37.76,
+      "bil_sedikit_tercemar": 32,
+      "peratus_sedikit_tercemar": 22.38,
+      "bil_tercemar": 57,
+      "peratus_tercemar": 39.86
+    },
+    {
+      "tahun": 2010,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 12,
+      "peratus_bersih": 8.39,
+      "bil_sedikit_tercemar": 79,
+      "peratus_sedikit_tercemar": 55.24,
+      "bil_tercemar": 52,
+      "peratus_tercemar": 36.36
+    },
+    {
+      "tahun": 2010,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 35,
+      "peratus_bersih": 24.48,
+      "bil_sedikit_tercemar": 66,
+      "peratus_sedikit_tercemar": 46.15,
+      "bil_tercemar": 42,
+      "peratus_tercemar": 29.37
+    },
+    {
+      "tahun": 2010,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 68,
+      "peratus_bersih": 47.55,
+      "bil_sedikit_tercemar": 27,
+      "peratus_sedikit_tercemar": 18.88,
+      "bil_tercemar": 48,
+      "peratus_tercemar": 33.57
+    },
+    {
+      "tahun": 2011,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 3,
+      "peratus_bersih": 2.14,
+      "bil_sedikit_tercemar": 80,
+      "peratus_sedikit_tercemar": 57.14,
+      "bil_tercemar": 57,
+      "peratus_tercemar": 40.71
+    },
+    {
+      "tahun": 2011,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 41,
+      "peratus_bersih": 29.29,
+      "bil_sedikit_tercemar": 64,
+      "peratus_sedikit_tercemar": 45.71,
+      "bil_tercemar": 35,
+      "peratus_tercemar": 25
+    },
+    {
+      "tahun": 2011,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 79,
+      "peratus_bersih": 56.43,
+      "bil_sedikit_tercemar": 26,
+      "peratus_sedikit_tercemar": 18.57,
+      "bil_tercemar": 35,
+      "peratus_tercemar": 25
+    },
+    {
+      "tahun": 2012,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 12,
+      "peratus_bersih": 8.57,
+      "bil_sedikit_tercemar": 69,
+      "peratus_sedikit_tercemar": 49.29,
+      "bil_tercemar": 59,
+      "peratus_tercemar": 42.14
+    },
+    {
+      "tahun": 2012,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 35,
+      "peratus_bersih": 25,
+      "bil_sedikit_tercemar": 67,
+      "peratus_sedikit_tercemar": 47.86,
+      "bil_tercemar": 38,
+      "peratus_tercemar": 27.14
+    },
+    {
+      "tahun": 2012,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 96,
+      "peratus_bersih": 68.57,
+      "bil_sedikit_tercemar": 28,
+      "peratus_sedikit_tercemar": 20,
+      "bil_tercemar": 16,
+      "peratus_tercemar": 11.43
+    },
+    {
+      "tahun": 2013,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 0,
+      "peratus_bersih": 0,
+      "bil_sedikit_tercemar": 46,
+      "peratus_sedikit_tercemar": 32.86,
+      "bil_tercemar": 94,
+      "peratus_tercemar": 67.14
+    },
+    {
+      "tahun": 2013,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 41,
+      "peratus_bersih": 29.29,
+      "bil_sedikit_tercemar": 58,
+      "peratus_sedikit_tercemar": 41.43,
+      "bil_tercemar": 41,
+      "peratus_tercemar": 29.29
+    },
+    {
+      "tahun": 2013,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 105,
+      "peratus_bersih": 75,
+      "bil_sedikit_tercemar": 24,
+      "peratus_sedikit_tercemar": 17.14,
+      "bil_tercemar": 11,
+      "peratus_tercemar": 7.86
+    },
+    {
+      "tahun": 2014,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 0,
+      "peratus_bersih": 0,
+      "bil_sedikit_tercemar": 15,
+      "peratus_sedikit_tercemar": 10.71,
+      "bil_tercemar": 125,
+      "peratus_tercemar": 89.29
+    },
+    {
+      "tahun": 2014,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 41,
+      "peratus_bersih": 29.29,
+      "bil_sedikit_tercemar": 59,
+      "peratus_sedikit_tercemar": 42.14,
+      "bil_tercemar": 40,
+      "peratus_tercemar": 28.57
+    },
+    {
+      "tahun": 2014,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 99,
+      "peratus_bersih": 70.71,
+      "bil_sedikit_tercemar": 22,
+      "peratus_sedikit_tercemar": 15.71,
+      "bil_tercemar": 19,
+      "peratus_tercemar": 13.57
+    },
+    {
+      "tahun": 2015,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 0,
+      "peratus_bersih": 0,
+      "bil_sedikit_tercemar": 19,
+      "peratus_sedikit_tercemar": 13.57,
+      "bil_tercemar": 121,
+      "peratus_tercemar": 86.43
+    },
+    {
+      "tahun": 2015,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 32,
+      "peratus_bersih": 22.86,
+      "bil_sedikit_tercemar": 65,
+      "peratus_sedikit_tercemar": 46.43,
+      "bil_tercemar": 43,
+      "peratus_tercemar": 30.71
+    },
+    {
+      "tahun": 2015,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 107,
+      "peratus_bersih": 76.43,
+      "bil_sedikit_tercemar": 13,
+      "peratus_sedikit_tercemar": 9.29,
+      "bil_tercemar": 20,
+      "peratus_tercemar": 14.29
+    },
+    {
+      "tahun": 2016,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 0,
+      "peratus_bersih": 0,
+      "bil_sedikit_tercemar": 11,
+      "peratus_sedikit_tercemar": 7.86,
+      "bil_tercemar": 129,
+      "peratus_tercemar": 92.14
+    },
+    {
+      "tahun": 2016,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 19,
+      "peratus_bersih": 13.57,
+      "bil_sedikit_tercemar": 83,
+      "peratus_sedikit_tercemar": 59.29,
+      "bil_tercemar": 38,
+      "peratus_tercemar": 27.14
+    },
+    {
+      "tahun": 2016,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 87,
+      "peratus_bersih": 62.14,
+      "bil_sedikit_tercemar": 23,
+      "peratus_sedikit_tercemar": 16.43,
+      "bil_tercemar": 30,
+      "peratus_tercemar": 21.43
+    },
+    {
+      "tahun": 2017,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 0,
+      "peratus_bersih": 0,
+      "bil_sedikit_tercemar": 50,
+      "peratus_sedikit_tercemar": 35.71,
+      "bil_tercemar": 90,
+      "peratus_tercemar": 64.29
+    },
+    {
+      "tahun": 2017,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 11,
+      "peratus_bersih": 7.86,
+      "bil_sedikit_tercemar": 86,
+      "peratus_sedikit_tercemar": 61.43,
+      "bil_tercemar": 43,
+      "peratus_tercemar": 30.71
+    },
+    {
+      "tahun": 2017,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 140,
+      "bil_bersih": 65,
+      "peratus_bersih": 46.43,
+      "bil_sedikit_tercemar": 45,
+      "peratus_sedikit_tercemar": 32.14,
+      "bil_tercemar": 30,
+      "peratus_tercemar": 21.43
+    },
+    {
+      "tahun": 2018,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 54,
+      "peratus_bersih": 37.76,
+      "bil_sedikit_tercemar": 37,
+      "peratus_sedikit_tercemar": 25.87,
+      "bil_tercemar": 52,
+      "peratus_tercemar": 36.36
+    },
+    {
+      "tahun": 2018,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 5,
+      "peratus_bersih": 3.5,
+      "bil_sedikit_tercemar": 88,
+      "peratus_sedikit_tercemar": 61.54,
+      "bil_tercemar": 50,
+      "peratus_tercemar": 34.97
+    },
+    {
+      "tahun": 2018,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 143,
+      "bil_bersih": 71,
+      "peratus_bersih": 49.65,
+      "bil_sedikit_tercemar": 31,
+      "peratus_sedikit_tercemar": 21.68,
+      "bil_tercemar": 41,
+      "peratus_tercemar": 28.67
+    },
+    {
+      "tahun": 2019,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 53,
+      "peratus_bersih": 36.81,
+      "bil_sedikit_tercemar": 39,
+      "peratus_sedikit_tercemar": 27.08,
+      "bil_tercemar": 52,
+      "peratus_tercemar": 36.11
+    },
+    {
+      "tahun": 2019,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 12,
+      "peratus_bersih": 8.33,
+      "bil_sedikit_tercemar": 74,
+      "peratus_sedikit_tercemar": 51.39,
+      "bil_tercemar": 58,
+      "peratus_tercemar": 40.28
+    },
+    {
+      "tahun": 2019,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 78,
+      "peratus_bersih": 54.17,
+      "bil_sedikit_tercemar": 36,
+      "peratus_sedikit_tercemar": 25,
+      "bil_tercemar": 30,
+      "peratus_tercemar": 20.83
+    },
+    {
+      "tahun": 2020,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 83,
+      "peratus_bersih": 57.64,
+      "bil_sedikit_tercemar": 46,
+      "peratus_sedikit_tercemar": 31.94,
+      "bil_tercemar": 15,
+      "peratus_tercemar": 10.42
+    },
+    {
+      "tahun": 2020,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 28,
+      "peratus_bersih": 19.44,
+      "bil_sedikit_tercemar": 74,
+      "peratus_sedikit_tercemar": 51.39,
+      "bil_tercemar": 42,
+      "peratus_tercemar": 29.17
+    },
+    {
+      "tahun": 2020,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 110,
+      "peratus_bersih": 76.39,
+      "bil_sedikit_tercemar": 14,
+      "peratus_sedikit_tercemar": 9.72,
+      "bil_tercemar": 20,
+      "peratus_tercemar": 13.89
+    },
+    {
+      "tahun": 2021,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 124,
+      "peratus_bersih": 86.11,
+      "bil_sedikit_tercemar": 11,
+      "peratus_sedikit_tercemar": 7.64,
+      "bil_tercemar": 9,
+      "peratus_tercemar": 6.25
+    },
+    {
+      "tahun": 2021,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 58,
+      "peratus_bersih": 40.28,
+      "bil_sedikit_tercemar": 37,
+      "peratus_sedikit_tercemar": 25.69,
+      "bil_tercemar": 49,
+      "peratus_tercemar": 34.03
+    },
+    {
+      "tahun": 2021,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 127,
+      "peratus_bersih": 88.19,
+      "bil_sedikit_tercemar": 7,
+      "peratus_sedikit_tercemar": 4.86,
+      "bil_tercemar": 10,
+      "peratus_tercemar": 6.94
+    },
+    {
+      "tahun": 2022,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 120,
+      "peratus_bersih": 83.33,
+      "bil_sedikit_tercemar": 10,
+      "peratus_sedikit_tercemar": 6.94,
+      "bil_tercemar": 14,
+      "peratus_tercemar": 9.72
+    },
+    {
+      "tahun": 2022,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 52,
+      "peratus_bersih": 36.11,
+      "bil_sedikit_tercemar": 51,
+      "peratus_sedikit_tercemar": 35.42,
+      "bil_tercemar": 41,
+      "peratus_tercemar": 28.47
+    },
+    {
+      "tahun": 2022,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 118,
+      "peratus_bersih": 81.94,
+      "bil_sedikit_tercemar": 12,
+      "peratus_sedikit_tercemar": 8.33,
+      "bil_tercemar": 14,
+      "peratus_tercemar": 9.72
+    },
+    {
+      "tahun": 2023,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 121,
+      "peratus_bersih": 84.03,
+      "bil_sedikit_tercemar": 12,
+      "peratus_sedikit_tercemar": 8.33,
+      "bil_tercemar": 11,
+      "peratus_tercemar": 7.64
+    },
+    {
+      "tahun": 2023,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 45,
+      "peratus_bersih": 31.25,
+      "bil_sedikit_tercemar": 58,
+      "peratus_sedikit_tercemar": 40.28,
+      "bil_tercemar": 41,
+      "peratus_tercemar": 28.47
+    },
+    {
+      "tahun": 2023,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 117,
+      "peratus_bersih": 81.25,
+      "bil_sedikit_tercemar": 10,
+      "peratus_sedikit_tercemar": 6.94,
+      "bil_tercemar": 17,
+      "peratus_tercemar": 11.81
+    },
+    {
+      "tahun": 2024,
+      "penunjuk_pencemaran": "Permintaan Oksigen Biokimia (BOD5)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 116,
+      "peratus_bersih": 80.56,
+      "bil_sedikit_tercemar": 16,
+      "peratus_sedikit_tercemar": 11.11,
+      "bil_tercemar": 12,
+      "peratus_tercemar": 8.33
+    },
+    {
+      "tahun": 2024,
+      "penunjuk_pencemaran": "Nitrogen Ammonia (NH₃-N)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 61,
+      "peratus_bersih": 42.36,
+      "bil_sedikit_tercemar": 45,
+      "peratus_sedikit_tercemar": 31.25,
+      "bil_tercemar": 38,
+      "peratus_tercemar": 26.39
+    },
+    {
+      "tahun": 2024,
+      "penunjuk_pencemaran": "Zarah Terampai (SS)",
+      "lembangan_dipantau": 144,
+      "bil_bersih": 122,
+      "peratus_bersih": 84.72,
+      "bil_sedikit_tercemar": 10,
+      "peratus_sedikit_tercemar": 6.94,
+      "bil_tercemar": 12,
+      "peratus_tercemar": 8.33
+    }
+  ],
+  "meta": {
+    "title": "Pemantauan Pencemaran Lembangan Sungai Malaysia (2000–2024) - Muat turun percuma",
+    "description": "Bilangan dan peratusan lembangan sungai di Malaysia yang dikelaskan sebagai bersih, sedikit tercemar atau tercemar mengikut penunjuk BOD5, NH₃-N dan zarah terampai (SS), data Jabatan Alam Sekitar. Mengandungi 75 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Pemantauan Pencemaran Lembangan Sungai Malaysia (2000–2024) | ListBase",
+    "seo_description": "Muat turun Pemantauan Pencemaran Lembangan Sungai Malaysia (2000–2024) — 75 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 75 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/water_pollution_basin"
+    ]
+  }
+}

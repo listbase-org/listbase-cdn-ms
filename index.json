@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-04T02:14:58.850Z",
-  "total_datasets": 688,
-  "total_records": 551772,
+  "generated": "2026-11-04T02:15:09.016Z",
+  "total_datasets": 689,
+  "total_records": 551847,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -3417,6 +3417,36 @@
         "xlsx": {
           "name": "ms-pelepasan-gas-rumah-hijau_MS.xlsx",
           "size": 9041
+        }
+      }
+    },
+    {
+      "id": "ms-pencemaran-lembangan-sungai",
+      "name": "Pemantauan Pencemaran Lembangan Sungai Malaysia (2000–2024)",
+      "category": "environment",
+      "record_count": 75,
+      "columns": [
+        "tahun",
+        "penunjuk_pencemaran",
+        "lembangan_dipantau",
+        "bil_bersih",
+        "peratus_bersih",
+        "bil_sedikit_tercemar",
+        "peratus_sedikit_tercemar",
+        "bil_tercemar",
+        "peratus_tercemar"
+      ],
+      "source": "https://data.gov.my/data-catalogue/water_pollution_basin",
+      "updated": "2026-11",
+      "size": 25927,
+      "files": {
+        "csv": {
+          "name": "ms-pencemaran-lembangan-sungai_MS.csv",
+          "size": 6171
+        },
+        "xlsx": {
+          "name": "ms-pencemaran-lembangan-sungai_MS.xlsx",
+          "size": 10125
         }
       }
     },
