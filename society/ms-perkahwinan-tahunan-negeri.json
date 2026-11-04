@@ -1,0 +1,1080 @@
+{
+  "id": "ms-perkahwinan-tahunan-negeri",
+  "name": "Perkahwinan Tahunan mengikut Negeri",
+  "title": "Perkahwinan Tahunan mengikut Negeri",
+  "description": "Jumlah perkahwinan yang didaftarkan setiap tahun mengikut negeri kediaman dan jantina, termasuk kadar perkahwinan bagi setiap 1,000 penduduk yang tidak berkahwin (JPN dan Mahkamah Syariah, data DOSM).",
+  "category": "society",
+  "source": "https://data.gov.my/data-catalogue/marriages_state",
+  "source_url": "https://data.gov.my/data-catalogue/marriages_state",
+  "updated": "2026-11",
+  "record_count": 128,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "perkahwinan_perempuan",
+      "label": "Perkahwinan Perempuan",
+      "type": "number"
+    },
+    {
+      "key": "kadar_perempuan_per_1000",
+      "label": "Kadar Perempuan Per 1000",
+      "type": "number"
+    },
+    {
+      "key": "perkahwinan_lelaki",
+      "label": "Perkahwinan Lelaki",
+      "type": "number"
+    },
+    {
+      "key": "kadar_lelaki_per_1000",
+      "label": "Kadar Lelaki Per 1000",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Johor",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 27308,
+      "kadar_perempuan_per_1000": 27.59,
+      "perkahwinan_lelaki": 27626,
+      "kadar_lelaki_per_1000": 25.82
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 26806,
+      "kadar_perempuan_per_1000": 26.7,
+      "perkahwinan_lelaki": 27153,
+      "kadar_lelaki_per_1000": 25.2
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 26574,
+      "kadar_perempuan_per_1000": 26.4,
+      "perkahwinan_lelaki": 26872,
+      "kadar_lelaki_per_1000": 25.1
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 22917,
+      "kadar_perempuan_per_1000": 22.7,
+      "perkahwinan_lelaki": 22865,
+      "kadar_lelaki_per_1000": 21.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 24936,
+      "kadar_perempuan_per_1000": 24.2,
+      "perkahwinan_lelaki": 24384,
+      "kadar_lelaki_per_1000": 22.9
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 26539,
+      "kadar_perempuan_per_1000": 25.8,
+      "perkahwinan_lelaki": 26166,
+      "kadar_lelaki_per_1000": 21.1
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 24237,
+      "kadar_perempuan_per_1000": 23.5,
+      "perkahwinan_lelaki": 24142,
+      "kadar_lelaki_per_1000": 19.2
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 24757,
+      "kadar_perempuan_per_1000": 24.2,
+      "perkahwinan_lelaki": 24737,
+      "kadar_lelaki_per_1000": 19.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 13612,
+      "kadar_perempuan_per_1000": 23.08,
+      "perkahwinan_lelaki": 12577,
+      "kadar_lelaki_per_1000": 20.83
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 16123,
+      "kadar_perempuan_per_1000": 27.2,
+      "perkahwinan_lelaki": 14257,
+      "kadar_lelaki_per_1000": 23.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 16420,
+      "kadar_perempuan_per_1000": 27.7,
+      "perkahwinan_lelaki": 14384,
+      "kadar_lelaki_per_1000": 23.8
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 16809,
+      "kadar_perempuan_per_1000": 28.4,
+      "perkahwinan_lelaki": 14661,
+      "kadar_lelaki_per_1000": 24.4
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 18790,
+      "kadar_perempuan_per_1000": 32.2,
+      "perkahwinan_lelaki": 15958,
+      "kadar_lelaki_per_1000": 25.6
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 18584,
+      "kadar_perempuan_per_1000": 31.7,
+      "perkahwinan_lelaki": 15768,
+      "kadar_lelaki_per_1000": 25.4
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 15411,
+      "kadar_perempuan_per_1000": 26.4,
+      "perkahwinan_lelaki": 13112,
+      "kadar_lelaki_per_1000": 21.1
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 15327,
+      "kadar_perempuan_per_1000": 26.2,
+      "perkahwinan_lelaki": 13439,
+      "kadar_lelaki_per_1000": 21.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 17300,
+      "kadar_perempuan_per_1000": 32.2,
+      "perkahwinan_lelaki": 14974,
+      "kadar_lelaki_per_1000": 26.61
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 16768,
+      "kadar_perempuan_per_1000": 30.9,
+      "perkahwinan_lelaki": 14700,
+      "kadar_lelaki_per_1000": 25.8
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 16765,
+      "kadar_perempuan_per_1000": 30.8,
+      "perkahwinan_lelaki": 14530,
+      "kadar_lelaki_per_1000": 25.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 16134,
+      "kadar_perempuan_per_1000": 29.5,
+      "perkahwinan_lelaki": 13984,
+      "kadar_lelaki_per_1000": 24.3
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 19912,
+      "kadar_perempuan_per_1000": 35.4,
+      "perkahwinan_lelaki": 22347,
+      "kadar_lelaki_per_1000": 38.8
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 18297,
+      "kadar_perempuan_per_1000": 32.3,
+      "perkahwinan_lelaki": 20558,
+      "kadar_lelaki_per_1000": 35.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 15066,
+      "kadar_perempuan_per_1000": 26.4,
+      "perkahwinan_lelaki": 16925,
+      "kadar_lelaki_per_1000": 29.2
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 14686,
+      "kadar_perempuan_per_1000": 25.6,
+      "perkahwinan_lelaki": 16518,
+      "kadar_lelaki_per_1000": 26.8
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 6742,
+      "kadar_perempuan_per_1000": 27.29,
+      "perkahwinan_lelaki": 6769,
+      "kadar_lelaki_per_1000": 27.22
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 6840,
+      "kadar_perempuan_per_1000": 27.6,
+      "perkahwinan_lelaki": 6971,
+      "kadar_lelaki_per_1000": 28
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 6867,
+      "kadar_perempuan_per_1000": 27.7,
+      "perkahwinan_lelaki": 6826,
+      "kadar_lelaki_per_1000": 27.5
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 6340,
+      "kadar_perempuan_per_1000": 25.6,
+      "perkahwinan_lelaki": 6340,
+      "kadar_lelaki_per_1000": 25.8
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 7413,
+      "kadar_perempuan_per_1000": 27.9,
+      "perkahwinan_lelaki": 7287,
+      "kadar_lelaki_per_1000": 25
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 6920,
+      "kadar_perempuan_per_1000": 26.1,
+      "perkahwinan_lelaki": 6912,
+      "kadar_lelaki_per_1000": 23.7
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 6182,
+      "kadar_perempuan_per_1000": 23.3,
+      "perkahwinan_lelaki": 6119,
+      "kadar_lelaki_per_1000": 20.9
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 6256,
+      "kadar_perempuan_per_1000": 21.2,
+      "perkahwinan_lelaki": 6167,
+      "kadar_lelaki_per_1000": 19.7
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 8752,
+      "kadar_perempuan_per_1000": 30.02,
+      "perkahwinan_lelaki": 9022,
+      "kadar_lelaki_per_1000": 28.52
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 8609,
+      "kadar_perempuan_per_1000": 29.4,
+      "perkahwinan_lelaki": 8807,
+      "kadar_lelaki_per_1000": 27.9
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 8506,
+      "kadar_perempuan_per_1000": 29,
+      "perkahwinan_lelaki": 8689,
+      "kadar_lelaki_per_1000": 27.7
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 7994,
+      "kadar_perempuan_per_1000": 27.3,
+      "perkahwinan_lelaki": 8246,
+      "kadar_lelaki_per_1000": 26.6
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 9285,
+      "kadar_perempuan_per_1000": 27.7,
+      "perkahwinan_lelaki": 9370,
+      "kadar_lelaki_per_1000": 26.6
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 8843,
+      "kadar_perempuan_per_1000": 26.3,
+      "perkahwinan_lelaki": 8915,
+      "kadar_lelaki_per_1000": 25.4
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 7721,
+      "kadar_perempuan_per_1000": 24.2,
+      "perkahwinan_lelaki": 7737,
+      "kadar_lelaki_per_1000": 26.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 7839,
+      "kadar_perempuan_per_1000": 24.5,
+      "perkahwinan_lelaki": 7850,
+      "kadar_lelaki_per_1000": 22
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 12821,
+      "kadar_perempuan_per_1000": 30.85,
+      "perkahwinan_lelaki": 12365,
+      "kadar_lelaki_per_1000": 25.93
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 12439,
+      "kadar_perempuan_per_1000": 29.8,
+      "perkahwinan_lelaki": 12290,
+      "kadar_lelaki_per_1000": 25.7
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 11817,
+      "kadar_perempuan_per_1000": 28.3,
+      "perkahwinan_lelaki": 11867,
+      "kadar_lelaki_per_1000": 25
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 10552,
+      "kadar_perempuan_per_1000": 25.3,
+      "perkahwinan_lelaki": 10702,
+      "kadar_lelaki_per_1000": 22.8
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 10963,
+      "kadar_perempuan_per_1000": 26.1,
+      "perkahwinan_lelaki": 10744,
+      "kadar_lelaki_per_1000": 22.1
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 10916,
+      "kadar_perempuan_per_1000": 25.8,
+      "perkahwinan_lelaki": 10369,
+      "kadar_lelaki_per_1000": 21.3
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 9620,
+      "kadar_perempuan_per_1000": 22.7,
+      "perkahwinan_lelaki": 9202,
+      "kadar_lelaki_per_1000": 18.6
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 9140,
+      "kadar_perempuan_per_1000": 21.4,
+      "perkahwinan_lelaki": 8655,
+      "kadar_lelaki_per_1000": 17.3
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 18726,
+      "kadar_perempuan_per_1000": 28.67,
+      "perkahwinan_lelaki": 17611,
+      "kadar_lelaki_per_1000": 26.88
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 18619,
+      "kadar_perempuan_per_1000": 28.6,
+      "perkahwinan_lelaki": 17616,
+      "kadar_lelaki_per_1000": 27.1
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 18775,
+      "kadar_perempuan_per_1000": 29,
+      "perkahwinan_lelaki": 17629,
+      "kadar_lelaki_per_1000": 27.3
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 17442,
+      "kadar_perempuan_per_1000": 27.1,
+      "perkahwinan_lelaki": 16227,
+      "kadar_lelaki_per_1000": 25.5
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 19035,
+      "kadar_perempuan_per_1000": 28,
+      "perkahwinan_lelaki": 17537,
+      "kadar_lelaki_per_1000": 24.4
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 18059,
+      "kadar_perempuan_per_1000": 26.6,
+      "perkahwinan_lelaki": 16407,
+      "kadar_lelaki_per_1000": 23
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 16023,
+      "kadar_perempuan_per_1000": 23.6,
+      "perkahwinan_lelaki": 14547,
+      "kadar_lelaki_per_1000": 30.8
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 15965,
+      "kadar_perempuan_per_1000": 22.7,
+      "perkahwinan_lelaki": 14524,
+      "kadar_lelaki_per_1000": 20.2
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 2132,
+      "kadar_perempuan_per_1000": 31.01,
+      "perkahwinan_lelaki": 1848,
+      "kadar_lelaki_per_1000": 27.05
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 2119,
+      "kadar_perempuan_per_1000": 30.9,
+      "perkahwinan_lelaki": 1837,
+      "kadar_lelaki_per_1000": 27.1
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 2132,
+      "kadar_perempuan_per_1000": 31.3,
+      "perkahwinan_lelaki": 1829,
+      "kadar_lelaki_per_1000": 27.4
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 2180,
+      "kadar_perempuan_per_1000": 32.1,
+      "perkahwinan_lelaki": 1975,
+      "kadar_lelaki_per_1000": 29.9
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 2480,
+      "kadar_perempuan_per_1000": 30.5,
+      "perkahwinan_lelaki": 2105,
+      "kadar_lelaki_per_1000": 25.3
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 2398,
+      "kadar_perempuan_per_1000": 29.6,
+      "perkahwinan_lelaki": 1965,
+      "kadar_lelaki_per_1000": 23.6
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 2115,
+      "kadar_perempuan_per_1000": 26.2,
+      "perkahwinan_lelaki": 1783,
+      "kadar_lelaki_per_1000": 21.5
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 2594,
+      "kadar_perempuan_per_1000": 32.3,
+      "perkahwinan_lelaki": 2246,
+      "kadar_lelaki_per_1000": 27.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 9488,
+      "kadar_perempuan_per_1000": 20.89,
+      "perkahwinan_lelaki": 9104,
+      "kadar_lelaki_per_1000": 20.15
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 9758,
+      "kadar_perempuan_per_1000": 21.4,
+      "perkahwinan_lelaki": 9394,
+      "kadar_lelaki_per_1000": 20.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 9637,
+      "kadar_perempuan_per_1000": 21.2,
+      "perkahwinan_lelaki": 9411,
+      "kadar_lelaki_per_1000": 20.9
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 8740,
+      "kadar_perempuan_per_1000": 19.4,
+      "perkahwinan_lelaki": 8830,
+      "kadar_lelaki_per_1000": 19.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 9432,
+      "kadar_perempuan_per_1000": 21.4,
+      "perkahwinan_lelaki": 9383,
+      "kadar_lelaki_per_1000": 19.9
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 10002,
+      "kadar_perempuan_per_1000": 22.7,
+      "perkahwinan_lelaki": 10067,
+      "kadar_lelaki_per_1000": 21.6
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 8165,
+      "kadar_perempuan_per_1000": 18.5,
+      "perkahwinan_lelaki": 8281,
+      "kadar_lelaki_per_1000": 17.6
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 8917,
+      "kadar_perempuan_per_1000": 20,
+      "perkahwinan_lelaki": 8949,
+      "kadar_lelaki_per_1000": 18.3
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 14470,
+      "kadar_perempuan_per_1000": 14.51,
+      "perkahwinan_lelaki": 13843,
+      "kadar_lelaki_per_1000": 12.43
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 16340,
+      "kadar_perempuan_per_1000": 16.4,
+      "perkahwinan_lelaki": 15501,
+      "kadar_lelaki_per_1000": 13.9
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 16515,
+      "kadar_perempuan_per_1000": 16.6,
+      "perkahwinan_lelaki": 15447,
+      "kadar_lelaki_per_1000": 13.9
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 12459,
+      "kadar_perempuan_per_1000": 12.7,
+      "perkahwinan_lelaki": 11849,
+      "kadar_lelaki_per_1000": 10.8
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 16830,
+      "kadar_perempuan_per_1000": 18.2,
+      "perkahwinan_lelaki": 15897,
+      "kadar_lelaki_per_1000": 14.8
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 17239,
+      "kadar_perempuan_per_1000": 18.8,
+      "perkahwinan_lelaki": 15855,
+      "kadar_lelaki_per_1000": 15
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 14423,
+      "kadar_perempuan_per_1000": 15,
+      "perkahwinan_lelaki": 13393,
+      "kadar_lelaki_per_1000": 12
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 14357,
+      "kadar_perempuan_per_1000": 12.4,
+      "perkahwinan_lelaki": 13315,
+      "kadar_lelaki_per_1000": 11.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 15024,
+      "kadar_perempuan_per_1000": 22.12,
+      "perkahwinan_lelaki": 15195,
+      "kadar_lelaki_per_1000": 20.99
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 15248,
+      "kadar_perempuan_per_1000": 22.5,
+      "perkahwinan_lelaki": 15530,
+      "kadar_lelaki_per_1000": 21.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 14577,
+      "kadar_perempuan_per_1000": 21.6,
+      "perkahwinan_lelaki": 14858,
+      "kadar_lelaki_per_1000": 20.7
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 12886,
+      "kadar_perempuan_per_1000": 19.2,
+      "perkahwinan_lelaki": 13123,
+      "kadar_lelaki_per_1000": 18.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 14794,
+      "kadar_perempuan_per_1000": 22.9,
+      "perkahwinan_lelaki": 15032,
+      "kadar_lelaki_per_1000": 21.1
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 16382,
+      "kadar_perempuan_per_1000": 25.4,
+      "perkahwinan_lelaki": 16707,
+      "kadar_lelaki_per_1000": 23.6
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 15898,
+      "kadar_perempuan_per_1000": 24.6,
+      "perkahwinan_lelaki": 16028,
+      "kadar_lelaki_per_1000": 22.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 16340,
+      "kadar_perempuan_per_1000": 23.1,
+      "perkahwinan_lelaki": 16443,
+      "kadar_lelaki_per_1000": 23.2
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 34938,
+      "kadar_perempuan_per_1000": 22.59,
+      "perkahwinan_lelaki": 38965,
+      "kadar_lelaki_per_1000": 23.36
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 34760,
+      "kadar_perempuan_per_1000": 22.3,
+      "perkahwinan_lelaki": 38971,
+      "kadar_lelaki_per_1000": 23.2
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 34430,
+      "kadar_perempuan_per_1000": 22.1,
+      "perkahwinan_lelaki": 38775,
+      "kadar_lelaki_per_1000": 23.2
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 29780,
+      "kadar_perempuan_per_1000": 19.1,
+      "perkahwinan_lelaki": 33808,
+      "kadar_lelaki_per_1000": 20.4
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 38856,
+      "kadar_perempuan_per_1000": 23.3,
+      "perkahwinan_lelaki": 42193,
+      "kadar_lelaki_per_1000": 21.6
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 38591,
+      "kadar_perempuan_per_1000": 23.2,
+      "perkahwinan_lelaki": 42825,
+      "kadar_lelaki_per_1000": 22
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 34415,
+      "kadar_perempuan_per_1000": 20.4,
+      "perkahwinan_lelaki": 37595,
+      "kadar_lelaki_per_1000": 18.9
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 35293,
+      "kadar_perempuan_per_1000": 20.7,
+      "perkahwinan_lelaki": 38309,
+      "kadar_lelaki_per_1000": 18.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 11623,
+      "kadar_perempuan_per_1000": 32.41,
+      "perkahwinan_lelaki": 10728,
+      "kadar_lelaki_per_1000": 28.17
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 11219,
+      "kadar_perempuan_per_1000": 30.9,
+      "perkahwinan_lelaki": 10541,
+      "kadar_lelaki_per_1000": 27.4
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 10535,
+      "kadar_perempuan_per_1000": 28.7,
+      "perkahwinan_lelaki": 10113,
+      "kadar_lelaki_per_1000": 26.1
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 10631,
+      "kadar_perempuan_per_1000": 28.7,
+      "perkahwinan_lelaki": 10302,
+      "kadar_lelaki_per_1000": 26.5
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 12442,
+      "kadar_perempuan_per_1000": 36.6,
+      "perkahwinan_lelaki": 10846,
+      "kadar_lelaki_per_1000": 29.7
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 11254,
+      "kadar_perempuan_per_1000": 32.7,
+      "perkahwinan_lelaki": 9671,
+      "kadar_lelaki_per_1000": 26.2
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 9219,
+      "kadar_perempuan_per_1000": 26.5,
+      "perkahwinan_lelaki": 7969,
+      "kadar_lelaki_per_1000": 21.2
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 9084,
+      "kadar_perempuan_per_1000": 25.1,
+      "perkahwinan_lelaki": 7731,
+      "kadar_lelaki_per_1000": 20.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 9866,
+      "kadar_perempuan_per_1000": 22.27,
+      "perkahwinan_lelaki": 12033,
+      "kadar_lelaki_per_1000": 26.27
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 9777,
+      "kadar_perempuan_per_1000": 22.3,
+      "perkahwinan_lelaki": 11766,
+      "kadar_lelaki_per_1000": 25.9
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 9245,
+      "kadar_perempuan_per_1000": 21.3,
+      "perkahwinan_lelaki": 11358,
+      "kadar_lelaki_per_1000": 25.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 8845,
+      "kadar_perempuan_per_1000": 20.7,
+      "perkahwinan_lelaki": 10645,
+      "kadar_lelaki_per_1000": 24.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 9539,
+      "kadar_perempuan_per_1000": 20.9,
+      "perkahwinan_lelaki": 11457,
+      "kadar_lelaki_per_1000": 23.9
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 9709,
+      "kadar_perempuan_per_1000": 21.5,
+      "perkahwinan_lelaki": 11419,
+      "kadar_lelaki_per_1000": 24.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 8713,
+      "kadar_perempuan_per_1000": 19.3,
+      "perkahwinan_lelaki": 10217,
+      "kadar_lelaki_per_1000": 21.6
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 8885,
+      "kadar_perempuan_per_1000": 19.5,
+      "perkahwinan_lelaki": 10413,
+      "kadar_lelaki_per_1000": 21.3
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 501,
+      "kadar_perempuan_per_1000": 19.95,
+      "perkahwinan_lelaki": 603,
+      "kadar_lelaki_per_1000": 23.33
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 487,
+      "kadar_perempuan_per_1000": 19.3,
+      "perkahwinan_lelaki": 554,
+      "kadar_lelaki_per_1000": 21.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 469,
+      "kadar_perempuan_per_1000": 18.7,
+      "perkahwinan_lelaki": 625,
+      "kadar_lelaki_per_1000": 24.3
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 399,
+      "kadar_perempuan_per_1000": 15.9,
+      "perkahwinan_lelaki": 531,
+      "kadar_lelaki_per_1000": 20.9
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 625,
+      "kadar_perempuan_per_1000": 23.6,
+      "perkahwinan_lelaki": 757,
+      "kadar_lelaki_per_1000": 26.3
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 548,
+      "kadar_perempuan_per_1000": 20.8,
+      "perkahwinan_lelaki": 673,
+      "kadar_lelaki_per_1000": 23.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 434,
+      "kadar_perempuan_per_1000": 16.3,
+      "perkahwinan_lelaki": 555,
+      "kadar_lelaki_per_1000": 19.2
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 404,
+      "kadar_perempuan_per_1000": 15,
+      "perkahwinan_lelaki": 499,
+      "kadar_lelaki_per_1000": 17
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2017,
+      "perkahwinan_perempuan": 438,
+      "kadar_perempuan_per_1000": 16.97,
+      "perkahwinan_lelaki": 478,
+      "kadar_lelaki_per_1000": 21.02
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2018,
+      "perkahwinan_perempuan": 440,
+      "kadar_perempuan_per_1000": 15.3,
+      "perkahwinan_lelaki": 464,
+      "kadar_lelaki_per_1000": 18.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2019,
+      "perkahwinan_perempuan": 397,
+      "kadar_perempuan_per_1000": 12.9,
+      "perkahwinan_lelaki": 448,
+      "kadar_lelaki_per_1000": 16.6
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2020,
+      "perkahwinan_perempuan": 481,
+      "kadar_perempuan_per_1000": 14.8,
+      "perkahwinan_lelaki": 501,
+      "kadar_lelaki_per_1000": 17.9
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2021,
+      "perkahwinan_perempuan": 641,
+      "kadar_perempuan_per_1000": 18.8,
+      "perkahwinan_lelaki": 676,
+      "kadar_lelaki_per_1000": 20.9
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2022,
+      "perkahwinan_perempuan": 543,
+      "kadar_perempuan_per_1000": 15.7,
+      "perkahwinan_lelaki": 547,
+      "kadar_lelaki_per_1000": 16.9
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2023,
+      "perkahwinan_perempuan": 458,
+      "kadar_perempuan_per_1000": 13.1,
+      "perkahwinan_lelaki": 495,
+      "kadar_lelaki_per_1000": 15
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2024,
+      "perkahwinan_perempuan": 460,
+      "kadar_perempuan_per_1000": 13,
+      "perkahwinan_lelaki": 509,
+      "kadar_lelaki_per_1000": ""
+    }
+  ],
+  "meta": {
+    "title": "Perkahwinan Tahunan mengikut Negeri - Muat turun percuma",
+    "description": "Jumlah perkahwinan yang didaftarkan setiap tahun mengikut negeri kediaman dan jantina, termasuk kadar perkahwinan bagi setiap 1,000 penduduk yang tidak berkahwin (JPN dan Mahkamah Syariah, data DOSM). Mengandungi 128 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Perkahwinan Tahunan mengikut Negeri | ListBase",
+    "seo_description": "Muat turun Perkahwinan Tahunan mengikut Negeri — 128 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 128 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/marriages_state"
+    ]
+  }
+}

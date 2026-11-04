@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-04T02:15:18.611Z",
-  "total_datasets": 690,
-  "total_records": 553959,
+  "generated": "2026-11-04T02:15:28.900Z",
+  "total_datasets": 691,
+  "total_records": 554087,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -18109,6 +18109,33 @@
         "xlsx": {
           "name": "ms-penduduk-daerah_MS.xlsx",
           "size": 14335
+        }
+      }
+    },
+    {
+      "id": "ms-perkahwinan-tahunan-negeri",
+      "name": "Perkahwinan Tahunan mengikut Negeri",
+      "category": "society",
+      "record_count": 128,
+      "columns": [
+        "negeri",
+        "tahun",
+        "perkahwinan_perempuan",
+        "kadar_perempuan_per_1000",
+        "perkahwinan_lelaki",
+        "kadar_lelaki_per_1000"
+      ],
+      "source": "https://data.gov.my/data-catalogue/marriages_state",
+      "updated": "2026-11",
+      "size": 28957,
+      "files": {
+        "csv": {
+          "name": "ms-perkahwinan-tahunan-negeri_MS.csv",
+          "size": 6205
+        },
+        "xlsx": {
+          "name": "ms-perkahwinan-tahunan-negeri_MS.xlsx",
+          "size": 10912
         }
       }
     },
