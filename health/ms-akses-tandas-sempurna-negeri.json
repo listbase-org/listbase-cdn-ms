@@ -1,0 +1,1721 @@
+{
+  "id": "ms-akses-tandas-sempurna-negeri",
+  "name": "Akses kepada Tandas Sempurna mengikut Negeri",
+  "title": "Akses kepada Tandas Sempurna mengikut Negeri",
+  "description": "Peratusan isi rumah di kawasan luar bandar yang mempunyai akses kepada tandas sempurna mengikut negeri, daripada tinjauan unit BAKAS Kementerian Kesihatan Malaysia.",
+  "category": "health",
+  "source": "https://data.gov.my/data-catalogue/sanitation_access",
+  "source_url": "https://data.gov.my/data-catalogue/sanitation_access",
+  "updated": "2026-11",
+  "record_count": 336,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "peratus_akses_tandas_sempurna",
+      "label": "Peratus Akses Tandas Sempurna",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Malaysia",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 96.85
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 98.66
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 98.67
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 98.57
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 98.02
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 98.26
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 97.88
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 97.93
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 97.92
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 97.67
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 97.29
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 97.08
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 96
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 96.14
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 95.83
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 96.04
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 96.32
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 95.92
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 95.25
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 95.91
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 96.38
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 96.11
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 95.75
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 94.47
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 99.3
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 99.54
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 99.62
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 99.66
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 99.66
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 99.81
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 99.9
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 99.63
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 99.26
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 99.07
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 99.56
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 99.6
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 99.19
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 98.1
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 98.53
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 97.91
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 98.78
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 97.66
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 98.86
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 98.89
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 98.39
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 98.39
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 97.62
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 99.9
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 99.8
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 99.55
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 99.43
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 98.34
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 98.69
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 98.56
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 98.56
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 99.13
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 99.11
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 99.19
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 99.29
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 99.2
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 98.97
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 98.14
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 98.43
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 97.57
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 97.78
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 97.39
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 97.74
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 99.05
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 97.41
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 96.57
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 98.6
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 88.46
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 96.33
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 98.45
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 98.42
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 98.45
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 98.7
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 97.42
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 98.68
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 98.76
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 98.54
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 98.53
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 98.17
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 98.5
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 98.66
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 98.77
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 99.11
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 98.94
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 97.84
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 98.15
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 99.49
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 99.6
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 99.15
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 99.64
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 98.13
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 99.36
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 99.11
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 99.17
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 99.13
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 99.82
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 99.92
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 99.79
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 99.83
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 99.97
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 99.98
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 99.98
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 99.99
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 98.61
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 99.91
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 99.9
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 99.94
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 99.91
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 99.92
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 99.93
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 99.96
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 99.72
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 99.15
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 99.39
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 99.44
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 98.07
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 99.4
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 99.43
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 99.28
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 92.84
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 92.94
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 99.12
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 98.91
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 98.93
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 99.16
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 99.28
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 99.35
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 94.63
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 99.56
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 99.53
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 99.69
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 98.95
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 94.73
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 98.37
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 97.69
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 98.71
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 98.18
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 97.82
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 94.49
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 94.95
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 98.3
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 91.12
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 91.3
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 93.68
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 96.08
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 95.22
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 95.95
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 95.82
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 95.95
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 96.06
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 93.12
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 99.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 99.78
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 99.76
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 99.71
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 99.72
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 99.74
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 97.69
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 99.74
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 99.81
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 99.83
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 99.78
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 99.86
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 99.6
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 99.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 99.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 98.94
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 99.12
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 99.35
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 93.47
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 94.15
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 94.47
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 93.96
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 97.06
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 97.69
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 99.07
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 98.99
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 98.92
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 98.96
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 98.95
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 99.15
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 97.69
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 98.61
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 98.3
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 98.04
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 97.93
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 97.33
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 96.6
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 96.96
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 96.83
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 96.72
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 97.51
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 97.51
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 97.7
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 97.67
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 97.78
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 97.81
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 97.89
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 98.06
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 99.11
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 99.22
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 99.26
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 99.52
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 99.49
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 99.42
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 97.69
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 99.11
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 99.67
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 99.46
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 99.08
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 98.93
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 98.4
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 98.65
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 98.3
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 97.77
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 97.32
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 97.09
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 98.5
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 98.34
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 98.43
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 98.31
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 98.77
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 98.64
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 97.88
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 98.38
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 98.46
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 98.49
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 98.47
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 98.69
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 97.69
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 99.17
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 99.14
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 99.01
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 99.04
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 98.68
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 98
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 97.2
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 88.2
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 91.97
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 90.28
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 89.44
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 89.47
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 96.08
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 95.67
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 96.36
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 97.58
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 97.73
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 99.2
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 99.37
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 99.43
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 99.43
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 99.39
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 99.43
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 97.69
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 99.94
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 99.63
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 99.54
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 98.1
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 99.1
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 99.78
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 99.96
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 99.98
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 99.98
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 99.87
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 99.99
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 99.97
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 99.98
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 99.99
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 99.99
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 93.56
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 96.29
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 95.32
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 96.06
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 94.42
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 92.79
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 97.69
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 96.27
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 93.14
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 90.95
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 90.51
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 89.07
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 84.5
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 85.07
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 87.95
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 85.47
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 84.11
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 84.93
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 84.88
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 85.19
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 85.93
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 85.03
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 79.58
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 70.84
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2001,
+      "peratus_akses_tandas_sempurna": 97.24
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2002,
+      "peratus_akses_tandas_sempurna": 99.68
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2003,
+      "peratus_akses_tandas_sempurna": 98.22
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2004,
+      "peratus_akses_tandas_sempurna": 97.33
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2005,
+      "peratus_akses_tandas_sempurna": 98.28
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2006,
+      "peratus_akses_tandas_sempurna": 98.44
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2007,
+      "peratus_akses_tandas_sempurna": 97.69
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2008,
+      "peratus_akses_tandas_sempurna": 91.75
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2009,
+      "peratus_akses_tandas_sempurna": 96.65
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2010,
+      "peratus_akses_tandas_sempurna": 95.55
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2011,
+      "peratus_akses_tandas_sempurna": 95.17
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2012,
+      "peratus_akses_tandas_sempurna": 95.62
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2013,
+      "peratus_akses_tandas_sempurna": 90.8
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2014,
+      "peratus_akses_tandas_sempurna": 94.54
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2015,
+      "peratus_akses_tandas_sempurna": 93.79
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "peratus_akses_tandas_sempurna": 94.08
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "peratus_akses_tandas_sempurna": 98.21
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "peratus_akses_tandas_sempurna": 92.25
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "peratus_akses_tandas_sempurna": 88.23
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "peratus_akses_tandas_sempurna": 88.22
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "peratus_akses_tandas_sempurna": 90.07
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "peratus_akses_tandas_sempurna": 91.56
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "peratus_akses_tandas_sempurna": 91.82
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "peratus_akses_tandas_sempurna": 91.31
+    }
+  ],
+  "meta": {
+    "title": "Akses kepada Tandas Sempurna mengikut Negeri - Muat turun percuma",
+    "description": "Peratusan isi rumah di kawasan luar bandar yang mempunyai akses kepada tandas sempurna mengikut negeri, daripada tinjauan unit BAKAS Kementerian Kesihatan Malaysia. Mengandungi 336 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Akses kepada Tandas Sempurna mengikut Negeri | ListBase",
+    "seo_description": "Muat turun Akses kepada Tandas Sempurna mengikut Negeri — 336 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 336 rekod / 3 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/sanitation_access"
+    ]
+  }
+}
