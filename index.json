@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-04T02:15:28.900Z",
-  "total_datasets": 691,
-  "total_records": 554087,
+  "generated": "2026-11-05T02:17:23.028Z",
+  "total_datasets": 692,
+  "total_records": 554138,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -3962,6 +3962,31 @@
         "xlsx": {
           "name": "ms-kuih-tradisional_MS.xlsx",
           "size": 8105
+        }
+      }
+    },
+    {
+      "id": "ms-masakan-cina-malaysia",
+      "name": "Hidangan Masakan Cina Malaysia",
+      "category": "food",
+      "record_count": 51,
+      "columns": [
+        "hidangan",
+        "nama_asal",
+        "kumpulan",
+        "keterangan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Masakan_Cina_Malaysia",
+      "updated": "2026-11",
+      "size": 26301,
+      "files": {
+        "csv": {
+          "name": "ms-masakan-cina-malaysia_MS.csv",
+          "size": 20180
+        },
+        "xlsx": {
+          "name": "ms-masakan-cina-malaysia_MS.xlsx",
+          "size": 15637
         }
       }
     },
