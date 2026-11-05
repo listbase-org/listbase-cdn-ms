@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-05T02:17:42.516Z",
-  "total_datasets": 694,
-  "total_records": 554393,
+  "generated": "2026-11-05T02:17:56.283Z",
+  "total_datasets": 695,
+  "total_records": 554424,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 20
+      "dataset_count": 21
     },
     {
       "id": "history",
@@ -5120,6 +5120,38 @@
         "xlsx": {
           "name": "ms-selangor-fasiliti-kesihatan_MS.xlsx",
           "size": 63819
+        }
+      }
+    },
+    {
+      "id": "ms-status-nutrisi-kanak-kanak-negeri",
+      "name": "Status Nutrisi Kanak-Kanak bawah 5 Tahun mengikut Negeri",
+      "category": "health",
+      "record_count": 31,
+      "columns": [
+        "negeri",
+        "tahun",
+        "kurang_berat_badan_pct",
+        "berat_untuk_umur_normal_pct",
+        "berat_untuk_umur_berlebihan_pct",
+        "terbantut_pct",
+        "tinggi_untuk_umur_normal_pct",
+        "tinggi_pct",
+        "tersusut_pct",
+        "berat_untuk_tinggi_normal_pct",
+        "berat_untuk_tinggi_berlebihan_pct"
+      ],
+      "source": "https://data.gov.my/data-catalogue/nutrition_children_state",
+      "updated": "2026-11",
+      "size": 15337,
+      "files": {
+        "csv": {
+          "name": "ms-status-nutrisi-kanak-kanak-negeri_MS.csv",
+          "size": 2573
+        },
+        "xlsx": {
+          "name": "ms-status-nutrisi-kanak-kanak-negeri_MS.xlsx",
+          "size": 8725
         }
       }
     },
