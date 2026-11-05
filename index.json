@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-05T02:17:23.028Z",
-  "total_datasets": 692,
-  "total_records": 554138,
+  "generated": "2026-11-05T02:17:33.357Z",
+  "total_datasets": 693,
+  "total_records": 554348,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "time",
@@ -18499,6 +18499,39 @@
         "xlsx": {
           "name": "ms-menteri-sains-teknologi_MS.xlsx",
           "size": 7977
+        }
+      }
+    },
+    {
+      "id": "ms-pendaftaran-domain-my",
+      "name": "Pendaftaran Domain .MY (Kumulatif Bulanan)",
+      "category": "tech",
+      "record_count": 210,
+      "columns": [
+        "tarikh",
+        "jumlah_keseluruhan",
+        "domain_my",
+        "domain_com_my",
+        "domain_biz_my",
+        "domain_net_my",
+        "domain_org_my",
+        "domain_gov_my",
+        "domain_edu_my",
+        "domain_mil_my",
+        "domain_name_my",
+        "domain_coop_my"
+      ],
+      "source": "https://data.gov.my/data-catalogue/domains",
+      "updated": "2026-11",
+      "size": 77737,
+      "files": {
+        "csv": {
+          "name": "ms-pendaftaran-domain-my_MS.csv",
+          "size": 17914
+        },
+        "xlsx": {
+          "name": "ms-pendaftaran-domain-my_MS.xlsx",
+          "size": 21236
         }
       }
     },
