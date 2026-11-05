@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-05T02:17:33.357Z",
-  "total_datasets": 693,
-  "total_records": 554348,
+  "generated": "2026-11-05T02:17:42.516Z",
+  "total_datasets": 694,
+  "total_records": 554393,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -3528,6 +3528,36 @@
         "xlsx": {
           "name": "ms-pengeluaran-penggunaan-air-negeri_MS.xlsx",
           "size": 16125
+        }
+      }
+    },
+    {
+      "id": "ms-penggunaan-tenaga-akhir-sektor",
+      "name": "Penggunaan Tenaga Akhir Malaysia mengikut Sektor",
+      "category": "environment",
+      "record_count": 45,
+      "columns": [
+        "tahun",
+        "jumlah_ktoe",
+        "kediaman_ktoe",
+        "komersial_ktoe",
+        "perindustrian_ktoe",
+        "pengangkutan_ktoe",
+        "pertanian_ktoe",
+        "perikanan_ktoe",
+        "kegunaan_bukan_tenaga_ktoe"
+      ],
+      "source": "https://data.gov.my/data-catalogue/energy_consumption_sector",
+      "updated": "2026-11",
+      "size": 15176,
+      "files": {
+        "csv": {
+          "name": "ms-penggunaan-tenaga-akhir-sektor_MS.csv",
+          "size": 2856
+        },
+        "xlsx": {
+          "name": "ms-penggunaan-tenaga-akhir-sektor_MS.xlsx",
+          "size": 9127
         }
       }
     },

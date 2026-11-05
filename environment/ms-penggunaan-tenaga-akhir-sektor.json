@@ -1,0 +1,566 @@
+{
+  "id": "ms-penggunaan-tenaga-akhir-sektor",
+  "name": "Penggunaan Tenaga Akhir Malaysia mengikut Sektor",
+  "title": "Penggunaan Tenaga Akhir Malaysia mengikut Sektor",
+  "description": "Penggunaan tenaga akhir tahunan Malaysia (ktoe) mengikut sektor: kediaman, komersial, perindustrian, pengangkutan, pertanian, perikanan dan kegunaan bukan tenaga (Suruhanjaya Tenaga).",
+  "category": "environment",
+  "source": "https://data.gov.my/data-catalogue/energy_consumption_sector",
+  "source_url": "https://data.gov.my/data-catalogue/energy_consumption_sector",
+  "updated": "2026-11",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "jumlah_ktoe",
+      "label": "Jumlah Ktoe",
+      "type": "number"
+    },
+    {
+      "key": "kediaman_ktoe",
+      "label": "Kediaman Ktoe",
+      "type": "number"
+    },
+    {
+      "key": "komersial_ktoe",
+      "label": "Komersial Ktoe",
+      "type": "number"
+    },
+    {
+      "key": "perindustrian_ktoe",
+      "label": "Perindustrian Ktoe",
+      "type": "number"
+    },
+    {
+      "key": "pengangkutan_ktoe",
+      "label": "Pengangkutan Ktoe",
+      "type": "number"
+    },
+    {
+      "key": "pertanian_ktoe",
+      "label": "Pertanian Ktoe",
+      "type": "number"
+    },
+    {
+      "key": "perikanan_ktoe",
+      "label": "Perikanan Ktoe",
+      "type": "number"
+    },
+    {
+      "key": "kegunaan_bukan_tenaga_ktoe",
+      "label": "Kegunaan Bukan Tenaga Ktoe",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 1980,
+      "jumlah_ktoe": 6385,
+      "kediaman_ktoe": 0,
+      "komersial_ktoe": 826,
+      "perindustrian_ktoe": 2870,
+      "pengangkutan_ktoe": 2398,
+      "pertanian_ktoe": 0,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 291
+    },
+    {
+      "tahun": 1981,
+      "jumlah_ktoe": 6979,
+      "kediaman_ktoe": 0,
+      "komersial_ktoe": 884,
+      "perindustrian_ktoe": 3221,
+      "pengangkutan_ktoe": 2587,
+      "pertanian_ktoe": 0,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 287
+    },
+    {
+      "tahun": 1982,
+      "jumlah_ktoe": 7233,
+      "kediaman_ktoe": 0,
+      "komersial_ktoe": 942,
+      "perindustrian_ktoe": 3165,
+      "pengangkutan_ktoe": 2794,
+      "pertanian_ktoe": 0,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 332
+    },
+    {
+      "tahun": 1983,
+      "jumlah_ktoe": 7850,
+      "kediaman_ktoe": 0,
+      "komersial_ktoe": 1040,
+      "perindustrian_ktoe": 3301,
+      "pengangkutan_ktoe": 3170,
+      "pertanian_ktoe": 0,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 339
+    },
+    {
+      "tahun": 1984,
+      "jumlah_ktoe": 8045,
+      "kediaman_ktoe": 0,
+      "komersial_ktoe": 1099,
+      "perindustrian_ktoe": 3304,
+      "pengangkutan_ktoe": 3300,
+      "pertanian_ktoe": 0,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 342
+    },
+    {
+      "tahun": 1985,
+      "jumlah_ktoe": 8612,
+      "kediaman_ktoe": 0,
+      "komersial_ktoe": 1123,
+      "perindustrian_ktoe": 3489,
+      "pengangkutan_ktoe": 3377,
+      "pertanian_ktoe": 0,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 623
+    },
+    {
+      "tahun": 1986,
+      "jumlah_ktoe": 9368,
+      "kediaman_ktoe": 0,
+      "komersial_ktoe": 1233,
+      "perindustrian_ktoe": 3430,
+      "pengangkutan_ktoe": 3726,
+      "pertanian_ktoe": 0,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 979
+    },
+    {
+      "tahun": 1987,
+      "jumlah_ktoe": 9983,
+      "kediaman_ktoe": 0,
+      "komersial_ktoe": 1297,
+      "perindustrian_ktoe": 3709,
+      "pengangkutan_ktoe": 3929,
+      "pertanian_ktoe": 0,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 1048
+    },
+    {
+      "tahun": 1988,
+      "jumlah_ktoe": 10456,
+      "kediaman_ktoe": 0,
+      "komersial_ktoe": 1435,
+      "perindustrian_ktoe": 3722,
+      "pengangkutan_ktoe": 4278,
+      "pertanian_ktoe": 0,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 1021
+    },
+    {
+      "tahun": 1989,
+      "jumlah_ktoe": 11848,
+      "kediaman_ktoe": 0,
+      "komersial_ktoe": 1495,
+      "perindustrian_ktoe": 4704,
+      "pengangkutan_ktoe": 4684,
+      "pertanian_ktoe": 0,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 965
+    },
+    {
+      "tahun": 1990,
+      "jumlah_ktoe": 12229,
+      "kediaman_ktoe": 480,
+      "komersial_ktoe": 249,
+      "perindustrian_ktoe": 5276,
+      "pengangkutan_ktoe": 5386,
+      "pertanian_ktoe": 0,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 838
+    },
+    {
+      "tahun": 1991,
+      "jumlah_ktoe": 13541,
+      "kediaman_ktoe": 486,
+      "komersial_ktoe": 239,
+      "perindustrian_ktoe": 5809,
+      "pengangkutan_ktoe": 5806,
+      "pertanian_ktoe": 130,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 1071
+    },
+    {
+      "tahun": 1992,
+      "jumlah_ktoe": 15072,
+      "kediaman_ktoe": 500,
+      "komersial_ktoe": 278,
+      "perindustrian_ktoe": 6455,
+      "pengangkutan_ktoe": 6226,
+      "pertanian_ktoe": 391,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 1222
+    },
+    {
+      "tahun": 1993,
+      "jumlah_ktoe": 16559,
+      "kediaman_ktoe": 537,
+      "komersial_ktoe": 363,
+      "perindustrian_ktoe": 7012,
+      "pengangkutan_ktoe": 6558,
+      "pertanian_ktoe": 62,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 2027
+    },
+    {
+      "tahun": 1994,
+      "jumlah_ktoe": 17711,
+      "kediaman_ktoe": 568,
+      "komersial_ktoe": 359,
+      "perindustrian_ktoe": 7283,
+      "pengangkutan_ktoe": 7262,
+      "pertanian_ktoe": 422,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 1817
+    },
+    {
+      "tahun": 1995,
+      "jumlah_ktoe": 20326,
+      "kediaman_ktoe": 621,
+      "komersial_ktoe": 378,
+      "perindustrian_ktoe": 8060,
+      "pengangkutan_ktoe": 7827,
+      "pertanian_ktoe": 446,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 2994
+    },
+    {
+      "tahun": 1996,
+      "jumlah_ktoe": 22031,
+      "kediaman_ktoe": 735,
+      "komersial_ktoe": 672,
+      "perindustrian_ktoe": 9443,
+      "pengangkutan_ktoe": 8951,
+      "pertanian_ktoe": 486,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 1744
+    },
+    {
+      "tahun": 1997,
+      "jumlah_ktoe": 26167,
+      "kediaman_ktoe": 1484,
+      "komersial_ktoe": 1588,
+      "perindustrian_ktoe": 10106,
+      "pengangkutan_ktoe": 10201,
+      "pertanian_ktoe": 490,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 2298
+    },
+    {
+      "tahun": 1998,
+      "jumlah_ktoe": 25557,
+      "kediaman_ktoe": 1593,
+      "komersial_ktoe": 1720,
+      "perindustrian_ktoe": 10121,
+      "pengangkutan_ktoe": 9793,
+      "pertanian_ktoe": 307,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 2023
+    },
+    {
+      "tahun": 1999,
+      "jumlah_ktoe": 27228,
+      "kediaman_ktoe": 1730,
+      "komersial_ktoe": 1923,
+      "perindustrian_ktoe": 10277,
+      "pengangkutan_ktoe": 11393,
+      "pertanian_ktoe": 106,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 1799
+    },
+    {
+      "tahun": 2000,
+      "jumlah_ktoe": 29699,
+      "kediaman_ktoe": 1654,
+      "komersial_ktoe": 2214,
+      "perindustrian_ktoe": 11406,
+      "pengangkutan_ktoe": 12071,
+      "pertanian_ktoe": 104,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 2250
+    },
+    {
+      "tahun": 2001,
+      "jumlah_ktoe": 31513,
+      "kediaman_ktoe": 1730,
+      "komersial_ktoe": 2318,
+      "perindustrian_ktoe": 11852,
+      "pengangkutan_ktoe": 13137,
+      "pertanian_ktoe": 98,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 2378
+    },
+    {
+      "tahun": 2002,
+      "jumlah_ktoe": 33290,
+      "kediaman_ktoe": 1867,
+      "komersial_ktoe": 2520,
+      "perindustrian_ktoe": 12854,
+      "pengangkutan_ktoe": 13442,
+      "pertanian_ktoe": 96,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 2511
+    },
+    {
+      "tahun": 2003,
+      "jumlah_ktoe": 34585,
+      "kediaman_ktoe": 1890,
+      "komersial_ktoe": 2509,
+      "perindustrian_ktoe": 13472,
+      "pengangkutan_ktoe": 14271,
+      "pertanian_ktoe": 98,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 2345
+    },
+    {
+      "tahun": 2004,
+      "jumlah_ktoe": 37323,
+      "kediaman_ktoe": 2048,
+      "komersial_ktoe": 2706,
+      "perindustrian_ktoe": 14914,
+      "pengangkutan_ktoe": 15385,
+      "pertanian_ktoe": 87,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 2183
+    },
+    {
+      "tahun": 2005,
+      "jumlah_ktoe": 38284,
+      "kediaman_ktoe": 2183,
+      "komersial_ktoe": 2951,
+      "perindustrian_ktoe": 15583,
+      "pengangkutan_ktoe": 15293,
+      "pertanian_ktoe": 101,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 2173
+    },
+    {
+      "tahun": 2006,
+      "jumlah_ktoe": 38569,
+      "kediaman_ktoe": 2364,
+      "komersial_ktoe": 3061,
+      "perindustrian_ktoe": 15248,
+      "pengangkutan_ktoe": 14819,
+      "pertanian_ktoe": 258,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 2819
+    },
+    {
+      "tahun": 2007,
+      "jumlah_ktoe": 41607,
+      "kediaman_ktoe": 2423,
+      "komersial_ktoe": 3774,
+      "perindustrian_ktoe": 16454,
+      "pengangkutan_ktoe": 15717,
+      "pertanian_ktoe": 281,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 2958
+    },
+    {
+      "tahun": 2008,
+      "jumlah_ktoe": 41968,
+      "kediaman_ktoe": 2683,
+      "komersial_ktoe": 3522,
+      "perindustrian_ktoe": 16205,
+      "pengangkutan_ktoe": 16395,
+      "pertanian_ktoe": 287,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 2876
+    },
+    {
+      "tahun": 2009,
+      "jumlah_ktoe": 40846,
+      "kediaman_ktoe": 2543,
+      "komersial_ktoe": 3793,
+      "perindustrian_ktoe": 14312,
+      "pengangkutan_ktoe": 16119,
+      "pertanian_ktoe": 211,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 3868
+    },
+    {
+      "tahun": 2010,
+      "jumlah_ktoe": 41477,
+      "kediaman_ktoe": 2655,
+      "komersial_ktoe": 4296,
+      "perindustrian_ktoe": 12928,
+      "pengangkutan_ktoe": 16828,
+      "pertanian_ktoe": 1074,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 3696
+    },
+    {
+      "tahun": 2011,
+      "jumlah_ktoe": 43456,
+      "kediaman_ktoe": 2771,
+      "komersial_ktoe": 4222,
+      "perindustrian_ktoe": 12100,
+      "pengangkutan_ktoe": 17070,
+      "pertanian_ktoe": 916,
+      "perikanan_ktoe": 0,
+      "kegunaan_bukan_tenaga_ktoe": 6377
+    },
+    {
+      "tahun": 2012,
+      "jumlah_ktoe": 49291,
+      "kediaman_ktoe": 2841,
+      "komersial_ktoe": 4224,
+      "perindustrian_ktoe": 13919,
+      "pengangkutan_ktoe": 19757,
+      "pertanian_ktoe": 37,
+      "perikanan_ktoe": 1016,
+      "kegunaan_bukan_tenaga_ktoe": 7497
+    },
+    {
+      "tahun": 2013,
+      "jumlah_ktoe": 51584,
+      "kediaman_ktoe": 2999,
+      "komersial_ktoe": 4404,
+      "perindustrian_ktoe": 13496,
+      "pengangkutan_ktoe": 22357,
+      "pertanian_ktoe": 38,
+      "perikanan_ktoe": 1013,
+      "kegunaan_bukan_tenaga_ktoe": 7277
+    },
+    {
+      "tahun": 2014,
+      "jumlah_ktoe": 52209,
+      "kediaman_ktoe": 2993,
+      "komersial_ktoe": 4465,
+      "perindustrian_ktoe": 13162,
+      "pengangkutan_ktoe": 24327,
+      "pertanian_ktoe": 36,
+      "perikanan_ktoe": 1009,
+      "kegunaan_bukan_tenaga_ktoe": 6217
+    },
+    {
+      "tahun": 2015,
+      "jumlah_ktoe": 51829,
+      "kediaman_ktoe": 3146,
+      "komersial_ktoe": 4454,
+      "perindustrian_ktoe": 13971,
+      "pengangkutan_ktoe": 23435,
+      "pertanian_ktoe": 231,
+      "perikanan_ktoe": 664,
+      "kegunaan_bukan_tenaga_ktoe": 5928
+    },
+    {
+      "tahun": 2016,
+      "jumlah_ktoe": 57218,
+      "kediaman_ktoe": 3285,
+      "komersial_ktoe": 4766,
+      "perindustrian_ktoe": 16019,
+      "pengangkutan_ktoe": 24004,
+      "pertanian_ktoe": 144,
+      "perikanan_ktoe": 271,
+      "kegunaan_bukan_tenaga_ktoe": 8729
+    },
+    {
+      "tahun": 2017,
+      "jumlah_ktoe": 62488,
+      "kediaman_ktoe": 3739,
+      "komersial_ktoe": 4057,
+      "perindustrian_ktoe": 17463,
+      "pengangkutan_ktoe": 24039,
+      "pertanian_ktoe": 85,
+      "perikanan_ktoe": 588,
+      "kegunaan_bukan_tenaga_ktoe": 12517
+    },
+    {
+      "tahun": 2018,
+      "jumlah_ktoe": 64658,
+      "kediaman_ktoe": 3343,
+      "komersial_ktoe": 4431,
+      "perindustrian_ktoe": 19046,
+      "pengangkutan_ktoe": 23555,
+      "pertanian_ktoe": 352,
+      "perikanan_ktoe": 669,
+      "kegunaan_bukan_tenaga_ktoe": 13262
+    },
+    {
+      "tahun": 2019,
+      "jumlah_ktoe": 66484,
+      "kediaman_ktoe": 3339,
+      "komersial_ktoe": 4662,
+      "perindustrian_ktoe": 18921,
+      "pengangkutan_ktoe": 25004,
+      "pertanian_ktoe": 269,
+      "perikanan_ktoe": 658,
+      "kegunaan_bukan_tenaga_ktoe": 13631
+    },
+    {
+      "tahun": 2020,
+      "jumlah_ktoe": 57169,
+      "kediaman_ktoe": 4085,
+      "komersial_ktoe": 4038,
+      "perindustrian_ktoe": 17714,
+      "pengangkutan_ktoe": 18660,
+      "pertanian_ktoe": 320,
+      "perikanan_ktoe": 547,
+      "kegunaan_bukan_tenaga_ktoe": 11805
+    },
+    {
+      "tahun": 2021,
+      "jumlah_ktoe": 57250,
+      "kediaman_ktoe": 4168,
+      "komersial_ktoe": 3916,
+      "perindustrian_ktoe": 19157,
+      "pengangkutan_ktoe": 18095,
+      "pertanian_ktoe": 430,
+      "perikanan_ktoe": 615,
+      "kegunaan_bukan_tenaga_ktoe": 10869
+    },
+    {
+      "tahun": 2022,
+      "jumlah_ktoe": 60019,
+      "kediaman_ktoe": 4088,
+      "komersial_ktoe": 4409,
+      "perindustrian_ktoe": 19033,
+      "pengangkutan_ktoe": 24091,
+      "pertanian_ktoe": 412,
+      "perikanan_ktoe": 803,
+      "kegunaan_bukan_tenaga_ktoe": 7183
+    },
+    {
+      "tahun": 2023,
+      "jumlah_ktoe": 67209,
+      "kediaman_ktoe": 3482,
+      "komersial_ktoe": 6001,
+      "perindustrian_ktoe": 22531,
+      "pengangkutan_ktoe": 27265,
+      "pertanian_ktoe": 370,
+      "perikanan_ktoe": 622,
+      "kegunaan_bukan_tenaga_ktoe": 6938
+    },
+    {
+      "tahun": 2024,
+      "jumlah_ktoe": 67860,
+      "kediaman_ktoe": 4630,
+      "komersial_ktoe": 6071,
+      "perindustrian_ktoe": 19016,
+      "pengangkutan_ktoe": 28566,
+      "pertanian_ktoe": 349,
+      "perikanan_ktoe": 631,
+      "kegunaan_bukan_tenaga_ktoe": 8597
+    }
+  ],
+  "meta": {
+    "title": "Penggunaan Tenaga Akhir Malaysia mengikut Sektor - Muat turun percuma",
+    "description": "Penggunaan tenaga akhir tahunan Malaysia (ktoe) mengikut sektor: kediaman, komersial, perindustrian, pengangkutan, pertanian, perikanan dan kegunaan bukan tenaga (Suruhanjaya Tenaga). Mengandungi 45 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Penggunaan Tenaga Akhir Malaysia mengikut Sektor | ListBase",
+    "seo_description": "Muat turun Penggunaan Tenaga Akhir Malaysia mengikut Sektor — 45 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 45 rekod / 9 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/energy_consumption_sector"
+    ]
+  }
+}
