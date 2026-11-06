@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-06T02:40:01.601Z",
-  "total_datasets": 699,
-  "total_records": 554943,
+  "generated": "2026-11-06T02:40:13.121Z",
+  "total_datasets": 700,
+  "total_records": 554951,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "tech",
@@ -18304,6 +18304,31 @@
         "xlsx": {
           "name": "ms-perkahwinan-tahunan-negeri_MS.xlsx",
           "size": 10912
+        }
+      }
+    },
+    {
+      "id": "ms-juara-liga-super",
+      "name": "Juara Liga Super Malaysia",
+      "category": "sports",
+      "record_count": 8,
+      "columns": [
+        "kedudukan",
+        "kelab",
+        "gelaran",
+        "musim_kemenangan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Liga_Super_Malaysia",
+      "updated": "2026-11",
+      "size": 2478,
+      "files": {
+        "csv": {
+          "name": "ms-juara-liga-super_MS.csv",
+          "size": 384
+        },
+        "xlsx": {
+          "name": "ms-juara-liga-super_MS.xlsx",
+          "size": 7011
         }
       }
     },

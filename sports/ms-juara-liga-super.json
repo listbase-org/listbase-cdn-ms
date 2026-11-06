@@ -1,0 +1,94 @@
+{
+  "id": "ms-juara-liga-super",
+  "name": "Juara Liga Super Malaysia",
+  "title": "Juara Liga Super Malaysia",
+  "description": "Kelab bola sepak dengan bilangan gelaran Liga Super Malaysia dan musim kemenangan.",
+  "category": "sports",
+  "source": "https://ms.wikipedia.org/wiki/Liga_Super_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Liga_Super_Malaysia",
+  "updated": "2026-11",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "kedudukan",
+      "label": "Kedudukan",
+      "type": "number"
+    },
+    {
+      "key": "kelab",
+      "label": "Kelab",
+      "type": "string"
+    },
+    {
+      "key": "gelaran",
+      "label": "Gelaran",
+      "type": "number"
+    },
+    {
+      "key": "musim_kemenangan",
+      "label": "Musim Kemenangan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kedudukan": 1,
+      "kelab": "Johor Darul Ta'zim",
+      "gelaran": 12,
+      "musim_kemenangan": "2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024-25, 2025-26"
+    },
+    {
+      "kedudukan": 2,
+      "kelab": "Selangor",
+      "gelaran": 2,
+      "musim_kemenangan": "2009, 2010"
+    },
+    {
+      "kedudukan": 2,
+      "kelab": "Kelantan",
+      "gelaran": 2,
+      "musim_kemenangan": "2011, 2012"
+    },
+    {
+      "kedudukan": 2,
+      "kelab": "Kedah Darul Aman",
+      "gelaran": 2,
+      "musim_kemenangan": "2006-07, 2007-08"
+    },
+    {
+      "kedudukan": 5,
+      "kelab": "LionsXII",
+      "gelaran": 1,
+      "musim_kemenangan": "2013"
+    },
+    {
+      "kedudukan": 5,
+      "kelab": "Negeri Sembilan",
+      "gelaran": 1,
+      "musim_kemenangan": "2005-06"
+    },
+    {
+      "kedudukan": 5,
+      "kelab": "Perlis",
+      "gelaran": 1,
+      "musim_kemenangan": "2005"
+    },
+    {
+      "kedudukan": 5,
+      "kelab": "Sri Pahang",
+      "gelaran": 1,
+      "musim_kemenangan": "2004"
+    }
+  ],
+  "meta": {
+    "title": "Juara Liga Super Malaysia - Muat turun percuma",
+    "description": "Kelab bola sepak dengan bilangan gelaran Liga Super Malaysia dan musim kemenangan. Mengandungi 8 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Juara Liga Super Malaysia | ListBase",
+    "seo_description": "Muat turun Juara Liga Super Malaysia — 8 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 8 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Liga_Super_Malaysia"
+    ]
+  }
+}
