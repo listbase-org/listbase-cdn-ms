@@ -1,0 +1,826 @@
+{
+  "id": "ms-stesen-radio-fm",
+  "name": "Stesen radio di Malaysia",
+  "title": "Stesen radio di Malaysia",
+  "description": "Stesen radio FM dan gelombang pendek di Malaysia dengan frekuensi, pengendali, bahasa dan kawasan liputan.",
+  "category": "entertainment",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_stesen_radio_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_stesen_radio_di_Malaysia",
+  "updated": "2026-11",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "stesen",
+      "label": "Stesen",
+      "type": "string"
+    },
+    {
+      "key": "frekuensi",
+      "label": "Frekuensi",
+      "type": "string"
+    },
+    {
+      "key": "pengendali",
+      "label": "Pengendali",
+      "type": "string"
+    },
+    {
+      "key": "bahasa",
+      "label": "Bahasa",
+      "type": "string"
+    },
+    {
+      "key": "genre",
+      "label": "Genre",
+      "type": "string"
+    },
+    {
+      "key": "kawasan",
+      "label": "Kawasan",
+      "type": "string"
+    },
+    {
+      "key": "rds",
+      "label": "Rds",
+      "type": "string"
+    },
+    {
+      "key": "bahagian",
+      "label": "Bahagian",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stesen": "Radio Klasik",
+      "frekuensi": "87.7 MHz (Kuala Lumpur) 98.3 MHz (Selangor)",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Eight WuXian",
+      "frekuensi": "88.1 MHz",
+      "pengendali": "Media Prima Audio",
+      "bahasa": "Mandarin",
+      "genre": "",
+      "kawasan": "Lembah Klang, Alor Setar, Pulau Pinang, Seremban, Kota Kinabalu & Kuching",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Nasional FM",
+      "frekuensi": "88.5 MHz (Kuala Lumpur) 95.3 MHz (Selangor)",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "goXuan",
+      "frekuensi": "88.9 MHz",
+      "pengendali": "Astro Audio",
+      "bahasa": "Mandarin",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Ai FM",
+      "frekuensi": "89.3 MHz (Kuala Lumpur) 106.7 MHz (Selangor)",
+      "pengendali": "RTM",
+      "bahasa": "Mandarin Kantonis Teochew Hokkien Hakka",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "BFM 89.9",
+      "frekuensi": "89.9 MHz",
+      "pengendali": "BFM Media",
+      "bahasa": "Inggeris Melayu",
+      "genre": "",
+      "kawasan": "Kuala Lumpur, Selangor, Bahagian Negeri Sembilan & Melaka, Perak Selatan, Pahang Barat",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "TraXX FM",
+      "frekuensi": "90.3 MHz (Kuala Lumpur) 100.1 MHz (Selangor)",
+      "pengendali": "RTM",
+      "bahasa": "Inggeris",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Asyik FM Salam FM",
+      "frekuensi": "91.1 MHz (Kuala Lumpur) 102.5 MHz (Selangor)",
+      "pengendali": "RTM Jabatan Kemajuan Islam Malaysia (JAKIM; Salam FM)",
+      "bahasa": "Bahasa-bahasa Asli (Jakun, Semai, Temiar, Temuan; Asyik FM) Melayu",
+      "genre": "",
+      "kawasan": "Kuala Lumpur, Selangor, Perak Selatan, Lenggong, Pahang Barat, Sebahagian Negeri Sembilan",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "IKIMfm",
+      "frekuensi": "91.5 MHz",
+      "pengendali": "Institut Kefahaman Islam Malaysia (IKIM)",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Minnal FM",
+      "frekuensi": "92.3 MHz (Kuala Lumpur) 96.3 MHz (Selangor)",
+      "pengendali": "RTM",
+      "bahasa": "Tamil",
+      "genre": "",
+      "kawasan": "Semenanjung Malaysia",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Hitz",
+      "frekuensi": "92.9 MHz",
+      "pengendali": "Astro Audio",
+      "bahasa": "Inggeris",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Bernama Radio",
+      "frekuensi": "93.9 MHz",
+      "pengendali": "Pertubuhan Berita Nasional Malaysia",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "Lembah Klang, Kuching & Kota Kinabalu",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Mix",
+      "frekuensi": "94.5 MHz",
+      "pengendali": "Astro Audio",
+      "bahasa": "Inggeris",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Fly FM",
+      "frekuensi": "95.8 MHz",
+      "pengendali": "Media Prima Audio",
+      "bahasa": "Inggeris",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Sinar",
+      "frekuensi": "96.7 MHz",
+      "pengendali": "Astro Audio",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "KL FM",
+      "frekuensi": "97.2 MHz",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "Kuala Lumpur",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Hot FM",
+      "frekuensi": "97.6 MHz",
+      "pengendali": "Media Prima Audio",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "988 FM",
+      "frekuensi": "98.8 MHz",
+      "pengendali": "Star Media Radio Group",
+      "bahasa": "Mandarin Kantonis",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Raaga",
+      "frekuensi": "99.3 MHz",
+      "pengendali": "Astro Audio",
+      "bahasa": "Tamil",
+      "genre": "",
+      "kawasan": "Semenanjung Malaysia Barat, Bahagian Pahang & Kelantan",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Kool FM",
+      "frekuensi": "101.3 MHz",
+      "pengendali": "Media Prima Audio",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "Lembah Klang, Pulau Pinang, Alor Setar, Kuching, Ipoh, Melaka & Johor Bahru",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "My",
+      "frekuensi": "101.8 MHz",
+      "pengendali": "Astro Audio",
+      "bahasa": "Mandarin Kantonis",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Melody",
+      "frekuensi": "103.0 MHz",
+      "pengendali": "Astro Audio",
+      "bahasa": "Mandarin Kantonis",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Era",
+      "frekuensi": "103.3 MHz",
+      "pengendali": "Astro Audio",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Zayan",
+      "frekuensi": "104.9 MHz",
+      "pengendali": "Astro Audio",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Suria",
+      "frekuensi": "105.3 MHz",
+      "pengendali": "Star Media Radio Group",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Lite",
+      "frekuensi": "105.7 MHz",
+      "pengendali": "Astro Audio",
+      "bahasa": "Inggeris",
+      "genre": "",
+      "kawasan": "Seluruh negara",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Rakita",
+      "frekuensi": "107.9 MHz",
+      "pengendali": "Radio Kita Sdn Bhd",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "Kuala Lumpur, Bahagian Selangor dan Negeri Sembilan",
+      "rds": "YA",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Johor FM",
+      "frekuensi": "101.9 MHz (Johor Bahru)",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Kedah FM",
+      "frekuensi": "97.5 MHz (Alor Setar)",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Kelantan FM",
+      "frekuensi": "102.9 MHz (Kota Bharu)",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Langkawi FM",
+      "frekuensi": "104.8 MHz",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Melaka FM",
+      "frekuensi": "102.3 MHz",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Mutiara FM",
+      "frekuensi": "95.7 MHz",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Pahang FM",
+      "frekuensi": "104.1 MHz (Kuantan)",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Perak FM",
+      "frekuensi": "95.6 MHz (Ipoh)",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Perlis FM",
+      "frekuensi": "102.9 MHz",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Terengganu FM",
+      "frekuensi": "88.7 MHz (Kuala Terengganu)",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Selangor FM",
+      "frekuensi": "100.9 MHz",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Negeri FM",
+      "frekuensi": "92.6 MHz (Seremban)",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Sabah FM",
+      "frekuensi": "89.9 MHz (Kota Kinabalu)",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Sabah V FM",
+      "frekuensi": "92.7 MHz (Kota Kinabalu)",
+      "pengendali": "RTM",
+      "bahasa": "Inggeris, Kadazan, Dusun, Mandarin, Bajau, Murut",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Labuan FM",
+      "frekuensi": "89.4 MHz",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Sarawak FM",
+      "frekuensi": "88.9 MHz (Kuching)",
+      "pengendali": "RTM",
+      "bahasa": "Melayu",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Red FM",
+      "frekuensi": "91.9 MHz (Kuching)",
+      "pengendali": "RTM",
+      "bahasa": "Cina (Mandarin), Inggeris",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Wai FM",
+      "frekuensi": "Pelbagai",
+      "pengendali": "RTM",
+      "bahasa": "Iban, Kayan, Kenyah & Bidayuh",
+      "genre": "",
+      "kawasan": "",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Best FM",
+      "frekuensi": "104.1 MHz (Johor Bahru & Singapura) 94.8 MHz (Melaka) 102.3 (Mersing)",
+      "pengendali": "Suara Johor Sdn Bhd",
+      "bahasa": "Melayu",
+      "genre": "Johor, Melaka, Negeri Sembilan, Singapura & Batam; Indonesia",
+      "kawasan": "Johor, Melaka, Negeri Sembilan, Singapura & Batam; Indonesia",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Cats FM",
+      "frekuensi": "99.3 MHz (Kuching)",
+      "pengendali": "Kristal Harta Sdn Bhd",
+      "bahasa": "Melayu, Iban",
+      "genre": "Sarawak",
+      "kawasan": "Sarawak",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "KupiKupi FM",
+      "frekuensi": "92.5 MHz (Kuching) 96.3 MHz (Kota Kinabalu) 106.0 MHz (Seremban)",
+      "pengendali": "Ooga X Sdn Bhd",
+      "bahasa": "Kadazan-Dusun Cina Murut Melayu Inggeris",
+      "genre": "Kota Kinabalu, Kuching & Seremban",
+      "kawasan": "Kota Kinabalu, Kuching & Seremban",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Manis FM",
+      "frekuensi": "95.1 MHz (Kuantan) 102.0 MHz (Kuala Terengganu) 90.6 MHz (Kota Bharu)",
+      "pengendali": "Husa Network Sdn Bhd",
+      "bahasa": "Melayu",
+      "genre": "Sebahagian Kelantan, Terengganu, Pahang Timur",
+      "kawasan": "Sebahagian Kelantan, Terengganu, Pahang Timur",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Molek FM",
+      "frekuensi": "100.4 MHz (Kuantan) 93.6 MHz (Kuala Terengganu) 105.1 MHz (Kota Bharu)",
+      "pengendali": "Media Prima Audio",
+      "bahasa": "Melayu",
+      "genre": "Sebahagian Kelantan, Terengganu, Pahang Timur",
+      "kawasan": "Sebahagian Kelantan, Terengganu, Pahang Timur",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "TEA FM",
+      "frekuensi": "102.7 MHz (Kuching) 100.7 MHz (Sibu)",
+      "pengendali": "Tea FM Radio Sdn Bhd",
+      "bahasa": "Mandarin Inggeris",
+      "genre": "Kuching & Sibu",
+      "kawasan": "Kuching & Sibu",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "THR Gegar",
+      "frekuensi": "88.8 MHz (Kuantan) 106.8 MHz (Kuala Terengganu) 88.1 MHz (Kota Bharu)",
+      "pengendali": "Astro Audio",
+      "bahasa": "Melayu",
+      "genre": "Sebahagian Kelantan, Terengganu, Pahang Timur",
+      "kawasan": "Sebahagian Kelantan, Terengganu, Pahang Timur",
+      "rds": "",
+      "bahagian": "Stesen FM"
+    },
+    {
+      "stesen": "Voice of Malaysia",
+      "frekuensi": "6100 kHz 6175 kHz 9750 kHz 11885 kHz 15295 kHz",
+      "pengendali": "RTM",
+      "bahasa": "Inggeris, Mandarin, Indonesia, Thai, Arab, Tagalog, Burma, Melayu",
+      "genre": "",
+      "kawasan": "Seluruh dunia",
+      "rds": "",
+      "bahagian": "Stesen radio antarabangsa (Tidak berfungsi)"
+    },
+    {
+      "stesen": "BBC World Service",
+      "frekuensi": "15335, 9740, 6195, 11750 (AM)",
+      "pengendali": "BBC",
+      "bahasa": "Melayu",
+      "genre": "Berita",
+      "kawasan": "Lembah Klang (Kini Seluruh Negara)",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "TalkRadio",
+      "frekuensi": "101.8 MHz",
+      "pengendali": "AMP Radio Networks",
+      "bahasa": "Inggeris",
+      "genre": "",
+      "kawasan": "Lembah Klang",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "Classic Rock",
+      "frekuensi": "103.3 MHz",
+      "pengendali": "AMP Radio Networks",
+      "bahasa": "Inggeris",
+      "genre": "Muzik",
+      "kawasan": "Lembah Klang",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "RfM",
+      "frekuensi": "98.8 MHz, kemudian 91.5 MHz dan terakhir ialah 104.9 MHz",
+      "pengendali": "Radio Rediffusion Sdn Bhd",
+      "bahasa": "Melayu Inggeris Cina",
+      "genre": "Muzik",
+      "kawasan": "Lembah Klang",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "Time Highway Radio (asal)",
+      "frekuensi": "99.3 MHz",
+      "pengendali": "Radio Lebuhraya Sdn Bhd",
+      "bahasa": "Inggeris Melayu Cina",
+      "genre": "Muzik",
+      "kawasan": "Semenanjung Barat Malaysia",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "WOW FM/WA FM",
+      "frekuensi": "97.6 MHz",
+      "pengendali": "Synchrosound Studios Sdn Bhd",
+      "bahasa": "Inggeris (WOW FM) Mandarin (WA FM)",
+      "genre": "Muzik",
+      "kawasan": "Seluruh negara",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "Wanita FM",
+      "frekuensi": "88.1 MHz",
+      "pengendali": "Radio Wanita Berhad",
+      "bahasa": "Melayu",
+      "genre": "Muzik",
+      "kawasan": "Lembah Klang",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "XFM",
+      "frekuensi": "103.0 MHz",
+      "pengendali": "AMP Radio Networks",
+      "bahasa": "Melayu",
+      "genre": "Muzik",
+      "kawasan": "Lembah Klang",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "Ultra FM",
+      "frekuensi": "101.3 MHz",
+      "pengendali": "Copyright Laureate Sdn Bhd",
+      "bahasa": "Melayu",
+      "genre": "Muzik",
+      "kawasan": "Lembah Klang",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "Pi Mai FM",
+      "frekuensi": "90.2 MHz",
+      "pengendali": "Copyright Laureate Sdn Bhd",
+      "bahasa": "Melayu",
+      "genre": "Muzik",
+      "kawasan": "Pulau Pinang",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "Capital FM",
+      "frekuensi": "88.9 MHz",
+      "pengendali": "STAR Rfm Sdn.Bhd (Star Radio Group, The Star)",
+      "bahasa": "Inggeris Melayu",
+      "genre": "Muzik",
+      "kawasan": "Lembah Klang & Pulau Pinang",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "Red FM",
+      "frekuensi": "104.9 MHz",
+      "pengendali": "STAR Rfm Sdn.Bhd (Star Radio Group, The Star)",
+      "bahasa": "Inggeris",
+      "genre": "Muzik",
+      "kawasan": "Semenanjung Malaysia",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "iM4U FM",
+      "frekuensi": "107.9 MHz",
+      "pengendali": "iM4U Radio Sdn Bhd",
+      "bahasa": "Melayu",
+      "genre": "Muzik",
+      "kawasan": "Lembah Klang",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "Buletin FM",
+      "frekuensi": "93.6 MHz",
+      "pengendali": "Media Prima",
+      "bahasa": "Melayu",
+      "genre": "Berita",
+      "kawasan": "Kuala Terengganu",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "Buletin FM",
+      "frekuensi": "88.6 MHz",
+      "pengendali": "Media Prima",
+      "bahasa": "Melayu",
+      "genre": "Berita",
+      "kawasan": "Kota Bharu",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "Hot FM Kelantan",
+      "frekuensi": "105.1 MHz",
+      "pengendali": "Media Prima",
+      "bahasa": "Melayu",
+      "genre": "Top 40 (CHR)",
+      "kawasan": "Kota Bharu",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "8FM",
+      "frekuensi": "100.4 MHz",
+      "pengendali": "Media Prima",
+      "bahasa": "Mandarin Kantonis",
+      "genre": "",
+      "kawasan": "Kuantan",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "KK12FM",
+      "frekuensi": "89.5 MHz",
+      "pengendali": "",
+      "bahasa": "Inggeris Melayu (Melayu Sabah)",
+      "genre": "",
+      "kawasan": "Kota Kinabalu",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "CITYPlus",
+      "frekuensi": "92.5 MHz",
+      "pengendali": "Ooga X",
+      "bahasa": "Cina",
+      "genre": "",
+      "kawasan": "Kuching",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "Eight FM",
+      "frekuensi": "105.3 MHz",
+      "pengendali": "Media Prima",
+      "bahasa": "Cina",
+      "genre": "",
+      "kawasan": "Johor Bahru",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "Eight FM",
+      "frekuensi": "88.1 MHz",
+      "pengendali": "Media Prima",
+      "bahasa": "Cina",
+      "genre": "",
+      "kawasan": "Melaka",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "Eight FM",
+      "frekuensi": "87.6 MHz",
+      "pengendali": "Media Prima",
+      "bahasa": "Cina",
+      "genre": "",
+      "kawasan": "Ipoh",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    },
+    {
+      "stesen": "CITYPlus",
+      "frekuensi": "106.0 MHz",
+      "pengendali": "Ooga X",
+      "bahasa": "Cina",
+      "genre": "",
+      "kawasan": "Seremban",
+      "rds": "",
+      "bahagian": "Stesen radio yang tidak berfungsi"
+    }
+  ],
+  "meta": {
+    "title": "Stesen radio di Malaysia - Muat turun percuma",
+    "description": "Stesen radio FM dan gelombang pendek di Malaysia dengan frekuensi, pengendali, bahasa dan kawasan liputan. Mengandungi 76 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Stesen radio di Malaysia | ListBase",
+    "seo_description": "Muat turun Stesen radio di Malaysia — 76 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 76 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_stesen_radio_di_Malaysia"
+    ]
+  }
+}

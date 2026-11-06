@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-06T02:39:42.251Z",
-  "total_datasets": 697,
-  "total_records": 554741,
+  "generated": "2026-11-06T02:39:52.386Z",
+  "total_datasets": 698,
+  "total_records": 554817,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "environment",
@@ -3392,6 +3392,35 @@
         "xlsx": {
           "name": "ms-stesen-radio_MS.xlsx",
           "size": 8260
+        }
+      }
+    },
+    {
+      "id": "ms-stesen-radio-fm",
+      "name": "Stesen radio di Malaysia",
+      "category": "entertainment",
+      "record_count": 76,
+      "columns": [
+        "stesen",
+        "frekuensi",
+        "pengendali",
+        "bahasa",
+        "genre",
+        "kawasan",
+        "rds",
+        "bahagian"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_stesen_radio_di_Malaysia",
+      "updated": "2026-11",
+      "size": 22289,
+      "files": {
+        "csv": {
+          "name": "ms-stesen-radio-fm_MS.csv",
+          "size": 8818
+        },
+        "xlsx": {
+          "name": "ms-stesen-radio-fm_MS.xlsx",
+          "size": 11081
         }
       }
     },
