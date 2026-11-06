@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-06T02:40:13.121Z",
-  "total_datasets": 700,
-  "total_records": 554951,
+  "generated": "2026-11-06T02:40:22.978Z",
+  "total_datasets": 701,
+  "total_records": 554973,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "tech",
@@ -18353,6 +18353,31 @@
         },
         "xlsx": {
           "name": "ms-liga-super-juara_MS.xlsx",
+          "size": 7422
+        }
+      }
+    },
+    {
+      "id": "ms-liga-super-musim",
+      "name": "Keputusan musim Liga Super Malaysia",
+      "category": "sports",
+      "record_count": 22,
+      "columns": [
+        "musim",
+        "juara",
+        "naib_juara",
+        "tempat_ketiga"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Liga_Super_Malaysia",
+      "updated": "2026-11",
+      "size": 4429,
+      "files": {
+        "csv": {
+          "name": "ms-liga-super-musim_MS.csv",
+          "size": 1061
+        },
+        "xlsx": {
+          "name": "ms-liga-super-musim_MS.xlsx",
           "size": 7422
         }
       }
