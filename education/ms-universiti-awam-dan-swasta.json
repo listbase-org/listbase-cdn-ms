@@ -1,0 +1,802 @@
+{
+  "id": "ms-universiti-awam-dan-swasta",
+  "name": "Universiti di Malaysia",
+  "title": "Universiti di Malaysia",
+  "description": "Senarai universiti awam dan swasta di Malaysia dengan singkatan dan lokasi.",
+  "category": "education",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_universiti_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_universiti_di_Malaysia",
+  "updated": "2026-11",
+  "record_count": 126,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "jenis",
+      "label": "Jenis",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Universiti Malaya",
+      "singkatan": "UM",
+      "lokasi": "Kuala Lumpur, Wilayah Persekutuan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Sains Malaysia",
+      "singkatan": "USM",
+      "lokasi": "Gelugor, Pulau Pinang",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Kebangsaan Malaysia",
+      "singkatan": "UKM",
+      "lokasi": "Bangi, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Putra Malaysia",
+      "singkatan": "UPM",
+      "lokasi": "Serdang, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Teknologi Malaysia",
+      "singkatan": "UTM",
+      "lokasi": "Skudai, Johor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Teknologi MARA",
+      "singkatan": "UiTM",
+      "lokasi": "Shah Alam, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Islam Antarabangsa Malaysia",
+      "singkatan": "UIAM",
+      "lokasi": "Gombak, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Malaysia Sarawak",
+      "singkatan": "UNIMAS",
+      "lokasi": "Kota Samarahan, Sarawak",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Malaysia Sabah",
+      "singkatan": "UMS",
+      "lokasi": "Kota Kinabalu, Sabah",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Sains Islam Malaysia",
+      "singkatan": "USIM",
+      "lokasi": "Nilai, Negeri Sembilan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Teknikal Malaysia Melaka",
+      "singkatan": "UTeM",
+      "lokasi": "Durian Tunggal, Melaka",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Malaysia Perlis",
+      "singkatan": "UniMAP",
+      "lokasi": "Arau, Perlis",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Malaysia Pahang",
+      "singkatan": "UMP",
+      "lokasi": "Kuantan, Pahang",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Sultan Zainal Abidin",
+      "singkatan": "UniSZA",
+      "lokasi": "Kuala Terengganu, Terengganu",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Pertahanan Nasional Malaysia",
+      "singkatan": "UPNM",
+      "lokasi": "Sungai Besi,Kuala Lumpur, Wilayah Persekutuan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Malaysia Kelantan",
+      "singkatan": "UMK",
+      "lokasi": "Pengkalan Chepa, Kelantan (",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Malaysia Terengganu",
+      "singkatan": "UMT",
+      "lokasi": "Kuala Nerus, Terengganu",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Tun Hussein Onn Malaysia",
+      "singkatan": "UTHM",
+      "lokasi": "Batu Pahat, Johor)",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Utara Malaysia",
+      "singkatan": "UUM",
+      "lokasi": "Sintok, Kedah",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Uni versiti Pendidikan Sultan Idris",
+      "singkatan": "UPSI",
+      "lokasi": "Tanjung Malim, Perak",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti AIMST",
+      "singkatan": "AIMST",
+      "lokasi": "Bedong, Kedah",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Antarabangsa Al-Madinah",
+      "singkatan": "MEDIU",
+      "lokasi": "Shah Alam, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Antarabangsa Albukhary",
+      "singkatan": "AIU",
+      "lokasi": "Alor Setar, Kedah",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti HELP",
+      "singkatan": "HELP",
+      "lokasi": "Kuala Lumpur, Wilayah Persekutuan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Antarabangsa INTI",
+      "singkatan": "INTI IU",
+      "lokasi": "Nilai, Negeri Sembilan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Antarabangsa UNITAR",
+      "singkatan": "UNITAR",
+      "lokasi": "Kelana Jaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Automotif DRB-HICOM Malaysia",
+      "singkatan": "DHU",
+      "lokasi": "Pekan, Pahang",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Kuala Lumpur",
+      "singkatan": "UniKL",
+      "lokasi": "Kuala Lumpur, Wilayah Persekutuan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Islam Malaysia",
+      "singkatan": "UIM",
+      "lokasi": "Cyberjaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Sultan Azlan Shah",
+      "singkatan": "USAS",
+      "lokasi": "Kuala Kangsar, Perak",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Islam Antarabangsa Sultan Abdul Halim Muadzamshah",
+      "singkatan": "UniSHAMS",
+      "lokasi": "Sungai Petani, Kedah",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Multimedia",
+      "singkatan": "MMU",
+      "lokasi": "Cyberjaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Pengurusan dan Sains",
+      "singkatan": "MSU",
+      "lokasi": "Shah Alam, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "City University Malaysia",
+      "singkatan": "CITY U",
+      "lokasi": "Petaling Jaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Perdana",
+      "singkatan": "PU",
+      "lokasi": "Serdang, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Perubatan Antarabangsa",
+      "singkatan": "IMU",
+      "lokasi": "Kuala Lumpur, Wilayah Persekutuan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Sains dan Teknologi Malaysia",
+      "singkatan": "MUST",
+      "lokasi": "Petaling Jaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Selangor",
+      "singkatan": "UNISEL",
+      "lokasi": "Bestari Jaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Sunway",
+      "singkatan": "SYUC",
+      "lokasi": "Subang Jaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Taylor's",
+      "singkatan": "TAYLOR",
+      "lokasi": "Subang Jaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Terbuka Malaysia",
+      "singkatan": "OUM",
+      "lokasi": "Kuala Lumpur, Wilayah Persekutuan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Terbuka Wawasan",
+      "singkatan": "WOU",
+      "lokasi": "Georgetown, Pulau Pinang",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Teknologi Kreatif Limkokwing",
+      "singkatan": "LUCT",
+      "lokasi": "Cyberjaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Teknologi PETRONAS",
+      "singkatan": "UTP",
+      "lokasi": "Tronoh, Perak",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Tenaga Nasional",
+      "singkatan": "UNITEN",
+      "lokasi": "Kajang, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Tun Abdul Razak",
+      "singkatan": "UniRAZAK",
+      "lokasi": "Petaling Jaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Tunku Abdul Rahman",
+      "singkatan": "UTAR",
+      "lokasi": "Kampar, Perak",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti UCSI",
+      "singkatan": "UCSI",
+      "lokasi": "Kuala Lumpur, Wilayah Persekutuan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Nilai",
+      "singkatan": "NU",
+      "lokasi": "Nilai, Negeri Sembilan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Quest International University",
+      "singkatan": "QIU",
+      "lokasi": "Perak.",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Curtin Sarawak Malaysia",
+      "singkatan": "CUSM",
+      "lokasi": "Miri, Sarawak",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Monash Sunway Malaysia",
+      "singkatan": "MUSM",
+      "lokasi": "Bandar Sunway, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Teknologi Swinburne Kampus Sarawak",
+      "singkatan": "SUTSC",
+      "lokasi": "Kuching, Sarawak",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Nottingham Kampus Malaysia",
+      "singkatan": "UNMC",
+      "lokasi": "Semenyih, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Newcastle Perubatan Malaysia",
+      "singkatan": "NUMED",
+      "lokasi": "Iskandar, Johor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Heriot-Watt Malaysia",
+      "singkatan": "HWUM",
+      "lokasi": "Putrajaya, Wilayah Persekutuan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Southampton Kampus Malaysia",
+      "singkatan": "USMC",
+      "lokasi": "Iskandar, Johor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Reading Malaysia",
+      "singkatan": "URM",
+      "lokasi": "Iskandar, Johor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Xiamen Malaysia",
+      "singkatan": "XMUMC",
+      "lokasi": "Sepang, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "North Borneo University College",
+      "singkatan": "NBUC",
+      "lokasi": "Kota Kinabalu, Sabah",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Tunku Abdul Rahman",
+      "singkatan": "TARUC",
+      "lokasi": "Kuala Lumpur, Wilayah Persekutuan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Selatan",
+      "singkatan": "SUC",
+      "lokasi": "Skudai, Johor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti New Era",
+      "singkatan": "NEUC",
+      "lokasi": "Kajang, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Pengurusan dan Keusahawanan Binary",
+      "singkatan": "BUCME",
+      "lokasi": "Puchong, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti AgroSains Malaysia",
+      "singkatan": "UCAM",
+      "lokasi": "Melaka",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Antarabangsa Cosmopoint",
+      "singkatan": "CiUC",
+      "lokasi": "Malaysia",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Sains Perubatan Cyberjaya",
+      "singkatan": "CUCMS",
+      "lokasi": "Cyberjaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Teknologi Antarabangsa Twintech",
+      "singkatan": "IUCTT",
+      "lokasi": "Kuala Lumpur, Wilayah Persekutuan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Islam Antarabangsa Selangor",
+      "singkatan": "KUIS",
+      "lokasi": "Kajang, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Islam Pahang Sultan Ahmad Shah",
+      "singkatan": "KUIPSAS",
+      "lokasi": "Kuantan, Pahang",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Linton",
+      "singkatan": "UCL",
+      "lokasi": "Mantin, Negeri Sembilan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti TATI",
+      "singkatan": "TATi",
+      "lokasi": "Kemaman, Terengganu",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Darul Quran Islamiah",
+      "singkatan": "KUDQI",
+      "lokasi": "Kuala Terengganu, Terengganu",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Shah Putra",
+      "singkatan": "SHAHPUTRA",
+      "lokasi": "Kuantan, Pahang",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti KDU",
+      "singkatan": "KDU",
+      "lokasi": "Petaling Jaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Hospitaliti BERJAYA",
+      "singkatan": "BERJAYA UCH",
+      "lokasi": "Kuala Lumpur, Wilayah Persekutuan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Sains dan Teknologi CITY",
+      "singkatan": "CITY UC",
+      "lokasi": "Petaling Jaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Mahsa",
+      "singkatan": "MAHSA",
+      "lokasi": "Kuala Lumpur, Wilayah Persekutuan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Sains Kesihatan Masterskill",
+      "singkatan": "MASTERSKILL",
+      "lokasi": "Malaysia",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Antarabangsa Kejururawatan",
+      "singkatan": "NIUC",
+      "lokasi": "Malaysia",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti KPJ",
+      "singkatan": "KPJUC",
+      "lokasi": "Malaysia",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Bestari,",
+      "singkatan": "UC BESTARI",
+      "lokasi": "Setiu, Terengganu",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Lincoln",
+      "singkatan": "LUC",
+      "lokasi": "Kelana Jaya, Selangor",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Yayasan Pahang",
+      "singkatan": "UCYP",
+      "lokasi": "Kuantan, Pahang",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Islam Melaka",
+      "singkatan": "KUIM",
+      "lokasi": "Kuala Sungai Baru, Melaka",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Universiti Islam Antarabangsa Sultan Ismail Petra",
+      "singkatan": "KIAS",
+      "lokasi": "Nilam Puri, Kota Bharu, Kelantan",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Akademi Binaan Malaysia",
+      "singkatan": "ABM",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Akademi Laut Malaysia",
+      "singkatan": "ALAM",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Institut Goon juga dikenali",
+      "singkatan": "kolej antarabangsa goon",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Institut Latihan dan Pendidikan RANACO",
+      "singkatan": "RETI",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Institut Media Integratif Malaysia",
+      "singkatan": "MIIM",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Institut Pengajian Global",
+      "singkatan": "GIS",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Institut Pengurusan & Teknologi Utara",
+      "singkatan": "IPTURA",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Institut Sains & Teknologi Darul Takzim",
+      "singkatan": "INSTEDT",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Institut Sains Kesihatan Bersekutu Bukit Merah Laketown",
+      "singkatan": "BMLIAHS",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Institut Teknologi Maritim Netherlands",
+      "singkatan": "NMIT",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Institut Teknologi Petroleum Petronas",
+      "singkatan": "INSTEP",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Al-Quran Terengganu",
+      "singkatan": "Kolej Yayasan Terengganu-KYT",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Antarabangsa Dunia Melayu Dunia Islam",
+      "singkatan": "DMDI",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Antarabangsa Greencity",
+      "singkatan": "dahulu dikenali: Kolej Antarabangsa Oren",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Antarabangsa Sains dan Teknologi Melaka",
+      "singkatan": "MICOST",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Antarabangsa Sains Kesihatan",
+      "singkatan": "ICHS",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Antarabangsa Yayasan Pendidikan Cheras",
+      "singkatan": "YPC",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej ATI",
+      "singkatan": "Institut Pelancongan ASIA",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Excel",
+      "singkatan": "Pusat Pengurusan TL",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej IACT",
+      "singkatan": "International Advertising, Communication and Technology",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Islam Sains Dan Teknologi",
+      "singkatan": "KIST",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Islam Teknologi Antarabangsa",
+      "singkatan": "KITAB",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Jamiah Islamiah Putra",
+      "singkatan": "Kolej JAIPUTRA",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Muzik Antarabangsa",
+      "singkatan": "ICOM",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Perkembangan Awal Kanak-kanak",
+      "singkatan": "KPAKK",
+      "lokasi": "Damansara Damai, Bukit Merah",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Pendidikan Perdana",
+      "singkatan": "KOPEDA",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Pengajian Tinggi Islam Johor",
+      "singkatan": "MARSAH",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Poly-Tech Mara",
+      "singkatan": "KPTM",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Presiden",
+      "singkatan": "Kolej Lincoln Asia Pasifik",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Profesional Mara",
+      "singkatan": "KPM",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej PTPL",
+      "singkatan": "Pusat Teknologi dan Pengurusan Lanjutan",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Reach",
+      "singkatan": "Institut Teknologi Informasi",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Sains Perubatan Antarabangsa Pusrawi",
+      "singkatan": "PICOMS",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej SIDMA",
+      "singkatan": "Institut Pengurusan Dinamik, Sabah",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Teknologi Bestari",
+      "singkatan": "KTB",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej TESDEC",
+      "singkatan": "Kolej Sri Iman",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Yayasan Islam Terengganu",
+      "singkatan": "INSPI",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Yayasan Pahang",
+      "singkatan": "IKIP",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Kolej Yayasan Sabah",
+      "singkatan": "KYS",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    },
+    {
+      "nama": "Pusat Pembangunan Kemahiran Pulau Pinang",
+      "singkatan": "PSDC",
+      "lokasi": "",
+      "jenis": "Universiti Awam"
+    }
+  ],
+  "meta": {
+    "title": "Universiti di Malaysia - Muat turun percuma",
+    "description": "Senarai universiti awam dan swasta di Malaysia dengan singkatan dan lokasi. Mengandungi 126 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Universiti di Malaysia | ListBase",
+    "seo_description": "Muat turun Universiti di Malaysia — 126 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 126 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_universiti_di_Malaysia"
+    ]
+  }
+}

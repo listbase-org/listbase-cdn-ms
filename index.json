@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-06T02:39:52.386Z",
-  "total_datasets": 698,
-  "total_records": 554817,
+  "generated": "2026-11-06T02:40:01.601Z",
+  "total_datasets": 699,
+  "total_records": 554943,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 25
+      "dataset_count": 26
     },
     {
       "id": "entertainment",
@@ -2985,6 +2985,31 @@
         "xlsx": {
           "name": "ms-universiti_MS.xlsx",
           "size": 14327
+        }
+      }
+    },
+    {
+      "id": "ms-universiti-awam-dan-swasta",
+      "name": "Universiti di Malaysia",
+      "category": "education",
+      "record_count": 126,
+      "columns": [
+        "nama",
+        "singkatan",
+        "lokasi",
+        "jenis"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_universiti_di_Malaysia",
+      "updated": "2026-11",
+      "size": 21115,
+      "files": {
+        "csv": {
+          "name": "ms-universiti-awam-dan-swasta_MS.csv",
+          "size": 9641
+        },
+        "xlsx": {
+          "name": "ms-universiti-awam-dan-swasta_MS.xlsx",
+          "size": 11442
         }
       }
     },
