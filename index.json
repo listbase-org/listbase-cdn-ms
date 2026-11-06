@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-05T02:17:56.283Z",
-  "total_datasets": 695,
-  "total_records": 554424,
+  "generated": "2026-11-06T02:39:33.425Z",
+  "total_datasets": 696,
+  "total_records": 554609,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 1
+      "dataset_count": 2
     }
   ],
   "datasets": [
@@ -21811,6 +21811,34 @@
         "xlsx": {
           "name": "ms-wp-putrajaya-lapangan-terbang_MS.xlsx",
           "size": 7066
+        }
+      }
+    },
+    {
+      "id": "ms-unit-ukuran",
+      "name": "Unit ukuran (CLDR Melayu)",
+      "category": "units",
+      "record_count": 185,
+      "columns": [
+        "unit_code",
+        "kategori",
+        "nama",
+        "tunggal",
+        "jamak",
+        "pendek",
+        "sempit"
+      ],
+      "source": "https://github.com/unicode-org/cldr",
+      "updated": "2026-11",
+      "size": 43616,
+      "files": {
+        "csv": {
+          "name": "ms-unit-ukuran_MS.csv",
+          "size": 17255
+        },
+        "xlsx": {
+          "name": "ms-unit-ukuran_MS.xlsx",
+          "size": 15211
         }
       }
     },
