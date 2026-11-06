@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-06T02:39:33.425Z",
-  "total_datasets": 696,
-  "total_records": 554609,
+  "generated": "2026-11-06T02:39:42.251Z",
+  "total_datasets": 697,
+  "total_records": 554741,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 50
+      "dataset_count": 51
     },
     {
       "id": "economy",
@@ -1126,6 +1126,33 @@
         "xlsx": {
           "name": "ms-muzium_MS.xlsx",
           "size": 11221
+        }
+      }
+    },
+    {
+      "id": "ms-muzium-mengikut-negeri",
+      "name": "Muzium di Malaysia mengikut negeri",
+      "category": "culture",
+      "record_count": 132,
+      "columns": [
+        "nama",
+        "alamat",
+        "daerah_atau_lokasi",
+        "waktu",
+        "pihak_berkuasa",
+        "negeri"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_muzium_di_Malaysia",
+      "updated": "2026-11",
+      "size": 28809,
+      "files": {
+        "csv": {
+          "name": "ms-muzium-mengikut-negeri_MS.csv",
+          "size": 9896
+        },
+        "xlsx": {
+          "name": "ms-muzium-mengikut-negeri_MS.xlsx",
+          "size": 12135
         }
       }
     },
