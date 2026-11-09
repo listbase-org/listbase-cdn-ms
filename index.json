@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-09T02:30:31.141Z",
-  "total_datasets": 704,
-  "total_records": 555022,
+  "generated": "2026-11-09T02:30:37.718Z",
+  "total_datasets": 705,
+  "total_records": 555043,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 107
+      "dataset_count": 108
     },
     {
       "id": "reference",
@@ -10350,6 +10350,32 @@
         "xlsx": {
           "name": "ms-wp-putrajaya-parlimen_MS.xlsx",
           "size": 6720
+        }
+      }
+    },
+    {
+      "id": "ms-yang-dipertua-dewan-negara",
+      "name": "Senarai Yang di-Pertua Dewan Negara Malaysia",
+      "category": "politics",
+      "record_count": 21,
+      "columns": [
+        "bil",
+        "nama",
+        "mula",
+        "tamat",
+        "parlimen"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Yang_di-Pertua_Dewan_Negara",
+      "updated": "2026-11",
+      "size": 5417,
+      "files": {
+        "csv": {
+          "name": "ms-yang-dipertua-dewan-negara_MS.csv",
+          "size": 1867
+        },
+        "xlsx": {
+          "name": "ms-yang-dipertua-dewan-negara_MS.xlsx",
+          "size": 7985
         }
       }
     },
