@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-06T02:40:22.978Z",
-  "total_datasets": 701,
-  "total_records": 554973,
+  "generated": "2026-11-09T02:30:15.576Z",
+  "total_datasets": 702,
+  "total_records": 554989,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "transport",
@@ -19492,6 +19492,35 @@
         "xlsx": {
           "name": "ms-terengganu-cuti-negeri_MS.xlsx",
           "size": 48009
+        }
+      }
+    },
+    {
+      "id": "ms-bangunan-tertinggi-alor-setar",
+      "name": "Senarai Bangunan Tertinggi di Alor Setar",
+      "category": "tourism",
+      "record_count": 16,
+      "columns": [
+        "no",
+        "nama",
+        "ketinggian_m",
+        "bilangan_tingkat",
+        "tahun",
+        "fungsi",
+        "lokasi",
+        "nota"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_bangunan_tertinggi_di_Alor_Setar",
+      "updated": "2026-11",
+      "size": 5927,
+      "files": {
+        "csv": {
+          "name": "ms-bangunan-tertinggi-alor-setar_MS.csv",
+          "size": 1677
+        },
+        "xlsx": {
+          "name": "ms-bangunan-tertinggi-alor-setar_MS.xlsx",
+          "size": 7823
         }
       }
     },
