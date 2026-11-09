@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-09T02:30:15.576Z",
-  "total_datasets": 702,
-  "total_records": 554989,
+  "generated": "2026-11-09T02:30:23.359Z",
+  "total_datasets": 703,
+  "total_records": 555010,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "transport",
@@ -19573,6 +19573,33 @@
         "xlsx": {
           "name": "ms-bangunan-tertinggi-kuala-lumpur_MS.xlsx",
           "size": 7751
+        }
+      }
+    },
+    {
+      "id": "ms-bangunan-tertinggi-malaysia",
+      "name": "Senarai Bangunan Tertinggi di Malaysia",
+      "category": "tourism",
+      "record_count": 21,
+      "columns": [
+        "no",
+        "nama",
+        "bandar",
+        "ketinggian_m",
+        "tingkat",
+        "tahun"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_bangunan_tertinggi_di_Malaysia",
+      "updated": "2026-11",
+      "size": 5204,
+      "files": {
+        "csv": {
+          "name": "ms-bangunan-tertinggi-malaysia_MS.csv",
+          "size": 1245
+        },
+        "xlsx": {
+          "name": "ms-bangunan-tertinggi-malaysia_MS.xlsx",
+          "size": 7663
         }
       }
     },

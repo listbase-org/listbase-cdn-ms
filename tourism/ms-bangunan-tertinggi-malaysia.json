@@ -1,0 +1,224 @@
+{
+  "id": "ms-bangunan-tertinggi-malaysia",
+  "name": "Senarai Bangunan Tertinggi di Malaysia",
+  "title": "Senarai Bangunan Tertinggi di Malaysia",
+  "description": "Senarai bangunan dan pencakar langit tertinggi di Malaysia dengan bandar, ketinggian, bilangan tingkat dan tahun siap.",
+  "category": "tourism",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_bangunan_tertinggi_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_bangunan_tertinggi_di_Malaysia",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "bandar",
+      "label": "Bandar",
+      "type": "string"
+    },
+    {
+      "key": "ketinggian_m",
+      "label": "Ketinggian M",
+      "type": "number"
+    },
+    {
+      "key": "tingkat",
+      "label": "Tingkat",
+      "type": "number"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "nama": "PNB MAYBANK 118",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 644,
+      "tingkat": 118,
+      "tahun": 2022
+    },
+    {
+      "no": 2,
+      "nama": "The Exhange 106",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 492,
+      "tingkat": 109,
+      "tahun": 2019
+    },
+    {
+      "no": 3,
+      "nama": "Menara Berkembar Petronas",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 451.9,
+      "tingkat": 88,
+      "tahun": 1999
+    },
+    {
+      "no": 4,
+      "nama": "Menara Kuala Lumpur",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 421,
+      "tingkat": 13,
+      "tahun": 1995
+    },
+    {
+      "no": 5,
+      "nama": "Four Seasons Place Kuala Lumpur",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 342.5,
+      "tingkat": 74,
+      "tahun": 2018
+    },
+    {
+      "no": 6,
+      "nama": "Menara Telekom",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 310,
+      "tingkat": 55,
+      "tahun": 2001
+    },
+    {
+      "no": 7,
+      "nama": "The Astaka",
+      "bandar": "Johor Bahru",
+      "ketinggian_m": 278.9,
+      "tingkat": 72,
+      "tahun": 2017
+    },
+    {
+      "no": 8,
+      "nama": "Menara Ilham",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 275,
+      "tingkat": 60,
+      "tahun": 2015
+    },
+    {
+      "no": 9,
+      "nama": "Menara Carigali",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 267,
+      "tingkat": 60,
+      "tahun": 2012
+    },
+    {
+      "no": 10,
+      "nama": "Menara Tun Perak",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 243.5,
+      "tingkat": 50,
+      "tahun": 1988
+    },
+    {
+      "no": 11,
+      "nama": "Menara Vista",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 238.1,
+      "tingkat": 62,
+      "tahun": 1994
+    },
+    {
+      "no": 12,
+      "nama": "Menara KOMTAR",
+      "bandar": "Penang",
+      "ketinggian_m": 248.7,
+      "tingkat": 68,
+      "tahun": 1985
+    },
+    {
+      "no": 13,
+      "nama": "Sky Tower 88",
+      "bandar": "Johor Bahru",
+      "ketinggian_m": 219,
+      "tingkat": 55,
+      "tahun": 2017
+    },
+    {
+      "no": 14,
+      "nama": "Menara Felda",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 216,
+      "tingkat": 50,
+      "tahun": 2012
+    },
+    {
+      "no": 15,
+      "nama": "Menara Maxis",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 212.1,
+      "tingkat": 49,
+      "tahun": 1998
+    },
+    {
+      "no": 16,
+      "nama": "Menara AmBank",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 210,
+      "tingkat": 50,
+      "tahun": 1998
+    },
+    {
+      "no": 17,
+      "nama": "Menara The Troika 3",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 204,
+      "tingkat": 50,
+      "tahun": 2010
+    },
+    {
+      "no": 18,
+      "nama": "Berjaya Times Square",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 203,
+      "tingkat": 48,
+      "tahun": 2003
+    },
+    {
+      "no": 19,
+      "nama": "K Residence",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 201,
+      "tingkat": 52,
+      "tahun": 2008
+    },
+    {
+      "no": 20,
+      "nama": "Menara Multi Purpose",
+      "bandar": "Kuala Lumpur",
+      "ketinggian_m": 198.1,
+      "tingkat": "",
+      "tahun": ""
+    },
+    {
+      "no": 21,
+      "nama": "Menara Alor Setar",
+      "bandar": "Alor Setar",
+      "ketinggian_m": 165.5,
+      "tingkat": 40,
+      "tahun": 1995
+    }
+  ],
+  "meta": {
+    "title": "Senarai Bangunan Tertinggi di Malaysia - Muat turun percuma",
+    "description": "Senarai bangunan dan pencakar langit tertinggi di Malaysia dengan bandar, ketinggian, bilangan tingkat dan tahun siap. Mengandungi 21 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Bangunan Tertinggi di Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Bangunan Tertinggi di Malaysia — 21 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 21 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_bangunan_tertinggi_di_Malaysia"
+    ]
+  }
+}
