@@ -1,0 +1,236 @@
+{
+  "id": "ms-yang-dipertua-dewan-rakyat",
+  "name": "Senarai Yang di-Pertua Dewan Rakyat Malaysia",
+  "title": "Senarai Yang di-Pertua Dewan Rakyat Malaysia",
+  "description": "Senarai Yang di-Pertua (Speaker) Dewan Rakyat Malaysia sejak 1959 dengan parti, tarikh mula dan tamat, tempoh, penggal parlimen dan timbalan.",
+  "category": "politics",
+  "source": "https://ms.wikipedia.org/wiki/Yang_di-Pertua_Dewan_Rakyat",
+  "source_url": "https://ms.wikipedia.org/wiki/Yang_di-Pertua_Dewan_Rakyat",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "bil",
+      "label": "Bil",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "mula",
+      "label": "Mula",
+      "type": "string"
+    },
+    {
+      "key": "tamat",
+      "label": "Tamat",
+      "type": "string"
+    },
+    {
+      "key": "tempoh",
+      "label": "Tempoh",
+      "type": "string"
+    },
+    {
+      "key": "penggal",
+      "label": "Penggal",
+      "type": "string"
+    },
+    {
+      "key": "timbalan_ydp",
+      "label": "Timbalan Ydp",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bil": "1",
+      "nama": "Mohamed Noah Omar",
+      "parti": "Perikatan",
+      "mula": "1 September 1959",
+      "tamat": "29 Februari 1964",
+      "tempoh": "04 tahun 05 bulan 28 hari",
+      "penggal": "ke-1",
+      "timbalan_ydp": "Kosong"
+    },
+    {
+      "bil": "2",
+      "nama": "Syed Esa Alwee Al-Syahab",
+      "parti": "Perikatan",
+      "mula": "18 Mei 1964",
+      "tamat": "24 November 1964",
+      "tempoh": "6 bulan 6 hari",
+      "penggal": "Ke-2",
+      "timbalan_ydp": "Kosong"
+    },
+    {
+      "bil": "3",
+      "nama": "Chik Mohamad Yusuf Sheikh Abdul Rahman",
+      "parti": "Perikatan",
+      "mula": "25 November 1964",
+      "tamat": "19 Mac 1969",
+      "tempoh": "09 tahun 11 bulan 8 hari",
+      "penggal": "Ke-2",
+      "timbalan_ydp": "Syed Esa Alwee"
+    },
+    {
+      "bil": "3",
+      "nama": "Chik Mohamad Yusuf Sheikh Abdul Rahman",
+      "parti": "Perikatan",
+      "mula": "4 Julai 1970",
+      "tamat": "3 November 1974",
+      "tempoh": "09 tahun 11 bulan 8 hari",
+      "penggal": "Ke-3",
+      "timbalan_ydp": "Nik Ahmad Kamil Nik Mahmod"
+    },
+    {
+      "bil": "4",
+      "nama": "Nik Ahmad Kamil Nik Mahmod",
+      "parti": "BN",
+      "mula": "4 November 1974",
+      "tamat": "20 Disember 1977",
+      "tempoh": "03 tahun 1 bulan 15 hari",
+      "penggal": "Ke-4",
+      "timbalan_ydp": "Syed Nasir Ismail"
+    },
+    {
+      "bil": "5",
+      "nama": "Syed Nasir Syed Ismail",
+      "parti": "BN",
+      "mula": "21 Disember 1977",
+      "tamat": "16 Mac 1982",
+      "tempoh": "4 tahun 2 bulan 7 hari",
+      "penggal": "Ke-5",
+      "timbalan_ydp": "Azahari Md Taib, Mansor Othman"
+    },
+    {
+      "bil": "6",
+      "nama": "Mohamed Zahir Ismail (Bukan Ahli Parlimen)",
+      "parti": "BN",
+      "mula": "14 Jun 1982",
+      "tamat": "14 Oktober 2004",
+      "tempoh": "22 tahun 4 bulan",
+      "penggal": "Ke-6",
+      "timbalan_ydp": "Hee Tien Lai, Abdul Hamid Pawanteh"
+    },
+    {
+      "bil": "6",
+      "nama": "Mohamed Zahir Ismail (Bukan Ahli Parlimen)",
+      "parti": "BN",
+      "mula": "14 Jun 1982",
+      "tamat": "14 Oktober 2004",
+      "tempoh": "22 tahun 4 bulan",
+      "penggal": "Ke-7",
+      "timbalan_ydp": "Mohamed Amin Daud, D.P. Vijandran"
+    },
+    {
+      "bil": "6",
+      "nama": "Mohamed Zahir Ismail (Bukan Ahli Parlimen)",
+      "parti": "BN",
+      "mula": "14 Jun 1982",
+      "tamat": "14 Oktober 2004",
+      "tempoh": "22 tahun 4 bulan",
+      "penggal": "Ke-8",
+      "timbalan_ydp": "Ong Tee Keat, Juhar Mahiruddin"
+    },
+    {
+      "bil": "6",
+      "nama": "Mohamed Zahir Ismail (Bukan Ahli Parlimen)",
+      "parti": "BN",
+      "mula": "14 Jun 1982",
+      "tamat": "14 Oktober 2004",
+      "tempoh": "22 tahun 4 bulan",
+      "penggal": "Ke-9",
+      "timbalan_ydp": "Ong Tee Keat, Juhar Mahiruddin"
+    },
+    {
+      "bil": "6",
+      "nama": "Mohamed Zahir Ismail (Bukan Ahli Parlimen)",
+      "parti": "BN",
+      "mula": "14 Jun 1982",
+      "tamat": "14 Oktober 2004",
+      "tempoh": "22 tahun 4 bulan",
+      "penggal": "Ke-10",
+      "timbalan_ydp": "Muhammad bin Abdullah, Lim Si Cheng"
+    },
+    {
+      "bil": "7",
+      "nama": "Ramli Ngah Abdul Muttalib",
+      "parti": "BN",
+      "mula": "22 November 2004",
+      "tamat": "27 April 2008",
+      "tempoh": "03 tahun 7 bulan 5 hari",
+      "penggal": "Ke-11",
+      "timbalan_ydp": "Yusof Yacob, Lim Si Cheng"
+    },
+    {
+      "bil": "08",
+      "nama": "Pandikar Amin Mulia (Bukan Ahli Parlimen)",
+      "parti": "UMNO - BN",
+      "mula": "28 April 2008",
+      "tamat": "9 Mei 2018",
+      "tempoh": "10 tahun 1 bulan 6 hari",
+      "penggal": "Ke-12",
+      "timbalan_ydp": "Wan Junaidi Tuanku Jaafar (BN), Ronald Kiandee (BN)"
+    },
+    {
+      "bil": "08",
+      "nama": "Pandikar Amin Mulia (Bukan Ahli Parlimen)",
+      "parti": "UMNO - BN",
+      "mula": "28 April 2008",
+      "tamat": "9 Mei 2018",
+      "tempoh": "10 tahun 1 bulan 6 hari",
+      "penggal": "Ke-13",
+      "timbalan_ydp": "Ronald Kiandee (BN), Ismail Mohamed Said (BN)"
+    },
+    {
+      "bil": "9",
+      "nama": "Mohamad Ariff Md Yusof (Bukan Ahli Dewan Rakyat)",
+      "parti": "AMANAH - PH",
+      "mula": "16 Julai 2018",
+      "tamat": "13 Julai 2020",
+      "tempoh": "1 tahun, 11 bulan dan 27 hari",
+      "penggal": "Ke-14",
+      "timbalan_ydp": "Mohd Rashid Hasnon (PKR-PH), Nga Kor Ming (PH-DAP)"
+    },
+    {
+      "bil": "10",
+      "nama": "Azhar Azizan @ Harun (Bukan Ahli Dewan Rakyat)",
+      "parti": "Bebas",
+      "mula": "13 Julai 2020",
+      "tamat": "19 Disember 2022",
+      "tempoh": "2 tahun, 5 bulan dan 6 hari",
+      "penggal": "Ke-14",
+      "timbalan_ydp": "Mohd Rashid Hasnon (PN-BERSATU), Azalina Othman Said (BN-UMNO)"
+    },
+    {
+      "bil": "11",
+      "nama": "Johari Abdul (Bukan Ahli Dewan Rakyat)",
+      "parti": "PH - PKR",
+      "mula": "19 Disember 2022",
+      "tamat": "kini",
+      "tempoh": "3 tahun, 325 hari",
+      "penggal": "Ke-15",
+      "timbalan_ydp": "Ramli Mohd Nor (BN-UMNO), Alice Lau Kiong Yieng (PH-DAP)"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Yang di-Pertua Dewan Rakyat Malaysia - Muat turun percuma",
+    "description": "Senarai Yang di-Pertua (Speaker) Dewan Rakyat Malaysia sejak 1959 dengan parti, tarikh mula dan tamat, tempoh, penggal parlimen dan timbalan. Mengandungi 17 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Yang di-Pertua Dewan Rakyat Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Yang di-Pertua Dewan Rakyat Malaysia — 17 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 17 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Yang_di-Pertua_Dewan_Rakyat"
+    ]
+  }
+}
