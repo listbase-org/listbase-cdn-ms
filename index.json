@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-10T02:30:43.996Z",
-  "total_datasets": 707,
-  "total_records": 555289,
+  "generated": "2026-11-10T02:30:52.328Z",
+  "total_datasets": 708,
+  "total_records": 555319,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -18125,6 +18125,31 @@
         "xlsx": {
           "name": "ms-kupu-kupu_MS.xlsx",
           "size": 33051
+        }
+      }
+    },
+    {
+      "id": "ms-spesies-durio",
+      "name": "Senarai spesies Durio (durian)",
+      "category": "science",
+      "record_count": 30,
+      "columns": [
+        "species",
+        "authority",
+        "distribution",
+        "notes"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_spesies_Durio",
+      "updated": "2026-11",
+      "size": 7547,
+      "files": {
+        "csv": {
+          "name": "ms-spesies-durio_MS.csv",
+          "size": 3354
+        },
+        "xlsx": {
+          "name": "ms-spesies-durio_MS.xlsx",
+          "size": 8570
         }
       }
     },
