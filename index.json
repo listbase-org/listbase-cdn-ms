@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-10T02:30:59.552Z",
-  "total_datasets": 709,
-  "total_records": 555326,
+  "generated": "2026-11-10T02:31:07.211Z",
+  "total_datasets": 710,
+  "total_records": 555384,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 4
+      "dataset_count": 5
     }
   ],
   "datasets": [
@@ -22126,6 +22126,33 @@
         "xlsx": {
           "name": "ms-unit-asas-si_MS.xlsx",
           "size": 6978
+        }
+      }
+    },
+    {
+      "id": "ms-unit-terbitan-si",
+      "name": "Unit terbitan SI",
+      "category": "units",
+      "record_count": 58,
+      "columns": [
+        "name",
+        "symbol",
+        "quantity",
+        "in_other_si_units",
+        "in_si_base_units",
+        "type"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Unit_terbitan_SI",
+      "updated": "2026-11",
+      "size": 14276,
+      "files": {
+        "csv": {
+          "name": "ms-unit-terbitan-si_MS.csv",
+          "size": 4983
+        },
+        "xlsx": {
+          "name": "ms-unit-terbitan-si_MS.xlsx",
+          "size": 9702
         }
       }
     },

@@ -1,0 +1,520 @@
+{
+  "id": "ms-unit-terbitan-si",
+  "name": "Unit terbitan SI",
+  "title": "Unit terbitan SI",
+  "description": "Unit terbitan Sistem Unit Antarabangsa (SI) dalam bahasa Melayu: nama, simbol, kuantiti fizikal dan ungkapan dalam unit asas SI.",
+  "category": "units",
+  "source": "https://ms.wikipedia.org/wiki/Unit_terbitan_SI",
+  "source_url": "https://ms.wikipedia.org/wiki/Unit_terbitan_SI",
+  "updated": "2026-11",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "quantity",
+      "label": "Quantity",
+      "type": "string"
+    },
+    {
+      "key": "in_other_si_units",
+      "label": "In Other Si Units",
+      "type": "string"
+    },
+    {
+      "key": "in_si_base_units",
+      "label": "In Si Base Units",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "hertz",
+      "symbol": "Hz",
+      "quantity": "frekuensi",
+      "in_other_si_units": "1/s",
+      "in_si_base_units": "s^−1",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "newton",
+      "symbol": "N",
+      "quantity": "daya",
+      "in_other_si_units": "m∙kg/s^2",
+      "in_si_base_units": "m∙kg∙s^−2",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "pascal",
+      "symbol": "Pa",
+      "quantity": "tekanan",
+      "in_other_si_units": "N/m^2",
+      "in_si_base_units": "m^−1∙kg∙s^−2",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "joule",
+      "symbol": "J",
+      "quantity": "tenaga",
+      "in_other_si_units": "N∙m",
+      "in_si_base_units": "m^2∙kg∙s^−2",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "watt",
+      "symbol": "W",
+      "quantity": "kuasa, fluks sinaran",
+      "in_other_si_units": "J/s",
+      "in_si_base_units": "m^2∙kg∙s^−3",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "coulomb",
+      "symbol": "C",
+      "quantity": "cas elektrik",
+      "in_other_si_units": "s∙A",
+      "in_si_base_units": "s∙A",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "volt",
+      "symbol": "V",
+      "quantity": "beza keupayaan, daya gerak elektrik",
+      "in_other_si_units": "W/A = J/C",
+      "in_si_base_units": "m^2∙kg∙s^−3∙A^−1",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "farad",
+      "symbol": "F",
+      "quantity": "kapasitans elektrik",
+      "in_other_si_units": "C/V",
+      "in_si_base_units": "m^−2∙kg^−1∙s^4∙A^2",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "ohm",
+      "symbol": "Ω",
+      "quantity": "rintangan elektrik",
+      "in_other_si_units": "V/A",
+      "in_si_base_units": "m^2∙kg∙s^−3∙A^−2",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "siemens",
+      "symbol": "S",
+      "quantity": "kekonduksian elektrik",
+      "in_other_si_units": "1/Ω",
+      "in_si_base_units": "m^−2∙kg^−1∙s^3∙A^2",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "weber",
+      "symbol": "Wb",
+      "quantity": "fluks magnet",
+      "in_other_si_units": "J/A",
+      "in_si_base_units": "m^2∙kg∙s^−2∙A^−1",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "tesla",
+      "symbol": "T",
+      "quantity": "medan magnet",
+      "in_other_si_units": "V∙s/m^2 = Wb/m^2 = N/A∙m",
+      "in_si_base_units": "kg∙s^−2∙A^−1",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "henry",
+      "symbol": "H",
+      "quantity": "aruhan /induktans",
+      "in_other_si_units": "V∙s/A = Wb/A",
+      "in_si_base_units": "m^2∙kg∙s^−2∙A^−2",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "Celsius",
+      "symbol": "°C",
+      "quantity": "Suhu",
+      "in_other_si_units": "T °C = T K − 273.15",
+      "in_si_base_units": "K",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "lumen",
+      "symbol": "lm",
+      "quantity": "fluks berkilau",
+      "in_other_si_units": "cd∙sr",
+      "in_si_base_units": "cd",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "lux",
+      "symbol": "lx",
+      "quantity": "pencahayaan",
+      "in_other_si_units": "lm/m^2",
+      "in_si_base_units": "m^−2∙cd",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "becquerel",
+      "symbol": "Bq",
+      "quantity": "keradioaktifan",
+      "in_other_si_units": "1/s",
+      "in_si_base_units": "s^−1",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "gray",
+      "symbol": "Gy",
+      "quantity": "dos serap",
+      "in_other_si_units": "J/kg",
+      "in_si_base_units": "m^2∙s^−2",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "sievert",
+      "symbol": "Sv",
+      "quantity": "dos setara",
+      "in_other_si_units": "J/kg",
+      "in_si_base_units": "m^2∙s^−2",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "catal",
+      "symbol": "cat",
+      "quantity": "pemangkinan",
+      "in_other_si_units": "mol/s",
+      "in_si_base_units": "s^−1∙mol",
+      "type": "unit terbitan bernama khas"
+    },
+    {
+      "name": "meter persegi",
+      "symbol": "m^2",
+      "quantity": "luas",
+      "in_other_si_units": "",
+      "in_si_base_units": "m^2",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "meter padu",
+      "symbol": "m^3",
+      "quantity": "isi padu",
+      "in_other_si_units": "",
+      "in_si_base_units": "m^3",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "meter sesaat",
+      "symbol": "m/s",
+      "quantity": "laju, halaju",
+      "in_other_si_units": "",
+      "in_si_base_units": "m·s^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "meter sesaat ganda dua",
+      "symbol": "m/s^2",
+      "quantity": "pecutan",
+      "in_other_si_units": "",
+      "in_si_base_units": "m·s^−2",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "meter sesaat ganda tiga",
+      "symbol": "m/s^3",
+      "quantity": "sentakan",
+      "in_other_si_units": "",
+      "in_si_base_units": "m·s^−3",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "radian sesaat",
+      "symbol": "rad/s",
+      "quantity": "halaju sudut",
+      "in_other_si_units": "",
+      "in_si_base_units": "s^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "newton saat",
+      "symbol": "N·s",
+      "quantity": "momentum",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·m·s^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "newton meter saat",
+      "symbol": "N·m·s",
+      "quantity": "momentum sudut",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·m^2 ·s^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "newton meter",
+      "symbol": "N·m",
+      "quantity": "tork, momen daya",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·m^2 ·s^−2",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "meter songsang",
+      "symbol": "m^−1",
+      "quantity": "nombor gelombang",
+      "in_other_si_units": "",
+      "in_si_base_units": "m^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "kilogram semeter padu",
+      "symbol": "kg/m^3",
+      "quantity": "ketumpatan",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·m^−3",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "meter padu sekilogram",
+      "symbol": "m^3 /kg",
+      "quantity": "isi padu tentu",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg^−1 ·m^3",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "mol semeter padu",
+      "symbol": "mol/m^3",
+      "quantity": "kepekatan amaun bahan",
+      "in_other_si_units": "",
+      "in_si_base_units": "m^−3 ·mol",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "meter padu semol",
+      "symbol": "m^3 /mol",
+      "quantity": "isi padu molar",
+      "in_other_si_units": "",
+      "in_si_base_units": "m^3 ·mol^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "joule sekelvin",
+      "symbol": "J/K",
+      "quantity": "muatan haba, entropi",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·m^2 ·s^−2 ·K^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "joule perkelvin mol",
+      "symbol": "J/(K·mol)",
+      "quantity": "muatan haba molar",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·m^2 ·s^−2 ·K^−1 ·mol^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "joule sekilogram kelvin",
+      "symbol": "J/(K·kg)",
+      "quantity": "muatan haba tentu",
+      "in_other_si_units": "",
+      "in_si_base_units": "m^2 ·s^−2 ·K^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "joule per mole",
+      "symbol": "J/mol",
+      "quantity": "tenaga molar",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·m^2 ·s^−2 ·mol^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "joule per kilogram",
+      "symbol": "J/kg",
+      "quantity": "tenaga tentu",
+      "in_other_si_units": "",
+      "in_si_base_units": "m^2 ·s^−2",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "joule per metre padu",
+      "symbol": "J/m^3",
+      "quantity": "ketumpatan tenaga",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·m^−1 ·s^−2",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "newton per meter",
+      "symbol": "N/m = J/m^2",
+      "quantity": "tegangan permukaan",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·s^−2",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "watt per metre persegi",
+      "symbol": "W/m^2",
+      "quantity": "ketumpatan fluks haba",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·s^−3",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "watt per meter kelvin",
+      "symbol": "W/(m·K)",
+      "quantity": "kekonduksian haba",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·m·s^−3 ·K^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "meter persegi per saat",
+      "symbol": "m^2 /s",
+      "quantity": "kelikatan kinematik",
+      "in_other_si_units": "",
+      "in_si_base_units": "m^2 ·s^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "pascal saat",
+      "symbol": "Pa·s = N·s/m^2",
+      "quantity": "kelikatan dinamik",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·m^−1 ·s^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "koulomb per meter padu",
+      "symbol": "C/m^3",
+      "quantity": "ketumpatan cas elektrik",
+      "in_other_si_units": "",
+      "in_si_base_units": "m^−3 ·s·A",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "ampere per meter persegi",
+      "symbol": "A/m^2",
+      "quantity": "ketumpatan arus elektrik",
+      "in_other_si_units": "",
+      "in_si_base_units": "A·m^−2",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "siemens per meter",
+      "symbol": "S/m",
+      "quantity": "kekonduksian elektrik",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg^−1 ·m^−3 ·s^3 ·A^2",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "siemens meter persegi per mole",
+      "symbol": "S·m^2 /mol",
+      "quantity": "kekonduksian molar",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg -1 ·s^3 ·mol^−1 ·A^2",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "farad per meter",
+      "symbol": "F/m",
+      "quantity": "ketelusan",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg^−1 ·m^−3 ·s^4 ·A^2",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "henry per meter",
+      "symbol": "H/m",
+      "quantity": "kebolehtelapan",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·m·s^−2 ·A^−2",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "volt per meter",
+      "symbol": "V/m",
+      "quantity": "kekuatan medan elektrik",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg·m·s^−3 ·A^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "ampere per meter",
+      "symbol": "A/m",
+      "quantity": "kekuatan medan magnet",
+      "in_other_si_units": "",
+      "in_si_base_units": "A·m^−1",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "kandela per metre persegi",
+      "symbol": "cd/m^2",
+      "quantity": "luminans",
+      "in_other_si_units": "",
+      "in_si_base_units": "cd·m^−2",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "koulomb per kilogram",
+      "symbol": "C/kg",
+      "quantity": "dedahan (sinar X dan gamma)",
+      "in_other_si_units": "",
+      "in_si_base_units": "kg^−1 ·s·A",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "gray per saat",
+      "symbol": "Gy/s",
+      "quantity": "kadar dos serap",
+      "in_other_si_units": "",
+      "in_si_base_units": "m^2 ·s^−3",
+      "type": "unit gabungan"
+    },
+    {
+      "name": "radian",
+      "symbol": "rad",
+      "quantity": "sudut",
+      "in_other_si_units": "",
+      "in_si_base_units": "",
+      "type": "unit tanpa dimensi"
+    },
+    {
+      "name": "steradian",
+      "symbol": "sr",
+      "quantity": "sudut padu",
+      "in_other_si_units": "",
+      "in_si_base_units": "",
+      "type": "unit tanpa dimensi"
+    }
+  ],
+  "meta": {
+    "title": "Unit terbitan SI - Muat turun percuma",
+    "description": "Unit terbitan Sistem Unit Antarabangsa (SI) dalam bahasa Melayu: nama, simbol, kuantiti fizikal dan ungkapan dalam unit asas SI. Mengandungi 58 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Unit terbitan SI | ListBase",
+    "seo_description": "Muat turun Unit terbitan SI — 58 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 58 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Unit_terbitan_SI"
+    ]
+  }
+}
