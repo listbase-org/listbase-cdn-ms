@@ -1,0 +1,88 @@
+{
+  "id": "ms-unit-asas-si",
+  "name": "Unit asas SI",
+  "title": "Unit asas SI",
+  "description": "Tujuh unit asas Sistem Unit Antarabangsa (SI) dalam bahasa Melayu dengan kuantiti fizik dan simbolnya.",
+  "category": "units",
+  "source": "https://ms.wikipedia.org/wiki/Unit_asas_SI",
+  "source_url": "https://ms.wikipedia.org/wiki/Unit_asas_SI",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "quantity",
+      "label": "Quantity",
+      "type": "string"
+    },
+    {
+      "key": "quantity_symbol",
+      "label": "Quantity Symbol",
+      "type": "string"
+    },
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "unit_symbol",
+      "label": "Unit Symbol",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "quantity": "Jisim",
+      "quantity_symbol": "m",
+      "unit": "kilogram",
+      "unit_symbol": "kg"
+    },
+    {
+      "quantity": "Suhu",
+      "quantity_symbol": "T, θ",
+      "unit": "Kelvin",
+      "unit_symbol": "K"
+    },
+    {
+      "quantity": "Panjang",
+      "quantity_symbol": "l",
+      "unit": "meter",
+      "unit_symbol": "m"
+    },
+    {
+      "quantity": "Masa",
+      "quantity_symbol": "t",
+      "unit": "saat",
+      "unit_symbol": "s"
+    },
+    {
+      "quantity": "Arus",
+      "quantity_symbol": "I",
+      "unit": "Ampere",
+      "unit_symbol": "A"
+    },
+    {
+      "quantity": "Kuantiti bahan",
+      "quantity_symbol": "n",
+      "unit": "mol",
+      "unit_symbol": "mol"
+    },
+    {
+      "quantity": "Kecerahan cahaya",
+      "quantity_symbol": "I v",
+      "unit": "candela",
+      "unit_symbol": "cd"
+    }
+  ],
+  "meta": {
+    "title": "Unit asas SI - Muat turun percuma",
+    "description": "Tujuh unit asas Sistem Unit Antarabangsa (SI) dalam bahasa Melayu dengan kuantiti fizik dan simbolnya. Mengandungi 7 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Unit asas SI | ListBase",
+    "seo_description": "Muat turun Unit asas SI — 7 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 7 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Unit_asas_SI"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-10T02:30:52.328Z",
-  "total_datasets": 708,
-  "total_records": 555319,
+  "generated": "2026-11-10T02:30:59.552Z",
+  "total_datasets": 709,
+  "total_records": 555326,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 3
+      "dataset_count": 4
     }
   ],
   "datasets": [
@@ -22101,6 +22101,31 @@
         "xlsx": {
           "name": "ms-wp-putrajaya-lapangan-terbang_MS.xlsx",
           "size": 7066
+        }
+      }
+    },
+    {
+      "id": "ms-unit-asas-si",
+      "name": "Unit asas SI",
+      "category": "units",
+      "record_count": 7,
+      "columns": [
+        "quantity",
+        "quantity_symbol",
+        "unit",
+        "unit_symbol"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Unit_asas_SI",
+      "updated": "2026-11",
+      "size": 2243,
+      "files": {
+        "csv": {
+          "name": "ms-unit-asas-si_MS.csv",
+          "size": 253
+        },
+        "xlsx": {
+          "name": "ms-unit-asas-si_MS.xlsx",
+          "size": 6978
         }
       }
     },
