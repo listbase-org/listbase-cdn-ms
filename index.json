@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-11T02:11:24.163Z",
-  "total_datasets": 712,
-  "total_records": 555419,
+  "generated": "2026-11-11T02:11:33.653Z",
+  "total_datasets": 713,
+  "total_records": 555441,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 26
+      "dataset_count": 27
     },
     {
       "id": "entertainment",
@@ -2330,6 +2330,30 @@
         "xlsx": {
           "name": "ms-jurnal-akademik_MS.xlsx",
           "size": 12421
+        }
+      }
+    },
+    {
+      "id": "ms-menteri-pendidikan",
+      "name": "Senarai Menteri Pendidikan Malaysia",
+      "category": "education",
+      "record_count": 22,
+      "columns": [
+        "bil",
+        "nama",
+        "tempoh"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Menteri_Pendidikan_Malaysia",
+      "updated": "2026-11",
+      "size": 4028,
+      "files": {
+        "csv": {
+          "name": "ms-menteri-pendidikan_MS.csv",
+          "size": 1394
+        },
+        "xlsx": {
+          "name": "ms-menteri-pendidikan_MS.xlsx",
+          "size": 7608
         }
       }
     },
