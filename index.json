@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-10T02:31:07.211Z",
-  "total_datasets": 710,
-  "total_records": 555384,
+  "generated": "2026-11-11T02:11:15.409Z",
+  "total_datasets": 711,
+  "total_records": 555399,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "time",
@@ -18769,6 +18769,33 @@
         "xlsx": {
           "name": "ms-langganan-selular_MS.xlsx",
           "size": 7318
+        }
+      }
+    },
+    {
+      "id": "ms-menteri-komunikasi",
+      "name": "Senarai Menteri Komunikasi Malaysia",
+      "category": "tech",
+      "record_count": 15,
+      "columns": [
+        "nama",
+        "kawasan",
+        "parti",
+        "jawatan",
+        "tempoh",
+        "perdana_menteri"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Menteri_Komunikasi_Malaysia",
+      "updated": "2026-11",
+      "size": 5840,
+      "files": {
+        "csv": {
+          "name": "ms-menteri-komunikasi_MS.csv",
+          "size": 2241
+        },
+        "xlsx": {
+          "name": "ms-menteri-komunikasi_MS.xlsx",
+          "size": 7978
         }
       }
     },
