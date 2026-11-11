@@ -1,0 +1,223 @@
+{
+  "id": "ms-menteri-pengangkutan",
+  "name": "Senarai Menteri Pengangkutan Malaysia",
+  "title": "Senarai Menteri Pengangkutan Malaysia",
+  "description": "Senarai Menteri Pengangkutan Malaysia sejak 1955 beserta parti, tarikh memegang jawatan dan Perdana Menteri.",
+  "category": "transport",
+  "source": "https://ms.wikipedia.org/wiki/Menteri_Pengangkutan_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Menteri_Pengangkutan_Malaysia",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kawasan",
+      "label": "Kawasan",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "jawatan",
+      "label": "Jawatan",
+      "type": "string"
+    },
+    {
+      "key": "mula",
+      "label": "Mula",
+      "type": "number"
+    },
+    {
+      "key": "tamat",
+      "label": "Tamat",
+      "type": "number"
+    },
+    {
+      "key": "perdana_menteri",
+      "label": "Perdana Menteri",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "H. S. Lee",
+      "kawasan": "",
+      "parti": "Parti Perikatan (MCA)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "1955",
+      "tamat": "1957",
+      "perdana_menteri": "Ketua Menteri Persekutuan Tanah Melayu Tunku Abdul Rahman"
+    },
+    {
+      "nama": "Abdul Rahman Talib",
+      "kawasan": "AP Kuantan",
+      "parti": "Parti Perikatan (UMNO)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "31 Ogos 1957",
+      "tamat": "7 Oktober 1959",
+      "perdana_menteri": "Tunku Abdul Rahman (I)"
+    },
+    {
+      "nama": "Sardon Jubir",
+      "kawasan": "AP Pontian Utara",
+      "parti": "Parti Perikatan (UMNO)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "18 November 1959",
+      "tamat": "4 Disember 1968",
+      "perdana_menteri": "Tunku Abdul Rahman (II • III)"
+    },
+    {
+      "nama": "V. Manickavasagam",
+      "kawasan": "AP Klang",
+      "parti": "Parti Perikatan (MIC)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "4 Jun 1969",
+      "tamat": "20 September 1970",
+      "perdana_menteri": "Tunku Abdul Rahman (IV)"
+    },
+    {
+      "nama": "Abdul Ghani Gilong",
+      "kawasan": "AP Kinabalu",
+      "parti": "Parti Perikatan (USNO)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "23 September 1970",
+      "tamat": "9 Februari 1971",
+      "perdana_menteri": "Abdul Razak Hussein (I)"
+    },
+    {
+      "nama": "V. Manickavasagam",
+      "kawasan": "AP Pelabuhan Kelang",
+      "parti": "BN (MIC)",
+      "jawatan": "Menteri Kerjaraya dan Pengangkutan",
+      "mula": "5 September 1974",
+      "tamat": "1976",
+      "perdana_menteri": "Abdul Razak Hussein (II)"
+    },
+    {
+      "nama": "V. Manickavasagam",
+      "kawasan": "AP Pelabuhan Kelang",
+      "parti": "BN (MIC)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "1978",
+      "tamat": "15 September 1979",
+      "perdana_menteri": "Hussein Onn (II)"
+    },
+    {
+      "nama": "Lee San Choon",
+      "kawasan": "AP Segamat AP Seremban",
+      "parti": "BN (MCA)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "1 November 1979",
+      "tamat": "31 Mac 1983",
+      "perdana_menteri": "Hussein Onn (II) Mahathir Mohamad (I • II)"
+    },
+    {
+      "nama": "Chong Hon Nyan",
+      "kawasan": "AP Batu Berendam",
+      "parti": "BN (MCA)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "2 Jun 1983",
+      "tamat": "6 Januari 1986",
+      "perdana_menteri": "Mahathir Mohamad (II)"
+    },
+    {
+      "nama": "Ling Liong Sik",
+      "kawasan": "AP Mata Kuching AP Labis",
+      "parti": "BN (MCA)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "7 Januari 1986",
+      "tamat": "25 Mac 2003",
+      "perdana_menteri": "Mahathir Mohamad (II • III • IV • V • VI)"
+    },
+    {
+      "nama": "Chan Kong Choy",
+      "kawasan": "AP Selayang",
+      "parti": "BN (MCA)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "1 Julai 2003",
+      "tamat": "9 Mac 2008",
+      "perdana_menteri": "Mahathir Mohamad (VI) Abdullah Ahmad Badawi (I • II)"
+    },
+    {
+      "nama": "Ong Tee Keat",
+      "kawasan": "AP Pandan",
+      "parti": "BN (MCA)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "18 Mac 2008",
+      "tamat": "3 Jun 2010",
+      "perdana_menteri": "Abdullah Ahmad Badawi (III) Najib Razak (I)"
+    },
+    {
+      "nama": "Kong Cho Ha",
+      "kawasan": "AP Lumut",
+      "parti": "BN (MCA)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "4 Jun 2010",
+      "tamat": "5 Mei 2013",
+      "perdana_menteri": "Najib Razak (I)"
+    },
+    {
+      "nama": "Hishammuddin Hussein",
+      "kawasan": "AP Sembrong Acting",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "16 Mei 2013",
+      "tamat": "24 Jun 2014",
+      "perdana_menteri": "Najib Razak (II)"
+    },
+    {
+      "nama": "Liow Tiong Lai",
+      "kawasan": "AP Bentong",
+      "parti": "BN (MCA)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "27 Jun 2014",
+      "tamat": "10 Mei 2018",
+      "perdana_menteri": "Najib Razak (II)"
+    },
+    {
+      "nama": "Anthony Loke Siew Fook",
+      "kawasan": "AP Seremban",
+      "parti": "PH (DAP)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "21 Mei 2018",
+      "tamat": "24 Februari 2020",
+      "perdana_menteri": "Mahathir Mohamad (VII)"
+    },
+    {
+      "nama": "Wee Ka Siong",
+      "kawasan": "AP Ayer Hitam",
+      "parti": "BN (MCA)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "10 Mac 2020",
+      "tamat": "16 Ogos 2021",
+      "perdana_menteri": "Muhyiddin Yassin (I)"
+    },
+    {
+      "nama": "Anthony Loke Siew Fook",
+      "kawasan": "AP Seremban",
+      "parti": "PH (DAP)",
+      "jawatan": "Menteri Pengangkutan",
+      "mula": "3 Disember 2022",
+      "tamat": "10 November 2026",
+      "perdana_menteri": "Anwar Ibrahim (I)"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Menteri Pengangkutan Malaysia - Muat turun percuma",
+    "description": "Senarai Menteri Pengangkutan Malaysia sejak 1955 beserta parti, tarikh memegang jawatan dan Perdana Menteri. Mengandungi 18 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Menteri Pengangkutan Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Menteri Pengangkutan Malaysia — 18 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 18 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Menteri_Pengangkutan_Malaysia"
+    ]
+  }
+}

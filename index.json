@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-11T02:11:33.653Z",
-  "total_datasets": 713,
-  "total_records": 555441,
+  "generated": "2026-11-11T02:11:41.756Z",
+  "total_datasets": 714,
+  "total_records": 555459,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 65
+      "dataset_count": 66
     },
     {
       "id": "units",
@@ -21244,6 +21244,34 @@
         "xlsx": {
           "name": "ms-melaka-stesen-keretapi_MS.xlsx",
           "size": 7251
+        }
+      }
+    },
+    {
+      "id": "ms-menteri-pengangkutan",
+      "name": "Senarai Menteri Pengangkutan Malaysia",
+      "category": "transport",
+      "record_count": 18,
+      "columns": [
+        "nama",
+        "kawasan",
+        "parti",
+        "jawatan",
+        "mula",
+        "tamat",
+        "perdana_menteri"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Menteri_Pengangkutan_Malaysia",
+      "updated": "2026-11",
+      "size": 6688,
+      "files": {
+        "csv": {
+          "name": "ms-menteri-pengangkutan_MS.csv",
+          "size": 2488
+        },
+        "xlsx": {
+          "name": "ms-menteri-pengangkutan_MS.xlsx",
+          "size": 8116
         }
       }
     },
