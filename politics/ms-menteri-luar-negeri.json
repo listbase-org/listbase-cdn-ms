@@ -1,0 +1,216 @@
+{
+  "id": "ms-menteri-luar-negeri",
+  "name": "Senarai Menteri Luar Negeri Malaysia",
+  "title": "Senarai Menteri Luar Negeri Malaysia",
+  "description": "Senarai Menteri Luar Negeri Malaysia sejak 1957 beserta parti, tempoh perkhidmatan dan Perdana Menteri.",
+  "category": "politics",
+  "source": "https://ms.wikipedia.org/wiki/Menteri_Luar_Negeri_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Menteri_Luar_Negeri_Malaysia",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kawasan",
+      "label": "Kawasan",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "jawatan",
+      "label": "Jawatan",
+      "type": "string"
+    },
+    {
+      "key": "tempoh",
+      "label": "Tempoh",
+      "type": "string"
+    },
+    {
+      "key": "perdana_menteri",
+      "label": "Perdana Menteri",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Tunku Abdul Rahman",
+      "kawasan": "",
+      "parti": "Perikatan (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "31 Ogos 1957 - 2 Februari 1959",
+      "perdana_menteri": "Tunku Abdul Rahman (I)"
+    },
+    {
+      "nama": "Tun Dr. Ismail Abdul Rahman",
+      "kawasan": "AP Johore Timor",
+      "parti": "Perikatan (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "3 Februari 1959 - 31 Ogos 1960",
+      "perdana_menteri": "Tunku Abdul Rahman (II)"
+    },
+    {
+      "nama": "Tunku Abdul Rahman",
+      "kawasan": "AP Kuala Kedah",
+      "parti": "Perikatan (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "1 September 1960 - 22 September 1970",
+      "perdana_menteri": "Tunku Abdul Rahman (II · III · IV)"
+    },
+    {
+      "nama": "Tunku Abdul Rahman",
+      "kawasan": "AP Kuala Kedah",
+      "parti": "Perikatan (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "1 September 1960 - 22 September 1970",
+      "perdana_menteri": "Tunku Abdul Rahman (II · III · IV)"
+    },
+    {
+      "nama": "Tun Abdul Razak Hussein",
+      "kawasan": "AP Pekan",
+      "parti": "Perikatan (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "23 September 1970 - 12 Ogos 1975",
+      "perdana_menteri": "Abdul Razak Hussein (I · II)"
+    },
+    {
+      "nama": "Tun Abdul Razak Hussein",
+      "kawasan": "AP Pekan",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "23 September 1970 - 12 Ogos 1975",
+      "perdana_menteri": "Abdul Razak Hussein (I · II)"
+    },
+    {
+      "nama": "Tengku Ahmad Rithauddeen Ismail",
+      "kawasan": "AP Kota Bharu",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "13 Ogos 1975 - 16 Julai 1981",
+      "perdana_menteri": "Abdul Razak Hussein (II) Hussein Onn (I · II)"
+    },
+    {
+      "nama": "Muhammad Ghazali Shafie",
+      "kawasan": "AP Lipis",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "17 Julai 1981 - 16 Julai 1984",
+      "perdana_menteri": "Mahathir Mohamad (I · II)"
+    },
+    {
+      "nama": "Tengku Ahmad Rithauddeen Ismail",
+      "kawasan": "AP Kota Bharu",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "17 Julai 1984 - 10 Ogos 1986",
+      "perdana_menteri": "Mahathir Mohamad (II)"
+    },
+    {
+      "nama": "Rais Yatim",
+      "kawasan": "AP Jelebu",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "11 Ogos 1986 - 7 Mei 1987",
+      "perdana_menteri": "Mahathir Mohamad (III)"
+    },
+    {
+      "nama": "Abu Hassan Omar",
+      "kawasan": "AP Kuala Selangor",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "20 Mei 1987 - 14 Mac 1991",
+      "perdana_menteri": "Mahathir Mohamad (III · IV)"
+    },
+    {
+      "nama": "Abdullah Ahmad Badawi",
+      "kawasan": "AP Kepala Batas",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "15 Mac 1991 - 8 Januari 1999",
+      "perdana_menteri": "Mahathir Mohamad (IV · V)"
+    },
+    {
+      "nama": "Syed Hamid Syed Jaafar Albar",
+      "kawasan": "AP Kota Tinggi",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "9 Januari 1999 - 18 Mac 2008",
+      "perdana_menteri": "Mahathir Mohamad (VI) Abdullah Ahmad Badawi (I · II)"
+    },
+    {
+      "nama": "Rais Yatim",
+      "kawasan": "AP Jelebu",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "19 Mac 2008 - 8 April 2009",
+      "perdana_menteri": "Abdullah Ahmad Badawi (III)"
+    },
+    {
+      "nama": "Anifah Aman",
+      "kawasan": "AP Kimanis",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "9 April 2009 - 10 Mei 2018",
+      "perdana_menteri": "Najib Razak (I · II)"
+    },
+    {
+      "nama": "Saifuddin Abdullah",
+      "kawasan": "AP Indera Mahkota",
+      "parti": "PH (PKR)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "2 Julai 2018 - 24 Februari 2020",
+      "perdana_menteri": "Mahathir Mohamad (VII)"
+    },
+    {
+      "nama": "Hishammuddin Hussein",
+      "kawasan": "AP Sembrong",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "10 Mac 2020 - 16 Ogos 2021",
+      "perdana_menteri": "Muhyiddin Yassin (I)"
+    },
+    {
+      "nama": "Saifuddin Abdullah",
+      "kawasan": "AP Indera Mahkota",
+      "parti": "PN (PPBM)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "30 Ogos 2021 - 24 November 2022",
+      "perdana_menteri": "Ismail Sabri (I)"
+    },
+    {
+      "nama": "Zambry Abd. Kadir Senator",
+      "kawasan": "",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "3 Disember 2022 - 12 Disember 2023",
+      "perdana_menteri": "Anwar Ibrahim (I)"
+    },
+    {
+      "nama": "Mohamad Hasan",
+      "kawasan": "AP Rembau",
+      "parti": "BN (UMNO)",
+      "jawatan": "Menteri Luar Negeri",
+      "tempoh": "12 Disember 2023 - kini",
+      "perdana_menteri": "Anwar Ibrahim (II)"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Menteri Luar Negeri Malaysia - Muat turun percuma",
+    "description": "Senarai Menteri Luar Negeri Malaysia sejak 1957 beserta parti, tempoh perkhidmatan dan Perdana Menteri. Mengandungi 20 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Menteri Luar Negeri Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Menteri Luar Negeri Malaysia — 20 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 20 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Menteri_Luar_Negeri_Malaysia"
+    ]
+  }
+}

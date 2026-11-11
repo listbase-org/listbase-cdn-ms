@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-11T02:11:15.409Z",
-  "total_datasets": 711,
-  "total_records": 555399,
+  "generated": "2026-11-11T02:11:24.163Z",
+  "total_datasets": 712,
+  "total_records": 555419,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 109
+      "dataset_count": 110
     },
     {
       "id": "reference",
@@ -9907,6 +9907,33 @@
         "xlsx": {
           "name": "ms-melaka-parlimen_MS.xlsx",
           "size": 7191
+        }
+      }
+    },
+    {
+      "id": "ms-menteri-luar-negeri",
+      "name": "Senarai Menteri Luar Negeri Malaysia",
+      "category": "politics",
+      "record_count": 20,
+      "columns": [
+        "nama",
+        "kawasan",
+        "parti",
+        "jawatan",
+        "tempoh",
+        "perdana_menteri"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Menteri_Luar_Negeri_Malaysia",
+      "updated": "2026-11",
+      "size": 6862,
+      "files": {
+        "csv": {
+          "name": "ms-menteri-luar-negeri_MS.csv",
+          "size": 2762
+        },
+        "xlsx": {
+          "name": "ms-menteri-luar-negeri_MS.xlsx",
+          "size": 7988
         }
       }
     },
