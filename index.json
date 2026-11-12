@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-12T02:33:22.605Z",
-  "total_datasets": 716,
-  "total_records": 556008,
+  "generated": "2026-11-12T02:33:33.527Z",
+  "total_datasets": 717,
+  "total_records": 556145,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 23
+      "dataset_count": 24
     },
     {
       "id": "history",
@@ -5278,6 +5278,30 @@
         "xlsx": {
           "name": "ms-selangor-fasiliti-kesihatan_MS.xlsx",
           "size": 63819
+        }
+      }
+    },
+    {
+      "id": "ms-senarai-hospital-kerajaan",
+      "name": "Senarai Hospital Kerajaan di Malaysia mengikut Negeri",
+      "category": "health",
+      "record_count": 137,
+      "columns": [
+        "nama",
+        "alamat",
+        "negeri"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_hospital_di_Malaysia",
+      "updated": "2026-11",
+      "size": 18407,
+      "files": {
+        "csv": {
+          "name": "ms-senarai-hospital-kerajaan_MS.csv",
+          "size": 8582
+        },
+        "xlsx": {
+          "name": "ms-senarai-hospital-kerajaan_MS.xlsx",
+          "size": 11612
         }
       }
     },

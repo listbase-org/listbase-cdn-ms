@@ -1,0 +1,726 @@
+{
+  "id": "ms-senarai-hospital-kerajaan",
+  "name": "Senarai Hospital Kerajaan di Malaysia mengikut Negeri",
+  "title": "Senarai Hospital Kerajaan di Malaysia mengikut Negeri",
+  "description": "Hospital kerajaan di Malaysia disusun mengikut negeri, dengan alamat hospital.",
+  "category": "health",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_hospital_di_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_hospital_di_Malaysia",
+  "updated": "2026-11",
+  "record_count": 137,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Hospital Tuanku Fauziah",
+      "alamat": "Jalan Hospital, 01000 Kangar",
+      "negeri": "Perlis"
+    },
+    {
+      "nama": "Hospital Sultanah Bahiyah",
+      "alamat": "Jalan Langgar, 05100 Alor Setar",
+      "negeri": "Kedah"
+    },
+    {
+      "nama": "Hospital Sultan Abdul Halim",
+      "alamat": "Jalan Lencongan Timur, 08000 Sungai Petani",
+      "negeri": "Kedah"
+    },
+    {
+      "nama": "Hospital Kulim",
+      "alamat": "Jalan Kulim-Mahang, 09000 Kulim",
+      "negeri": "Kedah"
+    },
+    {
+      "nama": "Hospital Baling",
+      "alamat": "Jalan Hospital, 09100 Baling",
+      "negeri": "Kedah"
+    },
+    {
+      "nama": "Hospital Sik",
+      "alamat": "08200 Sik",
+      "negeri": "Kedah"
+    },
+    {
+      "nama": "Hospital Sultanah Maliha",
+      "alamat": "Jalan Padang Matsirat, 07000 Langkawi",
+      "negeri": "Kedah"
+    },
+    {
+      "nama": "Hospital Yan",
+      "alamat": "Jalan Merbok-Yan Kechil, 06900 Yan",
+      "negeri": "Kedah"
+    },
+    {
+      "nama": "Hospital Jitra",
+      "alamat": "Jalan Jitra, 06000 Jitra",
+      "negeri": "Kedah"
+    },
+    {
+      "nama": "Hospital Kuala Nerang",
+      "alamat": "Jalan Kuala Nerang, 06300 Kuala Nerang",
+      "negeri": "Kedah"
+    },
+    {
+      "nama": "Hospital Pendang",
+      "alamat": "Manggol Pauh,Kedah Pendang",
+      "negeri": "Kedah"
+    },
+    {
+      "nama": "Hospital Pulau Pinang",
+      "alamat": "Jalan Residensi, 10450 Pulau Pinang",
+      "negeri": "Pulau Pinang"
+    },
+    {
+      "nama": "Hospital Sungai Bakap",
+      "alamat": "Jalan Besar Sungai Bakap, 14200 Sungai Jawi",
+      "negeri": "Pulau Pinang"
+    },
+    {
+      "nama": "Hospital Bukit Mertajam",
+      "alamat": "Jalan Kulim, 14000 Bukit Mertajam",
+      "negeri": "Pulau Pinang"
+    },
+    {
+      "nama": "Hospital Balik Pulau",
+      "alamat": "Jalan Balik Pulau, 11000 Balik Pulau",
+      "negeri": "Pulau Pinang"
+    },
+    {
+      "nama": "Hospital Seberang Jaya",
+      "alamat": "Jalan Tun Hussien Onn, 13700 Seberang Jaya",
+      "negeri": "Pulau Pinang"
+    },
+    {
+      "nama": "Hospital Kepala Batas",
+      "alamat": "Jalan Bertam 2, 13200 Kepala Batas",
+      "negeri": "Pulau Pinang"
+    },
+    {
+      "nama": "Hospital Raja Permaisuri Bainun",
+      "alamat": "Jalan Hospital, 30450 Ipoh",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Taiping",
+      "alamat": "Jalan Taming Sari, 34000 Taiping",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Teluk Intan",
+      "alamat": "Jalan Changkat Jong, 36000 Teluk Intan",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Kuala Kangsar",
+      "alamat": "Jalan Sultan Idris Shah 1, 33000 Kuala Kangsar",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Parit Buntar",
+      "alamat": "Jalan Sempadan, 34200 Parit Buntar",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Batu Gajah",
+      "alamat": "Jalan Changkat], 31000 Batu Gajah",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Tapah",
+      "alamat": "Jalan Temoh, 35000 Tapah",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Kampar",
+      "alamat": "Jalan Hospital, 31500 Kampar",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Slim River",
+      "alamat": "35800 Slim River",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Grik",
+      "alamat": "Jalan Intan, 33000 Grik",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Selama",
+      "alamat": "Jalan Taiping, 34100 Selama",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Seri Manjung",
+      "alamat": "32040 Seri Manjung",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Changkat Melintang",
+      "alamat": "32600 Bota",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Sungai Siput",
+      "alamat": "Jalan Felda Lasah, 31100 Sungai Siput",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Bahagia",
+      "alamat": "31250 Ulu Kinta",
+      "negeri": "Perak"
+    },
+    {
+      "nama": "Hospital Besar Kuala Lumpur",
+      "alamat": "Jalan Pahang], 50586 Kuala Lumpur",
+      "negeri": "Wilayah Persekutuan"
+    },
+    {
+      "nama": "Hospital Putrajaya",
+      "alamat": "Pusat Pentadbiran Kerajaan Persekutuan, Presint 7, 62250 Putrajaya",
+      "negeri": "Wilayah Persekutuan"
+    },
+    {
+      "nama": "Institut Perubatan Respiratori",
+      "alamat": "Jalan Pahang, 53000 Kuala Lumpur",
+      "negeri": "Wilayah Persekutuan"
+    },
+    {
+      "nama": "Hospital WP Labuan",
+      "alamat": "Peti Surat 6, 87008 Wilayah Persekutuan Labuan",
+      "negeri": "Wilayah Persekutuan"
+    },
+    {
+      "nama": "Hospital Tengku Ampuan Rahimah",
+      "alamat": "41200 Klang, Klang",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Kajang",
+      "alamat": "Jalan Semenyih, 43000 Kajang, Hulu Langat",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Tanjung Karang",
+      "alamat": "45500 Tanjung Karang, Kuala Selangor",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Kuala Kubu Bharu",
+      "alamat": "Jalan Hospital, 44000 Kuala Kubu Bharu, Hulu Selangor",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Tengku Ampuan Jemaah",
+      "alamat": "45200 Sabak Bernam, Sabak Bernam",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Banting",
+      "alamat": "42700 Banting, Kuala Langat",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Selayang",
+      "alamat": "Lebuhraya Selayang-Kepong, 68100 Batu Caves, Gombak",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Sungai Buloh",
+      "alamat": "47000 Sungai Buloh, Gombak",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Serdang",
+      "alamat": "43300 Seri Kembangan, Petaling",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Ampang",
+      "alamat": "68000 Ampang",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Shah Alam",
+      "alamat": "40000 Shah Alam, Petaling",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Orang Asli Gombak",
+      "alamat": "Gombak",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Cyberjaya (Dalam binaan)",
+      "alamat": "Sepang",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Kapar (Dalam binaan)",
+      "alamat": "Klang",
+      "negeri": "Selangor"
+    },
+    {
+      "nama": "Hospital Tuanku Ja'afar",
+      "alamat": "Jalan Rasah, 70300 Seremban",
+      "negeri": "Negeri Sembilan"
+    },
+    {
+      "nama": "Hospital Tuanku Ampuan Najihah",
+      "alamat": "72000 Kuala Pilah",
+      "negeri": "Negeri Sembilan"
+    },
+    {
+      "nama": "Hospital Port Dickson",
+      "alamat": "KM 11, Jalan Pantai, 71050 Sri Rusa",
+      "negeri": "Negeri Sembilan"
+    },
+    {
+      "nama": "Hospital Tampin",
+      "alamat": "73009 Tampin",
+      "negeri": "Negeri Sembilan"
+    },
+    {
+      "nama": "Hospital Jelebu",
+      "alamat": "71600 Kuala Kelawang",
+      "negeri": "Negeri Sembilan"
+    },
+    {
+      "nama": "Hospital Jempol",
+      "alamat": "72120 Bandar Baru Serting",
+      "negeri": "Negeri Sembilan"
+    },
+    {
+      "nama": "Hospital Rembau",
+      "alamat": "",
+      "negeri": "Negeri Sembilan"
+    },
+    {
+      "nama": "Hospital Melaka",
+      "alamat": "Jalan Mufti Haji Khalil, 75499 Melaka",
+      "negeri": "Melaka"
+    },
+    {
+      "nama": "Hospital Alor Gajah",
+      "alamat": "78000 Alor Gajah",
+      "negeri": "Melaka"
+    },
+    {
+      "nama": "Hospital Jasin",
+      "alamat": "Jasin Melaka",
+      "negeri": "Melaka"
+    },
+    {
+      "nama": "Hospital Sultanah Aminah",
+      "alamat": "80100 Johor Bharu",
+      "negeri": "Johor"
+    },
+    {
+      "nama": "Hospital Pakar Sultanah Fatimah",
+      "alamat": "Jalan Salleh, 84000 Muar",
+      "negeri": "Johor"
+    },
+    {
+      "nama": "Hospital Sultanah Nora Ismail",
+      "alamat": "Jalan Kurma, Taman Soga, 83000 Batu Pahat",
+      "negeri": "Johor"
+    },
+    {
+      "nama": "Hospital Enche' Besar Hajjah Khalsom",
+      "alamat": "Km 5, Jalan Kota Tinggi, 86000 Kluang",
+      "negeri": "Johor"
+    },
+    {
+      "nama": "Hospital Segamat",
+      "alamat": "KM 6, Jalan Genuang, 85000 Segamat",
+      "negeri": "Johor"
+    },
+    {
+      "nama": "Hospital Pontian",
+      "alamat": "Jalan Alsagoff, 82000 Pontian",
+      "negeri": "Johor"
+    },
+    {
+      "nama": "Hospital Kota Tinggi",
+      "alamat": "Jalan Lombong, 81900 Kota Tinggi",
+      "negeri": "Johor"
+    },
+    {
+      "nama": "Hospital Mersing",
+      "alamat": "Jalan Ismail, 86800 Mersing",
+      "negeri": "Johor"
+    },
+    {
+      "nama": "Hospital Tangkak",
+      "alamat": "Jalan Hospital, 84900 Tangkak",
+      "negeri": "Johor"
+    },
+    {
+      "nama": "Hospital Temenggung Seri Maharaja Tun Ibrahim",
+      "alamat": "81000 Kulai",
+      "negeri": "Johor"
+    },
+    {
+      "nama": "Hospital Permai",
+      "alamat": "Jalan Tampoi, 81200 Johor Bahru",
+      "negeri": "Johor"
+    },
+    {
+      "nama": "Hospital Sultan Ismail",
+      "alamat": "Jalan Persiaran Mutiara Emas Utama, Taman Mount Austin, 81000 Johor Bahru",
+      "negeri": "Johor"
+    },
+    {
+      "nama": "Hospital Tengku Ampuan Afzan",
+      "alamat": "Jalan Tanah Putih, 25100 Kuantan",
+      "negeri": "Pahang"
+    },
+    {
+      "nama": "Hospital Pekan",
+      "alamat": "26600 Pekan",
+      "negeri": "Pahang"
+    },
+    {
+      "nama": "Hospital Kuala Lipis",
+      "alamat": "27200 Kuala Lipis",
+      "negeri": "Pahang"
+    },
+    {
+      "nama": "Hospital Raub",
+      "alamat": "27600 Raub",
+      "negeri": "Pahang"
+    },
+    {
+      "nama": "Hospital Bentong",
+      "alamat": "28700 Bentong",
+      "negeri": "Pahang"
+    },
+    {
+      "nama": "Hospital Jerantut",
+      "alamat": "27000 Jerantut",
+      "negeri": "Pahang"
+    },
+    {
+      "nama": "Hospital Jengka",
+      "alamat": "26400 Bandar Pusat Jengka",
+      "negeri": "Pahang"
+    },
+    {
+      "nama": "Hospital Muadzam Shah",
+      "alamat": "26700 Muadzam Shah",
+      "negeri": "Pahang"
+    },
+    {
+      "nama": "Hospital Sultanah Hajjah Kalsom",
+      "alamat": "d/a Pejabat Kesihatan, 39000 Tanah Rata, Pahang",
+      "negeri": "Pahang"
+    },
+    {
+      "nama": "Hospital Sultan Haji Ahmad Shah",
+      "alamat": "28000 Temerloh",
+      "negeri": "Pahang"
+    },
+    {
+      "nama": "Hospital Bera",
+      "alamat": "28000 Bera",
+      "negeri": "Pahang"
+    },
+    {
+      "nama": "Hospital Sultanah Nur Zahirah",
+      "alamat": "20400 Kuala Terengganu",
+      "negeri": "Terengganu"
+    },
+    {
+      "nama": "Hospital Dungun",
+      "alamat": "23000 Dungun",
+      "negeri": "Terengganu"
+    },
+    {
+      "nama": "Hospital Kemaman",
+      "alamat": "24000 Kemaman",
+      "negeri": "Terengganu"
+    },
+    {
+      "nama": "Hospital Besut",
+      "alamat": "22000 Besut",
+      "negeri": "Terengganu"
+    },
+    {
+      "nama": "Hospital Hulu Terengganu",
+      "alamat": "21700 Kuala Berang",
+      "negeri": "Terengganu"
+    },
+    {
+      "nama": "Hospital Setiu",
+      "alamat": "Bandar Permaisuri, 22100 Setiu",
+      "negeri": "Terengganu"
+    },
+    {
+      "nama": "Hospital Raja Perempuan Zainab II",
+      "alamat": "Jalan Hospital, 15000 Kota Bharu",
+      "negeri": "Kelantan"
+    },
+    {
+      "nama": "Hospital Tengku Anis",
+      "alamat": "Jalan Meranti, 17000 Pasir Mas",
+      "negeri": "Kelantan"
+    },
+    {
+      "nama": "Hospital Tumpat",
+      "alamat": "Jalan Kelaburan, Tumpat",
+      "negeri": "Kelantan"
+    },
+    {
+      "nama": "Hospital Machang",
+      "alamat": "Jalan Pasir Puteh, 18500 Machang",
+      "negeri": "Kelantan"
+    },
+    {
+      "nama": "Hospital Tanah Merah",
+      "alamat": "Jalan Hospital, 17500 Tanah Merah",
+      "negeri": "Kelantan"
+    },
+    {
+      "nama": "Hospital Tengku Anis",
+      "alamat": "Jalan Kota Bharu, 16800 Pasir Puteh",
+      "negeri": "Kelantan"
+    },
+    {
+      "nama": "Hospital Gua Musang",
+      "alamat": "Bandar Baru, 18300 Gua Musang",
+      "negeri": "Kelantan"
+    },
+    {
+      "nama": "Hospital Kuala Krai",
+      "alamat": "Jalan Kota Bharu, 18000 Kuala Krai",
+      "negeri": "Kelantan"
+    },
+    {
+      "nama": "Hospital Queen Elizabeth",
+      "alamat": "88586 Kota Kinabalu",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Duchess of Kent",
+      "alamat": "90007 Sandakan",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Tawau",
+      "alamat": "91000 Tawau",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Keningau",
+      "alamat": "89007 Keningau",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Tenom",
+      "alamat": "89907 Tenom",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Beaufort",
+      "alamat": "89907 Beaufort",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Kudat",
+      "alamat": "89057 Kudat",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Kota Belud",
+      "alamat": "P.S 159, 89150 Kota Belud",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Ranau",
+      "alamat": "89300 Ranau",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Lahad Datu",
+      "alamat": "P.S 65, 91107 Lahad Datu",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Kota Marudu",
+      "alamat": "P.S 159, Kota Marudu",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Sipitang",
+      "alamat": "P.S 250, 89857 Sipitang",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Papar",
+      "alamat": "89607 Papar",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Tambunan",
+      "alamat": "P.S 10, 89657 Tambunan",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Beluran",
+      "alamat": "90109 Beluran",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Semporna",
+      "alamat": "P.S 80, 91307 Semporna",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Kinabatangan",
+      "alamat": "W.D.T 20, 90020 Kota Kinabatangan",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Mesra",
+      "alamat": "PS 11342, 88815 Kota Kinabalu",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Kuala Penyu",
+      "alamat": "Kuala Penyu",
+      "negeri": "Sabah"
+    },
+    {
+      "nama": "Hospital Umum Sarawak",
+      "alamat": "Jalan Tun Ahmad Zaidi Adruse, 93586 Kuching",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Lundu",
+      "alamat": "Jalan Sekambal, 94500 Lundu",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Serian",
+      "alamat": "94700 Serian",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Sri Aman",
+      "alamat": "Jalan Hospital, 95007 Sri Aman",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Saratok",
+      "alamat": "KM 1, Jalan Saratok, 95400 Saratok",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Betong",
+      "alamat": "Jalan Betong, 95707 Betong",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Bau",
+      "alamat": "Batu 1 1/2, Jalan Bau-Lundu, 94000 Bau",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Sarikei",
+      "alamat": "Jalan Hospital, Off Jalan Repok, 96100 Sarikei",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Simunjan",
+      "alamat": "Jalan Gunung Ngeli, 94800 Simunjan",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Sibu",
+      "alamat": "Batu 5 1/2, Jalan Ulu Oya, 96000 Sibu",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Mukah",
+      "alamat": "Jalan Haji Mohamed Pauzi, 96400 Mukah",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Kapit",
+      "alamat": "Jalan Memora, 96800 Kapit",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Kanowit",
+      "alamat": "Jalan Kanowit-Durin, 96700 Kanowit",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Miri",
+      "alamat": "Jalan Cahaya, 98000 Miri",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Marudi",
+      "alamat": "Jalan Pungor, 98050 Marudi",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Limbang",
+      "alamat": "Jalan Panduran, 98700 Limbang",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Lawas",
+      "alamat": "Jalan Hospital, 88500 Lawas",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Bintulu",
+      "alamat": "Lebuhraya Abang Galau, 97000 Bintulu",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Daro",
+      "alamat": "Jalan Itol, 96200 Daro",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital Sentosa",
+      "alamat": "Batu 7, Jalan Penrisen, 93250 Kuching",
+      "negeri": "Sarawak"
+    },
+    {
+      "nama": "Hospital RCBM (Kusta) Batu 13",
+      "alamat": "Jalan Puncak Borneo, Kota Padawan, 93250 Kuching",
+      "negeri": "Sarawak"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Hospital Kerajaan di Malaysia mengikut Negeri - Muat turun percuma",
+    "description": "Hospital kerajaan di Malaysia disusun mengikut negeri, dengan alamat hospital. Mengandungi 137 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Hospital Kerajaan di Malaysia mengikut Negeri | ListBase",
+    "seo_description": "Muat turun Senarai Hospital Kerajaan di Malaysia mengikut Negeri — 137 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 137 rekod / 3 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_hospital_di_Malaysia"
+    ]
+  }
+}
