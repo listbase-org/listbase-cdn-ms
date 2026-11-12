@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-11T02:11:41.756Z",
-  "total_datasets": 714,
-  "total_records": 555459,
+  "generated": "2026-11-12T02:32:56.394Z",
+  "total_datasets": 715,
+  "total_records": 555838,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 21
+      "dataset_count": 22
     },
     {
       "id": "history",
@@ -4801,6 +4801,32 @@
         "xlsx": {
           "name": "ms-fasiliti-kesihatan_MS.xlsx",
           "size": 451786
+        }
+      }
+    },
+    {
+      "id": "ms-jangkaan-hayat-negeri",
+      "name": "Jangkaan Hayat mengikut Negeri dan Jantina",
+      "category": "health",
+      "record_count": 379,
+      "columns": [
+        "negeri",
+        "tahun",
+        "jangkaan_hayat_lelaki",
+        "jangkaan_hayat_perempuan",
+        "jangkaan_hayat_keseluruhan"
+      ],
+      "source": "https://data.gov.my/data-catalogue/life_expectancy_state",
+      "updated": "2026-11",
+      "size": 69746,
+      "files": {
+        "csv": {
+          "name": "ms-jangkaan-hayat-negeri_MS.csv",
+          "size": 14278
+        },
+        "xlsx": {
+          "name": "ms-jangkaan-hayat-negeri_MS.xlsx",
+          "size": 16092
         }
       }
     },

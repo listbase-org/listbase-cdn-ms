@@ -1,0 +1,2704 @@
+{
+  "id": "ms-jangkaan-hayat-negeri",
+  "name": "Jangkaan Hayat mengikut Negeri dan Jantina",
+  "title": "Jangkaan Hayat mengikut Negeri dan Jantina",
+  "description": "Jangkaan hayat semasa lahir (tahun) bagi lelaki dan perempuan mengikut negeri di Malaysia sejak 2001, data Jabatan Perangkaan Malaysia (DOSM).",
+  "category": "health",
+  "source": "https://data.gov.my/data-catalogue/life_expectancy_state",
+  "source_url": "https://data.gov.my/data-catalogue/life_expectancy_state",
+  "updated": "2026-11",
+  "record_count": 379,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "jangkaan_hayat_lelaki",
+      "label": "Jangkaan Hayat Lelaki",
+      "type": "number"
+    },
+    {
+      "key": "jangkaan_hayat_perempuan",
+      "label": "Jangkaan Hayat Perempuan",
+      "type": "number"
+    },
+    {
+      "key": "jangkaan_hayat_keseluruhan",
+      "label": "Jangkaan Hayat Keseluruhan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Johor",
+      "tahun": 2001,
+      "jangkaan_hayat_lelaki": 70.4,
+      "jangkaan_hayat_perempuan": 75.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2001,
+      "jangkaan_hayat_lelaki": 69.2,
+      "jangkaan_hayat_perempuan": 74.3,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2001,
+      "jangkaan_hayat_lelaki": 67.4,
+      "jangkaan_hayat_perempuan": 73.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2001,
+      "jangkaan_hayat_lelaki": 69.4,
+      "jangkaan_hayat_perempuan": 73.9,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2001,
+      "jangkaan_hayat_lelaki": 69.1,
+      "jangkaan_hayat_perempuan": 74.7,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2001,
+      "jangkaan_hayat_lelaki": 69.5,
+      "jangkaan_hayat_perempuan": 74.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2001,
+      "jangkaan_hayat_lelaki": 68.5,
+      "jangkaan_hayat_perempuan": 74.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2001,
+      "jangkaan_hayat_lelaki": 69.2,
+      "jangkaan_hayat_perempuan": 74.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2001,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 75.4,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2001,
+      "jangkaan_hayat_lelaki": 72.5,
+      "jangkaan_hayat_perempuan": 76,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2001,
+      "jangkaan_hayat_lelaki": 72.4,
+      "jangkaan_hayat_perempuan": 76.3,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2001,
+      "jangkaan_hayat_lelaki": 67.7,
+      "jangkaan_hayat_perempuan": 72.7,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2001,
+      "jangkaan_hayat_lelaki": 71,
+      "jangkaan_hayat_perempuan": 75.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2002,
+      "jangkaan_hayat_lelaki": 70.6,
+      "jangkaan_hayat_perempuan": 75.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2002,
+      "jangkaan_hayat_lelaki": 69,
+      "jangkaan_hayat_perempuan": 74.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2002,
+      "jangkaan_hayat_lelaki": 67.2,
+      "jangkaan_hayat_perempuan": 73.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2002,
+      "jangkaan_hayat_lelaki": 69.3,
+      "jangkaan_hayat_perempuan": 74.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2002,
+      "jangkaan_hayat_lelaki": 69.1,
+      "jangkaan_hayat_perempuan": 74.7,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2002,
+      "jangkaan_hayat_lelaki": 69.4,
+      "jangkaan_hayat_perempuan": 74.4,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2002,
+      "jangkaan_hayat_lelaki": 68.6,
+      "jangkaan_hayat_perempuan": 74.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2002,
+      "jangkaan_hayat_lelaki": 69.1,
+      "jangkaan_hayat_perempuan": 74.3,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2002,
+      "jangkaan_hayat_lelaki": 70.4,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2002,
+      "jangkaan_hayat_lelaki": 72.6,
+      "jangkaan_hayat_perempuan": 76.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2002,
+      "jangkaan_hayat_lelaki": 72.4,
+      "jangkaan_hayat_perempuan": 76.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2002,
+      "jangkaan_hayat_lelaki": 67.3,
+      "jangkaan_hayat_perempuan": 72.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2002,
+      "jangkaan_hayat_lelaki": 71.2,
+      "jangkaan_hayat_perempuan": 75.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2003,
+      "jangkaan_hayat_lelaki": 70.7,
+      "jangkaan_hayat_perempuan": 75.4,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2003,
+      "jangkaan_hayat_lelaki": 69.2,
+      "jangkaan_hayat_perempuan": 74.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2003,
+      "jangkaan_hayat_lelaki": 67.1,
+      "jangkaan_hayat_perempuan": 73.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2003,
+      "jangkaan_hayat_lelaki": 69.5,
+      "jangkaan_hayat_perempuan": 74.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2003,
+      "jangkaan_hayat_lelaki": 69.2,
+      "jangkaan_hayat_perempuan": 75,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2003,
+      "jangkaan_hayat_lelaki": 69.5,
+      "jangkaan_hayat_perempuan": 74.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2003,
+      "jangkaan_hayat_lelaki": 68.7,
+      "jangkaan_hayat_perempuan": 74.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2003,
+      "jangkaan_hayat_lelaki": 69.4,
+      "jangkaan_hayat_perempuan": 74.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2003,
+      "jangkaan_hayat_lelaki": 70.4,
+      "jangkaan_hayat_perempuan": 75.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2003,
+      "jangkaan_hayat_lelaki": 72.6,
+      "jangkaan_hayat_perempuan": 76.3,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2003,
+      "jangkaan_hayat_lelaki": 72.6,
+      "jangkaan_hayat_perempuan": 76.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2003,
+      "jangkaan_hayat_lelaki": 67.6,
+      "jangkaan_hayat_perempuan": 72.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2003,
+      "jangkaan_hayat_lelaki": 71.8,
+      "jangkaan_hayat_perempuan": 76,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2004,
+      "jangkaan_hayat_lelaki": 71,
+      "jangkaan_hayat_perempuan": 75.7,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2004,
+      "jangkaan_hayat_lelaki": 69.5,
+      "jangkaan_hayat_perempuan": 74.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2004,
+      "jangkaan_hayat_lelaki": 67.2,
+      "jangkaan_hayat_perempuan": 73.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2004,
+      "jangkaan_hayat_lelaki": 69.7,
+      "jangkaan_hayat_perempuan": 74.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2004,
+      "jangkaan_hayat_lelaki": 69.3,
+      "jangkaan_hayat_perempuan": 75.3,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2004,
+      "jangkaan_hayat_lelaki": 69.8,
+      "jangkaan_hayat_perempuan": 75,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2004,
+      "jangkaan_hayat_lelaki": 69.3,
+      "jangkaan_hayat_perempuan": 75.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2004,
+      "jangkaan_hayat_lelaki": 69.4,
+      "jangkaan_hayat_perempuan": 75,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2004,
+      "jangkaan_hayat_lelaki": 70.8,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2004,
+      "jangkaan_hayat_lelaki": 72.7,
+      "jangkaan_hayat_perempuan": 76.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2004,
+      "jangkaan_hayat_lelaki": 72.8,
+      "jangkaan_hayat_perempuan": 77,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2004,
+      "jangkaan_hayat_lelaki": 67.7,
+      "jangkaan_hayat_perempuan": 73.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2004,
+      "jangkaan_hayat_lelaki": 72.7,
+      "jangkaan_hayat_perempuan": 76.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2005,
+      "jangkaan_hayat_lelaki": 71.2,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2005,
+      "jangkaan_hayat_lelaki": 69.8,
+      "jangkaan_hayat_perempuan": 75.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2005,
+      "jangkaan_hayat_lelaki": 67.6,
+      "jangkaan_hayat_perempuan": 74.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2005,
+      "jangkaan_hayat_lelaki": 70.1,
+      "jangkaan_hayat_perempuan": 75.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2005,
+      "jangkaan_hayat_lelaki": 69.6,
+      "jangkaan_hayat_perempuan": 75.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2005,
+      "jangkaan_hayat_lelaki": 70,
+      "jangkaan_hayat_perempuan": 75.3,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2005,
+      "jangkaan_hayat_lelaki": 69.8,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2005,
+      "jangkaan_hayat_lelaki": 69.7,
+      "jangkaan_hayat_perempuan": 75.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2005,
+      "jangkaan_hayat_lelaki": 71.2,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2005,
+      "jangkaan_hayat_lelaki": 73,
+      "jangkaan_hayat_perempuan": 76.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2005,
+      "jangkaan_hayat_lelaki": 73,
+      "jangkaan_hayat_perempuan": 77.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2005,
+      "jangkaan_hayat_lelaki": 68.1,
+      "jangkaan_hayat_perempuan": 73.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2005,
+      "jangkaan_hayat_lelaki": 73.2,
+      "jangkaan_hayat_perempuan": 77.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2006,
+      "jangkaan_hayat_lelaki": 71.1,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2006,
+      "jangkaan_hayat_lelaki": 69.8,
+      "jangkaan_hayat_perempuan": 75.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2006,
+      "jangkaan_hayat_lelaki": 67.7,
+      "jangkaan_hayat_perempuan": 74,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2006,
+      "jangkaan_hayat_lelaki": 70.5,
+      "jangkaan_hayat_perempuan": 75.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2006,
+      "jangkaan_hayat_lelaki": 69.8,
+      "jangkaan_hayat_perempuan": 75.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2006,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 75.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2006,
+      "jangkaan_hayat_lelaki": 70.1,
+      "jangkaan_hayat_perempuan": 75.7,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2006,
+      "jangkaan_hayat_lelaki": 69.6,
+      "jangkaan_hayat_perempuan": 75.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2006,
+      "jangkaan_hayat_lelaki": 71.5,
+      "jangkaan_hayat_perempuan": 76.3,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2006,
+      "jangkaan_hayat_lelaki": 73.3,
+      "jangkaan_hayat_perempuan": 76.7,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2006,
+      "jangkaan_hayat_lelaki": 73.1,
+      "jangkaan_hayat_perempuan": 77.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2006,
+      "jangkaan_hayat_lelaki": 68,
+      "jangkaan_hayat_perempuan": 73.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2006,
+      "jangkaan_hayat_lelaki": 73.5,
+      "jangkaan_hayat_perempuan": 77.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2007,
+      "jangkaan_hayat_lelaki": 71.1,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2007,
+      "jangkaan_hayat_lelaki": 69.8,
+      "jangkaan_hayat_perempuan": 75.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2007,
+      "jangkaan_hayat_lelaki": 67.7,
+      "jangkaan_hayat_perempuan": 74.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2007,
+      "jangkaan_hayat_lelaki": 70.7,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2007,
+      "jangkaan_hayat_lelaki": 69.8,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2007,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 75.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2007,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2007,
+      "jangkaan_hayat_lelaki": 69.4,
+      "jangkaan_hayat_perempuan": 75.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2007,
+      "jangkaan_hayat_lelaki": 71.7,
+      "jangkaan_hayat_perempuan": 76.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2007,
+      "jangkaan_hayat_lelaki": 73.4,
+      "jangkaan_hayat_perempuan": 76.7,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2007,
+      "jangkaan_hayat_lelaki": 73.1,
+      "jangkaan_hayat_perempuan": 77.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2007,
+      "jangkaan_hayat_lelaki": 68,
+      "jangkaan_hayat_perempuan": 73.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2007,
+      "jangkaan_hayat_lelaki": 73.7,
+      "jangkaan_hayat_perempuan": 77.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 71.2,
+      "jangkaan_hayat_perempuan": 76,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 69.8,
+      "jangkaan_hayat_perempuan": 75.3,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 67.5,
+      "jangkaan_hayat_perempuan": 74,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 70.8,
+      "jangkaan_hayat_perempuan": 75.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 69.9,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 70.1,
+      "jangkaan_hayat_perempuan": 75.4,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 69.3,
+      "jangkaan_hayat_perempuan": 75.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 71.6,
+      "jangkaan_hayat_perempuan": 76.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 76.2,
+      "jangkaan_hayat_perempuan": 79,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 73.3,
+      "jangkaan_hayat_perempuan": 76.7,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 73,
+      "jangkaan_hayat_perempuan": 77,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 67.9,
+      "jangkaan_hayat_perempuan": 73.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2008,
+      "jangkaan_hayat_lelaki": 73.6,
+      "jangkaan_hayat_perempuan": 77.3,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 71.4,
+      "jangkaan_hayat_perempuan": 76.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 70,
+      "jangkaan_hayat_perempuan": 75.4,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 67.6,
+      "jangkaan_hayat_perempuan": 74,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 70.8,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 69.8,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 69.9,
+      "jangkaan_hayat_perempuan": 75.3,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 70.4,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 69.1,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 71.8,
+      "jangkaan_hayat_perempuan": 76.7,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 76.4,
+      "jangkaan_hayat_perempuan": 79.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 73.6,
+      "jangkaan_hayat_perempuan": 77,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 73,
+      "jangkaan_hayat_perempuan": 76.9,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 68.1,
+      "jangkaan_hayat_perempuan": 73.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2009,
+      "jangkaan_hayat_lelaki": 73.6,
+      "jangkaan_hayat_perempuan": 77.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 71.8,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 70.1,
+      "jangkaan_hayat_perempuan": 75.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 68.1,
+      "jangkaan_hayat_perempuan": 74.4,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 71.1,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 70.3,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 75.5,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 70.7,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 69.6,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 71.9,
+      "jangkaan_hayat_perempuan": 77,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 73.8,
+      "jangkaan_hayat_perempuan": 77.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 73.9,
+      "jangkaan_hayat_perempuan": 77.4,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 73.2,
+      "jangkaan_hayat_perempuan": 77.3,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 68.4,
+      "jangkaan_hayat_perempuan": 74.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2010,
+      "jangkaan_hayat_lelaki": 73.5,
+      "jangkaan_hayat_perempuan": 77.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 71.9,
+      "jangkaan_hayat_perempuan": 76.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 70.1,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 68.5,
+      "jangkaan_hayat_perempuan": 74.7,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 71.4,
+      "jangkaan_hayat_perempuan": 76.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 70.7,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 70.9,
+      "jangkaan_hayat_perempuan": 76.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 69.9,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 72.1,
+      "jangkaan_hayat_perempuan": 77.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 72.4,
+      "jangkaan_hayat_perempuan": 75.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 74.2,
+      "jangkaan_hayat_perempuan": 77.8,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 73.2,
+      "jangkaan_hayat_perempuan": 77.1,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 68.5,
+      "jangkaan_hayat_perempuan": 74.3,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2011,
+      "jangkaan_hayat_lelaki": 73.7,
+      "jangkaan_hayat_perempuan": 78,
+      "jangkaan_hayat_keseluruhan": ""
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 72,
+      "jangkaan_hayat_perempuan": 76.7,
+      "jangkaan_hayat_keseluruhan": 74.1
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 76.1,
+      "jangkaan_hayat_keseluruhan": 73
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 68.9,
+      "jangkaan_hayat_perempuan": 75,
+      "jangkaan_hayat_keseluruhan": 71.9
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 71.6,
+      "jangkaan_hayat_perempuan": 76.9,
+      "jangkaan_hayat_keseluruhan": 74.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 70.9,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": 73.4
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 70.3,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": 72.8
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 71,
+      "jangkaan_hayat_perempuan": 76.8,
+      "jangkaan_hayat_keseluruhan": 73.7
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 75.7,
+      "jangkaan_hayat_keseluruhan": 72.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 72.2,
+      "jangkaan_hayat_perempuan": 77.4,
+      "jangkaan_hayat_keseluruhan": 74.7
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 71.7,
+      "jangkaan_hayat_perempuan": 75.2,
+      "jangkaan_hayat_keseluruhan": 73.3
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 74.3,
+      "jangkaan_hayat_perempuan": 77.8,
+      "jangkaan_hayat_keseluruhan": 75.9
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 73.1,
+      "jangkaan_hayat_perempuan": 77.2,
+      "jangkaan_hayat_keseluruhan": 75
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 68.5,
+      "jangkaan_hayat_perempuan": 74.3,
+      "jangkaan_hayat_keseluruhan": 71.2
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2012,
+      "jangkaan_hayat_lelaki": 74.1,
+      "jangkaan_hayat_perempuan": 78.1,
+      "jangkaan_hayat_keseluruhan": 75.9
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 72,
+      "jangkaan_hayat_perempuan": 76.8,
+      "jangkaan_hayat_keseluruhan": 74.2
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 70.3,
+      "jangkaan_hayat_perempuan": 76.1,
+      "jangkaan_hayat_keseluruhan": 73
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 69,
+      "jangkaan_hayat_perempuan": 75.1,
+      "jangkaan_hayat_keseluruhan": 71.9
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 71.9,
+      "jangkaan_hayat_perempuan": 77.2,
+      "jangkaan_hayat_keseluruhan": 74.4
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 70.9,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": 73.5
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 70.4,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": 73
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 71.1,
+      "jangkaan_hayat_perempuan": 76.9,
+      "jangkaan_hayat_keseluruhan": 73.8
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 70.3,
+      "jangkaan_hayat_perempuan": 75.8,
+      "jangkaan_hayat_keseluruhan": 72.9
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 72.3,
+      "jangkaan_hayat_perempuan": 77.5,
+      "jangkaan_hayat_keseluruhan": 74.7
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 72,
+      "jangkaan_hayat_perempuan": 75.4,
+      "jangkaan_hayat_keseluruhan": 73.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 74.4,
+      "jangkaan_hayat_perempuan": 78.2,
+      "jangkaan_hayat_keseluruhan": 76.1
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 73.2,
+      "jangkaan_hayat_perempuan": 77.3,
+      "jangkaan_hayat_keseluruhan": 75.1
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 68.6,
+      "jangkaan_hayat_perempuan": 74.3,
+      "jangkaan_hayat_keseluruhan": 71.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2013,
+      "jangkaan_hayat_lelaki": 74.1,
+      "jangkaan_hayat_perempuan": 78.2,
+      "jangkaan_hayat_keseluruhan": 76
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 72.1,
+      "jangkaan_hayat_perempuan": 76.9,
+      "jangkaan_hayat_keseluruhan": 74.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 70.4,
+      "jangkaan_hayat_perempuan": 76.1,
+      "jangkaan_hayat_keseluruhan": 73.1
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 69,
+      "jangkaan_hayat_perempuan": 75.1,
+      "jangkaan_hayat_keseluruhan": 71.9
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 72,
+      "jangkaan_hayat_perempuan": 77.3,
+      "jangkaan_hayat_keseluruhan": 74.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 71,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": 73.5
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 70.6,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": 73.1
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 71.2,
+      "jangkaan_hayat_perempuan": 77,
+      "jangkaan_hayat_keseluruhan": 74
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 70.3,
+      "jangkaan_hayat_perempuan": 75.8,
+      "jangkaan_hayat_keseluruhan": 73
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 72.3,
+      "jangkaan_hayat_perempuan": 77.5,
+      "jangkaan_hayat_keseluruhan": 74.8
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 72.2,
+      "jangkaan_hayat_perempuan": 75.5,
+      "jangkaan_hayat_keseluruhan": 73.7
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 74.5,
+      "jangkaan_hayat_perempuan": 78.3,
+      "jangkaan_hayat_keseluruhan": 76.3
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 73.2,
+      "jangkaan_hayat_perempuan": 77.3,
+      "jangkaan_hayat_keseluruhan": 75.1
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 68.6,
+      "jangkaan_hayat_perempuan": 74.4,
+      "jangkaan_hayat_keseluruhan": 71.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2014,
+      "jangkaan_hayat_lelaki": 74.2,
+      "jangkaan_hayat_perempuan": 78.2,
+      "jangkaan_hayat_keseluruhan": 76.1
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 72.1,
+      "jangkaan_hayat_perempuan": 77,
+      "jangkaan_hayat_keseluruhan": 74.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 70.4,
+      "jangkaan_hayat_perempuan": 76.1,
+      "jangkaan_hayat_keseluruhan": 73.1
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 69,
+      "jangkaan_hayat_perempuan": 75.1,
+      "jangkaan_hayat_keseluruhan": 72
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 72.1,
+      "jangkaan_hayat_perempuan": 77.4,
+      "jangkaan_hayat_keseluruhan": 74.6
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 71,
+      "jangkaan_hayat_perempuan": 76.6,
+      "jangkaan_hayat_keseluruhan": 73.6
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 70.7,
+      "jangkaan_hayat_perempuan": 76.3,
+      "jangkaan_hayat_keseluruhan": 73.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 71.3,
+      "jangkaan_hayat_perempuan": 77.1,
+      "jangkaan_hayat_keseluruhan": 74
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 70.3,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": 73
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 72.4,
+      "jangkaan_hayat_perempuan": 77.6,
+      "jangkaan_hayat_keseluruhan": 74.8
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 72.3,
+      "jangkaan_hayat_perempuan": 75.8,
+      "jangkaan_hayat_keseluruhan": 73.9
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 74.6,
+      "jangkaan_hayat_perempuan": 78.3,
+      "jangkaan_hayat_keseluruhan": 76.3
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 73.3,
+      "jangkaan_hayat_perempuan": 77.4,
+      "jangkaan_hayat_keseluruhan": 75.2
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 68.7,
+      "jangkaan_hayat_perempuan": 74.5,
+      "jangkaan_hayat_keseluruhan": 71.4
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2015,
+      "jangkaan_hayat_lelaki": 74.3,
+      "jangkaan_hayat_perempuan": 78.3,
+      "jangkaan_hayat_keseluruhan": 76.2
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 71.9,
+      "jangkaan_hayat_perempuan": 76.9,
+      "jangkaan_hayat_keseluruhan": 74.2
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": 72.9
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 69,
+      "jangkaan_hayat_perempuan": 75.1,
+      "jangkaan_hayat_keseluruhan": 72
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 71.9,
+      "jangkaan_hayat_perempuan": 77.2,
+      "jangkaan_hayat_keseluruhan": 74.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 70.6,
+      "jangkaan_hayat_perempuan": 76.7,
+      "jangkaan_hayat_keseluruhan": 73.4
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 70.9,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": 73.3
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 71.1,
+      "jangkaan_hayat_perempuan": 77.3,
+      "jangkaan_hayat_keseluruhan": 74
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 70,
+      "jangkaan_hayat_perempuan": 75,
+      "jangkaan_hayat_keseluruhan": 72.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 72.3,
+      "jangkaan_hayat_perempuan": 77.7,
+      "jangkaan_hayat_keseluruhan": 74.8
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 72.6,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": 74.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 74.5,
+      "jangkaan_hayat_perempuan": 78.3,
+      "jangkaan_hayat_keseluruhan": 76.3
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 73.1,
+      "jangkaan_hayat_perempuan": 77.4,
+      "jangkaan_hayat_keseluruhan": 75.1
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 68.9,
+      "jangkaan_hayat_perempuan": 74.6,
+      "jangkaan_hayat_keseluruhan": 71.6
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 74.6,
+      "jangkaan_hayat_perempuan": 79,
+      "jangkaan_hayat_keseluruhan": 76.6
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 76.2,
+      "jangkaan_hayat_perempuan": 78.7,
+      "jangkaan_hayat_keseluruhan": 77.4
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2016,
+      "jangkaan_hayat_lelaki": 72.6,
+      "jangkaan_hayat_perempuan": 72,
+      "jangkaan_hayat_keseluruhan": 72.3
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 71.8,
+      "jangkaan_hayat_perempuan": 76.9,
+      "jangkaan_hayat_keseluruhan": 74.1
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 70.3,
+      "jangkaan_hayat_perempuan": 76,
+      "jangkaan_hayat_keseluruhan": 73
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 69.3,
+      "jangkaan_hayat_perempuan": 75.2,
+      "jangkaan_hayat_keseluruhan": 72.2
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 71.8,
+      "jangkaan_hayat_perempuan": 77.5,
+      "jangkaan_hayat_keseluruhan": 74.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 70.5,
+      "jangkaan_hayat_perempuan": 76.8,
+      "jangkaan_hayat_keseluruhan": 73.4
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 71,
+      "jangkaan_hayat_perempuan": 76.3,
+      "jangkaan_hayat_keseluruhan": 73.4
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 71,
+      "jangkaan_hayat_perempuan": 77.2,
+      "jangkaan_hayat_keseluruhan": 73.9
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 69.4,
+      "jangkaan_hayat_perempuan": 74.8,
+      "jangkaan_hayat_keseluruhan": 72
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 72.3,
+      "jangkaan_hayat_perempuan": 77.7,
+      "jangkaan_hayat_keseluruhan": 74.9
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 72.5,
+      "jangkaan_hayat_perempuan": 76.3,
+      "jangkaan_hayat_keseluruhan": 74.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 74.4,
+      "jangkaan_hayat_perempuan": 78.2,
+      "jangkaan_hayat_keseluruhan": 76.2
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 73.1,
+      "jangkaan_hayat_perempuan": 77.4,
+      "jangkaan_hayat_keseluruhan": 75.1
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 69.1,
+      "jangkaan_hayat_perempuan": 74.9,
+      "jangkaan_hayat_keseluruhan": 71.8
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 74.4,
+      "jangkaan_hayat_perempuan": 79,
+      "jangkaan_hayat_keseluruhan": 76.5
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 76,
+      "jangkaan_hayat_perempuan": 78.7,
+      "jangkaan_hayat_keseluruhan": 77.3
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2017,
+      "jangkaan_hayat_lelaki": 71.7,
+      "jangkaan_hayat_perempuan": 72.6,
+      "jangkaan_hayat_keseluruhan": 72.2
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 72,
+      "jangkaan_hayat_perempuan": 77.1,
+      "jangkaan_hayat_keseluruhan": 74.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 70.4,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": 73.1
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 69.6,
+      "jangkaan_hayat_perempuan": 75.5,
+      "jangkaan_hayat_keseluruhan": 72.4
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 72,
+      "jangkaan_hayat_perempuan": 77.6,
+      "jangkaan_hayat_keseluruhan": 74.7
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 70.6,
+      "jangkaan_hayat_perempuan": 76.9,
+      "jangkaan_hayat_keseluruhan": 73.5
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 71.2,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": 73.6
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 71.1,
+      "jangkaan_hayat_perempuan": 77.3,
+      "jangkaan_hayat_keseluruhan": 74
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 69.2,
+      "jangkaan_hayat_perempuan": 74.8,
+      "jangkaan_hayat_keseluruhan": 72
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 72.6,
+      "jangkaan_hayat_perempuan": 78,
+      "jangkaan_hayat_keseluruhan": 75.2
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 72.6,
+      "jangkaan_hayat_perempuan": 76.1,
+      "jangkaan_hayat_keseluruhan": 74.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 74.6,
+      "jangkaan_hayat_perempuan": 78.4,
+      "jangkaan_hayat_keseluruhan": 76.4
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 73.4,
+      "jangkaan_hayat_perempuan": 77.7,
+      "jangkaan_hayat_keseluruhan": 75.4
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 69.4,
+      "jangkaan_hayat_perempuan": 75.2,
+      "jangkaan_hayat_keseluruhan": 72.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 74.5,
+      "jangkaan_hayat_perempuan": 79.3,
+      "jangkaan_hayat_keseluruhan": 76.7
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 76.2,
+      "jangkaan_hayat_perempuan": 79,
+      "jangkaan_hayat_keseluruhan": 77.6
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2018,
+      "jangkaan_hayat_lelaki": 72.8,
+      "jangkaan_hayat_perempuan": 73.5,
+      "jangkaan_hayat_keseluruhan": 73.3
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 72.1,
+      "jangkaan_hayat_perempuan": 77.3,
+      "jangkaan_hayat_keseluruhan": 74.4
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 70.7,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": 73.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 69.7,
+      "jangkaan_hayat_perempuan": 75.8,
+      "jangkaan_hayat_keseluruhan": 72.6
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 72.2,
+      "jangkaan_hayat_perempuan": 77.8,
+      "jangkaan_hayat_keseluruhan": 74.9
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 70.9,
+      "jangkaan_hayat_perempuan": 77,
+      "jangkaan_hayat_keseluruhan": 73.8
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 71.5,
+      "jangkaan_hayat_perempuan": 76.6,
+      "jangkaan_hayat_keseluruhan": 73.9
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 71.3,
+      "jangkaan_hayat_perempuan": 77.4,
+      "jangkaan_hayat_keseluruhan": 74.2
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 69.3,
+      "jangkaan_hayat_perempuan": 74.9,
+      "jangkaan_hayat_keseluruhan": 72
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 72.9,
+      "jangkaan_hayat_perempuan": 78.2,
+      "jangkaan_hayat_keseluruhan": 75.5
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 72.5,
+      "jangkaan_hayat_perempuan": 76.3,
+      "jangkaan_hayat_keseluruhan": 74.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 74.5,
+      "jangkaan_hayat_perempuan": 78.4,
+      "jangkaan_hayat_keseluruhan": 76.3
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 73.6,
+      "jangkaan_hayat_perempuan": 78,
+      "jangkaan_hayat_keseluruhan": 75.7
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 69.6,
+      "jangkaan_hayat_perempuan": 75.2,
+      "jangkaan_hayat_keseluruhan": 72.2
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 74.6,
+      "jangkaan_hayat_perempuan": 79.5,
+      "jangkaan_hayat_keseluruhan": 76.9
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 76.3,
+      "jangkaan_hayat_perempuan": 79,
+      "jangkaan_hayat_keseluruhan": 77.6
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2019,
+      "jangkaan_hayat_lelaki": 72.5,
+      "jangkaan_hayat_perempuan": 74.5,
+      "jangkaan_hayat_keseluruhan": 73.8
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 72.1,
+      "jangkaan_hayat_perempuan": 76.9,
+      "jangkaan_hayat_keseluruhan": 74.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 70.4,
+      "jangkaan_hayat_perempuan": 76.1,
+      "jangkaan_hayat_keseluruhan": 73.1
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 69.6,
+      "jangkaan_hayat_perempuan": 75.1,
+      "jangkaan_hayat_keseluruhan": 72.2
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 71.8,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": 74
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 70.4,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": 73.3
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 70.7,
+      "jangkaan_hayat_perempuan": 75.7,
+      "jangkaan_hayat_keseluruhan": 72.9
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 71.1,
+      "jangkaan_hayat_perempuan": 76.7,
+      "jangkaan_hayat_keseluruhan": 73.7
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": 72.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 72,
+      "jangkaan_hayat_perempuan": 76.7,
+      "jangkaan_hayat_keseluruhan": 74.2
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 72.6,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": 74.3
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 72.9,
+      "jangkaan_hayat_perempuan": 77.6,
+      "jangkaan_hayat_keseluruhan": 75.1
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 75.5,
+      "jangkaan_hayat_perempuan": 79.6,
+      "jangkaan_hayat_keseluruhan": 77.4
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 69.1,
+      "jangkaan_hayat_perempuan": 74.6,
+      "jangkaan_hayat_keseluruhan": 71.7
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 74.1,
+      "jangkaan_hayat_perempuan": 79.1,
+      "jangkaan_hayat_keseluruhan": 76.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 73.6,
+      "jangkaan_hayat_perempuan": 77.3,
+      "jangkaan_hayat_keseluruhan": 75.4
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2020,
+      "jangkaan_hayat_lelaki": 72.2,
+      "jangkaan_hayat_perempuan": 76.7,
+      "jangkaan_hayat_keseluruhan": 74.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 71.5,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": 73.6
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 69.6,
+      "jangkaan_hayat_perempuan": 75,
+      "jangkaan_hayat_keseluruhan": 72.2
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 69,
+      "jangkaan_hayat_perempuan": 74.3,
+      "jangkaan_hayat_keseluruhan": 71.6
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 70.8,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": 73.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 70.7,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": 73.1
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 70.4,
+      "jangkaan_hayat_perempuan": 75.4,
+      "jangkaan_hayat_keseluruhan": 72.6
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 70.6,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": 73.3
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 69.6,
+      "jangkaan_hayat_perempuan": 75.4,
+      "jangkaan_hayat_keseluruhan": 72.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 71.3,
+      "jangkaan_hayat_perempuan": 76.3,
+      "jangkaan_hayat_keseluruhan": 73.7
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 71.7,
+      "jangkaan_hayat_perempuan": 75.5,
+      "jangkaan_hayat_keseluruhan": 73.4
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 72.1,
+      "jangkaan_hayat_perempuan": 77.2,
+      "jangkaan_hayat_keseluruhan": 74.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 74.4,
+      "jangkaan_hayat_perempuan": 78.7,
+      "jangkaan_hayat_keseluruhan": 76.4
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 68.9,
+      "jangkaan_hayat_perempuan": 73.9,
+      "jangkaan_hayat_keseluruhan": 71.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 72.8,
+      "jangkaan_hayat_perempuan": 77.8,
+      "jangkaan_hayat_keseluruhan": 75.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 72.9,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": 74.5
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2021,
+      "jangkaan_hayat_lelaki": 71.6,
+      "jangkaan_hayat_perempuan": 77.6,
+      "jangkaan_hayat_keseluruhan": 74.6
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 71.4,
+      "jangkaan_hayat_perempuan": 76,
+      "jangkaan_hayat_keseluruhan": 73.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 69,
+      "jangkaan_hayat_perempuan": 74.7,
+      "jangkaan_hayat_keseluruhan": 71.7
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 68.9,
+      "jangkaan_hayat_perempuan": 74.1,
+      "jangkaan_hayat_keseluruhan": 71.4
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 70.5,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": 73
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 70.3,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": 72.9
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 70,
+      "jangkaan_hayat_perempuan": 75.2,
+      "jangkaan_hayat_keseluruhan": 72.4
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 76.3,
+      "jangkaan_hayat_keseluruhan": 73
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 69.3,
+      "jangkaan_hayat_perempuan": 75.4,
+      "jangkaan_hayat_keseluruhan": 72.3
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 71.1,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": 73.5
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 71.3,
+      "jangkaan_hayat_perempuan": 75.2,
+      "jangkaan_hayat_keseluruhan": 73.1
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 71.9,
+      "jangkaan_hayat_perempuan": 77.1,
+      "jangkaan_hayat_keseluruhan": 74.3
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 74.2,
+      "jangkaan_hayat_perempuan": 78.6,
+      "jangkaan_hayat_keseluruhan": 76.2
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 68.7,
+      "jangkaan_hayat_perempuan": 73.7,
+      "jangkaan_hayat_keseluruhan": 71
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 72.9,
+      "jangkaan_hayat_perempuan": 77.8,
+      "jangkaan_hayat_keseluruhan": 75.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 72.7,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": 74.4
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2022,
+      "jangkaan_hayat_lelaki": 71.7,
+      "jangkaan_hayat_perempuan": 76.7,
+      "jangkaan_hayat_keseluruhan": 74.2
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 71.6,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": 73.7
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 69.1,
+      "jangkaan_hayat_perempuan": 74.6,
+      "jangkaan_hayat_keseluruhan": 71.7
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 69.3,
+      "jangkaan_hayat_perempuan": 74.6,
+      "jangkaan_hayat_keseluruhan": 71.8
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 70.6,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": 73.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 70.3,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": 72.9
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 69.9,
+      "jangkaan_hayat_perempuan": 75.1,
+      "jangkaan_hayat_keseluruhan": 72.3
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 70.1,
+      "jangkaan_hayat_perempuan": 76.2,
+      "jangkaan_hayat_keseluruhan": 72.9
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 69.5,
+      "jangkaan_hayat_perempuan": 75.5,
+      "jangkaan_hayat_keseluruhan": 72.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 71.3,
+      "jangkaan_hayat_perempuan": 76.5,
+      "jangkaan_hayat_keseluruhan": 73.7
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 71.9,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": 73.7
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 72.1,
+      "jangkaan_hayat_perempuan": 77.2,
+      "jangkaan_hayat_keseluruhan": 74.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 74.4,
+      "jangkaan_hayat_perempuan": 78.8,
+      "jangkaan_hayat_keseluruhan": 76.4
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 68.8,
+      "jangkaan_hayat_perempuan": 73.6,
+      "jangkaan_hayat_keseluruhan": 71.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 73.3,
+      "jangkaan_hayat_perempuan": 77.9,
+      "jangkaan_hayat_keseluruhan": 75.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 73.9,
+      "jangkaan_hayat_perempuan": 77.8,
+      "jangkaan_hayat_keseluruhan": 75.7
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2023,
+      "jangkaan_hayat_lelaki": 71.4,
+      "jangkaan_hayat_perempuan": 76.1,
+      "jangkaan_hayat_keseluruhan": 73.8
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 72.3,
+      "jangkaan_hayat_perempuan": 77,
+      "jangkaan_hayat_keseluruhan": 74.4
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 70,
+      "jangkaan_hayat_perempuan": 75.7,
+      "jangkaan_hayat_keseluruhan": 72.7
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 70.3,
+      "jangkaan_hayat_perempuan": 75.7,
+      "jangkaan_hayat_keseluruhan": 72.9
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 71.4,
+      "jangkaan_hayat_perempuan": 76.8,
+      "jangkaan_hayat_keseluruhan": 73.9
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 70.9,
+      "jangkaan_hayat_perempuan": 76.5,
+      "jangkaan_hayat_keseluruhan": 73.5
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 70.5,
+      "jangkaan_hayat_perempuan": 75.6,
+      "jangkaan_hayat_keseluruhan": 72.8
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 70.7,
+      "jangkaan_hayat_perempuan": 76.7,
+      "jangkaan_hayat_keseluruhan": 73.5
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 75.9,
+      "jangkaan_hayat_keseluruhan": 73
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 72.2,
+      "jangkaan_hayat_perempuan": 77.3,
+      "jangkaan_hayat_keseluruhan": 74.6
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 72.7,
+      "jangkaan_hayat_perempuan": 77,
+      "jangkaan_hayat_keseluruhan": 74.7
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 72.6,
+      "jangkaan_hayat_perempuan": 77.7,
+      "jangkaan_hayat_keseluruhan": 75
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 75.7,
+      "jangkaan_hayat_perempuan": 80,
+      "jangkaan_hayat_keseluruhan": 77.6
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 69.7,
+      "jangkaan_hayat_perempuan": 74.7,
+      "jangkaan_hayat_keseluruhan": 72
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 74.8,
+      "jangkaan_hayat_perempuan": 79.2,
+      "jangkaan_hayat_keseluruhan": 76.8
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 74.4,
+      "jangkaan_hayat_perempuan": 78.8,
+      "jangkaan_hayat_keseluruhan": 76.4
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2024,
+      "jangkaan_hayat_lelaki": 71.9,
+      "jangkaan_hayat_perempuan": 75,
+      "jangkaan_hayat_keseluruhan": 73.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 72.5,
+      "jangkaan_hayat_perempuan": 77.2,
+      "jangkaan_hayat_keseluruhan": 74.6
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 75.8,
+      "jangkaan_hayat_keseluruhan": 72.9
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 70.8,
+      "jangkaan_hayat_perempuan": 76.3,
+      "jangkaan_hayat_keseluruhan": 73.5
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 71.9,
+      "jangkaan_hayat_perempuan": 77.4,
+      "jangkaan_hayat_keseluruhan": 74.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 71.3,
+      "jangkaan_hayat_perempuan": 76.9,
+      "jangkaan_hayat_keseluruhan": 73.9
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 71,
+      "jangkaan_hayat_perempuan": 76.1,
+      "jangkaan_hayat_keseluruhan": 73.3
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 71.1,
+      "jangkaan_hayat_perempuan": 77,
+      "jangkaan_hayat_keseluruhan": 73.8
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 70.4,
+      "jangkaan_hayat_perempuan": 76.4,
+      "jangkaan_hayat_keseluruhan": 73.3
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 72.8,
+      "jangkaan_hayat_perempuan": 77.8,
+      "jangkaan_hayat_keseluruhan": 75.1
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 72.9,
+      "jangkaan_hayat_perempuan": 77.5,
+      "jangkaan_hayat_keseluruhan": 75
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 72.9,
+      "jangkaan_hayat_perempuan": 78,
+      "jangkaan_hayat_keseluruhan": 75.3
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 76,
+      "jangkaan_hayat_perempuan": 80.2,
+      "jangkaan_hayat_keseluruhan": 77.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 70.2,
+      "jangkaan_hayat_perempuan": 75.2,
+      "jangkaan_hayat_keseluruhan": 72.6
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 75,
+      "jangkaan_hayat_perempuan": 79.6,
+      "jangkaan_hayat_keseluruhan": 77.2
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 74.4,
+      "jangkaan_hayat_perempuan": 79.2,
+      "jangkaan_hayat_keseluruhan": 76.6
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2025,
+      "jangkaan_hayat_lelaki": 71.8,
+      "jangkaan_hayat_perempuan": 75.4,
+      "jangkaan_hayat_keseluruhan": 73.6
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 72.7,
+      "jangkaan_hayat_perempuan": 77.4,
+      "jangkaan_hayat_keseluruhan": 74.9
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 70.3,
+      "jangkaan_hayat_perempuan": 76,
+      "jangkaan_hayat_keseluruhan": 73
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 70.9,
+      "jangkaan_hayat_perempuan": 76.5,
+      "jangkaan_hayat_keseluruhan": 73.6
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 72,
+      "jangkaan_hayat_perempuan": 77.8,
+      "jangkaan_hayat_keseluruhan": 74.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 71.5,
+      "jangkaan_hayat_perempuan": 77.3,
+      "jangkaan_hayat_keseluruhan": 74.2
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 71.3,
+      "jangkaan_hayat_perempuan": 76.3,
+      "jangkaan_hayat_keseluruhan": 73.6
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 71.2,
+      "jangkaan_hayat_perempuan": 77.2,
+      "jangkaan_hayat_keseluruhan": 74
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 70,
+      "jangkaan_hayat_perempuan": 77,
+      "jangkaan_hayat_keseluruhan": 73.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 73.1,
+      "jangkaan_hayat_perempuan": 78,
+      "jangkaan_hayat_keseluruhan": 75.5
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 73,
+      "jangkaan_hayat_perempuan": 77.6,
+      "jangkaan_hayat_keseluruhan": 75.1
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 73.3,
+      "jangkaan_hayat_perempuan": 78.1,
+      "jangkaan_hayat_keseluruhan": 75.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 76.4,
+      "jangkaan_hayat_perempuan": 80.4,
+      "jangkaan_hayat_keseluruhan": 78.2
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 70.3,
+      "jangkaan_hayat_perempuan": 75.7,
+      "jangkaan_hayat_keseluruhan": 72.8
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 75.1,
+      "jangkaan_hayat_perempuan": 79.9,
+      "jangkaan_hayat_keseluruhan": 77.3
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 75.1,
+      "jangkaan_hayat_perempuan": 79.3,
+      "jangkaan_hayat_keseluruhan": 77
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2026,
+      "jangkaan_hayat_lelaki": 72.5,
+      "jangkaan_hayat_perempuan": 76.6,
+      "jangkaan_hayat_keseluruhan": 74.6
+    }
+  ],
+  "meta": {
+    "title": "Jangkaan Hayat mengikut Negeri dan Jantina - Muat turun percuma",
+    "description": "Jangkaan hayat semasa lahir (tahun) bagi lelaki dan perempuan mengikut negeri di Malaysia sejak 2001, data Jabatan Perangkaan Malaysia (DOSM). Mengandungi 379 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Jangkaan Hayat mengikut Negeri dan Jantina | ListBase",
+    "seo_description": "Muat turun Jangkaan Hayat mengikut Negeri dan Jantina — 379 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 379 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/life_expectancy_state"
+    ]
+  }
+}
