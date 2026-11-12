@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-12T02:33:33.527Z",
-  "total_datasets": 717,
-  "total_records": 556145,
+  "generated": "2026-11-12T02:33:45.277Z",
+  "total_datasets": 718,
+  "total_records": 556445,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 27
+      "dataset_count": 28
     },
     {
       "id": "entertainment",
@@ -2980,6 +2980,33 @@
         "xlsx": {
           "name": "ms-sjkc-terengganu_MS.xlsx",
           "size": 7872
+        }
+      }
+    },
+    {
+      "id": "ms-staf-akademik-universiti-awam",
+      "name": "Staf Akademik (Pensyarah) di Universiti Awam Malaysia",
+      "category": "education",
+      "record_count": 300,
+      "columns": [
+        "universiti",
+        "negeri",
+        "tahun",
+        "jumlah_staf_akademik",
+        "perempuan",
+        "lelaki"
+      ],
+      "source": "https://data.gov.my/data-catalogue/lecturers_uni",
+      "updated": "2026-11",
+      "size": 61584,
+      "files": {
+        "csv": {
+          "name": "ms-staf-akademik-universiti-awam_MS.csv",
+          "size": 22006
+        },
+        "xlsx": {
+          "name": "ms-staf-akademik-universiti-awam_MS.xlsx",
+          "size": 15875
         }
       }
     },

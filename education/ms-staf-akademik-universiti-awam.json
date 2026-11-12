@@ -1,0 +1,2456 @@
+{
+  "id": "ms-staf-akademik-universiti-awam",
+  "name": "Staf Akademik (Pensyarah) di Universiti Awam Malaysia",
+  "title": "Staf Akademik (Pensyarah) di Universiti Awam Malaysia",
+  "description": "Bilangan staf akademik di setiap universiti awam Malaysia mengikut tahun dan jantina, data Kementerian Pendidikan Tinggi.",
+  "category": "education",
+  "source": "https://data.gov.my/data-catalogue/lecturers_uni",
+  "source_url": "https://data.gov.my/data-catalogue/lecturers_uni",
+  "updated": "2026-11",
+  "record_count": 300,
+  "columns": [
+    {
+      "key": "universiti",
+      "label": "Universiti",
+      "type": "string"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "jumlah_staf_akademik",
+      "label": "Jumlah Staf Akademik",
+      "type": "number"
+    },
+    {
+      "key": "perempuan",
+      "label": "Perempuan",
+      "type": "number"
+    },
+    {
+      "key": "lelaki",
+      "label": "Lelaki",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Malaysia",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 31917,
+      "perempuan": 16872,
+      "lelaki": 15045
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Johor",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 3081,
+      "perempuan": 1274,
+      "lelaki": 1807
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 14991,
+      "perempuan": 8876,
+      "lelaki": 6115
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 1231,
+      "perempuan": 629,
+      "lelaki": 602
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 2800,
+      "perempuan": 1356,
+      "lelaki": 1444
+    },
+    {
+      "universiti": "Universiti Teknologi Malaysia (UTM)",
+      "negeri": "Johor",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 2006,
+      "perempuan": 792,
+      "lelaki": 1214
+    },
+    {
+      "universiti": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+      "negeri": "Johor",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 1075,
+      "perempuan": 482,
+      "lelaki": 593
+    },
+    {
+      "universiti": "Universiti Utara Malaysia (UUM)",
+      "negeri": "Kedah",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 1478,
+      "perempuan": 757,
+      "lelaki": 721
+    },
+    {
+      "universiti": "Universiti Malaysia Kelantan (UMK)",
+      "negeri": "Kelantan",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 533,
+      "perempuan": 290,
+      "lelaki": 243
+    },
+    {
+      "universiti": "Universiti Teknikal Malaysia Melaka (UTeM)",
+      "negeri": "Melaka",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 838,
+      "perempuan": 325,
+      "lelaki": 513
+    },
+    {
+      "universiti": "Universiti Sains Islam Malaysia (USIM)",
+      "negeri": "Negeri Sembilan",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 643,
+      "perempuan": 355,
+      "lelaki": 288
+    },
+    {
+      "universiti": "Universiti Malaysia Pahang (UMPSA)",
+      "negeri": "Pahang",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 720,
+      "perempuan": 325,
+      "lelaki": 395
+    },
+    {
+      "universiti": "Universiti Pendidikan Sultan Idris (UPSI)",
+      "negeri": "Perak",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 857,
+      "perempuan": 442,
+      "lelaki": 415
+    },
+    {
+      "universiti": "Universiti Malaysia Perlis (UNIMAP)",
+      "negeri": "Perlis",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 991,
+      "perempuan": 416,
+      "lelaki": 575
+    },
+    {
+      "universiti": "Universiti Sains Malaysia (USM)",
+      "negeri": "Pulau Pinang",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 1933,
+      "perempuan": 939,
+      "lelaki": 994
+    },
+    {
+      "universiti": "Universiti Malaysia Sabah (UMS)",
+      "negeri": "Sabah",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 944,
+      "perempuan": 455,
+      "lelaki": 489
+    },
+    {
+      "universiti": "Universiti Malaysia Sarawak (UNIMAS)",
+      "negeri": "Sarawak",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 877,
+      "perempuan": 433,
+      "lelaki": 444
+    },
+    {
+      "universiti": "Universiti Islam Antarabangsa Malaysia (UIAM)",
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 1918,
+      "perempuan": 1005,
+      "lelaki": 913
+    },
+    {
+      "universiti": "Universiti Kebangsaan Malaysia (UKM)",
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 2365,
+      "perempuan": 1273,
+      "lelaki": 1092
+    },
+    {
+      "universiti": "Universiti Putra Malaysia (UPM)",
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 1810,
+      "perempuan": 890,
+      "lelaki": 920
+    },
+    {
+      "universiti": "Universiti Teknologi MARA (UiTM)",
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 8898,
+      "perempuan": 5708,
+      "lelaki": 3190
+    },
+    {
+      "universiti": "Universiti Malaysia Terengganu (UMT)",
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 593,
+      "perempuan": 327,
+      "lelaki": 266
+    },
+    {
+      "universiti": "Universiti Sultan Zainal Abidin (UniSZA)",
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 638,
+      "perempuan": 302,
+      "lelaki": 336
+    },
+    {
+      "universiti": "Universiti Malaya (UM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 2466,
+      "perempuan": 1192,
+      "lelaki": 1274
+    },
+    {
+      "universiti": "Universiti Pertahanan Nasional Malaysia (UPNM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2014,
+      "jumlah_staf_akademik": 334,
+      "perempuan": 164,
+      "lelaki": 170
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Malaysia",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 31877,
+      "perempuan": 17081,
+      "lelaki": 14796
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Johor",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 3071,
+      "perempuan": 1285,
+      "lelaki": 1786
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 14872,
+      "perempuan": 8924,
+      "lelaki": 5948
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 1250,
+      "perempuan": 643,
+      "lelaki": 607
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 2543,
+      "perempuan": 1288,
+      "lelaki": 1255
+    },
+    {
+      "universiti": "Universiti Teknologi Malaysia (UTM)",
+      "negeri": "Johor",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 1965,
+      "perempuan": 784,
+      "lelaki": 1181
+    },
+    {
+      "universiti": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+      "negeri": "Johor",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 1106,
+      "perempuan": 501,
+      "lelaki": 605
+    },
+    {
+      "universiti": "Universiti Utara Malaysia (UUM)",
+      "negeri": "Kedah",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 1494,
+      "perempuan": 771,
+      "lelaki": 723
+    },
+    {
+      "universiti": "Universiti Malaysia Kelantan (UMK)",
+      "negeri": "Kelantan",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 553,
+      "perempuan": 304,
+      "lelaki": 249
+    },
+    {
+      "universiti": "Universiti Teknikal Malaysia Melaka (UTeM)",
+      "negeri": "Melaka",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 908,
+      "perempuan": 340,
+      "lelaki": 568
+    },
+    {
+      "universiti": "Universiti Sains Islam Malaysia (USIM)",
+      "negeri": "Negeri Sembilan",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 664,
+      "perempuan": 367,
+      "lelaki": 297
+    },
+    {
+      "universiti": "Universiti Malaysia Pahang (UMPSA)",
+      "negeri": "Pahang",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 757,
+      "perempuan": 343,
+      "lelaki": 414
+    },
+    {
+      "universiti": "Universiti Pendidikan Sultan Idris (UPSI)",
+      "negeri": "Perak",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 850,
+      "perempuan": 439,
+      "lelaki": 411
+    },
+    {
+      "universiti": "Universiti Malaysia Perlis (UNIMAP)",
+      "negeri": "Perlis",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 1050,
+      "perempuan": 453,
+      "lelaki": 597
+    },
+    {
+      "universiti": "Universiti Sains Malaysia (USM)",
+      "negeri": "Pulau Pinang",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 1963,
+      "perempuan": 970,
+      "lelaki": 993
+    },
+    {
+      "universiti": "Universiti Malaysia Sabah (UMS)",
+      "negeri": "Sabah",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 1063,
+      "perempuan": 524,
+      "lelaki": 539
+    },
+    {
+      "universiti": "Universiti Malaysia Sarawak (UNIMAS)",
+      "negeri": "Sarawak",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 839,
+      "perempuan": 430,
+      "lelaki": 409
+    },
+    {
+      "universiti": "Universiti Islam Antarabangsa Malaysia (UIAM)",
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 1926,
+      "perempuan": 1014,
+      "lelaki": 912
+    },
+    {
+      "universiti": "Universiti Kebangsaan Malaysia (UKM)",
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 2159,
+      "perempuan": 1198,
+      "lelaki": 961
+    },
+    {
+      "universiti": "Universiti Putra Malaysia (UPM)",
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 1812,
+      "perempuan": 905,
+      "lelaki": 907
+    },
+    {
+      "universiti": "Universiti Teknologi MARA (UiTM)",
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 8975,
+      "perempuan": 5807,
+      "lelaki": 3168
+    },
+    {
+      "universiti": "Universiti Malaysia Terengganu (UMT)",
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 595,
+      "perempuan": 327,
+      "lelaki": 268
+    },
+    {
+      "universiti": "Universiti Sultan Zainal Abidin (UniSZA)",
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 655,
+      "perempuan": 316,
+      "lelaki": 339
+    },
+    {
+      "universiti": "Universiti Malaya (UM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 2177,
+      "perempuan": 1101,
+      "lelaki": 1076
+    },
+    {
+      "universiti": "Universiti Pertahanan Nasional Malaysia (UPNM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2015,
+      "jumlah_staf_akademik": 366,
+      "perempuan": 187,
+      "lelaki": 179
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Malaysia",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 31712,
+      "perempuan": 17298,
+      "lelaki": 14414
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Johor",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 2889,
+      "perempuan": 1258,
+      "lelaki": 1631
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 14748,
+      "perempuan": 8932,
+      "lelaki": 5816
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 1267,
+      "perempuan": 671,
+      "lelaki": 596
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 2623,
+      "perempuan": 1352,
+      "lelaki": 1271
+    },
+    {
+      "universiti": "Universiti Teknologi Malaysia (UTM)",
+      "negeri": "Johor",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 1833,
+      "perempuan": 765,
+      "lelaki": 1068
+    },
+    {
+      "universiti": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+      "negeri": "Johor",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 1056,
+      "perempuan": 493,
+      "lelaki": 563
+    },
+    {
+      "universiti": "Universiti Utara Malaysia (UUM)",
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 1397,
+      "perempuan": 748,
+      "lelaki": 649
+    },
+    {
+      "universiti": "Universiti Malaysia Kelantan (UMK)",
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 561,
+      "perempuan": 318,
+      "lelaki": 243
+    },
+    {
+      "universiti": "Universiti Teknikal Malaysia Melaka (UTeM)",
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 899,
+      "perempuan": 336,
+      "lelaki": 563
+    },
+    {
+      "universiti": "Universiti Sains Islam Malaysia (USIM)",
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 717,
+      "perempuan": 404,
+      "lelaki": 313
+    },
+    {
+      "universiti": "Universiti Malaysia Pahang (UMPSA)",
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 800,
+      "perempuan": 367,
+      "lelaki": 433
+    },
+    {
+      "universiti": "Universiti Pendidikan Sultan Idris (UPSI)",
+      "negeri": "Perak",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 832,
+      "perempuan": 440,
+      "lelaki": 392
+    },
+    {
+      "universiti": "Universiti Malaysia Perlis (UNIMAP)",
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 1037,
+      "perempuan": 469,
+      "lelaki": 568
+    },
+    {
+      "universiti": "Universiti Sains Malaysia (USM)",
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 1961,
+      "perempuan": 1017,
+      "lelaki": 944
+    },
+    {
+      "universiti": "Universiti Malaysia Sabah (UMS)",
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 1104,
+      "perempuan": 537,
+      "lelaki": 567
+    },
+    {
+      "universiti": "Universiti Malaysia Sarawak (UNIMAS)",
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 877,
+      "perempuan": 449,
+      "lelaki": 428
+    },
+    {
+      "universiti": "Universiti Islam Antarabangsa Malaysia (UIAM)",
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 1955,
+      "perempuan": 1041,
+      "lelaki": 914
+    },
+    {
+      "universiti": "Universiti Kebangsaan Malaysia (UKM)",
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 2163,
+      "perempuan": 1208,
+      "lelaki": 955
+    },
+    {
+      "universiti": "Universiti Putra Malaysia (UPM)",
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 1770,
+      "perempuan": 900,
+      "lelaki": 870
+    },
+    {
+      "universiti": "Universiti Teknologi MARA (UiTM)",
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 8860,
+      "perempuan": 5783,
+      "lelaki": 3077
+    },
+    {
+      "universiti": "Universiti Malaysia Terengganu (UMT)",
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 636,
+      "perempuan": 363,
+      "lelaki": 273
+    },
+    {
+      "universiti": "Universiti Sultan Zainal Abidin (UniSZA)",
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 631,
+      "perempuan": 308,
+      "lelaki": 323
+    },
+    {
+      "universiti": "Universiti Malaya (UM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 2237,
+      "perempuan": 1154,
+      "lelaki": 1083
+    },
+    {
+      "universiti": "Universiti Pertahanan Nasional Malaysia (UPNM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "jumlah_staf_akademik": 386,
+      "perempuan": 198,
+      "lelaki": 188
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Malaysia",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 31740,
+      "perempuan": 17490,
+      "lelaki": 14250
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Johor",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 2902,
+      "perempuan": 1280,
+      "lelaki": 1622
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 14797,
+      "perempuan": 9042,
+      "lelaki": 5755
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 1255,
+      "perempuan": 679,
+      "lelaki": 576
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 2600,
+      "perempuan": 1366,
+      "lelaki": 1234
+    },
+    {
+      "universiti": "Universiti Teknologi Malaysia (UTM)",
+      "negeri": "Johor",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 1849,
+      "perempuan": 780,
+      "lelaki": 1069
+    },
+    {
+      "universiti": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+      "negeri": "Johor",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 1053,
+      "perempuan": 500,
+      "lelaki": 553
+    },
+    {
+      "universiti": "Universiti Utara Malaysia (UUM)",
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 1366,
+      "perempuan": 740,
+      "lelaki": 626
+    },
+    {
+      "universiti": "Universiti Malaysia Kelantan (UMK)",
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 559,
+      "perempuan": 309,
+      "lelaki": 250
+    },
+    {
+      "universiti": "Universiti Teknikal Malaysia Melaka (UTeM)",
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 881,
+      "perempuan": 335,
+      "lelaki": 546
+    },
+    {
+      "universiti": "Universiti Sains Islam Malaysia (USIM)",
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 728,
+      "perempuan": 417,
+      "lelaki": 311
+    },
+    {
+      "universiti": "Universiti Malaysia Pahang (UMPSA)",
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 799,
+      "perempuan": 362,
+      "lelaki": 437
+    },
+    {
+      "universiti": "Universiti Pendidikan Sultan Idris (UPSI)",
+      "negeri": "Perak",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 891,
+      "perempuan": 477,
+      "lelaki": 414
+    },
+    {
+      "universiti": "Universiti Malaysia Perlis (UNIMAP)",
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 1061,
+      "perempuan": 482,
+      "lelaki": 579
+    },
+    {
+      "universiti": "Universiti Sains Malaysia (USM)",
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 1983,
+      "perempuan": 1039,
+      "lelaki": 944
+    },
+    {
+      "universiti": "Universiti Malaysia Sabah (UMS)",
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 1064,
+      "perempuan": 518,
+      "lelaki": 546
+    },
+    {
+      "universiti": "Universiti Malaysia Sarawak (UNIMAS)",
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 854,
+      "perempuan": 444,
+      "lelaki": 410
+    },
+    {
+      "universiti": "Universiti Islam Antarabangsa Malaysia (UIAM)",
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 2005,
+      "perempuan": 1069,
+      "lelaki": 936
+    },
+    {
+      "universiti": "Universiti Kebangsaan Malaysia (UKM)",
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 2163,
+      "perempuan": 1211,
+      "lelaki": 952
+    },
+    {
+      "universiti": "Universiti Putra Malaysia (UPM)",
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 1873,
+      "perempuan": 1018,
+      "lelaki": 855
+    },
+    {
+      "universiti": "Universiti Teknologi MARA (UiTM)",
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 8756,
+      "perempuan": 5744,
+      "lelaki": 3012
+    },
+    {
+      "universiti": "Universiti Malaysia Terengganu (UMT)",
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 625,
+      "perempuan": 363,
+      "lelaki": 262
+    },
+    {
+      "universiti": "Universiti Sultan Zainal Abidin (UniSZA)",
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 630,
+      "perempuan": 316,
+      "lelaki": 314
+    },
+    {
+      "universiti": "Universiti Malaya (UM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 2211,
+      "perempuan": 1168,
+      "lelaki": 1043
+    },
+    {
+      "universiti": "Universiti Pertahanan Nasional Malaysia (UPNM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2017,
+      "jumlah_staf_akademik": 389,
+      "perempuan": 198,
+      "lelaki": 191
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Malaysia",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 31528,
+      "perempuan": 17503,
+      "lelaki": 14025
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Johor",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 2821,
+      "perempuan": 1267,
+      "lelaki": 1554
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 14690,
+      "perempuan": 8994,
+      "lelaki": 5696
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 1328,
+      "perempuan": 701,
+      "lelaki": 627
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 2470,
+      "perempuan": 1342,
+      "lelaki": 1128
+    },
+    {
+      "universiti": "Universiti Teknologi Malaysia (UTM)",
+      "negeri": "Johor",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 1746,
+      "perempuan": 758,
+      "lelaki": 988
+    },
+    {
+      "universiti": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+      "negeri": "Johor",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 1075,
+      "perempuan": 509,
+      "lelaki": 566
+    },
+    {
+      "universiti": "Universiti Utara Malaysia (UUM)",
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 1350,
+      "perempuan": 735,
+      "lelaki": 615
+    },
+    {
+      "universiti": "Universiti Malaysia Kelantan (UMK)",
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 541,
+      "perempuan": 306,
+      "lelaki": 235
+    },
+    {
+      "universiti": "Universiti Teknikal Malaysia Melaka (UTeM)",
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 885,
+      "perempuan": 338,
+      "lelaki": 547
+    },
+    {
+      "universiti": "Universiti Sains Islam Malaysia (USIM)",
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 759,
+      "perempuan": 433,
+      "lelaki": 326
+    },
+    {
+      "universiti": "Universiti Malaysia Pahang (UMPSA)",
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 794,
+      "perempuan": 371,
+      "lelaki": 423
+    },
+    {
+      "universiti": "Universiti Pendidikan Sultan Idris (UPSI)",
+      "negeri": "Perak",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 864,
+      "perempuan": 470,
+      "lelaki": 394
+    },
+    {
+      "universiti": "Universiti Malaysia Perlis (UNIMAP)",
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 1064,
+      "perempuan": 492,
+      "lelaki": 572
+    },
+    {
+      "universiti": "Universiti Sains Malaysia (USM)",
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 2050,
+      "perempuan": 1093,
+      "lelaki": 957
+    },
+    {
+      "universiti": "Universiti Malaysia Sabah (UMS)",
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 1085,
+      "perempuan": 529,
+      "lelaki": 556
+    },
+    {
+      "universiti": "Universiti Malaysia Sarawak (UNIMAS)",
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 827,
+      "perempuan": 432,
+      "lelaki": 395
+    },
+    {
+      "universiti": "Universiti Islam Antarabangsa Malaysia (UIAM)",
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 2074,
+      "perempuan": 1109,
+      "lelaki": 965
+    },
+    {
+      "universiti": "Universiti Kebangsaan Malaysia (UKM)",
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 2103,
+      "perempuan": 1172,
+      "lelaki": 931
+    },
+    {
+      "universiti": "Universiti Putra Malaysia (UPM)",
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 1854,
+      "perempuan": 1023,
+      "lelaki": 831
+    },
+    {
+      "universiti": "Universiti Teknologi MARA (UiTM)",
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 8659,
+      "perempuan": 5690,
+      "lelaki": 2969
+    },
+    {
+      "universiti": "Universiti Malaysia Terengganu (UMT)",
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 691,
+      "perempuan": 380,
+      "lelaki": 311
+    },
+    {
+      "universiti": "Universiti Sultan Zainal Abidin (UniSZA)",
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 637,
+      "perempuan": 321,
+      "lelaki": 316
+    },
+    {
+      "universiti": "Universiti Malaya (UM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 2082,
+      "perempuan": 1141,
+      "lelaki": 941
+    },
+    {
+      "universiti": "Universiti Pertahanan Nasional Malaysia (UPNM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "jumlah_staf_akademik": 388,
+      "perempuan": 201,
+      "lelaki": 187
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Malaysia",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 31626,
+      "perempuan": 17657,
+      "lelaki": 13969
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Johor",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 2819,
+      "perempuan": 1285,
+      "lelaki": 1534
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 14695,
+      "perempuan": 9036,
+      "lelaki": 5659
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 1410,
+      "perempuan": 760,
+      "lelaki": 650
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 2491,
+      "perempuan": 1344,
+      "lelaki": 1147
+    },
+    {
+      "universiti": "Universiti Teknologi Malaysia (UTM)",
+      "negeri": "Johor",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 1724,
+      "perempuan": 767,
+      "lelaki": 957
+    },
+    {
+      "universiti": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+      "negeri": "Johor",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 1095,
+      "perempuan": 518,
+      "lelaki": 577
+    },
+    {
+      "universiti": "Universiti Utara Malaysia (UUM)",
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 1297,
+      "perempuan": 716,
+      "lelaki": 581
+    },
+    {
+      "universiti": "Universiti Malaysia Kelantan (UMK)",
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 514,
+      "perempuan": 298,
+      "lelaki": 216
+    },
+    {
+      "universiti": "Universiti Teknikal Malaysia Melaka (UTeM)",
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 882,
+      "perempuan": 339,
+      "lelaki": 543
+    },
+    {
+      "universiti": "Universiti Sains Islam Malaysia (USIM)",
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 768,
+      "perempuan": 442,
+      "lelaki": 326
+    },
+    {
+      "universiti": "Universiti Malaysia Pahang (UMPSA)",
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 783,
+      "perempuan": 370,
+      "lelaki": 413
+    },
+    {
+      "universiti": "Universiti Pendidikan Sultan Idris (UPSI)",
+      "negeri": "Perak",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 875,
+      "perempuan": 470,
+      "lelaki": 405
+    },
+    {
+      "universiti": "Universiti Malaysia Perlis (UNIMAP)",
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 1095,
+      "perempuan": 518,
+      "lelaki": 577
+    },
+    {
+      "universiti": "Universiti Sains Malaysia (USM)",
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 2077,
+      "perempuan": 1106,
+      "lelaki": 971
+    },
+    {
+      "universiti": "Universiti Malaysia Sabah (UMS)",
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 1082,
+      "perempuan": 527,
+      "lelaki": 555
+    },
+    {
+      "universiti": "Universiti Malaysia Sarawak (UNIMAS)",
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 838,
+      "perempuan": 446,
+      "lelaki": 392
+    },
+    {
+      "universiti": "Universiti Islam Antarabangsa Malaysia (UIAM)",
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 2176,
+      "perempuan": 1158,
+      "lelaki": 1018
+    },
+    {
+      "universiti": "Universiti Kebangsaan Malaysia (UKM)",
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 2005,
+      "perempuan": 1124,
+      "lelaki": 881
+    },
+    {
+      "universiti": "Universiti Putra Malaysia (UPM)",
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 1889,
+      "perempuan": 1068,
+      "lelaki": 821
+    },
+    {
+      "universiti": "Universiti Teknologi MARA (UiTM)",
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 8625,
+      "perempuan": 5686,
+      "lelaki": 2939
+    },
+    {
+      "universiti": "Universiti Malaysia Terengganu (UMT)",
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 699,
+      "perempuan": 383,
+      "lelaki": 316
+    },
+    {
+      "universiti": "Universiti Sultan Zainal Abidin (UniSZA)",
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 711,
+      "perempuan": 377,
+      "lelaki": 334
+    },
+    {
+      "universiti": "Universiti Malaya (UM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 2102,
+      "perempuan": 1143,
+      "lelaki": 959
+    },
+    {
+      "universiti": "Universiti Pertahanan Nasional Malaysia (UPNM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "jumlah_staf_akademik": 389,
+      "perempuan": 201,
+      "lelaki": 188
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Malaysia",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 31508,
+      "perempuan": 17818,
+      "lelaki": 13690
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Johor",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 2789,
+      "perempuan": 1283,
+      "lelaki": 1506
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 14814,
+      "perempuan": 9211,
+      "lelaki": 5603
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 1379,
+      "perempuan": 759,
+      "lelaki": 620
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 2427,
+      "perempuan": 1312,
+      "lelaki": 1115
+    },
+    {
+      "universiti": "Universiti Teknologi Malaysia (UTM)",
+      "negeri": "Johor",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 1697,
+      "perempuan": 770,
+      "lelaki": 927
+    },
+    {
+      "universiti": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+      "negeri": "Johor",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 1092,
+      "perempuan": 513,
+      "lelaki": 579
+    },
+    {
+      "universiti": "Universiti Utara Malaysia (UUM)",
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 1246,
+      "perempuan": 707,
+      "lelaki": 539
+    },
+    {
+      "universiti": "Universiti Malaysia Kelantan (UMK)",
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 521,
+      "perempuan": 301,
+      "lelaki": 220
+    },
+    {
+      "universiti": "Universiti Teknikal Malaysia Melaka (UTeM)",
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 866,
+      "perempuan": 336,
+      "lelaki": 530
+    },
+    {
+      "universiti": "Universiti Sains Islam Malaysia (USIM)",
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 785,
+      "perempuan": 455,
+      "lelaki": 330
+    },
+    {
+      "universiti": "Universiti Malaysia Pahang (UMPSA)",
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 764,
+      "perempuan": 367,
+      "lelaki": 397
+    },
+    {
+      "universiti": "Universiti Pendidikan Sultan Idris (UPSI)",
+      "negeri": "Perak",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 872,
+      "perempuan": 468,
+      "lelaki": 404
+    },
+    {
+      "universiti": "Universiti Malaysia Perlis (UNIMAP)",
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 1109,
+      "perempuan": 534,
+      "lelaki": 575
+    },
+    {
+      "universiti": "Universiti Sains Malaysia (USM)",
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 2064,
+      "perempuan": 1111,
+      "lelaki": 953
+    },
+    {
+      "universiti": "Universiti Malaysia Sabah (UMS)",
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 1042,
+      "perempuan": 528,
+      "lelaki": 514
+    },
+    {
+      "universiti": "Universiti Malaysia Sarawak (UNIMAS)",
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 830,
+      "perempuan": 446,
+      "lelaki": 384
+    },
+    {
+      "universiti": "Universiti Islam Antarabangsa Malaysia (UIAM)",
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 1979,
+      "perempuan": 1108,
+      "lelaki": 871
+    },
+    {
+      "universiti": "Universiti Kebangsaan Malaysia (UKM)",
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 2094,
+      "perempuan": 1160,
+      "lelaki": 934
+    },
+    {
+      "universiti": "Universiti Putra Malaysia (UPM)",
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 1837,
+      "perempuan": 1060,
+      "lelaki": 777
+    },
+    {
+      "universiti": "Universiti Teknologi MARA (UiTM)",
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 8904,
+      "perempuan": 5883,
+      "lelaki": 3021
+    },
+    {
+      "universiti": "Universiti Malaysia Terengganu (UMT)",
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 668,
+      "perempuan": 376,
+      "lelaki": 292
+    },
+    {
+      "universiti": "Universiti Sultan Zainal Abidin (UniSZA)",
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 711,
+      "perempuan": 383,
+      "lelaki": 328
+    },
+    {
+      "universiti": "Universiti Malaya (UM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 2045,
+      "perempuan": 1114,
+      "lelaki": 931
+    },
+    {
+      "universiti": "Universiti Pertahanan Nasional Malaysia (UPNM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "jumlah_staf_akademik": 382,
+      "perempuan": 198,
+      "lelaki": 184
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Malaysia",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 31568,
+      "perempuan": 18005,
+      "lelaki": 13563
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Johor",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 2782,
+      "perempuan": 1318,
+      "lelaki": 1464
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 14788,
+      "perempuan": 9264,
+      "lelaki": 5524
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 1386,
+      "perempuan": 774,
+      "lelaki": 612
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 2489,
+      "perempuan": 1356,
+      "lelaki": 1133
+    },
+    {
+      "universiti": "Universiti Teknologi Malaysia (UTM)",
+      "negeri": "Johor",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 1661,
+      "perempuan": 783,
+      "lelaki": 878
+    },
+    {
+      "universiti": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+      "negeri": "Johor",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 1121,
+      "perempuan": 535,
+      "lelaki": 586
+    },
+    {
+      "universiti": "Universiti Utara Malaysia (UUM)",
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 1235,
+      "perempuan": 707,
+      "lelaki": 528
+    },
+    {
+      "universiti": "Universiti Malaysia Kelantan (UMK)",
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 545,
+      "perempuan": 308,
+      "lelaki": 237
+    },
+    {
+      "universiti": "Universiti Teknikal Malaysia Melaka (UTeM)",
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 856,
+      "perempuan": 336,
+      "lelaki": 520
+    },
+    {
+      "universiti": "Universiti Sains Islam Malaysia (USIM)",
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 804,
+      "perempuan": 471,
+      "lelaki": 333
+    },
+    {
+      "universiti": "Universiti Malaysia Pahang (UMPSA)",
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 764,
+      "perempuan": 370,
+      "lelaki": 394
+    },
+    {
+      "universiti": "Universiti Pendidikan Sultan Idris (UPSI)",
+      "negeri": "Perak",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 876,
+      "perempuan": 474,
+      "lelaki": 402
+    },
+    {
+      "universiti": "Universiti Malaysia Perlis (UNIMAP)",
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 1123,
+      "perempuan": 541,
+      "lelaki": 582
+    },
+    {
+      "universiti": "Universiti Sains Malaysia (USM)",
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 2036,
+      "perempuan": 1105,
+      "lelaki": 931
+    },
+    {
+      "universiti": "Universiti Malaysia Sabah (UMS)",
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 1062,
+      "perempuan": 541,
+      "lelaki": 521
+    },
+    {
+      "universiti": "Universiti Malaysia Sarawak (UNIMAS)",
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 822,
+      "perempuan": 440,
+      "lelaki": 382
+    },
+    {
+      "universiti": "Universiti Islam Antarabangsa Malaysia (UIAM)",
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 1960,
+      "perempuan": 1097,
+      "lelaki": 863
+    },
+    {
+      "universiti": "Universiti Kebangsaan Malaysia (UKM)",
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 2041,
+      "perempuan": 1146,
+      "lelaki": 895
+    },
+    {
+      "universiti": "Universiti Putra Malaysia (UPM)",
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 1830,
+      "perempuan": 1057,
+      "lelaki": 773
+    },
+    {
+      "universiti": "Universiti Teknologi MARA (UiTM)",
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 8957,
+      "perempuan": 5964,
+      "lelaki": 2993
+    },
+    {
+      "universiti": "Universiti Malaysia Terengganu (UMT)",
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 671,
+      "perempuan": 388,
+      "lelaki": 283
+    },
+    {
+      "universiti": "Universiti Sultan Zainal Abidin (UniSZA)",
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 715,
+      "perempuan": 386,
+      "lelaki": 329
+    },
+    {
+      "universiti": "Universiti Malaya (UM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 2088,
+      "perempuan": 1146,
+      "lelaki": 942
+    },
+    {
+      "universiti": "Universiti Pertahanan Nasional Malaysia (UPNM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "jumlah_staf_akademik": 401,
+      "perempuan": 210,
+      "lelaki": 191
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Malaysia",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 31392,
+      "perempuan": 18025,
+      "lelaki": 13367
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Johor",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 2766,
+      "perempuan": 1344,
+      "lelaki": 1422
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 14712,
+      "perempuan": 9268,
+      "lelaki": 5444
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 1438,
+      "perempuan": 795,
+      "lelaki": 643
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 2428,
+      "perempuan": 1321,
+      "lelaki": 1107
+    },
+    {
+      "universiti": "Universiti Teknologi Malaysia (UTM)",
+      "negeri": "Johor",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 1633,
+      "perempuan": 803,
+      "lelaki": 830
+    },
+    {
+      "universiti": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+      "negeri": "Johor",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 1133,
+      "perempuan": 541,
+      "lelaki": 592
+    },
+    {
+      "universiti": "Universiti Utara Malaysia (UUM)",
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 1179,
+      "perempuan": 679,
+      "lelaki": 500
+    },
+    {
+      "universiti": "Universiti Malaysia Kelantan (UMK)",
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 534,
+      "perempuan": 303,
+      "lelaki": 231
+    },
+    {
+      "universiti": "Universiti Teknikal Malaysia Melaka (UTeM)",
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 856,
+      "perempuan": 337,
+      "lelaki": 519
+    },
+    {
+      "universiti": "Universiti Sains Islam Malaysia (USIM)",
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 839,
+      "perempuan": 497,
+      "lelaki": 342
+    },
+    {
+      "universiti": "Universiti Malaysia Pahang (UMPSA)",
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 759,
+      "perempuan": 375,
+      "lelaki": 384
+    },
+    {
+      "universiti": "Universiti Pendidikan Sultan Idris (UPSI)",
+      "negeri": "Perak",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 852,
+      "perempuan": 465,
+      "lelaki": 387
+    },
+    {
+      "universiti": "Universiti Malaysia Perlis (UNIMAP)",
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 1116,
+      "perempuan": 549,
+      "lelaki": 567
+    },
+    {
+      "universiti": "Universiti Sains Malaysia (USM)",
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 2012,
+      "perempuan": 1097,
+      "lelaki": 915
+    },
+    {
+      "universiti": "Universiti Malaysia Sabah (UMS)",
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 1068,
+      "perempuan": 545,
+      "lelaki": 523
+    },
+    {
+      "universiti": "Universiti Malaysia Sarawak (UNIMAS)",
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 833,
+      "perempuan": 450,
+      "lelaki": 383
+    },
+    {
+      "universiti": "Universiti Islam Antarabangsa Malaysia (UIAM)",
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 2009,
+      "perempuan": 1119,
+      "lelaki": 890
+    },
+    {
+      "universiti": "Universiti Kebangsaan Malaysia (UKM)",
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 1999,
+      "perempuan": 1131,
+      "lelaki": 868
+    },
+    {
+      "universiti": "Universiti Putra Malaysia (UPM)",
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 1792,
+      "perempuan": 1054,
+      "lelaki": 738
+    },
+    {
+      "universiti": "Universiti Teknologi MARA (UiTM)",
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 8912,
+      "perempuan": 5964,
+      "lelaki": 2948
+    },
+    {
+      "universiti": "Universiti Malaysia Terengganu (UMT)",
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 695,
+      "perempuan": 399,
+      "lelaki": 296
+    },
+    {
+      "universiti": "Universiti Sultan Zainal Abidin (UniSZA)",
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 743,
+      "perempuan": 396,
+      "lelaki": 347
+    },
+    {
+      "universiti": "Universiti Malaya (UM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 2037,
+      "perempuan": 1115,
+      "lelaki": 922
+    },
+    {
+      "universiti": "Universiti Pertahanan Nasional Malaysia (UPNM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "jumlah_staf_akademik": 391,
+      "perempuan": 206,
+      "lelaki": 185
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Malaysia",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 31631,
+      "perempuan": 18250,
+      "lelaki": 13381
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Johor",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 2783,
+      "perempuan": 1374,
+      "lelaki": 1409
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 14758,
+      "perempuan": 9315,
+      "lelaki": 5443
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 1420,
+      "perempuan": 802,
+      "lelaki": 618
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 2586,
+      "perempuan": 1398,
+      "lelaki": 1188
+    },
+    {
+      "universiti": "Universiti Teknologi Malaysia (UTM)",
+      "negeri": "Johor",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 1654,
+      "perempuan": 826,
+      "lelaki": 828
+    },
+    {
+      "universiti": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+      "negeri": "Johor",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 1129,
+      "perempuan": 548,
+      "lelaki": 581
+    },
+    {
+      "universiti": "Universiti Utara Malaysia (UUM)",
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 1186,
+      "perempuan": 684,
+      "lelaki": 502
+    },
+    {
+      "universiti": "Universiti Malaysia Kelantan (UMK)",
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 524,
+      "perempuan": 301,
+      "lelaki": 223
+    },
+    {
+      "universiti": "Universiti Teknikal Malaysia Melaka (UTeM)",
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 868,
+      "perempuan": 345,
+      "lelaki": 523
+    },
+    {
+      "universiti": "Universiti Sains Islam Malaysia (USIM)",
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 832,
+      "perempuan": 496,
+      "lelaki": 336
+    },
+    {
+      "universiti": "Universiti Malaysia Pahang (UMPSA)",
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 758,
+      "perempuan": 384,
+      "lelaki": 374
+    },
+    {
+      "universiti": "Universiti Pendidikan Sultan Idris (UPSI)",
+      "negeri": "Perak",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 844,
+      "perempuan": 464,
+      "lelaki": 380
+    },
+    {
+      "universiti": "Universiti Malaysia Perlis (UNIMAP)",
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 1121,
+      "perempuan": 557,
+      "lelaki": 564
+    },
+    {
+      "universiti": "Universiti Sains Malaysia (USM)",
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 1983,
+      "perempuan": 1102,
+      "lelaki": 881
+    },
+    {
+      "universiti": "Universiti Malaysia Sabah (UMS)",
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 1101,
+      "perempuan": 562,
+      "lelaki": 539
+    },
+    {
+      "universiti": "Universiti Malaysia Sarawak (UNIMAS)",
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 867,
+      "perempuan": 466,
+      "lelaki": 401
+    },
+    {
+      "universiti": "Universiti Islam Antarabangsa Malaysia (UIAM)",
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 2064,
+      "perempuan": 1148,
+      "lelaki": 916
+    },
+    {
+      "universiti": "Universiti Kebangsaan Malaysia (UKM)",
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 1990,
+      "perempuan": 1146,
+      "lelaki": 844
+    },
+    {
+      "universiti": "Universiti Putra Malaysia (UPM)",
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 1795,
+      "perempuan": 1048,
+      "lelaki": 747
+    },
+    {
+      "universiti": "Universiti Teknologi MARA (UiTM)",
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 8909,
+      "perempuan": 5973,
+      "lelaki": 2936
+    },
+    {
+      "universiti": "Universiti Malaysia Terengganu (UMT)",
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 647,
+      "perempuan": 387,
+      "lelaki": 260
+    },
+    {
+      "universiti": "Universiti Sultan Zainal Abidin (UniSZA)",
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 773,
+      "perempuan": 415,
+      "lelaki": 358
+    },
+    {
+      "universiti": "Universiti Malaya (UM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 2194,
+      "perempuan": 1189,
+      "lelaki": 1005
+    },
+    {
+      "universiti": "Universiti Pertahanan Nasional Malaysia (UPNM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2023,
+      "jumlah_staf_akademik": 392,
+      "perempuan": 209,
+      "lelaki": 183
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Malaysia",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 31883,
+      "perempuan": 18500,
+      "lelaki": 13383
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Johor",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 2702,
+      "perempuan": 1367,
+      "lelaki": 1335
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 14825,
+      "perempuan": 9388,
+      "lelaki": 5437
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 1380,
+      "perempuan": 781,
+      "lelaki": 599
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 2760,
+      "perempuan": 1490,
+      "lelaki": 1270
+    },
+    {
+      "universiti": "Universiti Teknologi Malaysia (UTM)",
+      "negeri": "Johor",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 1562,
+      "perempuan": 803,
+      "lelaki": 759
+    },
+    {
+      "universiti": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+      "negeri": "Johor",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 1140,
+      "perempuan": 564,
+      "lelaki": 576
+    },
+    {
+      "universiti": "Universiti Utara Malaysia (UUM)",
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 1227,
+      "perempuan": 712,
+      "lelaki": 515
+    },
+    {
+      "universiti": "Universiti Malaysia Kelantan (UMK)",
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 526,
+      "perempuan": 303,
+      "lelaki": 223
+    },
+    {
+      "universiti": "Universiti Teknikal Malaysia Melaka (UTeM)",
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 872,
+      "perempuan": 357,
+      "lelaki": 515
+    },
+    {
+      "universiti": "Universiti Sains Islam Malaysia (USIM)",
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 840,
+      "perempuan": 501,
+      "lelaki": 339
+    },
+    {
+      "universiti": "Universiti Malaysia Pahang (UMPSA)",
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 815,
+      "perempuan": 403,
+      "lelaki": 412
+    },
+    {
+      "universiti": "Universiti Pendidikan Sultan Idris (UPSI)",
+      "negeri": "Perak",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 840,
+      "perempuan": 472,
+      "lelaki": 368
+    },
+    {
+      "universiti": "Universiti Malaysia Perlis (UNIMAP)",
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 1116,
+      "perempuan": 564,
+      "lelaki": 552
+    },
+    {
+      "universiti": "Universiti Sains Malaysia (USM)",
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 1954,
+      "perempuan": 1096,
+      "lelaki": 858
+    },
+    {
+      "universiti": "Universiti Malaysia Sabah (UMS)",
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 1145,
+      "perempuan": 593,
+      "lelaki": 552
+    },
+    {
+      "universiti": "Universiti Malaysia Sarawak (UNIMAS)",
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 881,
+      "perempuan": 473,
+      "lelaki": 408
+    },
+    {
+      "universiti": "Universiti Islam Antarabangsa Malaysia (UIAM)",
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 1998,
+      "perempuan": 1126,
+      "lelaki": 872
+    },
+    {
+      "universiti": "Universiti Kebangsaan Malaysia (UKM)",
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 2001,
+      "perempuan": 1155,
+      "lelaki": 846
+    },
+    {
+      "universiti": "Universiti Putra Malaysia (UPM)",
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 1832,
+      "perempuan": 1067,
+      "lelaki": 765
+    },
+    {
+      "universiti": "Universiti Teknologi MARA (UiTM)",
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 8994,
+      "perempuan": 6040,
+      "lelaki": 2954
+    },
+    {
+      "universiti": "Universiti Malaysia Terengganu (UMT)",
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 660,
+      "perempuan": 391,
+      "lelaki": 269
+    },
+    {
+      "universiti": "Universiti Sultan Zainal Abidin (UniSZA)",
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 720,
+      "perempuan": 390,
+      "lelaki": 330
+    },
+    {
+      "universiti": "Universiti Malaya (UM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 2379,
+      "perempuan": 1279,
+      "lelaki": 1100
+    },
+    {
+      "universiti": "Universiti Pertahanan Nasional Malaysia (UPNM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "jumlah_staf_akademik": 381,
+      "perempuan": 211,
+      "lelaki": 170
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Malaysia",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 32042,
+      "perempuan": 18698,
+      "lelaki": 13344
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Johor",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 2735,
+      "perempuan": 1400,
+      "lelaki": 1335
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Selangor",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 14797,
+      "perempuan": 9441,
+      "lelaki": 5356
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "Terengganu",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 1369,
+      "perempuan": 783,
+      "lelaki": 586
+    },
+    {
+      "universiti": "Semua Universiti",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 2862,
+      "perempuan": 1561,
+      "lelaki": 1301
+    },
+    {
+      "universiti": "Universiti Teknologi Malaysia (UTM)",
+      "negeri": "Johor",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 1581,
+      "perempuan": 819,
+      "lelaki": 762
+    },
+    {
+      "universiti": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+      "negeri": "Johor",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 1154,
+      "perempuan": 581,
+      "lelaki": 573
+    },
+    {
+      "universiti": "Universiti Utara Malaysia (UUM)",
+      "negeri": "Kedah",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 1259,
+      "perempuan": 728,
+      "lelaki": 531
+    },
+    {
+      "universiti": "Universiti Malaysia Kelantan (UMK)",
+      "negeri": "Kelantan",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 532,
+      "perempuan": 306,
+      "lelaki": 226
+    },
+    {
+      "universiti": "Universiti Teknikal Malaysia Melaka (UTeM)",
+      "negeri": "Melaka",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 883,
+      "perempuan": 358,
+      "lelaki": 525
+    },
+    {
+      "universiti": "Universiti Sains Islam Malaysia (USIM)",
+      "negeri": "Negeri Sembilan",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 857,
+      "perempuan": 509,
+      "lelaki": 348
+    },
+    {
+      "universiti": "Universiti Malaysia Pahang (UMPSA)",
+      "negeri": "Pahang",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 817,
+      "perempuan": 404,
+      "lelaki": 413
+    },
+    {
+      "universiti": "Universiti Pendidikan Sultan Idris (UPSI)",
+      "negeri": "Perak",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 853,
+      "perempuan": 475,
+      "lelaki": 378
+    },
+    {
+      "universiti": "Universiti Malaysia Perlis (UNIMAP)",
+      "negeri": "Perlis",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 1115,
+      "perempuan": 568,
+      "lelaki": 547
+    },
+    {
+      "universiti": "Universiti Sains Malaysia (USM)",
+      "negeri": "Pulau Pinang",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 1895,
+      "perempuan": 1074,
+      "lelaki": 821
+    },
+    {
+      "universiti": "Universiti Malaysia Sabah (UMS)",
+      "negeri": "Sabah",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 1177,
+      "perempuan": 611,
+      "lelaki": 566
+    },
+    {
+      "universiti": "Universiti Malaysia Sarawak (UNIMAS)",
+      "negeri": "Sarawak",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 891,
+      "perempuan": 480,
+      "lelaki": 411
+    },
+    {
+      "universiti": "Universiti Islam Antarabangsa Malaysia (UIAM)",
+      "negeri": "Selangor",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 1979,
+      "perempuan": 1128,
+      "lelaki": 851
+    },
+    {
+      "universiti": "Universiti Kebangsaan Malaysia (UKM)",
+      "negeri": "Selangor",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 1980,
+      "perempuan": 1157,
+      "lelaki": 823
+    },
+    {
+      "universiti": "Universiti Putra Malaysia (UPM)",
+      "negeri": "Selangor",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 1795,
+      "perempuan": 1069,
+      "lelaki": 726
+    },
+    {
+      "universiti": "Universiti Teknologi MARA (UiTM)",
+      "negeri": "Selangor",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 9043,
+      "perempuan": 6087,
+      "lelaki": 2956
+    },
+    {
+      "universiti": "Universiti Malaysia Terengganu (UMT)",
+      "negeri": "Terengganu",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 648,
+      "perempuan": 385,
+      "lelaki": 263
+    },
+    {
+      "universiti": "Universiti Sultan Zainal Abidin (UniSZA)",
+      "negeri": "Terengganu",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 721,
+      "perempuan": 398,
+      "lelaki": 323
+    },
+    {
+      "universiti": "Universiti Malaya (UM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 2462,
+      "perempuan": 1336,
+      "lelaki": 1126
+    },
+    {
+      "universiti": "Universiti Pertahanan Nasional Malaysia (UPNM)",
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2025,
+      "jumlah_staf_akademik": 400,
+      "perempuan": 225,
+      "lelaki": 175
+    }
+  ],
+  "meta": {
+    "title": "Staf Akademik (Pensyarah) di Universiti Awam Malaysia - Muat turun percuma",
+    "description": "Bilangan staf akademik di setiap universiti awam Malaysia mengikut tahun dan jantina, data Kementerian Pendidikan Tinggi. Mengandungi 300 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Staf Akademik (Pensyarah) di Universiti Awam Malaysia | ListBase",
+    "seo_description": "Muat turun Staf Akademik (Pensyarah) di Universiti Awam Malaysia — 300 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 300 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/lecturers_uni"
+    ]
+  }
+}
