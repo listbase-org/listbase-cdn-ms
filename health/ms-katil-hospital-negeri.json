@@ -1,0 +1,1416 @@
+{
+  "id": "ms-katil-hospital-negeri",
+  "name": "Katil Hospital mengikut Negeri dan Jenis Hospital",
+  "title": "Katil Hospital mengikut Negeri dan Jenis Hospital",
+  "description": "Bilangan katil hospital tahunan di Malaysia mengikut negeri: hospital KKM, hospital bukan KKM dan institusi perubatan khas, data Kementerian Kesihatan Malaysia.",
+  "category": "health",
+  "source": "https://data.gov.my/data-catalogue/hospital_beds",
+  "source_url": "https://data.gov.my/data-catalogue/hospital_beds",
+  "updated": "2026-11",
+  "record_count": 170,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "jumlah_katil",
+      "label": "Jumlah Katil",
+      "type": "number"
+    },
+    {
+      "key": "katil_hospital_kkm",
+      "label": "Katil Hospital Kkm",
+      "type": "number"
+    },
+    {
+      "key": "katil_hospital_bukan_kkm",
+      "label": "Katil Hospital Bukan Kkm",
+      "type": "number"
+    },
+    {
+      "key": "katil_institusi_perubatan_khas",
+      "label": "Katil Institusi Perubatan Khas",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Malaysia",
+      "tahun": 2015,
+      "jumlah_katil": 45087,
+      "katil_hospital_kkm": 36447,
+      "katil_hospital_bukan_kkm": 3698,
+      "katil_institusi_perubatan_khas": 4942
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2015,
+      "jumlah_katil": 4968,
+      "katil_hospital_kkm": 3836,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 1132
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2015,
+      "jumlah_katil": 2653,
+      "katil_hospital_kkm": 2653,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2015,
+      "jumlah_katil": 2509,
+      "katil_hospital_kkm": 1740,
+      "katil_hospital_bukan_kkm": 769,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2015,
+      "jumlah_katil": 1389,
+      "katil_hospital_kkm": 1245,
+      "katil_hospital_bukan_kkm": 144,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2015,
+      "jumlah_katil": 1825,
+      "katil_hospital_kkm": 1789,
+      "katil_hospital_bukan_kkm": 36,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2015,
+      "jumlah_katil": 2158,
+      "katil_hospital_kkm": 2158,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2015,
+      "jumlah_katil": 5762,
+      "katil_hospital_kkm": 3615,
+      "katil_hospital_bukan_kkm": 147,
+      "katil_institusi_perubatan_khas": 2000
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2015,
+      "jumlah_katil": 408,
+      "katil_hospital_kkm": 408,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2015,
+      "jumlah_katil": 2046,
+      "katil_hospital_kkm": 2046,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2015,
+      "jumlah_katil": 4671,
+      "katil_hospital_kkm": 3825,
+      "katil_hospital_bukan_kkm": 40,
+      "katil_institusi_perubatan_khas": 806
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2015,
+      "jumlah_katil": 3944,
+      "katil_hospital_kkm": 3606,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 338
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "jumlah_katil": 5493,
+      "katil_hospital_kkm": 5275,
+      "katil_hospital_bukan_kkm": 88,
+      "katil_institusi_perubatan_khas": 130
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "jumlah_katil": 1645,
+      "katil_hospital_kkm": 1645,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2015,
+      "jumlah_katil": 4901,
+      "katil_hospital_kkm": 2143,
+      "katil_hospital_bukan_kkm": 2474,
+      "katil_institusi_perubatan_khas": 284
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2015,
+      "jumlah_katil": 122,
+      "katil_hospital_kkm": 122,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2015,
+      "jumlah_katil": 593,
+      "katil_hospital_kkm": 341,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 252
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2016,
+      "jumlah_katil": 45678,
+      "katil_hospital_kkm": 37293,
+      "katil_hospital_bukan_kkm": 3683,
+      "katil_institusi_perubatan_khas": 4702
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "jumlah_katil": 5185,
+      "katil_hospital_kkm": 4053,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 1132
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "jumlah_katil": 2689,
+      "katil_hospital_kkm": 2689,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "jumlah_katil": 2589,
+      "katil_hospital_kkm": 1816,
+      "katil_hospital_bukan_kkm": 773,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "jumlah_katil": 1420,
+      "katil_hospital_kkm": 1276,
+      "katil_hospital_bukan_kkm": 144,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "jumlah_katil": 1825,
+      "katil_hospital_kkm": 1789,
+      "katil_hospital_bukan_kkm": 36,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "jumlah_katil": 2316,
+      "katil_hospital_kkm": 2316,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "jumlah_katil": 5542,
+      "katil_hospital_kkm": 3595,
+      "katil_hospital_bukan_kkm": 147,
+      "katil_institusi_perubatan_khas": 1800
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "jumlah_katil": 408,
+      "katil_hospital_kkm": 408,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "jumlah_katil": 2130,
+      "katil_hospital_kkm": 2130,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "jumlah_katil": 4815,
+      "katil_hospital_kkm": 3989,
+      "katil_hospital_bukan_kkm": 20,
+      "katil_institusi_perubatan_khas": 806
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "jumlah_katil": 3978,
+      "katil_hospital_kkm": 3640,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 338
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "jumlah_katil": 5531,
+      "katil_hospital_kkm": 5353,
+      "katil_hospital_bukan_kkm": 88,
+      "katil_institusi_perubatan_khas": 90
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "jumlah_katil": 1645,
+      "katil_hospital_kkm": 1645,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "jumlah_katil": 4890,
+      "katil_hospital_kkm": 2131,
+      "katil_hospital_bukan_kkm": 2475,
+      "katil_institusi_perubatan_khas": 284
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2016,
+      "jumlah_katil": 122,
+      "katil_hospital_kkm": 122,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2016,
+      "jumlah_katil": 593,
+      "katil_hospital_kkm": 341,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 252
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2017,
+      "jumlah_katil": 46054,
+      "katil_hospital_kkm": 37330,
+      "katil_hospital_bukan_kkm": 3892,
+      "katil_institusi_perubatan_khas": 4832
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2017,
+      "jumlah_katil": 5185,
+      "katil_hospital_kkm": 4053,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 1132
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "jumlah_katil": 2703,
+      "katil_hospital_kkm": 2703,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "jumlah_katil": 2590,
+      "katil_hospital_kkm": 1816,
+      "katil_hospital_bukan_kkm": 774,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "jumlah_katil": 1420,
+      "katil_hospital_kkm": 1276,
+      "katil_hospital_bukan_kkm": 144,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "jumlah_katil": 1832,
+      "katil_hospital_kkm": 1796,
+      "katil_hospital_bukan_kkm": 36,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "jumlah_katil": 2391,
+      "katil_hospital_kkm": 2312,
+      "katil_hospital_bukan_kkm": 79,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2017,
+      "jumlah_katil": 5542,
+      "katil_hospital_kkm": 3595,
+      "katil_hospital_bukan_kkm": 147,
+      "katil_institusi_perubatan_khas": 1800
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "jumlah_katil": 508,
+      "katil_hospital_kkm": 508,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "jumlah_katil": 2065,
+      "katil_hospital_kkm": 2065,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "jumlah_katil": 4877,
+      "katil_hospital_kkm": 3931,
+      "katil_hospital_bukan_kkm": 20,
+      "katil_institusi_perubatan_khas": 926
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "jumlah_katil": 3989,
+      "katil_hospital_kkm": 3651,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 338
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "jumlah_katil": 5471,
+      "katil_hospital_kkm": 5273,
+      "katil_hospital_bukan_kkm": 88,
+      "katil_institusi_perubatan_khas": 110
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "jumlah_katil": 1696,
+      "katil_hospital_kkm": 1696,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2017,
+      "jumlah_katil": 5009,
+      "katil_hospital_kkm": 2131,
+      "katil_hospital_bukan_kkm": 2604,
+      "katil_institusi_perubatan_khas": 274
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2017,
+      "jumlah_katil": 122,
+      "katil_hospital_kkm": 122,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2017,
+      "jumlah_katil": 654,
+      "katil_hospital_kkm": 402,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 252
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2018,
+      "jumlah_katil": 46611,
+      "katil_hospital_kkm": 37609,
+      "katil_hospital_bukan_kkm": 4187,
+      "katil_institusi_perubatan_khas": 4815
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "jumlah_katil": 5200,
+      "katil_hospital_kkm": 4068,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 1132
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "jumlah_katil": 2673,
+      "katil_hospital_kkm": 2673,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "jumlah_katil": 2659,
+      "katil_hospital_kkm": 1843,
+      "katil_hospital_bukan_kkm": 816,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "jumlah_katil": 1420,
+      "katil_hospital_kkm": 1276,
+      "katil_hospital_bukan_kkm": 144,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "jumlah_katil": 1825,
+      "katil_hospital_kkm": 1789,
+      "katil_hospital_bukan_kkm": 36,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "jumlah_katil": 2646,
+      "katil_hospital_kkm": 2316,
+      "katil_hospital_bukan_kkm": 330,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "jumlah_katil": 5542,
+      "katil_hospital_kkm": 3595,
+      "katil_hospital_bukan_kkm": 147,
+      "katil_institusi_perubatan_khas": 1800
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "jumlah_katil": 508,
+      "katil_hospital_kkm": 508,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "jumlah_katil": 2118,
+      "katil_hospital_kkm": 2118,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "jumlah_katil": 4848,
+      "katil_hospital_kkm": 3894,
+      "katil_hospital_bukan_kkm": 40,
+      "katil_institusi_perubatan_khas": 914
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "jumlah_katil": 4051,
+      "katil_hospital_kkm": 3708,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 343
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "jumlah_katil": 5602,
+      "katil_hospital_kkm": 5424,
+      "katil_hospital_bukan_kkm": 88,
+      "katil_institusi_perubatan_khas": 90
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "jumlah_katil": 1680,
+      "katil_hospital_kkm": 1680,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "jumlah_katil": 4995,
+      "katil_hospital_kkm": 2125,
+      "katil_hospital_bukan_kkm": 2586,
+      "katil_institusi_perubatan_khas": 284
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2018,
+      "jumlah_katil": 122,
+      "katil_hospital_kkm": 122,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2018,
+      "jumlah_katil": 722,
+      "katil_hospital_kkm": 470,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 252
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2019,
+      "jumlah_katil": 46988,
+      "katil_hospital_kkm": 38131,
+      "katil_hospital_bukan_kkm": 4052,
+      "katil_institusi_perubatan_khas": 4805
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "jumlah_katil": 5200,
+      "katil_hospital_kkm": 4068,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 1132
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "jumlah_katil": 2711,
+      "katil_hospital_kkm": 2711,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "jumlah_katil": 2787,
+      "katil_hospital_kkm": 1958,
+      "katil_hospital_bukan_kkm": 829,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "jumlah_katil": 1429,
+      "katil_hospital_kkm": 1285,
+      "katil_hospital_bukan_kkm": 144,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "jumlah_katil": 1898,
+      "katil_hospital_kkm": 1862,
+      "katil_hospital_bukan_kkm": 36,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "jumlah_katil": 2581,
+      "katil_hospital_kkm": 2316,
+      "katil_hospital_bukan_kkm": 265,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "jumlah_katil": 5542,
+      "katil_hospital_kkm": 3595,
+      "katil_hospital_bukan_kkm": 147,
+      "katil_institusi_perubatan_khas": 1800
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "jumlah_katil": 508,
+      "katil_hospital_kkm": 508,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "jumlah_katil": 2113,
+      "katil_hospital_kkm": 2113,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "jumlah_katil": 4876,
+      "katil_hospital_kkm": 3922,
+      "katil_hospital_bukan_kkm": 40,
+      "katil_institusi_perubatan_khas": 914
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "jumlah_katil": 4083,
+      "katil_hospital_kkm": 3740,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 343
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "jumlah_katil": 5907,
+      "katil_hospital_kkm": 5739,
+      "katil_hospital_bukan_kkm": 88,
+      "katil_institusi_perubatan_khas": 80
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "jumlah_katil": 1698,
+      "katil_hospital_kkm": 1698,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "jumlah_katil": 4912,
+      "katil_hospital_kkm": 2125,
+      "katil_hospital_bukan_kkm": 2503,
+      "katil_institusi_perubatan_khas": 284
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "jumlah_katil": 122,
+      "katil_hospital_kkm": 122,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2019,
+      "jumlah_katil": 621,
+      "katil_hospital_kkm": 369,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 252
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2020,
+      "jumlah_katil": 48305,
+      "katil_hospital_kkm": 38543,
+      "katil_hospital_bukan_kkm": 4188,
+      "katil_institusi_perubatan_khas": 5574
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "jumlah_katil": 5270,
+      "katil_hospital_kkm": 4138,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 1132
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "jumlah_katil": 2702,
+      "katil_hospital_kkm": 2702,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "jumlah_katil": 2786,
+      "katil_hospital_kkm": 1957,
+      "katil_hospital_bukan_kkm": 829,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "jumlah_katil": 1429,
+      "katil_hospital_kkm": 1285,
+      "katil_hospital_bukan_kkm": 144,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "jumlah_katil": 1977,
+      "katil_hospital_kkm": 1941,
+      "katil_hospital_bukan_kkm": 36,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "jumlah_katil": 2646,
+      "katil_hospital_kkm": 2316,
+      "katil_hospital_bukan_kkm": 330,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "jumlah_katil": 5542,
+      "katil_hospital_kkm": 3595,
+      "katil_hospital_bukan_kkm": 147,
+      "katil_institusi_perubatan_khas": 1800
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "jumlah_katil": 508,
+      "katil_hospital_kkm": 508,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "jumlah_katil": 2113,
+      "katil_hospital_kkm": 2113,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "jumlah_katil": 5013,
+      "katil_hospital_kkm": 4013,
+      "katil_hospital_bukan_kkm": 40,
+      "katil_institusi_perubatan_khas": 960
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "jumlah_katil": 4146,
+      "katil_hospital_kkm": 3680,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 466
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "jumlah_katil": 6131,
+      "katil_hospital_kkm": 5963,
+      "katil_hospital_bukan_kkm": 88,
+      "katil_institusi_perubatan_khas": 80
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "jumlah_katil": 1700,
+      "katil_hospital_kkm": 1700,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "jumlah_katil": 5583,
+      "katil_hospital_kkm": 2125,
+      "katil_hospital_bukan_kkm": 2574,
+      "katil_institusi_perubatan_khas": 884
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "jumlah_katil": 122,
+      "katil_hospital_kkm": 122,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2020,
+      "jumlah_katil": 637,
+      "katil_hospital_kkm": 385,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 252
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2021,
+      "jumlah_katil": 49781,
+      "katil_hospital_kkm": 39263,
+      "katil_hospital_bukan_kkm": 4932,
+      "katil_institusi_perubatan_khas": 5586
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "jumlah_katil": 5278,
+      "katil_hospital_kkm": 4146,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 1132
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "jumlah_katil": 2755,
+      "katil_hospital_kkm": 2755,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "jumlah_katil": 2812,
+      "katil_hospital_kkm": 1983,
+      "katil_hospital_bukan_kkm": 829,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "jumlah_katil": 1439,
+      "katil_hospital_kkm": 1295,
+      "katil_hospital_bukan_kkm": 144,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "jumlah_katil": 1977,
+      "katil_hospital_kkm": 1941,
+      "katil_hospital_bukan_kkm": 36,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "jumlah_katil": 2611,
+      "katil_hospital_kkm": 2316,
+      "katil_hospital_bukan_kkm": 295,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "jumlah_katil": 5924,
+      "katil_hospital_kkm": 3977,
+      "katil_hospital_bukan_kkm": 147,
+      "katil_institusi_perubatan_khas": 1800
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "jumlah_katil": 508,
+      "katil_hospital_kkm": 508,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "jumlah_katil": 2133,
+      "katil_hospital_kkm": 2133,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "jumlah_katil": 5023,
+      "katil_hospital_kkm": 4043,
+      "katil_hospital_bukan_kkm": 20,
+      "katil_institusi_perubatan_khas": 960
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "jumlah_katil": 4099,
+      "katil_hospital_kkm": 3633,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 466
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "jumlah_katil": 7159,
+      "katil_hospital_kkm": 6179,
+      "katil_hospital_bukan_kkm": 888,
+      "katil_institusi_perubatan_khas": 92
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "jumlah_katil": 1722,
+      "katil_hospital_kkm": 1722,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "jumlah_katil": 5582,
+      "katil_hospital_kkm": 2125,
+      "katil_hospital_bukan_kkm": 2573,
+      "katil_institusi_perubatan_khas": 884
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2021,
+      "jumlah_katil": 122,
+      "katil_hospital_kkm": 122,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2021,
+      "jumlah_katil": 637,
+      "katil_hospital_kkm": 385,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 252
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2022,
+      "jumlah_katil": 49985,
+      "katil_hospital_kkm": 39581,
+      "katil_hospital_bukan_kkm": 4818,
+      "katil_institusi_perubatan_khas": 5586
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "jumlah_katil": 5433,
+      "katil_hospital_kkm": 4301,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 1132
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "jumlah_katil": 2762,
+      "katil_hospital_kkm": 2762,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "jumlah_katil": 2970,
+      "katil_hospital_kkm": 2141,
+      "katil_hospital_bukan_kkm": 829,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "jumlah_katil": 1454,
+      "katil_hospital_kkm": 1310,
+      "katil_hospital_bukan_kkm": 144,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "jumlah_katil": 1977,
+      "katil_hospital_kkm": 1941,
+      "katil_hospital_bukan_kkm": 36,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "jumlah_katil": 2681,
+      "katil_hospital_kkm": 2356,
+      "katil_hospital_bukan_kkm": 325,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "jumlah_katil": 5887,
+      "katil_hospital_kkm": 3977,
+      "katil_hospital_bukan_kkm": 110,
+      "katil_institusi_perubatan_khas": 1800
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "jumlah_katil": 508,
+      "katil_hospital_kkm": 508,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "jumlah_katil": 2138,
+      "katil_hospital_kkm": 2138,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "jumlah_katil": 5053,
+      "katil_hospital_kkm": 4053,
+      "katil_hospital_bukan_kkm": 40,
+      "katil_institusi_perubatan_khas": 960
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "jumlah_katil": 4119,
+      "katil_hospital_kkm": 3653,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 466
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "jumlah_katil": 7640,
+      "katil_hospital_kkm": 6651,
+      "katil_hospital_bukan_kkm": 897,
+      "katil_institusi_perubatan_khas": 92
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "jumlah_katil": 1730,
+      "katil_hospital_kkm": 1730,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "jumlah_katil": 4874,
+      "katil_hospital_kkm": 1553,
+      "katil_hospital_bukan_kkm": 2437,
+      "katil_institusi_perubatan_khas": 884
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2022,
+      "jumlah_katil": 122,
+      "katil_hospital_kkm": 122,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2022,
+      "jumlah_katil": 637,
+      "katil_hospital_kkm": 385,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 252
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2023,
+      "jumlah_katil": 51100,
+      "katil_hospital_kkm": 40348,
+      "katil_hospital_bukan_kkm": 5136,
+      "katil_institusi_perubatan_khas": 5616
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2023,
+      "jumlah_katil": 5433,
+      "katil_hospital_kkm": 4301,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 1132
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "jumlah_katil": 2911,
+      "katil_hospital_kkm": 2911,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "jumlah_katil": 2970,
+      "katil_hospital_kkm": 2141,
+      "katil_hospital_bukan_kkm": 829,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "jumlah_katil": 1454,
+      "katil_hospital_kkm": 1310,
+      "katil_hospital_bukan_kkm": 144,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "jumlah_katil": 1977,
+      "katil_hospital_kkm": 1941,
+      "katil_hospital_bukan_kkm": 36,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "jumlah_katil": 2681,
+      "katil_hospital_kkm": 2356,
+      "katil_hospital_bukan_kkm": 325,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2023,
+      "jumlah_katil": 5927,
+      "katil_hospital_kkm": 3977,
+      "katil_hospital_bukan_kkm": 150,
+      "katil_institusi_perubatan_khas": 1800
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "jumlah_katil": 508,
+      "katil_hospital_kkm": 508,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "jumlah_katil": 2129,
+      "katil_hospital_kkm": 2129,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "jumlah_katil": 5073,
+      "katil_hospital_kkm": 4053,
+      "katil_hospital_bukan_kkm": 40,
+      "katil_institusi_perubatan_khas": 980
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "jumlah_katil": 4160,
+      "katil_hospital_kkm": 3684,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 476
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "jumlah_katil": 8032,
+      "katil_hospital_kkm": 7074,
+      "katil_hospital_bukan_kkm": 866,
+      "katil_institusi_perubatan_khas": 92
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "jumlah_katil": 1840,
+      "katil_hospital_kkm": 1740,
+      "katil_hospital_bukan_kkm": 100,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2023,
+      "jumlah_katil": 5246,
+      "katil_hospital_kkm": 1716,
+      "katil_hospital_bukan_kkm": 2646,
+      "katil_institusi_perubatan_khas": 884
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2023,
+      "jumlah_katil": 122,
+      "katil_hospital_kkm": 122,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2023,
+      "jumlah_katil": 637,
+      "katil_hospital_kkm": 385,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 252
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2024,
+      "jumlah_katil": 52048,
+      "katil_hospital_kkm": 41209,
+      "katil_hospital_bukan_kkm": 5193,
+      "katil_institusi_perubatan_khas": 5646
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "jumlah_katil": 5448,
+      "katil_hospital_kkm": 4316,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 1132
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "jumlah_katil": 2919,
+      "katil_hospital_kkm": 2919,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "jumlah_katil": 2987,
+      "katil_hospital_kkm": 2158,
+      "katil_hospital_bukan_kkm": 829,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "jumlah_katil": 1349,
+      "katil_hospital_kkm": 1349,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "jumlah_katil": 1977,
+      "katil_hospital_kkm": 1941,
+      "katil_hospital_bukan_kkm": 36,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "jumlah_katil": 2646,
+      "katil_hospital_kkm": 2356,
+      "katil_hospital_bukan_kkm": 290,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "jumlah_katil": 6021,
+      "katil_hospital_kkm": 4071,
+      "katil_hospital_bukan_kkm": 150,
+      "katil_institusi_perubatan_khas": 1800
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "jumlah_katil": 517,
+      "katil_hospital_kkm": 517,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "jumlah_katil": 2129,
+      "katil_hospital_kkm": 2129,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "jumlah_katil": 5097,
+      "katil_hospital_kkm": 4077,
+      "katil_hospital_bukan_kkm": 40,
+      "katil_institusi_perubatan_khas": 980
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "jumlah_katil": 4189,
+      "katil_hospital_kkm": 3709,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 480
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "jumlah_katil": 8334,
+      "katil_hospital_kkm": 7376,
+      "katil_hospital_bukan_kkm": 866,
+      "katil_institusi_perubatan_khas": 92
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "jumlah_katil": 1971,
+      "katil_hospital_kkm": 1871,
+      "katil_hospital_bukan_kkm": 100,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "jumlah_katil": 5498,
+      "katil_hospital_kkm": 1706,
+      "katil_hospital_bukan_kkm": 2882,
+      "katil_institusi_perubatan_khas": 910
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2024,
+      "jumlah_katil": 122,
+      "katil_hospital_kkm": 122,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2024,
+      "jumlah_katil": 844,
+      "katil_hospital_kkm": 592,
+      "katil_hospital_bukan_kkm": 0,
+      "katil_institusi_perubatan_khas": 252
+    }
+  ],
+  "meta": {
+    "title": "Katil Hospital mengikut Negeri dan Jenis Hospital - Muat turun percuma",
+    "description": "Bilangan katil hospital tahunan di Malaysia mengikut negeri: hospital KKM, hospital bukan KKM dan institusi perubatan khas, data Kementerian Kesihatan Malaysia. Mengandungi 170 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Katil Hospital mengikut Negeri dan Jenis Hospital | ListBase",
+    "seo_description": "Muat turun Katil Hospital mengikut Negeri dan Jenis Hospital — 170 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 170 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/hospital_beds"
+    ]
+  }
+}

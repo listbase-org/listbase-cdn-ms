@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-12T02:32:56.394Z",
-  "total_datasets": 715,
-  "total_records": 555838,
+  "generated": "2026-11-12T02:33:22.605Z",
+  "total_datasets": 716,
+  "total_records": 556008,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 22
+      "dataset_count": 23
     },
     {
       "id": "history",
@@ -4858,6 +4858,33 @@
         "xlsx": {
           "name": "ms-johor-fasiliti-kesihatan_MS.xlsx",
           "size": 51595
+        }
+      }
+    },
+    {
+      "id": "ms-katil-hospital-negeri",
+      "name": "Katil Hospital mengikut Negeri dan Jenis Hospital",
+      "category": "health",
+      "record_count": 170,
+      "columns": [
+        "negeri",
+        "tahun",
+        "jumlah_katil",
+        "katil_hospital_kkm",
+        "katil_hospital_bukan_kkm",
+        "katil_institusi_perubatan_khas"
+      ],
+      "source": "https://data.gov.my/data-catalogue/hospital_beds",
+      "updated": "2026-11",
+      "size": 36922,
+      "files": {
+        "csv": {
+          "name": "ms-katil-hospital-negeri_MS.csv",
+          "size": 7348
+        },
+        "xlsx": {
+          "name": "ms-katil-hospital-negeri_MS.xlsx",
+          "size": 11771
         }
       }
     },
