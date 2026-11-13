@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-12T02:33:45.277Z",
-  "total_datasets": 718,
-  "total_records": 556445,
+  "generated": "2026-11-13T02:21:55.810Z",
+  "total_datasets": 719,
+  "total_records": 556836,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "sports",
@@ -18408,6 +18408,37 @@
         "xlsx": {
           "name": "ms-ibu-pejabat-polis-daerah_MS.xlsx",
           "size": 11371
+        }
+      }
+    },
+    {
+      "id": "ms-kadar-kesuburan-negeri",
+      "name": "Kadar Kesuburan (TFR dan ASFR) mengikut Negeri",
+      "category": "society",
+      "record_count": 391,
+      "columns": [
+        "negeri",
+        "tahun",
+        "tfr",
+        "asfr_15_19",
+        "asfr_20_24",
+        "asfr_25_29",
+        "asfr_30_34",
+        "asfr_35_39",
+        "asfr_40_44",
+        "asfr_45_49"
+      ],
+      "source": "https://data.gov.my/data-catalogue/fertility_state",
+      "updated": "2026-11",
+      "size": 101276,
+      "files": {
+        "csv": {
+          "name": "ms-kadar-kesuburan-negeri_MS.csv",
+          "size": 25599
+        },
+        "xlsx": {
+          "name": "ms-kadar-kesuburan-negeri_MS.xlsx",
+          "size": 25312
         }
       }
     },
