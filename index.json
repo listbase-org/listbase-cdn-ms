@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-13T02:21:55.810Z",
-  "total_datasets": 719,
-  "total_records": 556836,
+  "generated": "2026-11-13T02:22:07.934Z",
+  "total_datasets": 720,
+  "total_records": 556989,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 24
+      "dataset_count": 25
     },
     {
       "id": "history",
@@ -4885,6 +4885,34 @@
         "xlsx": {
           "name": "ms-johor-fasiliti-kesihatan_MS.xlsx",
           "size": 51595
+        }
+      }
+    },
+    {
+      "id": "ms-kakitangan-kesihatan-negeri",
+      "name": "Kakitangan Kesihatan Sektor Awam mengikut Negeri",
+      "category": "health",
+      "record_count": 153,
+      "columns": [
+        "negeri",
+        "tahun",
+        "jumlah_kakitangan",
+        "doktor_gigi",
+        "doktor",
+        "jururawat",
+        "jururawat_masyarakat"
+      ],
+      "source": "https://data.gov.my/data-catalogue/healthcare_staff",
+      "updated": "2026-11",
+      "size": 33201,
+      "files": {
+        "csv": {
+          "name": "ms-kakitangan-kesihatan-negeri_MS.csv",
+          "size": 8156
+        },
+        "xlsx": {
+          "name": "ms-kakitangan-kesihatan-negeri_MS.xlsx",
+          "size": 12773
         }
       }
     },

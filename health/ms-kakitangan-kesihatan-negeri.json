@@ -1,0 +1,1438 @@
+{
+  "id": "ms-kakitangan-kesihatan-negeri",
+  "name": "Kakitangan Kesihatan Sektor Awam mengikut Negeri",
+  "title": "Kakitangan Kesihatan Sektor Awam mengikut Negeri",
+  "description": "Bilangan kakitangan kesihatan sektor awam (doktor, doktor gigi, jururawat dan jururawat masyarakat) di peringkat nasional dan negeri, data Kementerian Kesihatan Malaysia.",
+  "category": "health",
+  "source": "https://data.gov.my/data-catalogue/healthcare_staff",
+  "source_url": "https://data.gov.my/data-catalogue/healthcare_staff",
+  "updated": "2026-11",
+  "record_count": 153,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "jumlah_kakitangan",
+      "label": "Jumlah Kakitangan",
+      "type": "number"
+    },
+    {
+      "key": "doktor_gigi",
+      "label": "Doktor Gigi",
+      "type": "number"
+    },
+    {
+      "key": "doktor",
+      "label": "Doktor",
+      "type": "number"
+    },
+    {
+      "key": "jururawat",
+      "label": "Jururawat",
+      "type": "number"
+    },
+    {
+      "key": "jururawat_masyarakat",
+      "label": "Jururawat Masyarakat",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Malaysia",
+      "tahun": 2014,
+      "jumlah_kakitangan": 121530,
+      "doktor_gigi": 3763,
+      "doktor": 33275,
+      "jururawat": 59364,
+      "jururawat_masyarakat": 25128
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2014,
+      "jumlah_kakitangan": 11114,
+      "doktor_gigi": 321,
+      "doktor": 2720,
+      "jururawat": 5980,
+      "jururawat_masyarakat": 2093
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2014,
+      "jumlah_kakitangan": 8018,
+      "doktor_gigi": 250,
+      "doktor": 1895,
+      "jururawat": 4169,
+      "jururawat_masyarakat": 1704
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2014,
+      "jumlah_kakitangan": 6791,
+      "doktor_gigi": 300,
+      "doktor": 1580,
+      "jururawat": 3235,
+      "jururawat_masyarakat": 1676
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2014,
+      "jumlah_kakitangan": 3829,
+      "doktor_gigi": 135,
+      "doktor": 1092,
+      "jururawat": 1860,
+      "jururawat_masyarakat": 742
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2014,
+      "jumlah_kakitangan": 5002,
+      "doktor_gigi": 203,
+      "doktor": 1504,
+      "jururawat": 2352,
+      "jururawat_masyarakat": 943
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2014,
+      "jumlah_kakitangan": 7356,
+      "doktor_gigi": 289,
+      "doktor": 1636,
+      "jururawat": 3609,
+      "jururawat_masyarakat": 1822
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2014,
+      "jumlah_kakitangan": 10103,
+      "doktor_gigi": 285,
+      "doktor": 2373,
+      "jururawat": 5278,
+      "jururawat_masyarakat": 2167
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2014,
+      "jumlah_kakitangan": 1581,
+      "doktor_gigi": 67,
+      "doktor": 419,
+      "jururawat": 746,
+      "jururawat_masyarakat": 349
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2014,
+      "jumlah_kakitangan": 6427,
+      "doktor_gigi": 228,
+      "doktor": 2178,
+      "jururawat": 2993,
+      "jururawat_masyarakat": 1028
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2014,
+      "jumlah_kakitangan": 12817,
+      "doktor_gigi": 244,
+      "doktor": 2112,
+      "jururawat": 6547,
+      "jururawat_masyarakat": 3914
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2014,
+      "jumlah_kakitangan": 10921,
+      "doktor_gigi": 302,
+      "doktor": 2250,
+      "jururawat": 5216,
+      "jururawat_masyarakat": 3153
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "jumlah_kakitangan": 15450,
+      "doktor_gigi": 360,
+      "doktor": 5040,
+      "jururawat": 7327,
+      "jururawat_masyarakat": 2723
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "jumlah_kakitangan": 5510,
+      "doktor_gigi": 232,
+      "doktor": 1278,
+      "jururawat": 2582,
+      "jururawat_masyarakat": 1418
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2014,
+      "jumlah_kakitangan": 8394,
+      "doktor_gigi": 482,
+      "doktor": 2772,
+      "jururawat": 4392,
+      "jururawat_masyarakat": 748
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2014,
+      "jumlah_kakitangan": 381,
+      "doktor_gigi": 6,
+      "doktor": 53,
+      "jururawat": 211,
+      "jururawat_masyarakat": 111
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2014,
+      "jumlah_kakitangan": 7836,
+      "doktor_gigi": 59,
+      "doktor": 4373,
+      "jururawat": 2867,
+      "jururawat_masyarakat": 537
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2015,
+      "jumlah_kakitangan": 132082,
+      "doktor_gigi": 4021,
+      "doktor": 33545,
+      "jururawat": 69590,
+      "jururawat_masyarakat": 24926
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2015,
+      "jumlah_kakitangan": 11721,
+      "doktor_gigi": 331,
+      "doktor": 2854,
+      "jururawat": 6441,
+      "jururawat_masyarakat": 2095
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2015,
+      "jumlah_kakitangan": 8540,
+      "doktor_gigi": 263,
+      "doktor": 2036,
+      "jururawat": 4542,
+      "jururawat_masyarakat": 1699
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2015,
+      "jumlah_kakitangan": 8505,
+      "doktor_gigi": 346,
+      "doktor": 1658,
+      "jururawat": 4818,
+      "jururawat_masyarakat": 1683
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2015,
+      "jumlah_kakitangan": 4056,
+      "doktor_gigi": 136,
+      "doktor": 1112,
+      "jururawat": 2072,
+      "jururawat_masyarakat": 736
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2015,
+      "jumlah_kakitangan": 5132,
+      "doktor_gigi": 223,
+      "doktor": 1502,
+      "jururawat": 2479,
+      "jururawat_masyarakat": 928
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2015,
+      "jumlah_kakitangan": 7655,
+      "doktor_gigi": 351,
+      "doktor": 1630,
+      "jururawat": 3857,
+      "jururawat_masyarakat": 1817
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2015,
+      "jumlah_kakitangan": 10569,
+      "doktor_gigi": 278,
+      "doktor": 2378,
+      "jururawat": 5764,
+      "jururawat_masyarakat": 2149
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2015,
+      "jumlah_kakitangan": 1721,
+      "doktor_gigi": 71,
+      "doktor": 434,
+      "jururawat": 870,
+      "jururawat_masyarakat": 346
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2015,
+      "jumlah_kakitangan": 6505,
+      "doktor_gigi": 239,
+      "doktor": 1831,
+      "jururawat": 3393,
+      "jururawat_masyarakat": 1042
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2015,
+      "jumlah_kakitangan": 13772,
+      "doktor_gigi": 280,
+      "doktor": 2558,
+      "jururawat": 7012,
+      "jururawat_masyarakat": 3922
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2015,
+      "jumlah_kakitangan": 11090,
+      "doktor_gigi": 309,
+      "doktor": 2203,
+      "jururawat": 5584,
+      "jururawat_masyarakat": 2994
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "jumlah_kakitangan": 16474,
+      "doktor_gigi": 401,
+      "doktor": 5175,
+      "jururawat": 8183,
+      "jururawat_masyarakat": 2715
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "jumlah_kakitangan": 5719,
+      "doktor_gigi": 261,
+      "doktor": 1262,
+      "jururawat": 2772,
+      "jururawat_masyarakat": 1424
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2015,
+      "jumlah_kakitangan": 12278,
+      "doktor_gigi": 453,
+      "doktor": 2480,
+      "jururawat": 8621,
+      "jururawat_masyarakat": 724
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2015,
+      "jumlah_kakitangan": 409,
+      "doktor_gigi": 10,
+      "doktor": 57,
+      "jururawat": 230,
+      "jururawat_masyarakat": 112
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2015,
+      "jumlah_kakitangan": 7936,
+      "doktor_gigi": 69,
+      "doktor": 4375,
+      "jururawat": 2952,
+      "jururawat_masyarakat": 540
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2016,
+      "jumlah_kakitangan": 137743,
+      "doktor_gigi": 4591,
+      "doktor": 36403,
+      "jururawat": 72025,
+      "jururawat_masyarakat": 24724
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "jumlah_kakitangan": 11987,
+      "doktor_gigi": 384,
+      "doktor": 2887,
+      "jururawat": 6688,
+      "jururawat_masyarakat": 2028
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "jumlah_kakitangan": 8762,
+      "doktor_gigi": 292,
+      "doktor": 2166,
+      "jururawat": 4613,
+      "jururawat_masyarakat": 1691
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "jumlah_kakitangan": 8683,
+      "doktor_gigi": 403,
+      "doktor": 1732,
+      "jururawat": 4861,
+      "jururawat_masyarakat": 1687
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "jumlah_kakitangan": 4342,
+      "doktor_gigi": 173,
+      "doktor": 1175,
+      "jururawat": 2252,
+      "jururawat_masyarakat": 742
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "jumlah_kakitangan": 5329,
+      "doktor_gigi": 209,
+      "doktor": 1619,
+      "jururawat": 2585,
+      "jururawat_masyarakat": 916
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "jumlah_kakitangan": 7925,
+      "doktor_gigi": 419,
+      "doktor": 1691,
+      "jururawat": 4015,
+      "jururawat_masyarakat": 1800
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "jumlah_kakitangan": 10867,
+      "doktor_gigi": 318,
+      "doktor": 2544,
+      "jururawat": 5872,
+      "jururawat_masyarakat": 2133
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "jumlah_kakitangan": 1840,
+      "doktor_gigi": 89,
+      "doktor": 483,
+      "jururawat": 923,
+      "jururawat_masyarakat": 345
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "jumlah_kakitangan": 6769,
+      "doktor_gigi": 276,
+      "doktor": 1939,
+      "jururawat": 3542,
+      "jururawat_masyarakat": 1012
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "jumlah_kakitangan": 14084,
+      "doktor_gigi": 308,
+      "doktor": 2685,
+      "jururawat": 7217,
+      "jururawat_masyarakat": 3874
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "jumlah_kakitangan": 12152,
+      "doktor_gigi": 359,
+      "doktor": 3061,
+      "jururawat": 5705,
+      "jururawat_masyarakat": 3027
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "jumlah_kakitangan": 17510,
+      "doktor_gigi": 469,
+      "doktor": 5646,
+      "jururawat": 8739,
+      "jururawat_masyarakat": 2656
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "jumlah_kakitangan": 5964,
+      "doktor_gigi": 303,
+      "doktor": 1399,
+      "jururawat": 2855,
+      "jururawat_masyarakat": 1407
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "jumlah_kakitangan": 13140,
+      "doktor_gigi": 497,
+      "doktor": 2870,
+      "jururawat": 9052,
+      "jururawat_masyarakat": 721
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2016,
+      "jumlah_kakitangan": 414,
+      "doktor_gigi": 17,
+      "doktor": 57,
+      "jururawat": 231,
+      "jururawat_masyarakat": 109
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2016,
+      "jumlah_kakitangan": 7975,
+      "doktor_gigi": 75,
+      "doktor": 4449,
+      "jururawat": 2875,
+      "jururawat_masyarakat": 576
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2017,
+      "jumlah_kakitangan": 143596,
+      "doktor_gigi": 5736,
+      "doktor": 43348,
+      "jururawat": 70888,
+      "jururawat_masyarakat": 23624
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2017,
+      "jumlah_kakitangan": 12506,
+      "doktor_gigi": 546,
+      "doktor": 3235,
+      "jururawat": 6769,
+      "jururawat_masyarakat": 1956
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "jumlah_kakitangan": 8985,
+      "doktor_gigi": 365,
+      "doktor": 2292,
+      "jururawat": 4669,
+      "jururawat_masyarakat": 1659
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "jumlah_kakitangan": 8990,
+      "doktor_gigi": 473,
+      "doktor": 1945,
+      "jururawat": 4901,
+      "jururawat_masyarakat": 1671
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "jumlah_kakitangan": 4503,
+      "doktor_gigi": 265,
+      "doktor": 1383,
+      "jururawat": 2148,
+      "jururawat_masyarakat": 707
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "jumlah_kakitangan": 5779,
+      "doktor_gigi": 285,
+      "doktor": 1946,
+      "jururawat": 2631,
+      "jururawat_masyarakat": 917
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "jumlah_kakitangan": 8026,
+      "doktor_gigi": 448,
+      "doktor": 1818,
+      "jururawat": 4059,
+      "jururawat_masyarakat": 1701
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2017,
+      "jumlah_kakitangan": 11259,
+      "doktor_gigi": 420,
+      "doktor": 2884,
+      "jururawat": 5919,
+      "jururawat_masyarakat": 2036
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "jumlah_kakitangan": 1882,
+      "doktor_gigi": 109,
+      "doktor": 525,
+      "jururawat": 913,
+      "jururawat_masyarakat": 335
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "jumlah_kakitangan": 7506,
+      "doktor_gigi": 357,
+      "doktor": 2581,
+      "jururawat": 3593,
+      "jururawat_masyarakat": 975
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "jumlah_kakitangan": 14368,
+      "doktor_gigi": 309,
+      "doktor": 3205,
+      "jururawat": 7187,
+      "jururawat_masyarakat": 3667
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "jumlah_kakitangan": 13190,
+      "doktor_gigi": 404,
+      "doktor": 4179,
+      "jururawat": 5782,
+      "jururawat_masyarakat": 2825
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "jumlah_kakitangan": 19883,
+      "doktor_gigi": 660,
+      "doktor": 7587,
+      "jururawat": 9086,
+      "jururawat_masyarakat": 2550
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "jumlah_kakitangan": 6431,
+      "doktor_gigi": 370,
+      "doktor": 1691,
+      "jururawat": 2949,
+      "jururawat_masyarakat": 1421
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2017,
+      "jumlah_kakitangan": 12702,
+      "doktor_gigi": 605,
+      "doktor": 3745,
+      "jururawat": 7740,
+      "jururawat_masyarakat": 612
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2017,
+      "jumlah_kakitangan": 434,
+      "doktor_gigi": 22,
+      "doktor": 71,
+      "jururawat": 230,
+      "jururawat_masyarakat": 111
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2017,
+      "jumlah_kakitangan": 7152,
+      "doktor_gigi": 98,
+      "doktor": 4261,
+      "jururawat": 2312,
+      "jururawat_masyarakat": 481
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2018,
+      "jumlah_kakitangan": 147674,
+      "doktor_gigi": 6455,
+      "doktor": 46509,
+      "jururawat": 71499,
+      "jururawat_masyarakat": 23211
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "jumlah_kakitangan": 12764,
+      "doktor_gigi": 613,
+      "doktor": 3541,
+      "jururawat": 6677,
+      "jururawat_masyarakat": 1933
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "jumlah_kakitangan": 9229,
+      "doktor_gigi": 399,
+      "doktor": 2558,
+      "jururawat": 4618,
+      "jururawat_masyarakat": 1654
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "jumlah_kakitangan": 9084,
+      "doktor_gigi": 542,
+      "doktor": 2144,
+      "jururawat": 4726,
+      "jururawat_masyarakat": 1672
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "jumlah_kakitangan": 4480,
+      "doktor_gigi": 301,
+      "doktor": 1354,
+      "jururawat": 2124,
+      "jururawat_masyarakat": 701
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "jumlah_kakitangan": 6157,
+      "doktor_gigi": 359,
+      "doktor": 2335,
+      "jururawat": 2591,
+      "jururawat_masyarakat": 872
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "jumlah_kakitangan": 8347,
+      "doktor_gigi": 487,
+      "doktor": 2159,
+      "jururawat": 3997,
+      "jururawat_masyarakat": 1704
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "jumlah_kakitangan": 11422,
+      "doktor_gigi": 458,
+      "doktor": 3146,
+      "jururawat": 5826,
+      "jururawat_masyarakat": 1992
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "jumlah_kakitangan": 1914,
+      "doktor_gigi": 135,
+      "doktor": 543,
+      "jururawat": 906,
+      "jururawat_masyarakat": 330
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "jumlah_kakitangan": 7651,
+      "doktor_gigi": 420,
+      "doktor": 2741,
+      "jururawat": 3531,
+      "jururawat_masyarakat": 959
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "jumlah_kakitangan": 15072,
+      "doktor_gigi": 327,
+      "doktor": 4006,
+      "jururawat": 7115,
+      "jururawat_masyarakat": 3624
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "jumlah_kakitangan": 12446,
+      "doktor_gigi": 407,
+      "doktor": 3672,
+      "jururawat": 5740,
+      "jururawat_masyarakat": 2627
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "jumlah_kakitangan": 20882,
+      "doktor_gigi": 776,
+      "doktor": 7881,
+      "jururawat": 9698,
+      "jururawat_masyarakat": 2527
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "jumlah_kakitangan": 6582,
+      "doktor_gigi": 448,
+      "doktor": 1805,
+      "jururawat": 2908,
+      "jururawat_masyarakat": 1421
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "jumlah_kakitangan": 15492,
+      "doktor_gigi": 650,
+      "doktor": 4738,
+      "jururawat": 9261,
+      "jururawat_masyarakat": 843
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2018,
+      "jumlah_kakitangan": 475,
+      "doktor_gigi": 23,
+      "doktor": 110,
+      "jururawat": 230,
+      "jururawat_masyarakat": 112
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2018,
+      "jumlah_kakitangan": 5677,
+      "doktor_gigi": 110,
+      "doktor": 3776,
+      "jururawat": 1551,
+      "jururawat_masyarakat": 240
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2019,
+      "jumlah_kakitangan": 154177,
+      "doktor_gigi": 7087,
+      "doktor": 52129,
+      "jururawat": 71778,
+      "jururawat_masyarakat": 23183
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "jumlah_kakitangan": 13553,
+      "doktor_gigi": 656,
+      "doktor": 4154,
+      "jururawat": 6814,
+      "jururawat_masyarakat": 1929
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "jumlah_kakitangan": 9666,
+      "doktor_gigi": 433,
+      "doktor": 2919,
+      "jururawat": 4640,
+      "jururawat_masyarakat": 1674
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "jumlah_kakitangan": 8683,
+      "doktor_gigi": 632,
+      "doktor": 2763,
+      "jururawat": 3606,
+      "jururawat_masyarakat": 1682
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "jumlah_kakitangan": 4947,
+      "doktor_gigi": 328,
+      "doktor": 1636,
+      "jururawat": 2264,
+      "jururawat_masyarakat": 719
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "jumlah_kakitangan": 6479,
+      "doktor_gigi": 417,
+      "doktor": 2444,
+      "jururawat": 2736,
+      "jururawat_masyarakat": 882
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "jumlah_kakitangan": 9050,
+      "doktor_gigi": 551,
+      "doktor": 2790,
+      "jururawat": 4019,
+      "jururawat_masyarakat": 1690
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "jumlah_kakitangan": 11995,
+      "doktor_gigi": 521,
+      "doktor": 3578,
+      "jururawat": 5903,
+      "jururawat_masyarakat": 1993
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "jumlah_kakitangan": 1994,
+      "doktor_gigi": 148,
+      "doktor": 599,
+      "jururawat": 914,
+      "jururawat_masyarakat": 333
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "jumlah_kakitangan": 7511,
+      "doktor_gigi": 421,
+      "doktor": 2543,
+      "jururawat": 3599,
+      "jururawat_masyarakat": 948
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "jumlah_kakitangan": 15432,
+      "doktor_gigi": 375,
+      "doktor": 4212,
+      "jururawat": 7192,
+      "jururawat_masyarakat": 3653
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "jumlah_kakitangan": 12373,
+      "doktor_gigi": 421,
+      "doktor": 3567,
+      "jururawat": 5805,
+      "jururawat_masyarakat": 2580
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "jumlah_kakitangan": 20624,
+      "doktor_gigi": 839,
+      "doktor": 8119,
+      "jururawat": 9200,
+      "jururawat_masyarakat": 2466
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "jumlah_kakitangan": 6826,
+      "doktor_gigi": 493,
+      "doktor": 1992,
+      "jururawat": 2918,
+      "jururawat_masyarakat": 1423
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "jumlah_kakitangan": 17299,
+      "doktor_gigi": 708,
+      "doktor": 5593,
+      "jururawat": 10261,
+      "jururawat_masyarakat": 737
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "jumlah_kakitangan": 497,
+      "doktor_gigi": 35,
+      "doktor": 116,
+      "jururawat": 232,
+      "jururawat_masyarakat": 114
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2019,
+      "jumlah_kakitangan": 7248,
+      "doktor_gigi": 109,
+      "doktor": 5104,
+      "jururawat": 1675,
+      "jururawat_masyarakat": 360
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2020,
+      "jumlah_kakitangan": 156639,
+      "doktor_gigi": 7443,
+      "doktor": 54338,
+      "jururawat": 72826,
+      "jururawat_masyarakat": 22032
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "jumlah_kakitangan": 12294,
+      "doktor_gigi": 677,
+      "doktor": 4925,
+      "jururawat": 4830,
+      "jururawat_masyarakat": 1862
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "jumlah_kakitangan": 10652,
+      "doktor_gigi": 447,
+      "doktor": 3380,
+      "jururawat": 5151,
+      "jururawat_masyarakat": 1674
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "jumlah_kakitangan": 7719,
+      "doktor_gigi": 663,
+      "doktor": 3076,
+      "jururawat": 2403,
+      "jururawat_masyarakat": 1577
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "jumlah_kakitangan": 5286,
+      "doktor_gigi": 323,
+      "doktor": 1290,
+      "jururawat": 2966,
+      "jururawat_masyarakat": 707
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "jumlah_kakitangan": 8023,
+      "doktor_gigi": 463,
+      "doktor": 2595,
+      "jururawat": 4123,
+      "jururawat_masyarakat": 842
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "jumlah_kakitangan": 9042,
+      "doktor_gigi": 573,
+      "doktor": 3132,
+      "jururawat": 3660,
+      "jururawat_masyarakat": 1677
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "jumlah_kakitangan": 6566,
+      "doktor_gigi": 548,
+      "doktor": 3130,
+      "jururawat": 981,
+      "jururawat_masyarakat": 1907
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "jumlah_kakitangan": 10665,
+      "doktor_gigi": 134,
+      "doktor": 749,
+      "jururawat": 9465,
+      "jururawat_masyarakat": 317
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "jumlah_kakitangan": 10600,
+      "doktor_gigi": 437,
+      "doktor": 3158,
+      "jururawat": 6081,
+      "jururawat_masyarakat": 924
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "jumlah_kakitangan": 13669,
+      "doktor_gigi": 401,
+      "doktor": 3916,
+      "jururawat": 5888,
+      "jururawat_masyarakat": 3464
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "jumlah_kakitangan": 15138,
+      "doktor_gigi": 439,
+      "doktor": 4137,
+      "jururawat": 8163,
+      "jururawat_masyarakat": 2399
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "jumlah_kakitangan": 16461,
+      "doktor_gigi": 911,
+      "doktor": 10063,
+      "jururawat": 3093,
+      "jururawat_masyarakat": 2394
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "jumlah_kakitangan": 11544,
+      "doktor_gigi": 521,
+      "doktor": 2245,
+      "jururawat": 7424,
+      "jururawat_masyarakat": 1354
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "jumlah_kakitangan": 15374,
+      "doktor_gigi": 754,
+      "doktor": 7054,
+      "jururawat": 6959,
+      "jururawat_masyarakat": 607
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "jumlah_kakitangan": 463,
+      "doktor_gigi": 29,
+      "doktor": 105,
+      "jururawat": 225,
+      "jururawat_masyarakat": 104
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2020,
+      "jumlah_kakitangan": 3143,
+      "doktor_gigi": 123,
+      "doktor": 1383,
+      "jururawat": 1414,
+      "jururawat_masyarakat": 223
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2021,
+      "jumlah_kakitangan": 162634,
+      "doktor_gigi": 7785,
+      "doktor": 55918,
+      "jururawat": 78426,
+      "jururawat_masyarakat": 20505
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "jumlah_kakitangan": 14586,
+      "doktor_gigi": 701,
+      "doktor": 4967,
+      "jururawat": 7146,
+      "jururawat_masyarakat": 1772
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "jumlah_kakitangan": 10486,
+      "doktor_gigi": 497,
+      "doktor": 3404,
+      "jururawat": 5015,
+      "jururawat_masyarakat": 1570
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "jumlah_kakitangan": 11589,
+      "doktor_gigi": 684,
+      "doktor": 4006,
+      "jururawat": 5323,
+      "jururawat_masyarakat": 1576
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "jumlah_kakitangan": 5463,
+      "doktor_gigi": 339,
+      "doktor": 2011,
+      "jururawat": 2460,
+      "jururawat_masyarakat": 653
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "jumlah_kakitangan": 7030,
+      "doktor_gigi": 476,
+      "doktor": 2698,
+      "jururawat": 3050,
+      "jururawat_masyarakat": 806
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "jumlah_kakitangan": 9427,
+      "doktor_gigi": 630,
+      "doktor": 2967,
+      "jururawat": 4260,
+      "jururawat_masyarakat": 1570
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "jumlah_kakitangan": 13130,
+      "doktor_gigi": 564,
+      "doktor": 4063,
+      "jururawat": 6685,
+      "jururawat_masyarakat": 1818
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "jumlah_kakitangan": 2100,
+      "doktor_gigi": 145,
+      "doktor": 644,
+      "jururawat": 1013,
+      "jururawat_masyarakat": 298
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "jumlah_kakitangan": 8137,
+      "doktor_gigi": 438,
+      "doktor": 3024,
+      "jururawat": 3816,
+      "jururawat_masyarakat": 859
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "jumlah_kakitangan": 16125,
+      "doktor_gigi": 453,
+      "doktor": 4317,
+      "jururawat": 8212,
+      "jururawat_masyarakat": 3143
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "jumlah_kakitangan": 12725,
+      "doktor_gigi": 450,
+      "doktor": 3656,
+      "jururawat": 6606,
+      "jururawat_masyarakat": 2013
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "jumlah_kakitangan": 23001,
+      "doktor_gigi": 940,
+      "doktor": 9700,
+      "jururawat": 10116,
+      "jururawat_masyarakat": 2245
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "jumlah_kakitangan": 7140,
+      "doktor_gigi": 550,
+      "doktor": 2043,
+      "jururawat": 3197,
+      "jururawat_masyarakat": 1350
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "jumlah_kakitangan": 18045,
+      "doktor_gigi": 772,
+      "doktor": 6967,
+      "jururawat": 9772,
+      "jururawat_masyarakat": 534
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2021,
+      "jumlah_kakitangan": 521,
+      "doktor_gigi": 31,
+      "doktor": 103,
+      "jururawat": 284,
+      "jururawat_masyarakat": 103
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2021,
+      "jumlah_kakitangan": 3129,
+      "doktor_gigi": 115,
+      "doktor": 1348,
+      "jururawat": 1471,
+      "jururawat_masyarakat": 195
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2022,
+      "jumlah_kakitangan": 167690,
+      "doktor_gigi": 7828,
+      "doktor": 58193,
+      "jururawat": 79397,
+      "jururawat_masyarakat": 22272
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "jumlah_kakitangan": 14634,
+      "doktor_gigi": 686,
+      "doktor": 5023,
+      "jururawat": 7055,
+      "jururawat_masyarakat": 1870
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "jumlah_kakitangan": 10372,
+      "doktor_gigi": 507,
+      "doktor": 3179,
+      "jururawat": 4981,
+      "jururawat_masyarakat": 1705
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "jumlah_kakitangan": 12097,
+      "doktor_gigi": 664,
+      "doktor": 4056,
+      "jururawat": 5688,
+      "jururawat_masyarakat": 1689
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "jumlah_kakitangan": 5624,
+      "doktor_gigi": 369,
+      "doktor": 2121,
+      "jururawat": 2426,
+      "jururawat_masyarakat": 708
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "jumlah_kakitangan": 7248,
+      "doktor_gigi": 463,
+      "doktor": 2876,
+      "jururawat": 3037,
+      "jururawat_masyarakat": 872
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "jumlah_kakitangan": 9586,
+      "doktor_gigi": 624,
+      "doktor": 2927,
+      "jururawat": 4336,
+      "jururawat_masyarakat": 1699
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "jumlah_kakitangan": 13561,
+      "doktor_gigi": 599,
+      "doktor": 4214,
+      "jururawat": 6782,
+      "jururawat_masyarakat": 1966
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "jumlah_kakitangan": 2116,
+      "doktor_gigi": 141,
+      "doktor": 654,
+      "jururawat": 998,
+      "jururawat_masyarakat": 323
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "jumlah_kakitangan": 8192,
+      "doktor_gigi": 431,
+      "doktor": 2996,
+      "jururawat": 3846,
+      "jururawat_masyarakat": 919
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "jumlah_kakitangan": 16345,
+      "doktor_gigi": 426,
+      "doktor": 4193,
+      "jururawat": 8151,
+      "jururawat_masyarakat": 3575
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "jumlah_kakitangan": 13374,
+      "doktor_gigi": 441,
+      "doktor": 4005,
+      "jururawat": 6645,
+      "jururawat_masyarakat": 2283
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "jumlah_kakitangan": 24009,
+      "doktor_gigi": 941,
+      "doktor": 10374,
+      "jururawat": 10376,
+      "jururawat_masyarakat": 2318
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "jumlah_kakitangan": 7438,
+      "doktor_gigi": 524,
+      "doktor": 2119,
+      "jururawat": 3370,
+      "jururawat_masyarakat": 1425
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "jumlah_kakitangan": 18941,
+      "doktor_gigi": 854,
+      "doktor": 7331,
+      "jururawat": 10170,
+      "jururawat_masyarakat": 586
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2022,
+      "jumlah_kakitangan": 601,
+      "doktor_gigi": 30,
+      "doktor": 102,
+      "jururawat": 359,
+      "jururawat_masyarakat": 110
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2022,
+      "jumlah_kakitangan": 3552,
+      "doktor_gigi": 128,
+      "doktor": 2023,
+      "jururawat": 1177,
+      "jururawat_masyarakat": 224
+    }
+  ],
+  "meta": {
+    "title": "Kakitangan Kesihatan Sektor Awam mengikut Negeri - Muat turun percuma",
+    "description": "Bilangan kakitangan kesihatan sektor awam (doktor, doktor gigi, jururawat dan jururawat masyarakat) di peringkat nasional dan negeri, data Kementerian Kesihatan Malaysia. Mengandungi 153 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kakitangan Kesihatan Sektor Awam mengikut Negeri | ListBase",
+    "seo_description": "Muat turun Kakitangan Kesihatan Sektor Awam mengikut Negeri — 153 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 153 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/healthcare_staff"
+    ]
+  }
+}
