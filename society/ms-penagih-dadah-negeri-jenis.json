@@ -1,0 +1,576 @@
+{
+  "id": "ms-penagih-dadah-negeri-jenis",
+  "name": "Penagih dan Penyalah Guna Dadah mengikut Negeri dan Jenis Dadah",
+  "title": "Penagih dan Penyalah Guna Dadah mengikut Negeri dan Jenis Dadah",
+  "description": "Bilangan tahunan penagih dan penyalah guna dadah dan bahan di Malaysia mengikut negeri dan kategori dadah (ATS, opiat, ganja, pil psikotropik dan lain-lain), data Agensi Antidadah Kebangsaan.",
+  "category": "society",
+  "source": "https://data.gov.my/data-catalogue/drug_addicts_drugtype",
+  "source_url": "https://data.gov.my/data-catalogue/drug_addicts_drugtype",
+  "updated": "2026-11",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "jumlah",
+      "label": "Jumlah",
+      "type": "number"
+    },
+    {
+      "key": "ats_amfetamin",
+      "label": "Ats Amfetamin",
+      "type": "number"
+    },
+    {
+      "key": "opiat",
+      "label": "Opiat",
+      "type": "number"
+    },
+    {
+      "key": "ganja",
+      "label": "Ganja",
+      "type": "number"
+    },
+    {
+      "key": "pil_psikotropik",
+      "label": "Pil Psikotropik",
+      "type": "number"
+    },
+    {
+      "key": "lain_lain",
+      "label": "Lain Lain",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "MALAYSIA",
+      "tahun": 2023,
+      "jumlah": 24186,
+      "ats_amfetamin": 18674,
+      "opiat": 4440,
+      "ganja": 885,
+      "pil_psikotropik": 64,
+      "lain_lain": 123
+    },
+    {
+      "negeri": "JOHOR",
+      "tahun": 2023,
+      "jumlah": 2847,
+      "ats_amfetamin": 2311,
+      "opiat": 351,
+      "ganja": 144,
+      "pil_psikotropik": 8,
+      "lain_lain": 33
+    },
+    {
+      "negeri": "KEDAH",
+      "tahun": 2023,
+      "jumlah": 2678,
+      "ats_amfetamin": 1753,
+      "opiat": 897,
+      "ganja": 21,
+      "pil_psikotropik": 2,
+      "lain_lain": 5
+    },
+    {
+      "negeri": "KELANTAN",
+      "tahun": 2023,
+      "jumlah": 2589,
+      "ats_amfetamin": 2499,
+      "opiat": 63,
+      "ganja": 15,
+      "pil_psikotropik": 9,
+      "lain_lain": 3
+    },
+    {
+      "negeri": "MELAKA",
+      "tahun": 2023,
+      "jumlah": 467,
+      "ats_amfetamin": 325,
+      "opiat": 123,
+      "ganja": 16,
+      "pil_psikotropik": 0,
+      "lain_lain": 3
+    },
+    {
+      "negeri": "NEGERI SEMBILAN",
+      "tahun": 2023,
+      "jumlah": 866,
+      "ats_amfetamin": 630,
+      "opiat": 162,
+      "ganja": 67,
+      "pil_psikotropik": 6,
+      "lain_lain": 1
+    },
+    {
+      "negeri": "PAHANG",
+      "tahun": 2023,
+      "jumlah": 1947,
+      "ats_amfetamin": 1541,
+      "opiat": 318,
+      "ganja": 74,
+      "pil_psikotropik": 9,
+      "lain_lain": 5
+    },
+    {
+      "negeri": "PERAK",
+      "tahun": 2023,
+      "jumlah": 2222,
+      "ats_amfetamin": 1100,
+      "opiat": 1032,
+      "ganja": 81,
+      "pil_psikotropik": 4,
+      "lain_lain": 5
+    },
+    {
+      "negeri": "PERLIS",
+      "tahun": 2023,
+      "jumlah": 459,
+      "ats_amfetamin": 397,
+      "opiat": 50,
+      "ganja": 10,
+      "pil_psikotropik": 0,
+      "lain_lain": 2
+    },
+    {
+      "negeri": "PULAU PINANG",
+      "tahun": 2023,
+      "jumlah": 2089,
+      "ats_amfetamin": 1282,
+      "opiat": 665,
+      "ganja": 112,
+      "pil_psikotropik": 8,
+      "lain_lain": 22
+    },
+    {
+      "negeri": "SABAH",
+      "tahun": 2023,
+      "jumlah": 623,
+      "ats_amfetamin": 613,
+      "opiat": 1,
+      "ganja": 3,
+      "pil_psikotropik": 0,
+      "lain_lain": 6
+    },
+    {
+      "negeri": "SARAWAK",
+      "tahun": 2023,
+      "jumlah": 1485,
+      "ats_amfetamin": 1423,
+      "opiat": 14,
+      "ganja": 20,
+      "pil_psikotropik": 8,
+      "lain_lain": 20
+    },
+    {
+      "negeri": "SELANGOR",
+      "tahun": 2023,
+      "jumlah": 2498,
+      "ats_amfetamin": 1831,
+      "opiat": 492,
+      "ganja": 164,
+      "pil_psikotropik": 6,
+      "lain_lain": 5
+    },
+    {
+      "negeri": "TERENGGANU",
+      "tahun": 2023,
+      "jumlah": 2256,
+      "ats_amfetamin": 2083,
+      "opiat": 146,
+      "ganja": 25,
+      "pil_psikotropik": 2,
+      "lain_lain": 0
+    },
+    {
+      "negeri": "WP KUALA LUMPUR",
+      "tahun": 2023,
+      "jumlah": 1074,
+      "ats_amfetamin": 811,
+      "opiat": 120,
+      "ganja": 128,
+      "pil_psikotropik": 2,
+      "lain_lain": 13
+    },
+    {
+      "negeri": "WP LABUAN",
+      "tahun": 2023,
+      "jumlah": "",
+      "ats_amfetamin": 52,
+      "opiat": 0,
+      "ganja": "",
+      "pil_psikotropik": 0,
+      "lain_lain": 0
+    },
+    {
+      "negeri": "WP PUTRAJAYA",
+      "tahun": 2023,
+      "jumlah": 34,
+      "ats_amfetamin": 23,
+      "opiat": 6,
+      "ganja": 5,
+      "pil_psikotropik": 0,
+      "lain_lain": 0
+    },
+    {
+      "negeri": "MALAYSIA",
+      "tahun": 2024,
+      "jumlah": 25570,
+      "ats_amfetamin": 21047,
+      "opiat": 3316,
+      "ganja": 1085,
+      "pil_psikotropik": 20,
+      "lain_lain": 102
+    },
+    {
+      "negeri": "JOHOR",
+      "tahun": 2024,
+      "jumlah": 3639,
+      "ats_amfetamin": 3251,
+      "opiat": 232,
+      "ganja": 143,
+      "pil_psikotropik": 0,
+      "lain_lain": 13
+    },
+    {
+      "negeri": "KEDAH",
+      "tahun": 2024,
+      "jumlah": 2338,
+      "ats_amfetamin": 1541,
+      "opiat": 749,
+      "ganja": 42,
+      "pil_psikotropik": 0,
+      "lain_lain": 6
+    },
+    {
+      "negeri": "KELANTAN",
+      "tahun": 2024,
+      "jumlah": 2977,
+      "ats_amfetamin": 2935,
+      "opiat": 16,
+      "ganja": 22,
+      "pil_psikotropik": 2,
+      "lain_lain": 2
+    },
+    {
+      "negeri": "MELAKA",
+      "tahun": 2024,
+      "jumlah": 549,
+      "ats_amfetamin": 461,
+      "opiat": 65,
+      "ganja": 22,
+      "pil_psikotropik": 0,
+      "lain_lain": 1
+    },
+    {
+      "negeri": "NEGERI SEMBILAN",
+      "tahun": 2024,
+      "jumlah": 1048,
+      "ats_amfetamin": 834,
+      "opiat": 138,
+      "ganja": 70,
+      "pil_psikotropik": 0,
+      "lain_lain": 6
+    },
+    {
+      "negeri": "PAHANG",
+      "tahun": 2024,
+      "jumlah": 1990,
+      "ats_amfetamin": 1677,
+      "opiat": 245,
+      "ganja": 67,
+      "pil_psikotropik": 0,
+      "lain_lain": 1
+    },
+    {
+      "negeri": "PERAK",
+      "tahun": 2024,
+      "jumlah": 2104,
+      "ats_amfetamin": 1061,
+      "opiat": 881,
+      "ganja": 159,
+      "pil_psikotropik": 1,
+      "lain_lain": 2
+    },
+    {
+      "negeri": "PERLIS",
+      "tahun": 2024,
+      "jumlah": 508,
+      "ats_amfetamin": 464,
+      "opiat": 30,
+      "ganja": 14,
+      "pil_psikotropik": 0,
+      "lain_lain": 0
+    },
+    {
+      "negeri": "PULAU PINANG",
+      "tahun": 2024,
+      "jumlah": 2178,
+      "ats_amfetamin": 1591,
+      "opiat": 480,
+      "ganja": 99,
+      "pil_psikotropik": 6,
+      "lain_lain": 2
+    },
+    {
+      "negeri": "SABAH",
+      "tahun": 2024,
+      "jumlah": 756,
+      "ats_amfetamin": 746,
+      "opiat": 4,
+      "ganja": 4,
+      "pil_psikotropik": 0,
+      "lain_lain": 2
+    },
+    {
+      "negeri": "SARAWAK",
+      "tahun": 2024,
+      "jumlah": 1590,
+      "ats_amfetamin": 1551,
+      "opiat": 2,
+      "ganja": 11,
+      "pil_psikotropik": 5,
+      "lain_lain": 21
+    },
+    {
+      "negeri": "SELANGOR",
+      "tahun": 2024,
+      "jumlah": 2740,
+      "ats_amfetamin": 2089,
+      "opiat": 331,
+      "ganja": 301,
+      "pil_psikotropik": 2,
+      "lain_lain": 17
+    },
+    {
+      "negeri": "TERENGGANU",
+      "tahun": 2024,
+      "jumlah": 2103,
+      "ats_amfetamin": 2048,
+      "opiat": 41,
+      "ganja": 13,
+      "pil_psikotropik": 0,
+      "lain_lain": 1
+    },
+    {
+      "negeri": "WP KUALA LUMPUR",
+      "tahun": 2024,
+      "jumlah": 949,
+      "ats_amfetamin": 709,
+      "opiat": 99,
+      "ganja": 110,
+      "pil_psikotropik": 4,
+      "lain_lain": 27
+    },
+    {
+      "negeri": "WP LABUAN",
+      "tahun": 2024,
+      "jumlah": 54,
+      "ats_amfetamin": 53,
+      "opiat": 0,
+      "ganja": 1,
+      "pil_psikotropik": 0,
+      "lain_lain": 0
+    },
+    {
+      "negeri": "WP PUTRAJAYA",
+      "tahun": 2024,
+      "jumlah": 47,
+      "ats_amfetamin": 36,
+      "opiat": 3,
+      "ganja": 7,
+      "pil_psikotropik": 0,
+      "lain_lain": 1
+    },
+    {
+      "negeri": "MALAYSIA",
+      "tahun": 2025,
+      "jumlah": 21587,
+      "ats_amfetamin": 17668,
+      "opiat": 2649,
+      "ganja": 1053,
+      "pil_psikotropik": 34,
+      "lain_lain": 183
+    },
+    {
+      "negeri": "JOHOR",
+      "tahun": 2025,
+      "jumlah": 2751,
+      "ats_amfetamin": 2379,
+      "opiat": 172,
+      "ganja": 173,
+      "pil_psikotropik": 2,
+      "lain_lain": 25
+    },
+    {
+      "negeri": "KEDAH",
+      "tahun": 2025,
+      "jumlah": 2875,
+      "ats_amfetamin": 2238,
+      "opiat": 574,
+      "ganja": 57,
+      "pil_psikotropik": 1,
+      "lain_lain": 5
+    },
+    {
+      "negeri": "KELANTAN",
+      "tahun": 2025,
+      "jumlah": 2425,
+      "ats_amfetamin": 2383,
+      "opiat": 11,
+      "ganja": 12,
+      "pil_psikotropik": 13,
+      "lain_lain": 6
+    },
+    {
+      "negeri": "MELAKA",
+      "tahun": 2025,
+      "jumlah": 437,
+      "ats_amfetamin": 313,
+      "opiat": 94,
+      "ganja": 28,
+      "pil_psikotropik": 0,
+      "lain_lain": 2
+    },
+    {
+      "negeri": "NEGERI SEMBILAN",
+      "tahun": 2025,
+      "jumlah": 652,
+      "ats_amfetamin": 467,
+      "opiat": 128,
+      "ganja": 53,
+      "pil_psikotropik": 0,
+      "lain_lain": 4
+    },
+    {
+      "negeri": "PAHANG",
+      "tahun": 2025,
+      "jumlah": 1742,
+      "ats_amfetamin": 1443,
+      "opiat": 204,
+      "ganja": 73,
+      "pil_psikotropik": 2,
+      "lain_lain": 20
+    },
+    {
+      "negeri": "PERAK",
+      "tahun": 2025,
+      "jumlah": 1713,
+      "ats_amfetamin": 1000,
+      "opiat": 567,
+      "ganja": 135,
+      "pil_psikotropik": 0,
+      "lain_lain": 11
+    },
+    {
+      "negeri": "PERLIS",
+      "tahun": 2025,
+      "jumlah": 366,
+      "ats_amfetamin": 332,
+      "opiat": 24,
+      "ganja": 10,
+      "pil_psikotropik": 0,
+      "lain_lain": 0
+    },
+    {
+      "negeri": "PULAU PINANG",
+      "tahun": 2025,
+      "jumlah": 1775,
+      "ats_amfetamin": 1195,
+      "opiat": 441,
+      "ganja": 105,
+      "pil_psikotropik": 7,
+      "lain_lain": 27
+    },
+    {
+      "negeri": "SABAH",
+      "tahun": 2025,
+      "jumlah": 603,
+      "ats_amfetamin": 588,
+      "opiat": 0,
+      "ganja": 9,
+      "pil_psikotropik": 0,
+      "lain_lain": 6
+    },
+    {
+      "negeri": "SARAWAK",
+      "tahun": 2025,
+      "jumlah": 1277,
+      "ats_amfetamin": 1217,
+      "opiat": 0,
+      "ganja": 25,
+      "pil_psikotropik": 1,
+      "lain_lain": 34
+    },
+    {
+      "negeri": "SELANGOR",
+      "tahun": 2025,
+      "jumlah": 2344,
+      "ats_amfetamin": 1749,
+      "opiat": 316,
+      "ganja": 250,
+      "pil_psikotropik": 4,
+      "lain_lain": 25
+    },
+    {
+      "negeri": "TERENGGANU",
+      "tahun": 2025,
+      "jumlah": 1755,
+      "ats_amfetamin": 1667,
+      "opiat": 64,
+      "ganja": 20,
+      "pil_psikotropik": 0,
+      "lain_lain": 4
+    },
+    {
+      "negeri": "WP KUALA LUMPUR",
+      "tahun": 2025,
+      "jumlah": 754,
+      "ats_amfetamin": 588,
+      "opiat": 51,
+      "ganja": 97,
+      "pil_psikotropik": 4,
+      "lain_lain": 14
+    },
+    {
+      "negeri": "WP LABUAN",
+      "tahun": 2025,
+      "jumlah": 78,
+      "ats_amfetamin": 78,
+      "opiat": 0,
+      "ganja": 0,
+      "pil_psikotropik": 0,
+      "lain_lain": 0
+    },
+    {
+      "negeri": "WP PUTRAJAYA",
+      "tahun": 2025,
+      "jumlah": 40,
+      "ats_amfetamin": 31,
+      "opiat": 3,
+      "ganja": 6,
+      "pil_psikotropik": 0,
+      "lain_lain": 0
+    }
+  ],
+  "meta": {
+    "title": "Penagih dan Penyalah Guna Dadah mengikut Negeri dan Jenis Dadah - Muat turun percuma",
+    "description": "Bilangan tahunan penagih dan penyalah guna dadah dan bahan di Malaysia mengikut negeri dan kategori dadah (ATS, opiat, ganja, pil psikotropik dan lain-lain), data Agensi Antidadah Kebangsaan. Mengandungi 51 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Penagih dan Penyalah Guna Dadah mengikut Negeri dan Jenis Dadah | ListBase",
+    "seo_description": "Muat turun Penagih dan Penyalah Guna Dadah mengikut Negeri dan Jenis Dadah — 51 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 51 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/drug_addicts_drugtype"
+    ]
+  }
+}

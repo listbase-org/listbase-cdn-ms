@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-13T02:22:18.388Z",
-  "total_datasets": 721,
-  "total_records": 557048,
+  "generated": "2026-11-13T02:22:43.018Z",
+  "total_datasets": 722,
+  "total_records": 557099,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "sports",
@@ -18542,6 +18542,35 @@
         "xlsx": {
           "name": "ms-negeri-mengikut-penduduk_MS.xlsx",
           "size": 7801
+        }
+      }
+    },
+    {
+      "id": "ms-penagih-dadah-negeri-jenis",
+      "name": "Penagih dan Penyalah Guna Dadah mengikut Negeri dan Jenis Dadah",
+      "category": "society",
+      "record_count": 51,
+      "columns": [
+        "negeri",
+        "tahun",
+        "jumlah",
+        "ats_amfetamin",
+        "opiat",
+        "ganja",
+        "pil_psikotropik",
+        "lain_lain"
+      ],
+      "source": "https://data.gov.my/data-catalogue/drug_addicts_drugtype",
+      "updated": "2026-11",
+      "size": 12445,
+      "files": {
+        "csv": {
+          "name": "ms-penagih-dadah-negeri-jenis_MS.csv",
+          "size": 2662
+        },
+        "xlsx": {
+          "name": "ms-penagih-dadah-negeri-jenis_MS.xlsx",
+          "size": 8886
         }
       }
     },
