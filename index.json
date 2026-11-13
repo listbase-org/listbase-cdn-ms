@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-13T02:22:07.934Z",
-  "total_datasets": 720,
-  "total_records": 556989,
+  "generated": "2026-11-13T02:22:18.388Z",
+  "total_datasets": 721,
+  "total_records": 557048,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "time",
@@ -19036,6 +19036,39 @@
         "xlsx": {
           "name": "ms-menteri-sains-teknologi_MS.xlsx",
           "size": 7977
+        }
+      }
+    },
+    {
+      "id": "ms-pemenang-anugerah-mcy",
+      "name": "Pemenang Anugerah Malaysia Commercialisation Year (MCY)",
+      "category": "tech",
+      "record_count": 59,
+      "columns": [
+        "tahun",
+        "anugerah",
+        "kedudukan",
+        "nama_produk",
+        "nama_organisasi",
+        "jenis_organisasi",
+        "pemacu_teknologi",
+        "sektor_sosioekonomi",
+        "pasaran",
+        "lokasi_pasaran",
+        "harta_intelek",
+        "tahap_kesediaan_teknologi"
+      ],
+      "source": "https://data.gov.my/data-catalogue/anugerah_mcy",
+      "updated": "2026-11",
+      "size": 36347,
+      "files": {
+        "csv": {
+          "name": "ms-pemenang-anugerah-mcy_MS.csv",
+          "size": 16356
+        },
+        "xlsx": {
+          "name": "ms-pemenang-anugerah-mcy_MS.xlsx",
+          "size": 12968
         }
       }
     },
