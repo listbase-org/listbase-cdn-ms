@@ -1,0 +1,2515 @@
+{
+  "id": "ms-wanita-pihak-berkuasa-tempatan",
+  "name": "Perwakilan Wanita dalam Pihak Berkuasa Tempatan",
+  "title": "Perwakilan Wanita dalam Pihak Berkuasa Tempatan",
+  "description": "Peratusan wanita dan lelaki dalam kalangan ahli majlis pihak berkuasa tempatan (PBT) mengikut negeri dan PBT di Malaysia, 2019 hingga 2024.",
+  "category": "society",
+  "source": "https://data.gov.my/data-catalogue/local_authority_sex",
+  "source_url": "https://data.gov.my/data-catalogue/local_authority_sex",
+  "updated": "2026-11",
+  "record_count": 352,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "pihak_berkuasa_tempatan",
+      "label": "Pihak Berkuasa Tempatan",
+      "type": "string"
+    },
+    {
+      "key": "peratus_wanita",
+      "label": "Peratus Wanita",
+      "type": "number"
+    },
+    {
+      "key": "peratus_lelaki",
+      "label": "Peratus Lelaki",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 2019,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 29.45,
+      "peratus_lelaki": 70.55
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 16.79,
+      "peratus_lelaki": 83.21
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 10.49,
+      "peratus_lelaki": 89.51
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 10.99,
+      "peratus_lelaki": 89.01
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 18.1,
+      "peratus_lelaki": 81.9
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 16.84,
+      "peratus_lelaki": 83.16
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perlis",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kangar",
+      "peratus_wanita": 30.43,
+      "peratus_lelaki": 69.57
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pulau Pinang",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 18.75,
+      "peratus_lelaki": 81.25
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 20.14,
+      "peratus_lelaki": 79.86
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 9.71,
+      "peratus_lelaki": 90.29
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 21.75,
+      "peratus_lelaki": 78.25
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 17.83,
+      "peratus_lelaki": 82.17
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 10.23,
+      "peratus_lelaki": 89.77
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 20,
+      "peratus_lelaki": 80
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 20.99,
+      "peratus_lelaki": 79.01
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 17.98,
+      "peratus_lelaki": 82.02
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perlis",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kangar",
+      "peratus_wanita": 30.43,
+      "peratus_lelaki": 69.57
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pulau Pinang",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 24.91,
+      "peratus_lelaki": 75.09
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 11.31,
+      "peratus_lelaki": 88.69
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 21.56,
+      "peratus_lelaki": 78.44
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Iskandar Puteri",
+      "peratus_wanita": 26.09,
+      "peratus_lelaki": 73.91
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Johor Bahru",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Pasir Gudang",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kota Tinggi",
+      "peratus_wanita": 22.73,
+      "peratus_lelaki": 77.27
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Labis",
+      "peratus_wanita": 29.17,
+      "peratus_lelaki": 70.83
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Mersing",
+      "peratus_wanita": 31.82,
+      "peratus_lelaki": 68.18
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Simpang Renggam",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tangkak",
+      "peratus_wanita": 22.73,
+      "peratus_lelaki": 77.27
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Yong Peng",
+      "peratus_wanita": 8.33,
+      "peratus_lelaki": 91.67
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Batu Pahat",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kluang",
+      "peratus_wanita": 41.67,
+      "peratus_lelaki": 58.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kulai",
+      "peratus_wanita": 8.33,
+      "peratus_lelaki": 91.67
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Muar",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Pengerang",
+      "peratus_wanita": 15.79,
+      "peratus_lelaki": 84.21
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Pontian",
+      "peratus_wanita": 26.09,
+      "peratus_lelaki": 73.91
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Segamat",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 19.62,
+      "peratus_lelaki": 80.38
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Alor Setar",
+      "peratus_wanita": 17.65,
+      "peratus_lelaki": 82.35
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Baling",
+      "peratus_wanita": 22.22,
+      "peratus_lelaki": 77.78
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Bandar Baharu",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Padang Terap",
+      "peratus_wanita": 22.22,
+      "peratus_lelaki": 77.78
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Pendang",
+      "peratus_wanita": 11.76,
+      "peratus_lelaki": 88.24
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Sik",
+      "peratus_wanita": 38.89,
+      "peratus_lelaki": 61.11
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Yan",
+      "peratus_wanita": 11.76,
+      "peratus_lelaki": 88.24
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kubang Pasu",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kulim",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Langkawi",
+      "peratus_wanita": 23.53,
+      "peratus_lelaki": 76.47
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Sungai Petani",
+      "peratus_wanita": 22.22,
+      "peratus_lelaki": 77.78
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 13.59,
+      "peratus_lelaki": 86.41
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Bachok",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Dabong",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Gua Musang",
+      "peratus_wanita": 8.33,
+      "peratus_lelaki": 91.67
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Jeli",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Ketereh",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kuala Krai",
+      "peratus_wanita": 29.17,
+      "peratus_lelaki": 70.83
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Machang",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Pasir Mas",
+      "peratus_wanita": 8.7,
+      "peratus_lelaki": 91.3
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Pasir Puteh",
+      "peratus_wanita": 8.33,
+      "peratus_lelaki": 91.67
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tanah Merah",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tumpat",
+      "peratus_wanita": 8.33,
+      "peratus_lelaki": 91.67
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kota Bharu",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 11.82,
+      "peratus_lelaki": 88.18
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Melaka Bersejarah",
+      "peratus_wanita": 3.57,
+      "peratus_lelaki": 96.43
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Alor Gajah",
+      "peratus_wanita": 3.57,
+      "peratus_lelaki": 96.43
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Hang Tuah Jaya",
+      "peratus_wanita": 23.08,
+      "peratus_lelaki": 76.92
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Jasin",
+      "peratus_wanita": 17.86,
+      "peratus_lelaki": 82.14
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 20.12,
+      "peratus_lelaki": 79.88
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Seremban",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Jelebu",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kuala Pilah",
+      "peratus_wanita": 17.39,
+      "peratus_lelaki": 82.61
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Rembau",
+      "peratus_wanita": 26.09,
+      "peratus_lelaki": 73.91
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tampin",
+      "peratus_wanita": 13.64,
+      "peratus_lelaki": 86.36
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Jempol",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Port Dickson",
+      "peratus_wanita": 29.17,
+      "peratus_lelaki": 70.83
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 17.41,
+      "peratus_lelaki": 82.59
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Kuantan",
+      "peratus_wanita": 36,
+      "peratus_lelaki": 64
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Bera",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Cameron Highlands",
+      "peratus_wanita": 18.18,
+      "peratus_lelaki": 81.82
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Jerantut",
+      "peratus_wanita": 24,
+      "peratus_lelaki": 76
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Lipis",
+      "peratus_wanita": 20,
+      "peratus_lelaki": 80
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Maran",
+      "peratus_wanita": 12,
+      "peratus_lelaki": 88
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Pekan",
+      "peratus_wanita": 4,
+      "peratus_lelaki": 96
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Raub",
+      "peratus_wanita": 12,
+      "peratus_lelaki": 88
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Rompin",
+      "peratus_wanita": 4,
+      "peratus_lelaki": 96
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Bentong",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Temerloh",
+      "peratus_wanita": 20,
+      "peratus_lelaki": 80
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 17.38,
+      "peratus_lelaki": 82.62
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Ipoh",
+      "peratus_wanita": 8,
+      "peratus_lelaki": 92
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Batu Gajah",
+      "peratus_wanita": 8,
+      "peratus_lelaki": 92
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Gerik",
+      "peratus_wanita": 16,
+      "peratus_lelaki": 84
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kampar",
+      "peratus_wanita": 28,
+      "peratus_lelaki": 72
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kerian",
+      "peratus_wanita": 12,
+      "peratus_lelaki": 88
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Lenggong",
+      "peratus_wanita": 20,
+      "peratus_lelaki": 80
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Pengkalan Hulu",
+      "peratus_wanita": 20,
+      "peratus_lelaki": 80
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Perak Tengah",
+      "peratus_wanita": 12,
+      "peratus_lelaki": 88
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Selama",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tanjong Malim",
+      "peratus_wanita": 12,
+      "peratus_lelaki": 88
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tapah",
+      "peratus_wanita": 36,
+      "peratus_lelaki": 64
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kuala Kangsar",
+      "peratus_wanita": 20,
+      "peratus_lelaki": 80
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Manjung",
+      "peratus_wanita": 16,
+      "peratus_lelaki": 84
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Taiping",
+      "peratus_wanita": 16,
+      "peratus_lelaki": 84
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Teluk Intan",
+      "peratus_wanita": 16,
+      "peratus_lelaki": 84
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perlis",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kangar",
+      "peratus_wanita": 30.43,
+      "peratus_lelaki": 69.57
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pulau Pinang",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 18.75,
+      "peratus_lelaki": 81.25
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pulau Pinang",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Pulau Pinang",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pulau Pinang",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Seberang Perai",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 21.52,
+      "peratus_lelaki": 78.48
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Dewan Bandaraya Kota Kinabalu",
+      "peratus_wanita": 50,
+      "peratus_lelaki": 50
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Lembaga Bandaran Kudat",
+      "peratus_wanita": 30,
+      "peratus_lelaki": 70
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Beaufort",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Beluran",
+      "peratus_wanita": 22.22,
+      "peratus_lelaki": 77.78
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Keningau",
+      "peratus_wanita": 10.53,
+      "peratus_lelaki": 89.47
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kinabatangan",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kota Belud",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kota Marudu",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kuala Penyu",
+      "peratus_wanita": 22.22,
+      "peratus_lelaki": 77.78
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kunak",
+      "peratus_wanita": 22.22,
+      "peratus_lelaki": 77.78
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Lahad Datu",
+      "peratus_wanita": 20,
+      "peratus_lelaki": 80
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Nabawan",
+      "peratus_wanita": 22.22,
+      "peratus_lelaki": 77.78
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Papar",
+      "peratus_wanita": 20,
+      "peratus_lelaki": 80
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Penampang",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Pitas",
+      "peratus_wanita": 11.11,
+      "peratus_lelaki": 88.89
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Putatan",
+      "peratus_wanita": 27.78,
+      "peratus_lelaki": 72.22
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Ranau",
+      "peratus_wanita": 22.22,
+      "peratus_lelaki": 77.78
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Semporna",
+      "peratus_wanita": 27.78,
+      "peratus_lelaki": 72.22
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Sipitang",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tambunan",
+      "peratus_wanita": 27.78,
+      "peratus_lelaki": 72.22
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Telupid",
+      "peratus_wanita": 27.78,
+      "peratus_lelaki": 72.22
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tenom",
+      "peratus_wanita": 11.11,
+      "peratus_lelaki": 88.89
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tongod",
+      "peratus_wanita": 27.78,
+      "peratus_lelaki": 72.22
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tuaran",
+      "peratus_wanita": 20,
+      "peratus_lelaki": 80
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Sandakan",
+      "peratus_wanita": 20,
+      "peratus_lelaki": 80
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Tawau",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 14.89,
+      "peratus_lelaki": 85.11
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Kuching Selatan",
+      "peratus_wanita": 21.88,
+      "peratus_lelaki": 78.13
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Miri",
+      "peratus_wanita": 21.88,
+      "peratus_lelaki": 78.13
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Bau",
+      "peratus_wanita": 18.75,
+      "peratus_lelaki": 81.25
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Betong",
+      "peratus_wanita": 3.45,
+      "peratus_lelaki": 96.55
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Dalat & Mukah",
+      "peratus_wanita": 21.21,
+      "peratus_lelaki": 78.79
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kanowit",
+      "peratus_wanita": 16.13,
+      "peratus_lelaki": 83.87
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kapit",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Lawas",
+      "peratus_wanita": 18.75,
+      "peratus_lelaki": 81.25
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Limbang",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Luar Bandar Sibu",
+      "peratus_wanita": 6.25,
+      "peratus_lelaki": 93.75
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Lubok Antu",
+      "peratus_wanita": 3.7,
+      "peratus_lelaki": 96.3
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Lundu",
+      "peratus_wanita": 6.25,
+      "peratus_lelaki": 93.75
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Maradong & Julau",
+      "peratus_wanita": 13.79,
+      "peratus_lelaki": 86.21
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Marudi",
+      "peratus_wanita": 15.63,
+      "peratus_lelaki": 84.38
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Matu & Daro",
+      "peratus_wanita": 21.88,
+      "peratus_lelaki": 78.13
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Saratok",
+      "peratus_wanita": 9.38,
+      "peratus_lelaki": 90.63
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Sarikei",
+      "peratus_wanita": 19.35,
+      "peratus_lelaki": 80.65
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Serian",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Simunjan",
+      "peratus_wanita": 9.68,
+      "peratus_lelaki": 90.32
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Sri Aman",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Subis",
+      "peratus_wanita": 15.63,
+      "peratus_lelaki": 84.38
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kota Samarahan",
+      "peratus_wanita": 15.63,
+      "peratus_lelaki": 84.38
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Padawan",
+      "peratus_wanita": 17.24,
+      "peratus_lelaki": 82.76
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Sibu",
+      "peratus_wanita": 15.63,
+      "peratus_lelaki": 84.38
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 26.16,
+      "peratus_lelaki": 73.84
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Petaling Jaya",
+      "peratus_wanita": 33.33,
+      "peratus_lelaki": 66.67
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Shah Alam",
+      "peratus_wanita": 34.78,
+      "peratus_lelaki": 65.22
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Subang Jaya",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Sabak Bernam",
+      "peratus_wanita": 39.13,
+      "peratus_lelaki": 60.87
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Ampang Jaya",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Hulu Selangor",
+      "peratus_wanita": 47.83,
+      "peratus_lelaki": 52.17
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kajang",
+      "peratus_wanita": 30.43,
+      "peratus_lelaki": 69.57
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Klang",
+      "peratus_wanita": 13.04,
+      "peratus_lelaki": 86.96
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kuala Langat",
+      "peratus_wanita": 21.74,
+      "peratus_lelaki": 78.26
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kuala Selangor",
+      "peratus_wanita": 17.39,
+      "peratus_lelaki": 82.61
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Selayang",
+      "peratus_wanita": 21.74,
+      "peratus_lelaki": 78.26
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Sepang",
+      "peratus_wanita": 17.39,
+      "peratus_lelaki": 82.61
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 12.29,
+      "peratus_lelaki": 87.71
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Kuala Terengganu",
+      "peratus_wanita": 0,
+      "peratus_lelaki": 100
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Besut",
+      "peratus_wanita": 8,
+      "peratus_lelaki": 92
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Hulu Terengganu",
+      "peratus_wanita": 28,
+      "peratus_lelaki": 72
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Marang",
+      "peratus_wanita": 8,
+      "peratus_lelaki": 92
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Setiu",
+      "peratus_wanita": 16,
+      "peratus_lelaki": 84
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Dungun",
+      "peratus_wanita": 12,
+      "peratus_lelaki": 88
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kemaman",
+      "peratus_wanita": 13.79,
+      "peratus_lelaki": 86.21
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Malaysia",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 18.35,
+      "peratus_lelaki": 81.65
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 21.17,
+      "peratus_lelaki": 78.83
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Iskandar Puteri",
+      "peratus_wanita": 39.13,
+      "peratus_lelaki": 60.87
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Johor Bahru",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Pasir Gudang",
+      "peratus_wanita": 27.27,
+      "peratus_lelaki": 72.73
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kota Tinggi",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Labis",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Mersing",
+      "peratus_wanita": 31.82,
+      "peratus_lelaki": 68.18
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Simpang Renggam",
+      "peratus_wanita": 26.09,
+      "peratus_lelaki": 73.91
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tangkak",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Yong Peng",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Batu Pahat",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kluang",
+      "peratus_wanita": 54.55,
+      "peratus_lelaki": 45.45
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kulai",
+      "peratus_wanita": 4.17,
+      "peratus_lelaki": 95.83
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Muar",
+      "peratus_wanita": 30.43,
+      "peratus_lelaki": 69.57
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Pengerang",
+      "peratus_wanita": 17.39,
+      "peratus_lelaki": 82.61
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Pontian",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Segamat",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 19.62,
+      "peratus_lelaki": 80.38
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Alor Setar",
+      "peratus_wanita": 0,
+      "peratus_lelaki": 100
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Baling",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Bandar Baharu",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Padang Terap",
+      "peratus_wanita": 15,
+      "peratus_lelaki": 85
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Pendang",
+      "peratus_wanita": 16,
+      "peratus_lelaki": 84
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Sik",
+      "peratus_wanita": 30.43,
+      "peratus_lelaki": 69.57
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Yan",
+      "peratus_wanita": 11.11,
+      "peratus_lelaki": 88.89
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kubang Pasu",
+      "peratus_wanita": 26.09,
+      "peratus_lelaki": 73.91
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kulim",
+      "peratus_wanita": 12,
+      "peratus_lelaki": 88
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Langkawi",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Sungai Petani",
+      "peratus_wanita": 27.78,
+      "peratus_lelaki": 72.22
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 13.59,
+      "peratus_lelaki": 86.41
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Bachok",
+      "peratus_wanita": 17.39,
+      "peratus_lelaki": 82.61
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Dabong",
+      "peratus_wanita": 0,
+      "peratus_lelaki": 100
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Gua Musang",
+      "peratus_wanita": 8.33,
+      "peratus_lelaki": 91.67
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Jeli",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Ketereh",
+      "peratus_wanita": 15,
+      "peratus_lelaki": 85
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kuala Krai",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Machang",
+      "peratus_wanita": 17.39,
+      "peratus_lelaki": 82.61
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Pasir Mas",
+      "peratus_wanita": 8.33,
+      "peratus_lelaki": 91.67
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Pasir Puteh",
+      "peratus_wanita": 9.09,
+      "peratus_lelaki": 90.91
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tanah Merah",
+      "peratus_wanita": 0,
+      "peratus_lelaki": 100
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tumpat",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kota Bharu",
+      "peratus_wanita": 9.09,
+      "peratus_lelaki": 90.91
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 11.82,
+      "peratus_lelaki": 88.18
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Melaka Bersejarah",
+      "peratus_wanita": 17.86,
+      "peratus_lelaki": 82.14
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Alor Gajah",
+      "peratus_wanita": 3.85,
+      "peratus_lelaki": 96.15
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Hang Tuah Jaya",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Jasin",
+      "peratus_wanita": 14.29,
+      "peratus_lelaki": 85.71
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 20.12,
+      "peratus_lelaki": 79.88
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Seremban",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Jelebu",
+      "peratus_wanita": 21.74,
+      "peratus_lelaki": 78.26
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kuala Pilah",
+      "peratus_wanita": 22.73,
+      "peratus_lelaki": 77.27
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Rembau",
+      "peratus_wanita": 28.57,
+      "peratus_lelaki": 71.43
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tampin",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Jempol",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Port Dickson",
+      "peratus_wanita": 29.17,
+      "peratus_lelaki": 70.83
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 17.41,
+      "peratus_lelaki": 82.59
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Kuantan",
+      "peratus_wanita": 32,
+      "peratus_lelaki": 68
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Bera",
+      "peratus_wanita": 27.78,
+      "peratus_lelaki": 72.22
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Cameron Highlands",
+      "peratus_wanita": 28.57,
+      "peratus_lelaki": 71.43
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Jerantut",
+      "peratus_wanita": 22.22,
+      "peratus_lelaki": 77.78
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Lipis",
+      "peratus_wanita": 20,
+      "peratus_lelaki": 80
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Maran",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Pekan",
+      "peratus_wanita": 8.7,
+      "peratus_lelaki": 91.3
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Raub",
+      "peratus_wanita": 13.64,
+      "peratus_lelaki": 86.36
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Rompin",
+      "peratus_wanita": 4.17,
+      "peratus_lelaki": 95.83
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Bentong",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Temerloh",
+      "peratus_wanita": 22.73,
+      "peratus_lelaki": 77.27
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 15.74,
+      "peratus_lelaki": 84.26
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Ipoh",
+      "peratus_wanita": 8.33,
+      "peratus_lelaki": 91.67
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Batu Gajah",
+      "peratus_wanita": 8.33,
+      "peratus_lelaki": 91.67
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Gerik",
+      "peratus_wanita": 11.76,
+      "peratus_lelaki": 88.24
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kampar",
+      "peratus_wanita": 29.17,
+      "peratus_lelaki": 70.83
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kerian",
+      "peratus_wanita": 22.73,
+      "peratus_lelaki": 77.27
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Lenggong",
+      "peratus_wanita": 41.67,
+      "peratus_lelaki": 58.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Pengkalan Hulu",
+      "peratus_wanita": 18.75,
+      "peratus_lelaki": 81.25
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Perak Tengah",
+      "peratus_wanita": 26.67,
+      "peratus_lelaki": 73.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Selama",
+      "peratus_wanita": 37.5,
+      "peratus_lelaki": 62.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tanjong Malim",
+      "peratus_wanita": 17.39,
+      "peratus_lelaki": 82.61
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Tapah",
+      "peratus_wanita": 26.09,
+      "peratus_lelaki": 73.91
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kuala Kangsar",
+      "peratus_wanita": 19.23,
+      "peratus_lelaki": 80.77
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Manjung",
+      "peratus_wanita": 16,
+      "peratus_lelaki": 84
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Taiping",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Teluk Intan",
+      "peratus_wanita": 17.39,
+      "peratus_lelaki": 82.61
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perlis",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 30.43,
+      "peratus_lelaki": 69.57
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perlis",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kangar",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pulau Pinang",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 18.75,
+      "peratus_lelaki": 81.25
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pulau Pinang",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Pulau Pinang",
+      "peratus_wanita": 16,
+      "peratus_lelaki": 84
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pulau Pinang",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Seberang Perai",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 20.8,
+      "peratus_lelaki": 79.2
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kota Belud",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Penampang",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Putatan",
+      "peratus_wanita": 27.78,
+      "peratus_lelaki": 72.22
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Sandakan",
+      "peratus_wanita": 12,
+      "peratus_lelaki": 88
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 15.84,
+      "peratus_lelaki": 84.16
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Dewan Bandaraya Kuching Utara",
+      "peratus_wanita": 20,
+      "peratus_lelaki": 80
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Kuching Selatan",
+      "peratus_wanita": 22.58,
+      "peratus_lelaki": 77.42
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Miri",
+      "peratus_wanita": 18.75,
+      "peratus_lelaki": 81.25
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Bau",
+      "peratus_wanita": 18.75,
+      "peratus_lelaki": 81.25
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Betong",
+      "peratus_wanita": 3.57,
+      "peratus_lelaki": 96.43
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kanowit",
+      "peratus_wanita": 16.13,
+      "peratus_lelaki": 83.87
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Kapit",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Lawas",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Limbang",
+      "peratus_wanita": 28.13,
+      "peratus_lelaki": 71.88
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Luar Bandar Sibu",
+      "peratus_wanita": 3.13,
+      "peratus_lelaki": 96.88
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Lubok Antu",
+      "peratus_wanita": 3.13,
+      "peratus_lelaki": 96.88
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Lundu",
+      "peratus_wanita": 18.75,
+      "peratus_lelaki": 81.25
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Maradong & Julau",
+      "peratus_wanita": 6.25,
+      "peratus_lelaki": 93.75
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Marudi",
+      "peratus_wanita": 15.63,
+      "peratus_lelaki": 84.38
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Matu & Daro",
+      "peratus_wanita": 21.88,
+      "peratus_lelaki": 78.13
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Saratok",
+      "peratus_wanita": 13.79,
+      "peratus_lelaki": 86.21
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Sarikei",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Serian",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Simunjan",
+      "peratus_wanita": 10,
+      "peratus_lelaki": 90
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Sri Aman",
+      "peratus_wanita": 25,
+      "peratus_lelaki": 75
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Subis",
+      "peratus_wanita": 18.75,
+      "peratus_lelaki": 81.25
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kota Samarahan",
+      "peratus_wanita": 21.88,
+      "peratus_lelaki": 78.13
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Padawan",
+      "peratus_wanita": 20.69,
+      "peratus_lelaki": 79.31
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Sibu",
+      "peratus_wanita": 28.13,
+      "peratus_lelaki": 71.88
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 26.16,
+      "peratus_lelaki": 73.84
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Petaling Jaya",
+      "peratus_wanita": 37.5,
+      "peratus_lelaki": 62.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Shah Alam",
+      "peratus_wanita": 29.17,
+      "peratus_lelaki": 70.83
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Subang Jaya",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Sabak Bernam",
+      "peratus_wanita": 32,
+      "peratus_lelaki": 68
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Ampang Jaya",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Hulu Selangor",
+      "peratus_wanita": 43.48,
+      "peratus_lelaki": 56.52
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kajang",
+      "peratus_wanita": 33.33,
+      "peratus_lelaki": 66.67
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Klang",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kuala Langat",
+      "peratus_wanita": 26.09,
+      "peratus_lelaki": 73.91
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kuala Selangor",
+      "peratus_wanita": 16.67,
+      "peratus_lelaki": 83.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Selayang",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Sepang",
+      "peratus_wanita": 16,
+      "peratus_lelaki": 84
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 12.29,
+      "peratus_lelaki": 87.71
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Bandaraya Kuala Terengganu",
+      "peratus_wanita": 0,
+      "peratus_lelaki": 100
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Besut",
+      "peratus_wanita": 8,
+      "peratus_lelaki": 92
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Hulu Terengganu",
+      "peratus_wanita": 24,
+      "peratus_lelaki": 76
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Marang",
+      "peratus_wanita": 16,
+      "peratus_lelaki": 84
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Daerah Setiu",
+      "peratus_wanita": 20,
+      "peratus_lelaki": 80
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Dungun",
+      "peratus_wanita": 12,
+      "peratus_lelaki": 88
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Majlis Perbandaran Kemaman",
+      "peratus_wanita": 8.33,
+      "peratus_lelaki": 91.67
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Kuala Lumpur",
+      "pihak_berkuasa_tempatan": "Dewan Bandaraya Kuala Lumpur",
+      "peratus_wanita": 26.67,
+      "peratus_lelaki": 73.33
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Labuan",
+      "pihak_berkuasa_tempatan": "Perbadanan Labuan",
+      "peratus_wanita": 28.57,
+      "peratus_lelaki": 71.43
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Putrajaya",
+      "pihak_berkuasa_tempatan": "Perbadanan Putrajaya",
+      "peratus_wanita": 0,
+      "peratus_lelaki": 100
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Malaysia",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 19.7,
+      "peratus_lelaki": 80.3
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 24.18,
+      "peratus_lelaki": 75.82
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 17.42,
+      "peratus_lelaki": 82.58
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 13.77,
+      "peratus_lelaki": 86.23
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 16.51,
+      "peratus_lelaki": 83.49
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 21.18,
+      "peratus_lelaki": 78.82
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 20.49,
+      "peratus_lelaki": 79.51
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 25.75,
+      "peratus_lelaki": 74.25
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perlis",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pulau Pinang",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 15.22,
+      "peratus_lelaki": 84.78
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 19.96,
+      "peratus_lelaki": 80.04
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 16.71,
+      "peratus_lelaki": 83.29
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 25.96,
+      "peratus_lelaki": 74.04
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 14.19,
+      "peratus_lelaki": 85.81
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Malaysia",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 18.6,
+      "peratus_lelaki": 81.4
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Johor",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 24.04,
+      "peratus_lelaki": 75.96
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kedah",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 18.68,
+      "peratus_lelaki": 81.32
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kelantan",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 12.36,
+      "peratus_lelaki": 87.64
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Melaka",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 16.81,
+      "peratus_lelaki": 83.19
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Negeri Sembilan",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 21.88,
+      "peratus_lelaki": 78.12
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pahang",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 23.7,
+      "peratus_lelaki": 76.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perak",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 23.03,
+      "peratus_lelaki": 76.97
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perlis",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 20.83,
+      "peratus_lelaki": 79.17
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pulau Pinang",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 17.02,
+      "peratus_lelaki": 82.98
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sabah",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 17.09,
+      "peratus_lelaki": 82.91
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sarawak",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 14.79,
+      "peratus_lelaki": 85.21
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Selangor",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 24.39,
+      "peratus_lelaki": 75.61
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Terengganu",
+      "pihak_berkuasa_tempatan": "Semua",
+      "peratus_wanita": 12.5,
+      "peratus_lelaki": 87.5
+    }
+  ],
+  "meta": {
+    "title": "Perwakilan Wanita dalam Pihak Berkuasa Tempatan - Muat turun percuma",
+    "description": "Peratusan wanita dan lelaki dalam kalangan ahli majlis pihak berkuasa tempatan (PBT) mengikut negeri dan PBT di Malaysia, 2019 hingga 2024. Mengandungi 352 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Perwakilan Wanita dalam Pihak Berkuasa Tempatan | ListBase",
+    "seo_description": "Muat turun Perwakilan Wanita dalam Pihak Berkuasa Tempatan — 352 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 352 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/local_authority_sex"
+    ]
+  }
+}

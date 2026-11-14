@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-14T02:18:52.928Z",
-  "total_datasets": 726,
-  "total_records": 558043,
+  "generated": "2026-11-14T02:19:04.302Z",
+  "total_datasets": 727,
+  "total_records": 558395,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "sports",
@@ -18778,6 +18778,32 @@
         "xlsx": {
           "name": "ms-persatuan-di-malaysia_MS.xlsx",
           "size": 12068
+        }
+      }
+    },
+    {
+      "id": "ms-wanita-pihak-berkuasa-tempatan",
+      "name": "Perwakilan Wanita dalam Pihak Berkuasa Tempatan",
+      "category": "society",
+      "record_count": 352,
+      "columns": [
+        "tahun",
+        "negeri",
+        "pihak_berkuasa_tempatan",
+        "peratus_wanita",
+        "peratus_lelaki"
+      ],
+      "source": "https://data.gov.my/data-catalogue/local_authority_sex",
+      "updated": "2026-11",
+      "size": 64407,
+      "files": {
+        "csv": {
+          "name": "ms-wanita-pihak-berkuasa-tempatan_MS.csv",
+          "size": 19373
+        },
+        "xlsx": {
+          "name": "ms-wanita-pihak-berkuasa-tempatan_MS.xlsx",
+          "size": 16595
         }
       }
     },
