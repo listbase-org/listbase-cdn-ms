@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-13T02:22:43.018Z",
-  "total_datasets": 722,
-  "total_records": 557099,
+  "generated": "2026-11-14T02:18:17.520Z",
+  "total_datasets": 723,
+  "total_records": 557227,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 25
+      "dataset_count": 26
     },
     {
       "id": "history",
@@ -4854,6 +4854,39 @@
         "xlsx": {
           "name": "ms-jangkaan-hayat-negeri_MS.xlsx",
           "size": 16092
+        }
+      }
+    },
+    {
+      "id": "ms-jangkitan-transmisi-seksual-negeri",
+      "name": "Jangkitan Transmisi Seksual (STD) mengikut Negeri",
+      "category": "health",
+      "record_count": 128,
+      "columns": [
+        "tahun",
+        "negeri",
+        "kes_hiv",
+        "insiden_hiv",
+        "kes_aids",
+        "insiden_aids",
+        "kes_gonorrhea",
+        "insiden_gonorrhea",
+        "kes_syphillis",
+        "insiden_syphillis",
+        "kes_chancroid",
+        "insiden_chancroid"
+      ],
+      "source": "https://data.gov.my/data-catalogue/std_state",
+      "updated": "2026-11",
+      "size": 45873,
+      "files": {
+        "csv": {
+          "name": "ms-jangkitan-transmisi-seksual-negeri_MS.csv",
+          "size": 10111
+        },
+        "xlsx": {
+          "name": "ms-jangkitan-transmisi-seksual-negeri_MS.xlsx",
+          "size": 14273
         }
       }
     },
