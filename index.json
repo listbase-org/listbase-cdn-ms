@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-11-14T02:18:41.852Z",
-  "total_datasets": 725,
-  "total_records": 557644,
+  "generated": "2026-11-14T02:18:52.928Z",
+  "total_datasets": 726,
+  "total_records": 558043,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -152,6 +152,52 @@
         "xlsx": {
           "name": "ms-menteri-pertanian_MS.xlsx",
           "size": 8198
+        }
+      }
+    },
+    {
+      "id": "ms-nelayan-negeri-peralatan",
+      "name": "Bilangan Nelayan mengikut Negeri dan Peralatan Menangkap Ikan",
+      "category": "agriculture",
+      "record_count": 399,
+      "columns": [
+        "tahun",
+        "pantai",
+        "negeri",
+        "jumlah_nelayan",
+        "nelayan_trawl",
+        "nelayan_purse_seine_fish",
+        "nelayan_purse_seine_anchovy",
+        "nelayan_seine_other",
+        "nelayan_drift_gill_net",
+        "nelayan_lift_net",
+        "nelayan_stationary_trap",
+        "nelayan_portable_trap",
+        "nelayan_hook_line",
+        "nelayan_bag_net",
+        "nelayan_push_scoop_net",
+        "nelayan_barrier_net",
+        "nelayan_shellfish_collection",
+        "nelayan_fish_carrier",
+        "nelayan_misc",
+        "nelayan_kenka_one_boat",
+        "nelayan_kenka_two_boats",
+        "nelayan_fad",
+        "nelayan_marine_culture",
+        "nelayan_crab_trap",
+        "nelayan_anchovy_boiler"
+      ],
+      "source": "https://data.gov.my/data-catalogue/fishers",
+      "updated": "2026-11",
+      "size": 332783,
+      "files": {
+        "csv": {
+          "name": "ms-nelayan-negeri-peralatan_MS.csv",
+          "size": 53199
+        },
+        "xlsx": {
+          "name": "ms-nelayan-negeri-peralatan_MS.xlsx",
+          "size": 45421
         }
       }
     },
