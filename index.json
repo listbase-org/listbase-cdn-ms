@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-14T02:18:17.520Z",
-  "total_datasets": 723,
-  "total_records": 557227,
+  "generated": "2026-11-14T02:18:29.339Z",
+  "total_datasets": 724,
+  "total_records": 557238,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "finance",
@@ -3521,6 +3521,30 @@
         "xlsx": {
           "name": "ms-hutan-simpan-negeri_MS.xlsx",
           "size": 12654
+        }
+      }
+    },
+    {
+      "id": "ms-kadar-kitar-semula-nasional",
+      "name": "Kadar Kitar Semula Nasional Malaysia",
+      "category": "environment",
+      "record_count": 11,
+      "columns": [
+        "tahun",
+        "kadar_kitar_semula_peratus",
+        "bahan_dikitar_semula_tan"
+      ],
+      "source": "https://data.gov.my/data-catalogue/sdg_12-5-1",
+      "updated": "2026-11",
+      "size": 2894,
+      "files": {
+        "csv": {
+          "name": "ms-kadar-kitar-semula-nasional_MS.csv",
+          "size": 348
+        },
+        "xlsx": {
+          "name": "ms-kadar-kitar-semula-nasional_MS.xlsx",
+          "size": 6975
         }
       }
     },

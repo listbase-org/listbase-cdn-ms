@@ -1,0 +1,96 @@
+{
+  "id": "ms-kadar-kitar-semula-nasional",
+  "name": "Kadar Kitar Semula Nasional Malaysia",
+  "title": "Kadar Kitar Semula Nasional Malaysia",
+  "description": "Kadar kitar semula sisa pepejal isi rumah nasional (%) dan jumlah bahan dikitar semula (tan) di Malaysia mengikut tahun, penunjuk SDG 12.5.1.",
+  "category": "environment",
+  "source": "https://data.gov.my/data-catalogue/sdg_12-5-1",
+  "source_url": "https://data.gov.my/data-catalogue/sdg_12-5-1",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "kadar_kitar_semula_peratus",
+      "label": "Kadar Kitar Semula Peratus",
+      "type": "number"
+    },
+    {
+      "key": "bahan_dikitar_semula_tan",
+      "label": "Bahan Dikitar Semula Tan",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 2014,
+      "kadar_kitar_semula_peratus": 13.2,
+      "bahan_dikitar_semula_tan": 1528550
+    },
+    {
+      "tahun": 2015,
+      "kadar_kitar_semula_peratus": 15.7,
+      "bahan_dikitar_semula_tan": 1845985
+    },
+    {
+      "tahun": 2016,
+      "kadar_kitar_semula_peratus": 17.5,
+      "bahan_dikitar_semula_tan": 2200080.1
+    },
+    {
+      "tahun": 2017,
+      "kadar_kitar_semula_peratus": 20.9,
+      "bahan_dikitar_semula_tan": 2890612.2
+    },
+    {
+      "tahun": 2018,
+      "kadar_kitar_semula_peratus": 24.06,
+      "bahan_dikitar_semula_tan": 3362328
+    },
+    {
+      "tahun": 2019,
+      "kadar_kitar_semula_peratus": 28.1,
+      "bahan_dikitar_semula_tan": 3880732.3
+    },
+    {
+      "tahun": 2020,
+      "kadar_kitar_semula_peratus": 30.7,
+      "bahan_dikitar_semula_tan": 4267943.8
+    },
+    {
+      "tahun": 2021,
+      "kadar_kitar_semula_peratus": 31.52,
+      "bahan_dikitar_semula_tan": 4385386.4
+    },
+    {
+      "tahun": 2022,
+      "kadar_kitar_semula_peratus": 33.17,
+      "bahan_dikitar_semula_tan": 4626333
+    },
+    {
+      "tahun": 2023,
+      "kadar_kitar_semula_peratus": 35.38,
+      "bahan_dikitar_semula_tan": 4933542.1
+    },
+    {
+      "tahun": 2024,
+      "kadar_kitar_semula_peratus": 37.9,
+      "bahan_dikitar_semula_tan": 5404476.3
+    }
+  ],
+  "meta": {
+    "title": "Kadar Kitar Semula Nasional Malaysia - Muat turun percuma",
+    "description": "Kadar kitar semula sisa pepejal isi rumah nasional (%) dan jumlah bahan dikitar semula (tan) di Malaysia mengikut tahun, penunjuk SDG 12.5.1. Mengandungi 11 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kadar Kitar Semula Nasional Malaysia | ListBase",
+    "seo_description": "Muat turun Kadar Kitar Semula Nasional Malaysia — 11 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 11 rekod / 3 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/sdg_12-5-1"
+    ]
+  }
+}
