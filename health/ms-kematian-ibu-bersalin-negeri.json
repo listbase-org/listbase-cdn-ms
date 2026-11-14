@@ -1,0 +1,2482 @@
+{
+  "id": "ms-kematian-ibu-bersalin-negeri",
+  "name": "Kematian Ibu Bersalin mengikut Negeri",
+  "title": "Kematian Ibu Bersalin mengikut Negeri",
+  "description": "Bilangan kematian ibu bersalin dan nisbah kematian ibu (setiap 100,000 kelahiran hidup) mengikut negeri di Malaysia sejak 2000, data Jabatan Perangkaan Malaysia (DOSM).",
+  "category": "health",
+  "source": "https://data.gov.my/data-catalogue/deaths_maternal_state",
+  "source_url": "https://data.gov.my/data-catalogue/deaths_maternal_state",
+  "updated": "2026-11",
+  "record_count": 406,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "kematian_ibu",
+      "label": "Kematian Ibu",
+      "type": "number"
+    },
+    {
+      "key": "nisbah_kematian_ibu",
+      "label": "Nisbah Kematian Ibu",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 2000,
+      "negeri": "Johor",
+      "kematian_ibu": 13,
+      "nisbah_kematian_ibu": 19.4
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Kedah",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 24.4
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Kelantan",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 22.3
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Melaka",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 13.1
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 5.2
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Pahang",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 23.7
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Perak",
+      "kematian_ibu": 13,
+      "nisbah_kematian_ibu": 26.8
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Perlis",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 3.7
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Sabah",
+      "kematian_ibu": 31,
+      "nisbah_kematian_ibu": 62.9
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Sarawak",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 16.7
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Selangor",
+      "kematian_ibu": 26,
+      "nisbah_kematian_ibu": 28.4
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Terengganu",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 20.1
+    },
+    {
+      "tahun": 2000,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 17
+    },
+    {
+      "tahun": 2000,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Johor",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 14.7
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Kedah",
+      "kematian_ibu": 13,
+      "nisbah_kematian_ibu": 34.1
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Kelantan",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 21
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Melaka",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 7
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 22.6
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Pahang",
+      "kematian_ibu": 21,
+      "nisbah_kematian_ibu": 76.1
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Perak",
+      "kematian_ibu": 16,
+      "nisbah_kematian_ibu": 36.8
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Perlis",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 12.1
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Sabah",
+      "kematian_ibu": 37,
+      "nisbah_kematian_ibu": 75.5
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Sarawak",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 6.5
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Selangor",
+      "kematian_ibu": 21,
+      "nisbah_kematian_ibu": 23.9
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Terengganu",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 20.8
+    },
+    {
+      "tahun": 2001,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 36.7
+    },
+    {
+      "tahun": 2001,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Johor",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 20.1
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Kedah",
+      "kematian_ibu": 13,
+      "nisbah_kematian_ibu": 35.5
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Kelantan",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 32.2
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Melaka",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 65.2
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 34
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Pahang",
+      "kematian_ibu": 19,
+      "nisbah_kematian_ibu": 70.9
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Perak",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 28.4
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Perlis",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 28.3
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Sabah",
+      "kematian_ibu": 17,
+      "nisbah_kematian_ibu": 36.9
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Sarawak",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 26.7
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Selangor",
+      "kematian_ibu": 31,
+      "nisbah_kematian_ibu": 34.5
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Terengganu",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 21.5
+    },
+    {
+      "tahun": 2002,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 15.4
+    },
+    {
+      "tahun": 2002,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Johor",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 18.9
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Kedah",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 22.6
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Kelantan",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 33.6
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Melaka",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 21.6
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 40.5
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Pahang",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 42.1
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Perak",
+      "kematian_ibu": 18,
+      "nisbah_kematian_ibu": 45.2
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Perlis",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 24.6
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 29.8
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Sabah",
+      "kematian_ibu": 15,
+      "nisbah_kematian_ibu": 33.8
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Sarawak",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 18.2
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Selangor",
+      "kematian_ibu": 25,
+      "nisbah_kematian_ibu": 27.8
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Terengganu",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 22.5
+    },
+    {
+      "tahun": 2003,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 15.9
+    },
+    {
+      "tahun": 2003,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 126.3
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Johor",
+      "kematian_ibu": 14,
+      "nisbah_kematian_ibu": 24.4
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Kedah",
+      "kematian_ibu": 16,
+      "nisbah_kematian_ibu": 45.6
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Kelantan",
+      "kematian_ibu": 15,
+      "nisbah_kematian_ibu": 42.7
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Melaka",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 7.4
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 41
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Pahang",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 42.5
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Perak",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 17.9
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Perlis",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 50.5
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 21.8
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Sabah",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 21.7
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Sarawak",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 25.3
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Selangor",
+      "kematian_ibu": 22,
+      "nisbah_kematian_ibu": 23.6
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Terengganu",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 26.6
+    },
+    {
+      "tahun": 2004,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 16.1
+    },
+    {
+      "tahun": 2004,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Johor",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 17.7
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Kedah",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 35
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Kelantan",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 32.3
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Melaka",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 45
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 23.8
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Pahang",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 38.9
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Perak",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 32.1
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Perlis",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 50.9
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 17.7
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Sabah",
+      "kematian_ibu": 15,
+      "nisbah_kematian_ibu": 31.8
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Sarawak",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 23.1
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Selangor",
+      "kematian_ibu": 21,
+      "nisbah_kematian_ibu": 22.7
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Terengganu",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 36.4
+    },
+    {
+      "tahun": 2005,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 21.2
+    },
+    {
+      "tahun": 2005,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Johor",
+      "kematian_ibu": 19,
+      "nisbah_kematian_ibu": 33.5
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Kedah",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 14.8
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Kelantan",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 29.7
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Melaka",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 46.3
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 18
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Pahang",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 40.3
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Perak",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 21.7
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Perlis",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 25.7
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 27.3
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Sabah",
+      "kematian_ibu": 13,
+      "nisbah_kematian_ibu": 28.2
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Sarawak",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 21
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Selangor",
+      "kematian_ibu": 23,
+      "nisbah_kematian_ibu": 24.3
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Terengganu",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 41.1
+    },
+    {
+      "tahun": 2006,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 20.8
+    },
+    {
+      "tahun": 2006,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Johor",
+      "kematian_ibu": 29,
+      "nisbah_kematian_ibu": 50.2
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Kedah",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 32.4
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Kelantan",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 26.6
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Melaka",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 14.9
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 29.1
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Pahang",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 28
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Perak",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 24.6
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Perlis",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 50.7
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 22.3
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Sabah",
+      "kematian_ibu": 20,
+      "nisbah_kematian_ibu": 42.5
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Sarawak",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 28.2
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Selangor",
+      "kematian_ibu": 20,
+      "nisbah_kematian_ibu": 20.6
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Terengganu",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 17.9
+    },
+    {
+      "tahun": 2007,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 12
+    },
+    {
+      "tahun": 2007,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Johor",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 17.3
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Kedah",
+      "kematian_ibu": 13,
+      "nisbah_kematian_ibu": 36.7
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Kelantan",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 34.4
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Melaka",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 44.1
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 40.3
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Pahang",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 35.1
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Perak",
+      "kematian_ibu": 13,
+      "nisbah_kematian_ibu": 35
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Perlis",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 24
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 17.4
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Sabah",
+      "kematian_ibu": 14,
+      "nisbah_kematian_ibu": 27.8
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Sarawak",
+      "kematian_ibu": 15,
+      "nisbah_kematian_ibu": 34.5
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Selangor",
+      "kematian_ibu": 22,
+      "nisbah_kematian_ibu": 21.9
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Terengganu",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 4.3
+    },
+    {
+      "tahun": 2008,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 19.9
+    },
+    {
+      "tahun": 2008,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 59.5
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Johor",
+      "kematian_ibu": 19,
+      "nisbah_kematian_ibu": 32.8
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Kedah",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 27.8
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Kelantan",
+      "kematian_ibu": 16,
+      "nisbah_kematian_ibu": 44.8
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Melaka",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 7.4
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 17.3
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Pahang",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 26.9
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Perak",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 21.5
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Perlis",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 26.3
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Sabah",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 22.7
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Sarawak",
+      "kematian_ibu": 14,
+      "nisbah_kematian_ibu": 32
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Selangor",
+      "kematian_ibu": 28,
+      "nisbah_kematian_ibu": 27.2
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Terengganu",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 29.3
+    },
+    {
+      "tahun": 2009,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 11.6
+    },
+    {
+      "tahun": 2009,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Johor",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 21.1
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Kedah",
+      "kematian_ibu": 15,
+      "nisbah_kematian_ibu": 42.1
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Kelantan",
+      "kematian_ibu": 16,
+      "nisbah_kematian_ibu": 43.9
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Melaka",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 15.2
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 34.9
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Pahang",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 26.6
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Perak",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 24.7
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Perlis",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 47.8
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 37.4
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Sabah",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 13.9
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Sarawak",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 23.6
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Selangor",
+      "kematian_ibu": 18,
+      "nisbah_kematian_ibu": 17.9
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Terengganu",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 32.8
+    },
+    {
+      "tahun": 2010,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 24.1
+    },
+    {
+      "tahun": 2010,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 59.3
+    },
+    {
+      "tahun": 2010,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Johor",
+      "kematian_ibu": 17,
+      "nisbah_kematian_ibu": 28.9
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Kedah",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 24.7
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Kelantan",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 31.6
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Melaka",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 28.4
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 44.9
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Pahang",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 40.1
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Perak",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 23.7
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Perlis",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 13.3
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Sabah",
+      "kematian_ibu": 19,
+      "nisbah_kematian_ibu": 32.4
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Sarawak",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 24.8
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Selangor",
+      "kematian_ibu": 22,
+      "nisbah_kematian_ibu": 20.9
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Terengganu",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 20
+    },
+    {
+      "tahun": 2011,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 15.4
+    },
+    {
+      "tahun": 2011,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2011,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Johor",
+      "kematian_ibu": 16,
+      "nisbah_kematian_ibu": 26.1
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Kedah",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 19
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Kelantan",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 13.4
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Melaka",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 6.9
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 11
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Pahang",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 32.5
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Perak",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 23.6
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Perlis",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 23.8
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 20.8
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Sabah",
+      "kematian_ibu": 19,
+      "nisbah_kematian_ibu": 31.2
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Sarawak",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 27.3
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Selangor",
+      "kematian_ibu": 19,
+      "nisbah_kematian_ibu": 17.3
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Terengganu",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 27
+    },
+    {
+      "tahun": 2012,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 36.5
+    },
+    {
+      "tahun": 2012,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2012,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Johor",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 20.4
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Kedah",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 11.1
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Kelantan",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 32.2
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Melaka",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 14.3
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 33.4
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Pahang",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 18.2
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Perak",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 22.1
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Perlis",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 13.6
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Sabah",
+      "kematian_ibu": 16,
+      "nisbah_kematian_ibu": 26.9
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Sarawak",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 7.2
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Selangor",
+      "kematian_ibu": 27,
+      "nisbah_kematian_ibu": 25.4
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Terengganu",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 27
+    },
+    {
+      "tahun": 2013,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 11.5
+    },
+    {
+      "tahun": 2013,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2013,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Johor",
+      "kematian_ibu": 16,
+      "nisbah_kematian_ibu": 26.1
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Kedah",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 26.9
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Kelantan",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 27.7
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Melaka",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 34
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 36.9
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Pahang",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 24.2
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Perak",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 13.5
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Perlis",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 43.7
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 17.3
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Sabah",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 16.9
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Sarawak",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 14.4
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Selangor",
+      "kematian_ibu": 19,
+      "nisbah_kematian_ibu": 17.1
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Terengganu",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 33
+    },
+    {
+      "tahun": 2014,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 18.1
+    },
+    {
+      "tahun": 2014,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2014,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 64.4
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Johor",
+      "kematian_ibu": 14,
+      "nisbah_kematian_ibu": 22.8
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Kedah",
+      "kematian_ibu": 13,
+      "nisbah_kematian_ibu": 34.6
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Kelantan",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 20.4
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Melaka",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 40.8
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 21.4
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Pahang",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 10.7
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Perak",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 32.8
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Perlis",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 68
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 26.6
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Sabah",
+      "kematian_ibu": 19,
+      "nisbah_kematian_ibu": 34.1
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Sarawak",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 17.4
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Selangor",
+      "kematian_ibu": 21,
+      "nisbah_kematian_ibu": 19.1
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Terengganu",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 18
+    },
+    {
+      "tahun": 2015,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 3.8
+    },
+    {
+      "tahun": 2015,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2015,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 68.9
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Johor",
+      "kematian_ibu": 16,
+      "nisbah_kematian_ibu": 26.5
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kedah",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 13.6
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kelantan",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 25.7
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Melaka",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 27.5
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 5.4
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pahang",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 36.1
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Perak",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 27.7
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Perlis",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 49.9
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sabah",
+      "kematian_ibu": 30,
+      "nisbah_kematian_ibu": 56.4
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sarawak",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 15.7
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Selangor",
+      "kematian_ibu": 31,
+      "nisbah_kematian_ibu": 29.2
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Terengganu",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 21.6
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 26.7
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 56.3
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Johor",
+      "kematian_ibu": 15,
+      "nisbah_kematian_ibu": 24.3
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kedah",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 26.9
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kelantan",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 25.4
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Melaka",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 27.5
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 21.7
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pahang",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 28.8
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Perak",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 19.8
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Perlis",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 22.1
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 41.4
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sabah",
+      "kematian_ibu": 14,
+      "nisbah_kematian_ibu": 26.1
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sarawak",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 21.1
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Selangor",
+      "kematian_ibu": 25,
+      "nisbah_kematian_ibu": 23.6
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Terengganu",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 21.3
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 23.9
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Johor",
+      "kematian_ibu": 17,
+      "nisbah_kematian_ibu": 27.4
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kedah",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 24.9
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kelantan",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 18.1
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Melaka",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 27.7
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 32.7
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pahang",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 33.2
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Perak",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 23.3
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Perlis",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 19.1
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sabah",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 18.6
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sarawak",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 29.8
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Selangor",
+      "kematian_ibu": 20,
+      "nisbah_kematian_ibu": 19.3
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Terengganu",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 10.5
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 40.8
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Johor",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 19.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kedah",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 17.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kelantan",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 24.3
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Melaka",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 9,
+      "nisbah_kematian_ibu": 51.1
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pahang",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 19.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perak",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 20.9
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perlis",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 49.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 29.4
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sabah",
+      "kematian_ibu": 14,
+      "nisbah_kematian_ibu": 26.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sarawak",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 16.5
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Selangor",
+      "kematian_ibu": 17,
+      "nisbah_kematian_ibu": 17.6
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Terengganu",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 18.4
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 18.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Johor",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 19.3
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kedah",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 3
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kelantan",
+      "kematian_ibu": 13,
+      "nisbah_kematian_ibu": 35.8
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Melaka",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 21.7
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 40.9
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pahang",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 23.7
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perak",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 19
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perlis",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 24.4
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 35.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sabah",
+      "kematian_ibu": 18,
+      "nisbah_kematian_ibu": 36.3
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sarawak",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 19.7
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Selangor",
+      "kematian_ibu": 23,
+      "nisbah_kematian_ibu": 24.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Terengganu",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 22.1
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 30.2
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 58.3
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "kematian_ibu": 32,
+      "nisbah_kematian_ibu": 64
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "kematian_ibu": 27,
+      "nisbah_kematian_ibu": 81.7
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "kematian_ibu": 26,
+      "nisbah_kematian_ibu": 74.8
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Melaka",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 75.8
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 14,
+      "nisbah_kematian_ibu": 83.4
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 20.4
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "kematian_ibu": 20,
+      "nisbah_kematian_ibu": 64.9
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perlis",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 20,
+      "nisbah_kematian_ibu": 107.7
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "kematian_ibu": 28,
+      "nisbah_kematian_ibu": 67.3
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 38.4
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "kematian_ibu": 80,
+      "nisbah_kematian_ibu": 88.8
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 30.4
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 57
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 328.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 47.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 22.8
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 35.7
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "kematian_ibu": 15,
+      "nisbah_kematian_ibu": 44.4
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Melaka",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 15.3
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 6.3
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 21.2
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 20.3
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perlis",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 26.7
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 22.6
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sabah",
+      "kematian_ibu": 13,
+      "nisbah_kematian_ibu": 29.8
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 19.4
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "kematian_ibu": 19,
+      "nisbah_kematian_ibu": 22.7
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 39.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 15.1
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 145.6
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 54.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Johor",
+      "kematian_ibu": 20,
+      "nisbah_kematian_ibu": 35.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kedah",
+      "kematian_ibu": 13,
+      "nisbah_kematian_ibu": 38.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kelantan",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 30.8
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Melaka",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 29.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 18.1
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pahang",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 16.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perak",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 19.5
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perlis",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 20.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sabah",
+      "kematian_ibu": 17,
+      "nisbah_kematian_ibu": 36.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sarawak",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 17.7
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Selangor",
+      "kematian_ibu": 15,
+      "nisbah_kematian_ibu": 16.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Terengganu",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 11.5
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 37.3
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 175.1
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Johor",
+      "kematian_ibu": 17,
+      "nisbah_kematian_ibu": 33.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kedah",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 16.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kelantan",
+      "kematian_ibu": 7,
+      "nisbah_kematian_ibu": 22
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Melaka",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 34
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pahang",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 9.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perak",
+      "kematian_ibu": 10,
+      "nisbah_kematian_ibu": 36.2
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perlis",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 16.5
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sabah",
+      "kematian_ibu": 12,
+      "nisbah_kematian_ibu": 28.5
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sarawak",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 16.5
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Selangor",
+      "kematian_ibu": 22,
+      "nisbah_kematian_ibu": 26.5
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Terengganu",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 21.1
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 6,
+      "nisbah_kematian_ibu": 28.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 64.6
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Johor",
+      "kematian_ibu": 15,
+      "nisbah_kematian_ibu": 31.2
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kedah",
+      "kematian_ibu": 8,
+      "nisbah_kematian_ibu": 26.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kelantan",
+      "kematian_ibu": 3,
+      "nisbah_kematian_ibu": 9.4
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Melaka",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 33.7
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Negeri Sembilan",
+      "kematian_ibu": 1,
+      "nisbah_kematian_ibu": 7.1
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pahang",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 19.4
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Perak",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 15.2
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Perlis",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pulau Pinang",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 12
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sabah",
+      "kematian_ibu": 11,
+      "nisbah_kematian_ibu": 27
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sarawak",
+      "kematian_ibu": 5,
+      "nisbah_kematian_ibu": 17.4
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Selangor",
+      "kematian_ibu": 16,
+      "nisbah_kematian_ibu": 20.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Terengganu",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 8.6
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Kuala Lumpur",
+      "kematian_ibu": 4,
+      "nisbah_kematian_ibu": 20.6
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Labuan",
+      "kematian_ibu": 2,
+      "nisbah_kematian_ibu": 174.4
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Putrajaya",
+      "kematian_ibu": 0,
+      "nisbah_kematian_ibu": 0
+    }
+  ],
+  "meta": {
+    "title": "Kematian Ibu Bersalin mengikut Negeri - Muat turun percuma",
+    "description": "Bilangan kematian ibu bersalin dan nisbah kematian ibu (setiap 100,000 kelahiran hidup) mengikut negeri di Malaysia sejak 2000, data Jabatan Perangkaan Malaysia (DOSM). Mengandungi 406 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kematian Ibu Bersalin mengikut Negeri | ListBase",
+    "seo_description": "Muat turun Kematian Ibu Bersalin mengikut Negeri — 406 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 406 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/deaths_maternal_state"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-14T02:18:29.339Z",
-  "total_datasets": 724,
-  "total_records": 557238,
+  "generated": "2026-11-14T02:18:41.852Z",
+  "total_datasets": 725,
+  "total_records": 557644,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 26
+      "dataset_count": 27
     },
     {
       "id": "history",
@@ -5059,6 +5059,31 @@
         "xlsx": {
           "name": "ms-kelantan-fasiliti-kesihatan_MS.xlsx",
           "size": 33839
+        }
+      }
+    },
+    {
+      "id": "ms-kematian-ibu-bersalin-negeri",
+      "name": "Kematian Ibu Bersalin mengikut Negeri",
+      "category": "health",
+      "record_count": 406,
+      "columns": [
+        "tahun",
+        "negeri",
+        "kematian_ibu",
+        "nisbah_kematian_ibu"
+      ],
+      "source": "https://data.gov.my/data-catalogue/deaths_maternal_state",
+      "updated": "2026-11",
+      "size": 51041,
+      "files": {
+        "csv": {
+          "name": "ms-kematian-ibu-bersalin-negeri_MS.csv",
+          "size": 12029
+        },
+        "xlsx": {
+          "name": "ms-kematian-ibu-bersalin-negeri_MS.xlsx",
+          "size": 14493
         }
       }
     },
