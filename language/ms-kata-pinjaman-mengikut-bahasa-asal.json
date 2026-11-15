@@ -1,0 +1,136 @@
+{
+  "id": "ms-kata-pinjaman-mengikut-bahasa-asal",
+  "name": "Bilangan Kata Pinjaman Bahasa Melayu mengikut Bahasa Asal",
+  "title": "Bilangan Kata Pinjaman Bahasa Melayu mengikut Bahasa Asal",
+  "description": "Statistik kata pinjaman dalam perbendaharaan kata bahasa Melayu mengikut bahasa asal (Inggeris, Arab, Jawa, Belanda, Sanskrit dan lain-lain) beserta peratusannya.",
+  "category": "language",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_leksikologi_bahasa_Melayu",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_leksikologi_bahasa_Melayu",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "bahasa_asal",
+      "label": "Bahasa Asal",
+      "type": "string"
+    },
+    {
+      "key": "bilangan_perkataan",
+      "label": "Bilangan Perkataan",
+      "type": "number"
+    },
+    {
+      "key": "peratus_daripada_kata_pinjaman",
+      "label": "Peratus Daripada Kata Pinjaman",
+      "type": "number"
+    },
+    {
+      "key": "peratus_daripada_perbendaharaan_kata",
+      "label": "Peratus Daripada Perbendaharaan Kata",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "bahasa_asal": "Bahasa Inggeris",
+      "bilangan_perkataan": 2381,
+      "peratus_daripada_kata_pinjaman": 23.7,
+      "peratus_daripada_perbendaharaan_kata": 8.3
+    },
+    {
+      "bahasa_asal": "Bahasa Arab",
+      "bilangan_perkataan": 1791,
+      "peratus_daripada_kata_pinjaman": 17.8,
+      "peratus_daripada_perbendaharaan_kata": 6.3
+    },
+    {
+      "bahasa_asal": "Bahasa Jawa",
+      "bilangan_perkataan": 1482,
+      "peratus_daripada_kata_pinjaman": 14.5,
+      "peratus_daripada_perbendaharaan_kata": 5.2
+    },
+    {
+      "bahasa_asal": "Bahasa Belanda",
+      "bilangan_perkataan": 1387,
+      "peratus_daripada_kata_pinjaman": 13.8,
+      "peratus_daripada_perbendaharaan_kata": 4.8
+    },
+    {
+      "bahasa_asal": "Bahasa Minangkabau",
+      "bilangan_perkataan": 1003,
+      "peratus_daripada_kata_pinjaman": 10,
+      "peratus_daripada_perbendaharaan_kata": 3.5
+    },
+    {
+      "bahasa_asal": "Bahasa Jakarta",
+      "bilangan_perkataan": 920,
+      "peratus_daripada_kata_pinjaman": 9.1,
+      "peratus_daripada_perbendaharaan_kata": 3.2
+    },
+    {
+      "bahasa_asal": "Bahasa Sanskrit",
+      "bilangan_perkataan": 490,
+      "peratus_daripada_kata_pinjaman": 4.9,
+      "peratus_daripada_perbendaharaan_kata": 1.7
+    },
+    {
+      "bahasa_asal": "Bahasa Cina",
+      "bilangan_perkataan": 188,
+      "peratus_daripada_kata_pinjaman": 1.9,
+      "peratus_daripada_perbendaharaan_kata": 0.7
+    },
+    {
+      "bahasa_asal": "Bahasa Sunda",
+      "bilangan_perkataan": 90,
+      "peratus_daripada_kata_pinjaman": 0.9,
+      "peratus_daripada_perbendaharaan_kata": 0.3
+    },
+    {
+      "bahasa_asal": "Bahasa Portugis",
+      "bilangan_perkataan": 83,
+      "peratus_daripada_kata_pinjaman": 0.8,
+      "peratus_daripada_perbendaharaan_kata": 0.3
+    },
+    {
+      "bahasa_asal": "Bahasa Parsi",
+      "bilangan_perkataan": 81,
+      "peratus_daripada_kata_pinjaman": 0.8,
+      "peratus_daripada_perbendaharaan_kata": 0.3
+    },
+    {
+      "bahasa_asal": "Bahasa Tamil",
+      "bilangan_perkataan": 57,
+      "peratus_daripada_kata_pinjaman": 0.6,
+      "peratus_daripada_perbendaharaan_kata": 0.2
+    },
+    {
+      "bahasa_asal": "Bahasa Hindi",
+      "bilangan_perkataan": 57,
+      "peratus_daripada_kata_pinjaman": 0.6,
+      "peratus_daripada_perbendaharaan_kata": 0.2
+    },
+    {
+      "bahasa_asal": "Bahasa Jepun",
+      "bilangan_perkataan": 16,
+      "peratus_daripada_kata_pinjaman": 0.2,
+      "peratus_daripada_perbendaharaan_kata": 0.1
+    },
+    {
+      "bahasa_asal": "Bahasa lain",
+      "bilangan_perkataan": 36,
+      "peratus_daripada_kata_pinjaman": 0.4,
+      "peratus_daripada_perbendaharaan_kata": 0.1
+    }
+  ],
+  "meta": {
+    "title": "Bilangan Kata Pinjaman Bahasa Melayu mengikut Bahasa Asal - Muat turun percuma",
+    "description": "Statistik kata pinjaman dalam perbendaharaan kata bahasa Melayu mengikut bahasa asal (Inggeris, Arab, Jawa, Belanda, Sanskrit dan lain-lain) beserta peratusannya. Mengandungi 15 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Bilangan Kata Pinjaman Bahasa Melayu mengikut Bahasa Asal | ListBase",
+    "seo_description": "Muat turun Bilangan Kata Pinjaman Bahasa Melayu mengikut Bahasa Asal — 15 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 15 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_leksikologi_bahasa_Melayu"
+    ]
+  }
+}

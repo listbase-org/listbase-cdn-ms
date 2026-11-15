@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-15T02:42:50.645Z",
-  "total_datasets": 729,
-  "total_records": 558471,
+  "generated": "2026-11-15T02:43:01.896Z",
+  "total_datasets": 730,
+  "total_records": 558486,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "law",
@@ -6075,6 +6075,31 @@
         "xlsx": {
           "name": "ms-kata-pinjaman-dialek-cina_MS.xlsx",
           "size": 8279
+        }
+      }
+    },
+    {
+      "id": "ms-kata-pinjaman-mengikut-bahasa-asal",
+      "name": "Bilangan Kata Pinjaman Bahasa Melayu mengikut Bahasa Asal",
+      "category": "language",
+      "record_count": 15,
+      "columns": [
+        "bahasa_asal",
+        "bilangan_perkataan",
+        "peratus_daripada_kata_pinjaman",
+        "peratus_daripada_perbendaharaan_kata"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_leksikologi_bahasa_Melayu",
+      "updated": "2026-11",
+      "size": 4621,
+      "files": {
+        "csv": {
+          "name": "ms-kata-pinjaman-mengikut-bahasa-asal_MS.csv",
+          "size": 620
+        },
+        "xlsx": {
+          "name": "ms-kata-pinjaman-mengikut-bahasa-asal_MS.xlsx",
+          "size": 7203
         }
       }
     },
