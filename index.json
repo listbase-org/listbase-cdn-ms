@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-15T02:42:37.879Z",
-  "total_datasets": 728,
-  "total_records": 558437,
+  "generated": "2026-11-15T02:42:50.645Z",
+  "total_datasets": 729,
+  "total_records": 558471,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "law",
@@ -6049,6 +6049,32 @@
         "xlsx": {
           "name": "ms-kata-pinjaman-arab_MS.xlsx",
           "size": 17664
+        }
+      }
+    },
+    {
+      "id": "ms-kata-pinjaman-dialek-cina",
+      "name": "Kata Pinjaman Bahasa Cina dalam Bahasa Melayu Malaysia",
+      "category": "language",
+      "record_count": 34,
+      "columns": [
+        "perkataan_melayu",
+        "aksara_cina",
+        "sebutan_asal",
+        "sistem_romanisasi",
+        "bahasa_sumber"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Bahasa_Melayu_Malaysia",
+      "updated": "2026-11",
+      "size": 8664,
+      "files": {
+        "csv": {
+          "name": "ms-kata-pinjaman-dialek-cina_MS.csv",
+          "size": 2202
+        },
+        "xlsx": {
+          "name": "ms-kata-pinjaman-dialek-cina_MS.xlsx",
+          "size": 8279
         }
       }
     },
