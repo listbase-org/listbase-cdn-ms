@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-14T02:19:04.302Z",
-  "total_datasets": 727,
-  "total_records": 558395,
+  "generated": "2026-11-15T02:42:37.879Z",
+  "total_datasets": 728,
+  "total_records": 558437,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -5928,6 +5928,29 @@
         "xlsx": {
           "name": "ms-bahasa_MS.xlsx",
           "size": 20843
+        }
+      }
+    },
+    {
+      "id": "ms-bahasa-basahan-perkataan-tidak-rasmi",
+      "name": "Bahasa Basahan Melayu: Perkataan Tidak Rasmi dan Padanan Rasmi",
+      "category": "language",
+      "record_count": 42,
+      "columns": [
+        "perkataan_tidak_rasmi",
+        "perkataan_rasmi"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Bahasa_Melayu_Malaysia",
+      "updated": "2026-11",
+      "size": 5779,
+      "files": {
+        "csv": {
+          "name": "ms-bahasa-basahan-perkataan-tidak-rasmi_MS.csv",
+          "size": 1290
+        },
+        "xlsx": {
+          "name": "ms-bahasa-basahan-perkataan-tidak-rasmi_MS.xlsx",
+          "size": 7850
         }
       }
     },
