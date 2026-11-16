@@ -1,0 +1,120 @@
+{
+  "id": "ms-awalan-perduaan-iec",
+  "name": "Awalan Perduaan (IEC)",
+  "title": "Awalan Perduaan (IEC)",
+  "description": "Awalan perduaan IEC (kibi, mebi, gibi dan seterusnya) untuk unit data digital dengan simbol serta nilai dalam asas 2, 16 dan 10.",
+  "category": "units",
+  "source": "https://ms.wikipedia.org/wiki/Awalan_perduaan",
+  "source_url": "https://ms.wikipedia.org/wiki/Awalan_perduaan",
+  "updated": "2026-11",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "simbol",
+      "label": "Simbol",
+      "type": "string"
+    },
+    {
+      "key": "asas_2",
+      "label": "Asas 2",
+      "type": "string"
+    },
+    {
+      "key": "asas_16",
+      "label": "Asas 16",
+      "type": "string"
+    },
+    {
+      "key": "asas_10",
+      "label": "Asas 10",
+      "type": "string"
+    },
+    {
+      "key": "anggaran_asas_10",
+      "label": "Anggaran Asas 10",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "kibi",
+      "simbol": "Ki",
+      "asas_2": "2^10",
+      "asas_16": "16^2.5",
+      "asas_10": "1,024",
+      "anggaran_asas_10": ">10^3"
+    },
+    {
+      "nama": "mebi",
+      "simbol": "Mi",
+      "asas_2": "2^20",
+      "asas_16": "16^5",
+      "asas_10": "1,048,576",
+      "anggaran_asas_10": ">10^6"
+    },
+    {
+      "nama": "gibi",
+      "simbol": "Gi",
+      "asas_2": "2^30",
+      "asas_16": "16^7.5",
+      "asas_10": "1,073,741,824",
+      "anggaran_asas_10": ">10^9"
+    },
+    {
+      "nama": "tebi",
+      "simbol": "Ti",
+      "asas_2": "2^40",
+      "asas_16": "16^10",
+      "asas_10": "1,099,511,627,776",
+      "anggaran_asas_10": ">10^12"
+    },
+    {
+      "nama": "pebi",
+      "simbol": "Pi",
+      "asas_2": "2^50",
+      "asas_16": "16^12.5",
+      "asas_10": "1,125,899,906,842,624",
+      "anggaran_asas_10": ">10^15"
+    },
+    {
+      "nama": "eksbi",
+      "simbol": "Ei",
+      "asas_2": "2^60",
+      "asas_16": "16^15",
+      "asas_10": "1,152,921,504,606,846,976",
+      "anggaran_asas_10": ">10^18"
+    },
+    {
+      "nama": "zebi",
+      "simbol": "Zi",
+      "asas_2": "2^70",
+      "asas_16": "16^17.5",
+      "asas_10": "1,180,591,620,717,411,303,424",
+      "anggaran_asas_10": ">10^21"
+    },
+    {
+      "nama": "yobi",
+      "simbol": "Yi",
+      "asas_2": "2^80",
+      "asas_16": "16^20",
+      "asas_10": "1,208,925,819,614,629,174,706,176",
+      "anggaran_asas_10": ">10^24"
+    }
+  ],
+  "meta": {
+    "title": "Awalan Perduaan (IEC) - Muat turun percuma",
+    "description": "Awalan perduaan IEC (kibi, mebi, gibi dan seterusnya) untuk unit data digital dengan simbol serta nilai dalam asas 2, 16 dan 10. Mengandungi 8 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Awalan Perduaan (IEC) | ListBase",
+    "seo_description": "Muat turun Awalan Perduaan (IEC) — 8 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 8 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Awalan_perduaan"
+    ]
+  }
+}

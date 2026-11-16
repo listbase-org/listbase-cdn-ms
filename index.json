@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-16T02:21:52.561Z",
-  "total_datasets": 731,
-  "total_records": 558506,
+  "generated": "2026-11-16T02:22:03.597Z",
+  "total_datasets": 732,
+  "total_records": 558514,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 6
+      "dataset_count": 7
     }
   ],
   "datasets": [
@@ -22689,6 +22689,33 @@
         "xlsx": {
           "name": "ms-awalan-metrik-si_MS.xlsx",
           "size": 7997
+        }
+      }
+    },
+    {
+      "id": "ms-awalan-perduaan-iec",
+      "name": "Awalan Perduaan (IEC)",
+      "category": "units",
+      "record_count": 8,
+      "columns": [
+        "nama",
+        "simbol",
+        "asas_2",
+        "asas_16",
+        "asas_10",
+        "anggaran_asas_10"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Awalan_perduaan",
+      "updated": "2026-11",
+      "size": 3116,
+      "files": {
+        "csv": {
+          "name": "ms-awalan-perduaan-iec_MS.csv",
+          "size": 533
+        },
+        "xlsx": {
+          "name": "ms-awalan-perduaan-iec_MS.xlsx",
+          "size": 7190
         }
       }
     },
