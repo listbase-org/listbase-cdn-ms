@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-15T02:43:01.896Z",
-  "total_datasets": 730,
-  "total_records": 558486,
+  "generated": "2026-11-16T02:21:52.561Z",
+  "total_datasets": 731,
+  "total_records": 558506,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 5
+      "dataset_count": 6
     }
   ],
   "datasets": [
@@ -22660,6 +22660,35 @@
         "xlsx": {
           "name": "ms-wp-putrajaya-lapangan-terbang_MS.xlsx",
           "size": 7066
+        }
+      }
+    },
+    {
+      "id": "ms-awalan-metrik-si",
+      "name": "Awalan Metrik SI",
+      "category": "units",
+      "record_count": 20,
+      "columns": [
+        "nama",
+        "simbol",
+        "asas_1000",
+        "asas_10",
+        "perpuluhan",
+        "skala_pendek",
+        "skala_panjang",
+        "guna_pakai"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Awalan_metrik",
+      "updated": "2026-11",
+      "size": 6827,
+      "files": {
+        "csv": {
+          "name": "ms-awalan-metrik-si_MS.csv",
+          "size": 1661
+        },
+        "xlsx": {
+          "name": "ms-awalan-metrik-si_MS.xlsx",
+          "size": 7997
         }
       }
     },

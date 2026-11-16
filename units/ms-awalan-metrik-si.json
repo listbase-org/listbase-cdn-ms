@@ -1,0 +1,266 @@
+{
+  "id": "ms-awalan-metrik-si",
+  "name": "Awalan Metrik SI",
+  "title": "Awalan Metrik SI",
+  "description": "Senarai awalan Sistem Unit Antarabangsa (SI) dengan simbol, faktor kuasa 10 dan 1000, nilai perpuluhan, nama nombor serta tahun guna pakai.",
+  "category": "units",
+  "source": "https://ms.wikipedia.org/wiki/Awalan_metrik",
+  "source_url": "https://ms.wikipedia.org/wiki/Awalan_metrik",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "simbol",
+      "label": "Simbol",
+      "type": "string"
+    },
+    {
+      "key": "asas_1000",
+      "label": "Asas 1000",
+      "type": "string"
+    },
+    {
+      "key": "asas_10",
+      "label": "Asas 10",
+      "type": "string"
+    },
+    {
+      "key": "perpuluhan",
+      "label": "Perpuluhan",
+      "type": "string"
+    },
+    {
+      "key": "skala_pendek",
+      "label": "Skala Pendek",
+      "type": "string"
+    },
+    {
+      "key": "skala_panjang",
+      "label": "Skala Panjang",
+      "type": "string"
+    },
+    {
+      "key": "guna_pakai",
+      "label": "Guna Pakai",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "yotta",
+      "simbol": "Y",
+      "asas_1000": "1000^8",
+      "asas_10": "10^24",
+      "perpuluhan": "1 000 000 000 000 000 000 000 000",
+      "skala_pendek": "septilion",
+      "skala_panjang": "quadrilion",
+      "guna_pakai": "1991"
+    },
+    {
+      "nama": "zetta",
+      "simbol": "Z",
+      "asas_1000": "1000^7",
+      "asas_10": "10^21",
+      "perpuluhan": "1 000 000 000 000 000 000 000",
+      "skala_pendek": "sekstilion",
+      "skala_panjang": "triliard",
+      "guna_pakai": "1991"
+    },
+    {
+      "nama": "exa",
+      "simbol": "E",
+      "asas_1000": "1000^6",
+      "asas_10": "10^18",
+      "perpuluhan": "1 000 000 000 000 000 000",
+      "skala_pendek": "kuintilion",
+      "skala_panjang": "trilion",
+      "guna_pakai": "1975"
+    },
+    {
+      "nama": "peta",
+      "simbol": "P",
+      "asas_1000": "1000^5",
+      "asas_10": "10^15",
+      "perpuluhan": "1 000 000 000 000 000",
+      "skala_pendek": "quadrilion",
+      "skala_panjang": "biliard",
+      "guna_pakai": "1975"
+    },
+    {
+      "nama": "tera",
+      "simbol": "T",
+      "asas_1000": "1000^4",
+      "asas_10": "10^12",
+      "perpuluhan": "1 000 000 000 000",
+      "skala_pendek": "trillion",
+      "skala_panjang": "billion",
+      "guna_pakai": "1960"
+    },
+    {
+      "nama": "giga",
+      "simbol": "G",
+      "asas_1000": "1000^3",
+      "asas_10": "10^9",
+      "perpuluhan": "1 000 000 000",
+      "skala_pendek": "bilion",
+      "skala_panjang": "miliard",
+      "guna_pakai": "1960"
+    },
+    {
+      "nama": "mega",
+      "simbol": "M",
+      "asas_1000": "1000^2",
+      "asas_10": "10^6",
+      "perpuluhan": "1 000 000",
+      "skala_pendek": "million",
+      "skala_panjang": "million",
+      "guna_pakai": "1873"
+    },
+    {
+      "nama": "kilo",
+      "simbol": "k",
+      "asas_1000": "1000^1",
+      "asas_10": "10^3",
+      "perpuluhan": "1 000",
+      "skala_pendek": "thousand",
+      "skala_panjang": "thousand",
+      "guna_pakai": "1795"
+    },
+    {
+      "nama": "hecto",
+      "simbol": "h",
+      "asas_1000": "1000^2/3",
+      "asas_10": "10^2",
+      "perpuluhan": "100",
+      "skala_pendek": "hundred",
+      "skala_panjang": "hundred",
+      "guna_pakai": "1795"
+    },
+    {
+      "nama": "deca",
+      "simbol": "da",
+      "asas_1000": "1000^1/3",
+      "asas_10": "10^1",
+      "perpuluhan": "10",
+      "skala_pendek": "ten",
+      "skala_panjang": "ten",
+      "guna_pakai": "1795"
+    },
+    {
+      "nama": "deci",
+      "simbol": "d",
+      "asas_1000": "1000^-1/3",
+      "asas_10": "10^-1",
+      "perpuluhan": "0.1",
+      "skala_pendek": "tenth",
+      "skala_panjang": "tenth",
+      "guna_pakai": "1795"
+    },
+    {
+      "nama": "centi",
+      "simbol": "c",
+      "asas_1000": "1000^-2/3",
+      "asas_10": "10^-2",
+      "perpuluhan": "0.01",
+      "skala_pendek": "hundredth",
+      "skala_panjang": "hundredth",
+      "guna_pakai": "1795"
+    },
+    {
+      "nama": "milli",
+      "simbol": "m",
+      "asas_1000": "1000^-1",
+      "asas_10": "10^-3",
+      "perpuluhan": "0.001",
+      "skala_pendek": "thousandth",
+      "skala_panjang": "thousandth",
+      "guna_pakai": "1795"
+    },
+    {
+      "nama": "micro",
+      "simbol": "μ",
+      "asas_1000": "1000^-2",
+      "asas_10": "10^-6",
+      "perpuluhan": "0.000 001",
+      "skala_pendek": "millionth",
+      "skala_panjang": "millionth",
+      "guna_pakai": "1873"
+    },
+    {
+      "nama": "nano",
+      "simbol": "n",
+      "asas_1000": "1000^-3",
+      "asas_10": "10^-9",
+      "perpuluhan": "0.000 000 001",
+      "skala_pendek": "billionth",
+      "skala_panjang": "milliardth",
+      "guna_pakai": "1960"
+    },
+    {
+      "nama": "pico",
+      "simbol": "p",
+      "asas_1000": "1000^-4",
+      "asas_10": "10^-12",
+      "perpuluhan": "0.000 000 000 001",
+      "skala_pendek": "trillionth",
+      "skala_panjang": "billionth",
+      "guna_pakai": "1960"
+    },
+    {
+      "nama": "femto",
+      "simbol": "f",
+      "asas_1000": "1000^-5",
+      "asas_10": "10^-15",
+      "perpuluhan": "0.000 000 000 000 001",
+      "skala_pendek": "quadrillion",
+      "skala_panjang": "bill iard (Dicadangkan)",
+      "guna_pakai": "1964"
+    },
+    {
+      "nama": "atto",
+      "simbol": "a",
+      "asas_1000": "1000^-6",
+      "asas_10": "10^-18",
+      "perpuluhan": "0.000 000 000 000 000 001",
+      "skala_pendek": "quintilion",
+      "skala_panjang": "trilion",
+      "guna_pakai": "1964"
+    },
+    {
+      "nama": "zepto",
+      "simbol": "z",
+      "asas_1000": "1000^-7",
+      "asas_10": "10^-21",
+      "perpuluhan": "0.000 000 000 000 000 000 001",
+      "skala_pendek": "sextilion",
+      "skala_panjang": "triliard",
+      "guna_pakai": "1991"
+    },
+    {
+      "nama": "yocto",
+      "simbol": "y",
+      "asas_1000": "1000^-8",
+      "asas_10": "10^-24",
+      "perpuluhan": "0.000 000 000 000 000 000 000 001",
+      "skala_pendek": "septllion",
+      "skala_panjang": "quadrilion",
+      "guna_pakai": "1991"
+    }
+  ],
+  "meta": {
+    "title": "Awalan Metrik SI - Muat turun percuma",
+    "description": "Senarai awalan Sistem Unit Antarabangsa (SI) dengan simbol, faktor kuasa 10 dan 1000, nilai perpuluhan, nama nombor serta tahun guna pakai. Mengandungi 20 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Awalan Metrik SI | ListBase",
+    "seo_description": "Muat turun Awalan Metrik SI — 20 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 20 rekod / 8 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Awalan_metrik"
+    ]
+  }
+}
