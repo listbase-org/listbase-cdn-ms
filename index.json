@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-17T02:25:09.454Z",
-  "total_datasets": 733,
-  "total_records": 558546,
+  "generated": "2026-11-17T02:25:22.749Z",
+  "total_datasets": 734,
+  "total_records": 558559,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "music",
@@ -6348,6 +6348,31 @@
         "xlsx": {
           "name": "ms-peguam-negara_MS.xlsx",
           "size": 7199
+        }
+      }
+    },
+    {
+      "id": "ms-presiden-mahkamah-rayuan",
+      "name": "Senarai Presiden Mahkamah Rayuan Malaysia",
+      "category": "law",
+      "record_count": 13,
+      "columns": [
+        "bil",
+        "presiden",
+        "tahun_pelantikan",
+        "tahun_tamat"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Mahkamah_Rayuan_Malaysia",
+      "updated": "2026-11",
+      "size": 3299,
+      "files": {
+        "csv": {
+          "name": "ms-presiden-mahkamah-rayuan_MS.csv",
+          "size": 562
+        },
+        "xlsx": {
+          "name": "ms-presiden-mahkamah-rayuan_MS.xlsx",
+          "size": 7217
         }
       }
     },

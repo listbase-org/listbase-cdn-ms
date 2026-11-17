@@ -1,0 +1,124 @@
+{
+  "id": "ms-presiden-mahkamah-rayuan",
+  "name": "Senarai Presiden Mahkamah Rayuan Malaysia",
+  "title": "Senarai Presiden Mahkamah Rayuan Malaysia",
+  "description": "Senarai Presiden Mahkamah Rayuan Malaysia sejak penubuhannya pada 1994, berserta tahun pelantikan dan tahun tamat jawatan.",
+  "category": "law",
+  "source": "https://ms.wikipedia.org/wiki/Mahkamah_Rayuan_Malaysia",
+  "source_url": "https://ms.wikipedia.org/wiki/Mahkamah_Rayuan_Malaysia",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "bil",
+      "label": "Bil",
+      "type": "number"
+    },
+    {
+      "key": "presiden",
+      "label": "Presiden",
+      "type": "string"
+    },
+    {
+      "key": "tahun_pelantikan",
+      "label": "Tahun Pelantikan",
+      "type": "number"
+    },
+    {
+      "key": "tahun_tamat",
+      "label": "Tahun Tamat",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "bil": 1,
+      "presiden": "Lamin Mohd Yunos",
+      "tahun_pelantikan": 1994,
+      "tahun_tamat": "2001"
+    },
+    {
+      "bil": 2,
+      "presiden": "Wan Adnan Ismail",
+      "tahun_pelantikan": 2001,
+      "tahun_tamat": "2001"
+    },
+    {
+      "bil": 3,
+      "presiden": "Ahmad Fairuz Sheikh Abdul Halim",
+      "tahun_pelantikan": 2003,
+      "tahun_tamat": "2007"
+    },
+    {
+      "bil": 4,
+      "presiden": "Abdul Malek Ahmad",
+      "tahun_pelantikan": 2004,
+      "tahun_tamat": "2007"
+    },
+    {
+      "bil": 5,
+      "presiden": "Abdul Hamid Mohamad",
+      "tahun_pelantikan": 2007,
+      "tahun_tamat": "2007"
+    },
+    {
+      "bil": 6,
+      "presiden": "Zaki Azmi",
+      "tahun_pelantikan": 2007,
+      "tahun_tamat": "2008"
+    },
+    {
+      "bil": 7,
+      "presiden": "Alauddin Mohd. Sheriff",
+      "tahun_pelantikan": 2008,
+      "tahun_tamat": "2011"
+    },
+    {
+      "bil": 8,
+      "presiden": "Md Raus Sharif",
+      "tahun_pelantikan": 2011,
+      "tahun_tamat": "2017"
+    },
+    {
+      "bil": 9,
+      "presiden": "Zulkefli Ahmad Makinudin",
+      "tahun_pelantikan": 2017,
+      "tahun_tamat": "2018"
+    },
+    {
+      "bil": 10,
+      "presiden": "Ahmad Maarop",
+      "tahun_pelantikan": 2018,
+      "tahun_tamat": "2019"
+    },
+    {
+      "bil": 11,
+      "presiden": "Rohana Yusuf",
+      "tahun_pelantikan": 2019,
+      "tahun_tamat": "2022"
+    },
+    {
+      "bil": 12,
+      "presiden": "Abang Iskandar Abang Hashim",
+      "tahun_pelantikan": 2023,
+      "tahun_tamat": "2025"
+    },
+    {
+      "bil": 13,
+      "presiden": "Abu Bakar Jais",
+      "tahun_pelantikan": 2025,
+      "tahun_tamat": "Kini"
+    }
+  ],
+  "meta": {
+    "title": "Senarai Presiden Mahkamah Rayuan Malaysia - Muat turun percuma",
+    "description": "Senarai Presiden Mahkamah Rayuan Malaysia sejak penubuhannya pada 1994, berserta tahun pelantikan dan tahun tamat jawatan. Mengandungi 13 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Presiden Mahkamah Rayuan Malaysia | ListBase",
+    "seo_description": "Muat turun Senarai Presiden Mahkamah Rayuan Malaysia — 13 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 13 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Mahkamah_Rayuan_Malaysia"
+    ]
+  }
+}
