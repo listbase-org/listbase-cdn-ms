@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-16T02:22:03.597Z",
-  "total_datasets": 732,
-  "total_records": 558514,
+  "generated": "2026-11-17T02:25:09.454Z",
+  "total_datasets": 733,
+  "total_records": 558546,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "sports",
@@ -18612,6 +18612,31 @@
         "xlsx": {
           "name": "ms-daerah-mengikut-populasi_MS.xlsx",
           "size": 10778
+        }
+      }
+    },
+    {
+      "id": "ms-darjah-kebesaran-persekutuan",
+      "name": "Darjah Kebesaran, Bintang dan Pingat Persekutuan Malaysia mengikut Susunan Keutamaan",
+      "category": "society",
+      "record_count": 32,
+      "columns": [
+        "susunan_keutamaan",
+        "nama_darjah_pingat",
+        "singkatan",
+        "gelaran"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Darjah_kebesaran_negara_Malaysia",
+      "updated": "2026-11",
+      "size": 6709,
+      "files": {
+        "csv": {
+          "name": "ms-darjah-kebesaran-persekutuan_MS.csv",
+          "size": 1410
+        },
+        "xlsx": {
+          "name": "ms-darjah-kebesaran-persekutuan_MS.xlsx",
+          "size": 7829
         }
       }
     },
