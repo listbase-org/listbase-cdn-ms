@@ -1,12 +1,12 @@
 {
   "lang": "ms",
-  "generated": "2026-11-18T02:30:25.324Z",
-  "total_datasets": 736,
-  "total_records": 559225,
+  "generated": "2026-11-18T02:30:39.088Z",
+  "total_datasets": 737,
+  "total_records": 559525,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "culture",
@@ -198,6 +198,37 @@
         "xlsx": {
           "name": "ms-nelayan-negeri-peralatan_MS.xlsx",
           "size": 45421
+        }
+      }
+    },
+    {
+      "id": "ms-pendaratan-ikan-air-tawar-negeri",
+      "name": "Pendaratan Ikan Air Tawar dari Perikanan Darat mengikut Negeri (2005–2025)",
+      "category": "agriculture",
+      "record_count": 300,
+      "columns": [
+        "tahun",
+        "negeri",
+        "sungai_tan",
+        "bekas_lombong_tan",
+        "empangan_tan",
+        "tasik_tan",
+        "lain_lain_tan",
+        "jumlah_tan",
+        "nilai_borong_rm",
+        "nilai_runcit_rm"
+      ],
+      "source": "https://data.gov.my/data-catalogue/fish_landings_inland",
+      "updated": "2026-11",
+      "size": 89773,
+      "files": {
+        "csv": {
+          "name": "ms-pendaratan-ikan-air-tawar-negeri_MS.csv",
+          "size": 22149
+        },
+        "xlsx": {
+          "name": "ms-pendaratan-ikan-air-tawar-negeri_MS.xlsx",
+          "size": 21942
         }
       }
     },
