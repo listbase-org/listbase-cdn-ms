@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-17T02:25:22.749Z",
-  "total_datasets": 734,
-  "total_records": 558559,
+  "generated": "2026-11-18T02:30:13.655Z",
+  "total_datasets": 735,
+  "total_records": 558965,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "sports",
@@ -18766,6 +18766,31 @@
         "xlsx": {
           "name": "ms-kaum-di-malaysia_MS.xlsx",
           "size": 15861
+        }
+      }
+    },
+    {
+      "id": "ms-kelahiran-hidup-negeri-tahunan",
+      "name": "Kelahiran Hidup Tahunan mengikut Negeri (2000–2025)",
+      "category": "society",
+      "record_count": 406,
+      "columns": [
+        "tahun",
+        "negeri",
+        "kelahiran_hidup",
+        "kadar_kelahiran_kasar"
+      ],
+      "source": "https://data.gov.my/data-catalogue/births_annual_state",
+      "updated": "2026-11",
+      "size": 54706,
+      "files": {
+        "csv": {
+          "name": "ms-kelahiran-hidup-negeri-tahunan_MS.csv",
+          "size": 13574
+        },
+        "xlsx": {
+          "name": "ms-kelahiran-hidup-negeri-tahunan_MS.xlsx",
+          "size": 15459
         }
       }
     },

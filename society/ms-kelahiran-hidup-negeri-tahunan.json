@@ -1,0 +1,2482 @@
+{
+  "id": "ms-kelahiran-hidup-negeri-tahunan",
+  "name": "Kelahiran Hidup Tahunan mengikut Negeri (2000–2025)",
+  "title": "Kelahiran Hidup Tahunan mengikut Negeri (2000–2025)",
+  "description": "Bilangan kelahiran hidup dan kadar kelahiran kasar (setiap 1,000 penduduk) mengikut negeri di Malaysia dari tahun 2000 hingga 2025, data Jabatan Perangkaan Malaysia (DOSM).",
+  "category": "society",
+  "source": "https://data.gov.my/data-catalogue/births_annual_state",
+  "source_url": "https://data.gov.my/data-catalogue/births_annual_state",
+  "updated": "2026-11",
+  "record_count": 406,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "kelahiran_hidup",
+      "label": "Kelahiran Hidup",
+      "type": "number"
+    },
+    {
+      "key": "kadar_kelahiran_kasar",
+      "label": "Kadar Kelahiran Kasar",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 2000,
+      "negeri": "Johor",
+      "kelahiran_hidup": 67183,
+      "kadar_kelahiran_kasar": 24.3
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 41014,
+      "kadar_kelahiran_kasar": 24.5
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 40404,
+      "kadar_kelahiran_kasar": 29.7
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 15304,
+      "kadar_kelahiran_kasar": 23.7
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 19243,
+      "kadar_kelahiran_kasar": 22.2
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 29555,
+      "kadar_kelahiran_kasar": 22.8
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Perak",
+      "kelahiran_hidup": 48589,
+      "kadar_kelahiran_kasar": 23.2
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4651,
+      "kadar_kelahiran_kasar": 22.4
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 27337,
+      "kadar_kelahiran_kasar": 20.5
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 49308,
+      "kadar_kelahiran_kasar": 18.9
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 47920,
+      "kadar_kelahiran_kasar": 23.1
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 91635,
+      "kadar_kelahiran_kasar": 21.9
+    },
+    {
+      "tahun": 2000,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 24833,
+      "kadar_kelahiran_kasar": 27.5
+    },
+    {
+      "tahun": 2000,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 29382,
+      "kadar_kelahiran_kasar": 20.8
+    },
+    {
+      "tahun": 2000,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1495,
+      "kadar_kelahiran_kasar": 19.7
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Johor",
+      "kelahiran_hidup": 61432,
+      "kadar_kelahiran_kasar": 21.7
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 38073,
+      "kadar_kelahiran_kasar": 22.3
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 38186,
+      "kadar_kelahiran_kasar": 27.5
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 14317,
+      "kadar_kelahiran_kasar": 21.5
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 17670,
+      "kadar_kelahiran_kasar": 20
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 27613,
+      "kadar_kelahiran_kasar": 21
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Perak",
+      "kelahiran_hidup": 43533,
+      "kadar_kelahiran_kasar": 20.4
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4340,
+      "kadar_kelahiran_kasar": 20.6
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 24712,
+      "kadar_kelahiran_kasar": 18.2
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 48990,
+      "kadar_kelahiran_kasar": 18.4
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 46098,
+      "kadar_kelahiran_kasar": 21.8
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 87758,
+      "kadar_kelahiran_kasar": 20.3
+    },
+    {
+      "tahun": 2001,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 24060,
+      "kadar_kelahiran_kasar": 26.2
+    },
+    {
+      "tahun": 2001,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 27211,
+      "kadar_kelahiran_kasar": 18.8
+    },
+    {
+      "tahun": 2001,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1486,
+      "kadar_kelahiran_kasar": 19.3
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Johor",
+      "kelahiran_hidup": 59699,
+      "kadar_kelahiran_kasar": 20.6
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 36604,
+      "kadar_kelahiran_kasar": 21.1
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 37297,
+      "kadar_kelahiran_kasar": 26.3
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 13810,
+      "kadar_kelahiran_kasar": 20.2
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 17647,
+      "kadar_kelahiran_kasar": 19.6
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 26810,
+      "kadar_kelahiran_kasar": 20
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Perak",
+      "kelahiran_hidup": 42289,
+      "kadar_kelahiran_kasar": 19.6
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4225,
+      "kadar_kelahiran_kasar": 19.8
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 24775,
+      "kadar_kelahiran_kasar": 17.9
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 46119,
+      "kadar_kelahiran_kasar": 17
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 44929,
+      "kadar_kelahiran_kasar": 20.8
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 89735,
+      "kadar_kelahiran_kasar": 20.2
+    },
+    {
+      "tahun": 2002,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 23205,
+      "kadar_kelahiran_kasar": 24.8
+    },
+    {
+      "tahun": 2002,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 25928,
+      "kadar_kelahiran_kasar": 17.6
+    },
+    {
+      "tahun": 2002,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1466,
+      "kadar_kelahiran_kasar": 18.8
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Johor",
+      "kelahiran_hidup": 58230,
+      "kadar_kelahiran_kasar": 19.7
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 35407,
+      "kadar_kelahiran_kasar": 20.1
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 35686,
+      "kadar_kelahiran_kasar": 24.8
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 13898,
+      "kadar_kelahiran_kasar": 19.8
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 17272,
+      "kadar_kelahiran_kasar": 18.8
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 26144,
+      "kadar_kelahiran_kasar": 19.2
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Perak",
+      "kelahiran_hidup": 39822,
+      "kadar_kelahiran_kasar": 18.2
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4058,
+      "kadar_kelahiran_kasar": 18.8
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 23467,
+      "kadar_kelahiran_kasar": 16.6
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 44388,
+      "kadar_kelahiran_kasar": 16
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 44068,
+      "kadar_kelahiran_kasar": 20
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 89933,
+      "kadar_kelahiran_kasar": 19.6
+    },
+    {
+      "tahun": 2003,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 22269,
+      "kadar_kelahiran_kasar": 23.4
+    },
+    {
+      "tahun": 2003,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 25173,
+      "kadar_kelahiran_kasar": 16.8
+    },
+    {
+      "tahun": 2003,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1584,
+      "kadar_kelahiran_kasar": 20.1
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Johor",
+      "kelahiran_hidup": 57339,
+      "kadar_kelahiran_kasar": 19
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 35059,
+      "kadar_kelahiran_kasar": 19.6
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 35113,
+      "kadar_kelahiran_kasar": 24
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 13548,
+      "kadar_kelahiran_kasar": 18.8
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 17085,
+      "kadar_kelahiran_kasar": 18.3
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 25899,
+      "kadar_kelahiran_kasar": 18.8
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Perak",
+      "kelahiran_hidup": 39012,
+      "kadar_kelahiran_kasar": 17.6
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 3964,
+      "kadar_kelahiran_kasar": 18.1
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 22943,
+      "kadar_kelahiran_kasar": 16
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 46170,
+      "kadar_kelahiran_kasar": 16.3
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 43545,
+      "kadar_kelahiran_kasar": 19.4
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 93176,
+      "kadar_kelahiran_kasar": 19.8
+    },
+    {
+      "tahun": 2004,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 22542,
+      "kadar_kelahiran_kasar": 23.3
+    },
+    {
+      "tahun": 2004,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 24892,
+      "kadar_kelahiran_kasar": 16.3
+    },
+    {
+      "tahun": 2004,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1513,
+      "kadar_kelahiran_kasar": 19
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Johor",
+      "kelahiran_hidup": 56524,
+      "kadar_kelahiran_kasar": 18.4
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 34254,
+      "kadar_kelahiran_kasar": 18.8
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 34088,
+      "kadar_kelahiran_kasar": 22.9
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 13341,
+      "kadar_kelahiran_kasar": 18.1
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 16838,
+      "kadar_kelahiran_kasar": 17.7
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 25692,
+      "kadar_kelahiran_kasar": 18.3
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Perak",
+      "kelahiran_hidup": 37369,
+      "kadar_kelahiran_kasar": 16.6
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 3932,
+      "kadar_kelahiran_kasar": 17.7
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 22559,
+      "kadar_kelahiran_kasar": 15.4
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 47160,
+      "kadar_kelahiran_kasar": 16.3
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 43241,
+      "kadar_kelahiran_kasar": 18.9
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 92456,
+      "kadar_kelahiran_kasar": 19.1
+    },
+    {
+      "tahun": 2005,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 21966,
+      "kadar_kelahiran_kasar": 22.4
+    },
+    {
+      "tahun": 2005,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 23544,
+      "kadar_kelahiran_kasar": 15.2
+    },
+    {
+      "tahun": 2005,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1509,
+      "kadar_kelahiran_kasar": 18.7
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Johor",
+      "kelahiran_hidup": 56737,
+      "kadar_kelahiran_kasar": 18.1
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 33864,
+      "kadar_kelahiran_kasar": 18.3
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 33659,
+      "kadar_kelahiran_kasar": 22.3
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 12946,
+      "kadar_kelahiran_kasar": 17.1
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 16622,
+      "kadar_kelahiran_kasar": 17.2
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 24809,
+      "kadar_kelahiran_kasar": 17.5
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Perak",
+      "kelahiran_hidup": 36835,
+      "kadar_kelahiran_kasar": 16.2
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 3891,
+      "kadar_kelahiran_kasar": 17.3
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 22003,
+      "kadar_kelahiran_kasar": 14.8
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 46142,
+      "kadar_kelahiran_kasar": 15.6
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 42892,
+      "kadar_kelahiran_kasar": 18.4
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 94737,
+      "kadar_kelahiran_kasar": 19
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 21907,
+      "kadar_kelahiran_kasar": 22
+    },
+    {
+      "tahun": 2006,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 24067,
+      "kadar_kelahiran_kasar": 15.3
+    },
+    {
+      "tahun": 2006,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1587,
+      "kadar_kelahiran_kasar": 19.4
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Johor",
+      "kelahiran_hidup": 57780,
+      "kadar_kelahiran_kasar": 18.1
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 33963,
+      "kadar_kelahiran_kasar": 18.1
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 33800,
+      "kadar_kelahiran_kasar": 22.1
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 13444,
+      "kadar_kelahiran_kasar": 17.4
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 17195,
+      "kadar_kelahiran_kasar": 17.5
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 24958,
+      "kadar_kelahiran_kasar": 17.3
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Perak",
+      "kelahiran_hidup": 36628,
+      "kadar_kelahiran_kasar": 15.9
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 3946,
+      "kadar_kelahiran_kasar": 17.4
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 22429,
+      "kadar_kelahiran_kasar": 14.9
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 47017,
+      "kadar_kelahiran_kasar": 15.5
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 42549,
+      "kadar_kelahiran_kasar": 18
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 97055,
+      "kadar_kelahiran_kasar": 18.9
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 22366,
+      "kadar_kelahiran_kasar": 22.1
+    },
+    {
+      "tahun": 2007,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 24936,
+      "kadar_kelahiran_kasar": 15.6
+    },
+    {
+      "tahun": 2007,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1581,
+      "kadar_kelahiran_kasar": 19
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Johor",
+      "kelahiran_hidup": 57838,
+      "kadar_kelahiran_kasar": 17.8
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 35415,
+      "kadar_kelahiran_kasar": 18.6
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 34842,
+      "kadar_kelahiran_kasar": 22.5
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 13619,
+      "kadar_kelahiran_kasar": 17.2
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 17351,
+      "kadar_kelahiran_kasar": 17.4
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 25658,
+      "kadar_kelahiran_kasar": 17.6
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Perak",
+      "kelahiran_hidup": 37174,
+      "kadar_kelahiran_kasar": 15.9
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4175,
+      "kadar_kelahiran_kasar": 18.1
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 22952,
+      "kadar_kelahiran_kasar": 15
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 50272,
+      "kadar_kelahiran_kasar": 16.2
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 43426,
+      "kadar_kelahiran_kasar": 18
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 100284,
+      "kadar_kelahiran_kasar": 19
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 23339,
+      "kadar_kelahiran_kasar": 22.8
+    },
+    {
+      "tahun": 2008,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 25178,
+      "kadar_kelahiran_kasar": 15.5
+    },
+    {
+      "tahun": 2008,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1680,
+      "kadar_kelahiran_kasar": 19.9
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Johor",
+      "kelahiran_hidup": 57849,
+      "kadar_kelahiran_kasar": 17.5
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 36019,
+      "kadar_kelahiran_kasar": 18.7
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 35715,
+      "kadar_kelahiran_kasar": 22.7
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 13456,
+      "kadar_kelahiran_kasar": 16.7
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 17360,
+      "kadar_kelahiran_kasar": 17.1
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 26057,
+      "kadar_kelahiran_kasar": 17.6
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Perak",
+      "kelahiran_hidup": 37203,
+      "kadar_kelahiran_kasar": 15.8
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4237,
+      "kadar_kelahiran_kasar": 18.2
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 22777,
+      "kadar_kelahiran_kasar": 14.7
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 52782,
+      "kadar_kelahiran_kasar": 16.6
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 43753,
+      "kadar_kelahiran_kasar": 17.9
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 103023,
+      "kadar_kelahiran_kasar": 19
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 23887,
+      "kadar_kelahiran_kasar": 23
+    },
+    {
+      "tahun": 2009,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 25870,
+      "kadar_kelahiran_kasar": 15.7
+    },
+    {
+      "tahun": 2009,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1656,
+      "kadar_kelahiran_kasar": 19.2
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Johor",
+      "kelahiran_hidup": 56923,
+      "kadar_kelahiran_kasar": 16.9
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 35670,
+      "kadar_kelahiran_kasar": 18.3
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 36422,
+      "kadar_kelahiran_kasar": 22.9
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 13169,
+      "kadar_kelahiran_kasar": 16
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 17169,
+      "kadar_kelahiran_kasar": 16.7
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 26304,
+      "kadar_kelahiran_kasar": 17.5
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Perak",
+      "kelahiran_hidup": 36471,
+      "kadar_kelahiran_kasar": 15.3
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4187,
+      "kadar_kelahiran_kasar": 17.8
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 21390,
+      "kadar_kelahiran_kasar": 13.6
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 57397,
+      "kadar_kelahiran_kasar": 17.6
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 42435,
+      "kadar_kelahiran_kasar": 17.1
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 100306,
+      "kadar_kelahiran_kasar": 18.2
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 24420,
+      "kadar_kelahiran_kasar": 23.1
+    },
+    {
+      "tahun": 2010,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 24915,
+      "kadar_kelahiran_kasar": 14.9
+    },
+    {
+      "tahun": 2010,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1687,
+      "kadar_kelahiran_kasar": 19.1
+    },
+    {
+      "tahun": 2010,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 2438,
+      "kadar_kelahiran_kasar": 33.2
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Johor",
+      "kelahiran_hidup": 58868,
+      "kadar_kelahiran_kasar": 17.2
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 36397,
+      "kadar_kelahiran_kasar": 18.5
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 37984,
+      "kadar_kelahiran_kasar": 23.5
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 14075,
+      "kadar_kelahiran_kasar": 16.8
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 17836,
+      "kadar_kelahiran_kasar": 17
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 27421,
+      "kadar_kelahiran_kasar": 18.1
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Perak",
+      "kelahiran_hidup": 37912,
+      "kadar_kelahiran_kasar": 15.9
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4233,
+      "kadar_kelahiran_kasar": 17.6
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 22552,
+      "kadar_kelahiran_kasar": 14.2
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 58683,
+      "kadar_kelahiran_kasar": 17.5
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 44342,
+      "kadar_kelahiran_kasar": 17.8
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 105344,
+      "kadar_kelahiran_kasar": 18.6
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 24946,
+      "kadar_kelahiran_kasar": 23.3
+    },
+    {
+      "tahun": 2011,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 25996,
+      "kadar_kelahiran_kasar": 15.3
+    },
+    {
+      "tahun": 2011,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1779,
+      "kadar_kelahiran_kasar": 20.1
+    },
+    {
+      "tahun": 2011,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 3010,
+      "kadar_kelahiran_kasar": 39.2
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Johor",
+      "kelahiran_hidup": 61187,
+      "kadar_kelahiran_kasar": 17.5
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 36834,
+      "kadar_kelahiran_kasar": 18.5
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 37400,
+      "kadar_kelahiran_kasar": 22.8
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 14390,
+      "kadar_kelahiran_kasar": 16.8
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 18121,
+      "kadar_kelahiran_kasar": 17
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 27708,
+      "kadar_kelahiran_kasar": 18.2
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Perak",
+      "kelahiran_hidup": 38099,
+      "kadar_kelahiran_kasar": 15.9
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4199,
+      "kadar_kelahiran_kasar": 17
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 24011,
+      "kadar_kelahiran_kasar": 14.9
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 60802,
+      "kadar_kelahiran_kasar": 17.7
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 43899,
+      "kadar_kelahiran_kasar": 17.6
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 109938,
+      "kadar_kelahiran_kasar": 18.9
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 25904,
+      "kadar_kelahiran_kasar": 23.9
+    },
+    {
+      "tahun": 2012,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 27422,
+      "kadar_kelahiran_kasar": 15.8
+    },
+    {
+      "tahun": 2012,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1810,
+      "kadar_kelahiran_kasar": 20.2
+    },
+    {
+      "tahun": 2012,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 3171,
+      "kadar_kelahiran_kasar": 39.3
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Johor",
+      "kelahiran_hidup": 58855,
+      "kadar_kelahiran_kasar": 16.6
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 35942,
+      "kadar_kelahiran_kasar": 17.8
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 37314,
+      "kadar_kelahiran_kasar": 22.5
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 13970,
+      "kadar_kelahiran_kasar": 16.1
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 17942,
+      "kadar_kelahiran_kasar": 16.4
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 27543,
+      "kadar_kelahiran_kasar": 17.9
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Perak",
+      "kelahiran_hidup": 36200,
+      "kadar_kelahiran_kasar": 14.9
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4171,
+      "kadar_kelahiran_kasar": 16.6
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 21995,
+      "kadar_kelahiran_kasar": 13.4
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 59376,
+      "kadar_kelahiran_kasar": 16.6
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 41789,
+      "kadar_kelahiran_kasar": 16.5
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 106417,
+      "kadar_kelahiran_kasar": 17.6
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 25943,
+      "kadar_kelahiran_kasar": 23.7
+    },
+    {
+      "tahun": 2013,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 26190,
+      "kadar_kelahiran_kasar": 14.8
+    },
+    {
+      "tahun": 2013,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1796,
+      "kadar_kelahiran_kasar": 20.1
+    },
+    {
+      "tahun": 2013,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 3058,
+      "kadar_kelahiran_kasar": 36
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Johor",
+      "kelahiran_hidup": 61307,
+      "kadar_kelahiran_kasar": 16.8
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 37137,
+      "kadar_kelahiran_kasar": 18.3
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 39739,
+      "kadar_kelahiran_kasar": 23.5
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 14698,
+      "kadar_kelahiran_kasar": 16.6
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 18967,
+      "kadar_kelahiran_kasar": 17.1
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 28985,
+      "kadar_kelahiran_kasar": 18.6
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Perak",
+      "kelahiran_hidup": 36993,
+      "kadar_kelahiran_kasar": 15.2
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4574,
+      "kadar_kelahiran_kasar": 17.7
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 23143,
+      "kadar_kelahiran_kasar": 13.9
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 59042,
+      "kadar_kelahiran_kasar": 16.4
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 41759,
+      "kadar_kelahiran_kasar": 16.6
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 111123,
+      "kadar_kelahiran_kasar": 17.9
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 27286,
+      "kadar_kelahiran_kasar": 24.6
+    },
+    {
+      "tahun": 2014,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 27598,
+      "kadar_kelahiran_kasar": 15.3
+    },
+    {
+      "tahun": 2014,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1896,
+      "kadar_kelahiran_kasar": 20.6
+    },
+    {
+      "tahun": 2014,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 3107,
+      "kadar_kelahiran_kasar": 34.9
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Johor",
+      "kelahiran_hidup": 61411,
+      "kadar_kelahiran_kasar": 16.5
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 37548,
+      "kadar_kelahiran_kasar": 18.3
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 39233,
+      "kadar_kelahiran_kasar": 22.9
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 14696,
+      "kadar_kelahiran_kasar": 16.3
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 18708,
+      "kadar_kelahiran_kasar": 16.6
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 28125,
+      "kadar_kelahiran_kasar": 17.9
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Perak",
+      "kelahiran_hidup": 36624,
+      "kadar_kelahiran_kasar": 15
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4411,
+      "kadar_kelahiran_kasar": 16.7
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 22526,
+      "kadar_kelahiran_kasar": 13.4
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 55640,
+      "kadar_kelahiran_kasar": 15.3
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 40208,
+      "kadar_kelahiran_kasar": 15.9
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 110003,
+      "kadar_kelahiran_kasar": 17.3
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 27745,
+      "kadar_kelahiran_kasar": 24.8
+    },
+    {
+      "tahun": 2015,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 26206,
+      "kadar_kelahiran_kasar": 14.1
+    },
+    {
+      "tahun": 2015,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1977,
+      "kadar_kelahiran_kasar": 21.2
+    },
+    {
+      "tahun": 2015,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 2902,
+      "kadar_kelahiran_kasar": 31.1
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Johor",
+      "kelahiran_hidup": 60418,
+      "kadar_kelahiran_kasar": 15.9
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 36677,
+      "kadar_kelahiran_kasar": 17.7
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 38929,
+      "kadar_kelahiran_kasar": 22.4
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 14551,
+      "kadar_kelahiran_kasar": 15.8
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 18379,
+      "kadar_kelahiran_kasar": 15.9
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 27681,
+      "kadar_kelahiran_kasar": 17.5
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Perak",
+      "kelahiran_hidup": 36090,
+      "kadar_kelahiran_kasar": 14.7
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4453,
+      "kadar_kelahiran_kasar": 16.6
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 22064,
+      "kadar_kelahiran_kasar": 13
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 53166,
+      "kadar_kelahiran_kasar": 14.4
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 38267,
+      "kadar_kelahiran_kasar": 15.1
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 106315,
+      "kadar_kelahiran_kasar": 16.3
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 27777,
+      "kadar_kelahiran_kasar": 24.6
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 26242,
+      "kadar_kelahiran_kasar": 13.9
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1775,
+      "kadar_kelahiran_kasar": 18.8
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 2602,
+      "kadar_kelahiran_kasar": 26.9
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Johor",
+      "kelahiran_hidup": 61837,
+      "kadar_kelahiran_kasar": 16
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 37191,
+      "kadar_kelahiran_kasar": 17.8
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 39306,
+      "kadar_kelahiran_kasar": 22.4
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 14547,
+      "kadar_kelahiran_kasar": 15.5
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 18401,
+      "kadar_kelahiran_kasar": 15.7
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 27809,
+      "kadar_kelahiran_kasar": 17.5
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Perak",
+      "kelahiran_hidup": 35341,
+      "kadar_kelahiran_kasar": 14.4
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4523,
+      "kadar_kelahiran_kasar": 16.5
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 21732,
+      "kadar_kelahiran_kasar": 12.7
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 53686,
+      "kadar_kelahiran_kasar": 14.5
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 37963,
+      "kadar_kelahiran_kasar": 15
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 105843,
+      "kadar_kelahiran_kasar": 15.9
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 28108,
+      "kadar_kelahiran_kasar": 24.7
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 25113,
+      "kadar_kelahiran_kasar": 13.1
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1732,
+      "kadar_kelahiran_kasar": 18.1
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 2535,
+      "kadar_kelahiran_kasar": 25.3
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Johor",
+      "kelahiran_hidup": 61935,
+      "kadar_kelahiran_kasar": 15.7
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 36115,
+      "kadar_kelahiran_kasar": 17.1
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 38624,
+      "kadar_kelahiran_kasar": 21.8
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 14429,
+      "kadar_kelahiran_kasar": 15.1
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 18341,
+      "kadar_kelahiran_kasar": 15.4
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 27116,
+      "kadar_kelahiran_kasar": 16.9
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Perak",
+      "kelahiran_hidup": 34336,
+      "kadar_kelahiran_kasar": 13.9
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4427,
+      "kadar_kelahiran_kasar": 15.9
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 20951,
+      "kadar_kelahiran_kasar": 12.2
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 53639,
+      "kadar_kelahiran_kasar": 14.4
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 36943,
+      "kadar_kelahiran_kasar": 14.7
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 103566,
+      "kadar_kelahiran_kasar": 15.2
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 28448,
+      "kadar_kelahiran_kasar": 24.8
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 24506,
+      "kadar_kelahiran_kasar": 12.6
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1710,
+      "kadar_kelahiran_kasar": 17.8
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 2414,
+      "kadar_kelahiran_kasar": 33.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Johor",
+      "kelahiran_hidup": 60921,
+      "kadar_kelahiran_kasar": 15.4
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 34935,
+      "kadar_kelahiran_kasar": 16.5
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 36989,
+      "kadar_kelahiran_kasar": 20.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 14164,
+      "kadar_kelahiran_kasar": 14.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 17626,
+      "kadar_kelahiran_kasar": 14.6
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 25987,
+      "kadar_kelahiran_kasar": 16.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perak",
+      "kelahiran_hidup": 33437,
+      "kadar_kelahiran_kasar": 13.5
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4061,
+      "kadar_kelahiran_kasar": 14.4
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 20383,
+      "kadar_kelahiran_kasar": 11.8
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 53516,
+      "kadar_kelahiran_kasar": 14.5
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 36447,
+      "kadar_kelahiran_kasar": 14.6
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 96610,
+      "kadar_kelahiran_kasar": 14
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 27229,
+      "kadar_kelahiran_kasar": 23.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 27447,
+      "kadar_kelahiran_kasar": 14
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1653,
+      "kadar_kelahiran_kasar": 17.3
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 2344,
+      "kadar_kelahiran_kasar": 22
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Johor",
+      "kelahiran_hidup": 56908,
+      "kadar_kelahiran_kasar": 14.2
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 33828,
+      "kadar_kelahiran_kasar": 15.9
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 36275,
+      "kadar_kelahiran_kasar": 20.2
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 13855,
+      "kadar_kelahiran_kasar": 13.9
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 17120,
+      "kadar_kelahiran_kasar": 14.3
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 25344,
+      "kadar_kelahiran_kasar": 15.9
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perak",
+      "kelahiran_hidup": 31582,
+      "kadar_kelahiran_kasar": 12.7
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4101,
+      "kadar_kelahiran_kasar": 14.4
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 19645,
+      "kadar_kelahiran_kasar": 11.3
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 49587,
+      "kadar_kelahiran_kasar": 14.5
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 35449,
+      "kadar_kelahiran_kasar": 14.4
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 93577,
+      "kadar_kelahiran_kasar": 13.4
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 27177,
+      "kadar_kelahiran_kasar": 23.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 23199,
+      "kadar_kelahiran_kasar": 11.7
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1714,
+      "kadar_kelahiran_kasar": 18
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 2143,
+      "kadar_kelahiran_kasar": 19.6
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "kelahiran_hidup": 49990,
+      "kadar_kelahiran_kasar": 12.4
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 33040,
+      "kadar_kelahiran_kasar": 15.4
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 34764,
+      "kadar_kelahiran_kasar": 19.2
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 13192,
+      "kadar_kelahiran_kasar": 13.1
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 16777,
+      "kadar_kelahiran_kasar": 13.9
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 24507,
+      "kadar_kelahiran_kasar": 15.3
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "kelahiran_hidup": 30816,
+      "kadar_kelahiran_kasar": 12.2
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 4076,
+      "kadar_kelahiran_kasar": 14.2
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 18571,
+      "kadar_kelahiran_kasar": 10.7
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 41608,
+      "kadar_kelahiran_kasar": 12.2
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 31274,
+      "kadar_kelahiran_kasar": 12.7
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 90118,
+      "kadar_kelahiran_kasar": 12.8
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 26337,
+      "kadar_kelahiran_kasar": 22.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 21046,
+      "kadar_kelahiran_kasar": 10.7
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1522,
+      "kadar_kelahiran_kasar": 15.9
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 2106,
+      "kadar_kelahiran_kasar": 18.3
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "kelahiran_hidup": 48254,
+      "kadar_kelahiran_kasar": 12
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 30796,
+      "kadar_kelahiran_kasar": 14.2
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 33808,
+      "kadar_kelahiran_kasar": 18.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 13105,
+      "kadar_kelahiran_kasar": 13
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 15991,
+      "kadar_kelahiran_kasar": 13.2
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 23568,
+      "kadar_kelahiran_kasar": 14.6
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "kelahiran_hidup": 29543,
+      "kadar_kelahiran_kasar": 11.7
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 3746,
+      "kadar_kelahiran_kasar": 12.9
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 17731,
+      "kadar_kelahiran_kasar": 10.2
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 43617,
+      "kadar_kelahiran_kasar": 12.8
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 30937,
+      "kadar_kelahiran_kasar": 12.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 83658,
+      "kadar_kelahiran_kasar": 11.9
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 25304,
+      "kadar_kelahiran_kasar": 21.3
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 19853,
+      "kadar_kelahiran_kasar": 10.1
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1374,
+      "kadar_kelahiran_kasar": 14.2
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 1839,
+      "kadar_kelahiran_kasar": 15.7
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Johor",
+      "kelahiran_hidup": 56156,
+      "kadar_kelahiran_kasar": 13.7
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 33811,
+      "kadar_kelahiran_kasar": 15.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 35705,
+      "kadar_kelahiran_kasar": 19.2
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 13583,
+      "kadar_kelahiran_kasar": 13.2
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 16570,
+      "kadar_kelahiran_kasar": 13.5
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 24162,
+      "kadar_kelahiran_kasar": 14.7
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perak",
+      "kelahiran_hidup": 30759,
+      "kadar_kelahiran_kasar": 12.1
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 3878,
+      "kadar_kelahiran_kasar": 13.2
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 19579,
+      "kadar_kelahiran_kasar": 11
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 46412,
+      "kadar_kelahiran_kasar": 12.9
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 33920,
+      "kadar_kelahiran_kasar": 13.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 90535,
+      "kadar_kelahiran_kasar": 12.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 26127,
+      "kadar_kelahiran_kasar": 21.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 21442,
+      "kadar_kelahiran_kasar": 10.7
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1409,
+      "kadar_kelahiran_kasar": 14.2
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 1713,
+      "kadar_kelahiran_kasar": 14.4
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Johor",
+      "kelahiran_hidup": 51011,
+      "kadar_kelahiran_kasar": 12.2
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 30622,
+      "kadar_kelahiran_kasar": 13.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 31861,
+      "kadar_kelahiran_kasar": 16.9
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 12544,
+      "kadar_kelahiran_kasar": 12
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 14718,
+      "kadar_kelahiran_kasar": 11.9
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 21505,
+      "kadar_kelahiran_kasar": 12.9
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perak",
+      "kelahiran_hidup": 27616,
+      "kadar_kelahiran_kasar": 10.7
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 3569,
+      "kadar_kelahiran_kasar": 12
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 18174,
+      "kadar_kelahiran_kasar": 10.1
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 42068,
+      "kadar_kelahiran_kasar": 11.2
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 30257,
+      "kadar_kelahiran_kasar": 12
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 83174,
+      "kadar_kelahiran_kasar": 11.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 23712,
+      "kadar_kelahiran_kasar": 19.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 21229,
+      "kadar_kelahiran_kasar": 10.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1310,
+      "kadar_kelahiran_kasar": 13
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 1548,
+      "kadar_kelahiran_kasar": 12.9
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Johor",
+      "kelahiran_hidup": 48093,
+      "kadar_kelahiran_kasar": 11.4
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kedah",
+      "kelahiran_hidup": 30163,
+      "kadar_kelahiran_kasar": 13.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kelantan",
+      "kelahiran_hidup": 31858,
+      "kadar_kelahiran_kasar": 16.7
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Melaka",
+      "kelahiran_hidup": 11860,
+      "kadar_kelahiran_kasar": 11.3
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Negeri Sembilan",
+      "kelahiran_hidup": 14141,
+      "kadar_kelahiran_kasar": 11.4
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pahang",
+      "kelahiran_hidup": 20654,
+      "kadar_kelahiran_kasar": 12.3
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Perak",
+      "kelahiran_hidup": 26275,
+      "kadar_kelahiran_kasar": 10.2
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Perlis",
+      "kelahiran_hidup": 3508,
+      "kadar_kelahiran_kasar": 11.8
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pulau Pinang",
+      "kelahiran_hidup": 16722,
+      "kadar_kelahiran_kasar": 9.3
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sabah",
+      "kelahiran_hidup": 40768,
+      "kadar_kelahiran_kasar": 10.9
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sarawak",
+      "kelahiran_hidup": 28678,
+      "kadar_kelahiran_kasar": 11.3
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Selangor",
+      "kelahiran_hidup": 78164,
+      "kadar_kelahiran_kasar": 10.6
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Terengganu",
+      "kelahiran_hidup": 23292,
+      "kadar_kelahiran_kasar": 18.7
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Kuala Lumpur",
+      "kelahiran_hidup": 19430,
+      "kadar_kelahiran_kasar": 9.4
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Labuan",
+      "kelahiran_hidup": 1147,
+      "kadar_kelahiran_kasar": 11.4
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Putrajaya",
+      "kelahiran_hidup": 1422,
+      "kadar_kelahiran_kasar": 11.8
+    }
+  ],
+  "meta": {
+    "title": "Kelahiran Hidup Tahunan mengikut Negeri (2000–2025) - Muat turun percuma",
+    "description": "Bilangan kelahiran hidup dan kadar kelahiran kasar (setiap 1,000 penduduk) mengikut negeri di Malaysia dari tahun 2000 hingga 2025, data Jabatan Perangkaan Malaysia (DOSM). Mengandungi 406 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kelahiran Hidup Tahunan mengikut Negeri (2000–2025) | ListBase",
+    "seo_description": "Muat turun Kelahiran Hidup Tahunan mengikut Negeri (2000–2025) — 406 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 406 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/births_annual_state"
+    ]
+  }
+}
