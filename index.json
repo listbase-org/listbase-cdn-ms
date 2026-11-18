@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-18T02:30:13.655Z",
-  "total_datasets": 735,
-  "total_records": 558965,
+  "generated": "2026-11-18T02:30:25.324Z",
+  "total_datasets": 736,
+  "total_records": 559225,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 27
+      "dataset_count": 28
     },
     {
       "id": "history",
@@ -5275,6 +5275,34 @@
         "xlsx": {
           "name": "ms-pahang-fasiliti-kesihatan_MS.xlsx",
           "size": 41685
+        }
+      }
+    },
+    {
+      "id": "ms-pendermaan-darah-negeri-tahunan",
+      "name": "Pendermaan Darah Tahunan mengikut Negeri dan Kumpulan Darah (2006–2025)",
+      "category": "health",
+      "record_count": 260,
+      "columns": [
+        "tahun",
+        "negeri",
+        "jumlah_pendermaan",
+        "darah_a",
+        "darah_b",
+        "darah_o",
+        "darah_ab"
+      ],
+      "source": "https://data.gov.my/data-catalogue/blood_donations_state",
+      "updated": "2026-11",
+      "size": 51209,
+      "files": {
+        "csv": {
+          "name": "ms-pendermaan-darah-negeri-tahunan_MS.csv",
+          "size": 14250
+        },
+        "xlsx": {
+          "name": "ms-pendermaan-darah-negeri-tahunan_MS.xlsx",
+          "size": 16982
         }
       }
     },

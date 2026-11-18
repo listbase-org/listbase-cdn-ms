@@ -1,0 +1,2401 @@
+{
+  "id": "ms-pendermaan-darah-negeri-tahunan",
+  "name": "Pendermaan Darah Tahunan mengikut Negeri dan Kumpulan Darah (2006–2025)",
+  "title": "Pendermaan Darah Tahunan mengikut Negeri dan Kumpulan Darah (2006–2025)",
+  "description": "Jumlah pendermaan darah setahun mengikut negeri dan kumpulan darah (A, B, O, AB) di Malaysia dari 2006 hingga 2025, dijumlahkan daripada data harian Kementerian Kesihatan Malaysia di data.gov.my.",
+  "category": "health",
+  "source": "https://data.gov.my/data-catalogue/blood_donations_state",
+  "source_url": "https://data.gov.my/data-catalogue/blood_donations_state",
+  "updated": "2026-11",
+  "record_count": 260,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "jumlah_pendermaan",
+      "label": "Jumlah Pendermaan",
+      "type": "number"
+    },
+    {
+      "key": "darah_a",
+      "label": "Darah A",
+      "type": "number"
+    },
+    {
+      "key": "darah_b",
+      "label": "Darah B",
+      "type": "number"
+    },
+    {
+      "key": "darah_o",
+      "label": "Darah O",
+      "type": "number"
+    },
+    {
+      "key": "darah_ab",
+      "label": "Darah Ab",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 2006,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 8487,
+      "darah_a": 2131,
+      "darah_b": 2238,
+      "darah_o": 3581,
+      "darah_ab": 537
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 30056,
+      "darah_a": 7686,
+      "darah_b": 8435,
+      "darah_o": 11671,
+      "darah_ab": 2264
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 5328,
+      "darah_a": 1263,
+      "darah_b": 1457,
+      "darah_o": 2241,
+      "darah_ab": 367
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 6976,
+      "darah_a": 1744,
+      "darah_b": 1844,
+      "darah_o": 2916,
+      "darah_ab": 472
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 3887,
+      "darah_a": 972,
+      "darah_b": 1022,
+      "darah_o": 1634,
+      "darah_ab": 259
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 3258,
+      "darah_a": 841,
+      "darah_b": 903,
+      "darah_o": 1294,
+      "darah_ab": 220
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 53,
+      "darah_a": 16,
+      "darah_b": 13,
+      "darah_o": 22,
+      "darah_ab": 2
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 0,
+      "darah_a": 0,
+      "darah_b": 0,
+      "darah_o": 0,
+      "darah_ab": 0
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 2936,
+      "darah_a": 633,
+      "darah_b": 652,
+      "darah_o": 1521,
+      "darah_ab": 130
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 121,
+      "darah_a": 35,
+      "darah_b": 40,
+      "darah_o": 41,
+      "darah_ab": 5
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 3975,
+      "darah_a": 941,
+      "darah_b": 1118,
+      "darah_o": 1658,
+      "darah_ab": 258
+    },
+    {
+      "tahun": 2006,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 20341,
+      "darah_a": 5177,
+      "darah_b": 5742,
+      "darah_o": 7959,
+      "darah_ab": 1463
+    },
+    {
+      "tahun": 2006,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 133474,
+      "darah_a": 33591,
+      "darah_b": 36140,
+      "darah_o": 54955,
+      "darah_ab": 8783
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 6462,
+      "darah_a": 1528,
+      "darah_b": 1742,
+      "darah_o": 2757,
+      "darah_ab": 435
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 27126,
+      "darah_a": 6859,
+      "darah_b": 7789,
+      "darah_o": 10469,
+      "darah_ab": 2009
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 9786,
+      "darah_a": 2492,
+      "darah_b": 2607,
+      "darah_o": 4042,
+      "darah_ab": 645
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 24078,
+      "darah_a": 6111,
+      "darah_b": 6420,
+      "darah_o": 9926,
+      "darah_ab": 1621
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 13284,
+      "darah_a": 3299,
+      "darah_b": 3624,
+      "darah_o": 5517,
+      "darah_ab": 844
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 3237,
+      "darah_a": 844,
+      "darah_b": 887,
+      "darah_o": 1270,
+      "darah_ab": 236
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 53,
+      "darah_a": 20,
+      "darah_b": 14,
+      "darah_o": 15,
+      "darah_ab": 4
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 0,
+      "darah_a": 0,
+      "darah_b": 0,
+      "darah_o": 0,
+      "darah_ab": 0
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 12706,
+      "darah_a": 2730,
+      "darah_b": 3004,
+      "darah_o": 6340,
+      "darah_ab": 632
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 180,
+      "darah_a": 46,
+      "darah_b": 52,
+      "darah_o": 74,
+      "darah_ab": 8
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 18184,
+      "darah_a": 4497,
+      "darah_b": 5093,
+      "darah_o": 7413,
+      "darah_ab": 1181
+    },
+    {
+      "tahun": 2007,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 18682,
+      "darah_a": 4739,
+      "darah_b": 5445,
+      "darah_o": 7189,
+      "darah_ab": 1309
+    },
+    {
+      "tahun": 2007,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 145600,
+      "darah_a": 36417,
+      "darah_b": 39731,
+      "darah_o": 59905,
+      "darah_ab": 9541
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 9336,
+      "darah_a": 2258,
+      "darah_b": 2523,
+      "darah_o": 3960,
+      "darah_ab": 595
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 42739,
+      "darah_a": 10698,
+      "darah_b": 12129,
+      "darah_o": 16848,
+      "darah_ab": 3064
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 11308,
+      "darah_a": 2793,
+      "darah_b": 2996,
+      "darah_o": 4703,
+      "darah_ab": 816
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 26107,
+      "darah_a": 6574,
+      "darah_b": 7086,
+      "darah_o": 10799,
+      "darah_ab": 1648
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 13723,
+      "darah_a": 3413,
+      "darah_b": 3787,
+      "darah_o": 5645,
+      "darah_ab": 878
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 3140,
+      "darah_a": 790,
+      "darah_b": 917,
+      "darah_o": 1230,
+      "darah_ab": 203
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 23714,
+      "darah_a": 5960,
+      "darah_b": 6570,
+      "darah_o": 9586,
+      "darah_ab": 1598
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 0,
+      "darah_a": 0,
+      "darah_b": 0,
+      "darah_o": 0,
+      "darah_ab": 0
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 18820,
+      "darah_a": 4170,
+      "darah_b": 4544,
+      "darah_o": 9150,
+      "darah_ab": 955
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 12532,
+      "darah_a": 2953,
+      "darah_b": 3550,
+      "darah_o": 5198,
+      "darah_ab": 831
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 17769,
+      "darah_a": 4393,
+      "darah_b": 5019,
+      "darah_o": 7158,
+      "darah_ab": 1199
+    },
+    {
+      "tahun": 2008,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 13774,
+      "darah_a": 3488,
+      "darah_b": 3974,
+      "darah_o": 5313,
+      "darah_ab": 999
+    },
+    {
+      "tahun": 2008,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 155405,
+      "darah_a": 38873,
+      "darah_b": 42619,
+      "darah_o": 63732,
+      "darah_ab": 10177
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 25702,
+      "darah_a": 6384,
+      "darah_b": 6881,
+      "darah_o": 10885,
+      "darah_ab": 1551
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 44862,
+      "darah_a": 11235,
+      "darah_b": 12816,
+      "darah_o": 17691,
+      "darah_ab": 3118
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 11520,
+      "darah_a": 3046,
+      "darah_b": 3039,
+      "darah_o": 4679,
+      "darah_ab": 756
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 26653,
+      "darah_a": 6809,
+      "darah_b": 7163,
+      "darah_o": 10940,
+      "darah_ab": 1741
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 13001,
+      "darah_a": 3268,
+      "darah_b": 3558,
+      "darah_o": 5327,
+      "darah_ab": 848
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 3414,
+      "darah_a": 914,
+      "darah_b": 953,
+      "darah_o": 1303,
+      "darah_ab": 244
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 26092,
+      "darah_a": 6499,
+      "darah_b": 7184,
+      "darah_o": 10689,
+      "darah_ab": 1720
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 0,
+      "darah_a": 0,
+      "darah_b": 0,
+      "darah_o": 0,
+      "darah_ab": 0
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 19571,
+      "darah_a": 4403,
+      "darah_b": 4609,
+      "darah_o": 9603,
+      "darah_ab": 956
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 15843,
+      "darah_a": 3834,
+      "darah_b": 4460,
+      "darah_o": 6509,
+      "darah_ab": 1040
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 21668,
+      "darah_a": 5419,
+      "darah_b": 5992,
+      "darah_o": 8800,
+      "darah_ab": 1457
+    },
+    {
+      "tahun": 2009,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 14262,
+      "darah_a": 3602,
+      "darah_b": 4163,
+      "darah_o": 5499,
+      "darah_ab": 998
+    },
+    {
+      "tahun": 2009,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 162692,
+      "darah_a": 40653,
+      "darah_b": 44319,
+      "darah_o": 66872,
+      "darah_ab": 10844
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 32535,
+      "darah_a": 7891,
+      "darah_b": 8832,
+      "darah_o": 13702,
+      "darah_ab": 2110
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 47301,
+      "darah_a": 11939,
+      "darah_b": 13261,
+      "darah_o": 18777,
+      "darah_ab": 3323
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 12607,
+      "darah_a": 3041,
+      "darah_b": 3672,
+      "darah_o": 4961,
+      "darah_ab": 933
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 27341,
+      "darah_a": 7034,
+      "darah_b": 7358,
+      "darah_o": 11217,
+      "darah_ab": 1732
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 14111,
+      "darah_a": 3490,
+      "darah_b": 3839,
+      "darah_o": 5852,
+      "darah_ab": 930
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 3322,
+      "darah_a": 876,
+      "darah_b": 932,
+      "darah_o": 1277,
+      "darah_ab": 237
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 28340,
+      "darah_a": 7059,
+      "darah_b": 7909,
+      "darah_o": 11537,
+      "darah_ab": 1835
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 0,
+      "darah_a": 0,
+      "darah_b": 0,
+      "darah_o": 0,
+      "darah_ab": 0
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 18483,
+      "darah_a": 4092,
+      "darah_b": 4411,
+      "darah_o": 9031,
+      "darah_ab": 949
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 16798,
+      "darah_a": 4031,
+      "darah_b": 4871,
+      "darah_o": 6750,
+      "darah_ab": 1146
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 24769,
+      "darah_a": 6220,
+      "darah_b": 6842,
+      "darah_o": 10109,
+      "darah_ab": 1597
+    },
+    {
+      "tahun": 2010,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 14610,
+      "darah_a": 3635,
+      "darah_b": 4239,
+      "darah_o": 5733,
+      "darah_ab": 1003
+    },
+    {
+      "tahun": 2010,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 152946,
+      "darah_a": 38073,
+      "darah_b": 41527,
+      "darah_o": 63126,
+      "darah_ab": 10213
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 32812,
+      "darah_a": 8092,
+      "darah_b": 8982,
+      "darah_o": 14006,
+      "darah_ab": 1732
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 53314,
+      "darah_a": 13559,
+      "darah_b": 14899,
+      "darah_o": 21127,
+      "darah_ab": 3729
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 10916,
+      "darah_a": 2650,
+      "darah_b": 3121,
+      "darah_o": 4359,
+      "darah_ab": 786
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 27532,
+      "darah_a": 6885,
+      "darah_b": 7402,
+      "darah_o": 11450,
+      "darah_ab": 1795
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 14498,
+      "darah_a": 3676,
+      "darah_b": 3951,
+      "darah_o": 5860,
+      "darah_ab": 1011
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 7458,
+      "darah_a": 1950,
+      "darah_b": 2082,
+      "darah_o": 2956,
+      "darah_ab": 470
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 32125,
+      "darah_a": 8170,
+      "darah_b": 8939,
+      "darah_o": 12910,
+      "darah_ab": 2106
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 0,
+      "darah_a": 0,
+      "darah_b": 0,
+      "darah_o": 0,
+      "darah_ab": 0
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 20253,
+      "darah_a": 4501,
+      "darah_b": 4797,
+      "darah_o": 9878,
+      "darah_ab": 1077
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 16542,
+      "darah_a": 3991,
+      "darah_b": 4842,
+      "darah_o": 6618,
+      "darah_ab": 1091
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 25947,
+      "darah_a": 6448,
+      "darah_b": 7203,
+      "darah_o": 10578,
+      "darah_ab": 1718
+    },
+    {
+      "tahun": 2011,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 14803,
+      "darah_a": 3710,
+      "darah_b": 4384,
+      "darah_o": 5720,
+      "darah_ab": 989
+    },
+    {
+      "tahun": 2011,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 160551,
+      "darah_a": 40225,
+      "darah_b": 43528,
+      "darah_o": 66188,
+      "darah_ab": 10603
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 34180,
+      "darah_a": 8642,
+      "darah_b": 9231,
+      "darah_o": 14512,
+      "darah_ab": 1794
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 53664,
+      "darah_a": 13610,
+      "darah_b": 15186,
+      "darah_o": 21085,
+      "darah_ab": 3783
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 9052,
+      "darah_a": 2400,
+      "darah_b": 2609,
+      "darah_o": 3359,
+      "darah_ab": 683
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 27807,
+      "darah_a": 7081,
+      "darah_b": 7445,
+      "darah_o": 11443,
+      "darah_ab": 1838
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 14299,
+      "darah_a": 3607,
+      "darah_b": 3986,
+      "darah_o": 5750,
+      "darah_ab": 956
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 12587,
+      "darah_a": 3181,
+      "darah_b": 3481,
+      "darah_o": 5054,
+      "darah_ab": 871
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 33604,
+      "darah_a": 8571,
+      "darah_b": 9256,
+      "darah_o": 13617,
+      "darah_ab": 2160
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 0,
+      "darah_a": 0,
+      "darah_b": 0,
+      "darah_o": 0,
+      "darah_ab": 0
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 21333,
+      "darah_a": 4822,
+      "darah_b": 5100,
+      "darah_o": 10282,
+      "darah_ab": 1129
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 17072,
+      "darah_a": 4161,
+      "darah_b": 4937,
+      "darah_o": 6815,
+      "darah_ab": 1159
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 24383,
+      "darah_a": 6151,
+      "darah_b": 6812,
+      "darah_o": 9846,
+      "darah_ab": 1574
+    },
+    {
+      "tahun": 2012,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 14718,
+      "darah_a": 3574,
+      "darah_b": 4234,
+      "darah_o": 5849,
+      "darah_ab": 1061
+    },
+    {
+      "tahun": 2012,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 162027,
+      "darah_a": 40811,
+      "darah_b": 43828,
+      "darah_o": 66722,
+      "darah_ab": 10657
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 34370,
+      "darah_a": 8670,
+      "darah_b": 9364,
+      "darah_o": 14514,
+      "darah_ab": 1822
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 54989,
+      "darah_a": 13998,
+      "darah_b": 15556,
+      "darah_o": 21605,
+      "darah_ab": 3830
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 10351,
+      "darah_a": 2663,
+      "darah_b": 2944,
+      "darah_o": 4035,
+      "darah_ab": 709
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 29156,
+      "darah_a": 7352,
+      "darah_b": 7860,
+      "darah_o": 12024,
+      "darah_ab": 1920
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 15834,
+      "darah_a": 4005,
+      "darah_b": 4284,
+      "darah_o": 6529,
+      "darah_ab": 1016
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 11491,
+      "darah_a": 2891,
+      "darah_b": 3195,
+      "darah_o": 4592,
+      "darah_ab": 812
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 38515,
+      "darah_a": 9771,
+      "darah_b": 10641,
+      "darah_o": 15628,
+      "darah_ab": 2475
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 0,
+      "darah_a": 0,
+      "darah_b": 0,
+      "darah_o": 0,
+      "darah_ab": 0
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 22326,
+      "darah_a": 4912,
+      "darah_b": 5161,
+      "darah_o": 11164,
+      "darah_ab": 1089
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 19548,
+      "darah_a": 4699,
+      "darah_b": 5684,
+      "darah_o": 7890,
+      "darah_ab": 1275
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 22589,
+      "darah_a": 5647,
+      "darah_b": 6232,
+      "darah_o": 9273,
+      "darah_ab": 1436
+    },
+    {
+      "tahun": 2013,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 13915,
+      "darah_a": 3528,
+      "darah_b": 3948,
+      "darah_o": 5374,
+      "darah_ab": 1065
+    },
+    {
+      "tahun": 2013,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 166823,
+      "darah_a": 41884,
+      "darah_b": 45325,
+      "darah_o": 68726,
+      "darah_ab": 10876
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 35820,
+      "darah_a": 8946,
+      "darah_b": 9689,
+      "darah_o": 15034,
+      "darah_ab": 2151
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 57014,
+      "darah_a": 14471,
+      "darah_b": 16242,
+      "darah_o": 22294,
+      "darah_ab": 4007
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 10504,
+      "darah_a": 2748,
+      "darah_b": 3124,
+      "darah_o": 3885,
+      "darah_ab": 747
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 28079,
+      "darah_a": 7115,
+      "darah_b": 7580,
+      "darah_o": 11561,
+      "darah_ab": 1823
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 14785,
+      "darah_a": 3760,
+      "darah_b": 3930,
+      "darah_o": 6117,
+      "darah_ab": 978
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 11550,
+      "darah_a": 2834,
+      "darah_b": 3264,
+      "darah_o": 4673,
+      "darah_ab": 779
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 38455,
+      "darah_a": 9644,
+      "darah_b": 10650,
+      "darah_o": 15589,
+      "darah_ab": 2572
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 27069,
+      "darah_a": 6855,
+      "darah_b": 7311,
+      "darah_o": 11169,
+      "darah_ab": 1734
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 22507,
+      "darah_a": 4925,
+      "darah_b": 5229,
+      "darah_o": 11251,
+      "darah_ab": 1102
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 28731,
+      "darah_a": 6858,
+      "darah_b": 8218,
+      "darah_o": 11685,
+      "darah_ab": 1970
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 24102,
+      "darah_a": 6019,
+      "darah_b": 6577,
+      "darah_o": 9935,
+      "darah_ab": 1571
+    },
+    {
+      "tahun": 2014,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 13930,
+      "darah_a": 3550,
+      "darah_b": 4025,
+      "darah_o": 5390,
+      "darah_ab": 965
+    },
+    {
+      "tahun": 2014,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 175260,
+      "darah_a": 43626,
+      "darah_b": 47957,
+      "darah_o": 72212,
+      "darah_ab": 11456
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 36912,
+      "darah_a": 9014,
+      "darah_b": 10041,
+      "darah_o": 15868,
+      "darah_ab": 1989
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 59888,
+      "darah_a": 15103,
+      "darah_b": 16994,
+      "darah_o": 23624,
+      "darah_ab": 4167
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 15468,
+      "darah_a": 4346,
+      "darah_b": 4192,
+      "darah_o": 5861,
+      "darah_ab": 1069
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 28539,
+      "darah_a": 7201,
+      "darah_b": 7646,
+      "darah_o": 11810,
+      "darah_ab": 1882
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 17011,
+      "darah_a": 4272,
+      "darah_b": 4611,
+      "darah_o": 7009,
+      "darah_ab": 1119
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 11677,
+      "darah_a": 2940,
+      "darah_b": 3266,
+      "darah_o": 4644,
+      "darah_ab": 827
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 39803,
+      "darah_a": 10079,
+      "darah_b": 11011,
+      "darah_o": 16101,
+      "darah_ab": 2612
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 40913,
+      "darah_a": 10421,
+      "darah_b": 10905,
+      "darah_o": 16979,
+      "darah_ab": 2608
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 23781,
+      "darah_a": 5183,
+      "darah_b": 5512,
+      "darah_o": 11918,
+      "darah_ab": 1168
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 37478,
+      "darah_a": 9217,
+      "darah_b": 10588,
+      "darah_o": 15036,
+      "darah_ab": 2637
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 25210,
+      "darah_a": 6186,
+      "darah_b": 7065,
+      "darah_o": 10293,
+      "darah_ab": 1665
+    },
+    {
+      "tahun": 2015,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 15283,
+      "darah_a": 3860,
+      "darah_b": 4410,
+      "darah_o": 5956,
+      "darah_ab": 1057
+    },
+    {
+      "tahun": 2015,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 183859,
+      "darah_a": 46093,
+      "darah_b": 50462,
+      "darah_o": 75568,
+      "darah_ab": 11729
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 30601,
+      "darah_a": 7589,
+      "darah_b": 8088,
+      "darah_o": 13188,
+      "darah_ab": 1736
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 58750,
+      "darah_a": 14555,
+      "darah_b": 16534,
+      "darah_o": 23569,
+      "darah_ab": 4092
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 15111,
+      "darah_a": 4024,
+      "darah_b": 4160,
+      "darah_o": 5905,
+      "darah_ab": 1022
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 29942,
+      "darah_a": 7743,
+      "darah_b": 7925,
+      "darah_o": 12341,
+      "darah_ab": 1933
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 17955,
+      "darah_a": 4390,
+      "darah_b": 4926,
+      "darah_o": 7465,
+      "darah_ab": 1174
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 10995,
+      "darah_a": 2709,
+      "darah_b": 3114,
+      "darah_o": 4365,
+      "darah_ab": 807
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 41848,
+      "darah_a": 10417,
+      "darah_b": 11473,
+      "darah_o": 17189,
+      "darah_ab": 2769
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 42515,
+      "darah_a": 10811,
+      "darah_b": 11595,
+      "darah_o": 17301,
+      "darah_ab": 2808
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 29269,
+      "darah_a": 6510,
+      "darah_b": 6973,
+      "darah_o": 14320,
+      "darah_ab": 1466
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 35965,
+      "darah_a": 8824,
+      "darah_b": 10242,
+      "darah_o": 14342,
+      "darah_ab": 2557
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 24986,
+      "darah_a": 6055,
+      "darah_b": 6901,
+      "darah_o": 10346,
+      "darah_ab": 1683
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 15308,
+      "darah_a": 3843,
+      "darah_b": 4366,
+      "darah_o": 6013,
+      "darah_ab": 1086
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 180044,
+      "darah_a": 45022,
+      "darah_b": 49153,
+      "darah_o": 75022,
+      "darah_ab": 10835
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 34549,
+      "darah_a": 8529,
+      "darah_b": 9202,
+      "darah_o": 15020,
+      "darah_ab": 1797
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 61386,
+      "darah_a": 15327,
+      "darah_b": 17390,
+      "darah_o": 24293,
+      "darah_ab": 4376
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 35,
+      "darah_a": 11,
+      "darah_b": 13,
+      "darah_o": 8,
+      "darah_ab": 3
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 30233,
+      "darah_a": 7755,
+      "darah_b": 7816,
+      "darah_o": 12741,
+      "darah_ab": 1921
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 17111,
+      "darah_a": 4161,
+      "darah_b": 4579,
+      "darah_o": 7256,
+      "darah_ab": 1115
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 9552,
+      "darah_a": 2507,
+      "darah_b": 2628,
+      "darah_o": 3743,
+      "darah_ab": 674
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 41975,
+      "darah_a": 10516,
+      "darah_b": 11537,
+      "darah_o": 17141,
+      "darah_ab": 2781
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 41597,
+      "darah_a": 10522,
+      "darah_b": 11205,
+      "darah_o": 17251,
+      "darah_ab": 2619
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 33767,
+      "darah_a": 7521,
+      "darah_b": 8221,
+      "darah_o": 16393,
+      "darah_ab": 1632
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 36617,
+      "darah_a": 9054,
+      "darah_b": 10416,
+      "darah_o": 14630,
+      "darah_ab": 2517
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 26016,
+      "darah_a": 6404,
+      "darah_b": 7203,
+      "darah_o": 10702,
+      "darah_ab": 1706
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 15684,
+      "darah_a": 3930,
+      "darah_b": 4491,
+      "darah_o": 6159,
+      "darah_ab": 1104
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 180602,
+      "darah_a": 45903,
+      "darah_b": 49122,
+      "darah_o": 74730,
+      "darah_ab": 10838
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 36684,
+      "darah_a": 8971,
+      "darah_b": 9847,
+      "darah_o": 15899,
+      "darah_ab": 1967
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 61869,
+      "darah_a": 15399,
+      "darah_b": 17393,
+      "darah_o": 24773,
+      "darah_ab": 4304
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 14508,
+      "darah_a": 3890,
+      "darah_b": 3979,
+      "darah_o": 5635,
+      "darah_ab": 1004
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 30170,
+      "darah_a": 7679,
+      "darah_b": 7950,
+      "darah_o": 12646,
+      "darah_ab": 1895
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 16976,
+      "darah_a": 4108,
+      "darah_b": 4676,
+      "darah_o": 7150,
+      "darah_ab": 1042
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 7095,
+      "darah_a": 1799,
+      "darah_b": 1940,
+      "darah_o": 2890,
+      "darah_ab": 466
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 44062,
+      "darah_a": 10747,
+      "darah_b": 12062,
+      "darah_o": 18391,
+      "darah_ab": 2861
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 43769,
+      "darah_a": 11011,
+      "darah_b": 11847,
+      "darah_o": 18105,
+      "darah_ab": 2806
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 33850,
+      "darah_a": 7632,
+      "darah_b": 8132,
+      "darah_o": 16490,
+      "darah_ab": 1596
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 37290,
+      "darah_a": 8956,
+      "darah_b": 10574,
+      "darah_o": 15100,
+      "darah_ab": 2660
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 26932,
+      "darah_a": 6572,
+      "darah_b": 7330,
+      "darah_o": 11315,
+      "darah_ab": 1714
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 17873,
+      "darah_a": 4329,
+      "darah_b": 5122,
+      "darah_o": 7153,
+      "darah_ab": 1268
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 194026,
+      "darah_a": 49019,
+      "darah_b": 52628,
+      "darah_o": 80685,
+      "darah_ab": 11681
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 41261,
+      "darah_a": 10275,
+      "darah_b": 11050,
+      "darah_o": 17808,
+      "darah_ab": 2127
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 42506,
+      "darah_a": 10536,
+      "darah_b": 11983,
+      "darah_o": 17116,
+      "darah_ab": 2871
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 11583,
+      "darah_a": 3066,
+      "darah_b": 3053,
+      "darah_o": 4654,
+      "darah_ab": 809
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 30233,
+      "darah_a": 7792,
+      "darah_b": 7793,
+      "darah_o": 12815,
+      "darah_ab": 1833
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 18306,
+      "darah_a": 4463,
+      "darah_b": 4966,
+      "darah_o": 7796,
+      "darah_ab": 1081
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 15810,
+      "darah_a": 3873,
+      "darah_b": 4447,
+      "darah_o": 6455,
+      "darah_ab": 1035
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 41032,
+      "darah_a": 10355,
+      "darah_b": 11158,
+      "darah_o": 16945,
+      "darah_ab": 2574
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 43448,
+      "darah_a": 10882,
+      "darah_b": 11356,
+      "darah_o": 18406,
+      "darah_ab": 2804
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 36156,
+      "darah_a": 8121,
+      "darah_b": 8674,
+      "darah_o": 17677,
+      "darah_ab": 1684
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 37567,
+      "darah_a": 9054,
+      "darah_b": 10829,
+      "darah_o": 15034,
+      "darah_ab": 2650
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 28065,
+      "darah_a": 6850,
+      "darah_b": 7573,
+      "darah_o": 11830,
+      "darah_ab": 1811
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 16304,
+      "darah_a": 3932,
+      "darah_b": 4631,
+      "darah_o": 6576,
+      "darah_ab": 1164
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 198506,
+      "darah_a": 50209,
+      "darah_b": 53953,
+      "darah_o": 82963,
+      "darah_ab": 11369
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 40705,
+      "darah_a": 9925,
+      "darah_b": 10993,
+      "darah_o": 17689,
+      "darah_ab": 2095
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 18876,
+      "darah_a": 4647,
+      "darah_b": 5287,
+      "darah_o": 7669,
+      "darah_ab": 1273
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 12757,
+      "darah_a": 3401,
+      "darah_b": 3358,
+      "darah_o": 5130,
+      "darah_ab": 868
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 27536,
+      "darah_a": 7069,
+      "darah_b": 7319,
+      "darah_o": 11457,
+      "darah_ab": 1691
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 16398,
+      "darah_a": 3990,
+      "darah_b": 4526,
+      "darah_o": 6899,
+      "darah_ab": 983
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 22155,
+      "darah_a": 5720,
+      "darah_b": 6269,
+      "darah_o": 8785,
+      "darah_ab": 1381
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 40086,
+      "darah_a": 9920,
+      "darah_b": 10923,
+      "darah_o": 16682,
+      "darah_ab": 2561
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 36512,
+      "darah_a": 9034,
+      "darah_b": 9812,
+      "darah_o": 15464,
+      "darah_ab": 2202
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 34069,
+      "darah_a": 7576,
+      "darah_b": 8235,
+      "darah_o": 16575,
+      "darah_ab": 1683
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 33960,
+      "darah_a": 7923,
+      "darah_b": 9684,
+      "darah_o": 14077,
+      "darah_ab": 2276
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 29234,
+      "darah_a": 7120,
+      "darah_b": 7795,
+      "darah_o": 12492,
+      "darah_ab": 1825
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 15361,
+      "darah_a": 3769,
+      "darah_b": 4325,
+      "darah_o": 6184,
+      "darah_ab": 1083
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 169941,
+      "darah_a": 42859,
+      "darah_b": 45808,
+      "darah_o": 71756,
+      "darah_ab": 9507
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 40409,
+      "darah_a": 9743,
+      "darah_b": 10874,
+      "darah_o": 17626,
+      "darah_ab": 2162
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 19946,
+      "darah_a": 4851,
+      "darah_b": 5692,
+      "darah_o": 8169,
+      "darah_ab": 1234
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 12095,
+      "darah_a": 3147,
+      "darah_b": 3205,
+      "darah_o": 4823,
+      "darah_ab": 920
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 27956,
+      "darah_a": 7085,
+      "darah_b": 7471,
+      "darah_o": 11612,
+      "darah_ab": 1788
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 14935,
+      "darah_a": 3608,
+      "darah_b": 4072,
+      "darah_o": 6397,
+      "darah_ab": 858
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 22828,
+      "darah_a": 5766,
+      "darah_b": 6382,
+      "darah_o": 9240,
+      "darah_ab": 1440
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 43151,
+      "darah_a": 10385,
+      "darah_b": 11602,
+      "darah_o": 18574,
+      "darah_ab": 2589
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 35211,
+      "darah_a": 8719,
+      "darah_b": 9528,
+      "darah_o": 14887,
+      "darah_ab": 2077
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 31210,
+      "darah_a": 6838,
+      "darah_b": 7540,
+      "darah_o": 15362,
+      "darah_ab": 1470
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 35783,
+      "darah_a": 8278,
+      "darah_b": 10286,
+      "darah_o": 14912,
+      "darah_ab": 2307
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 26094,
+      "darah_a": 6267,
+      "darah_b": 6987,
+      "darah_o": 11334,
+      "darah_ab": 1503
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 16180,
+      "darah_a": 3957,
+      "darah_b": 4512,
+      "darah_o": 6555,
+      "darah_ab": 1156
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 173967,
+      "darah_a": 43319,
+      "darah_b": 47724,
+      "darah_o": 73648,
+      "darah_ab": 9264
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 42832,
+      "darah_a": 10551,
+      "darah_b": 11571,
+      "darah_o": 18564,
+      "darah_ab": 2146
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 21128,
+      "darah_a": 5212,
+      "darah_b": 5944,
+      "darah_o": 8645,
+      "darah_ab": 1327
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 15060,
+      "darah_a": 4043,
+      "darah_b": 3837,
+      "darah_o": 6167,
+      "darah_ab": 1012
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 30510,
+      "darah_a": 7679,
+      "darah_b": 8114,
+      "darah_o": 12924,
+      "darah_ab": 1793
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 15917,
+      "darah_a": 3973,
+      "darah_b": 4243,
+      "darah_o": 6931,
+      "darah_ab": 770
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 23851,
+      "darah_a": 6069,
+      "darah_b": 6610,
+      "darah_o": 9710,
+      "darah_ab": 1460
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 46498,
+      "darah_a": 11525,
+      "darah_b": 12675,
+      "darah_o": 19412,
+      "darah_ab": 2883
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 38420,
+      "darah_a": 9591,
+      "darah_b": 10335,
+      "darah_o": 16150,
+      "darah_ab": 2344
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 35530,
+      "darah_a": 8033,
+      "darah_b": 8760,
+      "darah_o": 16987,
+      "darah_ab": 1750
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 40129,
+      "darah_a": 9567,
+      "darah_b": 11391,
+      "darah_o": 16643,
+      "darah_ab": 2526
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 29313,
+      "darah_a": 7216,
+      "darah_b": 7844,
+      "darah_o": 12585,
+      "darah_ab": 1666
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 18226,
+      "darah_a": 4468,
+      "darah_b": 5080,
+      "darah_o": 7427,
+      "darah_ab": 1251
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 202413,
+      "darah_a": 50266,
+      "darah_b": 54981,
+      "darah_o": 86535,
+      "darah_ab": 10614
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 43706,
+      "darah_a": 10626,
+      "darah_b": 11663,
+      "darah_o": 19118,
+      "darah_ab": 2298
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 21564,
+      "darah_a": 5418,
+      "darah_b": 6045,
+      "darah_o": 8754,
+      "darah_ab": 1346
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 16716,
+      "darah_a": 4429,
+      "darah_b": 4541,
+      "darah_o": 6635,
+      "darah_ab": 1111
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 28445,
+      "darah_a": 7281,
+      "darah_b": 7533,
+      "darah_o": 11874,
+      "darah_ab": 1756
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 16417,
+      "darah_a": 4051,
+      "darah_b": 4378,
+      "darah_o": 7132,
+      "darah_ab": 856
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 22803,
+      "darah_a": 5801,
+      "darah_b": 6395,
+      "darah_o": 9262,
+      "darah_ab": 1343
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 46920,
+      "darah_a": 11563,
+      "darah_b": 12967,
+      "darah_o": 19597,
+      "darah_ab": 2790
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 41633,
+      "darah_a": 10234,
+      "darah_b": 11319,
+      "darah_o": 17481,
+      "darah_ab": 2599
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 39826,
+      "darah_a": 9052,
+      "darah_b": 9712,
+      "darah_o": 19064,
+      "darah_ab": 1996
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 41593,
+      "darah_a": 9986,
+      "darah_b": 11921,
+      "darah_o": 17187,
+      "darah_ab": 2499
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 30132,
+      "darah_a": 7472,
+      "darah_b": 8291,
+      "darah_o": 12809,
+      "darah_ab": 1560
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 19360,
+      "darah_a": 4687,
+      "darah_b": 5379,
+      "darah_o": 7894,
+      "darah_ab": 1398
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 206288,
+      "darah_a": 51694,
+      "darah_b": 56007,
+      "darah_o": 88057,
+      "darah_ab": 10514
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 45764,
+      "darah_a": 11132,
+      "darah_b": 12294,
+      "darah_o": 20099,
+      "darah_ab": 2239
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 20815,
+      "darah_a": 5215,
+      "darah_b": 5913,
+      "darah_o": 8405,
+      "darah_ab": 1282
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 18992,
+      "darah_a": 5080,
+      "darah_b": 4935,
+      "darah_o": 7704,
+      "darah_ab": 1273
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 29387,
+      "darah_a": 7371,
+      "darah_b": 7824,
+      "darah_o": 12353,
+      "darah_ab": 1839
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 16736,
+      "darah_a": 4183,
+      "darah_b": 4529,
+      "darah_o": 7222,
+      "darah_ab": 802
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 24200,
+      "darah_a": 6140,
+      "darah_b": 6785,
+      "darah_o": 9892,
+      "darah_ab": 1383
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 46449,
+      "darah_a": 11431,
+      "darah_b": 12588,
+      "darah_o": 19639,
+      "darah_ab": 2788
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 43035,
+      "darah_a": 10635,
+      "darah_b": 11600,
+      "darah_o": 18037,
+      "darah_ab": 2762
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 40274,
+      "darah_a": 9092,
+      "darah_b": 9782,
+      "darah_o": 19412,
+      "darah_ab": 1986
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 41861,
+      "darah_a": 10104,
+      "darah_b": 11777,
+      "darah_o": 17423,
+      "darah_ab": 2556
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 32151,
+      "darah_a": 7750,
+      "darah_b": 8856,
+      "darah_o": 13775,
+      "darah_ab": 1770
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 20769,
+      "darah_a": 5104,
+      "darah_b": 5751,
+      "darah_o": 8411,
+      "darah_ab": 1502
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 206856,
+      "darah_a": 52216,
+      "darah_b": 55843,
+      "darah_o": 88232,
+      "darah_ab": 10551
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Johor",
+      "jumlah_pendermaan": 46673,
+      "darah_a": 11271,
+      "darah_b": 12566,
+      "darah_o": 20333,
+      "darah_ab": 2503
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kedah",
+      "jumlah_pendermaan": 21610,
+      "darah_a": 5308,
+      "darah_b": 6035,
+      "darah_o": 8874,
+      "darah_ab": 1392
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kelantan",
+      "jumlah_pendermaan": 19054,
+      "darah_a": 5103,
+      "darah_b": 5033,
+      "darah_o": 7626,
+      "darah_ab": 1291
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Melaka",
+      "jumlah_pendermaan": 28845,
+      "darah_a": 7229,
+      "darah_b": 7666,
+      "darah_o": 12132,
+      "darah_ab": 1818
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Negeri Sembilan",
+      "jumlah_pendermaan": 17608,
+      "darah_a": 4354,
+      "darah_b": 4633,
+      "darah_o": 7774,
+      "darah_ab": 847
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pahang",
+      "jumlah_pendermaan": 24512,
+      "darah_a": 6153,
+      "darah_b": 6876,
+      "darah_o": 9946,
+      "darah_ab": 1536
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Perak",
+      "jumlah_pendermaan": 46620,
+      "darah_a": 11492,
+      "darah_b": 12792,
+      "darah_o": 19533,
+      "darah_ab": 2802
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pulau Pinang",
+      "jumlah_pendermaan": 42850,
+      "darah_a": 10719,
+      "darah_b": 11504,
+      "darah_o": 17955,
+      "darah_ab": 2672
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sabah",
+      "jumlah_pendermaan": 38807,
+      "darah_a": 8699,
+      "darah_b": 9306,
+      "darah_o": 18860,
+      "darah_ab": 1940
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sarawak",
+      "jumlah_pendermaan": 42246,
+      "darah_a": 10017,
+      "darah_b": 11915,
+      "darah_o": 17649,
+      "darah_ab": 2664
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Selangor",
+      "jumlah_pendermaan": 32546,
+      "darah_a": 7916,
+      "darah_b": 8865,
+      "darah_o": 14047,
+      "darah_ab": 1715
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Terengganu",
+      "jumlah_pendermaan": 21411,
+      "darah_a": 5227,
+      "darah_b": 5909,
+      "darah_o": 8780,
+      "darah_ab": 1493
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Kuala Lumpur",
+      "jumlah_pendermaan": 207084,
+      "darah_a": 51962,
+      "darah_b": 56186,
+      "darah_o": 88582,
+      "darah_ab": 10334
+    }
+  ],
+  "meta": {
+    "title": "Pendermaan Darah Tahunan mengikut Negeri dan Kumpulan Darah (2006–2025) - Muat turun percuma",
+    "description": "Jumlah pendermaan darah setahun mengikut negeri dan kumpulan darah (A, B, O, AB) di Malaysia dari 2006 hingga 2025, dijumlahkan daripada data harian Kementerian Kesihatan Malaysia di data.gov.my. Mengandungi 260 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Pendermaan Darah Tahunan mengikut Negeri dan Kumpulan Darah (2006–2025) | ListBase",
+    "seo_description": "Muat turun Pendermaan Darah Tahunan mengikut Negeri dan Kumpulan Darah (2006–2025) — 260 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 260 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/blood_donations_state"
+    ]
+  }
+}
