@@ -1,0 +1,4136 @@
+{
+  "id": "ms-kadar-tamat-pengajian-sekolah-negeri",
+  "name": "Kadar Tamat Pengajian Sekolah mengikut Negeri dan Jantina (2016–2025)",
+  "title": "Kadar Tamat Pengajian Sekolah mengikut Negeri dan Jantina (2016–2025)",
+  "description": "Peratusan pelajar yang menamatkan pendidikan rendah, menengah rendah dan menengah atas di peringkat nasional dan negeri, mengikut jantina, data Kementerian Pendidikan Malaysia di data.gov.my.",
+  "category": "education",
+  "source": "https://data.gov.my/data-catalogue/completion_school_state",
+  "source_url": "https://data.gov.my/data-catalogue/completion_school_state",
+  "updated": "2026-11",
+  "record_count": 510,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "peringkat",
+      "label": "Peringkat",
+      "type": "string"
+    },
+    {
+      "key": "kadar_keseluruhan_peratus",
+      "label": "Kadar Keseluruhan Peratus",
+      "type": "number"
+    },
+    {
+      "key": "kadar_perempuan_peratus",
+      "label": "Kadar Perempuan Peratus",
+      "type": "number"
+    },
+    {
+      "key": "kadar_lelaki_peratus",
+      "label": "Kadar Lelaki Peratus",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 2016,
+      "negeri": "Malaysia",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.37,
+      "kadar_perempuan_peratus": 99.14,
+      "kadar_lelaki_peratus": 97.64
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 95.58,
+      "kadar_perempuan_peratus": 97.04,
+      "kadar_lelaki_peratus": 94.16
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.25,
+      "kadar_perempuan_peratus": 99.49,
+      "kadar_lelaki_peratus": 98.99
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Johor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.06,
+      "kadar_perempuan_peratus": 99.48,
+      "kadar_lelaki_peratus": 98.67
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Johor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 94.76,
+      "kadar_perempuan_peratus": 96.75,
+      "kadar_lelaki_peratus": 92.88
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Johor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.52,
+      "kadar_perempuan_peratus": 99.96,
+      "kadar_lelaki_peratus": 99.05
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kedah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.97,
+      "kadar_perempuan_peratus": 100.85,
+      "kadar_lelaki_peratus": 99.11
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 95.95,
+      "kadar_perempuan_peratus": 97.63,
+      "kadar_lelaki_peratus": 94.31
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.09,
+      "kadar_perempuan_peratus": 98.87,
+      "kadar_lelaki_peratus": 99.34
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kelantan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.32,
+      "kadar_perempuan_peratus": 101.49,
+      "kadar_lelaki_peratus": 99.2
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.24,
+      "kadar_perempuan_peratus": 96.69,
+      "kadar_lelaki_peratus": 95.78
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.43,
+      "kadar_perempuan_peratus": 97.92,
+      "kadar_lelaki_peratus": 98.96
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Melaka",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.92,
+      "kadar_perempuan_peratus": 100.17,
+      "kadar_lelaki_peratus": 97.73
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.03,
+      "kadar_perempuan_peratus": 99.96,
+      "kadar_lelaki_peratus": 98.11
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.27,
+      "kadar_perempuan_peratus": 99.76,
+      "kadar_lelaki_peratus": 98.8
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.29,
+      "kadar_perempuan_peratus": 99.96,
+      "kadar_lelaki_peratus": 96.74
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.31,
+      "kadar_perempuan_peratus": 98.23,
+      "kadar_lelaki_peratus": 96.41
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 100.14,
+      "kadar_perempuan_peratus": 100.34,
+      "kadar_lelaki_peratus": 99.93
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pahang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.72,
+      "kadar_perempuan_peratus": 98.72,
+      "kadar_lelaki_peratus": 96.81
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.38,
+      "kadar_perempuan_peratus": 96.65,
+      "kadar_lelaki_peratus": 96.11
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.68,
+      "kadar_perempuan_peratus": 99.56,
+      "kadar_lelaki_peratus": 99.81
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Perak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.83,
+      "kadar_perempuan_peratus": 99.28,
+      "kadar_lelaki_peratus": 98.39
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Perak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 94.91,
+      "kadar_perempuan_peratus": 97.14,
+      "kadar_lelaki_peratus": 92.81
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Perak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.1,
+      "kadar_perempuan_peratus": 99.17,
+      "kadar_lelaki_peratus": 99.02
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Perlis",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 101.66,
+      "kadar_perempuan_peratus": 100.66,
+      "kadar_lelaki_peratus": 102.63
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 93.66,
+      "kadar_perempuan_peratus": 95.15,
+      "kadar_lelaki_peratus": 92.14
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 91.15,
+      "kadar_perempuan_peratus": 93.14,
+      "kadar_lelaki_peratus": 89.2
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.55,
+      "kadar_perempuan_peratus": 97.2,
+      "kadar_lelaki_peratus": 95.93
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 94.75,
+      "kadar_perempuan_peratus": 96.79,
+      "kadar_lelaki_peratus": 92.75
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 100.19,
+      "kadar_perempuan_peratus": 100.4,
+      "kadar_lelaki_peratus": 99.98
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sabah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.75,
+      "kadar_perempuan_peratus": 100.24,
+      "kadar_lelaki_peratus": 99.29
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 90.1,
+      "kadar_perempuan_peratus": 92.46,
+      "kadar_lelaki_peratus": 87.86
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.59,
+      "kadar_perempuan_peratus": 98.17,
+      "kadar_lelaki_peratus": 96.96
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sarawak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.4,
+      "kadar_perempuan_peratus": 100.02,
+      "kadar_lelaki_peratus": 98.82
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 94.31,
+      "kadar_perempuan_peratus": 96.44,
+      "kadar_lelaki_peratus": 92.27
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.77,
+      "kadar_perempuan_peratus": 98.45,
+      "kadar_lelaki_peratus": 97.06
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Selangor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.86,
+      "kadar_perempuan_peratus": 97.59,
+      "kadar_lelaki_peratus": 96.17
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.05,
+      "kadar_perempuan_peratus": 98.69,
+      "kadar_lelaki_peratus": 97.41
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 100.33,
+      "kadar_perempuan_peratus": 100.69,
+      "kadar_lelaki_peratus": 99.95
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Terengganu",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.43,
+      "kadar_perempuan_peratus": 101.43,
+      "kadar_lelaki_peratus": 99.51
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.84,
+      "kadar_perempuan_peratus": 97.97,
+      "kadar_lelaki_peratus": 95.7
+    },
+    {
+      "tahun": 2016,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.6,
+      "kadar_perempuan_peratus": 99.48,
+      "kadar_lelaki_peratus": 99.72
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 91.93,
+      "kadar_perempuan_peratus": 93.13,
+      "kadar_lelaki_peratus": 90.8
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.05,
+      "kadar_perempuan_peratus": 99.28,
+      "kadar_lelaki_peratus": 96.86
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 100.53,
+      "kadar_perempuan_peratus": 101.16,
+      "kadar_lelaki_peratus": 99.91
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 95.05,
+      "kadar_perempuan_peratus": 97.96,
+      "kadar_lelaki_peratus": 92.4
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 78.32,
+      "kadar_perempuan_peratus": 80.49,
+      "kadar_lelaki_peratus": 76.26
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 102,
+      "kadar_perempuan_peratus": 100.17,
+      "kadar_lelaki_peratus": 103.86
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 103.48,
+      "kadar_perempuan_peratus": 104.8,
+      "kadar_lelaki_peratus": 102.23
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 110.34,
+      "kadar_perempuan_peratus": 111.72,
+      "kadar_lelaki_peratus": 109.29
+    },
+    {
+      "tahun": 2016,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 109.48,
+      "kadar_perempuan_peratus": 110.95,
+      "kadar_lelaki_peratus": 108.37
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Malaysia",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.07,
+      "kadar_perempuan_peratus": 98.83,
+      "kadar_lelaki_peratus": 97.34
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.73,
+      "kadar_perempuan_peratus": 98.65,
+      "kadar_lelaki_peratus": 96.81
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.38,
+      "kadar_perempuan_peratus": 97.49,
+      "kadar_lelaki_peratus": 95.21
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Johor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.14,
+      "kadar_perempuan_peratus": 99.71,
+      "kadar_lelaki_peratus": 98.59
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Johor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.53,
+      "kadar_perempuan_peratus": 100.57,
+      "kadar_lelaki_peratus": 98.51
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Johor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.29,
+      "kadar_perempuan_peratus": 100.55,
+      "kadar_lelaki_peratus": 97.97
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kedah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.12,
+      "kadar_perempuan_peratus": 100.84,
+      "kadar_lelaki_peratus": 99.43
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.31,
+      "kadar_perempuan_peratus": 97.65,
+      "kadar_lelaki_peratus": 96.97
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.45,
+      "kadar_perempuan_peratus": 98.57,
+      "kadar_lelaki_peratus": 96.22
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kelantan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.17,
+      "kadar_perempuan_peratus": 101.41,
+      "kadar_lelaki_peratus": 99
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 94.65,
+      "kadar_perempuan_peratus": 96.92,
+      "kadar_lelaki_peratus": 92.4
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.88,
+      "kadar_perempuan_peratus": 98.86,
+      "kadar_lelaki_peratus": 94.72
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Melaka",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.87,
+      "kadar_perempuan_peratus": 99.92,
+      "kadar_lelaki_peratus": 97.87
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.56,
+      "kadar_perempuan_peratus": 99.27,
+      "kadar_lelaki_peratus": 97.84
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.83,
+      "kadar_perempuan_peratus": 98.71,
+      "kadar_lelaki_peratus": 96.9
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.95,
+      "kadar_perempuan_peratus": 99.49,
+      "kadar_lelaki_peratus": 98.44
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.57,
+      "kadar_perempuan_peratus": 100.41,
+      "kadar_lelaki_peratus": 98.74
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.71,
+      "kadar_perempuan_peratus": 97.82,
+      "kadar_lelaki_peratus": 95.59
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pahang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.57,
+      "kadar_perempuan_peratus": 98.85,
+      "kadar_lelaki_peratus": 96.34
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.64,
+      "kadar_perempuan_peratus": 98.13,
+      "kadar_lelaki_peratus": 97.14
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 90.81,
+      "kadar_perempuan_peratus": 91.98,
+      "kadar_lelaki_peratus": 89.63
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Perak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.9,
+      "kadar_perempuan_peratus": 99.37,
+      "kadar_lelaki_peratus": 98.44
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Perak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.76,
+      "kadar_perempuan_peratus": 98.14,
+      "kadar_lelaki_peratus": 95.39
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Perak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 94.44,
+      "kadar_perempuan_peratus": 95.72,
+      "kadar_lelaki_peratus": 93.11
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Perlis",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.22,
+      "kadar_perempuan_peratus": 100.44,
+      "kadar_lelaki_peratus": 98.05
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.46,
+      "kadar_perempuan_peratus": 96.62,
+      "kadar_lelaki_peratus": 96.29
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 94.53,
+      "kadar_perempuan_peratus": 95.43,
+      "kadar_lelaki_peratus": 93.62
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.71,
+      "kadar_perempuan_peratus": 98.16,
+      "kadar_lelaki_peratus": 95.35
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.39,
+      "kadar_perempuan_peratus": 97.49,
+      "kadar_lelaki_peratus": 97.3
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.44,
+      "kadar_perempuan_peratus": 96.49,
+      "kadar_lelaki_peratus": 94.35
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sabah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.04,
+      "kadar_perempuan_peratus": 99.59,
+      "kadar_lelaki_peratus": 98.51
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 95.07,
+      "kadar_perempuan_peratus": 96.84,
+      "kadar_lelaki_peratus": 93.36
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.33,
+      "kadar_perempuan_peratus": 97.53,
+      "kadar_lelaki_peratus": 95.05
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sarawak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.54,
+      "kadar_perempuan_peratus": 99.98,
+      "kadar_lelaki_peratus": 99.13
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 95.78,
+      "kadar_perempuan_peratus": 97.56,
+      "kadar_lelaki_peratus": 94.06
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.91,
+      "kadar_perempuan_peratus": 97.24,
+      "kadar_lelaki_peratus": 94.49
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Selangor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.03,
+      "kadar_perempuan_peratus": 96.6,
+      "kadar_lelaki_peratus": 95.48
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 100.13,
+      "kadar_perempuan_peratus": 100.25,
+      "kadar_lelaki_peratus": 100.02
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.37,
+      "kadar_perempuan_peratus": 98.23,
+      "kadar_lelaki_peratus": 96.47
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Terengganu",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.06,
+      "kadar_perempuan_peratus": 101.45,
+      "kadar_lelaki_peratus": 98.7
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.94,
+      "kadar_perempuan_peratus": 99.56,
+      "kadar_lelaki_peratus": 98.31
+    },
+    {
+      "tahun": 2017,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.08,
+      "kadar_perempuan_peratus": 98.81,
+      "kadar_lelaki_peratus": 97.31
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 90.37,
+      "kadar_perempuan_peratus": 91.38,
+      "kadar_lelaki_peratus": 89.4
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.79,
+      "kadar_perempuan_peratus": 97.4,
+      "kadar_lelaki_peratus": 96.18
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 92.28,
+      "kadar_perempuan_peratus": 92.23,
+      "kadar_lelaki_peratus": 92.33
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 91.31,
+      "kadar_perempuan_peratus": 90.31,
+      "kadar_lelaki_peratus": 92.24
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.43,
+      "kadar_perempuan_peratus": 99.5,
+      "kadar_lelaki_peratus": 99.36
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.02,
+      "kadar_perempuan_peratus": 98.71,
+      "kadar_lelaki_peratus": 95.31
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 103.56,
+      "kadar_perempuan_peratus": 103.56,
+      "kadar_lelaki_peratus": 103.56
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 107.58,
+      "kadar_perempuan_peratus": 109.7,
+      "kadar_lelaki_peratus": 105.89
+    },
+    {
+      "tahun": 2017,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.02,
+      "kadar_perempuan_peratus": 95.29,
+      "kadar_lelaki_peratus": 98.44
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Malaysia",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.67,
+      "kadar_perempuan_peratus": 98.52,
+      "kadar_lelaki_peratus": 96.86
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.64,
+      "kadar_perempuan_peratus": 97.68,
+      "kadar_lelaki_peratus": 95.63
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.63,
+      "kadar_perempuan_peratus": 96.51,
+      "kadar_lelaki_peratus": 94.72
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Johor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.56,
+      "kadar_perempuan_peratus": 98.2,
+      "kadar_lelaki_peratus": 96.97
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Johor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.69,
+      "kadar_perempuan_peratus": 99.41,
+      "kadar_lelaki_peratus": 99.96
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Johor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 93.74,
+      "kadar_perempuan_peratus": 94.9,
+      "kadar_lelaki_peratus": 92.56
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kedah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.34,
+      "kadar_perempuan_peratus": 101.4,
+      "kadar_lelaki_peratus": 99.33
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.37,
+      "kadar_perempuan_peratus": 97.71,
+      "kadar_lelaki_peratus": 95.08
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.77,
+      "kadar_perempuan_peratus": 97.53,
+      "kadar_lelaki_peratus": 93.92
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kelantan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.32,
+      "kadar_perempuan_peratus": 100.59,
+      "kadar_lelaki_peratus": 98.12
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 85.97,
+      "kadar_perempuan_peratus": 86.32,
+      "kadar_lelaki_peratus": 85.63
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 88.42,
+      "kadar_perempuan_peratus": 87.46,
+      "kadar_lelaki_peratus": 89.47
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Melaka",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.92,
+      "kadar_perempuan_peratus": 99.17,
+      "kadar_lelaki_peratus": 98.67
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.92,
+      "kadar_perempuan_peratus": 100.03,
+      "kadar_lelaki_peratus": 99.81
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.25,
+      "kadar_perempuan_peratus": 98.51,
+      "kadar_lelaki_peratus": 97.97
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.24,
+      "kadar_perempuan_peratus": 100.67,
+      "kadar_lelaki_peratus": 97.9
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.12,
+      "kadar_perempuan_peratus": 98.2,
+      "kadar_lelaki_peratus": 96.05
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.75,
+      "kadar_perempuan_peratus": 97.58,
+      "kadar_lelaki_peratus": 95.92
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pahang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.13,
+      "kadar_perempuan_peratus": 97.65,
+      "kadar_lelaki_peratus": 96.63
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 94.93,
+      "kadar_perempuan_peratus": 97.05,
+      "kadar_lelaki_peratus": 92.9
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.14,
+      "kadar_perempuan_peratus": 96.95,
+      "kadar_lelaki_peratus": 101.38
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Perak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.09,
+      "kadar_perempuan_peratus": 98.51,
+      "kadar_lelaki_peratus": 97.69
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Perak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 95.97,
+      "kadar_perempuan_peratus": 97.18,
+      "kadar_lelaki_peratus": 94.83
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Perak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.44,
+      "kadar_perempuan_peratus": 98.41,
+      "kadar_lelaki_peratus": 96.45
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Perlis",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.61,
+      "kadar_perempuan_peratus": 100.11,
+      "kadar_lelaki_peratus": 99.13
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.55,
+      "kadar_perempuan_peratus": 98.22,
+      "kadar_lelaki_peratus": 94.89
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 94.7,
+      "kadar_perempuan_peratus": 96.64,
+      "kadar_lelaki_peratus": 92.67
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.52,
+      "kadar_perempuan_peratus": 97.2,
+      "kadar_lelaki_peratus": 95.9
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 95.47,
+      "kadar_perempuan_peratus": 96.6,
+      "kadar_lelaki_peratus": 94.34
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 94.98,
+      "kadar_perempuan_peratus": 96.64,
+      "kadar_lelaki_peratus": 93.25
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sabah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.12,
+      "kadar_perempuan_peratus": 100.16,
+      "kadar_lelaki_peratus": 98.14
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 94.66,
+      "kadar_perempuan_peratus": 96.94,
+      "kadar_lelaki_peratus": 92.46
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.4,
+      "kadar_perempuan_peratus": 96.75,
+      "kadar_lelaki_peratus": 93.99
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sarawak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.23,
+      "kadar_perempuan_peratus": 99.57,
+      "kadar_lelaki_peratus": 98.91
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 95.37,
+      "kadar_perempuan_peratus": 97.29,
+      "kadar_lelaki_peratus": 93.58
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.25,
+      "kadar_perempuan_peratus": 97.28,
+      "kadar_lelaki_peratus": 95.16
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Selangor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 95.56,
+      "kadar_perempuan_peratus": 96.51,
+      "kadar_lelaki_peratus": 94.68
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 102.05,
+      "kadar_perempuan_peratus": 101.87,
+      "kadar_lelaki_peratus": 102.23
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.6,
+      "kadar_perempuan_peratus": 98.96,
+      "kadar_lelaki_peratus": 96.2
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Terengganu",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.87,
+      "kadar_perempuan_peratus": 101.81,
+      "kadar_lelaki_peratus": 97.99
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 100.4,
+      "kadar_perempuan_peratus": 100.37,
+      "kadar_lelaki_peratus": 100.44
+    },
+    {
+      "tahun": 2018,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.16,
+      "kadar_perempuan_peratus": 98.5,
+      "kadar_lelaki_peratus": 97.8
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 91.18,
+      "kadar_perempuan_peratus": 92.1,
+      "kadar_lelaki_peratus": 90.31
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 94.03,
+      "kadar_perempuan_peratus": 95.43,
+      "kadar_lelaki_peratus": 92.68
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 91.98,
+      "kadar_perempuan_peratus": 93.84,
+      "kadar_lelaki_peratus": 90.16
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 94.54,
+      "kadar_perempuan_peratus": 94.99,
+      "kadar_lelaki_peratus": 94.09
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 89.13,
+      "kadar_perempuan_peratus": 89.09,
+      "kadar_lelaki_peratus": 89.16
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 91.45,
+      "kadar_perempuan_peratus": 91.08,
+      "kadar_lelaki_peratus": 91.82
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 101.26,
+      "kadar_perempuan_peratus": 102.78,
+      "kadar_lelaki_peratus": 99.7
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.8,
+      "kadar_perempuan_peratus": 98.84,
+      "kadar_lelaki_peratus": 96.97
+    },
+    {
+      "tahun": 2018,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.03,
+      "kadar_perempuan_peratus": 94.84,
+      "kadar_lelaki_peratus": 95.18
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Malaysia",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98,
+      "kadar_perempuan_peratus": 98.7,
+      "kadar_lelaki_peratus": 97.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.7,
+      "kadar_perempuan_peratus": 98,
+      "kadar_lelaki_peratus": 95.4
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.5,
+      "kadar_perempuan_peratus": 98.9,
+      "kadar_lelaki_peratus": 96.1
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Johor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.7,
+      "kadar_perempuan_peratus": 98.2,
+      "kadar_lelaki_peratus": 97.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Johor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 95.2,
+      "kadar_perempuan_peratus": 96.8,
+      "kadar_lelaki_peratus": 93.5
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Johor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98,
+      "kadar_perempuan_peratus": 98.6,
+      "kadar_lelaki_peratus": 97.4
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kedah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.2,
+      "kadar_perempuan_peratus": 100.8,
+      "kadar_lelaki_peratus": 99.6
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.1,
+      "kadar_perempuan_peratus": 98.1,
+      "kadar_lelaki_peratus": 94.1
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.6,
+      "kadar_perempuan_peratus": 97.9,
+      "kadar_lelaki_peratus": 95.3
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kelantan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.9,
+      "kadar_perempuan_peratus": 101.1,
+      "kadar_lelaki_peratus": 98.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98,
+      "kadar_perempuan_peratus": 98.8,
+      "kadar_lelaki_peratus": 97.1
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 109.2,
+      "kadar_perempuan_peratus": 111.7,
+      "kadar_lelaki_peratus": 106.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Melaka",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.7,
+      "kadar_perempuan_peratus": 100.3,
+      "kadar_lelaki_peratus": 97.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.7,
+      "kadar_perempuan_peratus": 98.5,
+      "kadar_lelaki_peratus": 98.9
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97,
+      "kadar_perempuan_peratus": 98.4,
+      "kadar_lelaki_peratus": 95.5
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.9,
+      "kadar_perempuan_peratus": 99.2,
+      "kadar_lelaki_peratus": 98.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.9,
+      "kadar_perempuan_peratus": 97.2,
+      "kadar_lelaki_peratus": 96.6
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.9,
+      "kadar_perempuan_peratus": 98.3,
+      "kadar_lelaki_peratus": 95.5
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pahang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.3,
+      "kadar_perempuan_peratus": 97.5,
+      "kadar_lelaki_peratus": 95.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.4,
+      "kadar_perempuan_peratus": 97.5,
+      "kadar_lelaki_peratus": 95.3
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 92.9,
+      "kadar_perempuan_peratus": 96.5,
+      "kadar_lelaki_peratus": 89.3
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.6,
+      "kadar_perempuan_peratus": 99.3,
+      "kadar_lelaki_peratus": 98
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.9,
+      "kadar_perempuan_peratus": 97.7,
+      "kadar_lelaki_peratus": 96.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.9,
+      "kadar_perempuan_peratus": 99.5,
+      "kadar_lelaki_peratus": 96.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perlis",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99,
+      "kadar_perempuan_peratus": 101.2,
+      "kadar_lelaki_peratus": 97
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 93.1,
+      "kadar_perempuan_peratus": 95.9,
+      "kadar_lelaki_peratus": 90.3
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 94.6,
+      "kadar_perempuan_peratus": 96.9,
+      "kadar_lelaki_peratus": 92.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96,
+      "kadar_perempuan_peratus": 97.1,
+      "kadar_lelaki_peratus": 95
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.8,
+      "kadar_perempuan_peratus": 98.9,
+      "kadar_lelaki_peratus": 96.6
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.9,
+      "kadar_perempuan_peratus": 98.1,
+      "kadar_lelaki_peratus": 95.6
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sabah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.3,
+      "kadar_perempuan_peratus": 101.2,
+      "kadar_lelaki_peratus": 99.4
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 94.4,
+      "kadar_perempuan_peratus": 96.4,
+      "kadar_lelaki_peratus": 92.4
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.3,
+      "kadar_perempuan_peratus": 96.6,
+      "kadar_lelaki_peratus": 93.9
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sarawak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.9,
+      "kadar_perempuan_peratus": 100,
+      "kadar_lelaki_peratus": 99.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 95.3,
+      "kadar_perempuan_peratus": 97.1,
+      "kadar_lelaki_peratus": 93.5
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96,
+      "kadar_perempuan_peratus": 97.2,
+      "kadar_lelaki_peratus": 94.8
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Selangor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.1,
+      "kadar_perempuan_peratus": 96.9,
+      "kadar_lelaki_peratus": 95.4
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.6,
+      "kadar_perempuan_peratus": 99.1,
+      "kadar_lelaki_peratus": 96.1
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.8,
+      "kadar_perempuan_peratus": 96.9,
+      "kadar_lelaki_peratus": 94.6
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Terengganu",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.7,
+      "kadar_perempuan_peratus": 101.5,
+      "kadar_lelaki_peratus": 100
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 101.7,
+      "kadar_perempuan_peratus": 101.7,
+      "kadar_lelaki_peratus": 101.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.9,
+      "kadar_perempuan_peratus": 100.8,
+      "kadar_lelaki_peratus": 99
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 91.6,
+      "kadar_perempuan_peratus": 92.5,
+      "kadar_lelaki_peratus": 90.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.6,
+      "kadar_perempuan_peratus": 98,
+      "kadar_lelaki_peratus": 97.2
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.4,
+      "kadar_perempuan_peratus": 100.6,
+      "kadar_lelaki_peratus": 98.1
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 89.8,
+      "kadar_perempuan_peratus": 90,
+      "kadar_lelaki_peratus": 89.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 94.1,
+      "kadar_perempuan_peratus": 94.2,
+      "kadar_lelaki_peratus": 94
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.9,
+      "kadar_perempuan_peratus": 103.5,
+      "kadar_lelaki_peratus": 96.7
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.5,
+      "kadar_perempuan_peratus": 99.5,
+      "kadar_lelaki_peratus": 99.6
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 103.3,
+      "kadar_perempuan_peratus": 108.6,
+      "kadar_lelaki_peratus": 99.1
+    },
+    {
+      "tahun": 2019,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 103.6,
+      "kadar_perempuan_peratus": 101.2,
+      "kadar_lelaki_peratus": 105.7
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Malaysia",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.4,
+      "kadar_perempuan_peratus": 99.3,
+      "kadar_lelaki_peratus": 97.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.8,
+      "kadar_perempuan_peratus": 99.3,
+      "kadar_lelaki_peratus": 96.4
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 92.8,
+      "kadar_perempuan_peratus": 93.6,
+      "kadar_lelaki_peratus": 92
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Johor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.2,
+      "kadar_perempuan_peratus": 98.9,
+      "kadar_lelaki_peratus": 97.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Johor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.9,
+      "kadar_perempuan_peratus": 98.3,
+      "kadar_lelaki_peratus": 95.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Johor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 89.2,
+      "kadar_perempuan_peratus": 90.1,
+      "kadar_lelaki_peratus": 88.3
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kedah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.1,
+      "kadar_perempuan_peratus": 100.9,
+      "kadar_lelaki_peratus": 99.3
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.8,
+      "kadar_perempuan_peratus": 98.6,
+      "kadar_lelaki_peratus": 95
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.7,
+      "kadar_perempuan_peratus": 97.9,
+      "kadar_lelaki_peratus": 95.5
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kelantan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.5,
+      "kadar_perempuan_peratus": 101.5,
+      "kadar_lelaki_peratus": 97.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 109.9,
+      "kadar_perempuan_peratus": 112.9,
+      "kadar_lelaki_peratus": 107
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.7,
+      "kadar_perempuan_peratus": 98.6,
+      "kadar_lelaki_peratus": 96.8
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Melaka",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.5,
+      "kadar_perempuan_peratus": 99.2,
+      "kadar_lelaki_peratus": 97.7
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.8,
+      "kadar_perempuan_peratus": 98.6,
+      "kadar_lelaki_peratus": 96.9
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 94.1,
+      "kadar_perempuan_peratus": 95.1,
+      "kadar_lelaki_peratus": 93
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.1,
+      "kadar_perempuan_peratus": 100.5,
+      "kadar_lelaki_peratus": 99.7
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.2,
+      "kadar_perempuan_peratus": 99.8,
+      "kadar_lelaki_peratus": 96.7
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 93.3,
+      "kadar_perempuan_peratus": 93.7,
+      "kadar_lelaki_peratus": 93
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pahang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97,
+      "kadar_perempuan_peratus": 97.9,
+      "kadar_lelaki_peratus": 96.2
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96,
+      "kadar_perempuan_peratus": 97.3,
+      "kadar_lelaki_peratus": 94.8
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.5,
+      "kadar_perempuan_peratus": 96.9,
+      "kadar_lelaki_peratus": 98.2
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.1,
+      "kadar_perempuan_peratus": 99.8,
+      "kadar_lelaki_peratus": 98.4
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.1,
+      "kadar_perempuan_peratus": 98.8,
+      "kadar_lelaki_peratus": 95.5
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 92.4,
+      "kadar_perempuan_peratus": 93.2,
+      "kadar_lelaki_peratus": 91.5
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perlis",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.8,
+      "kadar_perempuan_peratus": 100,
+      "kadar_lelaki_peratus": 97.7
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 94.4,
+      "kadar_perempuan_peratus": 95.8,
+      "kadar_lelaki_peratus": 93.1
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 93.3,
+      "kadar_perempuan_peratus": 95,
+      "kadar_lelaki_peratus": 91.5
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.9,
+      "kadar_perempuan_peratus": 97.8,
+      "kadar_lelaki_peratus": 96.1
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.9,
+      "kadar_perempuan_peratus": 99.1,
+      "kadar_lelaki_peratus": 96.8
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 92,
+      "kadar_perempuan_peratus": 92.6,
+      "kadar_lelaki_peratus": 91.5
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sabah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.3,
+      "kadar_perempuan_peratus": 101,
+      "kadar_lelaki_peratus": 99.8
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 95.7,
+      "kadar_perempuan_peratus": 97.5,
+      "kadar_lelaki_peratus": 93.9
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 94.2,
+      "kadar_perempuan_peratus": 95.4,
+      "kadar_lelaki_peratus": 92.9
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sarawak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.9,
+      "kadar_perempuan_peratus": 100.1,
+      "kadar_lelaki_peratus": 99.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96,
+      "kadar_perempuan_peratus": 97.7,
+      "kadar_lelaki_peratus": 94.4
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 91.8,
+      "kadar_perempuan_peratus": 92.9,
+      "kadar_lelaki_peratus": 90.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Selangor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.3,
+      "kadar_perempuan_peratus": 98.1,
+      "kadar_lelaki_peratus": 96.4
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.1,
+      "kadar_perempuan_peratus": 98.2,
+      "kadar_lelaki_peratus": 95.9
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 93,
+      "kadar_perempuan_peratus": 93.5,
+      "kadar_lelaki_peratus": 92.4
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Terengganu",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.4,
+      "kadar_perempuan_peratus": 101.9,
+      "kadar_lelaki_peratus": 99
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.5,
+      "kadar_perempuan_peratus": 99.9,
+      "kadar_lelaki_peratus": 99.2
+    },
+    {
+      "tahun": 2020,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.1,
+      "kadar_perempuan_peratus": 97.3,
+      "kadar_lelaki_peratus": 94.9
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 92.4,
+      "kadar_perempuan_peratus": 93.1,
+      "kadar_lelaki_peratus": 91.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.5,
+      "kadar_perempuan_peratus": 98,
+      "kadar_lelaki_peratus": 94.9
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 80.8,
+      "kadar_perempuan_peratus": 80.7,
+      "kadar_lelaki_peratus": 80.9
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 94.1,
+      "kadar_perempuan_peratus": 96.8,
+      "kadar_lelaki_peratus": 91.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 103.9,
+      "kadar_perempuan_peratus": 104.7,
+      "kadar_lelaki_peratus": 103.2
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.8,
+      "kadar_perempuan_peratus": 95.3,
+      "kadar_lelaki_peratus": 96.4
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 101.4,
+      "kadar_perempuan_peratus": 104.3,
+      "kadar_lelaki_peratus": 98.7
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 105.7,
+      "kadar_perempuan_peratus": 108.3,
+      "kadar_lelaki_peratus": 103.6
+    },
+    {
+      "tahun": 2020,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 93.5,
+      "kadar_perempuan_peratus": 93.6,
+      "kadar_lelaki_peratus": 93.4
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Malaysia",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99,
+      "kadar_perempuan_peratus": 100.5,
+      "kadar_lelaki_peratus": 97.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.8,
+      "kadar_perempuan_peratus": 100.4,
+      "kadar_lelaki_peratus": 99.2
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.8,
+      "kadar_perempuan_peratus": 97.9,
+      "kadar_lelaki_peratus": 97.6
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 95.5,
+      "kadar_perempuan_peratus": 99.7,
+      "kadar_lelaki_peratus": 91.8
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.9,
+      "kadar_perempuan_peratus": 98.4,
+      "kadar_lelaki_peratus": 97.4
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Johor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97,
+      "kadar_perempuan_peratus": 97.2,
+      "kadar_lelaki_peratus": 96.8
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.2,
+      "kadar_perempuan_peratus": 99.3,
+      "kadar_lelaki_peratus": 95.3
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 100.3,
+      "kadar_perempuan_peratus": 100.9,
+      "kadar_lelaki_peratus": 99.7
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 100.5,
+      "kadar_perempuan_peratus": 100,
+      "kadar_lelaki_peratus": 101.2
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.2,
+      "kadar_perempuan_peratus": 101.8,
+      "kadar_lelaki_peratus": 98.7
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 111.7,
+      "kadar_perempuan_peratus": 112.9,
+      "kadar_lelaki_peratus": 110.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 100.3,
+      "kadar_perempuan_peratus": 99.6,
+      "kadar_lelaki_peratus": 101.1
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Melaka",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 95.1,
+      "kadar_perempuan_peratus": 96.8,
+      "kadar_lelaki_peratus": 93.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.1,
+      "kadar_perempuan_peratus": 99.2,
+      "kadar_lelaki_peratus": 97.1
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.2,
+      "kadar_perempuan_peratus": 98,
+      "kadar_lelaki_peratus": 98.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 102.9,
+      "kadar_perempuan_peratus": 102.9,
+      "kadar_lelaki_peratus": 102.8
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.9,
+      "kadar_perempuan_peratus": 99.6,
+      "kadar_lelaki_peratus": 98.3
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.6,
+      "kadar_perempuan_peratus": 98.6,
+      "kadar_lelaki_peratus": 98.6
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.3,
+      "kadar_perempuan_peratus": 97.9,
+      "kadar_lelaki_peratus": 96.8
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.1,
+      "kadar_perempuan_peratus": 100,
+      "kadar_lelaki_peratus": 98.2
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.6,
+      "kadar_perempuan_peratus": 99.1,
+      "kadar_lelaki_peratus": 100.2
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.8,
+      "kadar_perempuan_peratus": 99.7,
+      "kadar_lelaki_peratus": 98
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.4,
+      "kadar_perempuan_peratus": 100.2,
+      "kadar_lelaki_peratus": 98.6
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.8,
+      "kadar_perempuan_peratus": 99.2,
+      "kadar_lelaki_peratus": 98.4
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perlis",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.9,
+      "kadar_perempuan_peratus": 99.8,
+      "kadar_lelaki_peratus": 94.4
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.8,
+      "kadar_perempuan_peratus": 98.6,
+      "kadar_lelaki_peratus": 97.1
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.4,
+      "kadar_perempuan_peratus": 98.3,
+      "kadar_lelaki_peratus": 96.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 94,
+      "kadar_perempuan_peratus": 96.8,
+      "kadar_lelaki_peratus": 91.6
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.1,
+      "kadar_perempuan_peratus": 97.9,
+      "kadar_lelaki_peratus": 96.3
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.5,
+      "kadar_perempuan_peratus": 95.9,
+      "kadar_lelaki_peratus": 95.1
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.7,
+      "kadar_perempuan_peratus": 98.1,
+      "kadar_lelaki_peratus": 97.3
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.9,
+      "kadar_perempuan_peratus": 98.7,
+      "kadar_lelaki_peratus": 97.1
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.7,
+      "kadar_perempuan_peratus": 98.8,
+      "kadar_lelaki_peratus": 98.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.1,
+      "kadar_perempuan_peratus": 100.7,
+      "kadar_lelaki_peratus": 99.6
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.5,
+      "kadar_perempuan_peratus": 98.7,
+      "kadar_lelaki_peratus": 96.4
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.5,
+      "kadar_perempuan_peratus": 97.9,
+      "kadar_lelaki_peratus": 97.2
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 104.5,
+      "kadar_perempuan_peratus": 105.4,
+      "kadar_lelaki_peratus": 103.6
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 101.8,
+      "kadar_perempuan_peratus": 101.5,
+      "kadar_lelaki_peratus": 102.1
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.6,
+      "kadar_perempuan_peratus": 96.1,
+      "kadar_lelaki_peratus": 95
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 103.7,
+      "kadar_perempuan_peratus": 104.4,
+      "kadar_lelaki_peratus": 102.9
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99,
+      "kadar_perempuan_peratus": 99,
+      "kadar_lelaki_peratus": 99.1
+    },
+    {
+      "tahun": 2021,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 100.5,
+      "kadar_perempuan_peratus": 100,
+      "kadar_lelaki_peratus": 100.9
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 94.5,
+      "kadar_perempuan_peratus": 96.8,
+      "kadar_lelaki_peratus": 92.4
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98,
+      "kadar_perempuan_peratus": 98.7,
+      "kadar_lelaki_peratus": 97.2
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 94.7,
+      "kadar_perempuan_peratus": 94.9,
+      "kadar_lelaki_peratus": 94.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 91.4,
+      "kadar_perempuan_peratus": 93.2,
+      "kadar_lelaki_peratus": 89.5
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98,
+      "kadar_perempuan_peratus": 98.2,
+      "kadar_lelaki_peratus": 97.8
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96,
+      "kadar_perempuan_peratus": 95,
+      "kadar_lelaki_peratus": 97
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 76.8,
+      "kadar_perempuan_peratus": 80,
+      "kadar_lelaki_peratus": 73.9
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.5,
+      "kadar_perempuan_peratus": 97.2,
+      "kadar_lelaki_peratus": 97.8
+    },
+    {
+      "tahun": 2021,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 93.7,
+      "kadar_perempuan_peratus": 94.5,
+      "kadar_lelaki_peratus": 92.9
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Malaysia",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.3,
+      "kadar_perempuan_peratus": 100.1,
+      "kadar_lelaki_peratus": 98.7
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99,
+      "kadar_perempuan_peratus": 98.9,
+      "kadar_lelaki_peratus": 99.2
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.2,
+      "kadar_perempuan_peratus": 99.3,
+      "kadar_lelaki_peratus": 99.1
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99,
+      "kadar_perempuan_peratus": 99.3,
+      "kadar_lelaki_peratus": 98.7
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 100.1,
+      "kadar_perempuan_peratus": 97.6,
+      "kadar_lelaki_peratus": 102.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Johor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.1,
+      "kadar_perempuan_peratus": 98.5,
+      "kadar_lelaki_peratus": 97.8
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 101.1,
+      "kadar_perempuan_peratus": 102.4,
+      "kadar_lelaki_peratus": 99.8
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.4,
+      "kadar_perempuan_peratus": 99.2,
+      "kadar_lelaki_peratus": 99.6
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.2,
+      "kadar_perempuan_peratus": 99.6,
+      "kadar_lelaki_peratus": 98.7
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.2,
+      "kadar_perempuan_peratus": 99.2,
+      "kadar_lelaki_peratus": 97.3
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99,
+      "kadar_perempuan_peratus": 98.7,
+      "kadar_lelaki_peratus": 99.4
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.4,
+      "kadar_perempuan_peratus": 98.8,
+      "kadar_lelaki_peratus": 100
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Melaka",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.5,
+      "kadar_perempuan_peratus": 100.3,
+      "kadar_lelaki_peratus": 98.7
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.9,
+      "kadar_perempuan_peratus": 99.3,
+      "kadar_lelaki_peratus": 98.6
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.7,
+      "kadar_perempuan_peratus": 98.3,
+      "kadar_lelaki_peratus": 97.1
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 101.6,
+      "kadar_perempuan_peratus": 102.7,
+      "kadar_lelaki_peratus": 100.6
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.9,
+      "kadar_perempuan_peratus": 99.8,
+      "kadar_lelaki_peratus": 99.9
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 100.4,
+      "kadar_perempuan_peratus": 99.8,
+      "kadar_lelaki_peratus": 100.9
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.5,
+      "kadar_perempuan_peratus": 98.1,
+      "kadar_lelaki_peratus": 95.1
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.7,
+      "kadar_perempuan_peratus": 98.8,
+      "kadar_lelaki_peratus": 98.6
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 100,
+      "kadar_perempuan_peratus": 99.5,
+      "kadar_lelaki_peratus": 100.6
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.9,
+      "kadar_perempuan_peratus": 100.9,
+      "kadar_lelaki_peratus": 99.1
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.2,
+      "kadar_perempuan_peratus": 99.4,
+      "kadar_lelaki_peratus": 99
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 100.3,
+      "kadar_perempuan_peratus": 99.9,
+      "kadar_lelaki_peratus": 100.7
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perlis",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 105.5,
+      "kadar_perempuan_peratus": 107.2,
+      "kadar_lelaki_peratus": 103.9
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.7,
+      "kadar_perempuan_peratus": 100.3,
+      "kadar_lelaki_peratus": 99.1
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.9,
+      "kadar_perempuan_peratus": 98.2,
+      "kadar_lelaki_peratus": 97.6
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.7,
+      "kadar_perempuan_peratus": 98.9,
+      "kadar_lelaki_peratus": 96.6
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.9,
+      "kadar_perempuan_peratus": 99.7,
+      "kadar_lelaki_peratus": 99.7
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 100.5,
+      "kadar_perempuan_peratus": 101,
+      "kadar_lelaki_peratus": 100
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sabah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.6,
+      "kadar_perempuan_peratus": 100.8,
+      "kadar_lelaki_peratus": 100.3
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.6,
+      "kadar_perempuan_peratus": 99.7,
+      "kadar_lelaki_peratus": 99.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.6,
+      "kadar_perempuan_peratus": 99.5,
+      "kadar_lelaki_peratus": 99.7
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.7,
+      "kadar_perempuan_peratus": 101.1,
+      "kadar_lelaki_peratus": 100.3
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99,
+      "kadar_perempuan_peratus": 99.6,
+      "kadar_lelaki_peratus": 98.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.9,
+      "kadar_perempuan_peratus": 98.9,
+      "kadar_lelaki_peratus": 98.8
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.6,
+      "kadar_perempuan_peratus": 99.1,
+      "kadar_lelaki_peratus": 98.2
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.1,
+      "kadar_perempuan_peratus": 98.4,
+      "kadar_lelaki_peratus": 97.7
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.3,
+      "kadar_perempuan_peratus": 99.6,
+      "kadar_lelaki_peratus": 98.9
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 103.8,
+      "kadar_perempuan_peratus": 104.6,
+      "kadar_lelaki_peratus": 103.1
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.7,
+      "kadar_perempuan_peratus": 99.9,
+      "kadar_lelaki_peratus": 99.6
+    },
+    {
+      "tahun": 2022,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99,
+      "kadar_perempuan_peratus": 99.1,
+      "kadar_lelaki_peratus": 98.8
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 93.8,
+      "kadar_perempuan_peratus": 94.6,
+      "kadar_lelaki_peratus": 92.9
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.4,
+      "kadar_perempuan_peratus": 96.4,
+      "kadar_lelaki_peratus": 96.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.5,
+      "kadar_perempuan_peratus": 98.1,
+      "kadar_lelaki_peratus": 97
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 92.4,
+      "kadar_perempuan_peratus": 93.9,
+      "kadar_lelaki_peratus": 90.9
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 102.8,
+      "kadar_perempuan_peratus": 103.2,
+      "kadar_lelaki_peratus": 102.5
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 99.3,
+      "kadar_perempuan_peratus": 99.5,
+      "kadar_lelaki_peratus": 99.2
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 102.9,
+      "kadar_perempuan_peratus": 104.9,
+      "kadar_lelaki_peratus": 101.1
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 103.2,
+      "kadar_perempuan_peratus": 105.9,
+      "kadar_lelaki_peratus": 100.9
+    },
+    {
+      "tahun": 2022,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 101.7,
+      "kadar_perempuan_peratus": 99.1,
+      "kadar_lelaki_peratus": 104
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Malaysia",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.8,
+      "kadar_perempuan_peratus": 99.6,
+      "kadar_lelaki_peratus": 98
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.5,
+      "kadar_perempuan_peratus": 99,
+      "kadar_lelaki_peratus": 98.1
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.8,
+      "kadar_perempuan_peratus": 99.1,
+      "kadar_lelaki_peratus": 98.5
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Johor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.5,
+      "kadar_perempuan_peratus": 98.2,
+      "kadar_lelaki_peratus": 96.7
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Johor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.1,
+      "kadar_perempuan_peratus": 98.1,
+      "kadar_lelaki_peratus": 96.1
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Johor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.6,
+      "kadar_perempuan_peratus": 98.5,
+      "kadar_lelaki_peratus": 96.8
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kedah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.7,
+      "kadar_perempuan_peratus": 101.8,
+      "kadar_lelaki_peratus": 99.7
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98,
+      "kadar_perempuan_peratus": 98.4,
+      "kadar_lelaki_peratus": 97.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.7,
+      "kadar_perempuan_peratus": 99.7,
+      "kadar_lelaki_peratus": 97.7
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kelantan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 101.2,
+      "kadar_perempuan_peratus": 102.8,
+      "kadar_lelaki_peratus": 99.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99,
+      "kadar_perempuan_peratus": 98.5,
+      "kadar_lelaki_peratus": 99.5
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.5,
+      "kadar_perempuan_peratus": 99.7,
+      "kadar_lelaki_peratus": 97.3
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Melaka",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.1,
+      "kadar_perempuan_peratus": 98.2,
+      "kadar_lelaki_peratus": 96.1
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.6,
+      "kadar_perempuan_peratus": 99.6,
+      "kadar_lelaki_peratus": 99.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 101.6,
+      "kadar_perempuan_peratus": 100.1,
+      "kadar_lelaki_peratus": 103.1
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 101.1,
+      "kadar_perempuan_peratus": 101.9,
+      "kadar_lelaki_peratus": 100.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.5,
+      "kadar_perempuan_peratus": 98.4,
+      "kadar_lelaki_peratus": 96.5
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.2,
+      "kadar_perempuan_peratus": 98.2,
+      "kadar_lelaki_peratus": 98.1
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pahang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.9,
+      "kadar_perempuan_peratus": 99.1,
+      "kadar_lelaki_peratus": 96.9
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 95.8,
+      "kadar_perempuan_peratus": 97,
+      "kadar_lelaki_peratus": 94.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.3,
+      "kadar_perempuan_peratus": 97.7,
+      "kadar_lelaki_peratus": 98.9
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.2,
+      "kadar_perempuan_peratus": 101.3,
+      "kadar_lelaki_peratus": 99.2
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.2,
+      "kadar_perempuan_peratus": 97.8,
+      "kadar_lelaki_peratus": 96.7
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.8,
+      "kadar_perempuan_peratus": 97.8,
+      "kadar_lelaki_peratus": 95.9
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perlis",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.9,
+      "kadar_perempuan_peratus": 100.4,
+      "kadar_lelaki_peratus": 99.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.9,
+      "kadar_perempuan_peratus": 97.4,
+      "kadar_lelaki_peratus": 96.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.7,
+      "kadar_perempuan_peratus": 95.9,
+      "kadar_lelaki_peratus": 95.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.7,
+      "kadar_perempuan_peratus": 97.6,
+      "kadar_lelaki_peratus": 95.9
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.2,
+      "kadar_perempuan_peratus": 100,
+      "kadar_lelaki_peratus": 98.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.7,
+      "kadar_perempuan_peratus": 98.3,
+      "kadar_lelaki_peratus": 97.2
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sabah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.9,
+      "kadar_perempuan_peratus": 101.8,
+      "kadar_lelaki_peratus": 100.1
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.5,
+      "kadar_perempuan_peratus": 100.6,
+      "kadar_lelaki_peratus": 98.5
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.3,
+      "kadar_perempuan_peratus": 97.5,
+      "kadar_lelaki_peratus": 95.2
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sarawak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.1,
+      "kadar_perempuan_peratus": 100.3,
+      "kadar_lelaki_peratus": 99.9
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.5,
+      "kadar_perempuan_peratus": 98.3,
+      "kadar_lelaki_peratus": 96.8
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.5,
+      "kadar_perempuan_peratus": 97.2,
+      "kadar_lelaki_peratus": 95.9
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Selangor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.1,
+      "kadar_perempuan_peratus": 97.9,
+      "kadar_lelaki_peratus": 96.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 101,
+      "kadar_perempuan_peratus": 100.4,
+      "kadar_lelaki_peratus": 101.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 102.6,
+      "kadar_perempuan_peratus": 101.5,
+      "kadar_lelaki_peratus": 103.8
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Terengganu",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 101.2,
+      "kadar_perempuan_peratus": 102.1,
+      "kadar_lelaki_peratus": 100.3
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.1,
+      "kadar_perempuan_peratus": 99.1,
+      "kadar_lelaki_peratus": 99.1
+    },
+    {
+      "tahun": 2023,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 101.5,
+      "kadar_perempuan_peratus": 102,
+      "kadar_lelaki_peratus": 101
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 92.9,
+      "kadar_perempuan_peratus": 93.4,
+      "kadar_lelaki_peratus": 92.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97,
+      "kadar_perempuan_peratus": 97.7,
+      "kadar_lelaki_peratus": 96.4
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.9,
+      "kadar_perempuan_peratus": 98.3,
+      "kadar_lelaki_peratus": 99.5
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 92.9,
+      "kadar_perempuan_peratus": 93.9,
+      "kadar_lelaki_peratus": 92
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.7,
+      "kadar_perempuan_peratus": 98.9,
+      "kadar_lelaki_peratus": 94.3
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.4,
+      "kadar_perempuan_peratus": 95.5,
+      "kadar_lelaki_peratus": 95.2
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 103.1,
+      "kadar_perempuan_peratus": 101.1,
+      "kadar_lelaki_peratus": 105
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 100.6,
+      "kadar_perempuan_peratus": 101.8,
+      "kadar_lelaki_peratus": 99.6
+    },
+    {
+      "tahun": 2023,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.9,
+      "kadar_perempuan_peratus": 98.1,
+      "kadar_lelaki_peratus": 97.7
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Malaysia",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.6,
+      "kadar_perempuan_peratus": 99.7,
+      "kadar_lelaki_peratus": 97.6
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98,
+      "kadar_perempuan_peratus": 98.7,
+      "kadar_lelaki_peratus": 97.2
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.4,
+      "kadar_perempuan_peratus": 98.3,
+      "kadar_lelaki_peratus": 96.6
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Johor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.1,
+      "kadar_perempuan_peratus": 97.8,
+      "kadar_lelaki_peratus": 96.5
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Johor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.3,
+      "kadar_perempuan_peratus": 98.8,
+      "kadar_lelaki_peratus": 97.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Johor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98,
+      "kadar_perempuan_peratus": 98.7,
+      "kadar_lelaki_peratus": 97.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kedah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 101,
+      "kadar_perempuan_peratus": 102,
+      "kadar_lelaki_peratus": 100
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.4,
+      "kadar_perempuan_peratus": 99.2,
+      "kadar_lelaki_peratus": 97.6
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.4,
+      "kadar_perempuan_peratus": 98.1,
+      "kadar_lelaki_peratus": 94.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kelantan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 101,
+      "kadar_perempuan_peratus": 102.6,
+      "kadar_lelaki_peratus": 99.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.7,
+      "kadar_perempuan_peratus": 100.1,
+      "kadar_lelaki_peratus": 99.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.7,
+      "kadar_perempuan_peratus": 99.6,
+      "kadar_lelaki_peratus": 97.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Melaka",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.8,
+      "kadar_perempuan_peratus": 98.9,
+      "kadar_lelaki_peratus": 96.6
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.3,
+      "kadar_perempuan_peratus": 99.5,
+      "kadar_lelaki_peratus": 99.2
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.4,
+      "kadar_perempuan_peratus": 99,
+      "kadar_lelaki_peratus": 97.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.3,
+      "kadar_perempuan_peratus": 100.8,
+      "kadar_lelaki_peratus": 99.7
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.1,
+      "kadar_perempuan_peratus": 99,
+      "kadar_lelaki_peratus": 97.2
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.6,
+      "kadar_perempuan_peratus": 98.7,
+      "kadar_lelaki_peratus": 96.5
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pahang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.8,
+      "kadar_perempuan_peratus": 98.6,
+      "kadar_lelaki_peratus": 96.9
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.1,
+      "kadar_perempuan_peratus": 97.4,
+      "kadar_lelaki_peratus": 94.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.9,
+      "kadar_perempuan_peratus": 98.1,
+      "kadar_lelaki_peratus": 95.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.8,
+      "kadar_perempuan_peratus": 100.9,
+      "kadar_lelaki_peratus": 98.7
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.9,
+      "kadar_perempuan_peratus": 97.4,
+      "kadar_lelaki_peratus": 96.5
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.6,
+      "kadar_perempuan_peratus": 98.6,
+      "kadar_lelaki_peratus": 96.6
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perlis",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.1,
+      "kadar_perempuan_peratus": 99.8,
+      "kadar_lelaki_peratus": 96.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.7,
+      "kadar_perempuan_peratus": 99.6,
+      "kadar_lelaki_peratus": 97.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.1,
+      "kadar_perempuan_peratus": 96.5,
+      "kadar_lelaki_peratus": 93.7
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.2,
+      "kadar_perempuan_peratus": 97.7,
+      "kadar_lelaki_peratus": 96.7
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.4,
+      "kadar_perempuan_peratus": 97.8,
+      "kadar_lelaki_peratus": 96.9
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.9,
+      "kadar_perempuan_peratus": 98.4,
+      "kadar_lelaki_peratus": 97.4
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sabah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.6,
+      "kadar_perempuan_peratus": 101.3,
+      "kadar_lelaki_peratus": 99.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.4,
+      "kadar_perempuan_peratus": 97.7,
+      "kadar_lelaki_peratus": 95.1
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.3,
+      "kadar_perempuan_peratus": 97.7,
+      "kadar_lelaki_peratus": 94.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sarawak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.4,
+      "kadar_perempuan_peratus": 99.9,
+      "kadar_lelaki_peratus": 99
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.3,
+      "kadar_perempuan_peratus": 97.4,
+      "kadar_lelaki_peratus": 95.2
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 95.9,
+      "kadar_perempuan_peratus": 97,
+      "kadar_lelaki_peratus": 94.7
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Selangor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.6,
+      "kadar_perempuan_peratus": 97.3,
+      "kadar_lelaki_peratus": 96
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.2,
+      "kadar_perempuan_peratus": 98.6,
+      "kadar_lelaki_peratus": 97.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.1,
+      "kadar_perempuan_peratus": 99,
+      "kadar_lelaki_peratus": 97.3
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Terengganu",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 101.4,
+      "kadar_perempuan_peratus": 102.3,
+      "kadar_lelaki_peratus": 100.6
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.1,
+      "kadar_perempuan_peratus": 99.4,
+      "kadar_lelaki_peratus": 96.9
+    },
+    {
+      "tahun": 2024,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.3,
+      "kadar_perempuan_peratus": 97.6,
+      "kadar_lelaki_peratus": 95.1
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 92.2,
+      "kadar_perempuan_peratus": 92.6,
+      "kadar_lelaki_peratus": 91.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.6,
+      "kadar_perempuan_peratus": 98.4,
+      "kadar_lelaki_peratus": 98.7
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.3,
+      "kadar_perempuan_peratus": 98.5,
+      "kadar_lelaki_peratus": 98
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 92.3,
+      "kadar_perempuan_peratus": 95.7,
+      "kadar_lelaki_peratus": 88.9
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96,
+      "kadar_perempuan_peratus": 96.7,
+      "kadar_lelaki_peratus": 95.2
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.5,
+      "kadar_perempuan_peratus": 96.5,
+      "kadar_lelaki_peratus": 96.6
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 105.7,
+      "kadar_perempuan_peratus": 106.5,
+      "kadar_lelaki_peratus": 104.9
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 100.7,
+      "kadar_perempuan_peratus": 101.6,
+      "kadar_lelaki_peratus": 99.8
+    },
+    {
+      "tahun": 2024,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 100.9,
+      "kadar_perempuan_peratus": 100.9,
+      "kadar_lelaki_peratus": 100.8
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Malaysia",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.2,
+      "kadar_perempuan_peratus": 100.3,
+      "kadar_lelaki_peratus": 98
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98,
+      "kadar_perempuan_peratus": 98.5,
+      "kadar_lelaki_peratus": 97.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Malaysia",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.5,
+      "kadar_perempuan_peratus": 98.4,
+      "kadar_lelaki_peratus": 96.6
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Johor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.9,
+      "kadar_perempuan_peratus": 97.7,
+      "kadar_lelaki_peratus": 96.1
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Johor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.2,
+      "kadar_perempuan_peratus": 98.7,
+      "kadar_lelaki_peratus": 97.7
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Johor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.2,
+      "kadar_perempuan_peratus": 98.8,
+      "kadar_lelaki_peratus": 97.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kedah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 101.4,
+      "kadar_perempuan_peratus": 102,
+      "kadar_lelaki_peratus": 100.7
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.5,
+      "kadar_perempuan_peratus": 98.8,
+      "kadar_lelaki_peratus": 98.2
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kedah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.1,
+      "kadar_perempuan_peratus": 98.6,
+      "kadar_lelaki_peratus": 95.6
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kelantan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 102.4,
+      "kadar_perempuan_peratus": 104,
+      "kadar_lelaki_peratus": 100.8
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 99.3,
+      "kadar_perempuan_peratus": 99.6,
+      "kadar_lelaki_peratus": 98.9
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Kelantan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 98.1,
+      "kadar_perempuan_peratus": 99.1,
+      "kadar_lelaki_peratus": 97.2
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Melaka",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97.4,
+      "kadar_perempuan_peratus": 98.3,
+      "kadar_lelaki_peratus": 96.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.4,
+      "kadar_perempuan_peratus": 98.6,
+      "kadar_lelaki_peratus": 98.1
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Melaka",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.2,
+      "kadar_perempuan_peratus": 98.1,
+      "kadar_lelaki_peratus": 96.3
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100,
+      "kadar_perempuan_peratus": 100.3,
+      "kadar_lelaki_peratus": 99.7
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.7,
+      "kadar_perempuan_peratus": 99.1,
+      "kadar_lelaki_peratus": 96.4
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Negeri Sembilan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.3,
+      "kadar_perempuan_peratus": 98.1,
+      "kadar_lelaki_peratus": 96.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pahang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 98.2,
+      "kadar_perempuan_peratus": 99.2,
+      "kadar_lelaki_peratus": 97.2
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.6,
+      "kadar_perempuan_peratus": 98.7,
+      "kadar_lelaki_peratus": 96.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pahang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.5,
+      "kadar_perempuan_peratus": 98.3,
+      "kadar_lelaki_peratus": 96.6
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Perak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.2,
+      "kadar_perempuan_peratus": 101.3,
+      "kadar_lelaki_peratus": 99.2
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Perak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.4,
+      "kadar_perempuan_peratus": 97.6,
+      "kadar_lelaki_peratus": 97.2
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Perak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.7,
+      "kadar_perempuan_peratus": 98.7,
+      "kadar_lelaki_peratus": 96.8
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Perlis",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100.4,
+      "kadar_perempuan_peratus": 102.5,
+      "kadar_lelaki_peratus": 98.3
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97,
+      "kadar_perempuan_peratus": 97.5,
+      "kadar_lelaki_peratus": 96.6
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Perlis",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.5,
+      "kadar_perempuan_peratus": 98.7,
+      "kadar_lelaki_peratus": 94.3
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 97,
+      "kadar_perempuan_peratus": 97.9,
+      "kadar_lelaki_peratus": 96.1
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.9,
+      "kadar_perempuan_peratus": 98.4,
+      "kadar_lelaki_peratus": 97.4
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Pulau Pinang",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.9,
+      "kadar_perempuan_peratus": 98.6,
+      "kadar_lelaki_peratus": 97.2
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sabah",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 100,
+      "kadar_perempuan_peratus": 100.9,
+      "kadar_lelaki_peratus": 99
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.6,
+      "kadar_perempuan_peratus": 97.8,
+      "kadar_lelaki_peratus": 95.3
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sabah",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.3,
+      "kadar_perempuan_peratus": 97.6,
+      "kadar_lelaki_peratus": 95
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sarawak",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 99.6,
+      "kadar_perempuan_peratus": 100.2,
+      "kadar_lelaki_peratus": 98.9
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 96.3,
+      "kadar_perempuan_peratus": 97.4,
+      "kadar_lelaki_peratus": 95.2
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Sarawak",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.3,
+      "kadar_perempuan_peratus": 97.5,
+      "kadar_lelaki_peratus": 95.1
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Selangor",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 96.8,
+      "kadar_perempuan_peratus": 97.5,
+      "kadar_lelaki_peratus": 96.1
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.6,
+      "kadar_perempuan_peratus": 99,
+      "kadar_lelaki_peratus": 98.2
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Selangor",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.9,
+      "kadar_perempuan_peratus": 98.7,
+      "kadar_lelaki_peratus": 97.8
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Terengganu",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 101.4,
+      "kadar_perempuan_peratus": 103.2,
+      "kadar_lelaki_peratus": 99.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98.3,
+      "kadar_perempuan_peratus": 98.8,
+      "kadar_lelaki_peratus": 97.8
+    },
+    {
+      "tahun": 2025,
+      "negeri": "Terengganu",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.3,
+      "kadar_perempuan_peratus": 98.4,
+      "kadar_lelaki_peratus": 96.2
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 92.4,
+      "kadar_perempuan_peratus": 93,
+      "kadar_lelaki_peratus": 91.8
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.8,
+      "kadar_perempuan_peratus": 97.9,
+      "kadar_lelaki_peratus": 97.8
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Kuala Lumpur",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 97.6,
+      "kadar_perempuan_peratus": 98.3,
+      "kadar_lelaki_peratus": 97
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 94.1,
+      "kadar_perempuan_peratus": 95.8,
+      "kadar_lelaki_peratus": 92.4
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 97.7,
+      "kadar_perempuan_peratus": 97.8,
+      "kadar_lelaki_peratus": 97.7
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Labuan",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 96.6,
+      "kadar_perempuan_peratus": 96.5,
+      "kadar_lelaki_peratus": 96.6
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Rendah",
+      "kadar_keseluruhan_peratus": 108.4,
+      "kadar_perempuan_peratus": 111,
+      "kadar_lelaki_peratus": 105.8
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Rendah",
+      "kadar_keseluruhan_peratus": 98,
+      "kadar_perempuan_peratus": 98.5,
+      "kadar_lelaki_peratus": 97.5
+    },
+    {
+      "tahun": 2025,
+      "negeri": "W.P. Putrajaya",
+      "peringkat": "Menengah Atas",
+      "kadar_keseluruhan_peratus": 100.5,
+      "kadar_perempuan_peratus": 100.6,
+      "kadar_lelaki_peratus": 100.4
+    }
+  ],
+  "meta": {
+    "title": "Kadar Tamat Pengajian Sekolah mengikut Negeri dan Jantina (2016–2025) - Muat turun percuma",
+    "description": "Peratusan pelajar yang menamatkan pendidikan rendah, menengah rendah dan menengah atas di peringkat nasional dan negeri, mengikut jantina, data Kementerian Pendidikan Malaysia di data.gov.my. Mengandungi 510 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kadar Tamat Pengajian Sekolah mengikut Negeri dan Jantina (2016–2025) | ListBase",
+    "seo_description": "Muat turun Kadar Tamat Pengajian Sekolah mengikut Negeri dan Jantina (2016–2025) — 510 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 510 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/completion_school_state"
+    ]
+  }
+}

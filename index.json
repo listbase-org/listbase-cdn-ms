@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-19T02:33:07.626Z",
-  "total_datasets": 738,
-  "total_records": 560053,
+  "generated": "2026-11-19T02:33:20.690Z",
+  "total_datasets": 739,
+  "total_records": 560563,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 28
+      "dataset_count": 29
     },
     {
       "id": "entertainment",
@@ -2432,6 +2432,33 @@
         "xlsx": {
           "name": "ms-jurnal-akademik_MS.xlsx",
           "size": 12421
+        }
+      }
+    },
+    {
+      "id": "ms-kadar-tamat-pengajian-sekolah-negeri",
+      "name": "Kadar Tamat Pengajian Sekolah mengikut Negeri dan Jantina (2016–2025)",
+      "category": "education",
+      "record_count": 510,
+      "columns": [
+        "tahun",
+        "negeri",
+        "peringkat",
+        "kadar_keseluruhan_peratus",
+        "kadar_perempuan_peratus",
+        "kadar_lelaki_peratus"
+      ],
+      "source": "https://data.gov.my/data-catalogue/completion_school_state",
+      "updated": "2026-11",
+      "size": 110807,
+      "files": {
+        "csv": {
+          "name": "ms-kadar-tamat-pengajian-sekolah-negeri_MS.csv",
+          "size": 28150
+        },
+        "xlsx": {
+          "name": "ms-kadar-tamat-pengajian-sekolah-negeri_MS.xlsx",
+          "size": 20850
         }
       }
     },
