@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-18T02:30:39.088Z",
-  "total_datasets": 737,
-  "total_records": 559525,
+  "generated": "2026-11-19T02:33:07.626Z",
+  "total_datasets": 738,
+  "total_records": 560053,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "education",
@@ -2186,6 +2186,31 @@
         "xlsx": {
           "name": "ms-harga-minyak-mingguan_MS.xlsx",
           "size": 22327
+        }
+      }
+    },
+    {
+      "id": "ms-inflasi-ihp-tahunan-mengikut-bahagian",
+      "name": "Inflasi Tahunan Indeks Harga Pengguna (IHP) mengikut Bahagian (1961–2025)",
+      "category": "economy",
+      "record_count": 528,
+      "columns": [
+        "tahun",
+        "kod_bahagian",
+        "bahagian",
+        "inflasi_peratus"
+      ],
+      "source": "https://data.gov.my/data-catalogue/cpi_annual_inflation",
+      "updated": "2026-11",
+      "size": 74513,
+      "files": {
+        "csv": {
+          "name": "ms-inflasi-ihp-tahunan-mengikut-bahagian_MS.csv",
+          "size": 24020
+        },
+        "xlsx": {
+          "name": "ms-inflasi-ihp-tahunan-mengikut-bahagian_MS.xlsx",
+          "size": 16995
         }
       }
     },

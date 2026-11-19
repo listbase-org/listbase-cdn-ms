@@ -1,0 +1,3214 @@
+{
+  "id": "ms-inflasi-ihp-tahunan-mengikut-bahagian",
+  "name": "Inflasi Tahunan Indeks Harga Pengguna (IHP) mengikut Bahagian (1961–2025)",
+  "title": "Inflasi Tahunan Indeks Harga Pengguna (IHP) mengikut Bahagian (1961–2025)",
+  "description": "Kadar inflasi tahunan Indeks Harga Pengguna (IHP) Malaysia keseluruhan dan mengikut 13 bahagian perbelanjaan (makanan, pengangkutan, perumahan dan lain-lain), data Jabatan Perangkaan Malaysia (DOSM).",
+  "category": "economy",
+  "source": "https://data.gov.my/data-catalogue/cpi_annual_inflation",
+  "source_url": "https://data.gov.my/data-catalogue/cpi_annual_inflation",
+  "updated": "2026-11",
+  "record_count": 528,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "kod_bahagian",
+      "label": "Kod Bahagian",
+      "type": "number"
+    },
+    {
+      "key": "bahagian",
+      "label": "Bahagian",
+      "type": "string"
+    },
+    {
+      "key": "inflasi_peratus",
+      "label": "Inflasi Peratus",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": 1961,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 1962,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 1963,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.4
+    },
+    {
+      "tahun": 1964,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": -0.5
+    },
+    {
+      "tahun": 1965,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2.3
+    },
+    {
+      "tahun": 1966,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 1.8
+    },
+    {
+      "tahun": 1967,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 4
+    },
+    {
+      "tahun": 1968,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": -0.4
+    },
+    {
+      "tahun": 1969,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": -0.4
+    },
+    {
+      "tahun": 1970,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2.2
+    },
+    {
+      "tahun": 1971,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 1972,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2.9
+    },
+    {
+      "tahun": 1973,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 9.8
+    },
+    {
+      "tahun": 1974,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 17
+    },
+    {
+      "tahun": 1975,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 5.1
+    },
+    {
+      "tahun": 1976,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 1977,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 4.7
+    },
+    {
+      "tahun": 1978,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 4.5
+    },
+    {
+      "tahun": 1979,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.5
+    },
+    {
+      "tahun": 1980,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 7
+    },
+    {
+      "tahun": 1981,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 9.7
+    },
+    {
+      "tahun": 1981,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 11.6
+    },
+    {
+      "tahun": 1981,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 13.3
+    },
+    {
+      "tahun": 1981,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 9
+    },
+    {
+      "tahun": 1981,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 9.8
+    },
+    {
+      "tahun": 1981,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 6.5
+    },
+    {
+      "tahun": 1981,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 8.5
+    },
+    {
+      "tahun": 1981,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 9.1
+    },
+    {
+      "tahun": 1981,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 5.5
+    },
+    {
+      "tahun": 1982,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 5.8
+    },
+    {
+      "tahun": 1982,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 7.4
+    },
+    {
+      "tahun": 1982,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 6.3
+    },
+    {
+      "tahun": 1982,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 3.9
+    },
+    {
+      "tahun": 1982,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 6.5
+    },
+    {
+      "tahun": 1982,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 3.3
+    },
+    {
+      "tahun": 1982,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 5.7
+    },
+    {
+      "tahun": 1982,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 3.6
+    },
+    {
+      "tahun": 1982,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 2.9
+    },
+    {
+      "tahun": 1983,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.6
+    },
+    {
+      "tahun": 1983,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 0.5
+    },
+    {
+      "tahun": 1983,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 21.1
+    },
+    {
+      "tahun": 1983,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 3.6
+    },
+    {
+      "tahun": 1983,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 6.7
+    },
+    {
+      "tahun": 1983,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 2.6
+    },
+    {
+      "tahun": 1983,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 11.9
+    },
+    {
+      "tahun": 1983,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 2.3
+    },
+    {
+      "tahun": 1983,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 1984,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.6
+    },
+    {
+      "tahun": 1984,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 3.9
+    },
+    {
+      "tahun": 1984,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 3.8
+    },
+    {
+      "tahun": 1984,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 1984,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 6.9
+    },
+    {
+      "tahun": 1984,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0.3
+    },
+    {
+      "tahun": 1984,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 1.2
+    },
+    {
+      "tahun": 1984,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 4.1
+    },
+    {
+      "tahun": 1984,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": -3.2
+    },
+    {
+      "tahun": 1985,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 0.4
+    },
+    {
+      "tahun": 1985,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": -2.4
+    },
+    {
+      "tahun": 1985,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 1.1
+    },
+    {
+      "tahun": 1985,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 1.2
+    },
+    {
+      "tahun": 1985,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 4
+    },
+    {
+      "tahun": 1985,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0.1
+    },
+    {
+      "tahun": 1985,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.6
+    },
+    {
+      "tahun": 1985,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 2.2
+    },
+    {
+      "tahun": 1985,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": -1.2
+    },
+    {
+      "tahun": 1986,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 0.6
+    },
+    {
+      "tahun": 1986,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 0.2
+    },
+    {
+      "tahun": 1986,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 1.4
+    },
+    {
+      "tahun": 1986,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 0.5
+    },
+    {
+      "tahun": 1986,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 0.9
+    },
+    {
+      "tahun": 1986,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0.6
+    },
+    {
+      "tahun": 1986,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 1986,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 0.2
+    },
+    {
+      "tahun": 1986,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0.6
+    },
+    {
+      "tahun": 1987,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 0.8
+    },
+    {
+      "tahun": 1987,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": -0.5
+    },
+    {
+      "tahun": 1987,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 7.1
+    },
+    {
+      "tahun": 1987,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 0.5
+    },
+    {
+      "tahun": 1987,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": -0.6
+    },
+    {
+      "tahun": 1987,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 1.3
+    },
+    {
+      "tahun": 1987,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 0.8
+    },
+    {
+      "tahun": 1987,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 3
+    },
+    {
+      "tahun": 1987,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 2.2
+    },
+    {
+      "tahun": 1988,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2.7
+    },
+    {
+      "tahun": 1988,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 3.9
+    },
+    {
+      "tahun": 1988,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 1988,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 2.1
+    },
+    {
+      "tahun": 1988,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": -2.1
+    },
+    {
+      "tahun": 1988,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 2.9
+    },
+    {
+      "tahun": 1988,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 1988,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 6.8
+    },
+    {
+      "tahun": 1988,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 1989,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2.8
+    },
+    {
+      "tahun": 1989,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 3.5
+    },
+    {
+      "tahun": 1989,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 1.3
+    },
+    {
+      "tahun": 1989,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 1.8
+    },
+    {
+      "tahun": 1989,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": -0.8
+    },
+    {
+      "tahun": 1989,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 2.7
+    },
+    {
+      "tahun": 1989,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 1989,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 6.7
+    },
+    {
+      "tahun": 1989,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0.5
+    },
+    {
+      "tahun": 1990,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.1
+    },
+    {
+      "tahun": 1990,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 4.3
+    },
+    {
+      "tahun": 1990,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 3.2
+    },
+    {
+      "tahun": 1990,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 1990,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 0.3
+    },
+    {
+      "tahun": 1990,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 1.8
+    },
+    {
+      "tahun": 1990,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.6
+    },
+    {
+      "tahun": 1990,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 5.1
+    },
+    {
+      "tahun": 1990,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0.8
+    },
+    {
+      "tahun": 1991,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 4.2
+    },
+    {
+      "tahun": 1991,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 4.8
+    },
+    {
+      "tahun": 1991,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 7.8
+    },
+    {
+      "tahun": 1991,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 6.3
+    },
+    {
+      "tahun": 1991,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 3
+    },
+    {
+      "tahun": 1991,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 4.4
+    },
+    {
+      "tahun": 1991,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 5.3
+    },
+    {
+      "tahun": 1991,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 4.3
+    },
+    {
+      "tahun": 1991,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 2.6
+    },
+    {
+      "tahun": 1992,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 4.7
+    },
+    {
+      "tahun": 1992,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 6.6
+    },
+    {
+      "tahun": 1992,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 8.7
+    },
+    {
+      "tahun": 1992,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 2.9
+    },
+    {
+      "tahun": 1992,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 1992,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 1992,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 1992,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 1992,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 1993,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.5
+    },
+    {
+      "tahun": 1993,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 2.3
+    },
+    {
+      "tahun": 1993,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 14.9
+    },
+    {
+      "tahun": 1993,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 0.6
+    },
+    {
+      "tahun": 1993,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 7.3
+    },
+    {
+      "tahun": 1993,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 4.1
+    },
+    {
+      "tahun": 1993,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 8.8
+    },
+    {
+      "tahun": 1993,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 10.2
+    },
+    {
+      "tahun": 1993,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 3.4
+    },
+    {
+      "tahun": 1994,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.7
+    },
+    {
+      "tahun": 1994,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 5.1
+    },
+    {
+      "tahun": 1994,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 4.9
+    },
+    {
+      "tahun": 1994,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.8
+    },
+    {
+      "tahun": 1994,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 2.5
+    },
+    {
+      "tahun": 1994,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 1994,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 3.4
+    },
+    {
+      "tahun": 1994,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 4.5
+    },
+    {
+      "tahun": 1994,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0.6
+    },
+    {
+      "tahun": 1995,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.5
+    },
+    {
+      "tahun": 1995,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 4.9
+    },
+    {
+      "tahun": 1995,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 1995,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 1995,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 3.3
+    },
+    {
+      "tahun": 1995,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 2.8
+    },
+    {
+      "tahun": 1995,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 3
+    },
+    {
+      "tahun": 1995,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 1.9
+    },
+    {
+      "tahun": 1995,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 2.6
+    },
+    {
+      "tahun": 1996,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.5
+    },
+    {
+      "tahun": 1996,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 5.9
+    },
+    {
+      "tahun": 1996,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 2.2
+    },
+    {
+      "tahun": 1996,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.7
+    },
+    {
+      "tahun": 1996,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 3.2
+    },
+    {
+      "tahun": 1996,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 1.1
+    },
+    {
+      "tahun": 1996,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 3.6
+    },
+    {
+      "tahun": 1996,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 1.4
+    },
+    {
+      "tahun": 1996,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 3.2
+    },
+    {
+      "tahun": 1997,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2.7
+    },
+    {
+      "tahun": 1997,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 4.1
+    },
+    {
+      "tahun": 1997,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 1.3
+    },
+    {
+      "tahun": 1997,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.6
+    },
+    {
+      "tahun": 1997,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 3.2
+    },
+    {
+      "tahun": 1997,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0.1
+    },
+    {
+      "tahun": 1997,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 3.7
+    },
+    {
+      "tahun": 1997,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 0.6
+    },
+    {
+      "tahun": 1997,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0.5
+    },
+    {
+      "tahun": 1998,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 5.3
+    },
+    {
+      "tahun": 1998,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 8.9
+    },
+    {
+      "tahun": 1998,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 4.4
+    },
+    {
+      "tahun": 1998,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 0.5
+    },
+    {
+      "tahun": 1998,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 4.2
+    },
+    {
+      "tahun": 1998,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 3.9
+    },
+    {
+      "tahun": 1998,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 6.2
+    },
+    {
+      "tahun": 1998,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": -0.1
+    },
+    {
+      "tahun": 1998,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 3.2
+    },
+    {
+      "tahun": 1999,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2.7
+    },
+    {
+      "tahun": 1999,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 4.7
+    },
+    {
+      "tahun": 1999,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 7.8
+    },
+    {
+      "tahun": 1999,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -2.1
+    },
+    {
+      "tahun": 1999,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 1999,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 1.3
+    },
+    {
+      "tahun": 1999,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.9
+    },
+    {
+      "tahun": 1999,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 0.6
+    },
+    {
+      "tahun": 1999,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 2.6
+    },
+    {
+      "tahun": 2000,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2000,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 1.9
+    },
+    {
+      "tahun": 2000,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 3
+    },
+    {
+      "tahun": 2000,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -1.7
+    },
+    {
+      "tahun": 2000,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2000,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 2000,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.1
+    },
+    {
+      "tahun": 2000,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 2.1
+    },
+    {
+      "tahun": 2000,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0.5
+    },
+    {
+      "tahun": 2001,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2001,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 0.7
+    },
+    {
+      "tahun": 2001,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 4.7
+    },
+    {
+      "tahun": 2001,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -2.7
+    },
+    {
+      "tahun": 2001,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.4
+    },
+    {
+      "tahun": 2001,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0.1
+    },
+    {
+      "tahun": 2001,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.9
+    },
+    {
+      "tahun": 2001,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 3.6
+    },
+    {
+      "tahun": 2001,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": -0.1
+    },
+    {
+      "tahun": 2002,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 2002,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 0.7
+    },
+    {
+      "tahun": 2002,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 4.1
+    },
+    {
+      "tahun": 2002,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -2.2
+    },
+    {
+      "tahun": 2002,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 0.7
+    },
+    {
+      "tahun": 2002,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": -0.4
+    },
+    {
+      "tahun": 2002,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 2002,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 6.6
+    },
+    {
+      "tahun": 2002,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0.2
+    },
+    {
+      "tahun": 2003,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 1.1
+    },
+    {
+      "tahun": 2003,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 1.2
+    },
+    {
+      "tahun": 2003,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": -4.1
+    },
+    {
+      "tahun": 2003,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -2.1
+    },
+    {
+      "tahun": 2003,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 0.9
+    },
+    {
+      "tahun": 2003,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0.1
+    },
+    {
+      "tahun": 2003,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2003,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 2003,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 2004,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 1.4
+    },
+    {
+      "tahun": 2004,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 2.2
+    },
+    {
+      "tahun": 2004,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 10.9
+    },
+    {
+      "tahun": 2004,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -1.8
+    },
+    {
+      "tahun": 2004,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1
+    },
+    {
+      "tahun": 2004,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0.4
+    },
+    {
+      "tahun": 2004,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2004,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 0.6
+    },
+    {
+      "tahun": 2004,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": 0.9
+    },
+    {
+      "tahun": 2004,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": -0.9
+    },
+    {
+      "tahun": 2004,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 1.4
+    },
+    {
+      "tahun": 2004,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 1.8
+    },
+    {
+      "tahun": 2004,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 1.4
+    },
+    {
+      "tahun": 2005,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.1
+    },
+    {
+      "tahun": 2005,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 3.7
+    },
+    {
+      "tahun": 2005,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 14.2
+    },
+    {
+      "tahun": 2005,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.9
+    },
+    {
+      "tahun": 2005,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.2
+    },
+    {
+      "tahun": 2005,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 1.3
+    },
+    {
+      "tahun": 2005,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 2005,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 6.3
+    },
+    {
+      "tahun": 2005,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -0.1
+    },
+    {
+      "tahun": 2005,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0.1
+    },
+    {
+      "tahun": 2005,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 1.8
+    },
+    {
+      "tahun": 2005,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 3.5
+    },
+    {
+      "tahun": 2005,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 1.3
+    },
+    {
+      "tahun": 2006,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.6
+    },
+    {
+      "tahun": 2006,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 3.3
+    },
+    {
+      "tahun": 2006,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 6.9
+    },
+    {
+      "tahun": 2006,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -1.3
+    },
+    {
+      "tahun": 2006,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2006,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 1.1
+    },
+    {
+      "tahun": 2006,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.2
+    },
+    {
+      "tahun": 2006,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 10.9
+    },
+    {
+      "tahun": 2006,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -1.4
+    },
+    {
+      "tahun": 2006,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0.6
+    },
+    {
+      "tahun": 2006,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 2006,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 3.7
+    },
+    {
+      "tahun": 2006,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 2.3
+    },
+    {
+      "tahun": 2007,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2
+    },
+    {
+      "tahun": 2007,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 3.1
+    },
+    {
+      "tahun": 2007,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 7.6
+    },
+    {
+      "tahun": 2007,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -1.3
+    },
+    {
+      "tahun": 2007,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.3
+    },
+    {
+      "tahun": 2007,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 1.1
+    },
+    {
+      "tahun": 2007,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2007,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 2007,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -1.3
+    },
+    {
+      "tahun": 2007,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 1.4
+    },
+    {
+      "tahun": 2007,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 2007,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 3.7
+    },
+    {
+      "tahun": 2007,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 0.9
+    },
+    {
+      "tahun": 2008,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 5.4
+    },
+    {
+      "tahun": 2008,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 8.8
+    },
+    {
+      "tahun": 2008,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 7.3
+    },
+    {
+      "tahun": 2008,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.6
+    },
+    {
+      "tahun": 2008,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 2008,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 3
+    },
+    {
+      "tahun": 2008,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.2
+    },
+    {
+      "tahun": 2008,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 8.8
+    },
+    {
+      "tahun": 2008,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -0.6
+    },
+    {
+      "tahun": 2008,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 1.8
+    },
+    {
+      "tahun": 2008,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 2.3
+    },
+    {
+      "tahun": 2008,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 6.6
+    },
+    {
+      "tahun": 2008,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 3.4
+    },
+    {
+      "tahun": 2009,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 0.6
+    },
+    {
+      "tahun": 2009,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 4.2
+    },
+    {
+      "tahun": 2009,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 6.1
+    },
+    {
+      "tahun": 2009,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.9
+    },
+    {
+      "tahun": 2009,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.4
+    },
+    {
+      "tahun": 2009,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 3
+    },
+    {
+      "tahun": 2009,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.2
+    },
+    {
+      "tahun": 2009,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": -9.4
+    },
+    {
+      "tahun": 2009,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -0.5
+    },
+    {
+      "tahun": 2009,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2009,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 2009,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 2.8
+    },
+    {
+      "tahun": 2009,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 3.6
+    },
+    {
+      "tahun": 2010,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 2010,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 2010,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 4
+    },
+    {
+      "tahun": 2010,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -1.4
+    },
+    {
+      "tahun": 2010,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.1
+    },
+    {
+      "tahun": 2010,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0.6
+    },
+    {
+      "tahun": 2010,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 2010,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 2010,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -0.2
+    },
+    {
+      "tahun": 2010,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 2010,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 2010,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 1.9
+    },
+    {
+      "tahun": 2010,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 2.8
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.2
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 4.8
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 4.6
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.2
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.8
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 1.9
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.7
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 4.4
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -0.3
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 2
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 2.2
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 5.9
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": 0.1
+    },
+    {
+      "tahun": 2011,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 2.7
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 0.4
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.6
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 2
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 0.7
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -0.6
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 1.2
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 2.9
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": 1.3
+    },
+    {
+      "tahun": 2012,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 2
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2.1
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 3.5
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 6
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.6
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 1.9
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 2
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -0.7
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0.1
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 2.5
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 2013,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 0.3
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.2
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 3.4
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 11.6
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.2
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 3.4
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 1
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.9
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 4.9
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -0.7
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 4.6
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2014,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 0.7
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2.1
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 3.6
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 13.5
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 0.5
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 2.7
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 4.5
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": -4.5
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": 1.9
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 4.2
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": 4.1
+    },
+    {
+      "tahun": 2015,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 4.1
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2.1
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 3.8
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 17.2
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.4
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 2.5
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.7
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": -4.6
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -1.6
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 2.5
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 2.1
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 2.8
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": 2.2
+    },
+    {
+      "tahun": 2016,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 2.9
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.7
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 4
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 0.2
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.3
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 2.2
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 2.1
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.5
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 13.2
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -0.3
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 1.9
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 2.5
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": 0.4
+    },
+    {
+      "tahun": 2017,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 1.2
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 1
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": -0.1
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -2
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 2
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0.3
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 0.8
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -1.7
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": -0.4
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 1.1
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": -1.2
+    },
+    {
+      "tahun": 2018,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": -1.4
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 0.7
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -2
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.8
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 1.4
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 0.7
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": -3.1
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": 0.4
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0.7
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 1.4
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 1.2
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": -0.4
+    },
+    {
+      "tahun": 2019,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 0.4
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": -1.2
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 1.3
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 0.3
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.8
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": -1.7
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0.3
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 1.1
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": -10
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": 1.1
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0.4
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 1
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 0.5
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 2020,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 2.7
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2.5
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 0.5
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.4
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 0.4
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 11
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 0.4
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 0.1
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 0.4
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 2021,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 0.5
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 3.3
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 5.8
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 0.5
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 0.1
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.8
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 3.5
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 0.7
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 4.7
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": 0
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 2.3
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 1.2
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 5
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": 0.2
+    },
+    {
+      "tahun": 2022,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 2
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 2.5
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 4.8
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 0.6
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": 0.3
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.7
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 2.3
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 2.2
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 1.1
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -3
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 1.4
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 1.9
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 5.6
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": 0.1
+    },
+    {
+      "tahun": 2023,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 2.4
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 1.8
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 2
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 0.7
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.3
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 3
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0.7
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 1.8
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 1
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -1.5
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 1.9
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 1.5
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 3.1
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": 0.3
+    },
+    {
+      "tahun": 2024,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 3
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "00",
+      "bahagian": "Keseluruhan",
+      "inflasi_peratus": 1.4
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "01",
+      "bahagian": "Makanan & Minuman",
+      "inflasi_peratus": 2.1
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "02",
+      "bahagian": "Minuman Alkohol & Tembakau",
+      "inflasi_peratus": 0.9
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "03",
+      "bahagian": "Pakaian & Kasut",
+      "inflasi_peratus": -0.2
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "04",
+      "bahagian": "Perumahan, Utiliti, Gas & Bahan Api Lain",
+      "inflasi_peratus": 1.6
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "05",
+      "bahagian": "Hiasan, Perkakasan & Penyelenggaraan Isi Rumah",
+      "inflasi_peratus": 0.2
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "06",
+      "bahagian": "Kesihatan",
+      "inflasi_peratus": 1.2
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "07",
+      "bahagian": "Pengangkutan",
+      "inflasi_peratus": 0.4
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "08",
+      "bahagian": "Maklumat & Komunikasi",
+      "inflasi_peratus": -4.3
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "09",
+      "bahagian": "Rekreasi, Sukan & Kebudayaan",
+      "inflasi_peratus": 1.1
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "10",
+      "bahagian": "Pendidikan",
+      "inflasi_peratus": 2.3
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "11",
+      "bahagian": "Restoran & Perkhidmatan Penginapan",
+      "inflasi_peratus": 3.2
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "12",
+      "bahagian": "Insurans & Perkhidmatan Kewangan",
+      "inflasi_peratus": 3.4
+    },
+    {
+      "tahun": 2025,
+      "kod_bahagian": "13",
+      "bahagian": "Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan dan Perkhidmatan",
+      "inflasi_peratus": 4.4
+    }
+  ],
+  "meta": {
+    "title": "Inflasi Tahunan Indeks Harga Pengguna (IHP) mengikut Bahagian (1961–2025) - Muat turun percuma",
+    "description": "Kadar inflasi tahunan Indeks Harga Pengguna (IHP) Malaysia keseluruhan dan mengikut 13 bahagian perbelanjaan (makanan, pengangkutan, perumahan dan lain-lain), data Jabatan Perangkaan Malaysia (DOSM). Mengandungi 528 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Inflasi Tahunan Indeks Harga Pengguna (IHP) mengikut Bahagian (1961–2025) | ListBase",
+    "seo_description": "Muat turun Inflasi Tahunan Indeks Harga Pengguna (IHP) mengikut Bahagian (1961–2025) — 528 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 528 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/cpi_annual_inflation"
+    ]
+  }
+}
