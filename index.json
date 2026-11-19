@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-19T02:33:20.690Z",
-  "total_datasets": 739,
-  "total_records": 560563,
+  "generated": "2026-11-19T02:33:32.353Z",
+  "total_datasets": 740,
+  "total_records": 560969,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 28
+      "dataset_count": 29
     },
     {
       "id": "history",
@@ -5213,6 +5213,39 @@
         "xlsx": {
           "name": "ms-kematian-ibu-bersalin-negeri_MS.xlsx",
           "size": 14493
+        }
+      }
+    },
+    {
+      "id": "ms-kematian-kanak-kanak-bawah-5-negeri",
+      "name": "Kematian Kanak-Kanak Bawah 5 Tahun mengikut Negeri (2000–2025)",
+      "category": "health",
+      "record_count": 406,
+      "columns": [
+        "tahun",
+        "negeri",
+        "kematian_bawah_5_tahun",
+        "kadar_bawah_5_tahun",
+        "kematian_perinatal",
+        "kadar_perinatal",
+        "kematian_neonatal",
+        "kadar_neonatal",
+        "kematian_bayi",
+        "kadar_bayi",
+        "kematian_kanak_kanak_kecil",
+        "kadar_kanak_kanak_kecil"
+      ],
+      "source": "https://data.gov.my/data-catalogue/deaths_early_childhood_state",
+      "updated": "2026-11",
+      "size": 159625,
+      "files": {
+        "csv": {
+          "name": "ms-kematian-kanak-kanak-bawah-5-negeri_MS.csv",
+          "size": 31177
+        },
+        "xlsx": {
+          "name": "ms-kematian-kanak-kanak-bawah-5-negeri_MS.xlsx",
+          "size": 28402
         }
       }
     },
