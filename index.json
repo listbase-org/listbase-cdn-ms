@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-20T02:13:43.958Z",
-  "total_datasets": 741,
-  "total_records": 560991,
+  "generated": "2026-11-20T02:13:53.104Z",
+  "total_datasets": 742,
+  "total_records": 561109,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -18755,6 +18755,34 @@
         "xlsx": {
           "name": "ms-tumbuh-tumbuhan_MS.xlsx",
           "size": 7346
+        }
+      }
+    },
+    {
+      "id": "ms-unsur-kimia",
+      "name": "Senarai Unsur Kimia dalam Bahasa Melayu",
+      "category": "science",
+      "record_count": 118,
+      "columns": [
+        "nombor_atom",
+        "nama",
+        "simbol",
+        "kala",
+        "kumpulan",
+        "siri_kimia",
+        "jisim_atom"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_unsur_mengikut_nombor_atom",
+      "updated": "2026-11",
+      "size": 24786,
+      "files": {
+        "csv": {
+          "name": "ms-unsur-kimia_MS.csv",
+          "size": 6630
+        },
+        "xlsx": {
+          "name": "ms-unsur-kimia_MS.xlsx",
+          "size": 12510
         }
       }
     },

@@ -1,0 +1,1123 @@
+{
+  "id": "ms-unsur-kimia",
+  "name": "Senarai Unsur Kimia dalam Bahasa Melayu",
+  "title": "Senarai Unsur Kimia dalam Bahasa Melayu",
+  "description": "118 unsur kimia mengikut nombor atom dengan nama Bahasa Melayu, simbol, kala, kumpulan, siri kimia dan jisim atom (g/mol), daripada Wikipedia Bahasa Melayu.",
+  "category": "science",
+  "source": "https://ms.wikipedia.org/wiki/Senarai_unsur_mengikut_nombor_atom",
+  "source_url": "https://ms.wikipedia.org/wiki/Senarai_unsur_mengikut_nombor_atom",
+  "updated": "2026-11",
+  "record_count": 118,
+  "columns": [
+    {
+      "key": "nombor_atom",
+      "label": "Nombor Atom",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "simbol",
+      "label": "Simbol",
+      "type": "string"
+    },
+    {
+      "key": "kala",
+      "label": "Kala",
+      "type": "number"
+    },
+    {
+      "key": "kumpulan",
+      "label": "Kumpulan",
+      "type": "number"
+    },
+    {
+      "key": "siri_kimia",
+      "label": "Siri Kimia",
+      "type": "string"
+    },
+    {
+      "key": "jisim_atom",
+      "label": "Jisim Atom",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nombor_atom": 1,
+      "nama": "Hidrogen",
+      "simbol": "H",
+      "kala": 1,
+      "kumpulan": "1",
+      "siri_kimia": "Bukan logam",
+      "jisim_atom": "1.00794(7)"
+    },
+    {
+      "nombor_atom": 2,
+      "nama": "Helium",
+      "simbol": "He",
+      "kala": 1,
+      "kumpulan": "18",
+      "siri_kimia": "Gas adi",
+      "jisim_atom": "4.002602(2)"
+    },
+    {
+      "nombor_atom": 3,
+      "nama": "Litium",
+      "simbol": "Li",
+      "kala": 2,
+      "kumpulan": "1",
+      "siri_kimia": "Logam alkali",
+      "jisim_atom": "6.941(2)"
+    },
+    {
+      "nombor_atom": 4,
+      "nama": "Berilium",
+      "simbol": "Be",
+      "kala": 2,
+      "kumpulan": "2",
+      "siri_kimia": "Logam bumi beralkali",
+      "jisim_atom": "9.012182(3)"
+    },
+    {
+      "nombor_atom": 5,
+      "nama": "Boron",
+      "simbol": "B",
+      "kala": 2,
+      "kumpulan": "13",
+      "siri_kimia": "Metaloid",
+      "jisim_atom": "10.811(7)"
+    },
+    {
+      "nombor_atom": 6,
+      "nama": "Karbon",
+      "simbol": "C",
+      "kala": 2,
+      "kumpulan": "14",
+      "siri_kimia": "Bukan logam",
+      "jisim_atom": "12.0107(8)"
+    },
+    {
+      "nombor_atom": 7,
+      "nama": "Nitrogen",
+      "simbol": "N",
+      "kala": 2,
+      "kumpulan": "15",
+      "siri_kimia": "Bukan logam",
+      "jisim_atom": "14.0067(2)"
+    },
+    {
+      "nombor_atom": 8,
+      "nama": "Oksigen",
+      "simbol": "O",
+      "kala": 2,
+      "kumpulan": "16",
+      "siri_kimia": "Bukan logam",
+      "jisim_atom": "15.9994(3)"
+    },
+    {
+      "nombor_atom": 9,
+      "nama": "Fluorin",
+      "simbol": "F",
+      "kala": 2,
+      "kumpulan": "17",
+      "siri_kimia": "Halogen",
+      "jisim_atom": "18.9984032(5)"
+    },
+    {
+      "nombor_atom": 10,
+      "nama": "Neon",
+      "simbol": "Ne",
+      "kala": 2,
+      "kumpulan": "18",
+      "siri_kimia": "Gas adi",
+      "jisim_atom": "20.1797(6)"
+    },
+    {
+      "nombor_atom": 11,
+      "nama": "Natrium",
+      "simbol": "Na",
+      "kala": 3,
+      "kumpulan": "1",
+      "siri_kimia": "Logam alkali",
+      "jisim_atom": "22.98976928(2)"
+    },
+    {
+      "nombor_atom": 12,
+      "nama": "Magnesium",
+      "simbol": "Mg",
+      "kala": 3,
+      "kumpulan": "2",
+      "siri_kimia": "Logam bumi beralkali",
+      "jisim_atom": "24.3050(6)"
+    },
+    {
+      "nombor_atom": 13,
+      "nama": "Aluminium",
+      "simbol": "Al",
+      "kala": 3,
+      "kumpulan": "13",
+      "siri_kimia": "Logam lemah",
+      "jisim_atom": "26.9815386(8)"
+    },
+    {
+      "nombor_atom": 14,
+      "nama": "Silikon",
+      "simbol": "Si",
+      "kala": 3,
+      "kumpulan": "14",
+      "siri_kimia": "Metaloid",
+      "jisim_atom": "28.0855(3)"
+    },
+    {
+      "nombor_atom": 15,
+      "nama": "Fosforus",
+      "simbol": "P",
+      "kala": 3,
+      "kumpulan": "15",
+      "siri_kimia": "Bukan logam",
+      "jisim_atom": "30.973762(2)"
+    },
+    {
+      "nombor_atom": 16,
+      "nama": "Sulfur",
+      "simbol": "S",
+      "kala": 3,
+      "kumpulan": "16",
+      "siri_kimia": "Bukan logam",
+      "jisim_atom": "32.065(5)"
+    },
+    {
+      "nombor_atom": 17,
+      "nama": "Klorin",
+      "simbol": "Cl",
+      "kala": 3,
+      "kumpulan": "17",
+      "siri_kimia": "Halogen",
+      "jisim_atom": "35.453(2)"
+    },
+    {
+      "nombor_atom": 18,
+      "nama": "Argon",
+      "simbol": "Ar",
+      "kala": 3,
+      "kumpulan": "18",
+      "siri_kimia": "Gas adi",
+      "jisim_atom": "39.948(1)"
+    },
+    {
+      "nombor_atom": 19,
+      "nama": "Kalium",
+      "simbol": "K",
+      "kala": 4,
+      "kumpulan": "1",
+      "siri_kimia": "Logam alkali",
+      "jisim_atom": "39.0983(1)"
+    },
+    {
+      "nombor_atom": 20,
+      "nama": "Kalsium",
+      "simbol": "Ca",
+      "kala": 4,
+      "kumpulan": "2",
+      "siri_kimia": "Logam bumi beralkali",
+      "jisim_atom": "40.078(4)"
+    },
+    {
+      "nombor_atom": 21,
+      "nama": "Skandium",
+      "simbol": "Sc",
+      "kala": 4,
+      "kumpulan": "3",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "44.955912(6)"
+    },
+    {
+      "nombor_atom": 22,
+      "nama": "Titanium",
+      "simbol": "Ti",
+      "kala": 4,
+      "kumpulan": "4",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "47.867(1)"
+    },
+    {
+      "nombor_atom": 23,
+      "nama": "Vanadium",
+      "simbol": "V",
+      "kala": 4,
+      "kumpulan": "5",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "50.9415(1)"
+    },
+    {
+      "nombor_atom": 24,
+      "nama": "Kromium",
+      "simbol": "Cr",
+      "kala": 4,
+      "kumpulan": "6",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "51.9961(6)"
+    },
+    {
+      "nombor_atom": 25,
+      "nama": "Mangan",
+      "simbol": "Mn",
+      "kala": 4,
+      "kumpulan": "7",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "54.938045(5)"
+    },
+    {
+      "nombor_atom": 26,
+      "nama": "Ferum",
+      "simbol": "Fe",
+      "kala": 4,
+      "kumpulan": "8",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "55.845(2)"
+    },
+    {
+      "nombor_atom": 27,
+      "nama": "Kobalt",
+      "simbol": "Co",
+      "kala": 4,
+      "kumpulan": "9",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "58.933195(5)"
+    },
+    {
+      "nombor_atom": 28,
+      "nama": "Nikel",
+      "simbol": "Ni",
+      "kala": 4,
+      "kumpulan": "10",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "58.6934(2)"
+    },
+    {
+      "nombor_atom": 29,
+      "nama": "Kuprum",
+      "simbol": "Cu",
+      "kala": 4,
+      "kumpulan": "11",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "63.546(3)"
+    },
+    {
+      "nombor_atom": 30,
+      "nama": "Zink",
+      "simbol": "Zn",
+      "kala": 4,
+      "kumpulan": "12",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "65.409(4)"
+    },
+    {
+      "nombor_atom": 31,
+      "nama": "Galium",
+      "simbol": "Ga",
+      "kala": 4,
+      "kumpulan": "13",
+      "siri_kimia": "Logam lemah",
+      "jisim_atom": "69.723(1)"
+    },
+    {
+      "nombor_atom": 32,
+      "nama": "Germanium",
+      "simbol": "Ge",
+      "kala": 4,
+      "kumpulan": "14",
+      "siri_kimia": "Metaloid",
+      "jisim_atom": "72.64(1)"
+    },
+    {
+      "nombor_atom": 33,
+      "nama": "Arsenik",
+      "simbol": "As",
+      "kala": 4,
+      "kumpulan": "15",
+      "siri_kimia": "Metaloid",
+      "jisim_atom": "74.92160(2)"
+    },
+    {
+      "nombor_atom": 34,
+      "nama": "Selenium",
+      "simbol": "Se",
+      "kala": 4,
+      "kumpulan": "16",
+      "siri_kimia": "Bukan logam",
+      "jisim_atom": "78.96(3)"
+    },
+    {
+      "nombor_atom": 35,
+      "nama": "Bromin",
+      "simbol": "Br",
+      "kala": 4,
+      "kumpulan": "17",
+      "siri_kimia": "Halogen",
+      "jisim_atom": "79.904(1)"
+    },
+    {
+      "nombor_atom": 36,
+      "nama": "Krypton",
+      "simbol": "Kr",
+      "kala": 4,
+      "kumpulan": "18",
+      "siri_kimia": "Gas adi",
+      "jisim_atom": "83.798(2)"
+    },
+    {
+      "nombor_atom": 37,
+      "nama": "Rubidium",
+      "simbol": "Rb",
+      "kala": 5,
+      "kumpulan": "1",
+      "siri_kimia": "Logam alkali",
+      "jisim_atom": "85.4678(3)"
+    },
+    {
+      "nombor_atom": 38,
+      "nama": "Strontium",
+      "simbol": "Sr",
+      "kala": 5,
+      "kumpulan": "2",
+      "siri_kimia": "Logam bumi beralkali",
+      "jisim_atom": "87.62(1)"
+    },
+    {
+      "nombor_atom": 39,
+      "nama": "Ytrium",
+      "simbol": "Y",
+      "kala": 5,
+      "kumpulan": "3",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "88.90585(2)"
+    },
+    {
+      "nombor_atom": 40,
+      "nama": "Zirkonium",
+      "simbol": "Zr",
+      "kala": 5,
+      "kumpulan": "4",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "91.224(2)"
+    },
+    {
+      "nombor_atom": 41,
+      "nama": "Niobium",
+      "simbol": "Nb",
+      "kala": 5,
+      "kumpulan": "5",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "92.906 38(2)"
+    },
+    {
+      "nombor_atom": 42,
+      "nama": "Molibdenum",
+      "simbol": "Mo",
+      "kala": 5,
+      "kumpulan": "6",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "95.94(2)"
+    },
+    {
+      "nombor_atom": 43,
+      "nama": "Teknetium",
+      "simbol": "Tc",
+      "kala": 5,
+      "kumpulan": "7",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "[98.9063]"
+    },
+    {
+      "nombor_atom": 44,
+      "nama": "Rutenium",
+      "simbol": "Ru",
+      "kala": 5,
+      "kumpulan": "8",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "101.07(2)"
+    },
+    {
+      "nombor_atom": 45,
+      "nama": "Rodium",
+      "simbol": "Rh",
+      "kala": 5,
+      "kumpulan": "9",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "102.90550(2)"
+    },
+    {
+      "nombor_atom": 46,
+      "nama": "Paladium",
+      "simbol": "Pd",
+      "kala": 5,
+      "kumpulan": "10",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "106.42(1)"
+    },
+    {
+      "nombor_atom": 47,
+      "nama": "Argentum",
+      "simbol": "Ag",
+      "kala": 5,
+      "kumpulan": "11",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "107.8682(2)"
+    },
+    {
+      "nombor_atom": 48,
+      "nama": "Kadmium",
+      "simbol": "Cd",
+      "kala": 5,
+      "kumpulan": "12",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "112.411(8)"
+    },
+    {
+      "nombor_atom": 49,
+      "nama": "Indium",
+      "simbol": "In",
+      "kala": 5,
+      "kumpulan": "13",
+      "siri_kimia": "Logam lemah",
+      "jisim_atom": "114.818(3)"
+    },
+    {
+      "nombor_atom": 50,
+      "nama": "Timah",
+      "simbol": "Sn",
+      "kala": 5,
+      "kumpulan": "14",
+      "siri_kimia": "Logam lemah",
+      "jisim_atom": "118.710(7)"
+    },
+    {
+      "nombor_atom": 51,
+      "nama": "Antimoni",
+      "simbol": "Sb",
+      "kala": 5,
+      "kumpulan": "15",
+      "siri_kimia": "Metaloid",
+      "jisim_atom": "121.760(1)"
+    },
+    {
+      "nombor_atom": 52,
+      "nama": "Telurium",
+      "simbol": "Te",
+      "kala": 5,
+      "kumpulan": "16",
+      "siri_kimia": "Metaloid",
+      "jisim_atom": "127.60(3)"
+    },
+    {
+      "nombor_atom": 53,
+      "nama": "Iodin",
+      "simbol": "I",
+      "kala": 5,
+      "kumpulan": "17",
+      "siri_kimia": "Halogen",
+      "jisim_atom": "126.90447(3)"
+    },
+    {
+      "nombor_atom": 54,
+      "nama": "Xenon",
+      "simbol": "Xe",
+      "kala": 5,
+      "kumpulan": "18",
+      "siri_kimia": "Gas adi",
+      "jisim_atom": "131.293(6)"
+    },
+    {
+      "nombor_atom": 55,
+      "nama": "Sesium",
+      "simbol": "Cs",
+      "kala": 6,
+      "kumpulan": "1",
+      "siri_kimia": "Logam alkali",
+      "jisim_atom": "132.9054519(2)"
+    },
+    {
+      "nombor_atom": 56,
+      "nama": "Barium",
+      "simbol": "Ba",
+      "kala": 6,
+      "kumpulan": "2",
+      "siri_kimia": "Logam bumi beralkali",
+      "jisim_atom": "137.327(7)"
+    },
+    {
+      "nombor_atom": 57,
+      "nama": "Lantanum",
+      "simbol": "La",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "138.90547(7)"
+    },
+    {
+      "nombor_atom": 58,
+      "nama": "Serium",
+      "simbol": "Ce",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "140.116(1)"
+    },
+    {
+      "nombor_atom": 59,
+      "nama": "Praseodimium",
+      "simbol": "Pr",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "140.90765(2)"
+    },
+    {
+      "nombor_atom": 60,
+      "nama": "Neodimium",
+      "simbol": "Nd",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "144.242(3)"
+    },
+    {
+      "nombor_atom": 61,
+      "nama": "Promethium",
+      "simbol": "Pm",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "[146.9151]"
+    },
+    {
+      "nombor_atom": 62,
+      "nama": "Samarium",
+      "simbol": "Sm",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "150.36(2)"
+    },
+    {
+      "nombor_atom": 63,
+      "nama": "Europium",
+      "simbol": "Eu",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "151.964(1)"
+    },
+    {
+      "nombor_atom": 64,
+      "nama": "Gadolinium",
+      "simbol": "Gd",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "157.25(3)"
+    },
+    {
+      "nombor_atom": 65,
+      "nama": "Terbium",
+      "simbol": "Tb",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "158.92535(2)"
+    },
+    {
+      "nombor_atom": 66,
+      "nama": "Disprosium",
+      "simbol": "Dy",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "162.500(1)"
+    },
+    {
+      "nombor_atom": 67,
+      "nama": "Holmium",
+      "simbol": "Ho",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "164.93032(2)"
+    },
+    {
+      "nombor_atom": 68,
+      "nama": "Erbium",
+      "simbol": "Er",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "167.259(3)"
+    },
+    {
+      "nombor_atom": 69,
+      "nama": "Thulium",
+      "simbol": "Tm",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "168.93421(2)"
+    },
+    {
+      "nombor_atom": 70,
+      "nama": "Yterbium",
+      "simbol": "Yb",
+      "kala": 6,
+      "kumpulan": "",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "173.04(3)"
+    },
+    {
+      "nombor_atom": 71,
+      "nama": "Lutetium",
+      "simbol": "Lu",
+      "kala": 6,
+      "kumpulan": "3",
+      "siri_kimia": "Lantanida",
+      "jisim_atom": "174.967(1)"
+    },
+    {
+      "nombor_atom": 72,
+      "nama": "Hafnium",
+      "simbol": "Hf",
+      "kala": 6,
+      "kumpulan": "4",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "178.49(2)"
+    },
+    {
+      "nombor_atom": 73,
+      "nama": "Tantalum",
+      "simbol": "Ta",
+      "kala": 6,
+      "kumpulan": "5",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "180.9479(1)"
+    },
+    {
+      "nombor_atom": 74,
+      "nama": "Tungsten",
+      "simbol": "W",
+      "kala": 6,
+      "kumpulan": "6",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "183.84(1)"
+    },
+    {
+      "nombor_atom": 75,
+      "nama": "Rhenium",
+      "simbol": "Re",
+      "kala": 6,
+      "kumpulan": "7",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "186.207(1)"
+    },
+    {
+      "nombor_atom": 76,
+      "nama": "Osmium",
+      "simbol": "Os",
+      "kala": 6,
+      "kumpulan": "8",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "190.23(3)"
+    },
+    {
+      "nombor_atom": 77,
+      "nama": "Iridium",
+      "simbol": "Ir",
+      "kala": 6,
+      "kumpulan": "9",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "192.217(3)"
+    },
+    {
+      "nombor_atom": 78,
+      "nama": "Platinum",
+      "simbol": "Pt",
+      "kala": 6,
+      "kumpulan": "10",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "195.084(9)"
+    },
+    {
+      "nombor_atom": 79,
+      "nama": "Aurum",
+      "simbol": "Au",
+      "kala": 6,
+      "kumpulan": "11",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "196.966569(4)"
+    },
+    {
+      "nombor_atom": 80,
+      "nama": "Raksa",
+      "simbol": "Hg",
+      "kala": 6,
+      "kumpulan": "12",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "200.59(2)"
+    },
+    {
+      "nombor_atom": 81,
+      "nama": "Talium",
+      "simbol": "Tl",
+      "kala": 6,
+      "kumpulan": "13",
+      "siri_kimia": "Logam lemah",
+      "jisim_atom": "204.3833(2)"
+    },
+    {
+      "nombor_atom": 82,
+      "nama": "Plumbum",
+      "simbol": "Pb",
+      "kala": 6,
+      "kumpulan": "14",
+      "siri_kimia": "Logam lemah",
+      "jisim_atom": "207.2(1)"
+    },
+    {
+      "nombor_atom": 83,
+      "nama": "Bismut",
+      "simbol": "Bi",
+      "kala": 6,
+      "kumpulan": "15",
+      "siri_kimia": "Logam lemah",
+      "jisim_atom": "208.98040(1)"
+    },
+    {
+      "nombor_atom": 84,
+      "nama": "Polonium",
+      "simbol": "Po",
+      "kala": 6,
+      "kumpulan": "16",
+      "siri_kimia": "Metaloid",
+      "jisim_atom": "[208.9824]"
+    },
+    {
+      "nombor_atom": 85,
+      "nama": "Astatin",
+      "simbol": "At",
+      "kala": 6,
+      "kumpulan": "17",
+      "siri_kimia": "Halogen",
+      "jisim_atom": "[209.9871]"
+    },
+    {
+      "nombor_atom": 86,
+      "nama": "Radon",
+      "simbol": "Rn",
+      "kala": 6,
+      "kumpulan": "18",
+      "siri_kimia": "Gas adi",
+      "jisim_atom": "[222.0176]"
+    },
+    {
+      "nombor_atom": 87,
+      "nama": "Fransium",
+      "simbol": "Fr",
+      "kala": 7,
+      "kumpulan": "1",
+      "siri_kimia": "Logam alkali",
+      "jisim_atom": "[223.0197]"
+    },
+    {
+      "nombor_atom": 88,
+      "nama": "Radium",
+      "simbol": "Ra",
+      "kala": 7,
+      "kumpulan": "2",
+      "siri_kimia": "Logam bumi beralkali",
+      "jisim_atom": "[226.0254]"
+    },
+    {
+      "nombor_atom": 89,
+      "nama": "Aktinium",
+      "simbol": "Ac",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "[227.0278]"
+    },
+    {
+      "nombor_atom": 90,
+      "nama": "Torium",
+      "simbol": "Th",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "232.03806(2)"
+    },
+    {
+      "nombor_atom": 91,
+      "nama": "Protaktinium",
+      "simbol": "Pa",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "231.03588(2)"
+    },
+    {
+      "nombor_atom": 92,
+      "nama": "Uranium",
+      "simbol": "U",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "238.02891(3)"
+    },
+    {
+      "nombor_atom": 93,
+      "nama": "Neptunium",
+      "simbol": "Np",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "[237.0482]"
+    },
+    {
+      "nombor_atom": 94,
+      "nama": "Plutonium",
+      "simbol": "Pu",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "[244.0642]"
+    },
+    {
+      "nombor_atom": 95,
+      "nama": "Amerisium",
+      "simbol": "Am",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "[243.0614]"
+    },
+    {
+      "nombor_atom": 96,
+      "nama": "Kurium",
+      "simbol": "Cm",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "[247.0703]"
+    },
+    {
+      "nombor_atom": 97,
+      "nama": "Berkelium",
+      "simbol": "Bk",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "[247.0703]"
+    },
+    {
+      "nombor_atom": 98,
+      "nama": "Kalifornium",
+      "simbol": "Cf",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "[251.0796]"
+    },
+    {
+      "nombor_atom": 99,
+      "nama": "Einsteinium",
+      "simbol": "Es",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "[252.0829]"
+    },
+    {
+      "nombor_atom": 100,
+      "nama": "Fermium",
+      "simbol": "Fm",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "[257.0951]"
+    },
+    {
+      "nombor_atom": 101,
+      "nama": "Mendelevium",
+      "simbol": "Md",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "[258.0986]"
+    },
+    {
+      "nombor_atom": 102,
+      "nama": "Nobelium",
+      "simbol": "No",
+      "kala": 7,
+      "kumpulan": "",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "[259.1009]"
+    },
+    {
+      "nombor_atom": 103,
+      "nama": "Lawrensium",
+      "simbol": "Lr",
+      "kala": 7,
+      "kumpulan": "3",
+      "siri_kimia": "Aktinida",
+      "jisim_atom": "[260.1053]"
+    },
+    {
+      "nombor_atom": 104,
+      "nama": "Rutherfordium",
+      "simbol": "Rf",
+      "kala": 7,
+      "kumpulan": "4",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "[261.1087]"
+    },
+    {
+      "nombor_atom": 105,
+      "nama": "Dubnium",
+      "simbol": "Db",
+      "kala": 7,
+      "kumpulan": "5",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "[262.1138]"
+    },
+    {
+      "nombor_atom": 106,
+      "nama": "Seaborgium",
+      "simbol": "Sg",
+      "kala": 7,
+      "kumpulan": "6",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "[263.1182]"
+    },
+    {
+      "nombor_atom": 107,
+      "nama": "Bohrium",
+      "simbol": "Bh",
+      "kala": 7,
+      "kumpulan": "7",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": "[262.1229]"
+    },
+    {
+      "nombor_atom": 108,
+      "nama": "Hassium",
+      "simbol": "Hs",
+      "kala": 7,
+      "kumpulan": "8",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": ""
+    },
+    {
+      "nombor_atom": 109,
+      "nama": "Meitnerium",
+      "simbol": "Mt",
+      "kala": 7,
+      "kumpulan": "9",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": ""
+    },
+    {
+      "nombor_atom": 110,
+      "nama": "Darmstadtium",
+      "simbol": "Ds",
+      "kala": 7,
+      "kumpulan": "10",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": ""
+    },
+    {
+      "nombor_atom": 111,
+      "nama": "Roentgenium",
+      "simbol": "Rg",
+      "kala": 7,
+      "kumpulan": "11",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": ""
+    },
+    {
+      "nombor_atom": 112,
+      "nama": "Kopernisium",
+      "simbol": "Cn",
+      "kala": 7,
+      "kumpulan": "12",
+      "siri_kimia": "Logam peralihan",
+      "jisim_atom": ""
+    },
+    {
+      "nombor_atom": 113,
+      "nama": "Nihonium",
+      "simbol": "Nh",
+      "kala": 7,
+      "kumpulan": "13",
+      "siri_kimia": "Logam lemah",
+      "jisim_atom": ""
+    },
+    {
+      "nombor_atom": 114,
+      "nama": "Flerovium",
+      "simbol": "Fl",
+      "kala": 7,
+      "kumpulan": "14",
+      "siri_kimia": "Logam lemah",
+      "jisim_atom": ""
+    },
+    {
+      "nombor_atom": 115,
+      "nama": "Moscovium",
+      "simbol": "Mc",
+      "kala": 7,
+      "kumpulan": "15",
+      "siri_kimia": "Logam lemah",
+      "jisim_atom": ""
+    },
+    {
+      "nombor_atom": 116,
+      "nama": "Livermorium",
+      "simbol": "Lv",
+      "kala": 7,
+      "kumpulan": "16",
+      "siri_kimia": "Logam lemah",
+      "jisim_atom": ""
+    },
+    {
+      "nombor_atom": 117,
+      "nama": "Tennessin",
+      "simbol": "Ts",
+      "kala": 7,
+      "kumpulan": "17",
+      "siri_kimia": "Halogen",
+      "jisim_atom": ""
+    },
+    {
+      "nombor_atom": 118,
+      "nama": "Oganesson",
+      "simbol": "Og",
+      "kala": 7,
+      "kumpulan": "18",
+      "siri_kimia": "Gas adi",
+      "jisim_atom": ""
+    }
+  ],
+  "meta": {
+    "title": "Senarai Unsur Kimia dalam Bahasa Melayu - Muat turun percuma",
+    "description": "118 unsur kimia mengikut nombor atom dengan nama Bahasa Melayu, simbol, kala, kumpulan, siri kimia dan jisim atom (g/mol), daripada Wikipedia Bahasa Melayu. Mengandungi 118 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Senarai Unsur Kimia dalam Bahasa Melayu | ListBase",
+    "seo_description": "Muat turun Senarai Unsur Kimia dalam Bahasa Melayu — 118 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 118 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://ms.wikipedia.org/wiki/Senarai_unsur_mengikut_nombor_atom"
+    ]
+  }
+}
