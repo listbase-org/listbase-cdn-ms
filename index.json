@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-19T02:33:32.353Z",
-  "total_datasets": 740,
-  "total_records": 560969,
+  "generated": "2026-11-20T02:13:43.958Z",
+  "total_datasets": 741,
+  "total_records": 560991,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -18630,6 +18630,35 @@
         "xlsx": {
           "name": "ms-burung_MS.xlsx",
           "size": 20349
+        }
+      }
+    },
+    {
+      "id": "ms-gempa-bumi-di-malaysia",
+      "name": "Senarai Gempa Bumi yang Dirasai di Malaysia (1922–2025)",
+      "category": "science",
+      "record_count": 22,
+      "columns": [
+        "tarikh_utc",
+        "peristiwa",
+        "lokasi",
+        "magnitud",
+        "keamatan_mmi",
+        "kematian",
+        "kecederaan",
+        "keterangan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Senarai_gempa_bumi_di_Malaysia",
+      "updated": "2026-11",
+      "size": 11571,
+      "files": {
+        "csv": {
+          "name": "ms-gempa-bumi-di-malaysia_MS.csv",
+          "size": 5683
+        },
+        "xlsx": {
+          "name": "ms-gempa-bumi-di-malaysia_MS.xlsx",
+          "size": 9636
         }
       }
     },
