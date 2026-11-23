@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-23T02:27:50.779Z",
-  "total_datasets": 743,
-  "total_records": 561647,
+  "generated": "2026-11-23T02:27:59.394Z",
+  "total_datasets": 744,
+  "total_records": 561660,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "food",
@@ -3950,6 +3950,41 @@
         "xlsx": {
           "name": "ms-gabenor-bank-negara_MS.xlsx",
           "size": 7516
+        }
+      }
+    },
+    {
+      "id": "ms-hasil-perbelanjaan-kerajaan-negeri",
+      "name": "Hasil dan Perbelanjaan Sebenar Kerajaan Negeri Malaysia (2020 & 2022)",
+      "category": "finance",
+      "record_count": 13,
+      "columns": [
+        "negeri",
+        "tahun",
+        "hasil_cukai",
+        "hasil_bukan_cukai",
+        "terimaan_bukan_hasil",
+        "jumlah_hasil",
+        "perbelanjaan_pembangunan",
+        "perbelanjaan_mengurus",
+        "emolumen",
+        "perkhidmatan_bekalan",
+        "aset",
+        "bayaran_tetap",
+        "perbelanjaan_lain",
+        "jumlah_perbelanjaan"
+      ],
+      "source": "https://data.gov.my/data-catalogue/state_finance_revenue",
+      "updated": "2026-11",
+      "size": 8987,
+      "files": {
+        "csv": {
+          "name": "ms-hasil-perbelanjaan-kerajaan-negeri_MS.csv",
+          "size": 1833
+        },
+        "xlsx": {
+          "name": "ms-hasil-perbelanjaan-kerajaan-negeri_MS.xlsx",
+          "size": 8250
         }
       }
     },
