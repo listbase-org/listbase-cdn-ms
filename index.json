@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-20T02:13:53.104Z",
-  "total_datasets": 742,
-  "total_records": 561109,
+  "generated": "2026-11-23T02:27:50.779Z",
+  "total_datasets": 743,
+  "total_records": 561647,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "society",
@@ -18585,6 +18585,31 @@
         "xlsx": {
           "name": "ms-alamanak-astronomi_MS.xlsx",
           "size": 35143
+        }
+      }
+    },
+    {
+      "id": "ms-almanak-astronomi-malaysia",
+      "name": "Almanak Astronomi Malaysia: Fasa Bulan, Hujan Meteor, Gerhana dan Fenomena Langit (2022–2026)",
+      "category": "science",
+      "record_count": 538,
+      "columns": [
+        "tarikh",
+        "masa",
+        "fenomena",
+        "penerangan"
+      ],
+      "source": "https://data.gov.my/data-catalogue/almanak_astronomi",
+      "updated": "2026-11",
+      "size": 139574,
+      "files": {
+        "csv": {
+          "name": "ms-almanak-astronomi-malaysia_MS.csv",
+          "size": 92259
+        },
+        "xlsx": {
+          "name": "ms-almanak-astronomi-malaysia_MS.xlsx",
+          "size": 31482
         }
       }
     },
