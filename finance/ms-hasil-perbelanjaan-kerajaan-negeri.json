@@ -1,0 +1,271 @@
+{
+  "id": "ms-hasil-perbelanjaan-kerajaan-negeri",
+  "name": "Hasil dan Perbelanjaan Sebenar Kerajaan Negeri Malaysia 2022",
+  "title": "Hasil dan Perbelanjaan Sebenar Kerajaan Negeri Malaysia 2022",
+  "description": "Hasil sebenar (cukai, bukan cukai, terimaan bukan hasil) dan perbelanjaan sebenar (mengurus mengikut objek dan pembangunan) bagi 12 kerajaan negeri Malaysia bagi tahun 2022, dalam RM juta, daripada data.gov.my (Sarawak tidak disertakan kerana sumber hanya menerbitkan data 2020 untuk negeri itu).",
+  "category": "finance",
+  "source": "https://data.gov.my/data-catalogue/state_finance_revenue",
+  "source_url": "https://data.gov.my/data-catalogue/state_finance_revenue",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "hasil_cukai",
+      "label": "Hasil Cukai",
+      "type": "number"
+    },
+    {
+      "key": "hasil_bukan_cukai",
+      "label": "Hasil Bukan Cukai",
+      "type": "number"
+    },
+    {
+      "key": "terimaan_bukan_hasil",
+      "label": "Terimaan Bukan Hasil",
+      "type": "number"
+    },
+    {
+      "key": "jumlah_hasil",
+      "label": "Jumlah Hasil",
+      "type": "number"
+    },
+    {
+      "key": "perbelanjaan_pembangunan",
+      "label": "Perbelanjaan Pembangunan",
+      "type": "number"
+    },
+    {
+      "key": "perbelanjaan_mengurus",
+      "label": "Perbelanjaan Mengurus",
+      "type": "number"
+    },
+    {
+      "key": "emolumen",
+      "label": "Emolumen",
+      "type": "number"
+    },
+    {
+      "key": "perkhidmatan_bekalan",
+      "label": "Perkhidmatan Bekalan",
+      "type": "number"
+    },
+    {
+      "key": "aset",
+      "label": "Aset",
+      "type": "number"
+    },
+    {
+      "key": "bayaran_tetap",
+      "label": "Bayaran Tetap",
+      "type": "number"
+    },
+    {
+      "key": "perbelanjaan_lain",
+      "label": "Perbelanjaan Lain",
+      "type": "number"
+    },
+    {
+      "key": "jumlah_perbelanjaan",
+      "label": "Jumlah Perbelanjaan",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Johor",
+      "hasil_cukai": 678.64,
+      "hasil_bukan_cukai": 621.72,
+      "terimaan_bukan_hasil": 247.44,
+      "jumlah_hasil": 1547.79,
+      "perbelanjaan_pembangunan": 735.57,
+      "perbelanjaan_mengurus": 1627.06,
+      "emolumen": 557.36,
+      "perkhidmatan_bekalan": 282.02,
+      "aset": 24.72,
+      "bayaran_tetap": 753.54,
+      "perbelanjaan_lain": 9.42,
+      "jumlah_perbelanjaan": 2362.63
+    },
+    {
+      "negeri": "Kedah",
+      "hasil_cukai": 259.82,
+      "hasil_bukan_cukai": 170.81,
+      "terimaan_bukan_hasil": 166.54,
+      "jumlah_hasil": 597.17,
+      "perbelanjaan_pembangunan": 145,
+      "perbelanjaan_mengurus": 607.54,
+      "emolumen": 236.46,
+      "perkhidmatan_bekalan": 152.84,
+      "aset": 9.23,
+      "bayaran_tetap": 202.01,
+      "perbelanjaan_lain": 7,
+      "jumlah_perbelanjaan": 752.54
+    },
+    {
+      "negeri": "Kelantan",
+      "hasil_cukai": 163.92,
+      "hasil_bukan_cukai": 333.37,
+      "terimaan_bukan_hasil": 486.13,
+      "jumlah_hasil": 983.42,
+      "perbelanjaan_pembangunan": 360.23,
+      "perbelanjaan_mengurus": 818.81,
+      "emolumen": 182.47,
+      "perkhidmatan_bekalan": 160.5,
+      "aset": 32.46,
+      "bayaran_tetap": 439.25,
+      "perbelanjaan_lain": 4.13,
+      "jumlah_perbelanjaan": 1179.04
+    },
+    {
+      "negeri": "Melaka",
+      "hasil_cukai": 122.44,
+      "hasil_bukan_cukai": 264.37,
+      "terimaan_bukan_hasil": 65.94,
+      "jumlah_hasil": 452.75,
+      "perbelanjaan_pembangunan": 77.31,
+      "perbelanjaan_mengurus": 417.9,
+      "emolumen": 115.75,
+      "perkhidmatan_bekalan": 167.79,
+      "aset": 4.13,
+      "bayaran_tetap": 129.15,
+      "perbelanjaan_lain": 1.08,
+      "jumlah_perbelanjaan": 495.21
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "hasil_cukai": 160.65,
+      "hasil_bukan_cukai": 297.53,
+      "terimaan_bukan_hasil": 63.04,
+      "jumlah_hasil": 521.22,
+      "perbelanjaan_pembangunan": 114.91,
+      "perbelanjaan_mengurus": 400.52,
+      "emolumen": 192.66,
+      "perkhidmatan_bekalan": 99.09,
+      "aset": 1.8,
+      "bayaran_tetap": 100.45,
+      "perbelanjaan_lain": 6.52,
+      "jumlah_perbelanjaan": 515.43
+    },
+    {
+      "negeri": "Pahang",
+      "hasil_cukai": 469.22,
+      "hasil_bukan_cukai": 547.15,
+      "terimaan_bukan_hasil": 271.66,
+      "jumlah_hasil": 1288.03,
+      "perbelanjaan_pembangunan": 118.27,
+      "perbelanjaan_mengurus": 1195.22,
+      "emolumen": 355.64,
+      "perkhidmatan_bekalan": 197.86,
+      "aset": 21.86,
+      "bayaran_tetap": 610.83,
+      "perbelanjaan_lain": 9.03,
+      "jumlah_perbelanjaan": 1313.49
+    },
+    {
+      "negeri": "Perak",
+      "hasil_cukai": 507.78,
+      "hasil_bukan_cukai": 381.38,
+      "terimaan_bukan_hasil": 204.59,
+      "jumlah_hasil": 1093.75,
+      "perbelanjaan_pembangunan": 343.07,
+      "perbelanjaan_mengurus": 784.62,
+      "emolumen": 395.13,
+      "perkhidmatan_bekalan": 266.79,
+      "aset": 7.29,
+      "bayaran_tetap": 108.5,
+      "perbelanjaan_lain": 6.91,
+      "jumlah_perbelanjaan": 1127.69
+    },
+    {
+      "negeri": "Perlis",
+      "hasil_cukai": 21.38,
+      "hasil_bukan_cukai": 45.05,
+      "terimaan_bukan_hasil": 85.58,
+      "jumlah_hasil": 152,
+      "perbelanjaan_pembangunan": 58.1,
+      "perbelanjaan_mengurus": 149.35,
+      "emolumen": 56.8,
+      "perkhidmatan_bekalan": 61.57,
+      "aset": 3.53,
+      "bayaran_tetap": 26.11,
+      "perbelanjaan_lain": 1.34,
+      "jumlah_perbelanjaan": 207.45
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "hasil_cukai": 148.33,
+      "hasil_bukan_cukai": 336.32,
+      "terimaan_bukan_hasil": 110.41,
+      "jumlah_hasil": 595.06,
+      "perbelanjaan_pembangunan": 225.72,
+      "perbelanjaan_mengurus": 755.02,
+      "emolumen": 180.28,
+      "perkhidmatan_bekalan": 179.94,
+      "aset": 6.42,
+      "bayaran_tetap": 386.86,
+      "perbelanjaan_lain": 1.52,
+      "jumlah_perbelanjaan": 980.74
+    },
+    {
+      "negeri": "Sabah",
+      "hasil_cukai": 3770.54,
+      "hasil_bukan_cukai": 2564.2,
+      "terimaan_bukan_hasil": 625.85,
+      "jumlah_hasil": 6960.59,
+      "perbelanjaan_pembangunan": 1381.03,
+      "perbelanjaan_mengurus": 4105.78,
+      "emolumen": 757.03,
+      "perkhidmatan_bekalan": 1090.99,
+      "aset": 727.01,
+      "bayaran_tetap": 1018.84,
+      "perbelanjaan_lain": 511.91,
+      "jumlah_perbelanjaan": 5486.81
+    },
+    {
+      "negeri": "Selangor",
+      "hasil_cukai": 722.5,
+      "hasil_bukan_cukai": 1543.18,
+      "terimaan_bukan_hasil": 268.15,
+      "jumlah_hasil": 2533.83,
+      "perbelanjaan_pembangunan": 1019.54,
+      "perbelanjaan_mengurus": 1390.89,
+      "emolumen": 482.74,
+      "perkhidmatan_bekalan": 507.26,
+      "aset": 11.83,
+      "bayaran_tetap": 367.83,
+      "perbelanjaan_lain": 21.22,
+      "jumlah_perbelanjaan": 2410.43
+    },
+    {
+      "negeri": "Terengganu",
+      "hasil_cukai": 75.27,
+      "hasil_bukan_cukai": 217.38,
+      "terimaan_bukan_hasil": 1485.88,
+      "jumlah_hasil": 1778.54,
+      "perbelanjaan_pembangunan": 1031.46,
+      "perbelanjaan_mengurus": 1354.28,
+      "emolumen": 265.94,
+      "perkhidmatan_bekalan": 227.23,
+      "aset": 10.24,
+      "bayaran_tetap": 849.17,
+      "perbelanjaan_lain": 1.7,
+      "jumlah_perbelanjaan": 2385.74
+    }
+  ],
+  "meta": {
+    "title": "Hasil dan Perbelanjaan Sebenar Kerajaan Negeri Malaysia 2022 - Muat turun percuma",
+    "description": "Hasil sebenar (cukai, bukan cukai, terimaan bukan hasil) dan perbelanjaan sebenar (mengurus mengikut objek dan pembangunan) bagi 12 kerajaan negeri Malaysia bagi tahun 2022, dalam RM juta, daripada data.gov.my (Sarawak tidak disertakan kerana sumber hanya menerbitkan data 2020 untuk negeri itu). Mengandungi 12 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Hasil dan Perbelanjaan Sebenar Kerajaan Negeri Malaysia 2022 | ListBase",
+    "seo_description": "Muat turun Hasil dan Perbelanjaan Sebenar Kerajaan Negeri Malaysia 2022 — 12 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 12 rekod / 13 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/state_finance_revenue"
+    ]
+  }
+}
