@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-24T02:10:12.249Z",
-  "total_datasets": 745,
-  "total_records": 562046,
+  "generated": "2026-11-24T02:10:20.985Z",
+  "total_datasets": 746,
+  "total_records": 562127,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "sports",
@@ -19163,6 +19163,34 @@
         "xlsx": {
           "name": "ms-penduduk-daerah_MS.xlsx",
           "size": 14335
+        }
+      }
+    },
+    {
+      "id": "ms-pengeluaran-pasport-pejabat-imigresen-tahunan",
+      "name": "Pengeluaran Pasport Malaysia mengikut Pejabat Imigresen dan Negeri (2021–2025)",
+      "category": "society",
+      "record_count": 81,
+      "columns": [
+        "negeri",
+        "pejabat",
+        "pasport_2021",
+        "pasport_2022",
+        "pasport_2023",
+        "pasport_2024",
+        "pasport_2025"
+      ],
+      "source": "https://data.gov.my/data-catalogue/passports",
+      "updated": "2026-11",
+      "size": 19488,
+      "files": {
+        "csv": {
+          "name": "ms-pengeluaran-pasport-pejabat-imigresen-tahunan_MS.csv",
+          "size": 5065
+        },
+        "xlsx": {
+          "name": "ms-pengeluaran-pasport-pejabat-imigresen-tahunan_MS.xlsx",
+          "size": 10702
         }
       }
     },
