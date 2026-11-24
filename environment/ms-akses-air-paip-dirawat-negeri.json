@@ -1,0 +1,2760 @@
+{
+  "id": "ms-akses-air-paip-dirawat-negeri",
+  "name": "Akses Isi Rumah kepada Air Paip Dirawat mengikut Negeri dan Strata (2000–2025)",
+  "title": "Akses Isi Rumah kepada Air Paip Dirawat mengikut Negeri dan Strata (2000–2025)",
+  "description": "Peratusan isi rumah yang mendapat bekalan air paip dirawat bagi Malaysia dan setiap negeri, keseluruhan serta mengikut strata bandar dan luar bandar, dari tahun 2000 hingga 2025, daripada data.gov.my.",
+  "category": "environment",
+  "source": "https://data.gov.my/data-catalogue/water_access",
+  "source_url": "https://data.gov.my/data-catalogue/water_access",
+  "updated": "2026-11",
+  "record_count": 387,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "keseluruhan_peratus",
+      "label": "Keseluruhan Peratus",
+      "type": "number"
+    },
+    {
+      "key": "bandar_peratus",
+      "label": "Bandar Peratus",
+      "type": "number"
+    },
+    {
+      "key": "luar_bandar_peratus",
+      "label": "Luar Bandar Peratus",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Malaysia",
+      "tahun": 2000,
+      "keseluruhan_peratus": 92,
+      "bandar_peratus": 97,
+      "luar_bandar_peratus": 85
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2001,
+      "keseluruhan_peratus": 92.7,
+      "bandar_peratus": 97,
+      "luar_bandar_peratus": 86
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2002,
+      "keseluruhan_peratus": 93.2,
+      "bandar_peratus": 97,
+      "luar_bandar_peratus": 86
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2003,
+      "keseluruhan_peratus": 93.7,
+      "bandar_peratus": 98.2,
+      "luar_bandar_peratus": 86.2
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2004,
+      "keseluruhan_peratus": 94,
+      "bandar_peratus": 97,
+      "luar_bandar_peratus": 87
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2005,
+      "keseluruhan_peratus": 95,
+      "bandar_peratus": 98,
+      "luar_bandar_peratus": 92
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2006,
+      "keseluruhan_peratus": 94.8,
+      "bandar_peratus": 97.8,
+      "luar_bandar_peratus": 91
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2007,
+      "keseluruhan_peratus": 90.5,
+      "bandar_peratus": 96.5,
+      "luar_bandar_peratus": 84.6
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2008,
+      "keseluruhan_peratus": 90.9,
+      "bandar_peratus": 96.5,
+      "luar_bandar_peratus": 85.3
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2009,
+      "keseluruhan_peratus": 93,
+      "bandar_peratus": 96.8,
+      "luar_bandar_peratus": 88.4
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2010,
+      "keseluruhan_peratus": 94.2,
+      "bandar_peratus": 96.7,
+      "luar_bandar_peratus": 89.7
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2011,
+      "keseluruhan_peratus": 94.4,
+      "bandar_peratus": 96.8,
+      "luar_bandar_peratus": 90.1
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2012,
+      "keseluruhan_peratus": 94.7,
+      "bandar_peratus": 96.9,
+      "luar_bandar_peratus": 90.7
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2013,
+      "keseluruhan_peratus": 95.1,
+      "bandar_peratus": 97,
+      "luar_bandar_peratus": 92.5
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2014,
+      "keseluruhan_peratus": 95.3,
+      "bandar_peratus": 97.1,
+      "luar_bandar_peratus": 92.6
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2015,
+      "keseluruhan_peratus": 95.5,
+      "bandar_peratus": 97.2,
+      "luar_bandar_peratus": 93
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2016,
+      "keseluruhan_peratus": 95.3,
+      "bandar_peratus": 97.2,
+      "luar_bandar_peratus": 93.4
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2017,
+      "keseluruhan_peratus": 95.5,
+      "bandar_peratus": 97.2,
+      "luar_bandar_peratus": 93.9
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2018,
+      "keseluruhan_peratus": 95.6,
+      "bandar_peratus": 97.2,
+      "luar_bandar_peratus": 94
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2019,
+      "keseluruhan_peratus": 95.2,
+      "bandar_peratus": 97.3,
+      "luar_bandar_peratus": 93.1
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2020,
+      "keseluruhan_peratus": 94.5,
+      "bandar_peratus": 97.3,
+      "luar_bandar_peratus": 91.6
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2021,
+      "keseluruhan_peratus": 94.7,
+      "bandar_peratus": 97.5,
+      "luar_bandar_peratus": 91.9
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2022,
+      "keseluruhan_peratus": 94.9,
+      "bandar_peratus": 97.4,
+      "luar_bandar_peratus": 92.3
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2023,
+      "keseluruhan_peratus": 95.2,
+      "bandar_peratus": 97.4,
+      "luar_bandar_peratus": 93.1
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2024,
+      "keseluruhan_peratus": 95.3,
+      "bandar_peratus": 97.4,
+      "luar_bandar_peratus": 93.2
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2000,
+      "keseluruhan_peratus": 99,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 98
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2001,
+      "keseluruhan_peratus": 99.7,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2002,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2003,
+      "keseluruhan_peratus": 99.7,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2004,
+      "keseluruhan_peratus": 99.4,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 98
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2005,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2006,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2007,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2008,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2009,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2010,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2011,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2012,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2013,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2014,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2015,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2017,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2023,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2025,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2000,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 97
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2001,
+      "keseluruhan_peratus": 98.2,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 97
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2002,
+      "keseluruhan_peratus": 98.7,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 98
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2003,
+      "keseluruhan_peratus": 99.4,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2004,
+      "keseluruhan_peratus": 99.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 98
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2005,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2006,
+      "keseluruhan_peratus": 99,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2007,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 92.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2008,
+      "keseluruhan_peratus": 97,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 95
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2009,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2010,
+      "keseluruhan_peratus": 98.2,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2011,
+      "keseluruhan_peratus": 98.2,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2012,
+      "keseluruhan_peratus": 98.2,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2013,
+      "keseluruhan_peratus": 98.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2014,
+      "keseluruhan_peratus": 98.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2015,
+      "keseluruhan_peratus": 98.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "keseluruhan_peratus": 98.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "keseluruhan_peratus": 98.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "keseluruhan_peratus": 98.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "keseluruhan_peratus": 98.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "keseluruhan_peratus": 98.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "keseluruhan_peratus": 98.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "keseluruhan_peratus": 98.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "keseluruhan_peratus": 98.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "keseluruhan_peratus": 98.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2025,
+      "keseluruhan_peratus": 98.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96.5
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2000,
+      "keseluruhan_peratus": 53,
+      "bandar_peratus": 63,
+      "luar_bandar_peratus": 48
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2001,
+      "keseluruhan_peratus": 57.5,
+      "bandar_peratus": 68,
+      "luar_bandar_peratus": 52
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2002,
+      "keseluruhan_peratus": 61.7,
+      "bandar_peratus": 71,
+      "luar_bandar_peratus": 57
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2003,
+      "keseluruhan_peratus": 62.1,
+      "bandar_peratus": 72,
+      "luar_bandar_peratus": 57
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2004,
+      "keseluruhan_peratus": 63.8,
+      "bandar_peratus": 71,
+      "luar_bandar_peratus": 56
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2005,
+      "keseluruhan_peratus": 70,
+      "bandar_peratus": 80,
+      "luar_bandar_peratus": 60
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2006,
+      "keseluruhan_peratus": 72,
+      "bandar_peratus": 79,
+      "luar_bandar_peratus": 65
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2007,
+      "keseluruhan_peratus": 53,
+      "bandar_peratus": 55.5,
+      "luar_bandar_peratus": 52.1
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2008,
+      "keseluruhan_peratus": 54.2,
+      "bandar_peratus": 56.3,
+      "luar_bandar_peratus": 53.2
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2009,
+      "keseluruhan_peratus": 55.7,
+      "bandar_peratus": 57.7,
+      "luar_bandar_peratus": 54.7
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2010,
+      "keseluruhan_peratus": 55.5,
+      "bandar_peratus": 56.2,
+      "luar_bandar_peratus": 55.2
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2011,
+      "keseluruhan_peratus": 57.3,
+      "bandar_peratus": 56.9,
+      "luar_bandar_peratus": 57.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2012,
+      "keseluruhan_peratus": 59.9,
+      "bandar_peratus": 57.9,
+      "luar_bandar_peratus": 60.8
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2013,
+      "keseluruhan_peratus": 61.5,
+      "bandar_peratus": 59.5,
+      "luar_bandar_peratus": 63.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2014,
+      "keseluruhan_peratus": 63.2,
+      "bandar_peratus": 61.3,
+      "luar_bandar_peratus": 65.1
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2015,
+      "keseluruhan_peratus": 64,
+      "bandar_peratus": 61.5,
+      "luar_bandar_peratus": 66.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "keseluruhan_peratus": 64.7,
+      "bandar_peratus": 61.7,
+      "luar_bandar_peratus": 67.7
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "keseluruhan_peratus": 68,
+      "bandar_peratus": 61.5,
+      "luar_bandar_peratus": 74.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "keseluruhan_peratus": 69.3,
+      "bandar_peratus": 62.4,
+      "luar_bandar_peratus": 76.2
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "keseluruhan_peratus": 70.7,
+      "bandar_peratus": 63.5,
+      "luar_bandar_peratus": 77.8
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "keseluruhan_peratus": 71.7,
+      "bandar_peratus": 64.5,
+      "luar_bandar_peratus": 78.9
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "keseluruhan_peratus": 73.1,
+      "bandar_peratus": 65.4,
+      "luar_bandar_peratus": 80.8
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "keseluruhan_peratus": 73.9,
+      "bandar_peratus": 65.8,
+      "luar_bandar_peratus": 82
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "keseluruhan_peratus": 74.5,
+      "bandar_peratus": 65.8,
+      "luar_bandar_peratus": 83.1
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "keseluruhan_peratus": 73.5,
+      "bandar_peratus": 65.2,
+      "luar_bandar_peratus": 81.9
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2025,
+      "keseluruhan_peratus": 73,
+      "bandar_peratus": 65.2,
+      "luar_bandar_peratus": 80.8
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2000,
+      "keseluruhan_peratus": 99,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2001,
+      "keseluruhan_peratus": 99.7,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2002,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2003,
+      "keseluruhan_peratus": 99.7,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2004,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2005,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2006,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2007,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2008,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2009,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2010,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2011,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2012,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2013,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2014,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2015,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2025,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2000,
+      "keseluruhan_peratus": 99,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2001,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2002,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2003,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2004,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2005,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2006,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2007,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2008,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2009,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2010,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2011,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2012,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2013,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2014,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2015,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2025,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2000,
+      "keseluruhan_peratus": 93,
+      "bandar_peratus": 98,
+      "luar_bandar_peratus": 93
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2001,
+      "keseluruhan_peratus": 92.8,
+      "bandar_peratus": 98,
+      "luar_bandar_peratus": 89
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2002,
+      "keseluruhan_peratus": 92.7,
+      "bandar_peratus": 98,
+      "luar_bandar_peratus": 89
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2003,
+      "keseluruhan_peratus": 92.8,
+      "bandar_peratus": 98,
+      "luar_bandar_peratus": 89
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2004,
+      "keseluruhan_peratus": 94.5,
+      "bandar_peratus": 99,
+      "luar_bandar_peratus": 90
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2005,
+      "keseluruhan_peratus": 95.5,
+      "bandar_peratus": 99,
+      "luar_bandar_peratus": 92
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2006,
+      "keseluruhan_peratus": 93.5,
+      "bandar_peratus": 98,
+      "luar_bandar_peratus": 89
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2007,
+      "keseluruhan_peratus": 93,
+      "bandar_peratus": 98,
+      "luar_bandar_peratus": 89
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2008,
+      "keseluruhan_peratus": 93,
+      "bandar_peratus": 98,
+      "luar_bandar_peratus": 89
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2009,
+      "keseluruhan_peratus": 97.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2010,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2011,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2012,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2013,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2014,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2015,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2025,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 96
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2000,
+      "keseluruhan_peratus": 99,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2001,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2002,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2003,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2004,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2005,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2006,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2007,
+      "keseluruhan_peratus": 99,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 97.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2008,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 98.9
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2009,
+      "keseluruhan_peratus": 99.2,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 98
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2010,
+      "keseluruhan_peratus": 99.2,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 98
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2011,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2012,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2013,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2014,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2015,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2017,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2023,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2025,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.2
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2000,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 98
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2001,
+      "keseluruhan_peratus": 98,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 97
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2002,
+      "keseluruhan_peratus": 99.2,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 98
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2003,
+      "keseluruhan_peratus": 99.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2004,
+      "keseluruhan_peratus": 99.3,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 98
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2005,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2006,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2007,
+      "keseluruhan_peratus": 99,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2008,
+      "keseluruhan_peratus": 99.4,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2009,
+      "keseluruhan_peratus": 99.4,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2010,
+      "keseluruhan_peratus": 99.4,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2011,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2012,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2013,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2014,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2015,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2025,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2000,
+      "keseluruhan_peratus": 99,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2001,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2002,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2003,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2004,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2005,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2006,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2007,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2008,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.6
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2009,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.6
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2010,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2011,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2012,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2013,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2014,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2015,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2025,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.8
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2000,
+      "keseluruhan_peratus": 73,
+      "bandar_peratus": 88,
+      "luar_bandar_peratus": 73
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2001,
+      "keseluruhan_peratus": 72.9,
+      "bandar_peratus": 88,
+      "luar_bandar_peratus": 59
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2002,
+      "keseluruhan_peratus": 72.9,
+      "bandar_peratus": 88,
+      "luar_bandar_peratus": 59
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2003,
+      "keseluruhan_peratus": 73.9,
+      "bandar_peratus": 90,
+      "luar_bandar_peratus": 59
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2004,
+      "keseluruhan_peratus": 75.8,
+      "bandar_peratus": 89,
+      "luar_bandar_peratus": 62
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2005,
+      "keseluruhan_peratus": 75.5,
+      "bandar_peratus": 90,
+      "luar_bandar_peratus": 61
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2006,
+      "keseluruhan_peratus": 77,
+      "bandar_peratus": 94,
+      "luar_bandar_peratus": 64
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2007,
+      "keseluruhan_peratus": 76,
+      "bandar_peratus": 99,
+      "luar_bandar_peratus": 52
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2008,
+      "keseluruhan_peratus": 76,
+      "bandar_peratus": 99,
+      "luar_bandar_peratus": 52
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2009,
+      "keseluruhan_peratus": 76.3,
+      "bandar_peratus": 99.2,
+      "luar_bandar_peratus": 52.3
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2010,
+      "keseluruhan_peratus": 79.7,
+      "bandar_peratus": 99.5,
+      "luar_bandar_peratus": 58.6
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2011,
+      "keseluruhan_peratus": 80,
+      "bandar_peratus": 99.5,
+      "luar_bandar_peratus": 59
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2012,
+      "keseluruhan_peratus": 82,
+      "bandar_peratus": 99.8,
+      "luar_bandar_peratus": 64.2
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2013,
+      "keseluruhan_peratus": 86,
+      "bandar_peratus": 99.8,
+      "luar_bandar_peratus": 73.1
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2014,
+      "keseluruhan_peratus": 86.5,
+      "bandar_peratus": 99.8,
+      "luar_bandar_peratus": 73.1
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2015,
+      "keseluruhan_peratus": 87.9,
+      "bandar_peratus": 99.8,
+      "luar_bandar_peratus": 76
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "keseluruhan_peratus": 89.4,
+      "bandar_peratus": 99.8,
+      "luar_bandar_peratus": 79
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "keseluruhan_peratus": 89,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 78
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "keseluruhan_peratus": 89,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 78
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "keseluruhan_peratus": 89,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 78
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "keseluruhan_peratus": 77,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 54
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "keseluruhan_peratus": 78,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 56
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "keseluruhan_peratus": 80.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 61
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "keseluruhan_peratus": 83,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 69
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "keseluruhan_peratus": 85.4,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 70
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2000,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 92
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2001,
+      "keseluruhan_peratus": 95.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 92
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2002,
+      "keseluruhan_peratus": 95.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 92
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2003,
+      "keseluruhan_peratus": 95.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 92
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2004,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 92
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2005,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 92
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2006,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 92
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2007,
+      "keseluruhan_peratus": 77,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 54.1
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2008,
+      "keseluruhan_peratus": 78,
+      "bandar_peratus": 99,
+      "luar_bandar_peratus": 56.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2009,
+      "keseluruhan_peratus": 86.2,
+      "bandar_peratus": 99.5,
+      "luar_bandar_peratus": 61.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2010,
+      "keseluruhan_peratus": 93.7,
+      "bandar_peratus": 99.5,
+      "luar_bandar_peratus": 61.7
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2011,
+      "keseluruhan_peratus": 93.7,
+      "bandar_peratus": 99.5,
+      "luar_bandar_peratus": 63
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2012,
+      "keseluruhan_peratus": 93.8,
+      "bandar_peratus": 99.6,
+      "luar_bandar_peratus": 63.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2013,
+      "keseluruhan_peratus": 93.8,
+      "bandar_peratus": 99.7,
+      "luar_bandar_peratus": 76
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2014,
+      "keseluruhan_peratus": 94,
+      "bandar_peratus": 99.8,
+      "luar_bandar_peratus": 76.6
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2015,
+      "keseluruhan_peratus": 87.9,
+      "bandar_peratus": 99.8,
+      "luar_bandar_peratus": 78
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "keseluruhan_peratus": 89.2,
+      "bandar_peratus": 99.8,
+      "luar_bandar_peratus": 78.7
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "keseluruhan_peratus": 89.6,
+      "bandar_peratus": 99.8,
+      "luar_bandar_peratus": 79.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "keseluruhan_peratus": 89.8,
+      "bandar_peratus": 99.9,
+      "luar_bandar_peratus": 79.7
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "keseluruhan_peratus": 81.9,
+      "bandar_peratus": 99.9,
+      "luar_bandar_peratus": 64.8
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "keseluruhan_peratus": 83.4,
+      "bandar_peratus": 99,
+      "luar_bandar_peratus": 66.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "keseluruhan_peratus": 83.6,
+      "bandar_peratus": 99,
+      "luar_bandar_peratus": 66.9
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "keseluruhan_peratus": 83.7,
+      "bandar_peratus": 99,
+      "luar_bandar_peratus": 67.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "keseluruhan_peratus": 84.3,
+      "bandar_peratus": 99,
+      "luar_bandar_peratus": 68.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "keseluruhan_peratus": 85.4,
+      "bandar_peratus": 99,
+      "luar_bandar_peratus": 70
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2000,
+      "keseluruhan_peratus": 99,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 98
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2001,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 98
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2002,
+      "keseluruhan_peratus": 99.7,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 98
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2003,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2004,
+      "keseluruhan_peratus": 99.6,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2005,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2006,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2007,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2008,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2009,
+      "keseluruhan_peratus": 99.9,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2010,
+      "keseluruhan_peratus": 99.5,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2011,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2012,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2013,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2025,
+      "keseluruhan_peratus": 99.8,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 99.5
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2000,
+      "keseluruhan_peratus": 81,
+      "bandar_peratus": 84,
+      "luar_bandar_peratus": 78
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2001,
+      "keseluruhan_peratus": 82.4,
+      "bandar_peratus": 86,
+      "luar_bandar_peratus": 79
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2002,
+      "keseluruhan_peratus": 87.7,
+      "bandar_peratus": 97,
+      "luar_bandar_peratus": 79
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2003,
+      "keseluruhan_peratus": 87.8,
+      "bandar_peratus": 97,
+      "luar_bandar_peratus": 79
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2004,
+      "keseluruhan_peratus": 84.8,
+      "bandar_peratus": 88,
+      "luar_bandar_peratus": 81
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2005,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 83
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2006,
+      "keseluruhan_peratus": 91,
+      "bandar_peratus": 98,
+      "luar_bandar_peratus": 83
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2007,
+      "keseluruhan_peratus": 90,
+      "bandar_peratus": 98,
+      "luar_bandar_peratus": 81.5
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2008,
+      "keseluruhan_peratus": 90.4,
+      "bandar_peratus": 98.5,
+      "luar_bandar_peratus": 82
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2009,
+      "keseluruhan_peratus": 90.7,
+      "bandar_peratus": 98.6,
+      "luar_bandar_peratus": 82.5
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2010,
+      "keseluruhan_peratus": 95.7,
+      "bandar_peratus": 98.6,
+      "luar_bandar_peratus": 92.7
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2011,
+      "keseluruhan_peratus": 95.8,
+      "bandar_peratus": 98.8,
+      "luar_bandar_peratus": 92.8
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2012,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2013,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2025,
+      "keseluruhan_peratus": 96,
+      "bandar_peratus": 99.1,
+      "luar_bandar_peratus": 92.9
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2000,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2001,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2002,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2003,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2004,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2005,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2006,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2007,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2008,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2009,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2010,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2011,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2012,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2013,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2014,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2015,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2016,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2017,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2018,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2021,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2022,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2023,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2024,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2025,
+      "keseluruhan_peratus": 100,
+      "bandar_peratus": 100,
+      "luar_bandar_peratus": 100
+    }
+  ],
+  "meta": {
+    "title": "Akses Isi Rumah kepada Air Paip Dirawat mengikut Negeri dan Strata (2000–2025) - Muat turun percuma",
+    "description": "Peratusan isi rumah yang mendapat bekalan air paip dirawat bagi Malaysia dan setiap negeri, keseluruhan serta mengikut strata bandar dan luar bandar, dari tahun 2000 hingga 2025, daripada data.gov.my. Mengandungi 387 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Akses Isi Rumah kepada Air Paip Dirawat mengikut Negeri dan Strata (2000–2025) | ListBase",
+    "seo_description": "Muat turun Akses Isi Rumah kepada Air Paip Dirawat mengikut Negeri dan Strata (2000–2025) — 387 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 387 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/water_access"
+    ]
+  }
+}
