@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-24T02:10:20.985Z",
-  "total_datasets": 746,
-  "total_records": 562127,
+  "generated": "2026-11-24T02:10:30.130Z",
+  "total_datasets": 747,
+  "total_records": 562158,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 29
+      "dataset_count": 30
     },
     {
       "id": "history",
@@ -5689,6 +5689,33 @@
         "xlsx": {
           "name": "ms-senarai-hospital-kerajaan_MS.xlsx",
           "size": 11612
+        }
+      }
+    },
+    {
+      "id": "ms-status-nutrisi-kanak-kanak-bawah-5-tahun-negeri",
+      "name": "Status Nutrisi Kanak-kanak Bawah 5 Tahun mengikut Negeri (2016 & 2022)",
+      "category": "health",
+      "record_count": 31,
+      "columns": [
+        "negeri",
+        "tahun",
+        "kurang_berat_badan_peratus",
+        "bantut_peratus",
+        "susut_peratus",
+        "berat_berlebihan_peratus"
+      ],
+      "source": "https://data.gov.my/data-catalogue/nutrition_children_state",
+      "updated": "2026-11",
+      "size": 8512,
+      "files": {
+        "csv": {
+          "name": "ms-status-nutrisi-kanak-kanak-bawah-5-tahun-negeri_MS.csv",
+          "size": 1475
+        },
+        "xlsx": {
+          "name": "ms-status-nutrisi-kanak-kanak-bawah-5-tahun-negeri_MS.xlsx",
+          "size": 7836
         }
       }
     },

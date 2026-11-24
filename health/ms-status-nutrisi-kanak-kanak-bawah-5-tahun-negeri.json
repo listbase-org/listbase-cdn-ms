@@ -1,0 +1,304 @@
+{
+  "id": "ms-status-nutrisi-kanak-kanak-bawah-5-tahun-negeri",
+  "name": "Status Nutrisi Kanak-kanak Bawah 5 Tahun mengikut Negeri (2016 & 2022)",
+  "title": "Status Nutrisi Kanak-kanak Bawah 5 Tahun mengikut Negeri (2016 & 2022)",
+  "description": "Prevalens kurang berat badan, bantut, susut dan berat badan berlebihan (%) dalam kalangan kanak-kanak bawah 5 tahun di Malaysia dan setiap negeri bagi tahun 2016 dan 2022, berdasarkan piawaian WHO, daripada data.gov.my (Kementerian Kesihatan Malaysia).",
+  "category": "health",
+  "source": "https://data.gov.my/data-catalogue/nutrition_children_state",
+  "source_url": "https://data.gov.my/data-catalogue/nutrition_children_state",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "kurang_berat_badan_peratus",
+      "label": "Kurang Berat Badan Peratus",
+      "type": "number"
+    },
+    {
+      "key": "bantut_peratus",
+      "label": "Bantut Peratus",
+      "type": "number"
+    },
+    {
+      "key": "susut_peratus",
+      "label": "Susut Peratus",
+      "type": "number"
+    },
+    {
+      "key": "berat_berlebihan_peratus",
+      "label": "Berat Berlebihan Peratus",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Malaysia",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 13.7,
+      "bantut_peratus": 20.7,
+      "susut_peratus": 11.5,
+      "berat_berlebihan_peratus": 6
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 15.3,
+      "bantut_peratus": 21.2,
+      "susut_peratus": 11,
+      "berat_berlebihan_peratus": 5.6
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 11.4,
+      "bantut_peratus": 12,
+      "susut_peratus": 20.2,
+      "berat_berlebihan_peratus": 5.6
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 12.9,
+      "bantut_peratus": 17.5,
+      "susut_peratus": 11.4,
+      "berat_berlebihan_peratus": 5.9
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 15.9,
+      "bantut_peratus": 18.1,
+      "susut_peratus": 14.4,
+      "berat_berlebihan_peratus": 6
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 18.5,
+      "bantut_peratus": 23.7,
+      "susut_peratus": 9.8,
+      "berat_berlebihan_peratus": 4.6
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 16.8,
+      "bantut_peratus": 34,
+      "susut_peratus": 13.6,
+      "berat_berlebihan_peratus": 7.9
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 19.6,
+      "bantut_peratus": 23,
+      "susut_peratus": 10.6,
+      "berat_berlebihan_peratus": 5.1
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 13.4,
+      "bantut_peratus": 14.1,
+      "susut_peratus": 6.6,
+      "berat_berlebihan_peratus": 6.8
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 14.3,
+      "bantut_peratus": 21.9,
+      "susut_peratus": 14.8,
+      "berat_berlebihan_peratus": 8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 12.3,
+      "bantut_peratus": 19.1,
+      "susut_peratus": 10.4,
+      "berat_berlebihan_peratus": 5.9
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 10.4,
+      "bantut_peratus": 15.9,
+      "susut_peratus": 9.7,
+      "berat_berlebihan_peratus": 7
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 12.9,
+      "bantut_peratus": 25.7,
+      "susut_peratus": 10.6,
+      "berat_berlebihan_peratus": 7.6
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 17.9,
+      "bantut_peratus": 28.2,
+      "susut_peratus": 11.4,
+      "berat_berlebihan_peratus": 7.4
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 15.2,
+      "bantut_peratus": 23.7,
+      "susut_peratus": 11.5,
+      "berat_berlebihan_peratus": 6
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 11.9,
+      "bantut_peratus": 14.6,
+      "susut_peratus": 9.5,
+      "berat_berlebihan_peratus": 3
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 18.4,
+      "bantut_peratus": 20.8,
+      "susut_peratus": 12.5,
+      "berat_berlebihan_peratus": 6.4
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 19.6,
+      "bantut_peratus": 19.4,
+      "susut_peratus": 14.6,
+      "berat_berlebihan_peratus": 4.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 16.7,
+      "bantut_peratus": 20.3,
+      "susut_peratus": 11,
+      "berat_berlebihan_peratus": 6.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 11.7,
+      "bantut_peratus": 16,
+      "susut_peratus": 10.3,
+      "berat_berlebihan_peratus": 5.7
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 15.2,
+      "bantut_peratus": 23.5,
+      "susut_peratus": 5.7,
+      "berat_berlebihan_peratus": 4.3
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 17.2,
+      "bantut_peratus": 25.3,
+      "susut_peratus": 8.9,
+      "berat_berlebihan_peratus": 4.3
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 17.8,
+      "bantut_peratus": 23.1,
+      "susut_peratus": 12,
+      "berat_berlebihan_peratus": 7.6
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 15.6,
+      "bantut_peratus": 19.4,
+      "susut_peratus": 10.5,
+      "berat_berlebihan_peratus": 6.2
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 11.3,
+      "bantut_peratus": 18.5,
+      "susut_peratus": 10,
+      "berat_berlebihan_peratus": 5.1
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 15.9,
+      "bantut_peratus": 22.2,
+      "susut_peratus": 12.9,
+      "berat_berlebihan_peratus": 6.1
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 10.8,
+      "bantut_peratus": 26.1,
+      "susut_peratus": 14,
+      "berat_berlebihan_peratus": 9.5
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 14.5,
+      "bantut_peratus": 20.2,
+      "susut_peratus": 13.6,
+      "berat_berlebihan_peratus": 4.5
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 8.3,
+      "bantut_peratus": 10.5,
+      "susut_peratus": 9.1,
+      "berat_berlebihan_peratus": 3.6
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "kurang_berat_badan_peratus": 12.4,
+      "bantut_peratus": 23.4,
+      "susut_peratus": 8.1,
+      "berat_berlebihan_peratus": 6.6
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2016,
+      "kurang_berat_badan_peratus": 12.9,
+      "bantut_peratus": 24.3,
+      "susut_peratus": 8.7,
+      "berat_berlebihan_peratus": 3.6
+    }
+  ],
+  "meta": {
+    "title": "Status Nutrisi Kanak-kanak Bawah 5 Tahun mengikut Negeri (2016 & 2022) - Muat turun percuma",
+    "description": "Prevalens kurang berat badan, bantut, susut dan berat badan berlebihan (%) dalam kalangan kanak-kanak bawah 5 tahun di Malaysia dan setiap negeri bagi tahun 2016 dan 2022, berdasarkan piawaian WHO, daripada data.gov.my (Kementerian Kesihatan Malaysia). Mengandungi 31 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Status Nutrisi Kanak-kanak Bawah 5 Tahun mengikut Negeri (2016 & 2022) | ListBase",
+    "seo_description": "Muat turun Status Nutrisi Kanak-kanak Bawah 5 Tahun mengikut Negeri (2016 & 2022) — 31 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 31 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/nutrition_children_state"
+    ]
+  }
+}
