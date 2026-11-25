@@ -1,0 +1,856 @@
+{
+  "id": "ms-mangsa-pembunuhan-negeri-sdg",
+  "name": "Kadar Mangsa Pembunuhan Sengaja mengikut Negeri dan Jantina (SDG 16.1.1, 2016–2024)",
+  "title": "Kadar Mangsa Pembunuhan Sengaja mengikut Negeri dan Jantina (SDG 16.1.1, 2016–2024)",
+  "description": "Bilangan mangsa pembunuhan sengaja bagi setiap 100,000 penduduk (petunjuk SDG 16.1.1), keseluruhan dan mengikut jantina, bagi Malaysia (2016–2024) dan negeri-negeri (dari 2018; mulai 2022 Sabah termasuk W.P. Labuan dan W.P. Kuala Lumpur termasuk W.P. Putrajaya), daripada data.gov.my (Jabatan Perangkaan Malaysia).",
+  "category": "law",
+  "source": "https://data.gov.my/data-catalogue/sdg_16-1-1",
+  "source_url": "https://data.gov.my/data-catalogue/sdg_16-1-1",
+  "updated": "2026-11",
+  "record_count": 115,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "kadar_keseluruhan",
+      "label": "Kadar Keseluruhan",
+      "type": "number"
+    },
+    {
+      "key": "kadar_lelaki",
+      "label": "Kadar Lelaki",
+      "type": "number"
+    },
+    {
+      "key": "kadar_perempuan",
+      "label": "Kadar Perempuan",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Malaysia",
+      "tahun": 2016,
+      "kadar_keseluruhan": 0.282,
+      "kadar_lelaki": 0.466,
+      "kadar_perempuan": 0.099
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2017,
+      "kadar_keseluruhan": 0.235,
+      "kadar_lelaki": 0.387,
+      "kadar_perempuan": 0.082
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0.2,
+      "kadar_lelaki": 0.33,
+      "kadar_perempuan": 0.07
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0.15,
+      "kadar_lelaki": 0.2,
+      "kadar_perempuan": 0.1
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0.139,
+      "kadar_lelaki": 0.195,
+      "kadar_perempuan": 0.078
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0.166,
+      "kadar_lelaki": 0.282,
+      "kadar_perempuan": 0.039
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0.765,
+      "kadar_lelaki": 1.139,
+      "kadar_perempuan": 0.358
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2023,
+      "kadar_keseluruhan": 0.796,
+      "kadar_lelaki": 1.202,
+      "kadar_perempuan": 0.352
+    },
+    {
+      "negeri": "Malaysia",
+      "tahun": 2024,
+      "kadar_keseluruhan": 0.731,
+      "kadar_lelaki": 1.085,
+      "kadar_perempuan": 0.34
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0.29,
+      "kadar_lelaki": 0.46,
+      "kadar_perempuan": 0.11
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0.19,
+      "kadar_lelaki": 0.3,
+      "kadar_perempuan": 0.06
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0.075,
+      "kadar_lelaki": 0.14,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0.174,
+      "kadar_lelaki": 0.327,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0.794,
+      "kadar_lelaki": 1.169,
+      "kadar_perempuan": 0.37
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2023,
+      "kadar_keseluruhan": 0.779,
+      "kadar_lelaki": 1.323,
+      "kadar_perempuan": 0.157
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "kadar_keseluruhan": 0.86,
+      "kadar_lelaki": 1.38,
+      "kadar_perempuan": 0.258
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0.18,
+      "kadar_lelaki": 0.36,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0.14,
+      "kadar_lelaki": 0.09,
+      "kadar_perempuan": 0.19
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0.094,
+      "kadar_lelaki": 0.184,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0.139,
+      "kadar_lelaki": 0.274,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0.832,
+      "kadar_lelaki": 1.544,
+      "kadar_perempuan": 0.094
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "kadar_keseluruhan": 0.868,
+      "kadar_lelaki": 1.523,
+      "kadar_perempuan": 0.186
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "kadar_keseluruhan": 0.722,
+      "kadar_lelaki": 1.06,
+      "kadar_perempuan": 0.369
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0.11,
+      "kadar_lelaki": 0.21,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0.112,
+      "kadar_lelaki": 0.222,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0.055,
+      "kadar_lelaki": 0.11,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0.328,
+      "kadar_lelaki": 0.435,
+      "kadar_perempuan": 0.219
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "kadar_keseluruhan": 0.484,
+      "kadar_lelaki": 0.642,
+      "kadar_perempuan": 0.324
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "kadar_keseluruhan": 0.212,
+      "kadar_lelaki": 0.421,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0.33,
+      "kadar_lelaki": 0.43,
+      "kadar_perempuan": 0.22
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0.32,
+      "kadar_lelaki": 0.21,
+      "kadar_perempuan": 0.43
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0.199,
+      "kadar_lelaki": 0.379,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0.595,
+      "kadar_lelaki": 0.756,
+      "kadar_perempuan": 0.417
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "kadar_keseluruhan": 1.459,
+      "kadar_lelaki": 2.214,
+      "kadar_perempuan": 0.617
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "kadar_keseluruhan": 0.191,
+      "kadar_lelaki": 0.361,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0.18,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0.37
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0.25,
+      "kadar_lelaki": 0.321,
+      "kadar_perempuan": 0.174
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0.249,
+      "kadar_lelaki": 0.481,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0.828,
+      "kadar_lelaki": 1.28,
+      "kadar_perempuan": 0.343
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "kadar_keseluruhan": 0.735,
+      "kadar_lelaki": 1.102,
+      "kadar_perempuan": 0.339
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "kadar_keseluruhan": 1.049,
+      "kadar_lelaki": 1.087,
+      "kadar_perempuan": 1.008
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0.24,
+      "kadar_lelaki": 0.45,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0.18,
+      "kadar_lelaki": 0.23,
+      "kadar_perempuan": 0.13
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0.126,
+      "kadar_lelaki": 0.237,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0.187,
+      "kadar_lelaki": 0.236,
+      "kadar_perempuan": 0.133
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0.743,
+      "kadar_lelaki": 1.055,
+      "kadar_perempuan": 0.394
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "kadar_keseluruhan": 0.304,
+      "kadar_lelaki": 0.573,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "kadar_keseluruhan": 0.72,
+      "kadar_lelaki": 1.236,
+      "kadar_perempuan": 0.129
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0.48,
+      "kadar_lelaki": 0.79,
+      "kadar_perempuan": 0.16
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0.16,
+      "kadar_lelaki": 0.24,
+      "kadar_perempuan": 0.08
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0.28,
+      "kadar_lelaki": 0.461,
+      "kadar_perempuan": 0.084
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0.397,
+      "kadar_lelaki": 0.535,
+      "kadar_perempuan": 0.249
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "kadar_keseluruhan": 1.114,
+      "kadar_lelaki": 1.61,
+      "kadar_perempuan": 0.579
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2023,
+      "kadar_keseluruhan": 1.259,
+      "kadar_lelaki": 2.342,
+      "kadar_perempuan": 0.082
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "kadar_keseluruhan": 1.245,
+      "kadar_lelaki": 1.712,
+      "kadar_perempuan": 0.734
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "kadar_keseluruhan": 1.024,
+      "kadar_lelaki": 1.368,
+      "kadar_perempuan": 0.681
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "kadar_keseluruhan": 0.337,
+      "kadar_lelaki": 0.676,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0.17,
+      "kadar_lelaki": 0.23,
+      "kadar_perempuan": 0.11
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0.11,
+      "kadar_lelaki": 0.11,
+      "kadar_perempuan": 0.11
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0.172,
+      "kadar_lelaki": 0.336,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0.23,
+      "kadar_lelaki": 0.337,
+      "kadar_perempuan": 0.118
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0.574,
+      "kadar_lelaki": 0.898,
+      "kadar_perempuan": 0.235
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "kadar_keseluruhan": 0.677,
+      "kadar_lelaki": 1.211,
+      "kadar_perempuan": 0.116
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "kadar_keseluruhan": 0.555,
+      "kadar_lelaki": 0.541,
+      "kadar_perempuan": 0.57
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0.18,
+      "kadar_lelaki": 0.29,
+      "kadar_perempuan": 0.05
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0.18,
+      "kadar_lelaki": 0.25,
+      "kadar_perempuan": 0.11
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0.088,
+      "kadar_lelaki": 0.112,
+      "kadar_perempuan": 0.061
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0.029,
+      "kadar_lelaki": 0.056,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0.626,
+      "kadar_lelaki": 0.875,
+      "kadar_perempuan": 0.357
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "kadar_keseluruhan": 0.731,
+      "kadar_lelaki": 1.141,
+      "kadar_perempuan": 0.283
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "kadar_keseluruhan": 0.599,
+      "kadar_lelaki": 1.096,
+      "kadar_perempuan": 0.054
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0.11,
+      "kadar_lelaki": 0.14,
+      "kadar_perempuan": 0.07
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0.11,
+      "kadar_lelaki": 0.21,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0.082,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0.169
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0.081,
+      "kadar_lelaki": 0.157,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0.93,
+      "kadar_lelaki": 1.411,
+      "kadar_perempuan": 0.418
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "kadar_keseluruhan": 0.52,
+      "kadar_lelaki": 0.774,
+      "kadar_perempuan": 0.248
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "kadar_keseluruhan": 1.033,
+      "kadar_lelaki": 1.539,
+      "kadar_perempuan": 0.492
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0.2,
+      "kadar_lelaki": 0.3,
+      "kadar_perempuan": 0.1
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0.17,
+      "kadar_lelaki": 0.27,
+      "kadar_perempuan": 0.06
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0.057,
+      "kadar_lelaki": 0.054,
+      "kadar_perempuan": 0.061
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0.2,
+      "kadar_lelaki": 0.35,
+      "kadar_perempuan": 0.03
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0.879,
+      "kadar_lelaki": 1.262,
+      "kadar_perempuan": 0.451
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "kadar_keseluruhan": 0.929,
+      "kadar_lelaki": 1.149,
+      "kadar_perempuan": 0.681
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "kadar_keseluruhan": 0.761,
+      "kadar_lelaki": 1.093,
+      "kadar_perempuan": 0.379
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0.16,
+      "kadar_lelaki": 0.32,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0.261,
+      "kadar_lelaki": 0.17,
+      "kadar_perempuan": 0.356
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0.337,
+      "kadar_lelaki": 0.494,
+      "kadar_perempuan": 0.173
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "kadar_keseluruhan": 0.496,
+      "kadar_lelaki": 0.645,
+      "kadar_perempuan": 0.339
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0.22,
+      "kadar_lelaki": 0.44,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0.06,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0.12
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0.555,
+      "kadar_lelaki": 0.755,
+      "kadar_perempuan": 0.325
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0.204,
+      "kadar_lelaki": 0.383,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "kadar_keseluruhan": 0.818,
+      "kadar_lelaki": 1.275,
+      "kadar_perempuan": 0.306
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2023,
+      "kadar_keseluruhan": 0.8,
+      "kadar_lelaki": 0.884,
+      "kadar_perempuan": 0.704
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "kadar_keseluruhan": 0.823,
+      "kadar_lelaki": 1.105,
+      "kadar_perempuan": 0.494
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2018,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2019,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2020,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2021,
+      "kadar_keseluruhan": 0,
+      "kadar_lelaki": 0,
+      "kadar_perempuan": 0
+    }
+  ],
+  "meta": {
+    "title": "Kadar Mangsa Pembunuhan Sengaja mengikut Negeri dan Jantina (SDG 16.1.1, 2016–2024) - Muat turun percuma",
+    "description": "Bilangan mangsa pembunuhan sengaja bagi setiap 100,000 penduduk (petunjuk SDG 16.1.1), keseluruhan dan mengikut jantina, bagi Malaysia (2016–2024) dan negeri-negeri (dari 2018; mulai 2022 Sabah termasuk W.P. Labuan dan W.P. Kuala Lumpur termasuk W.P. Putrajaya), daripada data.gov.my (Jabatan Perangkaan Malaysia). Mengandungi 115 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kadar Mangsa Pembunuhan Sengaja mengikut Negeri dan Jantina (SDG 16.1.1, 2016–2024) | ListBase",
+    "seo_description": "Muat turun Kadar Mangsa Pembunuhan Sengaja mengikut Negeri dan Jantina (SDG 16.1.1, 2016–2024) — 115 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 115 rekod / 5 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/sdg_16-1-1"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-25T02:23:26.142Z",
-  "total_datasets": 748,
-  "total_records": 562564,
+  "generated": "2026-11-25T02:23:34.850Z",
+  "total_datasets": 749,
+  "total_records": 562679,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "music",
@@ -6552,6 +6552,32 @@
         "xlsx": {
           "name": "ms-ketua-polis-negara_MS.xlsx",
           "size": 7577
+        }
+      }
+    },
+    {
+      "id": "ms-mangsa-pembunuhan-negeri-sdg",
+      "name": "Kadar Mangsa Pembunuhan Sengaja mengikut Negeri dan Jantina (SDG 16.1.1, 2016–2024)",
+      "category": "law",
+      "record_count": 115,
+      "columns": [
+        "negeri",
+        "tahun",
+        "kadar_keseluruhan",
+        "kadar_lelaki",
+        "kadar_perempuan"
+      ],
+      "source": "https://data.gov.my/data-catalogue/sdg_16-1-1",
+      "updated": "2026-11",
+      "size": 19882,
+      "files": {
+        "csv": {
+          "name": "ms-mangsa-pembunuhan-negeri-sdg_MS.csv",
+          "size": 4530
+        },
+        "xlsx": {
+          "name": "ms-mangsa-pembunuhan-negeri-sdg_MS.xlsx",
+          "size": 9795
         }
       }
     },
