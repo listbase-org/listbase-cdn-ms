@@ -1,0 +1,2482 @@
+{
+  "id": "ms-kelahiran-mati-negeri",
+  "name": "Kelahiran Mati Tahunan mengikut Negeri (2000–2025)",
+  "title": "Kelahiran Mati Tahunan mengikut Negeri (2000–2025)",
+  "description": "Bilangan kelahiran mati dan kadar kelahiran mati (setiap 1,000 kelahiran) mengikut negeri di Malaysia dari tahun 2000 hingga 2025, daripada data.gov.my (Jabatan Perangkaan Malaysia).",
+  "category": "health",
+  "source": "https://data.gov.my/data-catalogue/stillbirths_state",
+  "source_url": "https://data.gov.my/data-catalogue/stillbirths_state",
+  "updated": "2026-11",
+  "record_count": 406,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "kelahiran_mati",
+      "label": "Kelahiran Mati",
+      "type": "number"
+    },
+    {
+      "key": "kadar_kelahiran_mati",
+      "label": "Kadar Kelahiran Mati",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Johor",
+      "tahun": 2000,
+      "kelahiran_mati": 29,
+      "kadar_kelahiran_mati": 0.4
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2001,
+      "kelahiran_mati": 162,
+      "kadar_kelahiran_mati": 2.6
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2002,
+      "kelahiran_mati": 198,
+      "kadar_kelahiran_mati": 3.3
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2003,
+      "kelahiran_mati": 229,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2004,
+      "kelahiran_mati": 192,
+      "kadar_kelahiran_mati": 3.3
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2005,
+      "kelahiran_mati": 220,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2006,
+      "kelahiran_mati": 226,
+      "kadar_kelahiran_mati": 4
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2007,
+      "kelahiran_mati": 250,
+      "kadar_kelahiran_mati": 4.3
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2008,
+      "kelahiran_mati": 217,
+      "kadar_kelahiran_mati": 3.7
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2009,
+      "kelahiran_mati": 257,
+      "kadar_kelahiran_mati": 4.4
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2010,
+      "kelahiran_mati": 230,
+      "kadar_kelahiran_mati": 4
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2011,
+      "kelahiran_mati": 242,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2012,
+      "kelahiran_mati": 245,
+      "kadar_kelahiran_mati": 4
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2013,
+      "kelahiran_mati": 273,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2014,
+      "kelahiran_mati": 241,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2015,
+      "kelahiran_mati": 322,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "kelahiran_mati": 336,
+      "kadar_kelahiran_mati": 5.5
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2017,
+      "kelahiran_mati": 291,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "kelahiran_mati": 355,
+      "kadar_kelahiran_mati": 5.7
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "kelahiran_mati": 291,
+      "kadar_kelahiran_mati": 4.8
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "kelahiran_mati": 270,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "kelahiran_mati": 259,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "kelahiran_mati": 231,
+      "kadar_kelahiran_mati": 4.8
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2023,
+      "kelahiran_mati": 235,
+      "kadar_kelahiran_mati": 4.2
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "kelahiran_mati": 204,
+      "kadar_kelahiran_mati": 4
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2025,
+      "kelahiran_mati": 193,
+      "kadar_kelahiran_mati": 4
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2000,
+      "kelahiran_mati": 110,
+      "kadar_kelahiran_mati": 2.7
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2001,
+      "kelahiran_mati": 223,
+      "kadar_kelahiran_mati": 5.8
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2002,
+      "kelahiran_mati": 232,
+      "kadar_kelahiran_mati": 6.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2003,
+      "kelahiran_mati": 232,
+      "kadar_kelahiran_mati": 6.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2004,
+      "kelahiran_mati": 211,
+      "kadar_kelahiran_mati": 6
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2005,
+      "kelahiran_mati": 218,
+      "kadar_kelahiran_mati": 6.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2006,
+      "kelahiran_mati": 199,
+      "kadar_kelahiran_mati": 5.8
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2007,
+      "kelahiran_mati": 193,
+      "kadar_kelahiran_mati": 5.7
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2008,
+      "kelahiran_mati": 190,
+      "kadar_kelahiran_mati": 5.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2009,
+      "kelahiran_mati": 191,
+      "kadar_kelahiran_mati": 5.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2010,
+      "kelahiran_mati": 189,
+      "kadar_kelahiran_mati": 5.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2011,
+      "kelahiran_mati": 194,
+      "kadar_kelahiran_mati": 5.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2012,
+      "kelahiran_mati": 181,
+      "kadar_kelahiran_mati": 4.9
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2013,
+      "kelahiran_mati": 191,
+      "kadar_kelahiran_mati": 5.3
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2014,
+      "kelahiran_mati": 192,
+      "kadar_kelahiran_mati": 5.1
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2015,
+      "kelahiran_mati": 178,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "kelahiran_mati": 183,
+      "kadar_kelahiran_mati": 5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "kelahiran_mati": 191,
+      "kadar_kelahiran_mati": 5.1
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "kelahiran_mati": 147,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "kelahiran_mati": 164,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "kelahiran_mati": 155,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "kelahiran_mati": 138,
+      "kadar_kelahiran_mati": 4.2
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "kelahiran_mati": 149,
+      "kadar_kelahiran_mati": 4.8
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "kelahiran_mati": 153,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "kelahiran_mati": 135,
+      "kadar_kelahiran_mati": 4.4
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2025,
+      "kelahiran_mati": 130,
+      "kadar_kelahiran_mati": 4.3
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2000,
+      "kelahiran_mati": 157,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2001,
+      "kelahiran_mati": 189,
+      "kadar_kelahiran_mati": 4.9
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2002,
+      "kelahiran_mati": 256,
+      "kadar_kelahiran_mati": 6.8
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2003,
+      "kelahiran_mati": 287,
+      "kadar_kelahiran_mati": 8
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2004,
+      "kelahiran_mati": 263,
+      "kadar_kelahiran_mati": 7.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2005,
+      "kelahiran_mati": 235,
+      "kadar_kelahiran_mati": 6.8
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2006,
+      "kelahiran_mati": 231,
+      "kadar_kelahiran_mati": 6.8
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2007,
+      "kelahiran_mati": 232,
+      "kadar_kelahiran_mati": 6.8
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2008,
+      "kelahiran_mati": 221,
+      "kadar_kelahiran_mati": 6.3
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2009,
+      "kelahiran_mati": 222,
+      "kadar_kelahiran_mati": 6.2
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2010,
+      "kelahiran_mati": 225,
+      "kadar_kelahiran_mati": 6.1
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2011,
+      "kelahiran_mati": 240,
+      "kadar_kelahiran_mati": 6.3
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2012,
+      "kelahiran_mati": 245,
+      "kadar_kelahiran_mati": 6.5
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2013,
+      "kelahiran_mati": 203,
+      "kadar_kelahiran_mati": 5.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2014,
+      "kelahiran_mati": 217,
+      "kadar_kelahiran_mati": 5.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2015,
+      "kelahiran_mati": 202,
+      "kadar_kelahiran_mati": 5.1
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "kelahiran_mati": 238,
+      "kadar_kelahiran_mati": 6.1
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "kelahiran_mati": 223,
+      "kadar_kelahiran_mati": 5.6
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "kelahiran_mati": 189,
+      "kadar_kelahiran_mati": 4.9
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "kelahiran_mati": 171,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "kelahiran_mati": 198,
+      "kadar_kelahiran_mati": 5.4
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "kelahiran_mati": 202,
+      "kadar_kelahiran_mati": 5.8
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "kelahiran_mati": 172,
+      "kadar_kelahiran_mati": 5.1
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "kelahiran_mati": 166,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "kelahiran_mati": 137,
+      "kadar_kelahiran_mati": 4.3
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2025,
+      "kelahiran_mati": 180,
+      "kadar_kelahiran_mati": 5.6
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2000,
+      "kelahiran_mati": 92,
+      "kadar_kelahiran_mati": 6
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2001,
+      "kelahiran_mati": 84,
+      "kadar_kelahiran_mati": 5.8
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2002,
+      "kelahiran_mati": 85,
+      "kadar_kelahiran_mati": 6.1
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2003,
+      "kelahiran_mati": 77,
+      "kadar_kelahiran_mati": 5.5
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2004,
+      "kelahiran_mati": 62,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2005,
+      "kelahiran_mati": 71,
+      "kadar_kelahiran_mati": 5.3
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2006,
+      "kelahiran_mati": 98,
+      "kadar_kelahiran_mati": 7.5
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2007,
+      "kelahiran_mati": 71,
+      "kadar_kelahiran_mati": 5.3
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2008,
+      "kelahiran_mati": 83,
+      "kadar_kelahiran_mati": 6.1
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2009,
+      "kelahiran_mati": 77,
+      "kadar_kelahiran_mati": 5.7
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2010,
+      "kelahiran_mati": 60,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2011,
+      "kelahiran_mati": 70,
+      "kadar_kelahiran_mati": 4.9
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2012,
+      "kelahiran_mati": 78,
+      "kadar_kelahiran_mati": 5.4
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2013,
+      "kelahiran_mati": 59,
+      "kadar_kelahiran_mati": 4.2
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2014,
+      "kelahiran_mati": 72,
+      "kadar_kelahiran_mati": 4.9
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2015,
+      "kelahiran_mati": 65,
+      "kadar_kelahiran_mati": 4.4
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "kelahiran_mati": 68,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "kelahiran_mati": 69,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "kelahiran_mati": 66,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "kelahiran_mati": 51,
+      "kadar_kelahiran_mati": 3.6
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "kelahiran_mati": 65,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "kelahiran_mati": 60,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "kelahiran_mati": 53,
+      "kadar_kelahiran_mati": 4
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "kelahiran_mati": 63,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "kelahiran_mati": 54,
+      "kadar_kelahiran_mati": 4.3
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2025,
+      "kelahiran_mati": 49,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2000,
+      "kelahiran_mati": 41,
+      "kadar_kelahiran_mati": 2.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2001,
+      "kelahiran_mati": 77,
+      "kadar_kelahiran_mati": 4.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2002,
+      "kelahiran_mati": 81,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2003,
+      "kelahiran_mati": 92,
+      "kadar_kelahiran_mati": 5.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2004,
+      "kelahiran_mati": 105,
+      "kadar_kelahiran_mati": 6.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2005,
+      "kelahiran_mati": 88,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2006,
+      "kelahiran_mati": 79,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2007,
+      "kelahiran_mati": 85,
+      "kadar_kelahiran_mati": 4.9
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2008,
+      "kelahiran_mati": 90,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2009,
+      "kelahiran_mati": 89,
+      "kadar_kelahiran_mati": 5.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2010,
+      "kelahiran_mati": 86,
+      "kadar_kelahiran_mati": 5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2011,
+      "kelahiran_mati": 85,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2012,
+      "kelahiran_mati": 82,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2013,
+      "kelahiran_mati": 89,
+      "kadar_kelahiran_mati": 4.9
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2014,
+      "kelahiran_mati": 67,
+      "kadar_kelahiran_mati": 3.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2015,
+      "kelahiran_mati": 88,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "kelahiran_mati": 84,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "kelahiran_mati": 97,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "kelahiran_mati": 86,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "kelahiran_mati": 65,
+      "kadar_kelahiran_mati": 3.7
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "kelahiran_mati": 90,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "kelahiran_mati": 60,
+      "kadar_kelahiran_mati": 3.6
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "kelahiran_mati": 68,
+      "kadar_kelahiran_mati": 4.2
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "kelahiran_mati": 65,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "kelahiran_mati": 69,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2025,
+      "kelahiran_mati": 64,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2000,
+      "kelahiran_mati": 121,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2001,
+      "kelahiran_mati": 162,
+      "kadar_kelahiran_mati": 5.8
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2002,
+      "kelahiran_mati": 169,
+      "kadar_kelahiran_mati": 6.3
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2003,
+      "kelahiran_mati": 156,
+      "kadar_kelahiran_mati": 5.9
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2004,
+      "kelahiran_mati": 159,
+      "kadar_kelahiran_mati": 6.1
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2005,
+      "kelahiran_mati": 133,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2006,
+      "kelahiran_mati": 145,
+      "kadar_kelahiran_mati": 5.8
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2007,
+      "kelahiran_mati": 156,
+      "kadar_kelahiran_mati": 6.2
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2008,
+      "kelahiran_mati": 122,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2009,
+      "kelahiran_mati": 123,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2010,
+      "kelahiran_mati": 120,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2011,
+      "kelahiran_mati": 136,
+      "kadar_kelahiran_mati": 4.9
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2012,
+      "kelahiran_mati": 132,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2013,
+      "kelahiran_mati": 122,
+      "kadar_kelahiran_mati": 4.4
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2014,
+      "kelahiran_mati": 157,
+      "kadar_kelahiran_mati": 5.4
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2015,
+      "kelahiran_mati": 155,
+      "kadar_kelahiran_mati": 5.5
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "kelahiran_mati": 156,
+      "kadar_kelahiran_mati": 5.6
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "kelahiran_mati": 156,
+      "kadar_kelahiran_mati": 5.6
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "kelahiran_mati": 145,
+      "kadar_kelahiran_mati": 5.3
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "kelahiran_mati": 108,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "kelahiran_mati": 113,
+      "kadar_kelahiran_mati": 4.4
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "kelahiran_mati": 107,
+      "kadar_kelahiran_mati": 4.3
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "kelahiran_mati": 117,
+      "kadar_kelahiran_mati": 4.9
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "kelahiran_mati": 115,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "kelahiran_mati": 123,
+      "kadar_kelahiran_mati": 5.7
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2025,
+      "kelahiran_mati": 107,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2000,
+      "kelahiran_mati": 35,
+      "kadar_kelahiran_mati": 0.7
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2001,
+      "kelahiran_mati": 218,
+      "kadar_kelahiran_mati": 5
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2002,
+      "kelahiran_mati": 223,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2003,
+      "kelahiran_mati": 227,
+      "kadar_kelahiran_mati": 5.7
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2004,
+      "kelahiran_mati": 190,
+      "kadar_kelahiran_mati": 4.8
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2005,
+      "kelahiran_mati": 175,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2006,
+      "kelahiran_mati": 181,
+      "kadar_kelahiran_mati": 4.9
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2007,
+      "kelahiran_mati": 180,
+      "kadar_kelahiran_mati": 4.9
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2008,
+      "kelahiran_mati": 186,
+      "kadar_kelahiran_mati": 5
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2009,
+      "kelahiran_mati": 161,
+      "kadar_kelahiran_mati": 4.3
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2010,
+      "kelahiran_mati": 167,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2011,
+      "kelahiran_mati": 177,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2012,
+      "kelahiran_mati": 133,
+      "kadar_kelahiran_mati": 3.5
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2013,
+      "kelahiran_mati": 165,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2014,
+      "kelahiran_mati": 149,
+      "kadar_kelahiran_mati": 4
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2015,
+      "kelahiran_mati": 156,
+      "kadar_kelahiran_mati": 4.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "kelahiran_mati": 224,
+      "kadar_kelahiran_mati": 6.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2017,
+      "kelahiran_mati": 180,
+      "kadar_kelahiran_mati": 5.1
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "kelahiran_mati": 132,
+      "kadar_kelahiran_mati": 3.8
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "kelahiran_mati": 182,
+      "kadar_kelahiran_mati": 5.4
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "kelahiran_mati": 168,
+      "kadar_kelahiran_mati": 5.3
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "kelahiran_mati": 147,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "kelahiran_mati": 124,
+      "kadar_kelahiran_mati": 4.2
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2023,
+      "kelahiran_mati": 159,
+      "kadar_kelahiran_mati": 5.1
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "kelahiran_mati": 134,
+      "kadar_kelahiran_mati": 4.8
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2025,
+      "kelahiran_mati": 102,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2000,
+      "kelahiran_mati": 36,
+      "kadar_kelahiran_mati": 7.7
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2001,
+      "kelahiran_mati": 29,
+      "kadar_kelahiran_mati": 6.6
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2002,
+      "kelahiran_mati": 29,
+      "kadar_kelahiran_mati": 6.8
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2003,
+      "kelahiran_mati": 29,
+      "kadar_kelahiran_mati": 7.1
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2004,
+      "kelahiran_mati": 29,
+      "kadar_kelahiran_mati": 7.3
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2005,
+      "kelahiran_mati": 30,
+      "kadar_kelahiran_mati": 7.6
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2006,
+      "kelahiran_mati": 27,
+      "kadar_kelahiran_mati": 6.9
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2007,
+      "kelahiran_mati": 19,
+      "kadar_kelahiran_mati": 4.8
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2008,
+      "kelahiran_mati": 18,
+      "kadar_kelahiran_mati": 4.3
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2009,
+      "kelahiran_mati": 16,
+      "kadar_kelahiran_mati": 3.8
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2010,
+      "kelahiran_mati": 25,
+      "kadar_kelahiran_mati": 5.9
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2011,
+      "kelahiran_mati": 23,
+      "kadar_kelahiran_mati": 5.4
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2012,
+      "kelahiran_mati": 22,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2013,
+      "kelahiran_mati": 17,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2014,
+      "kelahiran_mati": 21,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2015,
+      "kelahiran_mati": 25,
+      "kadar_kelahiran_mati": 5.6
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "kelahiran_mati": 23,
+      "kadar_kelahiran_mati": 5.1
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "kelahiran_mati": 26,
+      "kadar_kelahiran_mati": 5.7
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "kelahiran_mati": 20,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "kelahiran_mati": 19,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "kelahiran_mati": 24,
+      "kadar_kelahiran_mati": 5.8
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "kelahiran_mati": 13,
+      "kadar_kelahiran_mati": 3.2
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "kelahiran_mati": 14,
+      "kadar_kelahiran_mati": 3.7
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "kelahiran_mati": 26,
+      "kadar_kelahiran_mati": 6.7
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "kelahiran_mati": 14,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2025,
+      "kelahiran_mati": 13,
+      "kadar_kelahiran_mati": 3.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2000,
+      "kelahiran_mati": 35,
+      "kadar_kelahiran_mati": 1.3
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2001,
+      "kelahiran_mati": 92,
+      "kadar_kelahiran_mati": 3.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2002,
+      "kelahiran_mati": 102,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2003,
+      "kelahiran_mati": 101,
+      "kadar_kelahiran_mati": 4.3
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2004,
+      "kelahiran_mati": 119,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2005,
+      "kelahiran_mati": 97,
+      "kadar_kelahiran_mati": 4.3
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2006,
+      "kelahiran_mati": 127,
+      "kadar_kelahiran_mati": 5.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2007,
+      "kelahiran_mati": 103,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2008,
+      "kelahiran_mati": 104,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2009,
+      "kelahiran_mati": 89,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2010,
+      "kelahiran_mati": 81,
+      "kadar_kelahiran_mati": 3.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2011,
+      "kelahiran_mati": 101,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2012,
+      "kelahiran_mati": 100,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2013,
+      "kelahiran_mati": 87,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2014,
+      "kelahiran_mati": 84,
+      "kadar_kelahiran_mati": 3.6
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2015,
+      "kelahiran_mati": 104,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "kelahiran_mati": 131,
+      "kadar_kelahiran_mati": 5.9
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "kelahiran_mati": 121,
+      "kadar_kelahiran_mati": 5.5
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "kelahiran_mati": 110,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "kelahiran_mati": 117,
+      "kadar_kelahiran_mati": 5.7
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "kelahiran_mati": 100,
+      "kadar_kelahiran_mati": 5.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "kelahiran_mati": 98,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "kelahiran_mati": 96,
+      "kadar_kelahiran_mati": 5.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "kelahiran_mati": 79,
+      "kadar_kelahiran_mati": 4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "kelahiran_mati": 83,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2025,
+      "kelahiran_mati": 95,
+      "kadar_kelahiran_mati": 5.6
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2000,
+      "kelahiran_mati": 33,
+      "kadar_kelahiran_mati": 0.7
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2001,
+      "kelahiran_mati": 84,
+      "kadar_kelahiran_mati": 1.7
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2002,
+      "kelahiran_mati": 84,
+      "kadar_kelahiran_mati": 1.8
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2003,
+      "kelahiran_mati": 65,
+      "kadar_kelahiran_mati": 1.5
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2004,
+      "kelahiran_mati": 77,
+      "kadar_kelahiran_mati": 1.7
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2005,
+      "kelahiran_mati": 90,
+      "kadar_kelahiran_mati": 1.9
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2006,
+      "kelahiran_mati": 73,
+      "kadar_kelahiran_mati": 1.6
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2007,
+      "kelahiran_mati": 91,
+      "kadar_kelahiran_mati": 1.9
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2008,
+      "kelahiran_mati": 111,
+      "kadar_kelahiran_mati": 2.2
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2009,
+      "kelahiran_mati": 132,
+      "kadar_kelahiran_mati": 2.5
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2010,
+      "kelahiran_mati": 178,
+      "kadar_kelahiran_mati": 3.1
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2011,
+      "kelahiran_mati": 182,
+      "kadar_kelahiran_mati": 3.1
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2012,
+      "kelahiran_mati": 207,
+      "kadar_kelahiran_mati": 3.4
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2013,
+      "kelahiran_mati": 186,
+      "kadar_kelahiran_mati": 3.1
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2014,
+      "kelahiran_mati": 202,
+      "kadar_kelahiran_mati": 3.4
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2015,
+      "kelahiran_mati": 174,
+      "kadar_kelahiran_mati": 3.1
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "kelahiran_mati": 300,
+      "kadar_kelahiran_mati": 5.6
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "kelahiran_mati": 360,
+      "kadar_kelahiran_mati": 6.7
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "kelahiran_mati": 352,
+      "kadar_kelahiran_mati": 6.5
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "kelahiran_mati": 262,
+      "kadar_kelahiran_mati": 4.9
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "kelahiran_mati": 354,
+      "kadar_kelahiran_mati": 7.1
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "kelahiran_mati": 324,
+      "kadar_kelahiran_mati": 7.7
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "kelahiran_mati": 296,
+      "kadar_kelahiran_mati": 6.7
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "kelahiran_mati": 304,
+      "kadar_kelahiran_mati": 6.5
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "kelahiran_mati": 213,
+      "kadar_kelahiran_mati": 5
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2025,
+      "kelahiran_mati": 244,
+      "kadar_kelahiran_mati": 5.9
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2000,
+      "kelahiran_mati": 51,
+      "kadar_kelahiran_mati": 1.1
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2001,
+      "kelahiran_mati": 125,
+      "kadar_kelahiran_mati": 2.7
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2002,
+      "kelahiran_mati": 87,
+      "kadar_kelahiran_mati": 1.9
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2003,
+      "kelahiran_mati": 99,
+      "kadar_kelahiran_mati": 2.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2004,
+      "kelahiran_mati": 130,
+      "kadar_kelahiran_mati": 3
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2005,
+      "kelahiran_mati": 154,
+      "kadar_kelahiran_mati": 3.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2006,
+      "kelahiran_mati": 153,
+      "kadar_kelahiran_mati": 3.6
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2007,
+      "kelahiran_mati": 148,
+      "kadar_kelahiran_mati": 3.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2008,
+      "kelahiran_mati": 182,
+      "kadar_kelahiran_mati": 4.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2009,
+      "kelahiran_mati": 211,
+      "kadar_kelahiran_mati": 4.8
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2010,
+      "kelahiran_mati": 197,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2011,
+      "kelahiran_mati": 215,
+      "kadar_kelahiran_mati": 4.8
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2012,
+      "kelahiran_mati": 175,
+      "kadar_kelahiran_mati": 4
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2013,
+      "kelahiran_mati": 187,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2014,
+      "kelahiran_mati": 174,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2015,
+      "kelahiran_mati": 166,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "kelahiran_mati": 176,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "kelahiran_mati": 184,
+      "kadar_kelahiran_mati": 4.8
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "kelahiran_mati": 155,
+      "kadar_kelahiran_mati": 4.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "kelahiran_mati": 142,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "kelahiran_mati": 187,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "kelahiran_mati": 137,
+      "kadar_kelahiran_mati": 4.4
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "kelahiran_mati": 162,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "kelahiran_mati": 139,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "kelahiran_mati": 137,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2025,
+      "kelahiran_mati": 159,
+      "kadar_kelahiran_mati": 5.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2000,
+      "kelahiran_mati": 177,
+      "kadar_kelahiran_mati": 1.9
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2001,
+      "kelahiran_mati": 236,
+      "kadar_kelahiran_mati": 2.7
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2002,
+      "kelahiran_mati": 246,
+      "kadar_kelahiran_mati": 2.7
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2003,
+      "kelahiran_mati": 322,
+      "kadar_kelahiran_mati": 3.6
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2004,
+      "kelahiran_mati": 313,
+      "kadar_kelahiran_mati": 3.3
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2005,
+      "kelahiran_mati": 328,
+      "kadar_kelahiran_mati": 3.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2006,
+      "kelahiran_mati": 351,
+      "kadar_kelahiran_mati": 3.7
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2007,
+      "kelahiran_mati": 335,
+      "kadar_kelahiran_mati": 3.4
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2008,
+      "kelahiran_mati": 347,
+      "kadar_kelahiran_mati": 3.4
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2009,
+      "kelahiran_mati": 365,
+      "kadar_kelahiran_mati": 3.5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2010,
+      "kelahiran_mati": 364,
+      "kadar_kelahiran_mati": 3.6
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2011,
+      "kelahiran_mati": 390,
+      "kadar_kelahiran_mati": 3.7
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2012,
+      "kelahiran_mati": 418,
+      "kadar_kelahiran_mati": 3.8
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2013,
+      "kelahiran_mati": 380,
+      "kadar_kelahiran_mati": 3.6
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "kelahiran_mati": 432,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "kelahiran_mati": 426,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "kelahiran_mati": 509,
+      "kadar_kelahiran_mati": 4.8
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "kelahiran_mati": 505,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "kelahiran_mati": 457,
+      "kadar_kelahiran_mati": 4.4
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "kelahiran_mati": 452,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "kelahiran_mati": 453,
+      "kadar_kelahiran_mati": 4.8
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "kelahiran_mati": 426,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "kelahiran_mati": 418,
+      "kadar_kelahiran_mati": 5
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "kelahiran_mati": 424,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "kelahiran_mati": 383,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2025,
+      "kelahiran_mati": 355,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2000,
+      "kelahiran_mati": 118,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2001,
+      "kelahiran_mati": 146,
+      "kadar_kelahiran_mati": 6
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2002,
+      "kelahiran_mati": 165,
+      "kadar_kelahiran_mati": 7.1
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2003,
+      "kelahiran_mati": 127,
+      "kadar_kelahiran_mati": 5.7
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2004,
+      "kelahiran_mati": 164,
+      "kadar_kelahiran_mati": 7.2
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2005,
+      "kelahiran_mati": 138,
+      "kadar_kelahiran_mati": 6.2
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2006,
+      "kelahiran_mati": 154,
+      "kadar_kelahiran_mati": 7
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2007,
+      "kelahiran_mati": 167,
+      "kadar_kelahiran_mati": 7.4
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2008,
+      "kelahiran_mati": 151,
+      "kadar_kelahiran_mati": 6.4
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2009,
+      "kelahiran_mati": 183,
+      "kadar_kelahiran_mati": 7.6
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2010,
+      "kelahiran_mati": 191,
+      "kadar_kelahiran_mati": 7.8
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2011,
+      "kelahiran_mati": 169,
+      "kadar_kelahiran_mati": 6.7
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2012,
+      "kelahiran_mati": 167,
+      "kadar_kelahiran_mati": 6.4
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2013,
+      "kelahiran_mati": 142,
+      "kadar_kelahiran_mati": 5.4
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "kelahiran_mati": 174,
+      "kadar_kelahiran_mati": 6.3
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "kelahiran_mati": 166,
+      "kadar_kelahiran_mati": 5.9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "kelahiran_mati": 140,
+      "kadar_kelahiran_mati": 5
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "kelahiran_mati": 147,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "kelahiran_mati": 117,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "kelahiran_mati": 131,
+      "kadar_kelahiran_mati": 4.8
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "kelahiran_mati": 115,
+      "kadar_kelahiran_mati": 4.2
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "kelahiran_mati": 119,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "kelahiran_mati": 117,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "kelahiran_mati": 134,
+      "kadar_kelahiran_mati": 5.1
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "kelahiran_mati": 109,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2025,
+      "kelahiran_mati": 101,
+      "kadar_kelahiran_mati": 4.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2000,
+      "kelahiran_mati": 82,
+      "kadar_kelahiran_mati": 2.8
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2001,
+      "kelahiran_mati": 65,
+      "kadar_kelahiran_mati": 2.4
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2002,
+      "kelahiran_mati": 83,
+      "kadar_kelahiran_mati": 3.2
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2003,
+      "kelahiran_mati": 100,
+      "kadar_kelahiran_mati": 4
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2004,
+      "kelahiran_mati": 75,
+      "kadar_kelahiran_mati": 3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2005,
+      "kelahiran_mati": 90,
+      "kadar_kelahiran_mati": 3.8
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2006,
+      "kelahiran_mati": 95,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2007,
+      "kelahiran_mati": 81,
+      "kadar_kelahiran_mati": 3.2
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2008,
+      "kelahiran_mati": 103,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2009,
+      "kelahiran_mati": 101,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2010,
+      "kelahiran_mati": 117,
+      "kadar_kelahiran_mati": 4.7
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2011,
+      "kelahiran_mati": 93,
+      "kadar_kelahiran_mati": 3.6
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2012,
+      "kelahiran_mati": 95,
+      "kadar_kelahiran_mati": 3.5
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2013,
+      "kelahiran_mati": 89,
+      "kadar_kelahiran_mati": 3.4
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2014,
+      "kelahiran_mati": 98,
+      "kadar_kelahiran_mati": 3.5
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2015,
+      "kelahiran_mati": 97,
+      "kadar_kelahiran_mati": 3.7
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "kelahiran_mati": 149,
+      "kadar_kelahiran_mati": 5.6
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2017,
+      "kelahiran_mati": 140,
+      "kadar_kelahiran_mati": 5.5
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "kelahiran_mati": 110,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "kelahiran_mati": 103,
+      "kadar_kelahiran_mati": 3.7
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "kelahiran_mati": 105,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "kelahiran_mati": 110,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "kelahiran_mati": 97,
+      "kadar_kelahiran_mati": 4.9
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2023,
+      "kelahiran_mati": 113,
+      "kadar_kelahiran_mati": 5.2
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "kelahiran_mati": 80,
+      "kadar_kelahiran_mati": 3.8
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2025,
+      "kelahiran_mati": 113,
+      "kadar_kelahiran_mati": 5.8
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2000,
+      "kelahiran_mati": 4,
+      "kadar_kelahiran_mati": 2.7
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2001,
+      "kelahiran_mati": 17,
+      "kadar_kelahiran_mati": 11.3
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2002,
+      "kelahiran_mati": 16,
+      "kadar_kelahiran_mati": 10.8
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2003,
+      "kelahiran_mati": 9,
+      "kadar_kelahiran_mati": 5.6
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2004,
+      "kelahiran_mati": 9,
+      "kadar_kelahiran_mati": 5.9
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2005,
+      "kelahiran_mati": 11,
+      "kadar_kelahiran_mati": 7.2
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2006,
+      "kelahiran_mati": 9,
+      "kadar_kelahiran_mati": 5.6
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2007,
+      "kelahiran_mati": 5,
+      "kadar_kelahiran_mati": 3.2
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2008,
+      "kelahiran_mati": 13,
+      "kadar_kelahiran_mati": 7.7
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2009,
+      "kelahiran_mati": 8,
+      "kadar_kelahiran_mati": 4.8
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2010,
+      "kelahiran_mati": 6,
+      "kadar_kelahiran_mati": 3.5
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2011,
+      "kelahiran_mati": 8,
+      "kadar_kelahiran_mati": 4.5
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2012,
+      "kelahiran_mati": 10,
+      "kadar_kelahiran_mati": 5.5
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2013,
+      "kelahiran_mati": 5,
+      "kadar_kelahiran_mati": 2.8
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2014,
+      "kelahiran_mati": 4,
+      "kadar_kelahiran_mati": 2.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2015,
+      "kelahiran_mati": 8,
+      "kadar_kelahiran_mati": 4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2016,
+      "kelahiran_mati": 9,
+      "kadar_kelahiran_mati": 5
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2017,
+      "kelahiran_mati": 11,
+      "kadar_kelahiran_mati": 6.3
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2018,
+      "kelahiran_mati": 7,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "kelahiran_mati": 2,
+      "kadar_kelahiran_mati": 1.2
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "kelahiran_mati": 7,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2021,
+      "kelahiran_mati": 4,
+      "kadar_kelahiran_mati": 2.6
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2022,
+      "kelahiran_mati": 9,
+      "kadar_kelahiran_mati": 6.5
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2023,
+      "kelahiran_mati": 11,
+      "kadar_kelahiran_mati": 7.7
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2024,
+      "kelahiran_mati": 6,
+      "kadar_kelahiran_mati": 4.6
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2025,
+      "kelahiran_mati": 7,
+      "kadar_kelahiran_mati": 6.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2010,
+      "kelahiran_mati": 9,
+      "kadar_kelahiran_mati": 3.7
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2011,
+      "kelahiran_mati": 7,
+      "kadar_kelahiran_mati": 2.3
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2012,
+      "kelahiran_mati": 9,
+      "kadar_kelahiran_mati": 2.8
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2013,
+      "kelahiran_mati": 12,
+      "kadar_kelahiran_mati": 3.9
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2014,
+      "kelahiran_mati": 10,
+      "kadar_kelahiran_mati": 3.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2015,
+      "kelahiran_mati": 12,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2016,
+      "kelahiran_mati": 5,
+      "kadar_kelahiran_mati": 1.9
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2017,
+      "kelahiran_mati": 4,
+      "kadar_kelahiran_mati": 1.6
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2018,
+      "kelahiran_mati": 13,
+      "kadar_kelahiran_mati": 5.4
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2019,
+      "kelahiran_mati": 8,
+      "kadar_kelahiran_mati": 3.4
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2020,
+      "kelahiran_mati": 9,
+      "kadar_kelahiran_mati": 4.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2021,
+      "kelahiran_mati": 15,
+      "kadar_kelahiran_mati": 7.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2022,
+      "kelahiran_mati": 11,
+      "kadar_kelahiran_mati": 5.9
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2023,
+      "kelahiran_mati": 7,
+      "kadar_kelahiran_mati": 4.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2024,
+      "kelahiran_mati": 12,
+      "kadar_kelahiran_mati": 7.7
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2025,
+      "kelahiran_mati": 7,
+      "kadar_kelahiran_mati": 4.9
+    }
+  ],
+  "meta": {
+    "title": "Kelahiran Mati Tahunan mengikut Negeri (2000–2025) - Muat turun percuma",
+    "description": "Bilangan kelahiran mati dan kadar kelahiran mati (setiap 1,000 kelahiran) mengikut negeri di Malaysia dari tahun 2000 hingga 2025, daripada data.gov.my (Jabatan Perangkaan Malaysia). Mengandungi 406 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Kelahiran Mati Tahunan mengikut Negeri (2000–2025) | ListBase",
+    "seo_description": "Muat turun Kelahiran Mati Tahunan mengikut Negeri (2000–2025) — 406 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 406 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/stillbirths_state"
+    ]
+  }
+}

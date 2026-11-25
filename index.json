@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-24T02:10:30.130Z",
-  "total_datasets": 747,
-  "total_records": 562158,
+  "generated": "2026-11-25T02:23:26.142Z",
+  "total_datasets": 748,
+  "total_records": 562564,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 30
+      "dataset_count": 31
     },
     {
       "id": "history",
@@ -5217,6 +5217,31 @@
         "xlsx": {
           "name": "ms-kedah-fasiliti-kesihatan_MS.xlsx",
           "size": 35321
+        }
+      }
+    },
+    {
+      "id": "ms-kelahiran-mati-negeri",
+      "name": "Kelahiran Mati Tahunan mengikut Negeri (2000–2025)",
+      "category": "health",
+      "record_count": 406,
+      "columns": [
+        "negeri",
+        "tahun",
+        "kelahiran_mati",
+        "kadar_kelahiran_mati"
+      ],
+      "source": "https://data.gov.my/data-catalogue/stillbirths_state",
+      "updated": "2026-11",
+      "size": 52572,
+      "files": {
+        "csv": {
+          "name": "ms-kelahiran-mati-negeri_MS.csv",
+          "size": 12255
+        },
+        "xlsx": {
+          "name": "ms-kelahiran-mati-negeri_MS.xlsx",
+          "size": 14949
         }
       }
     },
