@@ -1,0 +1,5608 @@
+{
+  "id": "ms-akses-kemudahan-asas-isi-rumah-daerah",
+  "name": "Akses Isi Rumah kepada Kemudahan Asas mengikut Negeri dan Daerah (2016–2024)",
+  "title": "Akses Isi Rumah kepada Kemudahan Asas mengikut Negeri dan Daerah (2016–2024)",
+  "description": "Peratusan isi rumah yang mempunyai akses kepada air paip, sanitasi dan bekalan elektrik bagi setiap negeri dan daerah di Malaysia berdasarkan Survei Pendapatan dan Perbelanjaan Isi Rumah (2016, 2019, 2022 dan 2024), daripada data.gov.my (Jabatan Perangkaan Malaysia).",
+  "category": "society",
+  "source": "https://data.gov.my/data-catalogue/hh_access_amenities",
+  "source_url": "https://data.gov.my/data-catalogue/hh_access_amenities",
+  "updated": "2026-11",
+  "record_count": 694,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "daerah",
+      "label": "Daerah",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "air_paip_peratus",
+      "label": "Air Paip Peratus",
+      "type": "number"
+    },
+    {
+      "key": "sanitasi_peratus",
+      "label": "Sanitasi Peratus",
+      "type": "number"
+    },
+    {
+      "key": "elektrik_peratus",
+      "label": "Elektrik Peratus",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Johor",
+      "daerah": "(Semua daerah)",
+      "tahun": 2016,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 99.99,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "(Semua daerah)",
+      "tahun": 2019,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 99.9,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "(Semua daerah)",
+      "tahun": 2022,
+      "air_paip_peratus": 99.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "(Semua daerah)",
+      "tahun": 2024,
+      "air_paip_peratus": 99.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Batu Pahat",
+      "tahun": 2016,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Batu Pahat",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Batu Pahat",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Batu Pahat",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Johor Bahru",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Johor Bahru",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Johor Bahru",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Johor Bahru",
+      "tahun": 2024,
+      "air_paip_peratus": 99.99,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kluang",
+      "tahun": 2016,
+      "air_paip_peratus": 99.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.1
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kluang",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kluang",
+      "tahun": 2022,
+      "air_paip_peratus": 99.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kluang",
+      "tahun": 2024,
+      "air_paip_peratus": 98.73,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kota Tinggi",
+      "tahun": 2016,
+      "air_paip_peratus": 98.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kota Tinggi",
+      "tahun": 2019,
+      "air_paip_peratus": 98.8,
+      "sanitasi_peratus": 99,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kota Tinggi",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 99.85,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kota Tinggi",
+      "tahun": 2024,
+      "air_paip_peratus": 99.83,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kulai",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kulai",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kulai",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Kulai",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Mersing",
+      "tahun": 2016,
+      "air_paip_peratus": 99.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Mersing",
+      "tahun": 2019,
+      "air_paip_peratus": 98.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Mersing",
+      "tahun": 2022,
+      "air_paip_peratus": 83.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Mersing",
+      "tahun": 2024,
+      "air_paip_peratus": 95.39,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Muar",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Muar",
+      "tahun": 2019,
+      "air_paip_peratus": 99.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Muar",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Muar",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Pontian",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Pontian",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Pontian",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Pontian",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Segamat",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Segamat",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Segamat",
+      "tahun": 2022,
+      "air_paip_peratus": 98.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Segamat",
+      "tahun": 2024,
+      "air_paip_peratus": 99.54,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Tangkak",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Tangkak",
+      "tahun": 2019,
+      "air_paip_peratus": 99.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Tangkak",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Johor",
+      "daerah": "Tangkak",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "(Semua daerah)",
+      "tahun": 2016,
+      "air_paip_peratus": 98.7,
+      "sanitasi_peratus": 99.98,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "(Semua daerah)",
+      "tahun": 2019,
+      "air_paip_peratus": 99.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "(Semua daerah)",
+      "tahun": 2022,
+      "air_paip_peratus": 99.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "(Semua daerah)",
+      "tahun": 2024,
+      "air_paip_peratus": 99.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Baling",
+      "tahun": 2016,
+      "air_paip_peratus": 91,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Baling",
+      "tahun": 2019,
+      "air_paip_peratus": 96.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Baling",
+      "tahun": 2022,
+      "air_paip_peratus": 95.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Baling",
+      "tahun": 2024,
+      "air_paip_peratus": 96.01,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Bandar Baharu",
+      "tahun": 2016,
+      "air_paip_peratus": 99.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Bandar Baharu",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Bandar Baharu",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Bandar Baharu",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kota Setar",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kota Setar",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kota Setar",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kota Setar",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kuala Muda",
+      "tahun": 2016,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kuala Muda",
+      "tahun": 2019,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kuala Muda",
+      "tahun": 2022,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 99.9,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kuala Muda",
+      "tahun": 2024,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kubang Pasu",
+      "tahun": 2016,
+      "air_paip_peratus": 99.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kubang Pasu",
+      "tahun": 2019,
+      "air_paip_peratus": 99.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kubang Pasu",
+      "tahun": 2022,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kubang Pasu",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kulim",
+      "tahun": 2016,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kulim",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kulim",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Kulim",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Langkawi",
+      "tahun": 2016,
+      "air_paip_peratus": 97.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Langkawi",
+      "tahun": 2019,
+      "air_paip_peratus": 99.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Langkawi",
+      "tahun": 2022,
+      "air_paip_peratus": 99.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Langkawi",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Padang Terap",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 99.4,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Padang Terap",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Padang Terap",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Padang Terap",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Pendang",
+      "tahun": 2016,
+      "air_paip_peratus": 99.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Pendang",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Pendang",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Pendang",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Pokok Sena",
+      "tahun": 2016,
+      "air_paip_peratus": 99.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Pokok Sena",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Pokok Sena",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Pokok Sena",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Sik",
+      "tahun": 2016,
+      "air_paip_peratus": 91.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Sik",
+      "tahun": 2019,
+      "air_paip_peratus": 91.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Sik",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Sik",
+      "tahun": 2024,
+      "air_paip_peratus": 98.28,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Yan",
+      "tahun": 2016,
+      "air_paip_peratus": 95.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Yan",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Yan",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kedah",
+      "daerah": "Yan",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "(Semua daerah)",
+      "tahun": 2016,
+      "air_paip_peratus": 65.4,
+      "sanitasi_peratus": 99.67,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "(Semua daerah)",
+      "tahun": 2019,
+      "air_paip_peratus": 67.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "(Semua daerah)",
+      "tahun": 2022,
+      "air_paip_peratus": 70.2,
+      "sanitasi_peratus": 99.8,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "(Semua daerah)",
+      "tahun": 2024,
+      "air_paip_peratus": 72.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Bachok",
+      "tahun": 2016,
+      "air_paip_peratus": 29.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.8
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Bachok",
+      "tahun": 2019,
+      "air_paip_peratus": 42.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Bachok",
+      "tahun": 2022,
+      "air_paip_peratus": 47.4,
+      "sanitasi_peratus": 99.5,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Bachok",
+      "tahun": 2024,
+      "air_paip_peratus": 44.53,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Gua Musang",
+      "tahun": 2016,
+      "air_paip_peratus": 69.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Gua Musang",
+      "tahun": 2019,
+      "air_paip_peratus": 90.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Gua Musang",
+      "tahun": 2022,
+      "air_paip_peratus": 89.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Gua Musang",
+      "tahun": 2024,
+      "air_paip_peratus": 94.78,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Jeli",
+      "tahun": 2016,
+      "air_paip_peratus": 75.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Jeli",
+      "tahun": 2019,
+      "air_paip_peratus": 77.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Jeli",
+      "tahun": 2022,
+      "air_paip_peratus": 80.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Jeli",
+      "tahun": 2024,
+      "air_paip_peratus": 70.59,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kecil Lojing",
+      "tahun": 2016,
+      "air_paip_peratus": 44.4,
+      "sanitasi_peratus": "",
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kecil Lojing",
+      "tahun": 2019,
+      "air_paip_peratus": 44.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kecil Lojing",
+      "tahun": 2022,
+      "air_paip_peratus": 87.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kecil Lojing",
+      "tahun": 2024,
+      "air_paip_peratus": 93.33,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kota Bharu",
+      "tahun": 2016,
+      "air_paip_peratus": 72,
+      "sanitasi_peratus": 99.7,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kota Bharu",
+      "tahun": 2019,
+      "air_paip_peratus": 64.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kota Bharu",
+      "tahun": 2022,
+      "air_paip_peratus": 68.4,
+      "sanitasi_peratus": 99.6,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kota Bharu",
+      "tahun": 2024,
+      "air_paip_peratus": 68.76,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kuala Krai",
+      "tahun": 2016,
+      "air_paip_peratus": 71.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kuala Krai",
+      "tahun": 2019,
+      "air_paip_peratus": 83.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kuala Krai",
+      "tahun": 2022,
+      "air_paip_peratus": 70,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Kuala Krai",
+      "tahun": 2024,
+      "air_paip_peratus": 98.41,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Machang",
+      "tahun": 2016,
+      "air_paip_peratus": 68.7,
+      "sanitasi_peratus": 98.6,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Machang",
+      "tahun": 2019,
+      "air_paip_peratus": 70.1,
+      "sanitasi_peratus": 99.7,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Machang",
+      "tahun": 2022,
+      "air_paip_peratus": 68,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Machang",
+      "tahun": 2024,
+      "air_paip_peratus": 72.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Pasir Mas",
+      "tahun": 2016,
+      "air_paip_peratus": 67,
+      "sanitasi_peratus": 99.7,
+      "elektrik_peratus": 99.8
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Pasir Mas",
+      "tahun": 2019,
+      "air_paip_peratus": 71.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Pasir Mas",
+      "tahun": 2022,
+      "air_paip_peratus": 80.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Pasir Mas",
+      "tahun": 2024,
+      "air_paip_peratus": 71.58,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Pasir Puteh",
+      "tahun": 2016,
+      "air_paip_peratus": 52,
+      "sanitasi_peratus": 99.8,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Pasir Puteh",
+      "tahun": 2019,
+      "air_paip_peratus": 65.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Pasir Puteh",
+      "tahun": 2022,
+      "air_paip_peratus": 68.5,
+      "sanitasi_peratus": 99.8,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Pasir Puteh",
+      "tahun": 2024,
+      "air_paip_peratus": 77.55,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Tanah Merah",
+      "tahun": 2016,
+      "air_paip_peratus": 67.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Tanah Merah",
+      "tahun": 2019,
+      "air_paip_peratus": 74.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Tanah Merah",
+      "tahun": 2022,
+      "air_paip_peratus": 70.7,
+      "sanitasi_peratus": 99.8,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Tanah Merah",
+      "tahun": 2024,
+      "air_paip_peratus": 80.23,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Tumpat",
+      "tahun": 2016,
+      "air_paip_peratus": 62.6,
+      "sanitasi_peratus": 99.2,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Tumpat",
+      "tahun": 2019,
+      "air_paip_peratus": 66.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Tumpat",
+      "tahun": 2022,
+      "air_paip_peratus": 70.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Kelantan",
+      "daerah": "Tumpat",
+      "tahun": 2024,
+      "air_paip_peratus": 67.73,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "(Semua daerah)",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 99.92,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "(Semua daerah)",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "(Semua daerah)",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "(Semua daerah)",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Alor Gajah",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 99.8,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Alor Gajah",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Alor Gajah",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Alor Gajah",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Jasin",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Jasin",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Jasin",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Jasin",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Melaka Tengah",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 99.9,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Melaka Tengah",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Melaka Tengah",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Melaka",
+      "daerah": "Melaka Tengah",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "(Semua daerah)",
+      "tahun": 2016,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 99.98,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "(Semua daerah)",
+      "tahun": 2019,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "(Semua daerah)",
+      "tahun": 2022,
+      "air_paip_peratus": 99.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "(Semua daerah)",
+      "tahun": 2024,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Jelebu",
+      "tahun": 2016,
+      "air_paip_peratus": 99.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Jelebu",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Jelebu",
+      "tahun": 2022,
+      "air_paip_peratus": 95.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Jelebu",
+      "tahun": 2024,
+      "air_paip_peratus": 96.33,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Jempol",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Jempol",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Jempol",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Jempol",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Kuala Pilah",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Kuala Pilah",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Kuala Pilah",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Kuala Pilah",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Port Dickson",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Port Dickson",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Port Dickson",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Port Dickson",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Rembau",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Rembau",
+      "tahun": 2019,
+      "air_paip_peratus": 98.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Rembau",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Rembau",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Seremban",
+      "tahun": 2016,
+      "air_paip_peratus": 99.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Seremban",
+      "tahun": 2019,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Seremban",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Seremban",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Tampin",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Tampin",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Tampin",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "daerah": "Tampin",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "(Semua daerah)",
+      "tahun": 2016,
+      "air_paip_peratus": 97.8,
+      "sanitasi_peratus": 99.75,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "(Semua daerah)",
+      "tahun": 2019,
+      "air_paip_peratus": 97.9,
+      "sanitasi_peratus": 99.98,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "(Semua daerah)",
+      "tahun": 2022,
+      "air_paip_peratus": 98.3,
+      "sanitasi_peratus": 99.4,
+      "elektrik_peratus": 99.51
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "(Semua daerah)",
+      "tahun": 2024,
+      "air_paip_peratus": 98.8,
+      "sanitasi_peratus": 99.9,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Bentong",
+      "tahun": 2016,
+      "air_paip_peratus": 94.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Bentong",
+      "tahun": 2019,
+      "air_paip_peratus": 99.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Bentong",
+      "tahun": 2022,
+      "air_paip_peratus": 98.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Bentong",
+      "tahun": 2024,
+      "air_paip_peratus": 91.83,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Bera",
+      "tahun": 2016,
+      "air_paip_peratus": 94.9,
+      "sanitasi_peratus": 96,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Bera",
+      "tahun": 2019,
+      "air_paip_peratus": 99.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Bera",
+      "tahun": 2022,
+      "air_paip_peratus": 98.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Bera",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 99.4,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Cameron Highlands",
+      "tahun": 2016,
+      "air_paip_peratus": 93.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Cameron Highlands",
+      "tahun": 2019,
+      "air_paip_peratus": 96.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Cameron Highlands",
+      "tahun": 2022,
+      "air_paip_peratus": 94.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Cameron Highlands",
+      "tahun": 2024,
+      "air_paip_peratus": 90.82,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Jerantut",
+      "tahun": 2016,
+      "air_paip_peratus": 99.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Jerantut",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Jerantut",
+      "tahun": 2022,
+      "air_paip_peratus": 97.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Jerantut",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Kuantan",
+      "tahun": 2016,
+      "air_paip_peratus": 98.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Kuantan",
+      "tahun": 2019,
+      "air_paip_peratus": 99.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Kuantan",
+      "tahun": 2022,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Kuantan",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Lipis",
+      "tahun": 2016,
+      "air_paip_peratus": 99.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Lipis",
+      "tahun": 2019,
+      "air_paip_peratus": 98,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Lipis",
+      "tahun": 2022,
+      "air_paip_peratus": 84.3,
+      "sanitasi_peratus": 91.1,
+      "elektrik_peratus": 93.5
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Lipis",
+      "tahun": 2024,
+      "air_paip_peratus": 91.35,
+      "sanitasi_peratus": 98.9,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Maran",
+      "tahun": 2016,
+      "air_paip_peratus": 96.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Maran",
+      "tahun": 2019,
+      "air_paip_peratus": 97.3,
+      "sanitasi_peratus": 99.7,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Maran",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Maran",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Pekan",
+      "tahun": 2016,
+      "air_paip_peratus": 96.7,
+      "sanitasi_peratus": 99.6,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Pekan",
+      "tahun": 2019,
+      "air_paip_peratus": 92.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Pekan",
+      "tahun": 2022,
+      "air_paip_peratus": 96.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Pekan",
+      "tahun": 2024,
+      "air_paip_peratus": 99.51,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Raub",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Raub",
+      "tahun": 2019,
+      "air_paip_peratus": 90,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Raub",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Raub",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Rompin",
+      "tahun": 2016,
+      "air_paip_peratus": 95.3,
+      "sanitasi_peratus": 99.6,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Rompin",
+      "tahun": 2019,
+      "air_paip_peratus": 96.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Rompin",
+      "tahun": 2022,
+      "air_paip_peratus": 97,
+      "sanitasi_peratus": 98.3,
+      "elektrik_peratus": 97.8
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Rompin",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Temerloh",
+      "tahun": 2016,
+      "air_paip_peratus": 99.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Temerloh",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Temerloh",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pahang",
+      "daerah": "Temerloh",
+      "tahun": 2024,
+      "air_paip_peratus": 99.64,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "(Semua daerah)",
+      "tahun": 2016,
+      "air_paip_peratus": 99.4,
+      "sanitasi_peratus": 99.97,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "(Semua daerah)",
+      "tahun": 2019,
+      "air_paip_peratus": 99.4,
+      "sanitasi_peratus": 99.99,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "(Semua daerah)",
+      "tahun": 2022,
+      "air_paip_peratus": 99.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "(Semua daerah)",
+      "tahun": 2024,
+      "air_paip_peratus": 99.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Bagan Datuk",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Bagan Datuk",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Bagan Datuk",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Bagan Datuk",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Batang Padang",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 99.8,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Batang Padang",
+      "tahun": 2019,
+      "air_paip_peratus": 99.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Batang Padang",
+      "tahun": 2022,
+      "air_paip_peratus": 94.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Batang Padang",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Hilir Perak",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Hilir Perak",
+      "tahun": 2019,
+      "air_paip_peratus": 99.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Hilir Perak",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Hilir Perak",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Hulu Perak",
+      "tahun": 2016,
+      "air_paip_peratus": 97,
+      "sanitasi_peratus": 99.5,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Hulu Perak",
+      "tahun": 2019,
+      "air_paip_peratus": 96.6,
+      "sanitasi_peratus": 99.7,
+      "elektrik_peratus": 99.7
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Hulu Perak",
+      "tahun": 2022,
+      "air_paip_peratus": 95.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Hulu Perak",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kampar",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kampar",
+      "tahun": 2019,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kampar",
+      "tahun": 2022,
+      "air_paip_peratus": 98.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kampar",
+      "tahun": 2024,
+      "air_paip_peratus": 99.67,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kerian",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kerian",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kerian",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kerian",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kinta",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kinta",
+      "tahun": 2019,
+      "air_paip_peratus": 99.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kinta",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kinta",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kuala Kangsar",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kuala Kangsar",
+      "tahun": 2019,
+      "air_paip_peratus": 99.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kuala Kangsar",
+      "tahun": 2022,
+      "air_paip_peratus": 99.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Kuala Kangsar",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Larut dan Matang",
+      "tahun": 2016,
+      "air_paip_peratus": 97,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Larut dan Matang",
+      "tahun": 2019,
+      "air_paip_peratus": 97.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.8
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Larut dan Matang",
+      "tahun": 2022,
+      "air_paip_peratus": 97.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Larut dan Matang",
+      "tahun": 2024,
+      "air_paip_peratus": 95.25,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Manjung",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Manjung",
+      "tahun": 2019,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Manjung",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Manjung",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Muallim",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Muallim",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Muallim",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Muallim",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Perak Tengah",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Perak Tengah",
+      "tahun": 2019,
+      "air_paip_peratus": 99.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Perak Tengah",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Perak Tengah",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Selama",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Selama",
+      "tahun": 2019,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Selama",
+      "tahun": 2022,
+      "air_paip_peratus": 96.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perak",
+      "daerah": "Selama",
+      "tahun": 2024,
+      "air_paip_peratus": 91.67,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perlis",
+      "daerah": "Perlis",
+      "tahun": 2016,
+      "air_paip_peratus": 99.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perlis",
+      "daerah": "Perlis",
+      "tahun": 2019,
+      "air_paip_peratus": 99.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perlis",
+      "daerah": "Perlis",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Perlis",
+      "daerah": "Perlis",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "(Semua daerah)",
+      "tahun": 2016,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "(Semua daerah)",
+      "tahun": 2019,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 99.95,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "(Semua daerah)",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "(Semua daerah)",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Barat Daya",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Barat Daya",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Barat Daya",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Barat Daya",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Selatan",
+      "tahun": 2016,
+      "air_paip_peratus": 99.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Selatan",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Selatan",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Selatan",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Tengah",
+      "tahun": 2016,
+      "air_paip_peratus": 99.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Tengah",
+      "tahun": 2019,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.9
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Tengah",
+      "tahun": 2022,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.9
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Tengah",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Utara",
+      "tahun": 2016,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Utara",
+      "tahun": 2019,
+      "air_paip_peratus": 99.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Utara",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Seberang Perai Utara",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Timur Laut",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Timur Laut",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 99.9,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Timur Laut",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "daerah": "Timur Laut",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "(Semua daerah)",
+      "tahun": 2016,
+      "air_paip_peratus": 83.4,
+      "sanitasi_peratus": 96.14,
+      "elektrik_peratus": 99.5
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "(Semua daerah)",
+      "tahun": 2019,
+      "air_paip_peratus": 84.7,
+      "sanitasi_peratus": 95.61,
+      "elektrik_peratus": 99.7
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "(Semua daerah)",
+      "tahun": 2022,
+      "air_paip_peratus": 87.6,
+      "sanitasi_peratus": 98.8,
+      "elektrik_peratus": 99.03
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "(Semua daerah)",
+      "tahun": 2024,
+      "air_paip_peratus": 89.2,
+      "sanitasi_peratus": 99.2,
+      "elektrik_peratus": 99.2
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Beaufort",
+      "tahun": 2016,
+      "air_paip_peratus": 82.8,
+      "sanitasi_peratus": 99,
+      "elektrik_peratus": 99.7
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Beaufort",
+      "tahun": 2019,
+      "air_paip_peratus": 89.5,
+      "sanitasi_peratus": 99.6,
+      "elektrik_peratus": 99.6
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Beaufort",
+      "tahun": 2022,
+      "air_paip_peratus": 89.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.7
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Beaufort",
+      "tahun": 2024,
+      "air_paip_peratus": 94.14,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Beluran",
+      "tahun": 2016,
+      "air_paip_peratus": 50.6,
+      "sanitasi_peratus": 87.7,
+      "elektrik_peratus": 91.3
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Beluran",
+      "tahun": 2019,
+      "air_paip_peratus": 55.5,
+      "sanitasi_peratus": 81.2,
+      "elektrik_peratus": 95.7
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Beluran",
+      "tahun": 2022,
+      "air_paip_peratus": 63.6,
+      "sanitasi_peratus": 95.7,
+      "elektrik_peratus": 83.4
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Beluran",
+      "tahun": 2024,
+      "air_paip_peratus": 79.55,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 82.95
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kalabakan",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kalabakan",
+      "tahun": 2019,
+      "air_paip_peratus": 92,
+      "sanitasi_peratus": "",
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kalabakan",
+      "tahun": 2022,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kalabakan",
+      "tahun": 2024,
+      "air_paip_peratus": 84.52,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 96.43
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Keningau",
+      "tahun": 2016,
+      "air_paip_peratus": 76,
+      "sanitasi_peratus": 99.1,
+      "elektrik_peratus": 99.1
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Keningau",
+      "tahun": 2019,
+      "air_paip_peratus": 75.8,
+      "sanitasi_peratus": 98.2,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Keningau",
+      "tahun": 2022,
+      "air_paip_peratus": 84.8,
+      "sanitasi_peratus": 99.78,
+      "elektrik_peratus": 99.8
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Keningau",
+      "tahun": 2024,
+      "air_paip_peratus": 86.26,
+      "sanitasi_peratus": 99.66,
+      "elektrik_peratus": 99.32
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kinabatangan",
+      "tahun": 2016,
+      "air_paip_peratus": 63.9,
+      "sanitasi_peratus": 96.7,
+      "elektrik_peratus": 99.5
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kinabatangan",
+      "tahun": 2019,
+      "air_paip_peratus": 76.6,
+      "sanitasi_peratus": 91.6,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kinabatangan",
+      "tahun": 2022,
+      "air_paip_peratus": 78.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 91.1
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kinabatangan",
+      "tahun": 2024,
+      "air_paip_peratus": 75.33,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Belud",
+      "tahun": 2016,
+      "air_paip_peratus": 56.9,
+      "sanitasi_peratus": 94.3,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Belud",
+      "tahun": 2019,
+      "air_paip_peratus": 71.4,
+      "sanitasi_peratus": 98.7,
+      "elektrik_peratus": 99.7
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Belud",
+      "tahun": 2022,
+      "air_paip_peratus": 72.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Belud",
+      "tahun": 2024,
+      "air_paip_peratus": 80.33,
+      "sanitasi_peratus": 99.45,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Kinabalu",
+      "tahun": 2016,
+      "air_paip_peratus": 93.1,
+      "sanitasi_peratus": 98.2,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Kinabalu",
+      "tahun": 2019,
+      "air_paip_peratus": 93.5,
+      "sanitasi_peratus": 99.1,
+      "elektrik_peratus": 99.9
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Kinabalu",
+      "tahun": 2022,
+      "air_paip_peratus": 93.9,
+      "sanitasi_peratus": 99.62,
+      "elektrik_peratus": 99.8
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Kinabalu",
+      "tahun": 2024,
+      "air_paip_peratus": 96.19,
+      "sanitasi_peratus": 99.01,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Marudu",
+      "tahun": 2016,
+      "air_paip_peratus": 64.3,
+      "sanitasi_peratus": 92.1,
+      "elektrik_peratus": 98.5
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Marudu",
+      "tahun": 2019,
+      "air_paip_peratus": 76.5,
+      "sanitasi_peratus": 80.9,
+      "elektrik_peratus": 99.3
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Marudu",
+      "tahun": 2022,
+      "air_paip_peratus": 81.6,
+      "sanitasi_peratus": 99.14,
+      "elektrik_peratus": 99.6
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kota Marudu",
+      "tahun": 2024,
+      "air_paip_peratus": 74.74,
+      "sanitasi_peratus": 98.89,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kuala Penyu",
+      "tahun": 2016,
+      "air_paip_peratus": 73.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kuala Penyu",
+      "tahun": 2019,
+      "air_paip_peratus": 86.7,
+      "sanitasi_peratus": 99.2,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kuala Penyu",
+      "tahun": 2022,
+      "air_paip_peratus": 97.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kuala Penyu",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kudat",
+      "tahun": 2016,
+      "air_paip_peratus": 79,
+      "sanitasi_peratus": 85.2,
+      "elektrik_peratus": 98.1
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kudat",
+      "tahun": 2019,
+      "air_paip_peratus": 85.6,
+      "sanitasi_peratus": 79.2,
+      "elektrik_peratus": 98.8
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kudat",
+      "tahun": 2022,
+      "air_paip_peratus": 91,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 96.4
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kudat",
+      "tahun": 2024,
+      "air_paip_peratus": 95.31,
+      "sanitasi_peratus": 99.41,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kunak",
+      "tahun": 2016,
+      "air_paip_peratus": 81.3,
+      "sanitasi_peratus": 96.6,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kunak",
+      "tahun": 2019,
+      "air_paip_peratus": 93.8,
+      "sanitasi_peratus": 97.5,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kunak",
+      "tahun": 2022,
+      "air_paip_peratus": 95.5,
+      "sanitasi_peratus": 95.9,
+      "elektrik_peratus": 97
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Kunak",
+      "tahun": 2024,
+      "air_paip_peratus": 89.08,
+      "sanitasi_peratus": 96.86,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Lahad Datu",
+      "tahun": 2016,
+      "air_paip_peratus": 79.6,
+      "sanitasi_peratus": 92.1,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Lahad Datu",
+      "tahun": 2019,
+      "air_paip_peratus": 75.4,
+      "sanitasi_peratus": 92.1,
+      "elektrik_peratus": 99.9
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Lahad Datu",
+      "tahun": 2022,
+      "air_paip_peratus": 90.5,
+      "sanitasi_peratus": 93.78,
+      "elektrik_peratus": 99.5
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Lahad Datu",
+      "tahun": 2024,
+      "air_paip_peratus": 89.66,
+      "sanitasi_peratus": 99.06,
+      "elektrik_peratus": 99.75
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Membakut",
+      "tahun": 2024,
+      "air_paip_peratus": 91.15,
+      "sanitasi_peratus": "",
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Nabawan",
+      "tahun": 2016,
+      "air_paip_peratus": 62.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Nabawan",
+      "tahun": 2019,
+      "air_paip_peratus": 50,
+      "sanitasi_peratus": 97.8,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Nabawan",
+      "tahun": 2022,
+      "air_paip_peratus": 68.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 95.8
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Nabawan",
+      "tahun": 2024,
+      "air_paip_peratus": 63.49,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Papar",
+      "tahun": 2016,
+      "air_paip_peratus": 92.7,
+      "sanitasi_peratus": 98.6,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Papar",
+      "tahun": 2019,
+      "air_paip_peratus": 97.3,
+      "sanitasi_peratus": 99.9,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Papar",
+      "tahun": 2022,
+      "air_paip_peratus": 95.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.8
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Papar",
+      "tahun": 2024,
+      "air_paip_peratus": 97.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Penampang",
+      "tahun": 2016,
+      "air_paip_peratus": 96.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Penampang",
+      "tahun": 2019,
+      "air_paip_peratus": 96.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Penampang",
+      "tahun": 2022,
+      "air_paip_peratus": 97,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.3
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Penampang",
+      "tahun": 2024,
+      "air_paip_peratus": 98.01,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Pitas",
+      "tahun": 2016,
+      "air_paip_peratus": 55.9,
+      "sanitasi_peratus": 88.8,
+      "elektrik_peratus": 98.6
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Pitas",
+      "tahun": 2019,
+      "air_paip_peratus": 65.9,
+      "sanitasi_peratus": 74.6,
+      "elektrik_peratus": 98.6
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Pitas",
+      "tahun": 2022,
+      "air_paip_peratus": 76.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 98.2
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Pitas",
+      "tahun": 2024,
+      "air_paip_peratus": 60.87,
+      "sanitasi_peratus": 98.91,
+      "elektrik_peratus": 86.96
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Putatan",
+      "tahun": 2016,
+      "air_paip_peratus": 96.1,
+      "sanitasi_peratus": 98.7,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Putatan",
+      "tahun": 2019,
+      "air_paip_peratus": 98.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Putatan",
+      "tahun": 2022,
+      "air_paip_peratus": 96.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Putatan",
+      "tahun": 2024,
+      "air_paip_peratus": 93.79,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Ranau",
+      "tahun": 2016,
+      "air_paip_peratus": 37.8,
+      "sanitasi_peratus": 99.2,
+      "elektrik_peratus": 99.1
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Ranau",
+      "tahun": 2019,
+      "air_paip_peratus": 35.3,
+      "sanitasi_peratus": 94.8,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Ranau",
+      "tahun": 2022,
+      "air_paip_peratus": 47.4,
+      "sanitasi_peratus": 99.04,
+      "elektrik_peratus": 94.7
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Ranau",
+      "tahun": 2024,
+      "air_paip_peratus": 46.48,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 95.86
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Sandakan",
+      "tahun": 2016,
+      "air_paip_peratus": 94.5,
+      "sanitasi_peratus": 93.8,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Sandakan",
+      "tahun": 2019,
+      "air_paip_peratus": 96,
+      "sanitasi_peratus": 95,
+      "elektrik_peratus": 99.9
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Sandakan",
+      "tahun": 2022,
+      "air_paip_peratus": 97,
+      "sanitasi_peratus": 99.93,
+      "elektrik_peratus": 99.5
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Sandakan",
+      "tahun": 2024,
+      "air_paip_peratus": 96.74,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Semporna",
+      "tahun": 2016,
+      "air_paip_peratus": 73.8,
+      "sanitasi_peratus": 88.4,
+      "elektrik_peratus": 99.7
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Semporna",
+      "tahun": 2019,
+      "air_paip_peratus": 90.3,
+      "sanitasi_peratus": 87.2,
+      "elektrik_peratus": 99.7
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Semporna",
+      "tahun": 2022,
+      "air_paip_peratus": 71.8,
+      "sanitasi_peratus": 84.15,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Semporna",
+      "tahun": 2024,
+      "air_paip_peratus": 70.19,
+      "sanitasi_peratus": 91.29,
+      "elektrik_peratus": 98.91
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Sipitang",
+      "tahun": 2016,
+      "air_paip_peratus": 94.9,
+      "sanitasi_peratus": 98.3,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Sipitang",
+      "tahun": 2019,
+      "air_paip_peratus": 98,
+      "sanitasi_peratus": 99.5,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Sipitang",
+      "tahun": 2022,
+      "air_paip_peratus": 93.7,
+      "sanitasi_peratus": 99.37,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Sipitang",
+      "tahun": 2024,
+      "air_paip_peratus": 95.59,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 95.63
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tambunan",
+      "tahun": 2016,
+      "air_paip_peratus": 56,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tambunan",
+      "tahun": 2019,
+      "air_paip_peratus": 68.2,
+      "sanitasi_peratus": 97,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tambunan",
+      "tahun": 2022,
+      "air_paip_peratus": 74.4,
+      "sanitasi_peratus": 99.25,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tambunan",
+      "tahun": 2024,
+      "air_paip_peratus": 72.22,
+      "sanitasi_peratus": 98.61,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tawau",
+      "tahun": 2016,
+      "air_paip_peratus": 95.7,
+      "sanitasi_peratus": 98,
+      "elektrik_peratus": 99.9
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tawau",
+      "tahun": 2019,
+      "air_paip_peratus": 98.6,
+      "sanitasi_peratus": 99.1,
+      "elektrik_peratus": 99.9
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tawau",
+      "tahun": 2022,
+      "air_paip_peratus": 98.4,
+      "sanitasi_peratus": 99.07,
+      "elektrik_peratus": 99.9
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tawau",
+      "tahun": 2024,
+      "air_paip_peratus": 99.17,
+      "sanitasi_peratus": 98.73,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Telupid",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Telupid",
+      "tahun": 2019,
+      "air_paip_peratus": 72.1,
+      "sanitasi_peratus": 90.7,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Telupid",
+      "tahun": 2022,
+      "air_paip_peratus": 80,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Telupid",
+      "tahun": 2024,
+      "air_paip_peratus": 80.49,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tenom",
+      "tahun": 2016,
+      "air_paip_peratus": 58.7,
+      "sanitasi_peratus": 99.5,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tenom",
+      "tahun": 2019,
+      "air_paip_peratus": 54.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tenom",
+      "tahun": 2022,
+      "air_paip_peratus": 50.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tenom",
+      "tahun": 2024,
+      "air_paip_peratus": 63.12,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tongod",
+      "tahun": 2016,
+      "air_paip_peratus": 48.6,
+      "sanitasi_peratus": 95.2,
+      "elektrik_peratus": 93.2
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tongod",
+      "tahun": 2019,
+      "air_paip_peratus": 33.6,
+      "sanitasi_peratus": 79.5,
+      "elektrik_peratus": 91
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tongod",
+      "tahun": 2022,
+      "air_paip_peratus": 53.4,
+      "sanitasi_peratus": 99.15,
+      "elektrik_peratus": 95.8
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tongod",
+      "tahun": 2024,
+      "air_paip_peratus": 53.39,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tuaran",
+      "tahun": 2016,
+      "air_paip_peratus": 80.6,
+      "sanitasi_peratus": 98,
+      "elektrik_peratus": 99.6
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tuaran",
+      "tahun": 2019,
+      "air_paip_peratus": 78.3,
+      "sanitasi_peratus": 98.6,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tuaran",
+      "tahun": 2022,
+      "air_paip_peratus": 76.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sabah",
+      "daerah": "Tuaran",
+      "tahun": 2024,
+      "air_paip_peratus": 88.4,
+      "sanitasi_peratus": 99.67,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "(Semua daerah)",
+      "tahun": 2016,
+      "air_paip_peratus": 86,
+      "sanitasi_peratus": 99.66,
+      "elektrik_peratus": 99.6
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "(Semua daerah)",
+      "tahun": 2019,
+      "air_paip_peratus": 86.4,
+      "sanitasi_peratus": 99.73,
+      "elektrik_peratus": 99.8
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "(Semua daerah)",
+      "tahun": 2022,
+      "air_paip_peratus": 90,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 97.8
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "(Semua daerah)",
+      "tahun": 2024,
+      "air_paip_peratus": 92.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.1
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Asajaya",
+      "tahun": 2016,
+      "air_paip_peratus": 93.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Asajaya",
+      "tahun": 2019,
+      "air_paip_peratus": 90.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Asajaya",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Asajaya",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bau",
+      "tahun": 2016,
+      "air_paip_peratus": 83.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bau",
+      "tahun": 2019,
+      "air_paip_peratus": 90.8,
+      "sanitasi_peratus": 99.6,
+      "elektrik_peratus": 99.6
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bau",
+      "tahun": 2022,
+      "air_paip_peratus": 92.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bau",
+      "tahun": 2024,
+      "air_paip_peratus": 94.52,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Belaga",
+      "tahun": 2016,
+      "air_paip_peratus": 62.5,
+      "sanitasi_peratus": 99.1,
+      "elektrik_peratus": 98.2
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Belaga",
+      "tahun": 2019,
+      "air_paip_peratus": 53.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.1
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Belaga",
+      "tahun": 2022,
+      "air_paip_peratus": 48.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 91.8
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Belaga",
+      "tahun": 2024,
+      "air_paip_peratus": 81.82,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 90.91
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Beluru",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Beluru",
+      "tahun": 2019,
+      "air_paip_peratus": 79.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Beluru",
+      "tahun": 2022,
+      "air_paip_peratus": 90.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Beluru",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Betong",
+      "tahun": 2016,
+      "air_paip_peratus": 86.1,
+      "sanitasi_peratus": 99.6,
+      "elektrik_peratus": 99.6
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Betong",
+      "tahun": 2019,
+      "air_paip_peratus": 83.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.6
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Betong",
+      "tahun": 2022,
+      "air_paip_peratus": 95.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Betong",
+      "tahun": 2024,
+      "air_paip_peratus": 95.65,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bintulu",
+      "tahun": 2016,
+      "air_paip_peratus": 86.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.7
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bintulu",
+      "tahun": 2019,
+      "air_paip_peratus": 97.5,
+      "sanitasi_peratus": 99.9,
+      "elektrik_peratus": 99.9
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bintulu",
+      "tahun": 2022,
+      "air_paip_peratus": 96.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 98.1
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bintulu",
+      "tahun": 2024,
+      "air_paip_peratus": 95.11,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.47
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bukit Mabong",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bukit Mabong",
+      "tahun": 2019,
+      "air_paip_peratus": 3.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bukit Mabong",
+      "tahun": 2022,
+      "air_paip_peratus": 21.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 40.2
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Bukit Mabong",
+      "tahun": 2024,
+      "air_paip_peratus": 25,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 54.17
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Dalat",
+      "tahun": 2016,
+      "air_paip_peratus": 77.7,
+      "sanitasi_peratus": 95.2,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Dalat",
+      "tahun": 2019,
+      "air_paip_peratus": 73,
+      "sanitasi_peratus": 96,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Dalat",
+      "tahun": 2022,
+      "air_paip_peratus": 89.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 97.2
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Dalat",
+      "tahun": 2024,
+      "air_paip_peratus": 98.55,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 98.55
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Daro",
+      "tahun": 2016,
+      "air_paip_peratus": 59.7,
+      "sanitasi_peratus": 97.8,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Daro",
+      "tahun": 2019,
+      "air_paip_peratus": 80.6,
+      "sanitasi_peratus": 99.5,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Daro",
+      "tahun": 2022,
+      "air_paip_peratus": 83,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 97.5
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Daro",
+      "tahun": 2024,
+      "air_paip_peratus": 71.43,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 96.43
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Gedong",
+      "tahun": 2024,
+      "air_paip_peratus": 72.37,
+      "sanitasi_peratus": "",
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Julau",
+      "tahun": 2016,
+      "air_paip_peratus": 40.6,
+      "sanitasi_peratus": 97.9,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Julau",
+      "tahun": 2019,
+      "air_paip_peratus": 58.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Julau",
+      "tahun": 2022,
+      "air_paip_peratus": 46.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 93.6
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Julau",
+      "tahun": 2024,
+      "air_paip_peratus": 51.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kabong",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kabong",
+      "tahun": 2019,
+      "air_paip_peratus": 85.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kabong",
+      "tahun": 2022,
+      "air_paip_peratus": 82.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kabong",
+      "tahun": 2024,
+      "air_paip_peratus": 81.82,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kanowit",
+      "tahun": 2016,
+      "air_paip_peratus": 84.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kanowit",
+      "tahun": 2019,
+      "air_paip_peratus": 71.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.1
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kanowit",
+      "tahun": 2022,
+      "air_paip_peratus": 77.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 93.7
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kanowit",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kapit",
+      "tahun": 2016,
+      "air_paip_peratus": 40.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.2
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kapit",
+      "tahun": 2019,
+      "air_paip_peratus": 62.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kapit",
+      "tahun": 2022,
+      "air_paip_peratus": 57.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 88.8
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kapit",
+      "tahun": 2024,
+      "air_paip_peratus": 61.84,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 86.64
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kuching",
+      "tahun": 2016,
+      "air_paip_peratus": 97.9,
+      "sanitasi_peratus": 99.8,
+      "elektrik_peratus": 99.9
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kuching",
+      "tahun": 2019,
+      "air_paip_peratus": 98.2,
+      "sanitasi_peratus": 99.9,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kuching",
+      "tahun": 2022,
+      "air_paip_peratus": 99.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Kuching",
+      "tahun": 2024,
+      "air_paip_peratus": 99.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lawas",
+      "tahun": 2016,
+      "air_paip_peratus": 65.9,
+      "sanitasi_peratus": 99.5,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lawas",
+      "tahun": 2019,
+      "air_paip_peratus": 76.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lawas",
+      "tahun": 2022,
+      "air_paip_peratus": 65,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lawas",
+      "tahun": 2024,
+      "air_paip_peratus": 75.28,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 96.63
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Limbang",
+      "tahun": 2016,
+      "air_paip_peratus": 81.9,
+      "sanitasi_peratus": 98.8,
+      "elektrik_peratus": 98.3
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Limbang",
+      "tahun": 2019,
+      "air_paip_peratus": 88.4,
+      "sanitasi_peratus": 98.6,
+      "elektrik_peratus": 98.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Limbang",
+      "tahun": 2022,
+      "air_paip_peratus": 87.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 98.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Limbang",
+      "tahun": 2024,
+      "air_paip_peratus": 90.58,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lingga",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": "",
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lubok Antu",
+      "tahun": 2016,
+      "air_paip_peratus": 82.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 96.5
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lubok Antu",
+      "tahun": 2019,
+      "air_paip_peratus": 71.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lubok Antu",
+      "tahun": 2022,
+      "air_paip_peratus": 90.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 95.1
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lubok Antu",
+      "tahun": 2024,
+      "air_paip_peratus": 88.41,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lundu",
+      "tahun": 2016,
+      "air_paip_peratus": 45.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lundu",
+      "tahun": 2019,
+      "air_paip_peratus": 51,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lundu",
+      "tahun": 2022,
+      "air_paip_peratus": 63.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Lundu",
+      "tahun": 2024,
+      "air_paip_peratus": 63.44,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Maradong",
+      "tahun": 2016,
+      "air_paip_peratus": 87.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Maradong",
+      "tahun": 2019,
+      "air_paip_peratus": 94.8,
+      "sanitasi_peratus": 99.1,
+      "elektrik_peratus": 99.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Maradong",
+      "tahun": 2022,
+      "air_paip_peratus": 96.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.5
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Maradong",
+      "tahun": 2024,
+      "air_paip_peratus": 96.3,
+      "sanitasi_peratus": 99.38,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Marudi",
+      "tahun": 2016,
+      "air_paip_peratus": 31.8,
+      "sanitasi_peratus": 99.4,
+      "elektrik_peratus": 98.3
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Marudi",
+      "tahun": 2019,
+      "air_paip_peratus": 46.5,
+      "sanitasi_peratus": 99.5,
+      "elektrik_peratus": 99.5
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Marudi",
+      "tahun": 2022,
+      "air_paip_peratus": 47.4,
+      "sanitasi_peratus": 99.52,
+      "elektrik_peratus": 95.7
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Marudi",
+      "tahun": 2024,
+      "air_paip_peratus": 74.05,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 94.94
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Matu",
+      "tahun": 2016,
+      "air_paip_peratus": 84.2,
+      "sanitasi_peratus": 86.3,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Matu",
+      "tahun": 2019,
+      "air_paip_peratus": 74.4,
+      "sanitasi_peratus": 90.5,
+      "elektrik_peratus": 99.3
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Matu",
+      "tahun": 2022,
+      "air_paip_peratus": 87.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 93.8
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Matu",
+      "tahun": 2024,
+      "air_paip_peratus": 92.05,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Miri",
+      "tahun": 2016,
+      "air_paip_peratus": 94.8,
+      "sanitasi_peratus": 99.9,
+      "elektrik_peratus": 99.8
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Miri",
+      "tahun": 2019,
+      "air_paip_peratus": 99,
+      "sanitasi_peratus": 99.9,
+      "elektrik_peratus": 99.7
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Miri",
+      "tahun": 2022,
+      "air_paip_peratus": 98.5,
+      "sanitasi_peratus": 99.91,
+      "elektrik_peratus": 96.3
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Miri",
+      "tahun": 2024,
+      "air_paip_peratus": 99.38,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.91
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Mukah",
+      "tahun": 2016,
+      "air_paip_peratus": 86.1,
+      "sanitasi_peratus": 99,
+      "elektrik_peratus": 99
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Mukah",
+      "tahun": 2019,
+      "air_paip_peratus": 84.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.6
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Mukah",
+      "tahun": 2022,
+      "air_paip_peratus": 88.5,
+      "sanitasi_peratus": 99.54,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Mukah",
+      "tahun": 2024,
+      "air_paip_peratus": 96.07,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Pakan",
+      "tahun": 2016,
+      "air_paip_peratus": 47.9,
+      "sanitasi_peratus": 99,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Pakan",
+      "tahun": 2019,
+      "air_paip_peratus": 60.9,
+      "sanitasi_peratus": 99.1,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Pakan",
+      "tahun": 2022,
+      "air_paip_peratus": 87.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 96.1
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Pakan",
+      "tahun": 2024,
+      "air_paip_peratus": 90.91,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Pantu",
+      "tahun": 2024,
+      "air_paip_peratus": 24.75,
+      "sanitasi_peratus": "",
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Pusa",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Pusa",
+      "tahun": 2019,
+      "air_paip_peratus": 76.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Pusa",
+      "tahun": 2022,
+      "air_paip_peratus": 74.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 95.7
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Pusa",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Samarahan",
+      "tahun": 2016,
+      "air_paip_peratus": 98.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Samarahan",
+      "tahun": 2019,
+      "air_paip_peratus": 96.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.8
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Samarahan",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Samarahan",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Saratok",
+      "tahun": 2016,
+      "air_paip_peratus": 68.9,
+      "sanitasi_peratus": 99.6,
+      "elektrik_peratus": 99.6
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Saratok",
+      "tahun": 2019,
+      "air_paip_peratus": 93.1,
+      "sanitasi_peratus": 99.1,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Saratok",
+      "tahun": 2022,
+      "air_paip_peratus": 98.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Saratok",
+      "tahun": 2024,
+      "air_paip_peratus": 99.29,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sarikei",
+      "tahun": 2016,
+      "air_paip_peratus": 93.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sarikei",
+      "tahun": 2019,
+      "air_paip_peratus": 98.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sarikei",
+      "tahun": 2022,
+      "air_paip_peratus": 96.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sarikei",
+      "tahun": 2024,
+      "air_paip_peratus": 96.55,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sebauh",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sebauh",
+      "tahun": 2019,
+      "air_paip_peratus": 41.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sebauh",
+      "tahun": 2022,
+      "air_paip_peratus": 68.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sebauh",
+      "tahun": 2024,
+      "air_paip_peratus": 59.42,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 98.55
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sebuyau",
+      "tahun": 2024,
+      "air_paip_peratus": 67.39,
+      "sanitasi_peratus": "",
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Selangau",
+      "tahun": 2016,
+      "air_paip_peratus": 32.5,
+      "sanitasi_peratus": 99.2,
+      "elektrik_peratus": 97.7
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Selangau",
+      "tahun": 2019,
+      "air_paip_peratus": 38.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 98.9
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Selangau",
+      "tahun": 2022,
+      "air_paip_peratus": 38.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 93.3
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Selangau",
+      "tahun": 2024,
+      "air_paip_peratus": 31.31,
+      "sanitasi_peratus": 98.99,
+      "elektrik_peratus": 95.96
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Serian",
+      "tahun": 2016,
+      "air_paip_peratus": 74.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Serian",
+      "tahun": 2019,
+      "air_paip_peratus": 79.8,
+      "sanitasi_peratus": 99.4,
+      "elektrik_peratus": 99.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Serian",
+      "tahun": 2022,
+      "air_paip_peratus": 86.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Serian",
+      "tahun": 2024,
+      "air_paip_peratus": 87.93,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sibu",
+      "tahun": 2016,
+      "air_paip_peratus": 98.6,
+      "sanitasi_peratus": 99.8,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sibu",
+      "tahun": 2019,
+      "air_paip_peratus": 97.9,
+      "sanitasi_peratus": 99.9,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sibu",
+      "tahun": 2022,
+      "air_paip_peratus": 98.1,
+      "sanitasi_peratus": 99.92,
+      "elektrik_peratus": 93.7
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sibu",
+      "tahun": 2024,
+      "air_paip_peratus": 99.21,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Siburan",
+      "tahun": 2024,
+      "air_paip_peratus": 95.8,
+      "sanitasi_peratus": "",
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Simunjan",
+      "tahun": 2016,
+      "air_paip_peratus": 61.8,
+      "sanitasi_peratus": 99,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Simunjan",
+      "tahun": 2019,
+      "air_paip_peratus": 57,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.5
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Simunjan",
+      "tahun": 2022,
+      "air_paip_peratus": 70.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Simunjan",
+      "tahun": 2024,
+      "air_paip_peratus": 87.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Song",
+      "tahun": 2016,
+      "air_paip_peratus": 39.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 98.2
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Song",
+      "tahun": 2019,
+      "air_paip_peratus": 22.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Song",
+      "tahun": 2022,
+      "air_paip_peratus": 29.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 78.1
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Song",
+      "tahun": 2024,
+      "air_paip_peratus": 47.89,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 81.69
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sri Aman",
+      "tahun": 2016,
+      "air_paip_peratus": 72.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 99.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sri Aman",
+      "tahun": 2019,
+      "air_paip_peratus": 81.6,
+      "sanitasi_peratus": 98.9,
+      "elektrik_peratus": 99.6
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sri Aman",
+      "tahun": 2022,
+      "air_paip_peratus": 84.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 97.9
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Sri Aman",
+      "tahun": 2024,
+      "air_paip_peratus": 97.17,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Subis",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Subis",
+      "tahun": 2019,
+      "air_paip_peratus": 86.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Subis",
+      "tahun": 2022,
+      "air_paip_peratus": 67.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Subis",
+      "tahun": 2024,
+      "air_paip_peratus": 90.59,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tanjung Manis",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tanjung Manis",
+      "tahun": 2019,
+      "air_paip_peratus": 81.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tanjung Manis",
+      "tahun": 2022,
+      "air_paip_peratus": 92.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tanjung Manis",
+      "tahun": 2024,
+      "air_paip_peratus": 89.74,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tatau",
+      "tahun": 2016,
+      "air_paip_peratus": 61.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tatau",
+      "tahun": 2019,
+      "air_paip_peratus": 50,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tatau",
+      "tahun": 2022,
+      "air_paip_peratus": 63.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 77.8
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tatau",
+      "tahun": 2024,
+      "air_paip_peratus": 62.34,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 87.01
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tebedu",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tebedu",
+      "tahun": 2019,
+      "air_paip_peratus": 36.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tebedu",
+      "tahun": 2022,
+      "air_paip_peratus": 44.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 91.4
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Tebedu",
+      "tahun": 2024,
+      "air_paip_peratus": 81.72,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Telang Usan",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Telang Usan",
+      "tahun": 2019,
+      "air_paip_peratus": 32.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Telang Usan",
+      "tahun": 2022,
+      "air_paip_peratus": 57.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 92.8
+    },
+    {
+      "negeri": "Sarawak",
+      "daerah": "Telang Usan",
+      "tahun": 2024,
+      "air_paip_peratus": 57.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 93.75
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "(Semua daerah)",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "(Semua daerah)",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "(Semua daerah)",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "(Semua daerah)",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Gombak",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Gombak",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Gombak",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Gombak",
+      "tahun": 2024,
+      "air_paip_peratus": 99.97,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Hulu Langat",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Hulu Langat",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Hulu Langat",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Hulu Langat",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Hulu Selangor",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Hulu Selangor",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Hulu Selangor",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Hulu Selangor",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Klang",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Klang",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Klang",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 99.9,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Klang",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Kuala Langat",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Kuala Langat",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Kuala Langat",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Kuala Langat",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Kuala Selangor",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Kuala Selangor",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Kuala Selangor",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Kuala Selangor",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Petaling",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Petaling",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Petaling",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Petaling",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Sabak Bernam",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Sabak Bernam",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Sabak Bernam",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Sabak Bernam",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Sepang",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Sepang",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Sepang",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Selangor",
+      "daerah": "Sepang",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "(Semua daerah)",
+      "tahun": 2016,
+      "air_paip_peratus": 96,
+      "sanitasi_peratus": 99.96,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "(Semua daerah)",
+      "tahun": 2019,
+      "air_paip_peratus": 96.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "(Semua daerah)",
+      "tahun": 2022,
+      "air_paip_peratus": 98.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "(Semua daerah)",
+      "tahun": 2024,
+      "air_paip_peratus": 99.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Besut",
+      "tahun": 2016,
+      "air_paip_peratus": 95.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Besut",
+      "tahun": 2019,
+      "air_paip_peratus": 83.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Besut",
+      "tahun": 2022,
+      "air_paip_peratus": 93.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Besut",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Dungun",
+      "tahun": 2016,
+      "air_paip_peratus": 94.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Dungun",
+      "tahun": 2019,
+      "air_paip_peratus": 98.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Dungun",
+      "tahun": 2022,
+      "air_paip_peratus": 99.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Dungun",
+      "tahun": 2024,
+      "air_paip_peratus": 98.99,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Hulu Terengganu",
+      "tahun": 2016,
+      "air_paip_peratus": 98,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Hulu Terengganu",
+      "tahun": 2019,
+      "air_paip_peratus": 99.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Hulu Terengganu",
+      "tahun": 2022,
+      "air_paip_peratus": 99.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Hulu Terengganu",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kemaman",
+      "tahun": 2016,
+      "air_paip_peratus": 99.7,
+      "sanitasi_peratus": 99.8,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kemaman",
+      "tahun": 2019,
+      "air_paip_peratus": 99.8,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kemaman",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kemaman",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kuala Nerus",
+      "tahun": 2016,
+      "air_paip_peratus": "",
+      "sanitasi_peratus": "",
+      "elektrik_peratus": ""
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kuala Nerus",
+      "tahun": 2019,
+      "air_paip_peratus": 96.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kuala Nerus",
+      "tahun": 2022,
+      "air_paip_peratus": 99.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kuala Nerus",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kuala Terengganu",
+      "tahun": 2016,
+      "air_paip_peratus": 95.7,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kuala Terengganu",
+      "tahun": 2019,
+      "air_paip_peratus": 97.9,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kuala Terengganu",
+      "tahun": 2022,
+      "air_paip_peratus": 98.6,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Kuala Terengganu",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Marang",
+      "tahun": 2016,
+      "air_paip_peratus": 94.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Marang",
+      "tahun": 2019,
+      "air_paip_peratus": 97.3,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Marang",
+      "tahun": 2022,
+      "air_paip_peratus": 99.4,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Marang",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Setiu",
+      "tahun": 2016,
+      "air_paip_peratus": 89.1,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Setiu",
+      "tahun": 2019,
+      "air_paip_peratus": 98.5,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Setiu",
+      "tahun": 2022,
+      "air_paip_peratus": 97.2,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "Terengganu",
+      "daerah": "Setiu",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "daerah": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "daerah": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "daerah": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "daerah": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "daerah": "W.P. Labuan",
+      "tahun": 2016,
+      "air_paip_peratus": 98.5,
+      "sanitasi_peratus": 99.6,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "daerah": "W.P. Labuan",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 99.3,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "daerah": "W.P. Labuan",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "daerah": "W.P. Labuan",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "daerah": "W.P. Putrajaya",
+      "tahun": 2016,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "daerah": "W.P. Putrajaya",
+      "tahun": 2019,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "daerah": "W.P. Putrajaya",
+      "tahun": 2022,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "daerah": "W.P. Putrajaya",
+      "tahun": 2024,
+      "air_paip_peratus": 100,
+      "sanitasi_peratus": 100,
+      "elektrik_peratus": 100
+    }
+  ],
+  "meta": {
+    "title": "Akses Isi Rumah kepada Kemudahan Asas mengikut Negeri dan Daerah (2016–2024) - Muat turun percuma",
+    "description": "Peratusan isi rumah yang mempunyai akses kepada air paip, sanitasi dan bekalan elektrik bagi setiap negeri dan daerah di Malaysia berdasarkan Survei Pendapatan dan Perbelanjaan Isi Rumah (2016, 2019, 2022 dan 2024), daripada data.gov.my (Jabatan Perangkaan Malaysia). Mengandungi 694 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Akses Isi Rumah kepada Kemudahan Asas mengikut Negeri dan Daerah (2016–2024) | ListBase",
+    "seo_description": "Muat turun Akses Isi Rumah kepada Kemudahan Asas mengikut Negeri dan Daerah (2016–2024) — 694 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 694 rekod / 6 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/hh_access_amenities"
+    ]
+  }
+}

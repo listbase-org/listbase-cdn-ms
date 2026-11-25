@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-25T02:23:34.850Z",
-  "total_datasets": 749,
-  "total_records": 562679,
+  "generated": "2026-11-25T02:31:01.290Z",
+  "total_datasets": 750,
+  "total_records": 563373,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "sports",
@@ -18946,6 +18946,33 @@
         "xlsx": {
           "name": "ms-unsur-kimia_MS.xlsx",
           "size": 12510
+        }
+      }
+    },
+    {
+      "id": "ms-akses-kemudahan-asas-isi-rumah-daerah",
+      "name": "Akses Isi Rumah kepada Kemudahan Asas mengikut Negeri dan Daerah (2016–2024)",
+      "category": "society",
+      "record_count": 694,
+      "columns": [
+        "negeri",
+        "daerah",
+        "tahun",
+        "air_paip_peratus",
+        "sanitasi_peratus",
+        "elektrik_peratus"
+      ],
+      "source": "https://data.gov.my/data-catalogue/hh_access_amenities",
+      "updated": "2026-11",
+      "size": 129121,
+      "files": {
+        "csv": {
+          "name": "ms-akses-kemudahan-asas-isi-rumah-daerah_MS.csv",
+          "size": 33093
+        },
+        "xlsx": {
+          "name": "ms-akses-kemudahan-asas-isi-rumah-daerah_MS.xlsx",
+          "size": 24427
         }
       }
     },
