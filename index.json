@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-25T02:31:01.290Z",
-  "total_datasets": 750,
-  "total_records": 563373,
+  "generated": "2026-11-26T02:15:51.387Z",
+  "total_datasets": 751,
+  "total_records": 563645,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 31
+      "dataset_count": 32
     },
     {
       "id": "history",
@@ -5041,6 +5041,30 @@
         "xlsx": {
           "name": "ms-fasiliti-kesihatan_MS.xlsx",
           "size": 451786
+        }
+      }
+    },
+    {
+      "id": "ms-ikrar-derma-organ-tahunan-negeri",
+      "name": "Ikrar Derma Organ Tahunan mengikut Negeri (2009–2025)",
+      "category": "health",
+      "record_count": 272,
+      "columns": [
+        "negeri",
+        "tahun",
+        "ikrar_derma_organ"
+      ],
+      "source": "https://data.gov.my/data-catalogue/organ_pledges_state",
+      "updated": "2026-11",
+      "size": 27390,
+      "files": {
+        "csv": {
+          "name": "ms-ikrar-derma-organ-tahunan-negeri_MS.csv",
+          "size": 6851
+        },
+        "xlsx": {
+          "name": "ms-ikrar-derma-organ-tahunan-negeri_MS.xlsx",
+          "size": 11359
         }
       }
     },

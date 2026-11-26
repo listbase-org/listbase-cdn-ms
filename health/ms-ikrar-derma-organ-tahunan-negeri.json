@@ -1,0 +1,1401 @@
+{
+  "id": "ms-ikrar-derma-organ-tahunan-negeri",
+  "name": "Ikrar Derma Organ Tahunan mengikut Negeri (2009–2025)",
+  "title": "Ikrar Derma Organ Tahunan mengikut Negeri (2009–2025)",
+  "description": "Jumlah ikrar derma organ yang diterima setiap tahun bagi setiap negeri di Malaysia dari 2009 hingga 2025, dijumlahkan daripada data harian Kementerian Kesihatan Malaysia di data.gov.my (data 2009 bermula 14 Januari 2009).",
+  "category": "health",
+  "source": "https://data.gov.my/data-catalogue/organ_pledges_state",
+  "source_url": "https://data.gov.my/data-catalogue/organ_pledges_state",
+  "updated": "2026-11",
+  "record_count": 272,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "ikrar_derma_organ",
+      "label": "Ikrar Derma Organ",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Johor",
+      "tahun": 2009,
+      "ikrar_derma_organ": 202
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2010,
+      "ikrar_derma_organ": 2199
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2011,
+      "ikrar_derma_organ": 5283
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2012,
+      "ikrar_derma_organ": 4803
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2013,
+      "ikrar_derma_organ": 4071
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2014,
+      "ikrar_derma_organ": 4163
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2015,
+      "ikrar_derma_organ": 5980
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2016,
+      "ikrar_derma_organ": 4397
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2017,
+      "ikrar_derma_organ": 4269
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2018,
+      "ikrar_derma_organ": 3074
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2019,
+      "ikrar_derma_organ": 3037
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2020,
+      "ikrar_derma_organ": 1048
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2021,
+      "ikrar_derma_organ": 1076
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2022,
+      "ikrar_derma_organ": 7013
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2023,
+      "ikrar_derma_organ": 3841
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2024,
+      "ikrar_derma_organ": 2173
+    },
+    {
+      "negeri": "Johor",
+      "tahun": 2025,
+      "ikrar_derma_organ": 2153
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2009,
+      "ikrar_derma_organ": 8
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2010,
+      "ikrar_derma_organ": 300
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2011,
+      "ikrar_derma_organ": 959
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2012,
+      "ikrar_derma_organ": 1375
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2013,
+      "ikrar_derma_organ": 1318
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2014,
+      "ikrar_derma_organ": 1935
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2015,
+      "ikrar_derma_organ": 2902
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2016,
+      "ikrar_derma_organ": 1473
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2017,
+      "ikrar_derma_organ": 1063
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2018,
+      "ikrar_derma_organ": 1252
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2019,
+      "ikrar_derma_organ": 759
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2020,
+      "ikrar_derma_organ": 207
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2021,
+      "ikrar_derma_organ": 306
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2022,
+      "ikrar_derma_organ": 2783
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2023,
+      "ikrar_derma_organ": 1449
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2024,
+      "ikrar_derma_organ": 759
+    },
+    {
+      "negeri": "Kedah",
+      "tahun": 2025,
+      "ikrar_derma_organ": 1005
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2009,
+      "ikrar_derma_organ": 6
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2010,
+      "ikrar_derma_organ": 170
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2011,
+      "ikrar_derma_organ": 294
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2012,
+      "ikrar_derma_organ": 384
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2013,
+      "ikrar_derma_organ": 311
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2014,
+      "ikrar_derma_organ": 634
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2015,
+      "ikrar_derma_organ": 1094
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2016,
+      "ikrar_derma_organ": 739
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2017,
+      "ikrar_derma_organ": 1454
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2018,
+      "ikrar_derma_organ": 223
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2019,
+      "ikrar_derma_organ": 296
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2020,
+      "ikrar_derma_organ": 39
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2021,
+      "ikrar_derma_organ": 133
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2022,
+      "ikrar_derma_organ": 1043
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2023,
+      "ikrar_derma_organ": 691
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2024,
+      "ikrar_derma_organ": 655
+    },
+    {
+      "negeri": "Kelantan",
+      "tahun": 2025,
+      "ikrar_derma_organ": 700
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2009,
+      "ikrar_derma_organ": 12
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2010,
+      "ikrar_derma_organ": 358
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2011,
+      "ikrar_derma_organ": 719
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2012,
+      "ikrar_derma_organ": 539
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2013,
+      "ikrar_derma_organ": 447
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2014,
+      "ikrar_derma_organ": 634
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2015,
+      "ikrar_derma_organ": 1363
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2016,
+      "ikrar_derma_organ": 1241
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2017,
+      "ikrar_derma_organ": 839
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2018,
+      "ikrar_derma_organ": 339
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2019,
+      "ikrar_derma_organ": 311
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2020,
+      "ikrar_derma_organ": 66
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2021,
+      "ikrar_derma_organ": 258
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2022,
+      "ikrar_derma_organ": 1833
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2023,
+      "ikrar_derma_organ": 1160
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2024,
+      "ikrar_derma_organ": 623
+    },
+    {
+      "negeri": "Melaka",
+      "tahun": 2025,
+      "ikrar_derma_organ": 745
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2009,
+      "ikrar_derma_organ": 45
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2010,
+      "ikrar_derma_organ": 402
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2011,
+      "ikrar_derma_organ": 1285
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2012,
+      "ikrar_derma_organ": 1073
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2013,
+      "ikrar_derma_organ": 710
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2014,
+      "ikrar_derma_organ": 2094
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2015,
+      "ikrar_derma_organ": 2494
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2016,
+      "ikrar_derma_organ": 1506
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2017,
+      "ikrar_derma_organ": 1950
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2018,
+      "ikrar_derma_organ": 858
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2019,
+      "ikrar_derma_organ": 335
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2020,
+      "ikrar_derma_organ": 166
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2021,
+      "ikrar_derma_organ": 293
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2022,
+      "ikrar_derma_organ": 2339
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2023,
+      "ikrar_derma_organ": 1344
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2024,
+      "ikrar_derma_organ": 755
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "tahun": 2025,
+      "ikrar_derma_organ": 1010
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2009,
+      "ikrar_derma_organ": 56
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2010,
+      "ikrar_derma_organ": 344
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2011,
+      "ikrar_derma_organ": 949
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2012,
+      "ikrar_derma_organ": 905
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2013,
+      "ikrar_derma_organ": 620
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2014,
+      "ikrar_derma_organ": 1096
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2015,
+      "ikrar_derma_organ": 1327
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2016,
+      "ikrar_derma_organ": 1021
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2017,
+      "ikrar_derma_organ": 1527
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2018,
+      "ikrar_derma_organ": 1020
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2019,
+      "ikrar_derma_organ": 489
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2020,
+      "ikrar_derma_organ": 103
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2021,
+      "ikrar_derma_organ": 252
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2022,
+      "ikrar_derma_organ": 1476
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2023,
+      "ikrar_derma_organ": 922
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2024,
+      "ikrar_derma_organ": 545
+    },
+    {
+      "negeri": "Pahang",
+      "tahun": 2025,
+      "ikrar_derma_organ": 860
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2009,
+      "ikrar_derma_organ": 29
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2010,
+      "ikrar_derma_organ": 779
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2011,
+      "ikrar_derma_organ": 1604
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2012,
+      "ikrar_derma_organ": 1757
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2013,
+      "ikrar_derma_organ": 1157
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2014,
+      "ikrar_derma_organ": 4343
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2015,
+      "ikrar_derma_organ": 3724
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2016,
+      "ikrar_derma_organ": 2676
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2017,
+      "ikrar_derma_organ": 3195
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2018,
+      "ikrar_derma_organ": 1182
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2019,
+      "ikrar_derma_organ": 697
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2020,
+      "ikrar_derma_organ": 124
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2021,
+      "ikrar_derma_organ": 422
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2022,
+      "ikrar_derma_organ": 4990
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2023,
+      "ikrar_derma_organ": 2297
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2024,
+      "ikrar_derma_organ": 1280
+    },
+    {
+      "negeri": "Perak",
+      "tahun": 2025,
+      "ikrar_derma_organ": 1507
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2009,
+      "ikrar_derma_organ": 2
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2010,
+      "ikrar_derma_organ": 28
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2011,
+      "ikrar_derma_organ": 89
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2012,
+      "ikrar_derma_organ": 304
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2013,
+      "ikrar_derma_organ": 187
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2014,
+      "ikrar_derma_organ": 318
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2015,
+      "ikrar_derma_organ": 315
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2016,
+      "ikrar_derma_organ": 102
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2017,
+      "ikrar_derma_organ": 106
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2018,
+      "ikrar_derma_organ": 167
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2019,
+      "ikrar_derma_organ": 326
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2020,
+      "ikrar_derma_organ": 17
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2021,
+      "ikrar_derma_organ": 55
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2022,
+      "ikrar_derma_organ": 661
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2023,
+      "ikrar_derma_organ": 177
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2024,
+      "ikrar_derma_organ": 94
+    },
+    {
+      "negeri": "Perlis",
+      "tahun": 2025,
+      "ikrar_derma_organ": 126
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2009,
+      "ikrar_derma_organ": 47
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2010,
+      "ikrar_derma_organ": 1085
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2011,
+      "ikrar_derma_organ": 2014
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2012,
+      "ikrar_derma_organ": 3104
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2013,
+      "ikrar_derma_organ": 2705
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2014,
+      "ikrar_derma_organ": 3844
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2015,
+      "ikrar_derma_organ": 3595
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2016,
+      "ikrar_derma_organ": 1893
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2017,
+      "ikrar_derma_organ": 1831
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2018,
+      "ikrar_derma_organ": 1113
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2019,
+      "ikrar_derma_organ": 1398
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2020,
+      "ikrar_derma_organ": 249
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2021,
+      "ikrar_derma_organ": 474
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2022,
+      "ikrar_derma_organ": 3573
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2023,
+      "ikrar_derma_organ": 1987
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2024,
+      "ikrar_derma_organ": 1002
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "tahun": 2025,
+      "ikrar_derma_organ": 1029
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2009,
+      "ikrar_derma_organ": 12
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2010,
+      "ikrar_derma_organ": 228
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2011,
+      "ikrar_derma_organ": 420
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2012,
+      "ikrar_derma_organ": 1222
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2013,
+      "ikrar_derma_organ": 1208
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2014,
+      "ikrar_derma_organ": 2358
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2015,
+      "ikrar_derma_organ": 2871
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2016,
+      "ikrar_derma_organ": 2940
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2017,
+      "ikrar_derma_organ": 2072
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2018,
+      "ikrar_derma_organ": 2308
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2019,
+      "ikrar_derma_organ": 168
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2020,
+      "ikrar_derma_organ": 155
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2021,
+      "ikrar_derma_organ": 268
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2022,
+      "ikrar_derma_organ": 2503
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2023,
+      "ikrar_derma_organ": 1640
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2024,
+      "ikrar_derma_organ": 833
+    },
+    {
+      "negeri": "Sabah",
+      "tahun": 2025,
+      "ikrar_derma_organ": 1291
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2009,
+      "ikrar_derma_organ": 117
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2010,
+      "ikrar_derma_organ": 468
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2011,
+      "ikrar_derma_organ": 1135
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2012,
+      "ikrar_derma_organ": 753
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2013,
+      "ikrar_derma_organ": 731
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2014,
+      "ikrar_derma_organ": 800
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2015,
+      "ikrar_derma_organ": 1730
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2016,
+      "ikrar_derma_organ": 1800
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2017,
+      "ikrar_derma_organ": 975
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2018,
+      "ikrar_derma_organ": 461
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2019,
+      "ikrar_derma_organ": 875
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2020,
+      "ikrar_derma_organ": 79
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2021,
+      "ikrar_derma_organ": 269
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2022,
+      "ikrar_derma_organ": 2236
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2023,
+      "ikrar_derma_organ": 1529
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2024,
+      "ikrar_derma_organ": 980
+    },
+    {
+      "negeri": "Sarawak",
+      "tahun": 2025,
+      "ikrar_derma_organ": 1067
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2009,
+      "ikrar_derma_organ": 165
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2010,
+      "ikrar_derma_organ": 3189
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2011,
+      "ikrar_derma_organ": 6890
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2012,
+      "ikrar_derma_organ": 6702
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2013,
+      "ikrar_derma_organ": 6432
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2014,
+      "ikrar_derma_organ": 9062
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2015,
+      "ikrar_derma_organ": 10078
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2016,
+      "ikrar_derma_organ": 7999
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2017,
+      "ikrar_derma_organ": 6573
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2018,
+      "ikrar_derma_organ": 4896
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2019,
+      "ikrar_derma_organ": 3625
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2020,
+      "ikrar_derma_organ": 739
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2021,
+      "ikrar_derma_organ": 1928
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2022,
+      "ikrar_derma_organ": 17974
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2023,
+      "ikrar_derma_organ": 8755
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2024,
+      "ikrar_derma_organ": 4369
+    },
+    {
+      "negeri": "Selangor",
+      "tahun": 2025,
+      "ikrar_derma_organ": 4758
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2009,
+      "ikrar_derma_organ": 9
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2010,
+      "ikrar_derma_organ": 75
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2011,
+      "ikrar_derma_organ": 590
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2012,
+      "ikrar_derma_organ": 417
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2013,
+      "ikrar_derma_organ": 701
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2014,
+      "ikrar_derma_organ": 1632
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2015,
+      "ikrar_derma_organ": 2874
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2016,
+      "ikrar_derma_organ": 1985
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2017,
+      "ikrar_derma_organ": 535
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2018,
+      "ikrar_derma_organ": 239
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2019,
+      "ikrar_derma_organ": 795
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2020,
+      "ikrar_derma_organ": 31
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2021,
+      "ikrar_derma_organ": 131
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2022,
+      "ikrar_derma_organ": 1007
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2023,
+      "ikrar_derma_organ": 624
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2024,
+      "ikrar_derma_organ": 323
+    },
+    {
+      "negeri": "Terengganu",
+      "tahun": 2025,
+      "ikrar_derma_organ": 458
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2009,
+      "ikrar_derma_organ": 83
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2010,
+      "ikrar_derma_organ": 2285
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2011,
+      "ikrar_derma_organ": 4838
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2012,
+      "ikrar_derma_organ": 4787
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2013,
+      "ikrar_derma_organ": 4516
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2014,
+      "ikrar_derma_organ": 5307
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2015,
+      "ikrar_derma_organ": 5926
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2016,
+      "ikrar_derma_organ": 4369
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2017,
+      "ikrar_derma_organ": 3813
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2018,
+      "ikrar_derma_organ": 2963
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2019,
+      "ikrar_derma_organ": 2084
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2020,
+      "ikrar_derma_organ": 440
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2021,
+      "ikrar_derma_organ": 1147
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2022,
+      "ikrar_derma_organ": 7477
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2023,
+      "ikrar_derma_organ": 3336
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2024,
+      "ikrar_derma_organ": 1516
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "tahun": 2025,
+      "ikrar_derma_organ": 1624
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2009,
+      "ikrar_derma_organ": 1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2010,
+      "ikrar_derma_organ": 7
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2011,
+      "ikrar_derma_organ": 65
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2012,
+      "ikrar_derma_organ": 62
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2013,
+      "ikrar_derma_organ": 40
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2014,
+      "ikrar_derma_organ": 95
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2015,
+      "ikrar_derma_organ": 185
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2016,
+      "ikrar_derma_organ": 248
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2017,
+      "ikrar_derma_organ": 201
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2018,
+      "ikrar_derma_organ": 54
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2019,
+      "ikrar_derma_organ": 13
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2020,
+      "ikrar_derma_organ": 6
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2021,
+      "ikrar_derma_organ": 10
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2022,
+      "ikrar_derma_organ": 127
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2023,
+      "ikrar_derma_organ": 107
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2024,
+      "ikrar_derma_organ": 55
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "tahun": 2025,
+      "ikrar_derma_organ": 82
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2009,
+      "ikrar_derma_organ": 3
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2010,
+      "ikrar_derma_organ": 89
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2011,
+      "ikrar_derma_organ": 234
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2012,
+      "ikrar_derma_organ": 212
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2013,
+      "ikrar_derma_organ": 196
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2014,
+      "ikrar_derma_organ": 337
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2015,
+      "ikrar_derma_organ": 579
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2016,
+      "ikrar_derma_organ": 279
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2017,
+      "ikrar_derma_organ": 206
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2018,
+      "ikrar_derma_organ": 126
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2019,
+      "ikrar_derma_organ": 64
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2020,
+      "ikrar_derma_organ": 13
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2021,
+      "ikrar_derma_organ": 35
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2022,
+      "ikrar_derma_organ": 416
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2023,
+      "ikrar_derma_organ": 179
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2024,
+      "ikrar_derma_organ": 101
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "tahun": 2025,
+      "ikrar_derma_organ": 146
+    }
+  ],
+  "meta": {
+    "title": "Ikrar Derma Organ Tahunan mengikut Negeri (2009–2025) - Muat turun percuma",
+    "description": "Jumlah ikrar derma organ yang diterima setiap tahun bagi setiap negeri di Malaysia dari 2009 hingga 2025, dijumlahkan daripada data harian Kementerian Kesihatan Malaysia di data.gov.my (data 2009 bermula 14 Januari 2009). Mengandungi 272 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Ikrar Derma Organ Tahunan mengikut Negeri (2009–2025) | ListBase",
+    "seo_description": "Muat turun Ikrar Derma Organ Tahunan mengikut Negeri (2009–2025) — 272 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 272 rekod / 3 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/organ_pledges_state"
+    ]
+  }
+}
