@@ -1,0 +1,4462 @@
+{
+  "id": "ms-inflasi-harga-makanan-negeri-bulanan",
+  "name": "Inflasi Harga Makanan dan Minuman Bukan Alkohol mengikut Negeri (Jan 2023–2026-10)",
+  "title": "Inflasi Harga Makanan dan Minuman Bukan Alkohol mengikut Negeri (Jan 2023–2026-10)",
+  "description": "Kadar inflasi bulanan Indeks Harga Pengguna (IHP) bagi bahagian 01 — makanan dan minuman bukan alkohol — untuk setiap negeri di Malaysia, berbanding tahun sebelumnya (tahun ke tahun) dan bulan sebelumnya, daripada Jabatan Perangkaan Malaysia (data.gov.my).",
+  "category": "food",
+  "source": "https://data.gov.my/data-catalogue/cpi_state_inflation",
+  "source_url": "https://data.gov.my/data-catalogue/cpi_state_inflation",
+  "updated": "2026-11",
+  "record_count": 736,
+  "columns": [
+    {
+      "key": "negeri",
+      "label": "Negeri",
+      "type": "string"
+    },
+    {
+      "key": "bulan",
+      "label": "Bulan",
+      "type": "string"
+    },
+    {
+      "key": "inflasi_tahunan_peratus",
+      "label": "Inflasi Tahunan Peratus",
+      "type": "number"
+    },
+    {
+      "key": "inflasi_bulanan_peratus",
+      "label": "Inflasi Bulanan Peratus",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "negeri": "Johor",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 6.8,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 7.5,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 6.9,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 6.1,
+      "inflasi_bulanan_peratus": -0.4
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 5.1,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 3.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 1.1,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": 1
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 0.7
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": 0.7
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 1
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 2.5,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": -0.4
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 3.3,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 3.5,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 3.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Johor",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 3.7,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 3.7,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 3.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 3.3,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 3.2,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": -0.6
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 0.1,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 0.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 0.1,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": 0.7
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 0.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.8
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Kedah",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 4.7,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 4.9,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 4.8,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 4.3,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 3.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 2.5,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": -0.5
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 0.4,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 0.2,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 0.3,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 0.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 0.3,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 0.1,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": -0.1,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": -0.1,
+      "inflasi_bulanan_peratus": -0.4
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 0.1,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 0.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": -0.6,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": -0.3,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": -0.3,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": -0.3,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": -0.7,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": -0.7,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": -1.3,
+      "inflasi_bulanan_peratus": -0.7
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": -1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": -0.7,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 0,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": -0.1,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": -0.3,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Kelantan",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": -0.2,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 5.8,
+      "inflasi_bulanan_peratus": 0.7
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 6.3,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 6.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 6,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 6.1,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 4.4,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 4.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 4.1,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 3.7,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": -0.8
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 1.1,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 0.3,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 0.3,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 2.5,
+      "inflasi_bulanan_peratus": 1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0.7
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.8
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Melaka",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 6.6,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 6.8,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 6.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 6.1,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 5.5,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 4.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 4,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 4,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 3.6,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 0.4,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 1.1,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": 1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.7
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 3.1,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 3.3,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 3.3,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 3.3,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 3.3,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.8
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 3.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 2.5,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 3.1,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Negeri Sembilan",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 6.6,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 7.4,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 6.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 6.4,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 6,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 5.4,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 4.8,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 4.1,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 3.5,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 3.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 1.2
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": -0.6
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": 0.8
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Pahang",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 6.3,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 7,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 6.8,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 6.3,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 5.9,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 4.7,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 4.5,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 4,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 3.8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 2.5,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 0.4,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": -0.1,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": -0.1,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 0.1,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.8
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 1.1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 1.1,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perak",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 4.6,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 4.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 4.1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 3.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 3.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 3.1,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 4.7,
+      "inflasi_bulanan_peratus": 0.9
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 3.7,
+      "inflasi_bulanan_peratus": -0.4
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": -0.4
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 1.1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 0.2,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 0.3,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Perlis",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 6.9,
+      "inflasi_bulanan_peratus": 0.9
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 6.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 6.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 6.1,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 5.7,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 4.5,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 4,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 4.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 4.5,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 4.5,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 3.7,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 3.3,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 2.5,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 3.1,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": 0.8
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 2.5,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Pulau Pinang",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 6.4,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 6.2,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 6.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 6.2,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 5.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 4.2,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": -0.5
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 1.1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.7
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": -0.6
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 1.1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 0.4,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 0.4,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 0,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sabah",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 8.4,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 8.1,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 8.2,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 7.6,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 6.4,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 5.5,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 5.2,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 4.8,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 3.6,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 0.3,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Sarawak",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 8.1,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 8.6,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 8.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 7.5,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 7.3,
+      "inflasi_bulanan_peratus": 0.7
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 6.1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 5.6,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 5.3,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 4.9,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 4.7,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 3.5,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 3.2,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 3.7,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 3.3,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 3.8,
+      "inflasi_bulanan_peratus": 1.2
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 4,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 4.1,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 4.3,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 3.5,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 3.3,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 3.1,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Selangor",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 5.2,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 5.3,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 5.2,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 4.7,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 4.1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 3.1,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 3.2,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 3.3,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": -0.4
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": 0.8
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0.7
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.9
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 1.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 0.4,
+      "inflasi_bulanan_peratus": -0.5
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 0.2,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 0.3,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "Terengganu",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 6.2,
+      "inflasi_bulanan_peratus": 0.7
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 6.1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 6.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 5.8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 5.2,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 4.2,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 4.1,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 3.7,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 3.3,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 2.5,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": -0.5
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 1.1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0.8
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 0.3,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 1.1,
+      "inflasi_bulanan_peratus": 0.8
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 1.1,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": 0.8
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 3.1,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 2.5,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 2.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 2.5,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "W.P. Kuala Lumpur",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 3.6,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 3.7,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 4,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 3.8,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 3.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 3.5,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 4.2,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 3.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 3.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 3.3,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 3.6,
+      "inflasi_bulanan_peratus": 0.7
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 2.3,
+      "inflasi_bulanan_peratus": -0.7
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 2,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 1.9,
+      "inflasi_bulanan_peratus": 0.8
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": -0.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 0.2,
+      "inflasi_bulanan_peratus": -0.5
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": -0.1,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 0.7,
+      "inflasi_bulanan_peratus": 1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0.8
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": -0.9
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": -0.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 2.5,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 2.1,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 2.4,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": -0.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 1.6,
+      "inflasi_bulanan_peratus": -0.4
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 1.3,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 0.5,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 0,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "W.P. Labuan",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 1.1,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2023-01",
+      "inflasi_tahunan_peratus": 7.4,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2023-02",
+      "inflasi_tahunan_peratus": 6.9,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2023-03",
+      "inflasi_tahunan_peratus": 7.3,
+      "inflasi_bulanan_peratus": 0.4
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2023-04",
+      "inflasi_tahunan_peratus": 7,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2023-05",
+      "inflasi_tahunan_peratus": 7.1,
+      "inflasi_bulanan_peratus": 1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2023-06",
+      "inflasi_tahunan_peratus": 7.1,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2023-07",
+      "inflasi_tahunan_peratus": 6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2023-08",
+      "inflasi_tahunan_peratus": 5.7,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2023-09",
+      "inflasi_tahunan_peratus": 5.9,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2023-10",
+      "inflasi_tahunan_peratus": 5.2,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2023-11",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": -0.4
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2023-12",
+      "inflasi_tahunan_peratus": 3.1,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2024-01",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2024-02",
+      "inflasi_tahunan_peratus": 3.2,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2024-03",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2024-04",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2024-05",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2024-06",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2024-07",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2024-08",
+      "inflasi_tahunan_peratus": 1.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2024-09",
+      "inflasi_tahunan_peratus": 1.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2024-10",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 1.5
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2024-11",
+      "inflasi_tahunan_peratus": 3.4,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2024-12",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2025-01",
+      "inflasi_tahunan_peratus": 3.5,
+      "inflasi_bulanan_peratus": 0.9
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2025-02",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2025-03",
+      "inflasi_tahunan_peratus": 3.6,
+      "inflasi_bulanan_peratus": 0.5
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2025-04",
+      "inflasi_tahunan_peratus": 3,
+      "inflasi_bulanan_peratus": -0.3
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2025-05",
+      "inflasi_tahunan_peratus": 3.1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2025-06",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": -0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2025-07",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": -0.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2025-08",
+      "inflasi_tahunan_peratus": 2.8,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2025-09",
+      "inflasi_tahunan_peratus": 2.9,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2025-10",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2025-11",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2025-12",
+      "inflasi_tahunan_peratus": 1.5,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2026-01",
+      "inflasi_tahunan_peratus": 0.8,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2026-02",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.2
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2026-03",
+      "inflasi_tahunan_peratus": 0.6,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2026-04",
+      "inflasi_tahunan_peratus": 1,
+      "inflasi_bulanan_peratus": 0.1
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2026-05",
+      "inflasi_tahunan_peratus": 0.9,
+      "inflasi_bulanan_peratus": 0
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2026-06",
+      "inflasi_tahunan_peratus": 1.2,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2026-07",
+      "inflasi_tahunan_peratus": 1.7,
+      "inflasi_bulanan_peratus": 0.3
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2026-08",
+      "inflasi_tahunan_peratus": 2.2,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2026-09",
+      "inflasi_tahunan_peratus": 2.7,
+      "inflasi_bulanan_peratus": 0.6
+    },
+    {
+      "negeri": "W.P. Putrajaya",
+      "bulan": "2026-10",
+      "inflasi_tahunan_peratus": 2.6,
+      "inflasi_bulanan_peratus": 0.1
+    }
+  ],
+  "meta": {
+    "title": "Inflasi Harga Makanan dan Minuman Bukan Alkohol mengikut Negeri (Jan 2023–2026-10) - Muat turun percuma",
+    "description": "Kadar inflasi bulanan Indeks Harga Pengguna (IHP) bagi bahagian 01 — makanan dan minuman bukan alkohol — untuk setiap negeri di Malaysia, berbanding tahun sebelumnya (tahun ke tahun) dan bulan sebelumnya, daripada Jabatan Perangkaan Malaysia (data.gov.my). Mengandungi 736 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Inflasi Harga Makanan dan Minuman Bukan Alkohol mengikut Negeri (Jan 2023–2026-10) | ListBase",
+    "seo_description": "Muat turun Inflasi Harga Makanan dan Minuman Bukan Alkohol mengikut Negeri (Jan 2023–2026-10) — 736 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 736 rekod / 4 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/cpi_state_inflation"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-26T02:15:51.387Z",
-  "total_datasets": 751,
-  "total_records": 563645,
+  "generated": "2026-11-26T02:16:00.134Z",
+  "total_datasets": 752,
+  "total_records": 564381,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "geography",
@@ -4289,6 +4289,31 @@
         "xlsx": {
           "name": "ms-hidangan-masakan-malaysia_MS.xlsx",
           "size": 10231
+        }
+      }
+    },
+    {
+      "id": "ms-inflasi-harga-makanan-negeri-bulanan",
+      "name": "Inflasi Harga Makanan dan Minuman Bukan Alkohol mengikut Negeri (Jan 2023–2026-10)",
+      "category": "food",
+      "record_count": 736,
+      "columns": [
+        "negeri",
+        "bulan",
+        "inflasi_tahunan_peratus",
+        "inflasi_bulanan_peratus"
+      ],
+      "source": "https://data.gov.my/data-catalogue/cpi_state_inflation",
+      "updated": "2026-11",
+      "size": 107069,
+      "files": {
+        "csv": {
+          "name": "ms-inflasi-harga-makanan-negeri-bulanan_MS.csv",
+          "size": 24751
+        },
+        "xlsx": {
+          "name": "ms-inflasi-harga-makanan-negeri-bulanan_MS.xlsx",
+          "size": 21018
         }
       }
     },
