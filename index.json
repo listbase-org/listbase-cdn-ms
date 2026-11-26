@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-26T02:16:00.134Z",
-  "total_datasets": 752,
-  "total_records": 564381,
+  "generated": "2026-11-26T02:16:08.494Z",
+  "total_datasets": 753,
+  "total_records": 564483,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "finance",
@@ -3839,6 +3839,34 @@
         "xlsx": {
           "name": "ms-pengeluaran-penggunaan-air-negeri_MS.xlsx",
           "size": 16125
+        }
+      }
+    },
+    {
+      "id": "ms-penggunaan-elektrik-bulanan-sektor",
+      "name": "Penggunaan Elektrik Bulanan Malaysia mengikut Sektor (2018–2026)",
+      "category": "environment",
+      "record_count": 102,
+      "columns": [
+        "bulan",
+        "jumlah_juta_kwj",
+        "tempatan_juta_kwj",
+        "tempatan_komersial_juta_kwj",
+        "tempatan_domestik_juta_kwj",
+        "eksport_juta_kwj",
+        "kehilangan_juta_kwj"
+      ],
+      "source": "https://data.gov.my/data-catalogue/electricity_consumption",
+      "updated": "2026-11",
+      "size": 29507,
+      "files": {
+        "csv": {
+          "name": "ms-penggunaan-elektrik-bulanan-sektor_MS.csv",
+          "size": 6659
+        },
+        "xlsx": {
+          "name": "ms-penggunaan-elektrik-bulanan-sektor_MS.xlsx",
+          "size": 11796
         }
       }
     },

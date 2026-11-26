@@ -1,0 +1,979 @@
+{
+  "id": "ms-penggunaan-elektrik-bulanan-sektor",
+  "name": "Penggunaan Elektrik Bulanan Malaysia mengikut Sektor (2018–2026)",
+  "title": "Penggunaan Elektrik Bulanan Malaysia mengikut Sektor (2018–2026)",
+  "description": "Penggunaan elektrik bulanan di Malaysia dalam juta kilowatt-jam: jumlah keseluruhan, penggunaan tempatan (komersial termasuk industri dan perlombongan, serta domestik termasuk lampu awam), eksport dan kehilangan, daripada data.gov.my.",
+  "category": "environment",
+  "source": "https://data.gov.my/data-catalogue/electricity_consumption",
+  "source_url": "https://data.gov.my/data-catalogue/electricity_consumption",
+  "updated": "2026-11",
+  "record_count": 102,
+  "columns": [
+    {
+      "key": "bulan",
+      "label": "Bulan",
+      "type": "string"
+    },
+    {
+      "key": "jumlah_juta_kwj",
+      "label": "Jumlah Juta Kwj",
+      "type": "number"
+    },
+    {
+      "key": "tempatan_juta_kwj",
+      "label": "Tempatan Juta Kwj",
+      "type": "number"
+    },
+    {
+      "key": "tempatan_komersial_juta_kwj",
+      "label": "Tempatan Komersial Juta Kwj",
+      "type": "number"
+    },
+    {
+      "key": "tempatan_domestik_juta_kwj",
+      "label": "Tempatan Domestik Juta Kwj",
+      "type": "number"
+    },
+    {
+      "key": "eksport_juta_kwj",
+      "label": "Eksport Juta Kwj",
+      "type": "number"
+    },
+    {
+      "key": "kehilangan_juta_kwj",
+      "label": "Kehilangan Juta Kwj",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "bulan": "2018-01",
+      "jumlah_juta_kwj": 13156.1,
+      "tempatan_juta_kwj": 11845.9,
+      "tempatan_komersial_juta_kwj": 9390.1,
+      "tempatan_domestik_juta_kwj": 2455.8,
+      "eksport_juta_kwj": 109.8,
+      "kehilangan_juta_kwj": 1200.4
+    },
+    {
+      "bulan": "2018-02",
+      "jumlah_juta_kwj": 12097.3,
+      "tempatan_juta_kwj": 11092,
+      "tempatan_komersial_juta_kwj": 8561.4,
+      "tempatan_domestik_juta_kwj": 2530.5,
+      "eksport_juta_kwj": 101.5,
+      "kehilangan_juta_kwj": 903.8
+    },
+    {
+      "bulan": "2018-03",
+      "jumlah_juta_kwj": 14029,
+      "tempatan_juta_kwj": 12244.1,
+      "tempatan_komersial_juta_kwj": 9659.3,
+      "tempatan_domestik_juta_kwj": 2584.8,
+      "eksport_juta_kwj": 103.8,
+      "kehilangan_juta_kwj": 1681.1
+    },
+    {
+      "bulan": "2018-04",
+      "jumlah_juta_kwj": 13604.8,
+      "tempatan_juta_kwj": 12018.6,
+      "tempatan_komersial_juta_kwj": 9340.8,
+      "tempatan_domestik_juta_kwj": 2677.8,
+      "eksport_juta_kwj": 102,
+      "kehilangan_juta_kwj": 1484.2
+    },
+    {
+      "bulan": "2018-05",
+      "jumlah_juta_kwj": 13934.7,
+      "tempatan_juta_kwj": 12268,
+      "tempatan_komersial_juta_kwj": 9525.9,
+      "tempatan_domestik_juta_kwj": 2742.1,
+      "eksport_juta_kwj": 142.3,
+      "kehilangan_juta_kwj": 1524.4
+    },
+    {
+      "bulan": "2018-06",
+      "jumlah_juta_kwj": 13347.7,
+      "tempatan_juta_kwj": 11718.3,
+      "tempatan_komersial_juta_kwj": 9090.5,
+      "tempatan_domestik_juta_kwj": 2627.8,
+      "eksport_juta_kwj": 141.7,
+      "kehilangan_juta_kwj": 1487.7
+    },
+    {
+      "bulan": "2018-07",
+      "jumlah_juta_kwj": 14252.2,
+      "tempatan_juta_kwj": 12549.9,
+      "tempatan_komersial_juta_kwj": 9804.8,
+      "tempatan_domestik_juta_kwj": 2745.1,
+      "eksport_juta_kwj": 138.7,
+      "kehilangan_juta_kwj": 1563.6
+    },
+    {
+      "bulan": "2018-08",
+      "jumlah_juta_kwj": 14342.9,
+      "tempatan_juta_kwj": 12523.9,
+      "tempatan_komersial_juta_kwj": 9839.9,
+      "tempatan_domestik_juta_kwj": 2683.9,
+      "eksport_juta_kwj": 139.5,
+      "kehilangan_juta_kwj": 1679.5
+    },
+    {
+      "bulan": "2018-09",
+      "jumlah_juta_kwj": 13359.1,
+      "tempatan_juta_kwj": 11959.1,
+      "tempatan_komersial_juta_kwj": 9395.3,
+      "tempatan_domestik_juta_kwj": 2563.8,
+      "eksport_juta_kwj": 137.7,
+      "kehilangan_juta_kwj": 1262.3
+    },
+    {
+      "bulan": "2018-10",
+      "jumlah_juta_kwj": 14082.4,
+      "tempatan_juta_kwj": 12524.4,
+      "tempatan_komersial_juta_kwj": 9940,
+      "tempatan_domestik_juta_kwj": 2584.4,
+      "eksport_juta_kwj": 133,
+      "kehilangan_juta_kwj": 1424.9
+    },
+    {
+      "bulan": "2018-11",
+      "jumlah_juta_kwj": 13551,
+      "tempatan_juta_kwj": 12068.6,
+      "tempatan_komersial_juta_kwj": 9530.1,
+      "tempatan_domestik_juta_kwj": 2538.5,
+      "eksport_juta_kwj": 126.2,
+      "kehilangan_juta_kwj": 1356.2
+    },
+    {
+      "bulan": "2018-12",
+      "jumlah_juta_kwj": 13730.6,
+      "tempatan_juta_kwj": 12375.4,
+      "tempatan_komersial_juta_kwj": 9695.1,
+      "tempatan_domestik_juta_kwj": 2680.3,
+      "eksport_juta_kwj": 132.4,
+      "kehilangan_juta_kwj": 1222.8
+    },
+    {
+      "bulan": "2019-01",
+      "jumlah_juta_kwj": 14108.8,
+      "tempatan_juta_kwj": 12551,
+      "tempatan_komersial_juta_kwj": 9806.6,
+      "tempatan_domestik_juta_kwj": 2744.4,
+      "eksport_juta_kwj": 146.3,
+      "kehilangan_juta_kwj": 1411.5
+    },
+    {
+      "bulan": "2019-02",
+      "jumlah_juta_kwj": 12616.8,
+      "tempatan_juta_kwj": 11566.9,
+      "tempatan_komersial_juta_kwj": 8762.5,
+      "tempatan_domestik_juta_kwj": 2804.4,
+      "eksport_juta_kwj": 127.7,
+      "kehilangan_juta_kwj": 922.2
+    },
+    {
+      "bulan": "2019-03",
+      "jumlah_juta_kwj": 14632.3,
+      "tempatan_juta_kwj": 12750.4,
+      "tempatan_komersial_juta_kwj": 10001.9,
+      "tempatan_domestik_juta_kwj": 2748.5,
+      "eksport_juta_kwj": 146.3,
+      "kehilangan_juta_kwj": 1735.6
+    },
+    {
+      "bulan": "2019-04",
+      "jumlah_juta_kwj": 14371.7,
+      "tempatan_juta_kwj": 12943.8,
+      "tempatan_komersial_juta_kwj": 9984.8,
+      "tempatan_domestik_juta_kwj": 2959,
+      "eksport_juta_kwj": 145.9,
+      "kehilangan_juta_kwj": 1282
+    },
+    {
+      "bulan": "2019-05",
+      "jumlah_juta_kwj": 14694.2,
+      "tempatan_juta_kwj": 12786.9,
+      "tempatan_komersial_juta_kwj": 9955.3,
+      "tempatan_domestik_juta_kwj": 2831.6,
+      "eksport_juta_kwj": 144.1,
+      "kehilangan_juta_kwj": 1763.2
+    },
+    {
+      "bulan": "2019-06",
+      "jumlah_juta_kwj": 13547,
+      "tempatan_juta_kwj": 12157.9,
+      "tempatan_komersial_juta_kwj": 9325.6,
+      "tempatan_domestik_juta_kwj": 2832.3,
+      "eksport_juta_kwj": 134.8,
+      "kehilangan_juta_kwj": 1254.3
+    },
+    {
+      "bulan": "2019-07",
+      "jumlah_juta_kwj": 14501.5,
+      "tempatan_juta_kwj": 12766.8,
+      "tempatan_komersial_juta_kwj": 9924.8,
+      "tempatan_domestik_juta_kwj": 2842,
+      "eksport_juta_kwj": 144.6,
+      "kehilangan_juta_kwj": 1590.2
+    },
+    {
+      "bulan": "2019-08",
+      "jumlah_juta_kwj": 14356.7,
+      "tempatan_juta_kwj": 12730.1,
+      "tempatan_komersial_juta_kwj": 9885.7,
+      "tempatan_domestik_juta_kwj": 2844.4,
+      "eksport_juta_kwj": 154.7,
+      "kehilangan_juta_kwj": 1471.9
+    },
+    {
+      "bulan": "2019-09",
+      "jumlah_juta_kwj": 13967.9,
+      "tempatan_juta_kwj": 12359.4,
+      "tempatan_komersial_juta_kwj": 9624.8,
+      "tempatan_domestik_juta_kwj": 2734.7,
+      "eksport_juta_kwj": 148.3,
+      "kehilangan_juta_kwj": 1460.1
+    },
+    {
+      "bulan": "2019-10",
+      "jumlah_juta_kwj": 14104.1,
+      "tempatan_juta_kwj": 12544.5,
+      "tempatan_komersial_juta_kwj": 9867,
+      "tempatan_domestik_juta_kwj": 2677.5,
+      "eksport_juta_kwj": 143,
+      "kehilangan_juta_kwj": 1416.6
+    },
+    {
+      "bulan": "2019-11",
+      "jumlah_juta_kwj": 13727.2,
+      "tempatan_juta_kwj": 12220.8,
+      "tempatan_komersial_juta_kwj": 9579.1,
+      "tempatan_domestik_juta_kwj": 2641.8,
+      "eksport_juta_kwj": 131.1,
+      "kehilangan_juta_kwj": 1375.4
+    },
+    {
+      "bulan": "2019-12",
+      "jumlah_juta_kwj": 13811.1,
+      "tempatan_juta_kwj": 12375.8,
+      "tempatan_komersial_juta_kwj": 9650.8,
+      "tempatan_domestik_juta_kwj": 2725,
+      "eksport_juta_kwj": 130.7,
+      "kehilangan_juta_kwj": 1304.7
+    },
+    {
+      "bulan": "2020-01",
+      "jumlah_juta_kwj": 14196.2,
+      "tempatan_juta_kwj": 12663.7,
+      "tempatan_komersial_juta_kwj": 9794.4,
+      "tempatan_domestik_juta_kwj": 2869.3,
+      "eksport_juta_kwj": 129.7,
+      "kehilangan_juta_kwj": 1402.7
+    },
+    {
+      "bulan": "2020-02",
+      "jumlah_juta_kwj": 13557,
+      "tempatan_juta_kwj": 12249.9,
+      "tempatan_komersial_juta_kwj": 9381.8,
+      "tempatan_domestik_juta_kwj": 2868.1,
+      "eksport_juta_kwj": 145.7,
+      "kehilangan_juta_kwj": 1161.3
+    },
+    {
+      "bulan": "2020-03",
+      "jumlah_juta_kwj": 13522.4,
+      "tempatan_juta_kwj": 11699.3,
+      "tempatan_komersial_juta_kwj": 8809.6,
+      "tempatan_domestik_juta_kwj": 2889.7,
+      "eksport_juta_kwj": 148.8,
+      "kehilangan_juta_kwj": 1674.3
+    },
+    {
+      "bulan": "2020-04",
+      "jumlah_juta_kwj": 11685.3,
+      "tempatan_juta_kwj": 10349.1,
+      "tempatan_komersial_juta_kwj": 7209.3,
+      "tempatan_domestik_juta_kwj": 3139.9,
+      "eksport_juta_kwj": 143.9,
+      "kehilangan_juta_kwj": 1192.3
+    },
+    {
+      "bulan": "2020-05",
+      "jumlah_juta_kwj": 13263.2,
+      "tempatan_juta_kwj": 11570.6,
+      "tempatan_komersial_juta_kwj": 7623.1,
+      "tempatan_domestik_juta_kwj": 3947.6,
+      "eksport_juta_kwj": 138.6,
+      "kehilangan_juta_kwj": 1553.9
+    },
+    {
+      "bulan": "2020-06",
+      "jumlah_juta_kwj": 13290.3,
+      "tempatan_juta_kwj": 11751.3,
+      "tempatan_komersial_juta_kwj": 8733.5,
+      "tempatan_domestik_juta_kwj": 3017.8,
+      "eksport_juta_kwj": 125.7,
+      "kehilangan_juta_kwj": 1413.3
+    },
+    {
+      "bulan": "2020-07",
+      "jumlah_juta_kwj": 13866.9,
+      "tempatan_juta_kwj": 12381.5,
+      "tempatan_komersial_juta_kwj": 9376.7,
+      "tempatan_domestik_juta_kwj": 3004.7,
+      "eksport_juta_kwj": 128.3,
+      "kehilangan_juta_kwj": 1357.2
+    },
+    {
+      "bulan": "2020-08",
+      "jumlah_juta_kwj": 14262.4,
+      "tempatan_juta_kwj": 12543.2,
+      "tempatan_komersial_juta_kwj": 9553.3,
+      "tempatan_domestik_juta_kwj": 2989.8,
+      "eksport_juta_kwj": 140.4,
+      "kehilangan_juta_kwj": 1578.9
+    },
+    {
+      "bulan": "2020-09",
+      "jumlah_juta_kwj": 13726.9,
+      "tempatan_juta_kwj": 12436.1,
+      "tempatan_komersial_juta_kwj": 9534.6,
+      "tempatan_domestik_juta_kwj": 2901.6,
+      "eksport_juta_kwj": 124.3,
+      "kehilangan_juta_kwj": 1166.4
+    },
+    {
+      "bulan": "2020-10",
+      "jumlah_juta_kwj": 14291.3,
+      "tempatan_juta_kwj": 12758.6,
+      "tempatan_komersial_juta_kwj": 9784.7,
+      "tempatan_domestik_juta_kwj": 2973.9,
+      "eksport_juta_kwj": 129.3,
+      "kehilangan_juta_kwj": 1403.4
+    },
+    {
+      "bulan": "2020-11",
+      "jumlah_juta_kwj": 13434.8,
+      "tempatan_juta_kwj": 12122.8,
+      "tempatan_komersial_juta_kwj": 9179.3,
+      "tempatan_domestik_juta_kwj": 2943.5,
+      "eksport_juta_kwj": 116.5,
+      "kehilangan_juta_kwj": 1195.5
+    },
+    {
+      "bulan": "2020-12",
+      "jumlah_juta_kwj": 13849.3,
+      "tempatan_juta_kwj": 12231.2,
+      "tempatan_komersial_juta_kwj": 9410.6,
+      "tempatan_domestik_juta_kwj": 2820.6,
+      "eksport_juta_kwj": 99.3,
+      "kehilangan_juta_kwj": 1518.8
+    },
+    {
+      "bulan": "2021-01",
+      "jumlah_juta_kwj": 13569.2,
+      "tempatan_juta_kwj": 12157.2,
+      "tempatan_komersial_juta_kwj": 9118.3,
+      "tempatan_domestik_juta_kwj": 3038.9,
+      "eksport_juta_kwj": 134.8,
+      "kehilangan_juta_kwj": 1277.3
+    },
+    {
+      "bulan": "2021-02",
+      "jumlah_juta_kwj": 12805.2,
+      "tempatan_juta_kwj": 11595.5,
+      "tempatan_komersial_juta_kwj": 8500.1,
+      "tempatan_domestik_juta_kwj": 3095.5,
+      "eksport_juta_kwj": 84.2,
+      "kehilangan_juta_kwj": 1125.4
+    },
+    {
+      "bulan": "2021-03",
+      "jumlah_juta_kwj": 14849.6,
+      "tempatan_juta_kwj": 12960.8,
+      "tempatan_komersial_juta_kwj": 9885.1,
+      "tempatan_domestik_juta_kwj": 3075.7,
+      "eksport_juta_kwj": 122.6,
+      "kehilangan_juta_kwj": 1766.1
+    },
+    {
+      "bulan": "2021-04",
+      "jumlah_juta_kwj": 14349.5,
+      "tempatan_juta_kwj": 12718.1,
+      "tempatan_komersial_juta_kwj": 9595.7,
+      "tempatan_domestik_juta_kwj": 3122.4,
+      "eksport_juta_kwj": 112.2,
+      "kehilangan_juta_kwj": 1519.2
+    },
+    {
+      "bulan": "2021-05",
+      "jumlah_juta_kwj": 14451.5,
+      "tempatan_juta_kwj": 12675.6,
+      "tempatan_komersial_juta_kwj": 9243.2,
+      "tempatan_domestik_juta_kwj": 3432.4,
+      "eksport_juta_kwj": 103.6,
+      "kehilangan_juta_kwj": 1672.3
+    },
+    {
+      "bulan": "2021-06",
+      "jumlah_juta_kwj": 12675.3,
+      "tempatan_juta_kwj": 11100.3,
+      "tempatan_komersial_juta_kwj": 7802.3,
+      "tempatan_domestik_juta_kwj": 3298,
+      "eksport_juta_kwj": 57.8,
+      "kehilangan_juta_kwj": 1517.2
+    },
+    {
+      "bulan": "2021-07",
+      "jumlah_juta_kwj": 13227.8,
+      "tempatan_juta_kwj": 11590.1,
+      "tempatan_komersial_juta_kwj": 8173.2,
+      "tempatan_domestik_juta_kwj": 3416.8,
+      "eksport_juta_kwj": 67.5,
+      "kehilangan_juta_kwj": 1570.3
+    },
+    {
+      "bulan": "2021-08",
+      "jumlah_juta_kwj": 13589.1,
+      "tempatan_juta_kwj": 12012,
+      "tempatan_komersial_juta_kwj": 8739.4,
+      "tempatan_domestik_juta_kwj": 3272.6,
+      "eksport_juta_kwj": 46,
+      "kehilangan_juta_kwj": 1531.1
+    },
+    {
+      "bulan": "2021-09",
+      "jumlah_juta_kwj": 13810.5,
+      "tempatan_juta_kwj": 12446.9,
+      "tempatan_komersial_juta_kwj": 9205.9,
+      "tempatan_domestik_juta_kwj": 3240.9,
+      "eksport_juta_kwj": 71,
+      "kehilangan_juta_kwj": 1292.7
+    },
+    {
+      "bulan": "2021-10",
+      "jumlah_juta_kwj": 14879.9,
+      "tempatan_juta_kwj": 13086.4,
+      "tempatan_komersial_juta_kwj": 9907.9,
+      "tempatan_domestik_juta_kwj": 3178.5,
+      "eksport_juta_kwj": 58.2,
+      "kehilangan_juta_kwj": 1735.3
+    },
+    {
+      "bulan": "2021-11",
+      "jumlah_juta_kwj": 14137.4,
+      "tempatan_juta_kwj": 12708.1,
+      "tempatan_komersial_juta_kwj": 9700.7,
+      "tempatan_domestik_juta_kwj": 3007.4,
+      "eksport_juta_kwj": 45.9,
+      "kehilangan_juta_kwj": 1383.3
+    },
+    {
+      "bulan": "2021-12",
+      "jumlah_juta_kwj": 14506,
+      "tempatan_juta_kwj": 12956.1,
+      "tempatan_komersial_juta_kwj": 9922.4,
+      "tempatan_domestik_juta_kwj": 3033.7,
+      "eksport_juta_kwj": 70.6,
+      "kehilangan_juta_kwj": 1479.2
+    },
+    {
+      "bulan": "2022-01",
+      "jumlah_juta_kwj": 14649.2,
+      "tempatan_juta_kwj": 12883.5,
+      "tempatan_komersial_juta_kwj": 9732.4,
+      "tempatan_domestik_juta_kwj": 3151.1,
+      "eksport_juta_kwj": 58.7,
+      "kehilangan_juta_kwj": 1706.9
+    },
+    {
+      "bulan": "2022-02",
+      "jumlah_juta_kwj": 13156.2,
+      "tempatan_juta_kwj": 11801.2,
+      "tempatan_komersial_juta_kwj": 8738.6,
+      "tempatan_domestik_juta_kwj": 3062.7,
+      "eksport_juta_kwj": 45.2,
+      "kehilangan_juta_kwj": 1309.8
+    },
+    {
+      "bulan": "2022-03",
+      "jumlah_juta_kwj": 15033.8,
+      "tempatan_juta_kwj": 13248.4,
+      "tempatan_komersial_juta_kwj": 9959,
+      "tempatan_domestik_juta_kwj": 3289.5,
+      "eksport_juta_kwj": 60.9,
+      "kehilangan_juta_kwj": 1724.4
+    },
+    {
+      "bulan": "2022-04",
+      "jumlah_juta_kwj": 14789.4,
+      "tempatan_juta_kwj": 13065.7,
+      "tempatan_komersial_juta_kwj": 9749.8,
+      "tempatan_domestik_juta_kwj": 3315.9,
+      "eksport_juta_kwj": 51.1,
+      "kehilangan_juta_kwj": 1672.5
+    },
+    {
+      "bulan": "2022-05",
+      "jumlah_juta_kwj": 15152.5,
+      "tempatan_juta_kwj": 13212.1,
+      "tempatan_komersial_juta_kwj": 9840.6,
+      "tempatan_domestik_juta_kwj": 3371.6,
+      "eksport_juta_kwj": 66.9,
+      "kehilangan_juta_kwj": 1873.5
+    },
+    {
+      "bulan": "2022-06",
+      "jumlah_juta_kwj": 14786.5,
+      "tempatan_juta_kwj": 13175.4,
+      "tempatan_komersial_juta_kwj": 9896.2,
+      "tempatan_domestik_juta_kwj": 3279.3,
+      "eksport_juta_kwj": 67.3,
+      "kehilangan_juta_kwj": 1543.7
+    },
+    {
+      "bulan": "2022-07",
+      "jumlah_juta_kwj": 15298.5,
+      "tempatan_juta_kwj": 13316.5,
+      "tempatan_komersial_juta_kwj": 10032.9,
+      "tempatan_domestik_juta_kwj": 3283.6,
+      "eksport_juta_kwj": 68.6,
+      "kehilangan_juta_kwj": 1913.4
+    },
+    {
+      "bulan": "2022-08",
+      "jumlah_juta_kwj": 15279.6,
+      "tempatan_juta_kwj": 13404.5,
+      "tempatan_komersial_juta_kwj": 10199,
+      "tempatan_domestik_juta_kwj": 3205.5,
+      "eksport_juta_kwj": 80.9,
+      "kehilangan_juta_kwj": 1794.2
+    },
+    {
+      "bulan": "2022-09",
+      "jumlah_juta_kwj": 14616,
+      "tempatan_juta_kwj": 13008.5,
+      "tempatan_komersial_juta_kwj": 9895.1,
+      "tempatan_domestik_juta_kwj": 3113.5,
+      "eksport_juta_kwj": 100.5,
+      "kehilangan_juta_kwj": 1506.9
+    },
+    {
+      "bulan": "2022-10",
+      "jumlah_juta_kwj": 14901,
+      "tempatan_juta_kwj": 13133.6,
+      "tempatan_komersial_juta_kwj": 10035.7,
+      "tempatan_domestik_juta_kwj": 3097.9,
+      "eksport_juta_kwj": 65.1,
+      "kehilangan_juta_kwj": 1702.3
+    },
+    {
+      "bulan": "2022-11",
+      "jumlah_juta_kwj": 14413.9,
+      "tempatan_juta_kwj": 12835.4,
+      "tempatan_komersial_juta_kwj": 9800.1,
+      "tempatan_domestik_juta_kwj": 3035.2,
+      "eksport_juta_kwj": 77,
+      "kehilangan_juta_kwj": 1501.5
+    },
+    {
+      "bulan": "2022-12",
+      "jumlah_juta_kwj": 14536.5,
+      "tempatan_juta_kwj": 12954.4,
+      "tempatan_komersial_juta_kwj": 9915.1,
+      "tempatan_domestik_juta_kwj": 3039.3,
+      "eksport_juta_kwj": 73.6,
+      "kehilangan_juta_kwj": 1508.6
+    },
+    {
+      "bulan": "2023-01",
+      "jumlah_juta_kwj": 14408.5,
+      "tempatan_juta_kwj": 13054.9,
+      "tempatan_komersial_juta_kwj": 10021.8,
+      "tempatan_domestik_juta_kwj": 3033.1,
+      "eksport_juta_kwj": 77.2,
+      "kehilangan_juta_kwj": 1276.3
+    },
+    {
+      "bulan": "2023-02",
+      "jumlah_juta_kwj": 13450,
+      "tempatan_juta_kwj": 12636.5,
+      "tempatan_komersial_juta_kwj": 9570.6,
+      "tempatan_domestik_juta_kwj": 3065.9,
+      "eksport_juta_kwj": 65.1,
+      "kehilangan_juta_kwj": 748.4
+    },
+    {
+      "bulan": "2023-03",
+      "jumlah_juta_kwj": 15225.6,
+      "tempatan_juta_kwj": 13916.9,
+      "tempatan_komersial_juta_kwj": 10552.5,
+      "tempatan_domestik_juta_kwj": 3364.4,
+      "eksport_juta_kwj": 69.9,
+      "kehilangan_juta_kwj": 1238.8
+    },
+    {
+      "bulan": "2023-04",
+      "jumlah_juta_kwj": 14742.3,
+      "tempatan_juta_kwj": 13555.5,
+      "tempatan_komersial_juta_kwj": 10039.1,
+      "tempatan_domestik_juta_kwj": 3516.4,
+      "eksport_juta_kwj": 61.9,
+      "kehilangan_juta_kwj": 1124.8
+    },
+    {
+      "bulan": "2023-05",
+      "jumlah_juta_kwj": 16090.2,
+      "tempatan_juta_kwj": 14624.2,
+      "tempatan_komersial_juta_kwj": 10913.4,
+      "tempatan_domestik_juta_kwj": 3710.8,
+      "eksport_juta_kwj": 79.5,
+      "kehilangan_juta_kwj": 1386.5
+    },
+    {
+      "bulan": "2023-06",
+      "jumlah_juta_kwj": 15227.2,
+      "tempatan_juta_kwj": 13979.2,
+      "tempatan_komersial_juta_kwj": 10465.1,
+      "tempatan_domestik_juta_kwj": 3514.2,
+      "eksport_juta_kwj": 74.3,
+      "kehilangan_juta_kwj": 1173.7
+    },
+    {
+      "bulan": "2023-07",
+      "jumlah_juta_kwj": 15519.3,
+      "tempatan_juta_kwj": 14244.8,
+      "tempatan_komersial_juta_kwj": 10722.4,
+      "tempatan_domestik_juta_kwj": 3522.4,
+      "eksport_juta_kwj": 67.8,
+      "kehilangan_juta_kwj": 1206.7
+    },
+    {
+      "bulan": "2023-08",
+      "jumlah_juta_kwj": 15629.5,
+      "tempatan_juta_kwj": 14156.7,
+      "tempatan_komersial_juta_kwj": 10714.8,
+      "tempatan_domestik_juta_kwj": 3441.9,
+      "eksport_juta_kwj": 76.3,
+      "kehilangan_juta_kwj": 1396.5
+    },
+    {
+      "bulan": "2023-09",
+      "jumlah_juta_kwj": 15117.8,
+      "tempatan_juta_kwj": 14088,
+      "tempatan_komersial_juta_kwj": 10595.5,
+      "tempatan_domestik_juta_kwj": 3492.5,
+      "eksport_juta_kwj": 80.7,
+      "kehilangan_juta_kwj": 949.1
+    },
+    {
+      "bulan": "2023-10",
+      "jumlah_juta_kwj": 15922.1,
+      "tempatan_juta_kwj": 14466.9,
+      "tempatan_komersial_juta_kwj": 11062.2,
+      "tempatan_domestik_juta_kwj": 3404.8,
+      "eksport_juta_kwj": 91.1,
+      "kehilangan_juta_kwj": 1364
+    },
+    {
+      "bulan": "2023-11",
+      "jumlah_juta_kwj": 15051.4,
+      "tempatan_juta_kwj": 14064.8,
+      "tempatan_komersial_juta_kwj": 10799.5,
+      "tempatan_domestik_juta_kwj": 3265.3,
+      "eksport_juta_kwj": 68,
+      "kehilangan_juta_kwj": 918.6
+    },
+    {
+      "bulan": "2023-12",
+      "jumlah_juta_kwj": 15256.5,
+      "tempatan_juta_kwj": 14189.5,
+      "tempatan_komersial_juta_kwj": 10850.4,
+      "tempatan_domestik_juta_kwj": 3339.1,
+      "eksport_juta_kwj": 81.2,
+      "kehilangan_juta_kwj": 985.8
+    },
+    {
+      "bulan": "2024-01",
+      "jumlah_juta_kwj": 15769.7,
+      "tempatan_juta_kwj": 14511.1,
+      "tempatan_komersial_juta_kwj": 10959.7,
+      "tempatan_domestik_juta_kwj": 3551.4,
+      "eksport_juta_kwj": 69.8,
+      "kehilangan_juta_kwj": 1188.7
+    },
+    {
+      "bulan": "2024-02",
+      "jumlah_juta_kwj": 15119.4,
+      "tempatan_juta_kwj": 14017.1,
+      "tempatan_komersial_juta_kwj": 10341.7,
+      "tempatan_domestik_juta_kwj": 3675.5,
+      "eksport_juta_kwj": 78.5,
+      "kehilangan_juta_kwj": 1023.7
+    },
+    {
+      "bulan": "2024-03",
+      "jumlah_juta_kwj": 16763.3,
+      "tempatan_juta_kwj": 15100.9,
+      "tempatan_komersial_juta_kwj": 11193,
+      "tempatan_domestik_juta_kwj": 3907.8,
+      "eksport_juta_kwj": 86.4,
+      "kehilangan_juta_kwj": 1576.1
+    },
+    {
+      "bulan": "2024-04",
+      "jumlah_juta_kwj": 16229,
+      "tempatan_juta_kwj": 14647.8,
+      "tempatan_komersial_juta_kwj": 10787.4,
+      "tempatan_domestik_juta_kwj": 3860.4,
+      "eksport_juta_kwj": 73,
+      "kehilangan_juta_kwj": 1508.2
+    },
+    {
+      "bulan": "2024-05",
+      "jumlah_juta_kwj": 17089.3,
+      "tempatan_juta_kwj": 15316.2,
+      "tempatan_komersial_juta_kwj": 11468.9,
+      "tempatan_domestik_juta_kwj": 3847.3,
+      "eksport_juta_kwj": 73.7,
+      "kehilangan_juta_kwj": 1699.5
+    },
+    {
+      "bulan": "2024-06",
+      "jumlah_juta_kwj": 15990.3,
+      "tempatan_juta_kwj": 14512.1,
+      "tempatan_komersial_juta_kwj": 10875.7,
+      "tempatan_domestik_juta_kwj": 3636.4,
+      "eksport_juta_kwj": 76.8,
+      "kehilangan_juta_kwj": 1401.3
+    },
+    {
+      "bulan": "2024-07",
+      "jumlah_juta_kwj": 16877.2,
+      "tempatan_juta_kwj": 15266.6,
+      "tempatan_komersial_juta_kwj": 11471.3,
+      "tempatan_domestik_juta_kwj": 3795.3,
+      "eksport_juta_kwj": 78.4,
+      "kehilangan_juta_kwj": 1532.3
+    },
+    {
+      "bulan": "2024-08",
+      "jumlah_juta_kwj": 16668.3,
+      "tempatan_juta_kwj": 15058,
+      "tempatan_komersial_juta_kwj": 11436.8,
+      "tempatan_domestik_juta_kwj": 3621.2,
+      "eksport_juta_kwj": 73.5,
+      "kehilangan_juta_kwj": 1536.9
+    },
+    {
+      "bulan": "2024-09",
+      "jumlah_juta_kwj": 15725.3,
+      "tempatan_juta_kwj": 14302.2,
+      "tempatan_komersial_juta_kwj": 10755.8,
+      "tempatan_domestik_juta_kwj": 3546.3,
+      "eksport_juta_kwj": 73.7,
+      "kehilangan_juta_kwj": 1349.4
+    },
+    {
+      "bulan": "2024-10",
+      "jumlah_juta_kwj": 16227.4,
+      "tempatan_juta_kwj": 14715.3,
+      "tempatan_komersial_juta_kwj": 11066.7,
+      "tempatan_domestik_juta_kwj": 3648.6,
+      "eksport_juta_kwj": 86.2,
+      "kehilangan_juta_kwj": 1425.9
+    },
+    {
+      "bulan": "2024-11",
+      "jumlah_juta_kwj": 15480.9,
+      "tempatan_juta_kwj": 13992.3,
+      "tempatan_komersial_juta_kwj": 10625.7,
+      "tempatan_domestik_juta_kwj": 3366.5,
+      "eksport_juta_kwj": 73.6,
+      "kehilangan_juta_kwj": 1415.1
+    },
+    {
+      "bulan": "2024-12",
+      "jumlah_juta_kwj": 15798,
+      "tempatan_juta_kwj": 14310.1,
+      "tempatan_komersial_juta_kwj": 10882.9,
+      "tempatan_domestik_juta_kwj": 3427.1,
+      "eksport_juta_kwj": 74,
+      "kehilangan_juta_kwj": 1413.9
+    },
+    {
+      "bulan": "2025-01",
+      "jumlah_juta_kwj": 15490.4,
+      "tempatan_juta_kwj": 14253,
+      "tempatan_komersial_juta_kwj": 10823.4,
+      "tempatan_domestik_juta_kwj": 3429.5,
+      "eksport_juta_kwj": 73.8,
+      "kehilangan_juta_kwj": 1163.6
+    },
+    {
+      "bulan": "2025-02",
+      "jumlah_juta_kwj": 14507.4,
+      "tempatan_juta_kwj": 13708.2,
+      "tempatan_komersial_juta_kwj": 10260.8,
+      "tempatan_domestik_juta_kwj": 3447.4,
+      "eksport_juta_kwj": 73.8,
+      "kehilangan_juta_kwj": 725.4
+    },
+    {
+      "bulan": "2025-03",
+      "jumlah_juta_kwj": 16151.5,
+      "tempatan_juta_kwj": 14818.8,
+      "tempatan_komersial_juta_kwj": 11162.3,
+      "tempatan_domestik_juta_kwj": 3656.5,
+      "eksport_juta_kwj": 73.6,
+      "kehilangan_juta_kwj": 1259
+    },
+    {
+      "bulan": "2025-04",
+      "jumlah_juta_kwj": 15657.6,
+      "tempatan_juta_kwj": 14693.5,
+      "tempatan_komersial_juta_kwj": 10946.6,
+      "tempatan_domestik_juta_kwj": 3746.8,
+      "eksport_juta_kwj": 79.1,
+      "kehilangan_juta_kwj": 885
+    },
+    {
+      "bulan": "2025-05",
+      "jumlah_juta_kwj": 16759.3,
+      "tempatan_juta_kwj": 15555.7,
+      "tempatan_komersial_juta_kwj": 11557.8,
+      "tempatan_domestik_juta_kwj": 3997.9,
+      "eksport_juta_kwj": 75.4,
+      "kehilangan_juta_kwj": 1128.2
+    },
+    {
+      "bulan": "2025-06",
+      "jumlah_juta_kwj": 16020.9,
+      "tempatan_juta_kwj": 14959.4,
+      "tempatan_komersial_juta_kwj": 11089.7,
+      "tempatan_domestik_juta_kwj": 3869.7,
+      "eksport_juta_kwj": 76.1,
+      "kehilangan_juta_kwj": 985.5
+    },
+    {
+      "bulan": "2025-07",
+      "jumlah_juta_kwj": 16878.6,
+      "tempatan_juta_kwj": 15701.3,
+      "tempatan_komersial_juta_kwj": 11663.1,
+      "tempatan_domestik_juta_kwj": 4038.1,
+      "eksport_juta_kwj": 76.8,
+      "kehilangan_juta_kwj": 1100.4
+    },
+    {
+      "bulan": "2025-08",
+      "jumlah_juta_kwj": 16537.5,
+      "tempatan_juta_kwj": 15194.7,
+      "tempatan_komersial_juta_kwj": 11430.9,
+      "tempatan_domestik_juta_kwj": 3763.8,
+      "eksport_juta_kwj": 76.2,
+      "kehilangan_juta_kwj": 1266.6
+    },
+    {
+      "bulan": "2025-09",
+      "jumlah_juta_kwj": 15844,
+      "tempatan_juta_kwj": 14358.4,
+      "tempatan_komersial_juta_kwj": 10698.3,
+      "tempatan_domestik_juta_kwj": 3660.1,
+      "eksport_juta_kwj": 76.5,
+      "kehilangan_juta_kwj": 1409.2
+    },
+    {
+      "bulan": "2025-10",
+      "jumlah_juta_kwj": 16598.4,
+      "tempatan_juta_kwj": 15994.9,
+      "tempatan_komersial_juta_kwj": 12226.9,
+      "tempatan_domestik_juta_kwj": 3768,
+      "eksport_juta_kwj": 25.4,
+      "kehilangan_juta_kwj": 578.2
+    },
+    {
+      "bulan": "2025-11",
+      "jumlah_juta_kwj": 16118.3,
+      "tempatan_juta_kwj": 14856.7,
+      "tempatan_komersial_juta_kwj": 11357,
+      "tempatan_domestik_juta_kwj": 3499.8,
+      "eksport_juta_kwj": 103.6,
+      "kehilangan_juta_kwj": 1158
+    },
+    {
+      "bulan": "2025-12",
+      "jumlah_juta_kwj": 16442.8,
+      "tempatan_juta_kwj": 15285.1,
+      "tempatan_komersial_juta_kwj": 11753.7,
+      "tempatan_domestik_juta_kwj": 3531.3,
+      "eksport_juta_kwj": 103.7,
+      "kehilangan_juta_kwj": 1053.9
+    },
+    {
+      "bulan": "2026-01",
+      "jumlah_juta_kwj": 16412.6,
+      "tempatan_juta_kwj": 15401.9,
+      "tempatan_komersial_juta_kwj": 11722.9,
+      "tempatan_domestik_juta_kwj": 3679.1,
+      "eksport_juta_kwj": 76.3,
+      "kehilangan_juta_kwj": 934.4
+    },
+    {
+      "bulan": "2026-02",
+      "jumlah_juta_kwj": 15160.4,
+      "tempatan_juta_kwj": 14482.2,
+      "tempatan_komersial_juta_kwj": 10804.7,
+      "tempatan_domestik_juta_kwj": 3677.5,
+      "eksport_juta_kwj": 75.8,
+      "kehilangan_juta_kwj": 602.4
+    },
+    {
+      "bulan": "2026-03",
+      "jumlah_juta_kwj": 16920.8,
+      "tempatan_juta_kwj": 15594.7,
+      "tempatan_komersial_juta_kwj": 11505.1,
+      "tempatan_domestik_juta_kwj": 4089.6,
+      "eksport_juta_kwj": 79,
+      "kehilangan_juta_kwj": 1247.1
+    },
+    {
+      "bulan": "2026-04",
+      "jumlah_juta_kwj": 17248.3,
+      "tempatan_juta_kwj": 15936.8,
+      "tempatan_komersial_juta_kwj": 11948.5,
+      "tempatan_domestik_juta_kwj": 3988.4,
+      "eksport_juta_kwj": 77.1,
+      "kehilangan_juta_kwj": 1234.5
+    },
+    {
+      "bulan": "2026-05",
+      "jumlah_juta_kwj": 17563.3,
+      "tempatan_juta_kwj": 16530.5,
+      "tempatan_komersial_juta_kwj": 12297.4,
+      "tempatan_domestik_juta_kwj": 4233.1,
+      "eksport_juta_kwj": 77.3,
+      "kehilangan_juta_kwj": 955.6
+    },
+    {
+      "bulan": "2026-06",
+      "jumlah_juta_kwj": 17075.9,
+      "tempatan_juta_kwj": 16144.1,
+      "tempatan_komersial_juta_kwj": 12111.6,
+      "tempatan_domestik_juta_kwj": 4032.4,
+      "eksport_juta_kwj": 77.8,
+      "kehilangan_juta_kwj": 854
+    }
+  ],
+  "meta": {
+    "title": "Penggunaan Elektrik Bulanan Malaysia mengikut Sektor (2018–2026) - Muat turun percuma",
+    "description": "Penggunaan elektrik bulanan di Malaysia dalam juta kilowatt-jam: jumlah keseluruhan, penggunaan tempatan (komersial termasuk industri dan perlombongan, serta domestik termasuk lampu awam), eksport dan kehilangan, daripada data.gov.my. Mengandungi 102 rekod. Muat turun dalam format Excel, CSV, PDF.",
+    "seo_title": "Penggunaan Elektrik Bulanan Malaysia mengikut Sektor (2018–2026) | ListBase",
+    "seo_description": "Muat turun Penggunaan Elektrik Bulanan Malaysia mengikut Sektor (2018–2026) — 102 rekod. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Mengandungi 102 rekod / 7 medan",
+      "Muat turun percuma dalam format Excel, CSV dan PDF",
+      "Sumber data: https://data.gov.my/data-catalogue/electricity_consumption"
+    ]
+  }
+}
