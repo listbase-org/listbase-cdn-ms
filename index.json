@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-26T02:16:08.494Z",
-  "total_datasets": 753,
-  "total_records": 564483,
+  "generated": "2026-11-27T02:16:51.489Z",
+  "total_datasets": 754,
+  "total_records": 564524,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "geography",
@@ -4415,6 +4415,29 @@
         "xlsx": {
           "name": "ms-masakan-cina-malaysia_MS.xlsx",
           "size": 15637
+        }
+      }
+    },
+    {
+      "id": "ms-masakan-india-malaysia",
+      "name": "Hidangan Masakan India Malaysia",
+      "category": "food",
+      "record_count": 41,
+      "columns": [
+        "hidangan",
+        "keterangan"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Masakan_India_Malaysia",
+      "updated": "2026-11",
+      "size": 13255,
+      "files": {
+        "csv": {
+          "name": "ms-masakan-india-malaysia_MS.csv",
+          "size": 9701
+        },
+        "xlsx": {
+          "name": "ms-masakan-india-malaysia_MS.xlsx",
+          "size": 10959
         }
       }
     },
