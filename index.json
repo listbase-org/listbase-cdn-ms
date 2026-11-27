@@ -1,8 +1,8 @@
 {
   "lang": "ms",
-  "generated": "2026-11-27T02:16:51.489Z",
-  "total_datasets": 754,
-  "total_records": 564524,
+  "generated": "2026-11-27T02:17:00.528Z",
+  "total_datasets": 755,
+  "total_records": 564682,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "geography",
@@ -4462,6 +4462,31 @@
         "xlsx": {
           "name": "ms-masakan-sarawak_MS.xlsx",
           "size": 10857
+        }
+      }
+    },
+    {
+      "id": "ms-masakan-singapura",
+      "name": "Hidangan Masakan Singapura",
+      "category": "food",
+      "record_count": 158,
+      "columns": [
+        "hidangan",
+        "nama_asal",
+        "keterangan",
+        "kategori"
+      ],
+      "source": "https://ms.wikipedia.org/wiki/Masakan_Singapura",
+      "updated": "2026-11",
+      "size": 37953,
+      "files": {
+        "csv": {
+          "name": "ms-masakan-singapura_MS.csv",
+          "size": 21995
+        },
+        "xlsx": {
+          "name": "ms-masakan-singapura_MS.xlsx",
+          "size": 17195
         }
       }
     },
